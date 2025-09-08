@@ -1,0 +1,8 @@
+title: Earth-Star Sustainable Smart City
+description: A scalable urban ecosystem for sustainability and AI leadership
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+baseurl: "/EarthStarSmartCity"
+url: "https://drcarver.github.io"
