@@ -1,4 +1,4 @@
-# Earth-Star Industries Facility Project
+# Earth-Star Industries Tile Factory
 
 The Earth-Star Industries Facility is a visionary, self-sufficient, high-rise building designed to embody sustainable abundance through advanced AI, robotics, and closed-loop systems. This 150-meter-tall, 15-floor cylindrical structure (~265,000 m², height-to-diameter ratio ~1 for stability) is optimized for resilience against seismic events (8.0 Richter), Category 5 hurricanes (250 mph), and electromagnetic pulses (>80 dB attenuation). It integrates sustainable technologies, including Enhanced Ceramic Tiles, Smart Studs, NASA-inspired Controlled Ecological Life Support Systems (CELSS), and in-house cleanroom manufacturing. The facility aligns with global sustainability standards, including Green Star 5 Star, Fitwel 3 Star, WELL Silver, LEED Gold, BREEAM Excellent, UN Sustainable Development Goals (SDGs 3, 6, 7, 11, 12), and complies with ISO, NATO, military, and building standards for energy, cybersecurity, and resilience.
 
