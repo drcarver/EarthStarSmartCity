@@ -1,6 +1,6 @@
-title: Earth-Star Sustainable Smart City
+title: Earth-Star Sustainable Abundance
 description: A scalable urban ecosystem for sustainability and AI leadership
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
