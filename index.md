@@ -23,7 +23,7 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
    17-floor tower producing 36,800 tons/year food and non-food products.
 5. [Smart City Ecosystem](docs/smart_city.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-6. [Feasibility and Viability](docs/feasibility.md) 
+6. [Feasibility and Viability](docs/feasability.md) 
     Technical, economic, and regulatory analysis, with 90% feasibility.
 
 
