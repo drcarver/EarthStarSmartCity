@@ -13,17 +13,17 @@ The Earth-Star Sustainable Smart City is a revolutionary modular hub-and-spoke u
 ## Project Components
 Explore the detailed components of the Earth-Star Sustainable Smart City:
 
-1. [Enhanced Ceramic Tiles and Smart Studs](docs/stiles_studs)  
+1. [Enhanced Ceramic Tiles and Smart Studs](docs/stiles_studs.md)  
    Modular building blocks with superior strength, integrated energy, and water systems.
-2. [Sustainable Urban Agriculture](docs/urban_agriculture)  
+2. [Sustainable Urban Agriculture](docs/urban_agriculture.md) 
    Closed-loop systems for households, producing food, water, and energy.
-3. [Luxurious Apartments](docs/apartments)  
+3. [Luxurious Apartments](docs/apartments.md)  
    75 high-rise units with amenities (gym, pool, restaurant) for 150 residents.
-4. [Earth-Star Sustainable Farm](docs/farm_project)  
+4. [Earth-Star Sustainable Farm](docs/farm_project.md)  
    17-floor tower producing 36,800 tons/year food and non-food products.
-5. [Smart City Ecosystem](docs/smart_city)  
+5. [Smart City Ecosystem](docs/smart_city.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-6. [Feasibility and Viability](docs/feasibility)  
+6. [Feasibility and Viability](docs/feasibility.md) 
     Technical, economic, and regulatory analysis, with 90% feasibility.
 
 
