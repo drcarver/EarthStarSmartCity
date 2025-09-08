@@ -32,5 +32,5 @@ The Earth-Star project is open-source, inviting collaboration from innovators, i
 
 ---
 
-**License**: MIT  
+**License**: CC0 1.0 Universal  
 **Last Updated**: September 7, 2025
