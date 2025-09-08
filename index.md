@@ -13,7 +13,7 @@ The Earth-Star Sustainable Smart City is a revolutionary modular hub-and-spoke u
 ## Project Components
 Explore the detailed components of the Earth-Star Sustainable Smart City:
 
-1. [Enhanced Ceramic Tiles and Smart Studs](docs/tiles_studs)  
+1. [Enhanced Ceramic Tiles and Smart Studs](docs/stiles_studs)  
    Modular building blocks with superior strength, integrated energy, and water systems.
 2. [Sustainable Urban Agriculture](docs/urban_agriculture)  
    Closed-loop systems for households, producing food, water, and energy.
