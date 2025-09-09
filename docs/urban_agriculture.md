@@ -1,455 +1,198 @@
-# Sustainable Urban Agriculture System Kit for Earth-Star Industries
-
-The Sustainable Urban Agriculture System is a household-scale, closed-loop solution designed for a U.S. urban household of 4–6 people (e.g., Seattle, Miami). Housed in a 300–500 ft² sunroom, it integrates waste management, water recycling, energy generation, and food production, leveraging Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries Facility. The system processes sewage, organic and non-organic municipal solid waste (MSW), and greywater, producing food, energy, water, and construction tiles while capturing CO₂. Recreational features like an in-ground pool, hot tub, sauna, and outdoor kitchen enhance lifestyle value, making it a hybrid agricultural-recreational hub. The system uses solar, biogas, geothermal, and micro-hydro energy, with automation, odor control, and smart airlocks ensuring urban compatibility and compliance with smart city and sustainable building standards.
-
-This kit-based system reuses Earth-Star’s Tile Kits, Stud Kits, and Farm Kits, supplemented by new kits tailored for household-scale components. All structures are built using Enhanced Ceramic Tiles and Smart Studs, ensuring modularity, resilience, and sustainability.
-
+---
+title: Earth-Star Industries Sustainable Urban Agriculture System Kit
+description: A comprehensive kit for a household-scale, closed-loop urban agriculture system integrated with a sunroom, pool, hot tub, sauna, and outdoor kitchen, using Enhanced Ceramic Tiles and ceramics from the Earth-Star Industries Facility.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+theme: minimal
 ---
 
-## Introduction
+# Earth-Star Industries Sustainable Urban Agriculture System Kit
 
-The Sustainable Urban Agriculture System Kit is a modular, self-contained solution for urban households, delivering food security, energy independence, and waste reduction in a compact, aesthetically pleasing sunroom. It aligns with smart city standards (ISO 37122), sustainable building codes (LEED Gold, WELL Silver, ASHRAE 90.1, ICC 500, NFPA 101), and military-grade security (smart airlocks, NIST 800-53, MIL-STD-461G). The system achieves ~85–95% closed-loop efficiency, minimizing grid reliance and environmental impact while enhancing urban livability.
+The Earth-Star Industries Sustainable Urban Agriculture System Kit is a household-scale, closed-loop system designed for a U.S. urban household (4–6 people, e.g., Seattle, Miami) to process waste, recycle water, generate energy, and produce food within a 300–500 ft² (28–46 m²) sunroom. It integrates a bio-digester, atmospheric water generators (AWGs), greywater processing, aquaponics, vertical farming, algae bioreactors, a NASA-inspired Trash Compaction and Processing System (TCPS), waste-to-energy (WTE) incinerator, and recreational amenities (in-ground pool, hot tub, sauna, outdoor kitchen). Built using Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries Facility, it achieves ~85–95% closed-loop efficiency, supports USDA Organic standards, and complies with smart city standards (ISO 37122), sustainable building codes (LEED Gold, WELL Silver, ASHRAE 90.1, 62.1, ICC 500, NFPA 101), and security requirements (smart airlocks). The kit is flat-packed, automated, odor-controlled, and financed by tile factory revenues.
 
----
+## Kit Overview
+The kit includes all components for a turnkey urban agriculture system, constructed with ceramic-based materials from the tile factory. It is designed for rapid assembly (6–12 months) using DARPA BlockADE snap-together systems, 95% automated via 10 Skydio drones and 5 Optimus-inspired robots with Squad X AI. The system supports a household of 4–6, producing food, water, energy, and construction tiles while capturing CO₂, with recreational features enhancing lifestyle value.
+
+### Kit Components
+- **Tile Kit**: 200 Enhanced Ceramic Tiles (5 m², $10/tile, 200 kg, 10–15 cm thick for sunroom facade/floor, 50 cm for foundation), 50 Window Tiles (transparent SiC-based, 20% PV efficiency, $15/tile).
+- **Stud Kit**: 100 Smart Studs (1 m, $45/stud, 50 kg, ceramic composite with copper wiring, graphene pipes).
+- **Aquaponics Kit**: 1,000-liter ceramic fish tank, 5 m² ceramic plant beds, pumps, biofilters ($2,000).
+- **Vertical Farming Kit**: 5 m² ceramic aeroponic/hydroponic towers, LED lights, nutrient delivery ($1,500).
+- **Bio-Digester Kit**: 5 m³ ceramic digester, biogas storage, carbon filters ($3,000).
+- **AWG Kit**: 3 ceramic-based AWGs (500W each, 15–45 liters/day), humidity sensors ($1,500).
+- **Greywater Kit**: Ceramic filtration/UV system (50–100 liters/day), pipes ($1,000).
+- **Algae Bioreactor Kit**: 150-liter ceramic bioreactors, CO₂ injectors ($1,000).
+- **TCPS Kit**: Ceramic-based compactor, molds for tiles (0.1–0.2 kg/day), water extraction ($2,500).
+- **WTE Kit**: Ceramic incinerator (0.2–0.9 kWh/day electricity, 0.5–3 kWh/day heat), scrubbers ($2,000).
+- **Energy Kit**: 1.5 kW solar PV tiles, 15 m² solar thermal tiles, 2 kW geothermal heat exchanger, 1,000-liter ceramic rooftop tank for micro-hydro, biogas generator ($5,000).
+- **HVAC Kit**: 1.5 kW ceramic heat pump, HEPA/carbon filters ($1,500).
+- **Automation Kit**: Arduino controllers, sensors (temperature, humidity, CO₂, pH, nutrients, waste), IoT integration ($200).
+- **Odor Control Kit**: Carbon filters, scrubbers, ventilation for digester/TCPS/WTE/sunroom ($500).
+- **Recreation Kit**: Ceramic in-ground pool (10x20 ft, 4–8 ft deep, 10,000–15,000 gallons), hot tub (400 gallons, 3–4 ft deep), sauna (4–6 person), outdoor kitchen (biogas stove, ceramic sink, table) ($10,000).
+- **Smart Airlock Kit**: Ceramic airlock with AI-driven weapons/explosives scanning, ISO 37122 security ($2,000).
+
+**Total Kit Cost**: $33,200 (excluding labor, permits).
 
 ## Component Descriptions
+### Bio-Digester (5 m³)
+- **Function**: Processes 2 kg/day organic waste (sewage, food scraps) into 0.3 m³/day biogas (1.5 kWh) and 11 kg/day digestate (fertilizer).
+- **Scale**: Ceramic tank (5 m³), sealed with carbon filters for odor control.
+- **Output**: Biogas powers generator (1.5 kWh/day) or outdoor kitchen stove; digestate fertilizes aquaponics/vertical farming.
 
-### Bio-Digester Kit
-- **Function**: Processes 2 kg/day organic waste (sewage + food scraps) into biogas and digestate.
-- **Scale**: 4–6 m³ ceramic tank (built from 50 Enhanced Ceramic Tiles, 10 Smart Studs).
-- **Output**: 0.2–0.5 m³/day biogas (1–2 kWh), 10–12 kg/day digestate (fertilizer for aquaponics/vertical farming).
-- **Details**: Sealed with carbon scrubbers for odor control; biogas powers generator or outdoor kitchen stove.
+### Atmospheric Water Generators (3 units, 500W each)
+- **Function**: Captures 15–45 liters/day water from pool/sauna humidity (70–90% RH, 80–100°F) and ambient air.
+- **Scale**: Ceramic AWGs integrated into sunroom walls, powered by solar PV.
+- **Output**: 15–45 liters/day for aquaponics, vertical farming, pool top-ups, kitchen.
 
-### Atmospheric Water Generator (AWG) Kit
-- **Function**: Captures 15–45 liters/day water (5–15 liters/unit) from pool/sauna humidity (70–90% RH, 80–100°F) and ambient air.
-- **Scale**: 3 AWG units (500W each, integrated into 30 Enhanced Ceramic Tiles).
-- **Output**: Supplies aquaponics, vertical farming, pool top-ups, and kitchen.
-- **Details**: Powered by solar PV; ceramic microchannels enhance humidity capture.
+### Greywater Processing
+- **Function**: Treats 50–100 liters/day from sinks, showers, laundry, pool, hot tub via ceramic filtration/UV.
+- **Scale**: Compact ceramic system under sunroom floor.
+- **Output**: Recycled water for aquaponics, vertical farming, pool, kitchen.
 
-### Greywater Processing Kit
-- **Function**: Treats 50–100 liters/day greywater from sinks, showers, laundry, pool, and hot tub via filtration/UV.
-- **Scale**: 1 m³ ceramic unit (20 Enhanced Ceramic Tiles, 5 Smart Studs).
-- **Output**: Reusable water for aquaponics, vertical farming, pool, and kitchen.
-- **Details**: UV-C sterilization ensures pathogen-free water; 95–98% recovery.
+### Aquaponics
+- **Function**: Grows fish and crops in a symbiotic system.
+- **Scale**: 1,000-liter ceramic fish tank, 5 m² ceramic plant beds (lettuce, herbs).
+- **Output**: 15 kg/year fish (tilapia), 75 kg/year crops (USDA Organic).
 
-### Aquaponics Kit
-- **Function**: Produces fish and crops using fish waste as nutrients.
-- **Scale**: 500–1,000-liter ceramic fish tank (30 Enhanced Ceramic Tiles, 10 Smart Studs), 5 m² plant beds (20 Enhanced Ceramic Tiles).
-- **Output**: 10–20 kg/year fish (tilapia), 50–100 kg/year crops (lettuce, herbs).
-- **Details**: Reuses Earth-Star Farm Kit components; integrated with greywater and digestate.
+### Vertical Farming
+- **Function**: Grows leafy greens, strawberries in ceramic towers.
+- **Scale**: 5 m² aeroponic/hydroponic towers, LED lights (400–600 µmol/m²/s).
+- **Output**: 300 plants (150 kg/year, USDA Organic).
 
-### Vertical Farming Kit
-- **Function**: Grows high-yield crops in compact towers.
-- **Scale**: 5–10 m² aeroponic/hydroponic towers (40 Enhanced Ceramic Tiles, 15 Smart Studs).
-- **Output**: 100–500 plants (leafy greens, strawberries).
-- **Details**: Uses digestate, fish waste, and greywater; LED lighting (200W) powered by solar PV.
+### Algae Bioreactors (150 liters)
+- **Function**: Captures 0.2 kg/day CO₂ from biogas/WTE/TCPS, produces biomass.
+- **Scale**: Ceramic bioreactors integrated into sunroom walls.
+- **Output**: Biomass for fish feed or fertilizer.
 
-### Algae Bioreactor Kit
-- **Function**: Captures CO₂ and produces biomass for fish feed or fertilizer.
-- **Scale**: 100–200-liter ceramic tubes (20 Enhanced Ceramic Tiles).
-- **Output**: 0.1–0.3 kg/day CO₂ captured, biomass for aquaponics.
-- **Details**: Integrated with biogas/WTE/TCPS CO₂ streams; solar-powered pumps.
+### Trash Compaction and Processing System (TCPS)
+- **Function**: Processes 1–2 kg/day non-organic MSW (plastics, metals, glass, paper) into 0.15 kg/day ceramic tiles and 0.3 liters/day water.
+- **Scale**: Ceramic compactor with molds, 75–90% volume reduction.
+- **Output**: Tiles for pavers, storage, or WTE; water for aquaponics.
 
-### Trash Compaction and Processing System (TCPS) Kit
-- **Function**: Processes 1–2 kg/day non-organic MSW (plastics, metals, glass, paper) into tiles and water.
-- **Scale**: 0.5 m³ ceramic unit (15 Enhanced Ceramic Tiles, 5 Smart Studs).
-- **Output**: 0.1–0.2 kg/day tiles (pavers or WTE fuel), 0.1–0.5 liters/day water.
-- **Details**: NASA-inspired; 75–90% volume reduction; sealed with carbon filters.
+### Waste-to-Energy (WTE) Incinerator
+- **Function**: Burns TCPS tiles/raw MSW for energy.
+- **Scale**: Ceramic incinerator with scrubbers.
+- **Output**: 0.5 kWh/day electricity, 1.5 kWh/day heat; 0.15 kg/day ash (disposed).
 
-### Waste-to-Energy (WTE) Kit
-- **Function**: Burns TCPS tiles or raw MSW for energy.
-- **Scale**: 0.3 m³ ceramic incinerator (10 Enhanced Ceramic Tiles, 3 Smart Studs).
-- **Output**: 0.2–0.9 kWh/day electricity or 0.5–3 kWh/day heat; 0.1–0.2 kg/day ash.
-- **Details**: Ash disposed; heat supports pool, hot tub, sauna.
+### Sunroom (300–500 ft²)
+- **Function**: Houses aquaponics, vertical farming, pool, hot tub, sauna.
+- **Scale**: 28–46 m², built with 200 ceramic tiles, 50 window tiles, 100 studs, smart airlock.
+- **Features**: Insulated for 20–30°C, 60–80% humidity, natural light via window tiles.
 
-### Sunroom Kit
-- **Function**: Houses aquaponics, vertical farming, pool, hot tub, and sauna.
-- **Scale**: 300–500 ft² (28–46 m²), built with 1,000–1,500 Enhanced Ceramic Tiles (10% window tiles), 200–300 Smart Studs.
-- **Components**:
-  - **In-Ground Pool**: 10x20 ft, 4–8 ft deep, 10,000–15,000 gallons (300 Enhanced Ceramic Tiles).
-  - **In-Ground Hot Tub**: 300–500 gallons, 3–4 ft deep (50 Enhanced Ceramic Tiles).
-  - **Sauna**: 4–6 person, ceramic-lined (30 Enhanced Ceramic Tiles).
-- **Details**: Window tiles (15% PV efficiency, 100–120 W/m²) provide light and power; smart airlock scans for weapons/explosives (AES-256 encryption, NIST 800-53).
+### Outdoor Kitchen/Dining (100–200 ft²)
+- **Function**: Cooking/dining with system produce.
+- **Scale**: Ceramic stove (biogas-powered), sink (greywater-fed), table.
+- **Output**: Meals using 15 kg/year fish, 225 kg/year crops.
 
-### Outdoor Kitchen/Dining Kit
-- **Function**: Provides cooking and dining using system produce and biogas.
-- **Scale**: 100–200 ft², built with 200–400 Enhanced Ceramic Tiles, 50–100 Smart Studs.
-- **Output**: Biogas-powered stove/grill, greywater-fed sink, dining table.
-- **Details**: Ceramic pavers from TCPS; integrated with sunroom systems.
+### Energy Systems
+- **Solar PV**: 1.5 kW (7.5 kWh/day) via ceramic tiles powers AWGs, pumps, automation, HVAC.
+- **Solar Thermal**: 15 m² (75 kWh/day) heats pool, hot tub, sauna, sunroom.
+- **Geothermal Heat Exchange**: 2 kW via pool depth (4–8 ft) supplements heating.
+- **Pumped Storage Micro-Hydro**: 1,000-liter ceramic rooftop tank generates 0.1 kWh/day.
+- **Biogas Generator**: 1.5 kWh/day electricity/heat from bio-digester.
+- **WTE**: 0.5 kWh/day electricity, 1.5 kWh/day heat.
+- **Total Output**: 88.1 kWh/day (95–98% self-sufficient, surplus 5–10 kWh/day).
 
-### Energy System Kit
-- **Function**: Powers all components with minimal grid reliance.
-- **Components**:
-  - **Solar PV**: 1–2 kW (6–10 kWh/day) via 50–100 Enhanced Ceramic Tiles.
-  - **Solar Thermal**: 10–20 m² (50–140 kWh/day) via 100–200 Enhanced Ceramic Tiles for pool, hot tub, sauna.
-  - **Geothermal Heat Exchange**: 2–4 kW via pool depth, using ceramic pipes (20 Enhanced Ceramic Tiles).
-  - **Pumped Storage Micro-Hydro**: 1,000-liter rooftop ceramic tank (10 Enhanced Ceramic Tiles), 0.05–0.2 kWh/day.
-  - **Biogas Generator**: 1–2 kWh/day from bio-digester.
-  - **WTE**: 0.2–0.9 kWh/day electricity or 0.5–3 kWh/day heat.
-- **Details**: 95–98% energy needs met; surplus stored in LFP batteries (0.5 kWh/tile).
+### Combined Heat Pump/HVAC (1.5 kW)
+- **Function**: Maintains 20–30°C, 60–80% humidity, air quality (HEPA/carbon filters).
+- **Scale**: Ceramic-based, integrated with geothermal/solar thermal.
 
-### Combined Heat Pump/HVAC Kit
-- **Function**: Maintains 20–30°C, 60–80% humidity, and air quality in sunroom.
-- **Scale**: 1–2 kW, ceramic housing (10 Enhanced Ceramic Tiles).
-- **Details**: Uses geothermal/pool heat, HEPA/carbon filters; powered by solar PV.
+### Automation
+- **Function**: Manages water, nutrients, energy, air via sensors (temperature, humidity, CO₂, pH, nutrients, waste) and Arduino controllers.
+- **Scale**: IoT integration with ISO 37122 smart city standards.
 
-### Automation Kit
-- **Function**: Monitors and controls water, nutrients, energy, and air systems.
-- **Scale**: Sensors (temperature, humidity, CO₂, pH, nutrients, waste volume) and Arduino controllers in 10 Enhanced Ceramic Tiles.
-- **Cost**: $50–200.
-- **Details**: AES-256 encryption; integrates with smart airlock for security alerts.
+### Odor Control
+- **Function**: Ensures urban compatibility.
+- **Scale**: Carbon filters/scrubbers for digester/TCPS/WTE, ventilation for sunroom/kitchen.
 
-### Odor Control Kit
-- **Function**: Ensures urban compatibility by eliminating odors.
-- **Scale**: Carbon filters/scrubbers in TCPS, digester, WTE (5 Enhanced Ceramic Tiles).
-- **Cost**: $100–2,000; ventilation ($100–500).
-- **Details**: Sealed systems prevent odor leakage.
-
-### Smart Airlock Kit
+### Smart Airlock
 - **Function**: Scans for weapons/explosives, alerts security.
-- **Scale**: Ceramic frame (20 Enhanced Ceramic Tiles, 5 Smart Studs) with IoT sensors (100/tile, AES-256, MIL-STD-461G).
-- **Details**: Integrates with smart city systems (ISO 37122); alerts via automation network.
-
----
+- **Scale**: Ceramic-based, AI-driven, ISO 37122-compliant.
 
 ## System Integration
-
-The system achieves ~85–95% closed-loop efficiency through synergistic flows:
-- **Waste**: Organic waste (2 kg/day) to bio-digester; non-organic MSW (1–2 kg/day) to TCPS/WTE. 90–95% recovery; minimal ash/tile disposal.
-- **Water**: AWGs (15–45 liters/day), greywater (50–100 liters/day), TCPS (0.1–0.5 liters/day) supply aquaponics, vertical farming, pool, and kitchen. 95–98% recovery offsets pool evaporation (5–10 liters/day).
-- **Nutrients**: Digestate (10–12 kg/day), fish waste, and algae biomass fertilize aquaponics/vertical farming (80–90% nutrient closure).
-- **Energy**: Solar PV (6–10 kWh/day), solar thermal (50–140 kWh/day), geothermal (2–4 kW), micro-hydro (0.05–0.2 kWh/day), biogas (1–2 kWh/day), WTE (0.2–0.9 kWh/day) power AWGs, pumps, HVAC, automation, pool, hot tub, sauna, and kitchen. 95–98% energy needs met.
-- **Carbon**: Algae bioreactors capture 0.1–0.3 kg/day CO₂ from biogas/WTE/TCPS (80–90% closure).
-
----
-
-## Energy Systems
-
-<table border="1">
-  <tr>
-    <th>Source</th>
-    <th>Output</th>
-    <th>Application</th>
-  </tr>
-  <tr>
-    <td>Solar PV</td>
-    <td>6–10 kWh/day</td>
-    <td>AWGs, pumps, automation, HVAC</td>
-  </tr>
-  <tr>
-    <td>Solar Thermal</td>
-    <td>50–140 kWh/day</td>
-    <td>Pool, hot tub, sauna, sunroom heating</td>
-  </tr>
-  <tr>
-    <td>Geothermal</td>
-    <td>2–4 kW</td>
-    <td>HVAC, pool heating</td>
-  </tr>
-  <tr>
-    <td>Micro-Hydro</td>
-    <td>0.05–0.2 kWh/day</td>
-    <td>Supplemental electricity</td>
-  </tr>
-  <tr>
-    <td>Biogas Generator</td>
-    <td>1–2 kWh/day</td>
-    <td>Backup electricity, kitchen stove</td>
-  </tr>
-  <tr>
-    <td>WTE</td>
-    <td>0.2–0.9 kWh/day electricity, 0.5–3 kWh/day heat</td>
-    <td>Supplemental electricity/heat</td>
-  </tr>
-</table>
-
-Total energy demand (~10–15 kWh/day) is met with minimal grid reliance; surplus stored in LFP batteries.
-
----
+- **Waste**: 90–95% closure; organic waste (2 kg/day) to bio-digester, non-organic (1–2 kg/day) to TCPS/WTE, ash/tiles (0.3 kg/day) disposed/stored.
+- **Water**: 95–98% closure; AWGs (15–45 liters/day), greywater (50–100 liters/day), TCPS (0.3 liters/day) supply aquaponics, vertical farming, pool, kitchen.
+- **Nutrients**: 80–90% closure; digestate (11 kg/day), fish waste, algae biomass fertilize plants.
+- **Energy**: 95–98% closure; solar PV (7.5 kWh/day), thermal (75 kWh/day), geothermal (2 kW), micro-hydro (0.1 kWh/day), biogas (1.5 kWh/day), WTE (0.5–1.5 kWh/day) power all systems, surplus 5–10 kWh/day.
+- **CO₂**: 80–90% closure; algae capture 0.2 kg/day from biogas/WTE/TCPS.
+- **Overall**: ~85–95% closed-loop efficiency.
 
 ## Cost Analysis
-
-### Upfront Costs
-<table border="1">
-  <tr>
-    <th>Component</th>
-    <th>Cost ($)</th>
-  </tr>
-  <tr>
-    <td>Sunroom Kit (1,000–1,500 tiles, 200–300 studs)</td>
-    <td>50,000–75,000</td>
-  </tr>
-  <tr>
-    <td>Bio-Digester Kit (50 tiles, 10 studs)</td>
-    <td>5,000–7,000</td>
-  </tr>
-  <tr>
-    <td>AWG Kit (30 tiles)</td>
-    <td>3,000–6,000</td>
-  </tr>
-  <tr>
-    <td>Greywater Processing Kit (20 tiles, 5 studs)</td>
-    <td>2,000–4,000</td>
-  </tr>
-  <tr>
-    <td>Aquaponics Kit (50 tiles, 10 studs)</td>
-    <td>5,000–10,000</td>
-  </tr>
-  <tr>
-    <td>Vertical Farming Kit (40 tiles, 15 studs)</td>
-    <td>4,000–8,000</td>
-  </tr>
-  <tr>
-    <td>Algae Bioreactor Kit (20 tiles)</td>
-    <td>2,000–4,000</td>
-  </tr>
-  <tr>
-    <td>TCPS Kit (15 tiles, 5 studs)</td>
-    <td>1,500–3,000</td>
-  </tr>
-  <tr>
-    <td>WTE Kit (10 tiles, 3 studs)</td>
-    <td>1,000–2,000</td>
-  </tr>
-  <tr>
-    <td>Outdoor Kitchen Kit (200–400 tiles, 50–100 studs)</td>
-    <td>10,000–20,000</td>
-  </tr>
-  <tr>
-    <td>Energy System Kit (180–330 tiles)</td>
-    <td>15,000–30,000</td>
-  </tr>
-  <tr>
-    <td>HVAC Kit (10 tiles)</td>
-    <td>1,000–2,000</td>
-  </tr>
-  <tr>
-    <td>Automation Kit</td>
-    <td>50–200</td>
-  </tr>
-  <tr>
-    <td>Odor Control Kit</td>
-    <td>200–2,500</td>
-  </tr>
-  <tr>
-    <td>Smart Airlock Kit (20 tiles, 5 studs)</td>
-    <td>2,000–4,000</td>
-  </tr>
-  <tr>
-    <td><b>Total</b></td>
-    <td><b>100,750–177,700</b></td>
-  </tr>
-</table>
-
-**Average Upfront Cost**: ~$139,225 (reduced from $176,850 via subsidies/Tesla partnerships).
-
-### Operating Costs
-<table border="1">
-  <tr>
-    <th>Item</th>
-    <th>Cost ($/year)</th>
-  </tr>
-  <tr>
-    <td>Maintenance (pumps, filters, sensors)</td>
-    <td>1,000–2,500</td>
-  </tr>
-  <tr>
-    <td>Pool Chemicals</td>
-    <td>200–500</td>
-  </tr>
-  <tr>
-    <td>Odor Control (filter replacement)</td>
-    <td>100–500</td>
-  </tr>
-  <tr>
-    <td><b>Total</b></td>
-    <td><b>1,300–3,500</b></td>
-  </tr>
-</table>
-
-### Savings
-<table border="1">
-  <tr>
-    <th>Source</th>
-    <th>Savings ($/year)</th>
-  </tr>
-  <tr>
-    <td>Energy (solar, biogas, WTE)</td>
-    <td>800–2,200</td>
-  </tr>
-  <tr>
-    <td>Water (AWG, greywater)</td>
-    <td>200–400</td>
-  </tr>
-  <tr>
-    <td>Food (crops, fish)</td>
-    <td>300–600</td>
-  </tr>
-  <tr>
-    <td>Waste (reduced disposal fees)</td>
-    <td>100–200</td>
-  </tr>
-  <tr>
-    <td>Carbon Credits</td>
-    <td>0.25–3</td>
-  </tr>
-  <tr>
-    <td>Tile Sales (0.1–0.2 kg/day)</td>
-    <td>50–100</td>
-  </tr>
-  <tr>
-    <td><b>Total</b></td>
-    <td><b>1,450–3,503</b></td>
-  </tr>
-</table>
-
-**Payback Period**: 10–15 years (with 30% subsidies).
-
-### Comparison to Conventional
-- **Conventional Cost**: $90,500–$287,000 upfront (sunroom, pool, hot tub, sauna, kitchen, compactor, HVAC); $4,000–$13,000/year operating.
-- **Advantages**: Integrated system is ~5–25% cheaper upfront, 65–85% cheaper to operate, and produces food, water, energy, tiles, and CO₂ capture.
-
----
+- **CapEx**: $37,200–$44,700:
+  - Tile Kit: $2,750 (200 tiles, 50 window tiles).
+  - Stud Kit: $4,500 (100 studs).
+  - Aquaponics Kit: $2,000.
+  - Vertical Farming Kit: $1,500.
+  - Bio-Digester Kit: $3,000.
+  - AWG Kit: $1,500.
+  - Greywater Kit: $1,000.
+  - Algae Bioreactor Kit: $1,000.
+  - TCPS Kit: $2,500.
+  - WTE Kit: $2,000.
+  - Energy Kit: $5,000.
+  - HVAC Kit: $1,500.
+  - Automation Kit: $200.
+  - Odor Control Kit: $500.
+  - Recreation Kit: $10,000.
+  - Smart Airlock Kit: $2,000.
+  - Assembly (drones, robots): $500–$3,000.
+  - Permits (EPA, zoning): $500–$2,000.
+- **OpEx**: $2,000–$5,000/year (maintenance, pool chemicals, sensors).
+- **Revenue/Savings**: $2,000–$5,000/year:
+  - Energy: $1,000–$2,500 (surplus 5–10 kWh/day at $0.1/kWh).
+  - Water: $300–$600 (15–45 liters/day at $0.05/liter).
+  - Food: $500–$1,000 (165 kg/year at $3–$6/kg).
+  - Waste: $150–$300 (1–2 tons/year at $75–$150/ton).
+  - Carbon Credits: $50–$600 (0.2 kg/day at $0.25–$3/kg).
+- **Conventional Comparison**: $90,500–$287,000 CapEx, $4,000–$13,000/year OpEx (sunroom, pool, hot tub, sauna, kitchen, compactor, HVAC). Kit is 50–85% cheaper upfront, 50–75% cheaper to operate.
+- **Payback**: 8–12 years with 30% tax credits (e.g., ITC for renewables).
 
 ## Environmental Benefits
-
-<table border="1">
-  <tr>
-    <th>Metric</th>
-    <th>Impact</th>
-  </tr>
-  <tr>
-    <td>Waste Reduction</td>
-    <td>~1,095–1,460 kg/year diverted from landfills (3–4 kg/day)</td>
-  </tr>
-  <tr>
-    <td>CO₂ Capture</td>
-    <td>36.5–109.5 kg/year via algae (0.1–0.3 kg/day)</td>
-  </tr>
-  <tr>
-    <td>Water Savings</td>
-    <td>90–95% less than conventional farming (15–45 liters/day produced)</td>
-  </tr>
-  <tr>
-    <td>Energy Savings</td>
-    <td>95–98% self-sufficient (10–15 kWh/day)</td>
-  </tr>
-  <tr>
-    <td>Methane Reduction</td>
-    <td>0.2–0.5 m³/day biogas captured, reducing emissions</td>
-  </tr>
-</table>
-
----
+- **Waste Reduction**: Processes 1,095–1,460 kg/year organic/non-organic waste, reducing landfill use (~140 million tons/year U.S.).
+- **CO₂ Capture**: 73 kg/year via algae bioreactors.
+- **Water Savings**: 95–98% recycling, 18,250–36,500 liters/year vs. conventional 100–1,000 liters/kg food.
+- **Energy Savings**: 95–98% self-sufficient, surplus 1,825–3,650 kWh/year.
+- **Methane Reduction**: Bio-digester captures 0.2–0.5 m³/day, reducing emissions (~30% of U.S. methane).
 
 ## Feasibility and Challenges
+- **Feasibility**: High (technical: 95%, environmental: 95%, economic: 80%).
+  - Technical: Synergistic components leverage pool humidity (AWGs), depth (geothermal), waste (TCPS/WTE).
+  - Environmental: Reduces waste, water, energy, and CO₂ footprint.
+  - Economic: High CapEx offset by low OpEx, subsidies, and tile factory financing.
+- **Challenges and Mitigation**:
+  - **High CapEx ($37,200–$44,700)**: Secure 30% ITC, tile factory funding ($1.01–$1.06B/year from hub).
+  - **Regulatory Permits (EPA, zoning)**: Hire compliance experts ($5,000/year), streamline via centralized audits.
+  - **Tile Disposal**: Store tiles or use in WTE; develop local tile recycling hubs ($10,000).
+  - **Urban Space**: Fit within 300–500 ft²; use rooftop for micro-hydro tank, vertical greenery.
+  - **Odor Control**: Carbon filters, scrubbers, ventilation ($500) ensure urban compatibility.
 
-### Feasibility
-- **Technical**: High; synergistic components leverage pool depth (geothermal, micro-hydro), humidity (AWGs), and waste (TCPS/WTE).
-- **Environmental**: High; reduces landfill waste, methane, water use, and CO₂.
-- **Economic**: Medium; high upfront costs offset by savings and subsidies.
-- **Regulatory**: Medium; EPA permits for TCPS/WTE, zoning for pool/sunroom.
-
-### Challenges and Solutions
-1. **High Costs**: Mitigated by 30% subsidies ($30,000–$50,000) and Tesla partnerships ($5,000 savings on batteries/PV).
-2. **Regulatory Permits**: Engage local authorities ($500/year) for streamlined EPA/zoning approvals.
-3. **Space Constraints**: Modular kits fit small urban spaces (300–500 ft²); rooftop options for apartments.
-4. **Tile Disposal**: Sell surplus tiles ($50–100/year) or use as pavers.
-5. **Odor Control**: Enhanced carbon scrubbers ($500) ensure urban compatibility.
-
-### Viability Enhancements
-- **Subsidies**: Secured $40,000, reducing upfront cost to $100,750–$137,700.
-- **Tesla Partnerships**: Integrated Tesla solar tiles/batteries, saving $5,000.
-- **Tile Sales**: Market 0.1–0.2 kg/day tiles, adding $50–100/year.
-- **Modular Kits**: Standardized for faster installation ($1,000 savings).
-- **Regulatory Engagement**: Streamlined permits, increasing feasibility to 90%.
-- **Certifications**: Secured LEED Gold, WELL Silver ($200/year), boosting credibility.
-
----
+## Viability Enhancements
+- **Subsidies**: 30% ITC for solar, geothermal ($10,000–$12,000 savings).
+- **Tile Factory Integration**: Kits supplied at cost, financed by hub revenues.
+- **Modular Design**: Standard kits reduce assembly time/cost ($500 savings).
+- **Partnerships**: Tesla for solar/geothermal components ($1,000 savings), local utilities for energy credits.
+- **Sales**: Tiles ($1,000/year), surplus energy ($1,000–$2,500/year).
 
 ## Practical Example: Seattle Household
-
-- **Setup**: 400 ft² sunroom, 10x20 ft pool, 400-gallon hot tub, 4-person sauna, 150 ft² kitchen.
-- **Inputs**:
-  - Organic waste: 2 kg/day (sewage + food scraps).
-  - Non-organic MSW: 1–2 kg/day.
-  - Greywater: 50 liters/day.
+- **Setup**: 400 ft² sunroom, 10x20 ft pool (6 ft deep, 12,500 gallons), 400-gallon hot tub, 4-person sauna, 150 ft² outdoor kitchen.
+- **Inputs**: 2 kg/day organic waste, 1–2 kg/day non-organic MSW, 50–100 liters/day greywater.
 - **Outputs**:
-  - Food: 100 kg/year crops, 10 kg/year tilapia.
-  - Water: 15–45 liters/day (AWGs, greywater, TCPS).
-  - Energy: 10–15 kWh/day (solar, biogas, WTE, geothermal, micro-hydro).
-  - Tiles: 0.1–0.2 kg/day (pavers or WTE fuel).
-  - CO₂ Capture: 0.1–0.3 kg/day.
-- **Costs**: $120,000 upfront (with $40,000 subsidy), $2,000/year operating.
-- **Savings**: $2,500/year (energy: $1,500, water: $300, food: $450, waste: $150, tiles: $75, carbon credits: $1).
-- **Payback**: ~12 years.
+  - Food: 15 kg/year fish, 225 kg/year crops (USDA Organic).
+  - Water: 30 liters/day (AWGs, greywater, TCPS).
+  - Energy: 88.1 kWh/day (surplus 7.5 kWh/day).
+  - Tiles: 0.15 kg/day (pavers or WTE).
+  - CO₂ Capture: 0.2 kg/day (73 kg/year).
+- **Savings**: $3,500/year (energy: $2,000, water: $450, food: $750, waste: $225, carbon credits: $75).
+- **Cost**: $40,950 CapEx, $3,500/year OpEx.
+- **Payback**: 9 years with subsidies.
 
----
+## Construction and Integration
+- **Timeline**:
+  - Months 1–3: Permits (EPA, zoning), site prep ($2,500).
+  - Months 4–6: Sunroom construction (tiles, studs, airlock) via drones/robots ($10,000).
+  - Months 7–9: Install kits (aquaponics, vertical farming, digester, AWGs, greywater, bioreactors, TCPS, WTE, energy, HVAC, automation, odor control, recreation) ($25,200–$32,700).
+  - Months 10–12: Test systems, certify USDA Organic, begin production ($2,000).
+- **Integration with Tile Factory**: Kits supplied at cost, feedstock (tiles, bio-silica) sent to factory for ceramics/semiconductors.
+- **Smart City Standards**: ISO 37122-compliant IoT, airlock security, fiber-optic internet (1 TB/s, scalable to 10 TB/s) via smart roads from tile factory.
 
-## Kit Composition
-
-### Reused Kits (From Earth-Star Facility)
-- **Tile Kit**: 100 Enhanced Ceramic Tiles ($1,000), used for sunroom, pool, hot tub, sauna, kitchen, and component housings.
-- **Stud Kit**: 50 Smart Studs ($2,250), for structural connections and utility distribution.
-- **Farm Kit**: Hydroponic/aeroponic trays, RAS tanks for aquaponics/vertical farming ($5,000–$10,000).
-
-### New Kits
-- **Bio-Digester Kit**: 50 tiles, 10 studs, carbon scrubbers ($5,000–$7,000).
-- **AWG Kit**: 30 tiles with integrated AWGs ($3,000–$6,000).
-- **Greywater Processing Kit**: 20 tiles, 5 studs, UV-C system ($2,000–$4,000).
-- **Algae Bioreactor Kit**: 20 tiles, tubing ($2,000–$4,000).
-- **TCPS Kit**: 15 tiles, 5 studs, compaction unit ($1,500–$3,000).
-- **WTE Kit**: 10 tiles, 3 studs, incinerator ($1,000–$2,000).
-- **Energy System Kit**: 180–330 tiles for PV, thermal, geothermal, micro-hydro ($15,000–$30,000).
-- **HVAC Kit**: 10 tiles, HEPA/carbon filters ($1,000–$2,000).
-- **Automation Kit**: Sensors, Arduino controllers ($50–$200).
-- **Odor Control Kit**: Carbon scrubbers, ventilation ($200–$2,500).
-- **Smart Airlock Kit**: 20 tiles, 5 studs, IoT sensors ($2,000–$4,000).
-
-**Total Tiles**: 1,563–2,208 (10% window tiles, 5% stealth tiles for security).
-**Total Studs**: 303–451.
-
----
-
-## Standards Compliance
-
-<table border="1">
-  <tr>
-    <th>Standard</th>
-    <th>Application</th>
-  </tr>
-  <tr>
-    <td>LEED Gold, WELL Silver</td>
-    <td>Sustainable design, occupant health</td>
-  </tr>
-  <tr>
-    <td>UN SDGs 3, 6, 7, 11, 12</td>
-    <td>Health, water, energy, cities, consumption</td>
-  </tr>
-  <tr>
-    <td>ISO 37122</td>
-    <td>Smart city integration</td>
-  </tr>
-  <tr>
-    <td>ISO 27001</td>
-    <td>Cybersecurity for IoT/automation</td>
-  </tr>
-  <tr>
-    <td>NIST 800-53, MIL-STD-461G</td>
-    <td>Smart airlock security, EMP protection</td>
-  </tr>
-  <tr>
-    <td>ASHRAE 90.1, 62.1</td>
-    <td>Energy efficiency, ventilation</td>
-  </tr>
-  <tr>
-    <td>ICC 500, NFPA 101</td>
-    <td>Storm resistance, life safety</td>
-  </tr>
-</table>
-
----
-
-## Conclusion
-
-The Sustainable Urban Agriculture System Kit is a compact, modular solution for urban households, delivering food, water, energy, and waste management in a 300–500 ft² sunroom. Built with Earth-Star’s Enhanced Ceramic Tiles and Smart Studs, it achieves ~85–95% closed-loop efficiency, reducing environmental impact and operating costs. With an average cost of $139,225, savings of $1,450–$3,503/year, and a 12-year payback (with subsidies), it offers a viable, scalable model for urban sustainability. Smart airlocks and compliance with smart city standards ensure security and urban compatibility, while applied enhancements (subsidies, Tesla partnerships, tile sales) address cost and regulatory bottlenecks.
+## License
+This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
