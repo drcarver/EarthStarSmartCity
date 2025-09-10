@@ -15,17 +15,19 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
 
 1. [Enhanced Ceramic Tiles and Smart Studs](docs/stiles_studs.md)  
    Modular building blocks with superior strength, integrated energy, and water systems.
-2. [Sustainable Urban Agriculture](docs/urban_agriculture.md) 
+2. [Manufacturing of tiles and kits](docs/tilesandkits.md) 
+   Manufacturing of tiles and kits
+3. [Sustainable Urban Agriculture](docs/urban_agriculture.md) 
    Closed-loop systems for households, producing food, water, and energy.
-3. [Earth-Star Sustainable Farm](docs/farm_project.md)  
+4. [Earth-Star Sustainable Farm](docs/farm_project.md)  
    17-floor tower producing 36,800 tons/year food and non-food products.
-4. [Smart City Ecosystem](docs/smart_city.md) 
+5. [Smart City Ecosystem](docs/smart_city.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-5. [Feasibility and Viability](docs/feasability.md) 
+6. [Feasibility and Viability](docs/feasability.md) 
     Technical, economic, and regulatory analysis, with 90% feasibility.
-6. [Landfills](docs/landfill.md) 
+7. [Landfills](docs/landfill.md) 
     Remediate and cleamup all landfills and contaminated sites nationwide and instittee sustainable mining when required.
-7. [Reslence](docs/Resilience.md) 
+8. [Reslence](docs/Resilience.md) 
     City resilence to man made and natural disaters.
 
 
