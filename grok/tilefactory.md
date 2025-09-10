@@ -265,4 +265,4 @@ Kits are flat-packed, modular assemblies for construction, furnishings, and syst
 - **Waste Management**: Supercritical CO₂ recycling ensures >95% material recovery.
 - **Energy Efficiency**: Bio-based binders, low-energy HIP, and heat recovery (HP/HVAC tiles) reduce energy use by 30% vs. traditional ceramics.
 
----
+Create a GitHub page uses the minimal Jekyll theme for table compatibility in older browsers and includes the Creative Commons Attribution-ShareAlike 4.0 International License.
