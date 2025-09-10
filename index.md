@@ -23,7 +23,7 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
 5. [Feasibility and Viability](docs/feasability.md) 
     Technical, economic, and regulatory analysis, with 90% feasibility.
-6. [Reslence](docs/resilence.md) 
+6. [Reslence](docs/Resilience.md) 
     City resilence to man made and natural disaters.
 
 
