@@ -17,14 +17,14 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
    Modular building blocks with superior strength, integrated energy, and water systems.
 2. [Sustainable Urban Agriculture](docs/urban_agriculture.md) 
    Closed-loop systems for households, producing food, water, and energy.
-3. [Luxurious Apartments](docs/apartments.md)  
-   75 high-rise units with amenities (gym, pool, restaurant) for 150 residents.
-4. [Earth-Star Sustainable Farm](docs/farm_project.md)  
+3. [Earth-Star Sustainable Farm](docs/farm_project.md)  
    17-floor tower producing 36,800 tons/year food and non-food products.
-5. [Smart City Ecosystem](docs/smart_city.md) 
+4. [Smart City Ecosystem](docs/smart_city.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-6. [Feasibility and Viability](docs/feasability.md) 
+5. [Feasibility and Viability](docs/feasability.md) 
     Technical, economic, and regulatory analysis, with 90% feasibility.
+6. [Reslence](docs/resilence.md) 
+    City resilence to man made and natural disaters.
 
 
 ## Get Involved
