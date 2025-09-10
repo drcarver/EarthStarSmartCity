@@ -70,3 +70,5 @@ Comparisons: vs. traditional (acid leaching/Siemens): 40-70% lower energy/emissi
 Challenges: Sand variability, tech maturity (bio-leaching/plasma 5-10 years old in pilots).
 Output a detailed plan including: Site selection criteria, phased timeline (pilot to full scale), partnerships, risk mitigation, environmental compliance, financial model, and Gantt chart for setup."
 
+Format the response as a single github page.  se a minimal them so tables are properly displayed in older browsers.  Use Creative commons license
+
