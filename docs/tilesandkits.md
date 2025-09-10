@@ -5,27 +5,26 @@ theme: jekyll-theme-minimal
 license: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-# Earth-Star Industries Tile Manufacturing Facility - Detailed Specifications for Tiles, Studs, and Kits
+# Earth-Star Industries Tile Manufacturing Facility - Detailed Specifications
 
 *License*: This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material, provided you give appropriate credit, indicate changes, and distribute any derivative works under the same license.
 
 ---
 
-## 1. Overview
+## Overview
 
-This document provides a detailed description of **Enhanced Ceramic Tiles**, **Smart Studs**, and **Kits** produced at the Earth-Star Industries Facility, a self-sufficient high-rise designed for sustainable urban living. It includes their specifications, input materials, and manufacturing processes, leveraging 2025 scalable technologies such as advanced ceramics, organic electronics, and closed-loop sustainability. A specialized **Heat Pump/HVAC Tile** is included for thermal management, along with dedicated kits for cleanroom equipment.
+This document provides a detailed description of **Enhanced Ceramic Tiles**, **Smart Studs**, and **Kits** produced at the Earth-Star Industries Facility, a self-sufficient high-rise designed for sustainable urban living. It includes their specifications, input materials, manufacturing processes, and the manufacturing lines required, all leveraging 2025 scalable technologies such as advanced ceramics, organic electronics, and closed-loop sustainability. A specialized **Heat Pump/HVAC Tile** is included for thermal management, along with dedicated cleanroom equipment kits.
 
 ---
 
-## 2. Enhanced Ceramic Tiles
+## 1. Enhanced Ceramic Tiles
 
-### 2.1 Description and Specifications
+### 1.1 Description and Specifications
 
 **Quantity**: 171,750 units (5 m² each, 200 kg)  
-**Purpose**: Primary construction material for facade, floors, walls, windows, and foundation, with integrated functionalities such as photovoltaic cells, energy storage, and atmospheric water generation (AWG).  
-**Failure Rate**: 1% annually (1,718 tiles/year replaced).
-
-#### Tile Types
+**Total Cost**: $1.7175M ($10/tile)  
+**Purpose**: Primary construction material for facade, floors, walls, windows, and foundation, with integrated functionalities like photovoltaics, water generation, and EMP shielding.  
+**Failure Rate**: 1% annually (1,718 tiles/year replaced, $150/tile: $100 recycling, $50 robotic labor).
 
 | Tile Type          | Quantity      | Thickness                     | Composition                              | Properties                                                                 |
 |--------------------|---------------|-------------------------------|------------------------------------------|---------------------------------------------------------------------------|
@@ -46,12 +45,12 @@ This document provides a detailed description of **Enhanced Ceramic Tiles**, **S
 
 **Heat Pump/HVAC Tile Specifics**:
 - **Purpose**: Thermal management for kilns, heat sources, and cleanrooms.
-- **Cooling/Heating Capacity**: 5 kW per tile, integrated heat pump with graphene-based heat exchangers.
+- **Cooling/Heating Capacity**: 5 kW per tile, using graphene-based heat exchangers.
 - **Airflow**: 500 m³/h, variable air volume (VAV) with HEPA filtration (ISO 1–8 compatible).
 - **Heat Recovery**: 80% efficiency via thermoelectric generators and microchannel heat exchangers.
 - **Applications**: Deployed around HIP kilns, CVD reactors, and cleanrooms to maintain 20–25°C and <50% humidity.
 
-### 2.2 Input Materials
+### 1.2 Input Materials
 
 | Material                | Quantity (per tile) | Source                                  | Purpose                                      |
 |-------------------------|---------------------|-----------------------------------------|----------------------------------------------|
@@ -67,22 +66,22 @@ This document provides a detailed description of **Enhanced Ceramic Tiles**, **S
 | PEDOT:PSS               | 0.05 kg (0.1 kg for HVAC) | In-house organic electronics            | IoT sensors, organic semiconductors          |
 | Heat Pump Components    | 5 kg (HVAC tiles)   | In-house graphene, recycled metals      | Heat exchange, compressor functionality      |
 
-### 2.3 Manufacturing Process
+### 1.3 Manufacturing Process
 
 1. **Raw Material Preparation**:
    - **SiC, Al₂O₃, ZrO₂**: Sourced from recycled e-waste and industrial waste via electrodialysis and acid leaching. Purified to >90% using supercritical CO₂ processing.
    - **Graphene/CNTs**: Synthesized in-house via chemical vapor deposition (CVD) at 900–1,000°C with methane feedstock from anaerobic digestion.
-   - **Transparent SiO₂-Al₂O₃**: Sourced externally (Year 1); in-house purification by Year 2 using recycled glass/waste silica.
+   - **Transparent SiO₂-Al₂O₃**: External silica sourced in Year 1; in-house purification by Year 2 using recycled glass/waste silica.
    - **Perovskite PV**: Solution-based deposition, annealed at 150°C.
    - **Bio-based Binders**: Derived from lignin/cellulose via in-house biomass processing.
    - **Heat Pump Components**: Graphene-based heat exchangers and compressors fabricated via additive manufacturing.
 
 2. **Ceramic Formation**:
-   - **Mixing**: Materials blended (60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ for standard/stealth/foundation; SiO₂-Al₂O₃ for clear; 50% SiC, 20% Al₂O₃, 20% graphene/CNTs, 10% ZrO₂ for HVAC) with bio-based binders.
-   - **Hot Isostatic Pressing (HIP)**: Pressed at 1,600–1,800°C, 80–150 MPa to form dense ceramic tiles with 0.5 mm microchannels.
-   - **Clear Tiles**: Spin-coating of SiO₂-Al₂O₃, followed by perovskite PV deposition and low-emissivity coating.
-   - **Stealth Tiles**: Graphene coating applied via plasma-enhanced CVD for >90% absorption at 2–18 GHz.
-   - **HVAC Tiles**: Integrated graphene heat exchangers and microchannel VAV systems during HIP.
+   - **Mixing**: Blend materials (60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ for standard/stealth/foundation; SiO₂-Al₂O₃ for clear; 50% SiC, 20% Al₂O₃, 20% graphene/CNTs, 10% ZrO₂ for HVAC) with bio-based binders.
+   - **Hot Isostatic Pressing (HIP)**: Press at 1,600–1,800°C, 80–150 MPa to form dense ceramic tiles with 0.5 mm microchannels.
+   - **Clear Tiles**: Spin-coating of SiO₂-Al₂O₃, perovskite PV deposition, low-emissivity coating.
+   - **Stealth Tiles**: Graphene coating via plasma-enhanced CVD for >90% absorption (2–18 GHz).
+   - **HVAC Tiles**: Integrate graphene heat exchangers and microchannel VAV systems during HIP.
 
 3. **Integration of Functional Components**:
    - **Photovoltaic Cells**: Perovskite (clear) or silicon-based PV (standard/foundation) integrated during HIP.
@@ -93,28 +92,29 @@ This document provides a detailed description of **Enhanced Ceramic Tiles**, **S
    - **Heat Pump/HVAC Systems**: Graphene heat exchangers, compressors, and HEPA filters embedded during HIP, connected to VAV ducts.
 
 4. **Finishing**:
-   - Tiles polished for uniformity.
-   - BlockADE snapping mechanisms molded for modular assembly.
-   - Quality control via AI-driven inspection (95% automation, MIL-STD-461G, ISO 14644-1 compliant).
-   - HVAC tiles tested for thermal performance (5 kW, 80% heat recovery).
+   - Polish tiles for uniformity.
+   - Mold BlockADE snapping mechanisms for modular assembly.
+   - Conduct AI-driven quality control (95% automation, MIL-STD-461G, ISO 14644-1 compliant).
+   - Test HVAC tiles for thermal performance (5 kW, 80% heat recovery).
 
 5. **Recycling**:
-   - Failed tiles (1% annually) processed via supercritical CO₂ to recover 95% of materials.
+   - Process failed tiles (1% annually) via supercritical CO₂ to recover 95% of materials.
 
 ---
 
-## 3. Smart Studs
+## 2. Smart Studs
 
-### 3.1 Description and Specifications
+### 2.1 Description and Specifications
 
 **Quantity**: 25,000 units (1 m length, 10 cm diameter, 50 kg)  
+**Total Cost**: $1.125M ($45/stud)  
 **Purpose**: Structural framing, interlocking with foundation tiles, distributing power, water, and methane via internal conduits.  
 **Specifications**:
 - **Material**: 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂.
 - **Features**: Copper wiring (power), graphene-reinforced pipes (water/methane), BlockADE-compatible sockets.
 - **Properties**: 2,800 MPa compressive strength, >80 dB EMP shielding, AES-256 encrypted sensors.
 
-### 3.2 Input Materials
+### 2.2 Input Materials
 
 | Material                | Quantity (per stud) | Source                                  | Purpose                                      |
 |-------------------------|--------------------|-----------------------------------------|----------------------------------------------|
@@ -127,52 +127,50 @@ This document provides a detailed description of **Enhanced Ceramic Tiles**, **S
 | Bio-based Binders       | 0.05 kg            | In-house lignin/cellulose production    | Ceramic binding                             |
 | PEDOT:PSS               | 0.02 kg            | In-house organic electronics            | Embedded sensors                            |
 
-### 3.3 Manufacturing Process
+### 2.3 Manufacturing Process
 
 1. **Raw Material Preparation**:
-   - **SiC, Al₂O₃, ZrO₂**: Sourced from recycled e-waste and industrial waste, purified via electrodialysis and acid leaching to >90% using supercritical CO₂.
-   - **Graphene/CNTs**: Synthesized in-house via CVD at 900–1,000°C with methane feedstock.
+   - **SiC, Al₂O₃, ZrO₂**: Sourced and purified as per tiles.
    - **Copper**: Recycled e-waste, drawn into wires.
    - **Graphene Pipes**: Fabricated via roll-to-roll CVD.
-   - **Bio-based Binders**: Derived from lignin/cellulose via in-house biomass processing.
-   - **PEDOT:PSS**: Synthesized in-house for organic electronics.
+   - **Bio-based Binders, PEDOT:PSS**: Prepared as per tiles.
 
 2. **Stud Formation**:
-   - **Mixing**: Ceramic composite (60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂) blended with bio-based binders.
-   - **Extrusion**: Extruded into 1 m cylindrical studs (10 cm diameter) with internal channels for wiring and pipes.
-   - **HIP**: Pressed at 1,600–1,800°C, 80–150 MPa for high density.
-   - **Integration**: Copper wiring and graphene pipes inserted during extrusion, connected to BlockADE sockets.
+   - **Mixing**: Blend ceramic composite with bio-based binders.
+   - **Extrusion**: Extrude into 1 m cylindrical studs (10 cm diameter) with internal channels.
+   - **HIP**: Press at 1,600–1,800°C, 80–150 MPa for high density.
+   - **Integration**: Insert copper wiring and graphene pipes during extrusion, connect to BlockADE sockets.
 
 3. **Finishing**:
-   - PEDOT:PSS sensors (AES-256 encrypted) added via inkjet printing.
-   - BlockADE sockets molded for tile interlocking.
-   - AI-driven quality control ensures MIL-STD-461G compliance.
+   - Add PEDOT:PSS sensors (AES-256) via inkjet printing.
+   - Mold BlockADE sockets for tile interlocking.
+   - Perform AI-driven quality control (MIL-STD-461G compliant).
 
 4. **Recycling**:
-   - Defective studs recycled via supercritical CO₂, recovering 95% of materials.
+   - Recycle defective studs via supercritical CO₂, recovering 95% of materials.
 
 ---
 
-## 4. Kits and In-House Products
+## 3. Kits and In-House Products
 
-### 4.1 Description and Specifications
+### 3.1 Description and Specifications
 
 Kits are flat-packed, modular assemblies for construction, furnishings, and systems, produced in-house using ceramics, organic electronics (PEDOT:PSS semiconductors, lignin-based PCBs), and cleanroom equipment.
 
-| Kit Type                | Contents                                              | Coverage/Units            |
-|-------------------------|-------------------------------------------------------|---------------------------|
-| Tile Kit                | 100 tiles (mixed standard/clear/stealth/foundation/HVAC), snapping guides | 500 m²                    |
-| Stud Kit                | 50 studs, wiring/pipes                               | 50 m connections          |
-| Apartment Kit           | Ceramic furniture (beds, tables), cookware, fixtures, hemp linens, organic electronics (LED/TV, fridge/oven) | 1 luxury unit (100 m²) |
-| Farm Kit                | Ceramic hydro/aeroponic trays, RAS aquaponic tanks   | 100 m², 1.67 tons/year    |
-| Cleanroom Kit           | HEPA/VAV systems, ISO 1–8 ceramic partitions, HVAC tiles | 100 m²                    |
-| Cleanroom Equipment Kit | HIP presses, CVD reactors, inkjet printers, supercritical CO₂ recyclers | 1 cleanroom line         |
-| Processing Kit          | Ovens/looms for waste/furniture/textiles             | 1 line                    |
-| Office Kit              | Ceramic desks/chairs, organic electronics            | 10 workstations            |
-| Amenity Kit             | Ceramic gym/pool/sauna/hot tub/restaurant fixtures   | Full facility             |
-| Airlock Kit             | AI-driven smart airlocks (weapon/explosive/biometric scanners) | 1 entry          |
+| Kit Type                | Contents                                              | Coverage/Units            | Cost ($) | Sell Price ($) |
+|-------------------------|-------------------------------------------------------|---------------------------|----------|----------------|
+| Tile Kit                | 100 tiles (mixed standard/clear/stealth/foundation/HVAC), snapping guides | 500 m²                    | 1,000    | 1,500          |
+| Stud Kit                | 50 studs, wiring/pipes                               | 50 m connections          | 2,250    | 3,375          |
+| Apartment Kit           | Ceramic furniture (beds, tables), cookware, fixtures, hemp linens, organic electronics (LED/TV, fridge/oven) | 1 luxury unit (100 m²) | 20,000   | 30,000         |
+| Farm Kit                | Ceramic hydro/aeroponic trays, RAS aquaponic tanks   | 100 m², 1.67 tons/year    | 5,000    | 7,500          |
+| Cleanroom Kit           | HEPA/VAV systems, ISO 1–8 ceramic partitions, HVAC tiles | 100 m²                    | 10,000   | 15,000         |
+| Cleanroom Equipment Kit | HIP presses, CVD reactors, inkjet printers, supercritical CO₂ recyclers | 1 cleanroom line         | 100,000  | 150,000        |
+| Processing Kit          | Ovens/looms for waste/furniture/textiles             | 1 line                    | 50,000   | 75,000         |
+| Office Kit              | Ceramic desks/chairs, organic electronics            | 10 workstations            | 5,000    | 7,500          |
+| Amenity Kit             | Ceramic gym/pool/sauna/hot tub/restaurant fixtures   | Full facility             | 2,000,000| N/A (internal) |
+| Airlock Kit             | AI-driven smart airlocks (weapon/explosive/biometric scanners) | 1 entry          | 10,000   | 15,000         |
 
-### 4.2 Input Materials
+### 3.2 Input Materials
 
 | Kit Type                | Key Materials                                   | Source                                  | Purpose                                      |
 |-------------------------|------------------------------------------------|-----------------------------------------|----------------------------------------------|
@@ -187,57 +185,110 @@ Kits are flat-packed, modular assemblies for construction, furnishings, and syst
 | Amenity Kit             | Ceramic composites, RAS components             | In-house ceramics, RAS production       | Gym, pool, restaurant fixtures               |
 | Airlock Kit             | Ceramic composites, PEDOT:PSS, AI processors   | In-house ceramics/electronics           | Secure entry systems, biometric scanning     |
 
-### 4.3 Manufacturing Process
+### 3.3 Manufacturing Process
 
 1. **Tile Kit**:
-   - **Production**: Tiles (standard, clear, stealth, foundation, HVAC) manufactured as in Section 2.3. BlockADE snapping guides molded via HIP.
-   - **Assembly**: Flat-packed with AI-generated instructions (95% automation).
+   - **Production**: Manufacture tiles (including HVAC) as in Section 1.3. Package with BlockADE snapping guides.
+   - **Assembly**: Flat-pack with AI-generated instructions (95% automation).
 
 2. **Stud Kit**:
-   - **Production**: Studs manufactured as in Section 3.3. Copper wiring and graphene pipes bundled separately.
-   - **Assembly**: Packaged with connectors and AI-driven guides.
+   - **Production**: Manufacture studs as in Section 2.3. Bundle copper wiring and graphene pipes.
+   - **Assembly**: Package with connectors and AI-driven guides.
 
 3. **Apartment Kit**:
-   - **Ceramic Furniture/Cookware/Fixtures**: Molded via HIP (1,600–1,800°C, 80–150 MPa), polished for aesthetics.
-   - **Hemp Linens/Towels**: Produced via in-house looms using hemp fibers and bio-based dyes.
-   - **Organic Electronics**: LED/TV, fridge/oven fabricated using PEDOT:PSS and lignin PCBs via inkjet/roll-to-roll printing.
-   - **Assembly**: Flat-packed with modular connectors.
+   - **Ceramic Furniture/Cookware/Fixtures**: Mold via HIP (1,600–1,800°C, 80–150 MPa). Polish for aesthetics.
+   - **Hemp Linens/Towels**: Produce via in-house looms using hemp fibers and bio-based dyes.
+   - **Organic Electronics**: Fabricate LED/TV, fridge/oven using PEDOT:PSS and lignin PCBs via inkjet/roll-to-roll.
+   - **Assembly**: Flat-pack with modular connectors.
 
 4. **Farm Kit**:
-   - **Ceramic Trays/Tanks**: Molded via HIP, integrated with microchannels for hydro/aeroponic systems.
-   - **RAS Systems**: Ceramic tanks with PEDOT:PSS sensors for water quality monitoring.
-   - **Assembly**: Packaged with AI-driven setup instructions.
+   - **Ceramic Trays/Tanks**: Mold via HIP, integrate microchannels.
+   - **RAS Systems**: Produce ceramic tanks with PEDOT:PSS sensors for water quality.
+   - **Assembly**: Package with AI-driven setup instructions.
 
 5. **Cleanroom Kit**:
-   - **Ceramic Partitions**: HIP-formed, polished to ISO 1–8 standards.
-   - **HEPA/VAV Systems**: HEPA filters sourced externally (Year 1), in-house by Year 2. VAV systems use ceramic ducts, PEDOT:PSS controls, and HVAC tiles.
-   - **Assembly**: Flat-packed with modular seals and AI-driven calibration software.
+   - **Ceramic Partitions**: HIP-form, polish to ISO 1–8 standards.
+   - **HEPA/VAV Systems**: Source HEPA filters externally (Year 1), in-house by Year 2. Use ceramic ducts, PEDOT:PSS controls, and HVAC tiles.
+   - **Assembly**: Flat-pack with modular seals and AI-driven calibration software.
 
 6. **Cleanroom Equipment Kit**:
-   - **HIP Presses**: Ceramic frames (SiC/Al₂O₃ composite) via HIP, integrated with graphene heating elements.
-   - **CVD Reactors**: Ceramic chambers with graphene-coated interiors for methane-based synthesis.
-   - **Inkjet Printers**: Ceramic frames with PEDOT:PSS printheads for organic electronics.
-   - **Supercritical CO₂ Recyclers**: Ceramic vessels with graphene-reinforced seals for 95% material recovery.
-   - **Assembly**: Flat-packed with AI-driven setup and calibration software.
+   - **HIP Presses**: HIP-form ceramic frames (SiC/Al₂O₃ composite) with graphene heating elements.
+   - **CVD Reactors**: Produce ceramic chambers with graphene-coated interiors for methane-based synthesis.
+   - **Inkjet Printers**: Fabricate ceramic frames with PEDOT:PSS printheads for organic electronics.
+   - **Supercritical CO₂ Recyclers**: Produce ceramic vessels with graphene-reinforced seals for 95% material recovery.
+   - **Assembly**: Flat-pack with AI-driven setup and calibration software.
 
 7. **Processing Kit**:
-   - **Ceramic Ovens**: HIP-formed with graphene heating elements for waste processing.
-   - **Hemp Looms**: Ceramic frames with bio-based components for textile production.
-   - **Assembly**: Packaged with AI-driven operational software.
+   - **Ceramic Ovens**: HIP-form with graphene heating elements.
+   - **Hemp Looms**: Produce ceramic frames with bio-based components.
+   - **Assembly**: Package with AI-driven operational software.
 
 8. **Office Kit**:
-   - **Ceramic Desks/Chairs**: Molded via HIP, polished for ergonomics.
-   - **Organic Electronics**: PEDOT:PSS monitors/input devices fabricated via inkjet printing.
-   - **Assembly**: Flat-packed with modular connectors.
+   - **Ceramic Desks/Chairs**: Mold via HIP, polish for ergonomics.
+   - **Organic Electronics**: Produce PEDOT:PSS monitors/input devices via inkjet.
+   - **Assembly**: Flat-pack with modular connectors.
 
 9. **Amenity Kit**:
-   - **Ceramic Fixtures**: Gym, pool, sauna, hot tub, and restaurant fixtures molded via HIP.
-   - **RAS Integration**: Pool systems with ceramic-based recirculating aquaculture systems (RAS).
-   - **Assembly**: Internal use, installed by drones/robots.
+   - **Ceramic Fixtures**: Mold gym, pool, sauna, hot tub, and restaurant fixtures via HIP.
+   - **RAS Integration**: Produce pool systems with ceramic-based RAS.
+   - **Assembly**: Install internally using drones/robots.
 
 10. **Airlock Kit**:
-    - **Ceramic Structure**: HIP-formed with microchannels for sensor wiring.
-    - **AI Processors/Sensors**: PEDOT:PSS-based biometric/weapon/explosive scanners, AES-256 encrypted.
-    - **Assembly**: Packaged with AI-driven security software and modular connectors.
+    - **Ceramic Structure**: HIP-form with microchannels for sensor wiring.
+    - **AI Processors/Sensors**: Produce PEDOT:PSS-based biometric/weapon/explosive scanners, AES-256 encrypted.
+    - **Assembly**: Package with AI-driven security software and modular connectors.
+
+---
+
+## 4. Manufacturing Lines
+
+The facility operates multiple production lines to manufacture tiles, studs, and kits, leveraging 2025 technologies for efficiency and sustainability.
+
+### 4.1 Ceramic Production Line
+- **Location**: Floor 1 (2,000 m²).
+- **Capacity**: 4,000–8,000 tiles/day (including HVAC tiles).
+- **Equipment** (produced via Cleanroom Equipment Kits):
+  - **CVD Reactors**: For graphene/CNT synthesis (methane feedstock, 900–1,000°C).
+  - **HIP Presses**: For tile and stud formation (1,600–1,800°C, 80–150 MPa).
+  - **Inkjet Printers**: For PEDOT:PSS sensor integration.
+  - **Supercritical CO₂ Recyclers**: For 95% material recovery of failed tiles/studs.
+- **Process**: Raw material preparation (SiC, Al₂O₃, ZrO₂ purification, graphene synthesis), ceramic formation (mixing, HIP), functional component integration (PV, batteries, sensors), and finishing (polishing, quality control).
+- **Energy**: 200 MW from solar, geothermal, and methane power.
+- **Automation**: 95% via Skydio drones, Optimus-inspired robots, DARPA Squad X AI.
+
+### 4.2 Organic Electronics Line
+- **Capacity**: 10,000 microcontrollers/day, 100,000 sensors/day, 100 GPUs/day.
+- **Equipment** (produced via Cleanroom Equipment Kits):
+  - **Roll-to-Roll Printers**: For PEDOT:PSS semiconductors and lignin PCBs.
+  - **Inkjet Printers**: For sensor and microcontroller fabrication.
+- **Process**: Synthesize PEDOT:PSS and lignin-based PCBs, print organic electronics (sensors, microcontrollers, GPUs) for tiles, studs, and kits (apartment, office, airlock), and integrate via inkjet/roll-to-roll methods.
+- **Automation**: 95% via AI-driven systems.
+
+### 4.3 Biomass Processing Line
+- **Equipment** (produced via Processing Kits):
+  - **Hemp Looms**: For linens/towels (apartment kits).
+  - **Biomass Reactors**: For lignin/cellulose-based binders and dyes.
+- **Input**: Waste-derived lignin/cellulose from anaerobic digestion.
+- **Process**: Process biomass to produce bio-based binders for ceramics and dyes/linens for apartment kits.
+- **Automation**: 95% via AI-driven systems.
+
+### 4.4 Recycling Line
+- **Process**: Supercritical CO₂ processing for 95% material recovery.
+- **Capacity**: 1,718 tiles/year, defective studs/kits as needed.
+- **Equipment** (produced via Cleanroom Equipment Kits):
+  - **Supercritical CO₂ Recyclers**: Recover SiC, Al₂O₃, ZrO₂, copper, and graphene from failed components.
+- **Process**: Disassemble defective tiles/studs/kits, process via supercritical CO₂, and purify materials for reuse.
+- **Automation**: 95% via AI-driven systems.
+
+### 4.5 Assembly Line
+- **Purpose**: Package kits (tile, stud, apartment, farm, cleanroom, cleanroom equipment, processing, office, airlock).
+- **Equipment**: Skydio drones, Optimus-inspired robots for flat-packing and modular assembly.
+- **Process**: Assemble components (tiles, studs, ceramics, electronics) into flat-packed kits with AI-generated instructions or install internally (amenity kit) using drones/robots.
+- **Automation**: 95% via DARPA Squad X AI.
+
+### 4.6 Additional Notes
+- **Tent Lease**: Initial tent returned post-setup to eliminate lease costs, as all equipment is produced in-house via Cleanroom Equipment Kits.
+- **Sustainability**: Closed-loop system with recycled waste (e-waste, industrial, biomass) and in-house synthesis (graphene, PEDOT:PSS, binders). In-house silica purification by Year 2 eliminates external sourcing.
+- **Energy Efficiency**: Bio-based binders, low-energy HIP, and HVAC tiles reduce manufacturing energy by 30% compared to traditional ceramics.
 
 ---
