@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Earth-Star Industries Facility - Tiles, Studs, and Kits Manufacturing Specification
+title: Tiles, Studs, and Kits Manufacturing Specification
 theme: jekyll-theme-minimal
 license: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
 
-# Earth-Star Industries Facility - Tiles, Studs, and Kits Manufacturing Specification
+# Tiles, Studs, and Kits Manufacturing Specification
 
 *License*: This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material, provided you give appropriate credit, indicate changes, and distribute any derivative works under the same license.
 
