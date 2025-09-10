@@ -4,6 +4,8 @@ title: Earth-Star Industries Facility - Tiles, Studs, and Kits Manufacturing Spe
 theme: jekyll-theme-minimal
 license: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
+Prompt 1
+Ignore all other chat sessions and se onl the prompts in ths one.
 
 # Earth-Star Industries Facility - Tiles, Studs, and Kits Manufacturing Specification
 
