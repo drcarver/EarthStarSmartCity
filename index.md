@@ -17,7 +17,7 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
    Modular building blocks with superior strength, integrated energy, and water systems.
 2. [Manufacturing of tiles and kits](docs/tilesandkits.md) 
    Manufacturing of tiles and kits
-3. [Silconf Refineings](docs/tilesandkits.md) 
+3. [Silconf Refineings](docs/silconfactory.md) 
    Refining and producing silicn 
 4. [Sustainable Urban Agriculture](docs/urban_agriculture.md) 
    Closed-loop systems for households, producing food, water, and energy.
