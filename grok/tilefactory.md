@@ -9,13 +9,13 @@ Ignore all other chat sessions and se onl the prompts in ths one.
 
 # Earth-Star Industries Facility - Tiles, Studs, and Kits Manufacturing Specification
 
-*License*: This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material, provided you give appropriate credit, indicate changes, and distribute any derivative works under the same license.
+*License*: This document is licensed under the [Creative Coammons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material, provided you give appropriate credit, indicate changes, and distribute any derivative works under the same license.
 
 ---
 
 ## 1. Overview
 
-This document outlines the specifications, input materials, and manufacturing processes for **Enhanced Ceramic Tiles**, **Smart Studs**, and **Kits** used in the Earth-Star Industries Facility, a self-sufficient high-rise designed for sustainable urban living. It includes a new **Heat Pump/HVAC Tile** for thermal management around kilns, heat sources, and cleanrooms, as well as **Cleanroom Equipment Kits** for cleanroom functionality. All components are produced in-house using 2025 scalable technologies, leveraging advanced ceramics and organic electronics for resilience, modularity, and closed-loop sustainability.
+This document outlines the specifications, input materials, and manufacturing processes for **Enhanced Ceramic Tiles**, **Smart Studs**, and **Kits** used in the Earth-Star Industries Facility, a self-sufficient high-rise designed for sustainable urban living. It includes a new **Heat Pump/HVAC Tile** for thermal management around kilns, heat sources, and cleanrooms, as well as **Cleanroom Equipment Kits** for cleanroom functionality. All components are produced in-house using 2025 scalable technologies, leveraging advanced ceramics and organic electronics for resilience, modularity, and closed-loop sustainability.a
 
 ---
 
@@ -265,4 +265,4 @@ Kits are flat-packed, modular assemblies for construction, furnishings, and syst
 - **Waste Management**: Supercritical CO₂ recycling ensures >95% material recovery.
 - **Energy Efficiency**: Bio-based binders, low-energy HIP, and heat recovery (HP/HVAC tiles) reduce energy use by 30% vs. traditional ceramics.
 
-Create a GitHub page uses the minimal Jekyll theme for table compatibility in older browsers and includes the Creative Commons Attribution-ShareAlike 4.0 International License.
+ Create a single GitHub page that uses the minimal Jekyll theme for table compatibility in older browsers and includes the Creative Commons Attribution-ShareAlike 4.0 International License.
