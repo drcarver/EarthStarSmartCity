@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Earth-Star Industries Tile Manfacturing Facility
+title: Earth-Star Industries Tile Manufacturing Facility
 theme: jekyll-theme-minimal
 license: Creative Commons Attribution-ShareAlike 4.0 International License
 ---
--Prompt 1
 
-Forget all other prompts and chat sessions and utilize only the prompts in this one
-
-# Earth-Star Industries Tile Manfacturing Facility - Tiles, Studs, and Kits Manufacturing Specification
+# Earth-Star Industries Tile Manufacturing Facility - Tiles, Studs, and Kits Manufacturing Specification
 
 *License*: This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material, provided you give appropriate credit, indicate changes, and distribute any derivative works under the same license.
 
@@ -31,11 +28,11 @@ This document outlines the specifications for **Enhanced Ceramic Tiles**, **Smar
 
 | Tile Type          | Quantity      | Thickness                     | Composition                              | Properties                                                                 |
 |--------------------|---------------|-------------------------------|------------------------------------------|---------------------------------------------------------------------------|
-| **Standard Tiles** | 149,250       | 10–15 cm (facade/floors), 50 cm (walls) | 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ | 2,800 MPa compressive, 700–900 MPa flexural, 20–30 MPa·m¹/² toughness, >95% recyclable |
-| **Clear Tiles**    | 17,000 (10% of facade) | 10–15 cm            | Transparent SiO₂-Al₂O₃ composite         | 95% light transmission, 15% PV efficiency, AWG, low-emissivity coating     |
-| **Stealth Tiles**  | 8,587 (5% reserve) | 10–15 cm                | Graphene-coated, radar-absorbent         | >90% absorption (2–18 GHz), >80 dB EMP shielding, MIL-STD-461G compliant  |
-| **Foundation Tiles** | 5,000       | 50 cm + 2 m height           | Enhanced composite                       | 1 kWh/tile battery, 2 L/m²/day AWG, geothermal pumps, seismic dampers     |
-| **Heat Pump/HVAC Tiles** | 2,000     | 15 cm                        | 50% SiC, 20% Al₂O₃, 20% graphene/CNTs, 10% ZrO₂ | 5 kW cooling/heating, 500 m³/h airflow, 80% heat recovery, ISO 1–8 compatible |
+| Standard Tiles     | 149,250       | 10–15 cm (facade/floors), 50 cm (walls) | 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ | 2,800 MPa compressive, 700–900 MPa flexural, 20–30 MPa·m¹/² toughness, >95% recyclable |
+| Clear Tiles        | 17,000 (10% of facade) | 10–15 cm            | Transparent SiO₂-Al₂O₃ composite         | 95% light transmission, 15% PV efficiency, AWG, low-emissivity coating     |
+| Stealth Tiles      | 8,587 (5% reserve) | 10–15 cm                | Graphene-coated, radar-absorbent         | >90% absorption (2–18 GHz), >80 dB EMP shielding, MIL-STD-461G compliant  |
+| Foundation Tiles   | 5,000         | 50 cm + 2 m height           | Enhanced composite                       | 1 kWh/tile battery, 2 L/m²/day AWG, geothermal pumps, seismic dampers     |
+| Heat Pump/HVAC Tiles | 2,000       | 15 cm                        | 50% SiC, 20% Al₂O₃, 20% graphene/CNTs, 10% ZrO₂ | 5 kW cooling/heating, 500 m³/h airflow, 80% heat recovery, ISO 1–8 compatible |
 
 **Functionality (All Tiles)**:
 - **Photovoltaic Cells**: 28.75% efficiency, 200–240 W/m² (standard); 15% (clear)
@@ -161,31 +158,31 @@ Kits are flat-packed, modular assemblies for construction, furnishings, and syst
 
 | Kit Type                | Contents                                              | Coverage/Units            | Cost ($) | Sell Price ($) |
 |-------------------------|-------------------------------------------------------|---------------------------|----------|----------------|
-| **Tile Kit**            | 100 tiles (mixed standard/clear/stealth/foundation/HVAC), snapping guides | 500 m²                    | 1,000    | 1,500          |
-| **Stud Kit**            | 50 studs, wiring/pipes                               | 50 m connections          | 2,250    | 3,375          |
-| **Apartment Kit**       | Ceramic furniture (beds, tables), cookware, fixtures, hemp linens, organic electronics (LED/TV, fridge/oven) | 1 luxury unit (100 m²) | 20,000   | 30,000         |
-| **Farm Kit**            | Ceramic hydro/aeroponic trays, RAS aquaponic tanks   | 100 m², 1.67 tons/year    | 5,000    | 7,500          |
-| **Cleanroom Kit**       | HEPA/VAV systems, ISO 1–8 ceramic partitions, HVAC tiles | 100 m²                    | 10,000   | 15,000         |
-| **Cleanroom Equipment Kit** | HIP presses, CVD reactors, inkjet printers, supercritical CO₂ recyclers | 1 cleanroom line         | 100,000  | 150,000        |
-| **Processing Kit**      | Ovens/looms for waste/furniture/textiles             | 1 line                    | 50,000   | 75,000         |
-| **Office Kit**          | Ceramic desks/chairs, organic electronics            | 10 workstations            | 5,000    | 7,500          |
-| **Amenity Kit**         | Ceramic gym/pool/sauna/hot tub/restaurant fixtures   | Full facility             | 2,000,000| N/A (internal) |
-| **Airlock Kit**         | AI-driven smart airlocks (weapon/explosive/biometric scanners) | 1 entry          | 10,000   | 15,000         |
+| Tile Kit                | 100 tiles (mixed standard/clear/stealth/foundation/HVAC), snapping guides | 500 m²                    | 1,000    | 1,500          |
+| Stud Kit                | 50 studs, wiring/pipes                               | 50 m connections          | 2,250    | 3,375          |
+| Apartment Kit           | Ceramic furniture (beds, tables), cookware, fixtures, hemp linens, organic electronics (LED/TV, fridge/oven) | 1 luxury unit (100 m²) | 20,000   | 30,000         |
+| Farm Kit                | Ceramic hydro/aeroponic trays, RAS aquaponic tanks   | 100 m², 1.67 tons/year    | 5,000    | 7,500          |
+| Cleanroom Kit           | HEPA/VAV systems, ISO 1–8 ceramic partitions, HVAC tiles | 100 m²                    | 10,000   | 15,000         |
+| Cleanroom Equipment Kit | HIP presses, CVD reactors, inkjet printers, supercritical CO₂ recyclers | 1 cleanroom line         | 100,000  | 150,000        |
+| Processing Kit          | Ovens/looms for waste/furniture/textiles             | 1 line                    | 50,000   | 75,000         |
+| Office Kit              | Ceramic desks/chairs, organic electronics            | 10 workstations            | 5,000    | 7,500          |
+| Amenity Kit             | Ceramic gym/pool/sauna/hot tub/restaurant fixtures   | Full facility             | 2,000,000| N/A (internal) |
+| Airlock Kit             | AI-driven smart airlocks (weapon/explosive/biometric scanners) | 1 entry          | 10,000   | 15,000         |
 
 ### 4.2 Input Materials
 
 | Kit Type                | Key Materials                                   | Source                                  | Purpose                                      |
 |-------------------------|------------------------------------------------|-----------------------------------------|----------------------------------------------|
-| **Tile Kit**            | Standard/clear/stealth/foundation/HVAC tiles    | In-house ceramic production             | Structural components, integrated systems     |
-| **Stud Kit**            | Smart studs, copper wiring, graphene pipes     | In-house ceramic/electronics production | Framing, utility distribution                |
-| **Apartment Kit**       | Ceramic composites, hemp fibers, PEDOT:PSS, lignin PCBs | In-house looms, organic electronics | Furniture, appliances, linens                |
-| **Farm Kit**            | Ceramic trays/tanks, PEDOT:PSS sensors         | In-house ceramic/electronics production | Hydro/aeroponic systems, fish tanks          |
-| **Cleanroom Kit**       | Ceramic partitions, HEPA filters, PEDOT:PSS, HVAC tiles | In-house ceramics, external HEPA (Year 1) | ISO 1–8 cleanroom environments               |
-| **Cleanroom Equipment Kit** | Ceramic composites, graphene, PEDOT:PSS, recycled metals | In-house ceramics/electronics           | HIP presses, CVD reactors, printers, recyclers |
-| **Processing Kit**      | Ceramic ovens, hemp-based looms                | In-house ceramics, biomass processing   | Waste recycling, textile/furniture production |
-| **Office Kit**          | Ceramic composites, PEDOT:PSS, lignin PCBs     | In-house ceramics/electronics           | Workstations, electronics                    |
-| **Amenity Kit**         | Ceramic composites, RAS components             | In-house ceramics, RAS production       | Gym, pool, restaurant fixtures               |
-| **Airlock Kit**         | Ceramic composites, PEDOT:PSS, AI processors   | In-house ceramics/electronics           | Secure entry systems, biometric scanning     |
+| Tile Kit                | Standard/clear/stealth/foundation/HVAC tiles    | In-house ceramic production             | Structural components, integrated systems     |
+| Stud Kit                | Smart studs, copper wiring, graphene pipes     | In-house ceramic/electronics production | Framing, utility distribution                |
+| Apartment Kit           | Ceramic composites, hemp fibers, PEDOT:PSS, lignin PCBs | In-house looms, organic electronics | Furniture, appliances, linens                |
+| Farm Kit                | Ceramic trays/tanks, PEDOT:PSS sensors         | In-house ceramic/electronics production | Hydro/aeroponic systems, fish tanks          |
+| Cleanroom Kit           | Ceramic partitions, HEPA filters, PEDOT:PSS, HVAC tiles | In-house ceramics, external HEPA (Year 1) | ISO 1–8 cleanroom environments               |
+| Cleanroom Equipment Kit | Ceramic composites, graphene, PEDOT:PSS, recycled metals | In-house ceramics/electronics           | HIP presses, CVD reactors, printers, recyclers |
+| Processing Kit          | Ceramic ovens, hemp-based looms                | In-house ceramics, biomass processing   | Waste recycling, textile/furniture production |
+| Office Kit              | Ceramic composites, PEDOT:PSS, lignin PCBs     | In-house ceramics/electronics           | Workstations, electronics                    |
+| Amenity Kit             | Ceramic composites, RAS components             | In-house ceramics, RAS production       | Gym, pool, restaurant fixtures               |
+| Airlock Kit             | Ceramic composites, PEDOT:PSS, AI processors   | In-house ceramics/electronics           | Secure entry systems, biometric scanning     |
 
 ### 4.3 Manufacturing Process
 
@@ -270,5 +267,3 @@ Kits are flat-packed, modular assemblies for construction, furnishings, and syst
 - **Waste Management**: Supercritical CO₂ recycling ensures >95% material recovery.
 - **Energy Efficiency**: Bio-based binders, low-energy HIP, and HVAC tiles reduce manufacturing energy by 30% compared to traditional ceramics.
 - **HVAC Tile Impact**: Enhances energy efficiency around kilns and cleanrooms, recovering 80% of waste heat.
-
----
