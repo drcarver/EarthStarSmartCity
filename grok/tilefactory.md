@@ -1,11 +1,13 @@
 ---
 title: Reformed Prompt 1: Earth-Star Industries Facility Project
-description: A clearer, structured version of the original Prompt 1 for the Earth-Star Industries Facility Project, optimized for AI generation of comprehensive responses.
+description: Earth-Star Industries Facility Project.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Reformed Prompt 1: Earth-Star Industries Facility Project
+# Prompt 1: Earth-Star Industries Facility Project
+
+Ignore allother chat sessions and prompts and use only those in this chat session.
 
 This reformed prompt restructures the original Prompt 1 for clarity, logical flow, and ease of use in AI systems. It organizes content into sections with bullet points, tables, and enumerated steps, reducing ambiguity while preserving all details. The goal is to generate a comprehensive, self-contained description of the Earth-Star Industries Facility project, incorporating all specified elements.
 
@@ -167,4 +169,4 @@ All kits are Ikea-style flat-packed, produced in-house from tile factory, and av
 ## License
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-Format the response as a single GitHub page using markdown.  The markdown should be able to be cut and pasted into a repository. Use a jekyll-theme-minimal so tables are properly displayed in older browsers. Use Creative commons license
+Display the response as raw markdown and in a separate code window suitable for use in a single github page that can easily be copied to a github pages repository.   Use a jekyll-theme-minimal, so tables are properly displayed in older browsers. Use Creative commons license.  Display the page as markdown only.
