@@ -7,7 +7,7 @@ theme: minimal
 
 # Prompt 1: Earth-Star Industries Facility Project
 
-Ignore allother chat sessions and prompts and use only those in this chat session.
+Ignore allother chat sessions and prompts and use only those in this chat session.  Recompute all costs, revenues and volumes.
 
 This reformed prompt restructures the original Prompt 1 for clarity, logical flow, and ease of use in AI systems. It organizes content into sections with bullet points, tables, and enumerated steps, reducing ambiguity while preserving all details. The goal is to generate a comprehensive, self-contained description of the Earth-Star Industries Facility project, incorporating all specified elements.
 
