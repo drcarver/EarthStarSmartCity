@@ -166,3 +166,5 @@ All kits are Ikea-style flat-packed, produced in-house from tile factory, and av
 
 ## License
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Format the response as a single GitHub page using markdown. Provide the page in a scrolling widow that can be cut and pasted into a repository. Use a jekyll-theme-minimal so tables are properly displayed in older browsers. Use Creative commons license
