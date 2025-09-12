@@ -1,5 +1,3 @@
-Prompt 2
-
 ---
 layout: default
 title: Prompt 2: Sustainable Urban Agriculture System Kit
