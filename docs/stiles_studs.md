@@ -38,6 +38,8 @@ These tiles form the foundational building blocks, serving as facade, floors, an
 - **Specialized Variants**:
   - Clear tiles (for windows): Integrated PV (20% efficiency), AWG, and sensors; 5,000 units.
   - Stealth tiles: Radar-absorbing materials for military applications; 2,000 units.
+  - Combined HVAC/Hea pump
+  - Foundaon tile replacing conventiona foundations.  Supply power, water and methane.  Can be larger to allow stds to snap in and process storm water to bepotable alog with geothermal energy. 
 - **Manufacturing Process**: In-house production of graphene/CNTs via chemical vapor deposition (CVD) at 900–1,000°C using methane feedstock (>90% purity). Hot isostatic pressing (HIP) at 1,600–1,800°C and 80–150 MPa. Microchannels (0.5 mm diameter) embedded for fluid and electrical flow.
 - **Maintenance**: Snap-together modular design enables robotic replacement. Annual failure rate: 1% (1,718 tiles/year), costing $150 per tile ($100 recycling + $50 robotic labor).
 
