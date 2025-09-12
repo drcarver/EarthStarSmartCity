@@ -1,5 +1,5 @@
 ---
-title: Reformed Prompt 1: Earth-Star Industries Facility Project
+title: Earth-Star Industries Facility Project
 description: Earth-Star Industries Facility Project.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
@@ -9,7 +9,7 @@ theme: minimal
 
 Ignore allother chat sessions and prompts and use only those in this chat session.  Recompute all costs, revenues and volumes.
 
-This reformed prompt restructures the original Prompt 1 for clarity, logical flow, and ease of use in AI systems. It organizes content into sections with bullet points, tables, and enumerated steps, reducing ambiguity while preserving all details. The goal is to generate a comprehensive, self-contained description of the Earth-Star Industries Facility project, incorporating all specified elements.
+Make all kits equipment in the facility from ceramcs, tiles and kits.  This includes clean room equipent, cermaics equiptment line and the recylinng line.
 
 ## Project Overview
 The Earth-Star Industries Facility is a visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems. Key specifications:
