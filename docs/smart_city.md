@@ -4,8 +4,11 @@ description: A modular hub-and-spoke urban ecosystem for 20,000 residents, integ
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
+# Part 4: Earth-Star Industries Smart City Complex
 
-# Earth-Star Industries Smart City Complex
+Recompute all costs, revenues and volumes.
+
+Make all kits equipment in the farm from ceramcs, tiles and kits.
 
 The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ecosystem (MHUE) designed to support 20,000 residents in an existing U.S. city (e.g., Seattle, Miami) as a new district to prevent hollowing. Built using Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries Facility, it integrates luxurious single-family homes, a sustainable hospital, K-12 school, shopping mall, low-income apartment complex, hotels, college campus, vocational training, industrial park, Tesla Megapack factory, Colossus 2-sized data center, and smart airport. The complex uses smart roads, sidewalks, and hyperloops for connectivity, high-speed internet (1 TB/s, scalable to 10 TB/s), and Tesla autonomous transport (robotaxis, vehicles). It adheres to smart city standards (ISO 37122), sustainable building codes (LEED Gold, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1, 62.1, ICC 500, NFPA 101), and military standards (UFC 4-010-01, 3-340-02, 3-410-01, 3-401-01, MIL-STD-810H, 461G, 188-125-1, 1474E, NIST 800-53), with smart airlocks for security. The complex is off-grid, financed by tile factory revenues and grants, and recycles existing infrastructure for sustainability.
 
