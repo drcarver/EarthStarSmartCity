@@ -13,8 +13,8 @@ The Earth-Star Sustainable abundance system is a revolutionary modular hub-and-s
 ## Project Components
 Explore the detailed components of the Earth-Star Sustainable Smart City:
 
-1. [Enhanced Ceramic Tiles and Smart Studs](docs/stiles_studs.md)  
-   Modular building blocks with superior strength, integrated energy, and water systems.
+1. [A visionary, self-sufficient high-rise building](docs/tilefactories.md)  
+   A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
 2. [Manufacturing of tiles and kits](docs/tilesandkits.md) 
    Manufacturing of tiles and kits
 3. [Sustainable Mining](docs/mining.md) 
