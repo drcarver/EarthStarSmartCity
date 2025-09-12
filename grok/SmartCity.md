@@ -290,3 +290,5 @@ All buildings use Enhanced Ceramic Tiles (5 m², $10/tile, 200 kg, 10–15 cm th
 
 ## License
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Display the response as raw markdown and in a separate code window suitable for use in a single github page that can easily be copied to a github pages repository. Use a jekyll-theme-minimal, so tables are properly displayed in older browsers. Use Creative commons license. Display the page as markdown only.
