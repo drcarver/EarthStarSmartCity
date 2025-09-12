@@ -41,6 +41,8 @@ The Earth-Star Industries Facility is a visionary, self-sufficient high-rise bui
 - **Specialized Variants**:
   - Clear tiles (windows): With PV (20% efficiency), AWG, sensors; 5,000 units.
   - Stealth tiles: Radar-absorbing for military; 2,000 units.
+  - Combined HVAC/Heat pump
+  - Foundation tile, made to be the foundation of strctures inclding providng power, water and methane to any equipment on the floor.  It can have large batteres, water and methane storage.
 - **Manufacturing**: In-house graphene/CNT via CVD (900–1,000°C, methane feedstock, >90% purity); HIP (1,600–1,800°C, 80–150 MPa); microchannels (0.5 mm) for fluid flow.
 - **Maintenance**: Snap-together for replacement (1% failure rate, 1,718 tiles/year, $150/tile: $100 recycling, $50 robotic labor).
 
