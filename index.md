@@ -13,7 +13,7 @@ The Earth-Star Sustainable abundance system is a revolutionary modular hub-and-s
 ## Project Components
 Explore the detailed components of the Earth-Star Sustainable Smart City:
 
-1. [A visionary, self-sufficient high-rise building](docs/tilefactories.md)  
+1. [Tile factory](docs/tilefactories.md)  
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
 2. [Sustainable Urban Agriculture](docs/urban_agriculture.md) 
    Closed-loop systems for households, producing food, water, and energy
@@ -23,15 +23,13 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
 5. [Landfills](docs/landfill.md) 
     Remediate and cleamup all landfills and contaminated sites nationwide and instittee sustainable mining when required.
-6. [Manufacturing of tiles and kits](docs/tilesandkits.md) 
+6. [Nationwide](docs/nationwide.md) 
+   Exoand the cities to nationwide and environmnet cleanup.
+7. [Manufacturing of tiles and kits](docs/tilesandkits.md) 
    Manufacturing of tiles and kits
-7. [Sustainable Mining](docs/mining.md) 
-   Refining and producing silicn 
-8. [Sustainable Urban Agriculture](docs/urban_agriculture.md) 
-   Closed-loop systems for households, producing food, water, and energy.
-9. [Feasibility and Viability](docs/feasability.md) 
-    Technical, economic, and regulatory analysis, with 90% feasibility.
-10. [Reslence](docs/Resilience.md) 
+8. [Feasibility and Viability](docs/feasability.md) 
+   Technical, economic, and regulatory analysis, with 90% feasibility.
+9. [Reslence](docs/Resilience.md) 
     City resilence to man made and natural disaters.
 
 
