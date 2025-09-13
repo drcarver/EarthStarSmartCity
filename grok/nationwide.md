@@ -5,7 +5,9 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: jekyll-theme-minimal
 ---
 
-# Earth-Star Industries National Transformation Strategy: Exponential Growth to House and Feed the U.S., Natural Habitat Restoration, Ocean Remediation, Military Base Replacement with Stealth Tiles, and Airport Redevelopment
+# Prompt 6: Earth-Star Industries National Transformation Strategy
+
+Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits.
 
 *License*: This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material, provided you give appropriate credit and indicate changes.
 
