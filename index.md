@@ -25,8 +25,8 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
     Remediate and cleamup all landfills and contaminated sites nationwide and instittee sustainable mining when required.
 6. [Nationwide](docs/nationwide.md) 
    Exoand the cities to nationwide and environmnet cleanup.
-7. [Manufacturing of tiles and kits](docs/tilesandkits.md) 
-   Manufacturing of tiles and kits
+7. [Tiles and kits catalog](docs/tilesandkits.md) 
+   Catalog of tiles and kits sed n the system.
 8. [Feasibility and Viability](docs/feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
 9. [Reslence](docs/Resilience.md) 
