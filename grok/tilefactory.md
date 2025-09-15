@@ -28,7 +28,7 @@ The Earth-Star Industries Facility is a visionary, self-sufficient high-rise bui
 **Task**: Generate a comprehensive, self-contained description incorporating all details below. Use tables for data (e.g., costs, outputs). Assume 2025 technologies for feasibility.
 
 ## Core Building Materials
- Tiles used in the constrction of external walls come in DARAPA style cansiters for quick deployment.  Interior walls consist of tiles sandwiched to gether with a interior foam panel for insualton Tiles come in a variety of styles and finishes to allow for easy customation.
+ Tiles used in the constrction of external walls come in DARAPA style cansiters for quick deployment.  Interior walls consist of tiles sandwiched together with a interior smart panel for any additional functionallity we may need (larger water tans, battery packs, etc) and provide for insulation and wall support. Tiles come in a variety of styles, colers and finishes to allow for easy customation.
 ### Enhanced Ceramic Tiles
 - **Quantity and Specs**: 171,750 tiles (5 m² each, $10/tile, 200 kg, 10–15 cm thick for facade/floors, 50 cm for foundation).
 - **Composition**: Fiber-reinforced composites: 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; 2,800 MPa compressive strength, 700–900 MPa flexural, 20–30 MPa·m¹/² fracture toughness, >95% recyclability via supercritical CO₂ and waste-to-energy.
