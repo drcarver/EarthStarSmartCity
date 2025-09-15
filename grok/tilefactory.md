@@ -134,6 +134,7 @@ All kits are Ikea-style flat-packed, produced in-house from tile factory, and av
 4. **Post-Month 12**: New towers every 3 months (5 by Month 36).
 
 ## Financial Model
+  Self fund as much as possible.
 - **CapEx**: $74.4675M (tiles: $1.7175M, studs: $1.125M, tent: $11M, equipment: $60.625M).
 - **OpEx**: $69.068M/year.
 - **Revenue**: $1.01–$1.06B/year (energy: $828.58–$1,011.61M, food: $720M, pharma: $1,920M, credits: $435.2–$454M, kits/sales: $511–$949M).
