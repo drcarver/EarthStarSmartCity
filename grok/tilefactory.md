@@ -40,6 +40,7 @@ The Earth-Star Industries Facility is a visionary, self-sufficient high-rise bui
   - LFP battery packs: 0.5 kWh/tile (85.875 MWh total array).
   - 100 IoT sensors/tile: AES-256 encryption.
   - Copper grounding mesh: For EMP shielding.
+    Embedded sensors should be placed on a circut board (either biogological or pcb) as needed.
 - **Specialized Variants**:
   - Clear tiles (windows): With PV (20% efficiency), AWG, sensors; 5,000 units.
   - Stealth tiles: Radar-absorbing for military; 2,000 units.
