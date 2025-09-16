@@ -37,21 +37,23 @@ The Earth-Star Industries Facility is a visionary, self-sufficient high-rise bui
   - Piezoelectric sensors: 0.5–2 W/m².
   - Thermoelectric generators: 1–3 W/m².
   - AWG units: 80–90% humidity capture, 0.5 L/m²/day.
+  - Waater bladder. When lined with pther tiles it forms a large water tank.
   - LFP battery packs: 0.5 kWh/tile (85.875 MWh total array).
   - 100 IoT sensors/tile: AES-256 encryption.
   - Copper grounding mesh: For EMP shielding.
     Embedded sensors should be placed on a circut board (either biogological or pcb) as needed.
+    when lined to gether the tiles form a smart grid tilizing all the power sources
 - **Specialized Variants**:
   - Clear tiles (windows): With PV (20% efficiency), AWG, sensors; 5,000 units.
   - Stealth tiles: Radar-absorbing for military; 2,000 units.
   - Combined HVAC/Heat pump
-  - Foundation tile, made to be the foundation of strctures inclding providng power, water and methane to any equipment on the floor.  It can have large batteres, water and methane storage.
+  - Foundation tile, made to be the foundation of strctures inclding providng power, water and methane to any equipment on the floor.  It can have large batteres, water and methane storage. Water bladders are linked to the overall water taank for the structure.  Contains the battery management sysem and mechansims for the smart grid.  The structure becomes essentiall a large tesla megapack.
 - **Manufacturing**: In-house graphene/CNT via CVD (900–1,000°C, methane feedstock, >90% purity); HIP (1,600–1,800°C, 80–150 MPa); microchannels (0.5 mm) for fluid flow.
 - **Maintenance**: Snap-together for replacement (1% failure rate, 1,718 tiles/year, $150/tile: $100 recycling, $50 robotic labor).
 
 ### Smart Studs
 - **Quantity and Specs**: 25,000 units (1 m length, $45/stud, 50 kg, 10 cm diameter).
-- **Features**: Same ceramic composite; interlocking sockets for power, water, methane; copper wiring, graphene-reinforced pipes.
+- **Features**: Same ceramic composite; interlocking sockets for power, water, methane; copper wiring, graphene-reinforced pipes. Provides the bacbone for the tiles water tank and smart grid.
 
 ## Modular Kits
 All kits are Ikea-style flat-packed, produced in-house from tile factory, and available for sale. Reuse existing kits where possible; create new ones as needed (e.g., Apartment Kit, Electronics Kit). 
