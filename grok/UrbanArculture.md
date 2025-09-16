@@ -8,7 +8,7 @@ theme: jekyll-theme-minimal
 
 # Prompt 2: Sustainable Urban Agriculture System Kit for Earth-Star Industries
 
-Recompute all costs, revenues and volumes.Make all kits equipment in the facility from ceramcs, tiles and kits.  This includes clean room equipent, cermaics equiptment line and the recylinng line.
+Recompute all costs, revenues and volumes.Make all kits equipment in the facility from ceramcs, tiles and kits.  Uses specifications from prompt 1 for all tiles and studs.
 
 *License*: This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material, provided you give appropriate credit, indicate changes, and distribute any derivative works under the same license.
 
