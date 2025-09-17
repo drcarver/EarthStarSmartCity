@@ -34,10 +34,7 @@ When converting airports we don't want to necessarily get rid of their ability t
 
 We should also consider what it takes to revolutionize shipping in the same way.  Building ships from our tiles and studs as we go possibly integrating a full vertical farm in ships that are big enough so that we get the necessary fuel output or biomass for fuel we also could integrate and utilize methane for its primary fuel if the vertical farm doesn't supply enough.  We want the all ships to be as automated as possible. As we decline our need for fossil fuels as we expand our renewables but we don't need the tankers anymore either so I don't think we need to worry about converting tankers. We may want to scrap them for their metal but that's about it in addition we should scrap anything for its metal and on the ship side. Package food on the ships into long-term packaging when we reach port we could sell the food that we've produced.
 
-
-
-
-
+As the cities scale out revenue streams may dry up, for emple grid sales.  In addition cost on most goods can drop towards zero as we get nearer a sustainable abundance.
 
 ### Growth Model
 - **Model**: Logistic growth: \( P(t) = \frac{K}{1 + \frac{K - P_0}{P_0} e^{-rt}} \), where P₀=20,000 (pilot district), r=1.0–1.6/year (driven by jobs, food security, hyperloop), K=350M (national capacity).
