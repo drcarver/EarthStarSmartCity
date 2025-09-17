@@ -7,7 +7,7 @@ theme: jekyll-theme-minimal
 
 # Prompt 6: Earth-Star Industries National Transformation Strategy
 
-Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits.
+Recompute all costs, revenues and volumes.Make all kits equipment in the facility from ceramcs, tiles and kits. Uses specifications from prompt 1 for all tiles, kits and studs.
 
 *License*: This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material, provided you give appropriate credit and indicate changes.
 
