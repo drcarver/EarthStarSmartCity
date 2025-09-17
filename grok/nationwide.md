@@ -22,7 +22,22 @@ The hyperloop build out should be along the railroad right of ways, purchasing o
 
 Recycle any existing infrastructre including railroads, roads and cities.  The smart roads and railroads should provide 4G and 5G wireless.  They can also be used to provide water to any water poor regions.  Along with power to areas like alaska. 
 
-Disucss the resilence of the cities, roads and hyperloops to natural disasters, nuclear attack and nuclear winter.  
+This epansion is completely funded from revenues from the city and any contracts we can get including road consturction, etc. othrerwise the cities across the country fund the revenues for expansion of the child cities.  As far as the farms go it takes a while for things to grow within the farms themselves so we have to take that into account on their revenue streams.
+
+Can the carbon markets fully sustain our growth over a while we're going to end up draining the money that's in the carbon markets.  Include renewable energy credits.
+
+Use our extra water to remediate the ground sources in the United States.  In addition to redeeming the land and water we also want to deploy sensors so we make sure that there is nothing bad happens. Include some cameras on game trails and around as well as we build out to provde natre views for city residents and scientists as we expand our remdiation
+
+Replace dams in place are not there for supporting the control of flows and rivers we could probably remove the hydro around the country as we expand out.  There should be no more need for traditional farms so Dams are primarily there for irrigation can go away. In addition any traditional farming left should be incorporated into our farms so that we I have complete control over them.  We want to replace all farming not just crops so any other type of farming for cotton or tobacco or anything else we want to bring into our solution.  Not everything makes sense to be in the vertical farms some animal husbandry and crops and other things grown may make sense to be in fields that are grown sustainably in addition we should be able to recycle farm waste through the vertical farms as needed and make them more sustainable.
+
+When converting airports we don't want to necessarily get rid of their ability to have air traffic we need that to get around to the rest of the world however we could try to move towards sustainable fuels for the airlines as much as we. Build an airframe and then cover it with tiles using our studs. Tr to get to supersonic transport.
+
+We should also consider what it takes to revolutionize shipping in the same way.  Building ships from our tiles and studs as we go possibly integrating a full vertical farm in ships that are big enough so that we get the necessary fuel output or biomass for fuel we also could integrate and utilize methane for its primary fuel if the vertical farm doesn't supply enough.  We want the all ships to be as automated as possible. As we decline our need for fossil fuels as we expand our renewables but we don't need the tankers anymore either so I don't think we need to worry about converting tankers. We may want to scrap them for their metal but that's about it in addition we should scrap anything for its metal and on the ship side. Package food on the ships into long-term packaging when we reach port we could sell the food that we've produced.
+
+
+
+
+
 
 ### Growth Model
 - **Model**: Logistic growth: \( P(t) = \frac{K}{1 + \frac{K - P_0}{P_0} e^{-rt}} \), where P₀=20,000 (pilot district), r=1.0–1.6/year (driven by jobs, food security, hyperloop), K=350M (national capacity).
