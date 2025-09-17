@@ -72,7 +72,7 @@ All kits are Ikea-style flat-packed, produced in-house from tile factory, and av
 - **Apartments**: 150 units (50 single, 100 family, 50,000 m², Floors 11–14); luxurious with walk-in closets, in-suite bathrooms, ceramic furniture/appliances/fixtures, linens/towels (in-house).
 - **Amenities** (10,000 m², Floor 15): Gym, pool, sauna, hot tubs, gourmet restaurant.
 - **Offices**: 10,000 m² (Floors 13–14 if space available), furnished with ceramic office kits.
-- **Security**: Smart airlocks in all buildings (scan for weapons/explosives, alert security; ISO 37122 smart city standards).
+- **Security**: Smart airlocks in all buildings (scan for weapons/explosives, alert security; ISO 37122 smart city standards). THe airlocks shold provide for facial recognition and settin for role ased securit.  Any where you would use a lock can be replaced with facial recognition.
 
 ## Closed-Loop Systems
 ### Vertical Farming and Food Production (20,000 m², Floors 2–4)
