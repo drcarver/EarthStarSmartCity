@@ -29,7 +29,7 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
    Catalog of tiles and kits sed n the system.
 8. [Feasibility and Viability](docs/08 - feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
-9. [Reslence](docs/Resilience.md) 
+9. [Reslence](docs/09 - resilience.md) 
     City resilence to man made and natural disaters.
 
 
