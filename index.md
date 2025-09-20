@@ -21,10 +21,10 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
    15-floor tower producing 36,800 tons/year food and non-food products.
 4. [Smart City Ecosystem](docs/04 - SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-5. [Landfills](docs/06 - landfill.md) 
-    Remediate and cleamup all landfills and contaminated sites nationwide and instittee sustainable mining when required.
-6. [Nationwide](docs/05 - nationwide.md) 
+5. [Nationwide](docs/05 - nationwide.md) 
    Exoand the cities to nationwide and environmnet cleanup.
+6. [Landfills](docs/06 - landfill.md) 
+ Remediate and cleamup all landfills and contaminated sites nationwide and instittee sustainable mining when required.
 7. [Tiles and kits catalog](docs/07 - tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
 8. [Feasibility and Viability](docs/08 - feasability.md) 
