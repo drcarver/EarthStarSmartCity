@@ -134,7 +134,13 @@ Recycle and redevelop ~3,000 U.S. airports (19,000 total, FAA 2025; focus on 3,0
 
 This strategy creates a $75T+ economy by 2040, housing and feeding the U.S. while restoring ecosystems.
 
----
+Assume we want to begin the expansion described above using brownfield sites in hollowed out districts and cities where we can pick up the abandoned railroads and stuff for fairly cheap price. How many would that allow us to be the expansion begin the expansion of assuming we're going to do deep mining to get rid of all the contaminants in the brownfield areas.  Leveraging this as a start and then expanding to closed landfills where we want to remediate them and replace them with our infrastructure to continue out the expansion at a cheaper cost how many sites is that and how long would that take.  Use closed landfills that are adjacent to the brownfield sites that would allow us to pick them up and then expand into our brownfield sites fairly quickly to fuel a cheaper expansion.  Next process brownfields and clodsed landfills that are not in hollowed areas.  Build districts this way before expanding into greenfield areas that may include existing city structures and in those situations so that it's makes it easier to do the expansion. Take over regional recycling centers and sewage processing centers and replacing them with our technology also in the open landfills
+
+Assume we're going to replace all farms with our vertical farms and any extra space we will convert to it's natural habitat and just would help us with the expansion into the rural areas and provide a mechanism for converting the farming to sustainable farming we should be able to handle any exterior ranges like cattle and stuff like that in a more sustainable fashion.  Assume we will always choose to replace any existing infrastructure rather than build over it unless it's a historical area in addition or national park.
+
+Assume we replace all dams,  keeping those around that our flood control since we're going to replace irrigation with our self-contained farms. In addition we should look at what it takes to dismantle existing power plants as we go and they're replaced by the green power from the districts
+
+--
 
 *This document is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
 
