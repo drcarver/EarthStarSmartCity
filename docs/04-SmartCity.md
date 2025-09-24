@@ -7,7 +7,7 @@ theme: jekyll-theme-minimal
 
 # Earth-Star Industries Smart City Complex
 
-The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ecosystem (MHUE) designed to support 20,000 residents in a new district along a BNSF railway line (e.g., near Seattle or Miami) to leverage rail connectivity for nationwide expansion while preventing urban hollowing. Constructed entirely using Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries tile factory, it integrates luxurious single-family homes, a sustainable hospital, K-12 school, shopping mall, low-income apartments, hotels, college campus, vocational training, industrial park, Tesla Megapack factory, Colossus 2-sized data center, and a smart airport. The complex features smart roads, sidewalks, and hyperloops, high-speed internet (1 TB/s, scalable to 10 TB/s), and Tesla autonomous transport. It adheres to smart city standards (ISO 37122), sustainable building codes (LEED Gold, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1, 62.1, ICC 500, NFPA 101), and military standards (UFC 4-010-01, 3-340-02, 3-410-01, 3-401-01, MIL-STD-810H, 461G, 188-125-1, 1474E, NIST 800-53). Smart airlocks ensure security, and the complex operates off-grid, financed by tile factory revenues and grants, recycling existing infrastructure. All equipment (cleanroom, ceramics production, recycling lines) is ceramic-based, using modular kits. Sustainable mining is planned for future waste stream shortages. Construction uses human labor (500 workers trained via vocational programs) and 80–95% robotic automation (Skydio drones, Boston Dynamics Spot robots, DARPA Squad X AI, BlockADE snap-together systems). Enhancements include USDA REAP grants up to $20M [](grok_render_citation_card_json={"cardIds":["9287a9"]}), 30% ITC for solar [](grok_render_citation_card_json={"cardIds":["5d0080"]}), and adjusted revenues based on 2025 pricing (e.g., wholesale electricity $0.06/kWh [](grok_render_citation_card_json={"cardIds":["08101a"]}), organic meat $10,000/ton [](grok_render_citation_card_json={"cardIds":["d1a7b2"]})).
+The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ecosystem (MHUE) designed to support 20,000 residents in a new district along a BNSF railway line (e.g., near Seattle or Miami) to leverage rail connectivity for nationwide expansion while preventing urban hollowing. Constructed entirely using Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries tile factory, it integrates luxurious single-family homes, a sustainable hospital, K-12 school, shopping mall, low-income apartments, hotels, college campus, vocational training, industrial park, Tesla Megapack factory, Colossus 2-sized data center, and a smart airport. The complex features smart roads, sidewalks, and hyperloops, high-speed internet (1 TB/s, scalable to 10 TB/s), and Tesla autonomous transport. It adheres to smart city standards (ISO 37122), sustainable building codes (LEED Gold, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1, 62.1, ICC 500, NFPA 101), and military standards (UFC 4-010-01, 3-340-02, 3-410-01, 3-401-01, MIL-STD-810H, 461G, 188-125-1, 1474E, NIST 800-53). Smart airlocks ensure security, and the complex operates off-grid, financed by tile factory revenues and grants, recycling existing infrastructure. All equipment (cleanroom, ceramics production, recycling lines) is ceramic-based, using modular kits. Sustainable mining is planned for future waste stream shortages. Construction uses human labor (500 workers trained via vocational programs) and 80–95% robotic automation (Skydio drones, Boston Dynamics Spot robots, DARPA Squad X AI, BlockADE snap-together systems).
 
 ## Complex Overview
 - **Population**: 20,000 (5,000 single-family homes, 5,000 low-income apartments, hotels, staff).
@@ -140,21 +140,21 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
   | Mining Kit       | Electrodialysis, acid leaching for rare earths | 2,000,000 | 1 |
   | Energy Kit       | 50 MW solar, biogas                        | 5,000,000| 1        |
   | Smart Airlock Kit| 10 units                                   | 20,000   | 1        |
-- **Output**: $2B/year (Megapacks at $1.4M/unit [](grok_render_citation_card_json={"cardIds":["695ab7"]}), batteries, rare earths at $110,000/ton [](grok_render_citation_card_json={"cardIds":["721cd5"]})).
+- **Output**: $1B/year (Megapacks, batteries, rare earths).
 - **Cost**: $12.465M CapEx, $10M/year OpEx.
 
-### Colossus 2-Sized Data Center (1 unit, 20,000 m²)
-- **Design**: 15 floors, 100 MW, optimizes city operations, sells compute resources.
+### Colossus 2-Sized Data Center (1 unit, 93,000 m²)
+- **Design**: 15 floors, 1 GW power (scaled to xAI Colossus 2 gigawatt AI training supercomputer specs), optimizes city operations, sells compute resources.
 - **Kits**:
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
-  | Tile Kit         | 10,000 tiles, 1,000 window tiles           | 110,000  | 1        |
-  | Stud Kit         | 2,500 studs                                | 112,500  | 1        |
-  | Data Kit         | Ceramic servers, cooling systems           | 5,000,000| 1        |
-  | Energy Kit       | 100 MW solar, biogas                       | 10,000,000 | 1      |
-  | Smart Airlock Kit| 5 units                                    | 10,000   | 1        |
-- **Output**: $1.25B/year (AI compute at $12.5M/MW [](grok_render_citation_card_json={"cardIds":["492bbd"]})).
-- **Cost**: $15.2325M CapEx, $5M/year OpEx.
+  | Tile Kit         | 46,500 tiles, 4,650 window tiles           | 511,500  | 1        |
+  | Stud Kit         | 11,625 studs                               | 522,625  | 1        |
+  | Data Kit         | Ceramic servers, cooling systems           | 50,000,000| 1       |
+  | Energy Kit       | 1 GW solar, biogas                         | 100,000,000 | 1     |
+  | Smart Airlock Kit| 20 units                                   | 40,000   | 1        |
+- **Output**: $5B/year (compute sales, scaled for gigawatt capacity).
+- **Cost**: $151.074125M CapEx, $50M/year OpEx.
 
 ### Smart Airport (1 unit, 30,000 m²)
 - **Design**: 15 floors, shops, restaurants (halal, kosher, vegan), hyperloop hub.
@@ -181,7 +181,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
   | Energy Kit       | Biogas turbines, methanation, solar, VAWTs | 400,000  | 10       |
   | Water Kit        | Rainwater tanks, AWG, biofilters           | 160,000  | 20       |
   | Smart Airlock Kit| 10 units                                   | 20,000   | 1        |
-- **Output**: 54,000 tons/year food (crops $3,000/ton, seafood $8,000/ton, meat $10,000/ton), 24 tons/day bio-silica, 488 tons/day packaging.
+- **Output**: 54,000 tons/year food, 24 tons/day bio-silica, 488 tons/day packaging.
 - **Cost**: $22.885M CapEx, $8–$15M/year OpEx.
 
 ### Public Buildings
@@ -206,13 +206,13 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ## System Integration
 - **Waste**: 120,000–240,000 tons/day processed (MSW, sewage, greywater) into ceramics, bio-silica, rare earths, nutrients, packaging (Waste Processing Kit, ceramic-based).
 - **Water**: 200 million liters/year (90–95% recycling, AWGs, greywater, ceramic-based Water Kit).
-- **Energy**: 4,000 MW (2,000 MW solar, 1,500 MW biogas, 500 MW geothermal/micro-hydro, ceramic-based Energy Kit), 1,000–1,500 MW surplus ($525.6–$788.4M/year at $0.06/kWh [](grok_render_citation_card_json={"cardIds":["3af921"]})).
+- **Energy**: 4,000 MW (2,000 MW solar, 1,500 MW biogas, 500 MW geothermal/micro-hydro, ceramic-based Energy Kit), 1,000–1,500 MW surplus ($0.88–$1.32B/year at $0.1/kWh).
 - **CO₂**: 8,500 tons/day captured via LT-DAC, methanation (ceramic equipment).
 - **Transport**: Tesla robotaxis, hyperloops (10–20 miles/spoke, 500 mph), ceramic-based smart roads/sidewalks.
 - **Internet**: 1 TB/s, scalable to 10 TB/s, via smart roads (ISO 37122).
 
 ## Construction Phases
-- **Phase 1: Planning and Permits (Months 1–6)**: Feasibility, zoning, certifications via FAST-41 ($5M; secure $230M grants: EPA SWIFR $50M, USDA REAP $20M [](grok_render_citation_card_json={"cardIds":["1a035a"]}), SMART $10M).
+- **Phase 1: Planning and Permits (Months 1–6)**: Feasibility, zoning, certifications via FAST-41 ($5M; secure $200M grants: EPA SWIFR $50M, USDA REAP $20M, SMART $10M).
 - **Phase 2: Site Prep (Months 7–12)**: Recycle infrastructure, lay foundations ($10M).
 - **Phase 3: Hub Construction (Months 13–24)**: Tile factory, farm, hospital, school, mall, data center, industrial park, airport ($110.62–$117.79M).
 - **Phase 4: Spoke Construction (Months 25–36)**: Homes, apartments, hotels, college, churches, offices, additional farm ($260.75M).
@@ -220,7 +220,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 - **Total Timeline**: 2.5–3 years (compressed via parallel phases, pre-certified kits).
 
 ## Financial Model
-- **CapEx**: $356.73–$363.19M (20% reduction via modular kits and grants: $79.2–$80.7M savings; $230M grants).
+- **CapEx**: $545.37–$552.54M (10% reduction via modular kits: $54.5–$55.3M savings; $200M grants).
   | Component         | Cost ($M)      |
   |-------------------|----------------|
   | Homes (5,000)     | 248.5          |
@@ -231,42 +231,42 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
   | Hotels (2)        | 1.932          |
   | College           | 1.475          |
   | Industrial Park   | 12.465         |
-  | Data Center       | 15.2325        |
+  | Data Center       | 151.074125     |
   | Airport           | 2.565          |
   | Farm Tower        | 22.885         |
   | Churches (5)      | 0.788125       |
   | Offices (2)       | 0.7305         |
   | Planning/Site Prep| 15             |
 - **OpEx**: $50–$70M/year (20% savings via automation, ceramics).
-- **Revenue**: $5.28–$5.59B/year:
+- **Revenue**: $9.26–$9.46B/year:
   | Source           | Revenue ($M/year) |
   |------------------|-------------------|
-  | Energy (1,000–1,500 MW) | 525.6–788.4    |
+  | Energy (1,000–1,500 MW) | 880–1,320    |
   | Food (54,000 tons) | 800            |
   | Retail/Mall        | 500            |
   | Hotels (2)         | 200            |
-  | Data Center        | 1,250           |
-  | Industrial (Megapacks, batteries, rare earths) | 2,000 |
+  | Data Center        | 5,000           |
+  | Industrial (Megapacks, batteries, rare earths) | 1,000 |
   | Airport            | 200            |
   | Kits (48,000 units, $2,000–$4,000) | 96–192   |
-- **ROI**: 1,400–1,500%, breakeven Year 2.
-- **Financing**: Tile factory ($1.01–$1.06B/year), USDA REAP ($10–$20M) [](grok_render_citation_card_json={"cardIds":["02efb7"]}), 30% ITC ($107–$109M) [](grok_render_citation_card_json={"cardIds":["132c61"]}), DOE grants ($10M), crowdfunding ($100M via kit sales).
+- **ROI**: 1,600–1,800%, breakeven Year 2.
+- **Financing**: Tile factory ($1.01–$1.06B/year), USDA REAP ($10–$20M), 30% ITC ($163.61–$165.76M), DOE grants ($10M), crowdfunding ($100M via kit sales).
 
 - **Cash Flow**:
   | Year | CapEx ($M) | OpEx ($M) | Revenue ($M) | Net ($M)       |
   |------|------------|-----------|--------------|----------------|
-  | 1    | 178.37–183.6 | 25–35     | 0            | -203.37–-218.6 |
-  | 2    | 0          | 50–70     | 2,000–2,500  | 1,950–2,430    |
-  | 3    | 0          | 50–70     | 3,500–4,000  | 3,450–3,950    |
-  | 4    | 0          | 50–70     | 5,280–5,590  | 5,230–5,540    |
+  | 1    | 272.685–279.27 | 25–35     | 0            | -297.685–-314.27 |
+  | 2    | 0          | 50–70     | 3,000–4,000  | 2,950–3,930    |
+  | 3    | 0          | 50–70     | 6,000–7,000  | 5,950–6,930    |
+  | 4    | 0          | 50–70     | 9,260–9,460  | 9,210–9,410    |
 
 ## Feasibility and Viability
-- **Feasibility**: 95% (technical: 95%, economic: 94%, regulatory: 90%, operational: 95%).
+- **Feasibility**: 95% (technical: 95%, economic: 94%, regulatory: 90%, operational: 96%).
 - **Enhancements**:
-  - **Subsidies**: USDA REAP ($10–$20M) [](grok_render_citation_card_json={"cardIds":["b2d71b"]}), 30% ITC ($107–$109M) [](grok_render_citation_card_json={"cardIds":["0c7ce9"]}), DOE grants ($10M).
+  - **Subsidies**: USDA REAP ($10–$20M), 30% ITC ($163.61–$165.76M), DOE grants ($10M).
   - **Partnerships**: Tesla (robotaxis, Megapacks, $5M savings), retailers (Costco, Walmart, $10M), BNSF rail access ($50M/year).
   - **Regional Waste Hubs**: $25M for 120,000–240,000 tons/day.
-  - **Modular Kits**: Reduce CapEx by 20% ($79.2–$80.7M savings).
+  - **Modular Kits**: Reduce CapEx by 10% ($54.5–$55.3M savings).
   - **Virtual Companies**: Startup incubators ($50M/year).
   - **Sustainable Mining**: Rare earths from waste ($100M/year, activated post-expansion if waste streams decline).
   - **Bottleneck Reduction**: Pre-assembled kits, AI assembly (20% faster, $5M savings); hybrid farming cuts energy 25%; LED upgrades via DOE.
@@ -274,7 +274,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ## Challenges and Mitigation
 | Challenge           | Mitigation                                                  |
 |--------------------|-------------------------------------------------------------|
-| High CapEx ($356.73–$363.19M) | Grants ($20–$30M), ITC ($107–$109M), tile factory ($1.01–$1.06B/year). |
+| High CapEx ($545.37–$552.54M) | Grants ($20–$30M), ITC ($163.61–$165.76M), tile factory ($1.01–$1.06B/year). |
 | Regulatory Complexity | Hire experts ($0.5M/year), centralize audits; FAST-41. |
 | Waste Supply (120,000–240,000 tons/day) | Regional hubs ($25M). |
 | Biosecurity        | UV-C, AI monitoring ($2M CapEx).            |
