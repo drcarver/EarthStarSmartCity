@@ -11,7 +11,6 @@ Ignore allother chat sessions and prompts and use only those in this chat sessio
 
 Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits. This includes clean room equipment and semiconductor Manufacuring equipment , ceramics equipment line and the Recyling line.
 
-
 ## Project Overview
 The Earth-Star Industries Facility is a visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems. Key specifications:
 - **Structure**: 150-meter-tall, 15-floor cylindrical building (~265,000 m² total area, height-to-diameter ratio ~1 for stability, 150 m diameter).
@@ -167,7 +166,7 @@ All kits are Ikea-style flat-packed, produced in-house from tile factory, and av
 ## Hub-and-Spoke Urban District
 - **Population**: Supports 20,000 via 5 towers.'
 - **Locatiob**: In a hollowed city adjacent to a brownsfield site and a closed landfill that can be mined to provide reoures for the tower to recycle.
-- **Raileroad**: Any existing abandoned railways will be recyleed and railroads will be upgraded to high speed rail as needed.
+- **Railroad**: Any existing abandoned railways will be recyled and railroads will be upgraded to high speed rail as needed.
 - **Integration**: Recycles existing infrastructure; off-grid; finance via sales/grants.
 
 ## Response Guidelines
