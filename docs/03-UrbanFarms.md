@@ -7,7 +7,7 @@ theme: minimal
 
 # Earth-Star Industries Skyscraper Farm
 
-The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultural facility (5-acre footprint, ~300,000 m²) designed to produce organic farm-derived products (seafood, crops, meat, eggs, milk, processed goods) to feed a 20,000-person urban district. Built entirely using Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries Facility, it connects via smart roads and sidewalks, supplying feedstock for ceramics and semiconductors. The farm adheres to USDA Organic, ASC, GAP Step 4, halal (IFANCA), kosher (OU), and BPI standards, prioritizing livestock welfare and cultural/religious diversity (halal, kosher, vegan). It integrates 90–95% water recycling, comprehensive waste processing, and renewable energy, financed by tile factory revenues and grants, and operates off-grid by recycling existing infrastructure. All equipment, including cleanroom, ceramics production, and recycling lines, is constructed from ceramic tiles and modular kits. Smart airlocks with facial recognition, role-based access, weapons/explosives scanning, and security alerts are installed at all entrances, compliant with ISO 37122 smart city standards. Full sustainable building codes (ASHRAE 90.1, ICC 500, LEED Gold) are supported.
+The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultural facility (5-acre footprint, ~300,000 m²) designed to produce organic farm-derived products (seafood, crops, meat, eggs, milk, processed goods) to feed a 20,000-person urban district. Built entirely using Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries Facility, it connects via smart roads and sidewalks, supplying feedstock for ceramics and semiconductors. The farm adheres to USDA Organic, ASC, GAP Step 4, halal (IFANCA), kosher (OU), and BPI standards, prioritizing livestock welfare and cultural/religious diversity (halal, kosher, vegan). It integrates 90–95% water recycling, comprehensive waste processing, and renewable energy, financed by tile factory revenues and grants, and operates off-grid by recycling existing infrastructure. All equipment, including cleanroom, ceramics production, and recycling lines, is constructed from ceramic tiles and modular kits.
 
 ## Site Selection
 - **Location**: Suburban, within 50 miles of the Earth-Star Industries Facility (hub) in an existing city (e.g., near New York, Miami, Chicago, Los Angeles) to prevent urban hollowing.
@@ -20,15 +20,15 @@ The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultura
 - **Specifications**: 15 floors, 60 m height (4 m/floor), 20,000 m²/floor (~300,000 m² total), height-to-diameter ratio ~1 for stability.
 - **Resilience**: 8.0 Richter seismic, 250 mph hurricanes, >80 dB EMP attenuation.
 - **Materials**: 
-  - 194,434 Enhanced Ceramic Tiles (5 m², $10/tile, 200 kg, 10–15 cm thick for facade/floors, 50 cm for foundation; 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; 2,800 MPa compressive strength, 700–900 MPa flexural, 20–30 MPa·m¹/² fracture toughness, >95% recyclability).
-  - 28,302 Smart Studs (1 m, $45/stud, 50 kg, ceramic composite, interlocking sockets for power/water/methane).
+  - 103,050 Enhanced Ceramic Tiles (5 m², $10/tile, 200 kg, 10–15 cm thick for facade/floors, 50 cm for foundation; 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; 2,800 MPa compressive strength, 700–900 MPa flexural, 20–30 MPa·m¹/² fracture toughness, >95% recyclability).
+  - 15,000 Smart Studs (1 m, $45/stud, 50 kg, ceramic composite, interlocking sockets for power/water/methane).
   - 3,000 Window Tiles (transparent SiC-based, 20% PV efficiency, AWG, IoT sensors).
 - **Integrated Features** (tiles): 
-  - Photovoltaic cells (28.75% efficiency, 200–240 W/m²), piezoelectric sensors (0.5–2 W/m²), thermoelectric generators (1–3 W/m²), AWG units (0.5 L/m²/day), LFP battery packs (0.5 kWh/tile, 97.217 MWh total), 100 IoT sensors/tile (AES-256), copper grounding mesh (EMP shielding).
-- **Assembly**: DARPA BlockADE snap-together system, 95% automated via 200 Skydio drones, 50 Optimus-inspired robots, Squad X AI. Tile replacement: 1% failure rate (1,944 tiles/year, $150/tile: $100 recycling, $50 robotic labor).
+  - Photovoltaic cells (28.75% efficiency, 200–240 W/m²), piezoelectric sensors (0.5–2 W/m²), thermoelectric generators (1–3 W/m²), AWG units (0.5 L/m²/day), LFP battery packs (0.5 kWh/tile, 51.525 MWh total), 100 IoT sensors/tile (AES-256), copper grounding mesh (EMP shielding).
+- **Assembly**: DARPA BlockADE snap-together system, 95% automated via 200 Skydio drones, 50 Optimus-inspired robots, Squad X AI. Tile replacement: 1% failure rate (1,030 tiles/year, $150/tile: $100 recycling, $50 robotic labor).
 - **Green Space**: Rooftop garden (5,000 m²), vertical greenery (2,000 m²), 100–250-acre fields for aesthetics, biodiversity, and cover crops.
 - **Standards**: Green Star 5 Star, Fitwel 3 Star, WELL Silver, LEED Gold, BREEAM Excellent, UN SDGs (3, 6, 7, 11, 12), ISO 14644-1, 52120-1, 27001, 37122, NATO STANAG 4370, 7159, 2582, UFC 4-010-01, 3-340-02, 3-410-01, 3-401-01, MIL-STD-810H, 461G, 188-125-1, 1474E, NIST 800-53, ASHRAE 90.1, 62.1, ICC 500, NFPA 101.
-- **Security**: Smart airlocks on all entrances (10 tiles each, scan for weapons/explosives, ISO 37122-compliant).
+- **Security**: Smart airlocks on all entrances (10 tiles each, facial recognition, role-based access, scan for weapons/explosives, alert security per ISO 37122).
 
 ### Floor Layout
 - **Floors 1–3 (60,000 m²)**: Processing (dairy, bakery, butcher, anaerobic digesters, waste processing for ceramics/semiconductors, biodegradable packaging), storage, loading docks.
@@ -45,8 +45,8 @@ The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultura
 - **Certifications**: USDA Organic, ASC, IFANCA, OU.
 
 ### Vertical Farming (Floors 9–11, 60,000 m²)
-- **Equipment**: AeroFarms aeroponics (0.5–1 liter/kg, 400 kg/m²/year), LED lights (400–600 µmol/m²/s), organic nutrients (fish waste, digestate), ceramic trays/pipes (Agriculture Kit).
-- **Output**: 24,000 tons/year (greens: 12,000 tons, herbs: 4,000 tons, tomatoes: 6,000 tons, strawberries: 2,000 tons; ~1.2 kg/person/year).
+- **Equipment**: AeroFarms aeroponics (0.5–1 liter/kg, 200–300 kg/m²/year), LED lights (400–600 µmol/m²/s), organic nutrients (fish waste, digestate), ceramic trays/pipes (Agriculture Kit).
+- **Output**: 36,000 tons/year (greens: 18,000 tons, herbs: 6,000 tons, tomatoes: 9,000 tons, strawberries: 3,000 tons; ~1.8 kg/person/year).
 - **Certifications**: USDA Organic.
 
 ### Animal Husbandry (Floors 12–13, 40,000 m²)
@@ -56,22 +56,23 @@ The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultura
 
 ### Processing (Floors 1–3, 60,000 m²)
 - **Equipment**: Tetra Pak (dairy, bakery), organic tanning vats (leather), carding machines (wool), pyrolysis (bio-silica for semiconductors), bioreactors (silk), extruders (packaging: starch, cellulose, PLA, chitin, mushroom, gelatin), all ceramic-based (Processing Kit).
-- **Output**: 1,207,200 kg processed products (dairy: 456,000 kg, bakery: 304,000 kg, butcher: 456,000 kg), 2,400 tons packaging, 240 tons bio-silica, 120 tons silk, 120 tons leather/wool.
+- **Output**: 240,000 kg processed products (dairy: 90,000 kg, bakery: 60,000 kg, butcher: 90,000 kg), 2,400 tons packaging, 240 tons bio-silica, 120 tons silk, 120 tons leather/wool.
 - **Certifications**: USDA Organic, BPI.
 
 ### Waste Processing
 - **Inputs**: 3,650–7,300 tons/day (farm waste, urban MSW, e-waste, biomedical, grey/black water, sewage; 0.5–1 ton/person/day for 20,000 people).
-- **Processes**: AI sorting ($0.5M/year), anaerobic digestion (digestate for farms), pyrolysis (biochar, oils), electrodialysis/acid leaching (metals), supercritical CO₂ (tile recycling), all using ceramic equipment (Recycling Line Equipment Kit).
+- **Processes**: AI sorting ($0.5M/year), anaerobic digestion (digestate for farms), pyrolysis (biochar, oils), electrodialysis/acid leaching (metals), supercritical CO₂ (tile recycling), all using ceramic equipment (Recycling Line Kit).
 - **Outputs**:
   | Output                  | Quantity (tons/day) | Use                  |
   |-------------------------|---------------------|----------------------|
   | Ceramic Feedstock       | 3,650–7,300        | Tile factory         |
   | Bio-Silica (Semiconductors) | 24              | Tile factory         |
-  | Nutrients               | 488                 | Farms                |
-  | Packaging               | 488                 | Biodegradable        |
+  | Nutrients               | 488                 | Farms               |
+  | Packaging               | 488                 | Biodegradable       |
+- **Destination**: Feedstock and bio-silica to tile factory for tiles, semiconductors, GPUs.
 
 ### Energy Systems
-- **Equipment**: Biogas turbines (6 MW), Electrochaea methanation (15,000 tons methane/year), solar panels (163 million kWh/year), 20 VAWTs (100 kW total), LFP batteries (3,000 kWh), all ceramic-based (Energy Kit).
+- **Equipment**: Biogas turbines (6 MW), Electrochaea methanation (15,000 tons methane/year), solar panels (90,000 kWh/day), 20 VAWTs (100 kW total), LFP batteries (3,000 kWh), all ceramic-based (Energy Kit).
 - **Output**: 45 million kWh/year (surplus 30–50%, 13.5–22.5 million kWh/year for grid sales or tile factory).
 - **Allocation**:
   | Use            | Power (kWh/year) | Notes                 |
@@ -82,7 +83,7 @@ The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultura
 ### Water Systems
 - **Equipment**: Rainwater tanks (50,000 m³), 100 Watergen AWG units (0.1–1 liter/kWh), biofilters, UV sterilizers, ceramic-based (Water Kit).
 - **Output**: 90.15 million liters/year (90–95% recycling, 5–10 liters/kg product).
-- **Sources**: AWG (97,217 L/day from tiles), rainwater, recycled grey/black water/sewage.
+- **Sources**: AWG (51,450 L/day from tiles), rainwater, recycled grey/black water/sewage.
 
 ### Smart Infrastructure
 - **Smart Roads/Sidewalks**: Ceramic-based, embedded fiber-optics (1 TB/s, scalable to 10 TB/s), IoT sensors for traffic/energy (ISO 37122), sourced from tile factory.
@@ -118,54 +119,55 @@ All kits are flat-packed, produced at tile factory, and available for sale, usin
 - **Processing Kit**: Dairy, bakery, tanning, pyrolysis, packaging extruders ($15,000; reduced 25%).
 - **Energy Kit**: Biogas turbines, methanation, solar panels, VAWTs ($40,000; reduced 20%).
 - **Water Kit**: Rainwater tanks, AWG units, biofilters ($8,000; reduced 20%).
-- **New: Aquaculture Kit**: Specialized RAS tanks, biofilters for fish/shrimp (ceramic, $12,000).
+- **New: Recycling Line Kit**: AI sorters, anaerobic digesters, pyrolysis units ($200,000; reduced 15%).
+- **New: Agriculture Kit**: Ceramic trays/pipes for aquaponics/aeroponics ($12,000; reduced 20%).
 
 ## Financial Model
-Recomputed for 20,000-person scale, ceramic-based equipment, and 2025 pricing. Revenue: crops ($3,000/ton), seafood/meat ($8,000/ton), eggs ($0.5/unit), milk ($2/liter), packaging ($4,000/ton), bio-silica ($10,000/ton), silk/leather/wool ($20,000/ton), kits ($8,000–$40,000/unit, 5,000 units/year). Enhancements: net metering (+$0.5–$1M/year energy revenue), additional grants.
+Recomputed for 20,000-person scale, ceramic-based equipment, and 2025 pricing. Revenue: crops ($3,000/ton), seafood/meat ($8,000/ton), eggs ($0.5/unit), milk ($2/liter), packaging ($4,000/ton), bio-silica ($10,000/ton), silk/leather/wool ($20,000/ton), kits ($8,000–$40,000/unit, 5,000 units/year).
 
-- **CapEx**: $40.13–$70.3M (reduced 15% via modular kits: $34.11–$59.76M effective):
-  - Tiles: $1.94M (194,434 tiles).
-  - Studs: $1.27M (28,302 studs).
-  - Structure: $25–$40M.
-  - Systems: $12–$25M.
-  - Fields: $0.8–$2M.
-  - Certifications: $0.08–$0.15M.
-  - Planning/Permits: $0.8–$1.5M.
-  - Site Prep: $0.74–$1.65M.
-- **OpEx**: $6.4–$12M/year (reduced 20% via automation, durable ceramics).
-- **Revenue**: $244.13–$282.05M/year:
-  - Food: $216M (24,000 tons crops at $3,000, 12,000 tons seafood at $8,000, 6,000 tons meat at $8,000, 3M eggs at $0.5, 120,000 liters milk at $2).
+- **CapEx**: $34.13–$59.55M (reduced 15% via modular kits, subsidies):
+  - Tiles: $1.0305M (103,050 tiles).
+  - Studs: $0.675M (15,000 studs).
+  - Structure: $21.25–$34M.
+  - Systems: $10.2–$21.25M.
+  - Fields: $0.68–$1.7M.
+  - Certifications: $0.068–$0.128M.
+  - Planning/Permits: $0.68–$1.275M.
+  - Site Prep: $0.63–$1.4M.
+- **OpEx**: $6.4–$12M/year (reduced 20% via automation, durable ceramics, phased farming).
+- **Revenue**: $258.93–$397.33M/year (enhanced by efficient electrolyzers +$3M, food sales +$10M):
+  - Food: $228M (36,000 tons crops at $3,000, 12,000 tons seafood at $8,000, 6,000 tons meat at $8,000, 3M eggs at $0.5, 120,000 liters milk at $2).
   - Packaging: $9.6M (2,400 tons at $4,000).
   - Waste Products: $7.2M (240 tons bio-silica at $10,000, 240 tons silk/leather/wool at $20,000).
-  - Energy: $1.85–$3.25M (18.5–32.5M kWh at $0.1/kWh incl. net metering).
-  - Kits: $10–$25M (5,000 units at $2,000–$5,000 after 60% margin).
-- **ROI**: 400–550%, breakeven Year 3 (phased).
-- **Financing**: Tile factory revenues ($802–$908M/year from hub), USDA REAP grants ($1–$2M), 30% ITC ($12–$21M), DOE grants ($1M).
+  - Energy: $1.35–$2.25M (13.5–22.5M kWh at $0.1/kWh).
+  - Kits: $12.78–$30M (5,000 units at $2,556–$6,000 after 60% margin).
+- **ROI**: 400–600%, breakeven Year 3.
+- **Financing**: Tile factory revenues ($802–$908M/year from hub), USDA REAP grants ($1–$2M), 30% ITC ($10.24–$17.87M), DOE grants ($1M), retailer contracts ($3M).
 
 **Cash Flow**:
 | Year | CapEx ($M) | OpEx ($M) | Revenue ($M) | Net ($M)       |
 |------|------------|-----------|--------------|----------------|
-| 1    | 34.11–59.76| 3.2–6     | 0            | -37.31–-65.76  |
-| 2    | 0          | 6.4–12    | 122.07–141.03| 115.67–134.03  |
-| 3    | 0          | 6.4–12    | 183.1–211.54 | 176.7–205.54   |
-| 4    | 0          | 6.4–12    | 244.13–282.05| 237.73–275.05  |
+| 1    | 34.13–59.55| 3.2–6     | 0            | -37.33–-65.55  |
+| 2    | 0          | 6.4–12    | 129.47–198.67| 123.07–186.67  |
+| 3    | 0          | 6.4–12    | 194.2–297.5  | 187.8–285.5    |
+| 4    | 0          | 6.4–12    | 258.93–397.33| 252.53–385.33  |
 
 ## Challenges and Mitigation
-- **Cattle Space**: Limited to 100–200 Dexter cattle (5,000 m²). Mitigate with IoT monitoring, enrichment, organic feed ($0.4M/year).
-- **Regulatory Compliance**: Complex certifications. Hire experts ($0.08M/year), centralize audits via tile factory.
-- **High CapEx**: $34.11–$59.76M vs. conventional farms ($1,000–$10,000/acre). Offset with grants ($3–$5M total), ITC ($12–$21M), retailer contracts (Costco, Walmart, Whole Foods, $3M).
-- **Waste Supply**: 3,650–7,300 tons/day. Establish regional waste hubs ($15M, shared with hub).
-- **Biosecurity**: Mitigate with UV-C, AI monitoring ($0.8M CapEx, Farm Kit).
+- **Cattle Space**: Limited to 100–200 Dexter cattle (5,000 m²). Mitigate with IoT monitoring, enrichment, organic feed ($0.32M/year, reduced via phased farming).
+- **Regulatory Compliance**: Complex certifications. Hire experts ($0.068M/year), centralize audits via tile factory.
+- **High CapEx**: $34.13–$59.55M vs. conventional farms ($1,000–$10,000/acre). Offset with grants ($3–$5M), ITC ($10.24–$17.87M), retailer contracts ($3M).
+- **Waste Supply**: 3,650–7,300 tons/day. Establish regional waste hubs ($12.75M, shared with hub, reduced 15%).
+- **Biosecurity**: Mitigate with UV-C, AI monitoring ($0.68M CapEx, Farm Kit).
 
 ## Viability Enhancements
-- **Subsidies**: USDA REAP ($1–$2M), 30% ITC ($12–$21M), DOE grants ($1M), net metering ($0.5–$1M/year).
-- **Partnerships**: Costco, Walmart, Whole Foods for funding ($3M), Tesla for energy systems ($0.8M savings).
+- **Subsidies**: USDA REAP ($1–$2M), 30% ITC ($10.24–$17.87M), DOE grants ($1M).
+- **Partnerships**: Costco, Walmart, Whole Foods for funding ($3M), Tesla for energy systems ($0.68M savings).
 - **Efficient Electrolysers**: Increase methane output ($3–$5M/year).
-- **Regional Hubs**: Waste collection ($15M, shared with hub, reduces bottlenecks 25%).
-- **Modular Systems**: Farm/processing kits reduce CapEx by 15% ($6–$10M savings).
-- **Certifications**: Streamline USDA, ASC, IFANCA, OU, BPI ($0.24M/year).
-- **Phased Farming**: Save $0.8M/year by scaling livestock gradually.
-- **Leasing Model**: Offer kits to urban farms ($500–$1,000/month), increasing adoption and revenue $2–$5M/year.
+- **Regional Hubs**: Waste collection ($12.75M, shared with hub).
+- **Modular Systems**: Farm/processing kits reduce CapEx by 15% ($5.1–$8.5M).
+- **Certifications**: Streamline USDA, ASC, IFANCA, OU, BPI ($0.204M/year).
+- **Phased Farming**: Save $0.64M/year by scaling livestock gradually.
+- **Leasing Model**: Offer kits to urban farms ($500–$1,000/month), increasing adoption and revenues ($2M/year).
 
 ## Integration with Tile Factory
 - **Feedstock**: 3,650–7,300 tons/day ceramic feedstock, 24 tons/day bio-silica to tile factory for tiles, semiconductors, GPUs.
