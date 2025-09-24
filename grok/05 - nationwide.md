@@ -144,7 +144,7 @@ Assume we replace all dams,  keeping those around that our flood control since w
 
 *This document is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
 
-Create any new kits as needed. Recompute costs and revenues as needed. Implement any suggestions to increase viability. Reuse any existing kits and tiles as needed. All tiles and kits required are received from the tile factory. All buildings are construed using tiles, ceramics and kits only. Provide for smart airlocks in all buildings that scan for weapons and explosives and alert security. Implement all smart city standards required including security. Support sustainable building codes.
+Create any new kits as needed. Recompute costs and revenues as needed. Implement any suggestions to increase viability. Reuse any existing kits and tiles as needed. All tiles and kits required are received from the tile factory. All buildings are construed using tiles, ceramics and kits only. Provide for smart airlocks in all buildings that scan for weapons and explosives and alert security. Implement all smart city standards required including security. Support sustainable building codes.  Recompute timelines as needed and add any enhacements to improve the fiabilty of the project.
 
 Apply any Suggestions to Enhance Viability and reduce bottlenecks
 
