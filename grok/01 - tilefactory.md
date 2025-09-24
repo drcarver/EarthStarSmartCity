@@ -165,7 +165,9 @@ All kits are Ikea-style flat-packed, produced in-house from tile factory, and av
   - Phased farming: $1M/year savings.
 
 ## Hub-and-Spoke Urban District
-- **Population**: Supports 20,000 via 5 towers.
+- **Population**: Supports 20,000 via 5 towers.'
+- **Locatiob**: In a hollowed city adjacent to a brownsfield site and a closed landfill that can be mined to provide reoures for the tower to recycle.
+- **Raileroad**: Any existing abandoned railways will be recyleed and railroads will be upgraded to high speed rail as needed.
 - **Integration**: Recycles existing infrastructure; off-grid; finance via sales/grants.
 
 ## Response Guidelines
