@@ -1,5 +1,5 @@
 ---
-title: Earth-Star Industries National Transformation Strategy: Exponential Growth to House and Feed the U.S.
+title: Earth-Star Industries National Transformation Strategy.
 description: A comprehensive strategy for Earth-Star Industries to scale smart city districts to house and feed the entire U.S. population.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: jekyll-theme-minimal
