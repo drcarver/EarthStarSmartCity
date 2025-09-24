@@ -148,5 +148,5 @@ Create any new kits as needed. Recompute costs and revenues as needed. Implement
 
 Apply any Suggestions to Enhance Viability and reduce bottlenecks
 
-Display the response as raw markdown and in a separate code window suitable for use in a single github page that can easily be copied to a github pages repository. Use a jekyll-theme-minimal, so tables are properly displayed in older browsers. Use Creative commons license. Display the page as markdown only.
+Display the response as raw markdown and in a separate code window suitable for use in a single github page that can easily be copied to a github pages repository. Use a jekyll-theme-minimal. Use Creative commons license. Create the response as markdown only.
 
