@@ -23,7 +23,7 @@ Explore the detailed components of the Earth-Star Sustainable Smart City:
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
 5. [Nationwide](docs/05-nationwide.md) 
    Expand the cities to nationwide and environmnet cleanup.
-6. [Landfills](docs/06-undersea.md) 
+6. [Undersea Cities](docs/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
 7. [Tiles and kits catalog](docs/07-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
