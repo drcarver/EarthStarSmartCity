@@ -9,7 +9,7 @@ theme: minimal
 
 Ignore allother chat sessions and prompts and use only those in this chat session.  Recompute all costs, revenues and volumes.
 
-Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits. This includes clean room equipment and semiconductor Manufacuring equipment , ceramics equipment line and the Recyling line.
+Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits. This includes clean room equipment and semiconductor Manufacuring equipment , ceramics equipment line and the Recyling line.  All structurs build with ths technology should be designed to not contribte to light polloution
 
 ## Project Overview
 The Earth-Star Industries Facility is a visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems. Key specifications:
