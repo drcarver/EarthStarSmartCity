@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Prompt 2: Sustainable Urban Agriculture System Kit
-description: A household-scale, closed-loop urban agriculture system integrating waste management, water recycling, energy generation, food production, and recreational features using enhanced ceramic tiles and modular kits.
+description: A household-scale, closed-loop urban agriculture system integrating waste management, water recycling, energy generation, food production, and recreational features using enhanced 
+   ceramic tiles and modular kits.
 license: Creative Commons Attribution-ShareAlike 4.0 International License
 theme: jekyll-theme-minimal
 ---
@@ -136,6 +137,7 @@ Recomputed with scaled kits (10-15% factory discount), 2025 prices.
 | **Total Upfront** | | | **$29,500-43,950** |
 
 ### Operating Costs
+
 | Component | Annual Cost ($) |
 |-----------|-----------------|
 | Maintenance (tiles, systems) | 500-1,500 |
@@ -182,6 +184,7 @@ Recomputed with 2025 rates: electricity 16.5¢/kWh, water $4/m³, food value $4/
 - **Urban Compatibility**: High (9/10); odor-free, secure, ISO 37122 compliant.
 
 ### Challenges and Solutions
+
 | Challenge | Solution |
 |-----------|---------|
 | Upfront Costs ($29,500-43,950) | 30% ITC ($8,850-13,185), USDA urban ag grants ($10k-20k), DOE waste mgmt funding. |
