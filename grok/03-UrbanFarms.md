@@ -70,13 +70,14 @@ The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultura
   | Bio-Silica (Semiconductors) | 24              | Tile factory         |
   | Nutrients               | 488                 | Farms                |
   | Packaging               | 488                 | Biodegradable        |
+  
 - **Destination**: Feedstock and bio-silica to tile factory for tiles, semiconductors, GPUs. Waste hubs ($15M CapEx, shared with hub) reduce bottlenecks via regional collection.
 
 ### Energy Systems
 - **Equipment**: Biogas turbines (6 MW), Electrochaea methanation (15,000 tons methane/year), solar panels (90,000 kWh/day), 20 VAWTs (100 kW total), LFP batteries (3,000 kWh), all ceramic-based (Energy Kit).
 - **Output**: 45 million kWh/year (surplus 30–50%, 13.5–22.5 million kWh/year for grid sales or tile factory). Efficient electrolyzers boost methane output by 10% ($0.3M/year revenue).
 - **Allocation**:
-- 
+ 
   | Use            | Power (kWh/year) | Notes                 |
   |----------------|------------------|-----------------------|
   | Internal       | 31.5M            | Farms, processing, water |
