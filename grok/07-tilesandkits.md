@@ -78,7 +78,7 @@ Kits are pre-assembled, ceramic-based modules for specific functions, sourced fr
   | Kits (districts, undersea) | 2,305.5 (districts), 112.3 (undersea) |
   | Carbon Credits/RECs | 100–300 (2B tons CO₂, 1.5T MWh) |
 - **ROI**: 600–800%, breakeven Year 3.
-- 
+  
 - **Cash Flow**:
   
   | Year | CapEx ($T) | OpEx ($T) | Revenue ($T) | Net ($T) |
