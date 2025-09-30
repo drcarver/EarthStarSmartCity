@@ -27,28 +27,33 @@ This analysis evaluates the feasibility of Earth-Star Industries’ integrated N
 
 ### Economic Feasibility (Score: 80/100)
 - **Total CapEx**: $31.46–47.19T
+  
   | Component | CapEx ($T) |
   |-----------|------------|
   | Smart City Districts | 22–38 |
   | Undersea Cities | 0.273 |
   | Tiles and Kits | 9.19 |
   | Total | 31.46–47.19 |
+  
   - **Financing**: 50% federal ($15.73–23.6T: IIJA $212B, CERCLA $50B, IRA $100B, NOAA $5B, DoD $50B), 30% revenues ($9.44–14.16T), 20% bonds ($6.29–9.44T).
 - **Total OpEx**: $3–6T/year (25% automation savings, $0.75–1.5T/year).
 - **Total Revenue**: $19.65–28.15T/year by 2040
+  
   | Source | Revenue ($T/year) |
   |--------|-------------------|
   | Districts (cities, trade, food, roads, manufacturing, mining, recycling, military, airports, habitat, ocean, freight, data) | 17–25 |
   | Undersea Cities (energy, food, tourism, hotels, remediation) | 0.1325–0.1575 |
   | Tiles and Kits (districts, undersea, carbon credits, RECs) | 2.5–3 |
 - **ROI**: 600–800%, breakeven Year 3.5.
-- **Cash Flow**:
+- **Cash Flow**
+  :
   | Year | CapEx ($T) | OpEx ($T) | Revenue ($T) | Net ($T) |
   |------|------------|-----------|--------------|----------|
   | 1–2 | 6.29–9.44 | 0.6–1.2 | 1.25–1.5 | -5.64 to -9.14 |
   | 3–5 | 12.58–18.88 | 1.2–2.4 | 6–8 | -7.78 to -13.28 |
   | 6–10 | 12.58–18.88 | 1.8–3.6 | 15–22 | +0.62 to -0.48 |
   | 11–15 | 0 | 3–6 | 19.65–28.15 | +16.65–22.15 |
+
 - **Challenges**: High upfront CapEx ($31.46–47.19T) requires diversified funding. Revenue streams (food: $2,000/ton; energy: $0.1/kWh; tourism: $500M/city) depend on market stability. Mitigation: Carbon markets ($100–300B/year, 2B tons CO₂), RECs ($20–50/MWh, 1.5T MWh), and public-private partnerships (Tesla, Boring Company, $5–10M/site savings).
 
 ### Environmental Feasibility (Score: 90/100)
@@ -71,6 +76,7 @@ This analysis evaluates the feasibility of Earth-Star Industries’ integrated N
 The project is highly feasible due to modular construction, recycled materials, automation, and diversified funding/revenue streams. Key risks (high CapEx, regulatory delays, material supply) are mitigated through federal subsidies, AI-driven processes, and recycling hubs.
 
 ## New Kits
+
 | Kit Type | Components | Use Case | Material Composition | Input Sources | Manufacturing Process | Cost ($/kit) | Quantity (2040) | Revenue ($/year) |
 |----------|------------|----------|---------------------|---------------|-----------------------|--------------|-----------------|------------------|
 | **CO₂ Capture Kit** | LT-DAC units, methanation reactors (ceramic) | Carbon capture (districts, undersea) | 70% SiC, 20% Al₂O₃, 10% graphene/CNTs | Landfills (80%), ocean plastics (10%), mines (10%) | 3D printing, robotic assembly, catalyst integration | 1M | 17,550 (districts), 50 (undersea) | 100B (2B tons CO₂ at $50–100/ton) |
@@ -82,6 +88,7 @@ The project is highly feasible due to modular construction, recycled materials, 
 - **Total Revenue**: $19.75–28.25T/year (includes $100.5B/year from new kits).
 - **ROI**: 600–800%, breakeven Year 3.5.
 - **Cash Flow**:
+  
   | Year | CapEx ($T) | OpEx ($T) | Revenue ($T) | Net ($T) |
   |------|------------|-----------|--------------|----------|
   | 1–2 | 6.3–9.44 | 0.62–1.22 | 1.25–1.5 | -5.67 to -9.16 |
@@ -101,6 +108,7 @@ The project is highly feasible due to modular construction, recycled materials, 
 - **Phased Rollout**: Pilot 30 districts and 1 undersea city by 2027, scaling to 17,500 districts and 50 undersea cities by 2040, minimizes risk.
 
 ## Challenges and Mitigation
+
 | Challenge | Mitigation |
 |-----------|------------|
 | High CapEx ($31.48–47.21T) | Federal funding ($15.73–23.6T), revenues ($9.44–14.16T), bonds ($6.29–9.44T). |
