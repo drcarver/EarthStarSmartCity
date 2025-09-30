@@ -32,6 +32,7 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
 ### Residential Domes (5,000 homes, 5,000 apartments/city)
 - **Design**: Homes (2,000 ft², 4–6 bedrooms, aquaponics sunroom); apartments (500 ft², shared facilities). Submersible, pressure-resistant (2 atm).
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/unit) | Quantity/Unit |
   |----------|------------|---------------|---------------|
   | Transparent Tile Kit | 400 tiles, 100 transparent window tiles | 6,000 | 1 |
@@ -43,12 +44,14 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   | Automation Kit | IoT sensors, Arduino | 200 | 1 |
   | Odor Control Kit | Filters, scrubbers | 500 | 1 |
   | Smart Airlock Kit | Security scanning | 2,000 | 1 |
+  
 - **Output**: Homes: 75 kg/year fish, 1,125 kg/year crops, 150 liters/day water. Apartments: 5,000 tons/year food, 10,000 meals/day.
 - **Cost**: Homes: $51,700/unit ($258.5M/city). Apartments: $4.365M/city. Total CapEx: $262.865M/city.
 
 ### Aquaponics Farm Dome (10 units/city, 50,000 m² each)
 - **Design**: 15 floors, produces 2,000 tons/day food (fish, algae, vegetables), 24 tons/day bio-silica, 488 tons/day packaging.
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity |
   |----------|------------|--------------|----------|
   | Transparent Tile Kit | 20,000 tiles, 2,000 transparent window tiles | 264,000 | 1 |
@@ -58,12 +61,14 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   | Energy Kit | 50 MW solar, tidal, biogas | 5,000,000 | 1 |
   | Water Kit | Desalination, AWGs, biofilters | 100,000 | 2 |
   | Smart Airlock Kit | 10 units | 20,000 | 1 |
+  
 - **Output**: 730,000 tons/year food, 8,760 tons/year bio-silica, 178,120 tons/year packaging.
 - **Cost**: $16.109M/unit, $161.09M/city CapEx; $10M/year OpEx/unit.
 
 ### Research Center Dome (1 unit/city, 30,000 m²)
 - **Design**: 15 floors, marine biology labs, fingerling hatcheries (2M fingerlings/year), coral/seagrass nurseries.
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity |
   |----------|------------|--------------|----------|
   | Transparent Tile Kit | 15,000 tiles, 1,500 transparent window tiles | 198,000 | 1 |
@@ -72,12 +77,14 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   | Energy Kit | 10 MW solar, tidal | 1,000,000 | 1 |
   | Water Kit | Desalination, AWGs | 100,000 | 1 |
   | Smart Airlock Kit | 5 units | 10,000 | 1 |
+  
 - **Output**: 2M fingerlings/year, 100 acres/year coral/seagrass restored.
 - **Cost**: $6.488M CapEx, $3M/year OpEx.
 
 ### Hospital Dome (1 unit/city, 50,000 m²)
 - **Design**: 15 floors, 1,000 tons/year food, 500 kg/day medicines, 1,000 kg/day supplies.
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity |
   |----------|------------|--------------|----------|
   | Transparent Tile Kit | 20,000 tiles, 2,000 transparent window tiles | 264,000 | 1 |
@@ -88,12 +95,14 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   | Energy Kit | 50 MW solar, tidal | 5,000,000 | 1 |
   | Water Kit | Desalination, AWGs | 100,000 | 1 |
   | Smart Airlock Kit | 10 units | 20,000 | 1 |
+  
 - **Output**: 1,000 tons/year food, 182,500 kg/year medicines, 365,000 kg/year supplies, 10 MW surplus.
 - **Cost**: $5.909M CapEx, $5M/year OpEx.
 
 ### School Dome (1 unit/city, 30,000 m²)
 - **Design**: 15 floors, competency-based curriculum, marine-focused tech labs, 1,000 m² aquaponics.
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity |
   |----------|------------|--------------|----------|
   | Transparent Tile Kit | 15,000 tiles, 1,500 transparent window tiles | 198,000 | 1 |
@@ -103,12 +112,14 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   | Sports Kit | Ceramic courts | 50,000 | 1 |
   | Energy Kit | 10 MW solar, tidal | 1,000,000 | 1 |
   | Smart Airlock Kit | 5 units | 10,000 | 1 |
+
 - **Output**: 500 tons/year crops, educates 2,000 students.
 - **Cost**: $1.508M CapEx, $3M/year OpEx.
 
 ### Tourist Hub Dome (1 unit/city, 100,000 m²)
 - **Design**: 15 floors, transparent for reverse aquarium views, theaters, restaurants (halal, kosher, vegan), shops.
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity |
   |----------|------------|--------------|----------|
   | Transparent Tile Kit | 50,000 tiles, 5,000 transparent window tiles | 660,000 | 1 |
@@ -117,12 +128,14 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   | Restaurant Kit | Ceramic appliances | 200,000 | 1 |
   | Energy Kit | 20 MW solar, tidal | 2,000,000 | 1 |
   | Smart Airlock Kit | 20 units | 40,000 | 1 |
+  
 - **Output**: $500M/year revenue (tourism, retail, dining).
 - **Cost**: $3.5625M CapEx, $10M/year OpEx.
 
 ### Hotel Domes (2 units/city, 20,000 m² each)
 - **Design**: 15 floors, 500 rooms/unit, transparent walls, restaurants, shops.
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity |
   |----------|------------|--------------|----------|
   | Transparent Tile Kit | 16,000 tiles, 1,600 transparent window tiles | 211,200 | 1 |
@@ -130,6 +143,7 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   | Hospitality Kit | Ceramic furniture, appliances | 100,000 | 1 |
   | Energy Kit | 5 MW solar, tidal | 500,000 | 1 |
   | Smart Airlock Kit | 5 units | 10,000 | 1 |
+  
 - **Output**: $120M/year revenue/unit.
 - **Cost**: $1.0012M CapEx/unit, $2M/year OpEx/unit.
 
@@ -137,12 +151,14 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
 - **Fingerling Production**: 2M fingerlings/city/year (100M/year total) via hatcheries. Species: cod, salmon, tuna.
 - **Habitat Remediation**: Restore 10,000 miles of shorelines (200 miles/city) with coral reefs, seagrass, mangroves. Deploy 1,000 ceramic-based ocean drones/city (100 km²/day, AI navigation), filtration buoys (1,000 L/hour), and bioremediation microbes (90% oil degradation).
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity/City |
   |----------|------------|--------------|---------------|
   | Ocean Remediation Kit | Drones, buoys, bioremediation | 5,000,000 | 1,000 |
   | Tile Kit | 100 tiles | 1,200 | 10,000 |
   | Energy Kit | Solar/tidal (10 MW) | 40,000 | 1,000 |
   | Smart Airlock Kit | Security scanning | 2,000 | 1,000 |
+  
 - **Output**: 20,000 tons/year plastics, 2,000 tons/year metals, 200,000 gallons/year oil remediated/city.
 - **Cost**: $5.042B CapEx/city, $0.5B/year OpEx/city.
 - **Revenue**: $0.5–1B/year/city (carbon credits: $50–100/ton CO₂, 10M tons; RECs: $20–50/MWh, 10B MWh; recycled materials: $1,000/ton).
@@ -160,6 +176,7 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
 - **Total CapEx**: $272.9B (50 cities).
 - **OpEx/City**: $0.55–0.75B/year.
 - **Revenue/City**: $2.65–3.15B/year:
+  
   | Source | Revenue ($M/year) |
   |--------|-------------------|
   | Energy (400–600 MW) | 350–530 |
@@ -167,9 +184,12 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   | Tourism/Retail | 500 |
   | Hotels (2) | 240 |
   | Remediation (carbon, RECs, materials) | 500–1,000 |
+  
 - **Total Revenue**: $132.5–157.5B/year.
 - **ROI**: 500–600%, breakeven Year 3.
+- 
 - **Cash Flow**:
+  
   | Year | CapEx ($B) | OpEx ($B) | Revenue ($B) | Net ($B) |
   |------|------------|-----------|--------------|----------|
   | 1–2 | 54.58 | 5.5–7.5 | 13.25–15.75 | -46.33 to -46.33 |
@@ -193,6 +213,7 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
 - **Sensors/Cameras**: 10,000/city ($1M) for marine monitoring and public views.
 
 ## Challenges and Mitigation
+
 | Challenge | Mitigation |
 |-----------|------------|
 | High CapEx ($272.9B) | Federal funding ($45B), revenues ($100B), bonds ($127.9B). |
