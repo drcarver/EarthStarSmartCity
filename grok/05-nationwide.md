@@ -24,23 +24,28 @@ Scale to 17,500 districts (20,000 residents each) by 2040, each self-sufficient 
 ### Growth Model
 - **Model**: Logistic growth: \( P(t) = \frac{K}{1 + \frac{K - P_0}{P_0} e^{-rt}} \), where P₀=20,000 (pilot district), r=1.2–1.8/year (jobs, food, hyperloop), K=350M.
 - **Phased Targets**:
+  
   | Year | Population (M) | Growth Rate | Districts | Key Drivers |
   |------|----------------|-------------|-----------|-------------|
   | 1–2 (2025–2027) | 0.02–0.6 | 250–450% | 30 (600 complexes) | 2,500 brownfields, 1,200 landfills, 500 manufacturers, 100 miles hyperloop, 50 bases, 100 airports. |
   | 3–5 (2028–2030) | 0.6–6 | 200–350% | 300 (6,000 complexes) | 40,500 brownfields, 3,800 landfills, 5,000 manufacturers, 10,000 miles hyperloop, 300 bases, 1,000 airports. |
   | 6–10 (2031–2035) | 6–60 | 100–200% | 3,000 (60,000 complexes) | 50,000 manufacturers, 50,000 miles hyperloop, 700 bases, 2,000 airports, 500M acres habitat. |
   | 11–15 (2036–2040) | 60–350 | 50–100% | 17,500 (350,000 complexes) | 300,000 manufacturers, 100,000 miles hyperloop, 5,000+ landfills, 3,000 airports, 1.5B acres habitat. |
+  
 - **Infrastructure Needs** (2040): 17,500 districts (8.75T tiles, 1.3T studs), 4.1M miles smart roads, 100,000 miles hyperloop, 300,000 manufacturing buildings, 1,000 mines, 700 bases, 3,000 airports.
 
 ### Food Production
 - **Vertical Farms/Aquaponics**: 10 farms/district (50,000 m², 15 floors, ceramic-based). Outputs: 2,000–4,000 tons/day food (grains, vegetables, fish, cotton, tobacco; 0.5–1 ton/person/year). Sustainable field farming for livestock/crops (recycled waste).
+  
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity/District |
   |----------|------------|--------------|------------------|
   | Farm Kit | RAS tanks, aeroponics, pens | 10,000,000 | 50 |
   | Water Kit | Rainwater tanks, AWG, biofilters | 8,000 | 20 |
   | Energy Kit | Biogas turbines, solar, VAWTs | 40,000 | 10 |
   | Smart Airlock Kit | Security scanning | 2,000 | 10 |
+  
 - **Costs/Revenues**: CapEx: $0.4–0.8T (17,500 districts). Revenue: $1.2–2.4T/year (food: $2,000/ton). OpEx: $40–80B/year.
 
 ## Natural Habitat Restoration
@@ -59,12 +64,14 @@ Remediate U.S. coastal oceans (3.4M square miles) for plastics, metals, oil. Fea
 - **Scope**: 1M tons plastics, 100,000 tons metals, 10M gallons oil/year.
 - **Method**: 1,000 ceramic-based ocean drones (100 km²/day, AI), filtration buoys (1,000 L/hour), bioremediation (90% oil degradation). Recycled into tiles/bio-silica.
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity |
   |----------|------------|--------------|----------|
   | Ocean Remediation Kit | Drones, buoys, bioremediation | 5,000,000 | 1,000 |
   | Tile Kit | 100 tiles | 1,000 | 10,000 |
   | Energy Kit | Solar/biogas (10 MW) | 40,000 | 1,000 |
   | Smart Airlock Kit | Security scanning | 2,000 | 1,000 |
+  
 - **Costs/Revenues**: CapEx: $40–80B. Revenue: $25–50B/year (plastics: $1,000/ton; carbon credits; RECs). OpEx: $4–8B/year.
 
 ## Military Base Replacement
@@ -81,6 +88,7 @@ Replace ~700 bases (~27M acres) and 500,000 housing units with stealth-enabled t
   | Energy Kit | Solar/biogas (10 MW) | 40,000 | 100 |
   | Water Kit | AWG, greywater | 8,000 | 200 |
   | Smart Airlock Kit | Security scanning | 2,000 | 100 |
+  
 - **Costs/Revenues**: CapEx: $0.6–1.2T (bases: $0.4–0.8T; housing: $0.2–0.4T). Revenue: $60–120B/year (DoD contracts, energy). OpEx: $15–30B/year.
 
 ## Airport Redevelopment
@@ -89,6 +97,7 @@ Redevelop ~3,000 airports (3M acres) into hyperloop hubs or green spaces.
 ### Process
 - **Scope**: 1,500 hubs (10,000 m²), 1,500 green spaces. Recycle runways/terminals (80% tile feedstock).
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity/Hub |
   |----------|------------|--------------|--------------|
   | Hyperloop Port Kit | Terminals, shops | 10,000,000 | 5–10 |
@@ -96,6 +105,7 @@ Redevelop ~3,000 airports (3M acres) into hyperloop hubs or green spaces.
   | Stud Kit | 200 studs | 9,000 | 750 |
   | Energy Kit | Solar/biogas (10 MW) | 40,000 | 10 |
   | Smart Airlock Kit | Security scanning | 2,000 | 10 |
+  
 - **Costs/Revenues**: CapEx: $0.25–0.5T. Revenue: $60–120B/year (fares, land). OpEx: $8–16B/year.
 
 ## Sustainable Shipping and Aviation
@@ -114,6 +124,7 @@ Redevelop ~3,000 airports (3M acres) into hyperloop hubs or green spaces.
 - **CapEx**: $22–38T (cities: $6–12T; roads: $6–12T; rail: $0.25–0.6T; hyperloop: $0.6–1.2T; mining: $0.4–0.8T; manufacturing: $1.8–3.6T; military: $0.6–1.2T; airports: $0.25–0.5T; habitat: $120–600B; ocean: $40–80B; ships/aircraft: $0.8–1.6T; plants/dams: $0.3–0.6T). Financed: 50% federal ($11–19T), 30% revenues ($6.6–11.4T), 20% bonds ($4.4–7.6T).
 - **OpEx**: $2.5–5T/year (25% automation savings).
 - **Revenue**: $17–25T/year by Year 10:
+- 
   | Source | ($T/year) |
   |--------|-----------|
   | Cities/Trade/Food | 6–8 |
@@ -124,8 +135,10 @@ Redevelop ~3,000 airports (3M acres) into hyperloop hubs or green spaces.
   | Habitat/Ocean | 0.08–0.16 |
   | Freight/Data | 2.5–3.5 |
   | Shipping/Aviation | 0.15–0.3 |
+  
 - **ROI**: 600–800% (breakeven Year 3.5).
 - **Cash Flow**:
+  
   | Year | CapEx ($T) | OpEx ($T) | Revenue ($T) | Net ($T) |
   |------|------------|-----------|--------------|----------|
   | 1–2 | 4.5 | 0.8 | 1 | -4.3 |
@@ -150,6 +163,7 @@ Redevelop ~3,000 airports (3M acres) into hyperloop hubs or green spaces.
 - **Sensors/Cameras**: 10,000/district ($1M) for environmental monitoring and public views.
 
 ## Challenges and Mitigation
+
 | Challenge | Mitigation |
 |-----------|------------|
 | High CapEx ($22–38T) | Federal funding ($11–19T), revenues ($6.6–11.4T), bonds ($4.4–7.6T). |
