@@ -187,7 +187,7 @@ This strategy outlines Earth-Star Industries’ plan to develop undersea cities 
   
 - **Total Revenue**: $132.5–157.5B/year.
 - **ROI**: 500–600%, breakeven Year 3.
-- 
+  
 - **Cash Flow**:
   
   | Year | CapEx ($B) | OpEx ($B) | Revenue ($B) | Net ($B) |
