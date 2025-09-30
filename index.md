@@ -60,23 +60,23 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
 ### ChatGpt 4 Responsess
 Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
 
-1. [Tile factory](chatgpt/01-tilefactory.md)  
+1. [Tile factory](ChatpGpt/01-tilefactory.md)  
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
-2. [Sustainable Urban Agriculture](chatgpt/02-UrbanArculture.md) 
+2. [Sustainable Urban Agriculture](ChatpGpt/02-UrbanArculture.md) 
    Closed-loop systems for households, producing food, water, and energy
-3. [Earth-Star Sustainable Farm](chatgpt/03-UrbanFarms)  
+3. [Earth-Star Sustainable Farm](ChatpGpt/03-UrbanFarms)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Smart City Ecosystem](chatgpt/04-SmartCity.md) 
+4. [Smart City Ecosystem](ChatpGpt/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-5. [Nationwide](chatgpt/05-nationwide.md) 
+5. [Nationwide](ChatpGpt/05-nationwide.md) 
    Expand the cities to nationwide and environmnet cleanup.
-6. [Undersea Cities](chatgpt/06-undersea.md) 
+6. [Undersea Cities](ChatpGpt/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
-7. [Tiles and kits catalog](chatgpt/07-tilesandkits.md) 
+7. [Tiles and kits catalog](ChatpGpt/07-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
-8. [Feasibility and Viability](chatgpt/08-feasability.md) 
+8. [Feasibility and Viability](ChatpGpt/08-feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
-9. [Reslence](chatgpt/09-resilience.md) 
+9. [Reslence](ChatpGpt/09-resilience.md) 
     City resilence to man made and natural disaters.
 
 ## Get Involved
