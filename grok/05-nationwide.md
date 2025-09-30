@@ -81,6 +81,7 @@ Replace ~700 bases (~27M acres) and 500,000 housing units with stealth-enabled t
 - **Composition**: 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; metamaterials (0.1–10 GHz absorption).
 - **Features**: 2,800 MPa strength, 20% PV, 100 IoT sensors/tile (AES-256), AWG (0.5 L/m²/day), LFP batteries (0.5 kWh/tile). Cost: $15/tile.
 - **Kits**:
+  
   | Kit Type | Components | Cost ($/kit) | Quantity/Base |
   |----------|------------|--------------|---------------|
   | Stealth Tile Kit | 100 tiles | 1,500 | 10,000–20,000 |
@@ -124,7 +125,7 @@ Redevelop ~3,000 airports (3M acres) into hyperloop hubs or green spaces.
 - **CapEx**: $22–38T (cities: $6–12T; roads: $6–12T; rail: $0.25–0.6T; hyperloop: $0.6–1.2T; mining: $0.4–0.8T; manufacturing: $1.8–3.6T; military: $0.6–1.2T; airports: $0.25–0.5T; habitat: $120–600B; ocean: $40–80B; ships/aircraft: $0.8–1.6T; plants/dams: $0.3–0.6T). Financed: 50% federal ($11–19T), 30% revenues ($6.6–11.4T), 20% bonds ($4.4–7.6T).
 - **OpEx**: $2.5–5T/year (25% automation savings).
 - **Revenue**: $17–25T/year by Year 10:
-- 
+  
   | Source | ($T/year) |
   |--------|-----------|
   | Cities/Trade/Food | 6–8 |
