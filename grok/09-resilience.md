@@ -55,7 +55,9 @@ This analysis evaluates the resilience of Earth-Star Industries’ smart city di
   - **Total OpEx**: $3.11–6.11T/year (+$0.01T).
   - **Total Revenue**: $19.94–28.44T/year (+$0.1926T).
   - **ROI**: 600–800%, breakeven Year 3.5.
+    
   - **Cash Flow**:
+    
     | Year | CapEx ($T) | OpEx ($T) | Revenue ($T) | Net ($T) |
     |------|------------|-----------|--------------|----------|
     | 1–2 | 6.33–9.48 | 0.62–1.22 | 1.26–1.51 | -5.69 to -9.19 |
