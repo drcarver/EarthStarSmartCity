@@ -208,7 +208,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 
 ### Public Buildings
 - **Churches (5 units, 5,000 m² each)**: Multi-denominational, ceramic-based.
-- 
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 2,500 tiles, 250 window tiles              | 27,500   | 1        |
@@ -265,8 +265,8 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
   | Planning/Site Prep| 15             |
   
 - **OpEx**: $50–$70M/year (20% savings via automation, ceramics).
-  
-- **Revenue**: $3.45–$3.65B/year:
+
+  **Revenue**: $3.45–$3.65B/year:
   
   | Source           | Revenue ($M/year) |
   |------------------|-------------------|
