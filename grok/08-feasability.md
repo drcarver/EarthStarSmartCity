@@ -35,7 +35,7 @@ This analysis evaluates the feasibility of Earth-Star Industries’ integrated N
   | Tiles and Kits | 9.19 |
   | Total | 31.46–47.19 |
   
-  - **Financing**: 50% federal ($15.73–23.6T: IIJA $212B, CERCLA $50B, IRA $100B, NOAA $5B, DoD $50B), 30% revenues ($9.44–14.16T), 20% bonds ($6.29–9.44T).
+  -**Financing**: 50% federal ($15.73–23.6T: IIJA $212B, CERCLA $50B, IRA $100B, NOAA $5B, DoD $50B), 30% revenues ($9.44–14.16T), 20% bonds ($6.29–9.44T).
 - **Total OpEx**: $3–6T/year (25% automation savings, $0.75–1.5T/year).
 - **Total Revenue**: $19.65–28.15T/year by 2040
   
@@ -45,8 +45,9 @@ This analysis evaluates the feasibility of Earth-Star Industries’ integrated N
   | Undersea Cities (energy, food, tourism, hotels, remediation) | 0.1325–0.1575 |
   | Tiles and Kits (districts, undersea, carbon credits, RECs) | 2.5–3 |
 - **ROI**: 600–800%, breakeven Year 3.5.
+  
 - **Cash Flow**
-  :
+  
   | Year | CapEx ($T) | OpEx ($T) | Revenue ($T) | Net ($T) |
   |------|------------|-----------|--------------|----------|
   | 1–2 | 6.29–9.44 | 0.6–1.2 | 1.25–1.5 | -5.64 to -9.14 |
