@@ -13,6 +13,7 @@ This catalog details all tiles and kits used by Earth-Star Industries for constr
 All tiles are ceramic-based, modular, and produced in tile factories using automated processes. Input materials are sourced from recycled landfill waste (70%), brownfields (20%), ocean plastics/metals (5%), and sustainable mines (5% for SiC, Al₂O₃, graphene/CNTs, ZrO₂).
 
 ### Tile Types
+
 | Tile Type | Composition | Specifications | Input Sources | Manufacturing Process | Cost ($/tile) | Quantity (2040) | Revenue ($/year) |
 |-----------|-------------|----------------|---------------|-----------------------|---------------|-----------------|------------------|
 | **Enhanced Ceramic Tile** | 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ | 5 m², 200 kg, 10–15 cm thick, 2,800 MPa strength, >95% recyclability, 20% PV efficiency, 0.5 L/m²/day AWG, 0.5 kWh/tile LFP battery, 100 IoT sensors (AES-256), copper grounding mesh | Landfills (70%), brownfields (20%), ocean plastics (5%), mines (5%) | Ball milling, spray drying, isostatic pressing, sintering (1,600°C), IoT integration; 80% automated (CNC, ABB robots) | 10 | 8.75T (districts), 0.25T (undersea) | 87.5B (districts), 2.5B (undersea) |
@@ -30,6 +31,7 @@ All tiles are ceramic-based, modular, and produced in tile factories using autom
 Kits are pre-assembled, ceramic-based modules for specific functions, sourced from tile factories. All include smart airlocks for security.
 
 ### Kit Types
+
 | Kit Type | Components | Use Case | Material Composition | Input Sources | Manufacturing Process | Cost ($/kit) | Quantity (2040) | Revenue ($/year) |
 |----------|------------|----------|---------------------|---------------|-----------------------|--------------|-----------------|------------------|
 | **Tile Kit** | 100 Enhanced Ceramic Tiles | General construction (districts, bases, airports) | Same as Enhanced Tile | Landfills (70%), brownfields (20%), ocean plastics (5%), mines (5%) | Automated assembly (CNC, robotic stacking), quality control (AI vision) | 1,000 | 87.5M (districts) | 87.5B |
@@ -69,13 +71,16 @@ Kits are pre-assembled, ceramic-based modules for specific functions, sourced fr
   - **Total**: $9.19T (financed: 50% federal [$4.595T, IIJA/CERCLA/IRA/NOAA/DoD], 30% revenues [$2.757T], 20% bonds [$1.838T]).
 - **Total OpEx**: $0.5–1T/year (25% automation savings).
 - **Total Revenue**: $2.5–3T/year by 2040:
+  
   | Source | Revenue ($B/year) |
   |--------|-------------------|
   | Tiles (districts, undersea) | 115 (districts), 27.5 (undersea) |
   | Kits (districts, undersea) | 2,305.5 (districts), 112.3 (undersea) |
   | Carbon Credits/RECs | 100–300 (2B tons CO₂, 1.5T MWh) |
 - **ROI**: 600–800%, breakeven Year 3.
+- 
 - **Cash Flow**:
+  
   | Year | CapEx ($T) | OpEx ($T) | Revenue ($T) | Net ($T) |
   |------|------------|-----------|--------------|----------|
   | 1–2 | 1.838 | 0.1–0.2 | 0.25–0.3 | -1.688 to -1.638 |
@@ -94,6 +99,7 @@ Kits are pre-assembled, ceramic-based modules for specific functions, sourced fr
 - **Inventory Management**: AI-driven supply chain (DARPA Squad X) reduces delays by 20% ($0.2B/year).
 
 ## Challenges and Mitigation
+
 | Challenge | Mitigation |
 |-----------|------------|
 | High CapEx ($9.19T) | Federal funding ($4.595T), revenues ($2.757T), bonds ($1.838T). |
