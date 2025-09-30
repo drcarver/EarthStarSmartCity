@@ -63,6 +63,7 @@ The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultura
 - **Inputs**: 3,650–7,300 tons/day (farm waste, urban MSW, e-waste, biomedical, grey/black water, sewage; 0.5–1 ton/person/day for 20,000 people).
 - **Processes**: AI sorting ($0.5M/year), anaerobic digestion (digestate for farms), pyrolysis (biochar, oils), electrodialysis/acid leaching (metals), supercritical CO₂ (tile recycling), all using ceramic equipment (Recycling Line Kit).
 - **Outputs**:
+- 
   | Output                  | Quantity (tons/day) | Use                  |
   |-------------------------|---------------------|----------------------|
   | Ceramic Feedstock       | 3,650–7,300        | Tile factory         |
@@ -75,6 +76,7 @@ The Earth-Star Industries Skyscraper Farm is a 15-floor, large-scale agricultura
 - **Equipment**: Biogas turbines (6 MW), Electrochaea methanation (15,000 tons methane/year), solar panels (90,000 kWh/day), 20 VAWTs (100 kW total), LFP batteries (3,000 kWh), all ceramic-based (Energy Kit).
 - **Output**: 45 million kWh/year (surplus 30–50%, 13.5–22.5 million kWh/year for grid sales or tile factory). Efficient electrolyzers boost methane output by 10% ($0.3M/year revenue).
 - **Allocation**:
+- 
   | Use            | Power (kWh/year) | Notes                 |
   |----------------|------------------|-----------------------|
   | Internal       | 31.5M            | Farms, processing, water |
@@ -139,6 +141,7 @@ Recomputed for 20,000-person scale, ceramic-based equipment, and 2025 pricing (a
 - **Financing**: Tile factory revenues ($802–$908M/year from hub), USDA REAP grants ($1–$2M), 30% ITC ($10.2–$18M), retailer partnerships ($3M).
 
 **Cash Flow**:
+
 | Year | CapEx ($M) | OpEx ($M) | Revenue ($M) | Net ($M)       |
 |------|------------|-----------|--------------|----------------|
 | 1    | 34.13–60.3 | 4–7.5     | 0            | -38.13–-67.8   |
