@@ -9,17 +9,7 @@ theme: minimal
 
 Recompute all costs, revenues and volumes.Make all kits equipment in the facility from ceramcs, tiles and kits. Uses specifications from prompt 1 for all tiles, kits and studs.
 
----
-layout: default
-title: Phased Implementation Plan for Sustainable Farm Ecosystem
-description: A mitigated, phased rollout of the Sustainable Farm Ecosystem to achieve full feasibility by 2030, incorporating Optimus robots, cultured meats, and artificial womb research for a population of 20,000.
-license: Creative Commons Attribution-ShareAlike 4.0 International License
-theme: jekyll-theme-minimal
----
-
 # Phased Implementation Plan for Sustainable Farm Ecosystem
-
-*License*: This document is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the material, provided you give appropriate credit, indicate changes, and distribute any derivative works under the same license.
 
 ## Introduction
 
