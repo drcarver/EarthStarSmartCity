@@ -44,9 +44,9 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
 2. [Sustainable Urban Agriculture](grok/02-UrbanArculture.md) 
    Closed-loop systems for households, producing food, water, and energy
-3. [Earth-Star Sustainable Farm](grok/03-UrbanFarms)  
+3. [Earth-Star Sustainable Farm](grok/03-UrbanFarms.md)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm Rational](grok/03A-Rational)  
+4. [Earth-Star Sustainable Farm Rational](grok/03A-Rational.md)  
    Rationale for why this vertical farm will scced vs. others.
 5. [Smart City Ecosystem](grok/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
@@ -68,9 +68,9 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
 2. [Sustainable Urban Agriculture](ChatpGpt/02-UrbanArculture.md) 
    Closed-loop systems for households, producing food, water, and energy
-3. [Earth-Star Sustainable Farm](ChatpGpt/03-UrbanFarms)  
+3. [Earth-Star Sustainable Farm](ChatpGpt/03-UrbanFarms.md)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm Raational](ChatpGpt/03A-Rational)  
+4. [Earth-Star Sustainable Farm Raational](ChatpGpt/03A-Rational.md)  
    Rationale for why this vertical farm will scced vs. others.
 5. [Smart City Ecosystem](ChatpGpt/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
