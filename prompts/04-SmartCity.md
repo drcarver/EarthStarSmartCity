@@ -204,7 +204,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 
 ### Public Buildings
 - **Churches (5 units, 5,000 m² each)**: Multi-denominational, ceramic-based.
-  
+ 
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 2,500 tiles, 250 window tiles              | 27,500   | 1        |
@@ -214,7 +214,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
   - Cost: $157,625 CapEx/unit, $0.2M/year OpEx/unit.
     
 - **Government Offices (2 units, 10,000 m² each)**: City hall, permits office.
-  
+ 
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 5,000 tiles, 500 window tiles              | 55,000   | 1        |
