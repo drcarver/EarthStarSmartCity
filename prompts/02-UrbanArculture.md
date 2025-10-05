@@ -131,6 +131,7 @@ Total: ~59.25-159.1 kWh/day, meeting all system demands (estimated 10-20 kWh/day
 ## Cost Analysis
 
 ### Upfront Costs
+
 | Component | Quantity | Cost ($) | Total ($) |
 |-----------|----------|----------|-----------|
 | Tile Kit (560-920 tiles) | 1-2 | 1,000/kit | 1,000-2,000 |
@@ -144,6 +145,7 @@ Total: ~59.25-159.1 kWh/day, meeting all system demands (estimated 10-20 kWh/day
 | **Total Upfront** | | | **$98,500-154,200** |
 
 ### Operating Costs
+
 | Component | Annual Cost ($) |
 |-----------|-----------------|
 | Maintenance (tiles, systems) | 500-1,500 |
@@ -152,6 +154,7 @@ Total: ~59.25-159.1 kWh/day, meeting all system demands (estimated 10-20 kWh/day
 | **Total Operating** | **$1,500-4,500** |
 
 ### Savings
+
 | Category | Annual Savings ($) |
 |----------|--------------------|
 | Energy (solar/biogas vs. grid) | 800-2,200 |
@@ -191,6 +194,7 @@ Total: ~59.25-159.1 kWh/day, meeting all system demands (estimated 10-20 kWh/day
 - **Urban Compatibility**: High (8/10); smart airlocks, odor control, and ISO 37122 compliance ensure urban fit.
 
 ### Challenges and Solutions
+
 | Challenge | Solution |
 |-----------|---------|
 | High Upfront Costs ($98,500-154,200) | 30% tax credits ($29,550-46,260), DOE grants, carbon credits ($0.25-3/year). |
