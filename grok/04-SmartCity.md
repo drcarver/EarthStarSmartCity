@@ -27,6 +27,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### Luxurious Single-Family Homes (5,000 units)
 - **Design**: 2,000 ft² (186 m²), 2 floors, 4–6 bedrooms, with Sustainable Urban Agriculture System Kit (300 ft² sunroom, pool, hot tub, sauna, kitchen).
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($/unit) | Quantity/Unit |
   |------------------|---------------------------------------------|---------------|---------------|
   | Tile Kit         | 400 tiles, 100 window tiles                | 5,000         | 1             |
@@ -45,6 +46,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### Sustainable Hospital (1 unit, 50,000 m²)
 - **Design**: 15 floors, 1,000 tons/year food, 500 kg/day medicines, 1,000 kg/day supplies via cleanrooms (ISO 1–8, ceramic equipment).
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 20,000 tiles, 2,000 window tiles           | 220,000  | 1        |
@@ -61,6 +63,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### K-12 School (1 unit, 30,000 m²)
 - **Design**: 15 floors, competency-based curriculum, sports (ceramic courts, fields), tech labs (3D printers, robotics), 1,000 m² vertical farms.
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 15,000 tiles, 1,500 window tiles           | 165,000  | 1        |
@@ -76,6 +79,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### Shopping Mall (1 unit, 100,000 m²)
 - **Design**: 15 floors, theaters, entertainment, stores for Earth-Star products, home improvement, gourmet restaurants (halal, kosher, vegan).
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 50,000 tiles, 5,000 window tiles           | 550,000  | 1        |
@@ -90,6 +94,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### Low-Income Apartment Complex (1 unit, 50,000 m²)
 - **Design**: 15 floors, 5,000 units (500 ft² each), soup kitchen/restaurant (free meals, healthcare), biodegradable packaging.
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 20,000 tiles, 2,000 window tiles           | 220,000  | 1        |
@@ -104,7 +109,8 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 
 ### Hotels (2 units, 20,000 m² each)
 - **Design**: 15 floors, 500 rooms/unit, restaurants, shops.
-- **Kits**:
+- **Kits**
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 16,000 tiles, 1,600 window tiles           | 176,000  | 1        |
@@ -118,6 +124,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### College Campus (1 unit, 30,000 m²)
 - **Design**: 15 floors, competency-based courses, research labs, pottery/hobby classes, vocational training (ceramics, tech, agriculture; trains 500 workers for construction).
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 15,000 tiles, 1,500 window tiles           | 165,000  | 1        |
@@ -132,6 +139,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### Industrial Park (1 unit, 50,000 m²)
 - **Design**: 15 floors, startup incubators, virtual companies, Tesla Megapack factory (1,000 units/year), battery cell line (10 GWh/year), sustainable mining (rare earths).
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 20,000 tiles, 2,000 window tiles           | 220,000  | 1        |
@@ -146,6 +154,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### Colossus 2-Sized Data Center (1 unit, 20,000 m²)
 - **Design**: 15 floors, 100 MW (scalable to 200 MW+), optimizes city operations, sells compute resources.
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 10,000 tiles, 1,000 window tiles           | 110,000  | 1        |
@@ -159,6 +168,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### Smart Airport (1 unit, 30,000 m²)
 - **Design**: 15 floors, shops, restaurants (halal, kosher, vegan), hyperloop hub.
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 15,000 tiles, 1,500 window tiles           | 165,000  | 1        |
@@ -172,6 +182,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 ### Additional Farm Tower (1 unit, 300,000 m²)
 - **Design**: Hybrid model (70% vertical, 30% ground fields on 100–250 acres) for energy efficiency; matches skyscraper farm (103,050 tiles, 15,000 studs) with LED upgrades (600 µmol/m²/s via DOE partnerships).
 - **Kits**:
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 103,050 tiles, 3,000 window tiles          | 1,330,500| 1        |
@@ -186,6 +197,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 
 ### Public Buildings
 - **Churches (5 units, 5,000 m² each)**: Multi-denominational, ceramic-based.
+  
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 2,500 tiles, 250 window tiles              | 27,500   | 1        |
@@ -193,7 +205,9 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
   | Energy Kit       | 1 MW solar, biogas                         | 100,000  | 1        |
   | Smart Airlock Kit| 1 unit                                     | 2,000    | 1        |
   - Cost: $157,625 CapEx/unit, $0.2M/year OpEx/unit.
-- **Government Offices (2 units, 10,000 m² each)**: City hall, permits office.
+
+-  **Government Offices (2 units, 10,000 m² each)**: City hall, permits office.
+- 
   | Kit Type         | Components                                  | Cost ($) | Quantity |
   |------------------|---------------------------------------------|----------|----------|
   | Tile Kit         | 5,000 tiles, 500 window tiles              | 55,000   | 1        |
@@ -221,6 +235,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 
 ## Financial Model
 - **CapEx**: $396.37–$403.54M (10% reduction via modular kits: $39.6–$40.3M savings; $200M grants, adjusted for 2025 data).
+  
   | Component         | Cost ($M)      |
   |-------------------|----------------|
   | Homes (5,000)     | 248.5          |
@@ -237,8 +252,10 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
   | Churches (5)      | 0.788125       |
   | Offices (2)       | 0.7305         |
   | Planning/Site Prep| 15             |
+
 - **OpEx**: $50–$70M/year (20% savings via automation, ceramics).
 - **Revenue**: $3.26–$3.46B/year:
+  
   | Source           | Revenue ($M/year) |
   |------------------|-------------------|
   | Energy (1,000–1,500 MW) | 880–1,320    |
@@ -253,6 +270,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 - **Financing**: Tile factory ($1.01–$1.06B/year), USDA REAP ($10–$20M at 80% guarantee), 30% ITC ($118.91–$121.06M), DOE grants ($10M), crowdfunding ($100M via kit sales).
 
 - **Cash Flow**:
+  
   | Year | CapEx ($M) | OpEx ($M) | Revenue ($M) | Net ($M)       |
   |------|------------|-----------|--------------|----------------|
   | 1    | 196.37–203.54 | 25–35     | 0            | -221.37–-238.54 |
@@ -272,6 +290,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
   - **Bottleneck Reduction**: Pre-assembled kits, AI assembly (20% faster, $5M savings); hybrid farming cuts energy 25%; LED upgrades via DOE.
 
 ## Challenges and Mitigation
+
 | Challenge           | Mitigation                                                  |
 |--------------------|-------------------------------------------------------------|
 | High CapEx ($396.37–$403.54M) | Grants ($20–$30M), ITC ($118.91–$121.06M), tile factory ($1.01–$1.06B/year). |
