@@ -39,6 +39,7 @@ Add anything else we should add into this farm to replace any other existing agr
 
 We want to self finance this as much as possible and expand it out to be able to feed the entire population of the United States and replace all traditional farms over time.  Add cultured meats and any other plant based alternatives we currently have available
 
+Assume we have the cows, chics, goas and any oer farm animal reired raised on horiontal fields and fed from the other hrozonal farms as required.  in additomn all orchards should be horzontal and with full size trees.  Be sure to caluclate the time it takes to either relocate trres or grow them as required into our revenue streams.  Any crops that make sense can be grown horizontally
 
 As we take care of American citizens, we want to become a net export for pharmaceuticals, food and vitamins to the world.  expand our farms to achieve this
 
