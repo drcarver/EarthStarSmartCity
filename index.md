@@ -20,9 +20,9 @@ Explore the detailed prompts for AI to define the Earth-Star Sustainable Smart C
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
 2. [Sustainable Urban Agriculture](prompts/02-UrbanArculture.md) 
    Closed-loop systems for households, producing food, water, and energy
-3. [Earth-Star Sustainable Farm](prompts/03-UrbanFarms)  
+3. [Earth-Star Sustainable Farm](prompts/03-UrbanFarms.md)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm Rational](prompts/03A-Rational)  
+4. [Earth-Star Sustainable Farm Rational](prompts/03A-Rational.md)  
    Rationale for why this vertical farm will scced vs. others..
 5. [Smart City Ecosystem](prompts/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
