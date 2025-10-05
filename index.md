@@ -22,7 +22,7 @@ Explore the detailed prompts for AI to define the Earth-Star Sustainable Smart C
    Closed-loop systems for households, producing food, water, and energy
 3. [Earth-Star Sustainable Farm](prompts/03-UrbanFarms)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm] Raational[(prompts/03A-Rationale)  
+4. [Earth-Star Sustainable Farm Rational](prompts/03A-Rational)  
    Rationale for why this vertical farm will scced vs. others..
 5. [Smart City Ecosystem](prompts/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
@@ -46,7 +46,7 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
    Closed-loop systems for households, producing food, water, and energy
 3. [Earth-Star Sustainable Farm](grok/03-UrbanFarms)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm] Raational[(grok/03A-Rationale)  
+4. [Earth-Star Sustainable Farm Rational](grok/03A-Rational)  
    Rationale for why this vertical farm will scced vs. others.
 5. [Smart City Ecosystem](grok/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
@@ -70,7 +70,7 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
    Closed-loop systems for households, producing food, water, and energy
 3. [Earth-Star Sustainable Farm](ChatpGpt/03-UrbanFarms)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm] Raational[(ChatpGpt/03A-Rationale)  
+4. [Earth-Star Sustainable Farm Raational](ChatpGpt/03A-Rational)  
    Rationale for why this vertical farm will scced vs. others.
 5. [Smart City Ecosystem](ChatpGpt/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
