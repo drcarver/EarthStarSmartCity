@@ -31,9 +31,6 @@ Produces many types of of foods as we can including internal orchards and things
 
 Provide the capability to produce any crop grown on farms across the US today including cotton and tobacco for year round production.  We should cure any tobacco products and stuff like that that we can to supply to other vendors for the final forms we wanna do that with anything that's output from the farm that would be used by other people to create other additional products within stores we basically want to completely replace our existing farm structure give me an idea of our size versus a traditional farm that would say supply for 20,000 people.Add in financials and ROY and breakeven analysis compared to a typical farm assume we're going to place these on hollowed out areas and cities or abandoned farms across the US and supply 100% of US byproducts
 
-Assume we're going to research into automated womb technology so that we can provide for more ethical raising of farm animals.  Use aquaponics to supply any wild caught fish or anything so that we can reduce the amount of fishing done for overfishing.
-
-
 Add any crops necessary to produce vitamins and other goods like that that would be useful for replacing the vitamin market that exist today and also any other health by products produced sustainable hospital supplies as necessary.  Add any clean rooms required to allow us to produce any necessary pharmaceuticals or anything else for the health industry based on our farms
 
 As we purchase abandoned farms we should try to take any leftover farming land and rewildlife it and provide all of the plants and animals it needs including larger animals like bison and stuff from our artificial wombs.  Assume brownfield sites within court out cities would not include rewild rewilding since then probably be pretty ugly for a city to have a rewelded area within it otherwise we rewild all farmland and rural areas assume we're going to completely remove existing structures and replace them with our new structures
@@ -47,7 +44,7 @@ As we take care of American citizens, we want to become a net export for pharmac
 
 Implement any carbon credits we can get and provide for all of the standards we can think of that would help us out iso NASA mil spec, blue green certifications all of those
 
-Provide an aggressive feasibility analysis for this projectt.
+Provide an aggressive feasibility analysis for this project
 
 ## License
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
