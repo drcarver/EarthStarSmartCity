@@ -72,6 +72,7 @@ CapEx: $500M ($1,000/m² x 500,000 m² effective farming area). [](grok_render_c
 
 - **Scaling**: 22,000 farms for US (330M people, 330M tons/year food); [](grok_render_citation_card_json={"cardIds":["ddb37e"]}) self-financed via revenues; net exporter phase by Year 10 ($500B global revenue).
 - **Cash Flow**:
+  
   | Period    | CapEx ($M) | OpEx ($M) | Revenue ($B) | Net ($B) |
   |-----------|------------|-----------|--------------|----------|
   | Year 1   | 500       | 25       | 0.75        | -0.275  |
