@@ -135,9 +135,11 @@ and setting for role based security.  Any where you would use a lock can be repl
 - Provide monthly water and power budget
 - Provide very aggressive feasibility analysis for the project
 
-## License
-This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
 Create any new kits as needed. Recompute costs and revenues as needed. Implement any suggestions to increase viability. Reuse any existing kits and tiles as needed. All tiles and kits required are received from the tile factory. All buildings are construed using tiles, ceramics and kits only. Provide for smart airlocks in all buildings that scan for weapons and explosives and alert security. Implement all smart city standards required including security. Support sustainable building codes.
 
+Display the response as raw markdown and in a separate code window suitable for use in a single github page that can easily be copied to a github pages repository. Use a jekyll-theme-minimal, so tables are properly displayed in older browsers. Use Creative commons license. Display the page as markdown only.
+
 Apply any Suggestions to Enhance Viability and reduce bottlenecks
+
+## License
+This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
