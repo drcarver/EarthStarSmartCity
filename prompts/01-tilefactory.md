@@ -48,12 +48,13 @@ The Earth-Star Industries Facility is self-sufficient high-rise building embodyi
   - Combined HVAC/Heat pump
   - Foundation tile, made to be the foundation of structures including providing power, water and methane to any equipment on the floor.  It can have large batteries, water and methane storage. Water bladders are linked to the overall water tank for the structure.  Contains the battery management system and mechanisms for the smart grid.  The structure becomes essentially a large tesla megapack.
 - **Manufacturing**: In-house graphene/CNT via CVD (900–1,000°C, methane feedstock, >90% purity); HIP (1,600–1,800°C, 80–150 MPa); microchannels (0.5 mm) for fluid flow.
-- **Maintenance**: Snap-together for replacement
+- **Maintenance**: Snap-together for replacement recycle failing component
 
 ### Smart Studs
 - **Quantity and Specs**:  1m length, 50 kg, 10 cm diameter.
 - **Features**: Same ceramic composite; interlocking sockets for power, water, methane; copper wiring, graphene-reinforced pipes. Provides the backbone for the tiles water tank and smart grid.
-
+- **Maintenance**: Snap-together for replacement recycle failing component
+- 
 ## Modular Kits
 All kits are Ikea-style flat-packed, produced in-house from tile factory, and available for sale. Reuse existing kits where possible; create new ones as needed (e.g., Apartment Kit, Electronics Kit). 
 - **Farm Kit**: Hydroponic/aeroponic trays, RAS tanks.
@@ -113,6 +114,9 @@ and setting for role based security.  Any where you would use a lock can be repl
   - microcontrollers (65nm CMOS).
   - sensors (MEMS).
   - semiconductors
+  - pharmacuiticals
+  - sustainable hospital supplies
+  - pharamacuticlas and vitamins
 
 ## Internet and Smart City Integration
 - **Internet**: scalable to 10 TB/s (fiber-optic, in-house routers).
@@ -122,7 +126,7 @@ and setting for role based security.  Any where you would use a lock can be repl
 1. **Leased tent for initial kits, tiles, studs, equipment.  Provice a timeline when renred including tent and all leased equipment
 2. **Transition to in-house ceramic line Floor 1.
 
-## Hub-and-Spoke Urban District
+## Location ans recycling
 - **Location**: In a hollowed city adjacent to a brownsfield site and a closed landfill that can be mined to provide resourses for 
    tower to recycle.
 - **Railroad**: Any existing abandoned railways will be recyled and railroads will be upgraded to high speed rail as needed.
@@ -131,7 +135,7 @@ and setting for role based security.  Any where you would use a lock can be repl
 - Structure output as a single GitHub Markdown page (minimal theme).
 - Use tables for comparisons/data.
 - Ensure self-contained, incorporating all elements.
-- Provide cost analysis, cashflow and break even calculation
+- Provide cost analysis, cashflow and break even calculation.  Compte costs factoring meterial cost at the cost of the waste streams
 - Provide monthly water and power budget
 - Provide very aggressive feasibility analysis for the project
 
