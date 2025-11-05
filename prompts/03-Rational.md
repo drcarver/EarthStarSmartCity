@@ -1,4 +1,4 @@
-Prompt 3A Rationale
+Prompt 3 Rationale
 
 Given the typical reasons vertical farms fail and regular farms for that matter specify how this system addresses those problems and provides for solutions given an aggressive feasibility analysis for the project. 
 what aspects of this system that we're proposing are unique in the sense that nobody else is trying them and why do you suppose that is? Given all the advancements we're proposing here and changes to the current 
