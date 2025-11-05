@@ -5,7 +5,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Prompt 3 Ultra-Closed-Loop Regenerative Ecosystem: Transforming Global Agriculture
+# Prompt 2 Ultra-Closed-Loop Regenerative Ecosystem: Transforming Global Agriculture
 
 ## Project Overview
 
