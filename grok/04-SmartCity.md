@@ -2,451 +2,105 @@
 title: Earth-Star Industries Smart City Complex
 description: A modular hub-and-spoke urban ecosystem for 20,000 residents, integrating luxurious single-family homes, sustainable urban agriculture systems, a hospital, K-12 school, shopping mall, low-income housing, hotels, college campus, vocational training, industrial park, Tesla Megapack factory, Colossus 2-sized data center, and smart airport, built with ceramic tiles and kits from the Earth-Star Industries Facility.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: jekyll-theme-minimal
+theme: minimal
 ---
 
-# Earth-Star Industries Smart City Complex  
-**Modular Hub-and-Spoke Urban Ecosystem (MHUE)**
-
-## Executive Summary
-
-The **Earth-Star Smart City Complex** is a **fully off-grid, self-financing, AI-orchestrated urban district** for **20,000 residents**, built **100% from ceramic tiles and modular kits** produced by the Earth-Star Industries Facility (Prompt 1). Located along **BNSF rail lines** (Seattle or Miami), it features **luxurious homes, a hospital, K-12 school, mall, low-income housing, hotels, college, industrial park, Tesla Megapack factory, Colossus 2 data center, and smart airport** — all under a **phased transparent ceramic dome** for disaster resilience and energy generation.
-
-Using **2025 robotics (Skydio, Spot, Squad X, BlockADE)** and **500 trained human workers**, construction completes in **2.5 years** with **$396M CapEx** (offset by **$200M grants + $1B/year tile factory revenue**). The city generates **$3.4B/year net profit**, achieves **break-even in Year 2**, and scales nationally via **rail-linked replication**.
-
----
-
-## Core Construction System (Prompt 1)
-
-All structures, equipment, and infrastructure are built **exclusively** using:
-
-- **Enhanced Ceramic Tiles** (5 m², 10–15 cm thick, 50 cm foundation):  
-  60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂  
-  **2,800 MPa compressive**, **>95% recyclable**, **28.75% PV**, **0.5 kWh LFP**, **AWG**, **IoT**, **EMP shielding**  
-- **Smart Studs** (1 m, 50 kg): Interlocking power/water/methane/data sockets  
-- **Modular Kits**: IKEA-style, flat-packed, ceramic-based, AI-assembled  
-- **Assembly**: 95% robotic (DARPA BlockADE snap-together), 5% human oversight  
-- **Light Pollution**: Matte non-reflective tiles, downward LEDs, **zero skyglow** → **urban stargazing certified**
-
----
-
-## City Dome: Transparent Ceramic Shield
-
-| Phase | Area Covered | Tiles Used | Features |
-|-------|--------------|------------|---------|
-| **1** | Hub (1M m²) | 200,000 clear tiles | PV (20%), AWG, sensors |
-| **2** | Spokes (2M m²) | 400,000 clear tiles | Self-healing, EMP >80 dB |
-| **3** | Full (5M m²) | 1M clear tiles | Hyperloop ports, VAWTs |
-
-- **Material**: Transparent ZrO₂-Al₂O₃ composite (95% transmittance)  
-- **Disaster Resistance**:
-  - **EMP**: >80 dB attenuation (copper mesh + ceramic Faraday cage)
-  - **Seismic**: 9.0 Richter (flexible graphene joints)
-  - **Hurricane**: 300 mph (aerodynamic curvature)
-  - **Blast**: UFC 3-340-02 (1,000 psi overpressure)
-  - **Fire**: 2,000°C resistance (SiC core)
-  - **Flood**: Floating foundation tiles (50 cm thick)
-- **Energy**: 500 MW from dome PV + VAWTs  
-- **Cost**: $500M (phased over 3 years, self-funded)
-
----
-
-## Hub-and-Spoke Layout
-
-| Zone | Area | Key Facilities | Population |
-|------|------|----------------|------------|
-| **Hub** | 1.5M m² | Tile Factory, Skyscraper Farm, Hospital, School, Mall, Data Center, Industrial Park, Airport | 5,000 |
-| **Spoke 1** | 1M m² | 5,000 Luxury Homes | 15,000 |
-| **Spoke 2** | 0.8M m² | Low-Income Apts, Hotels, College | 5,000 |
-| **Spoke 3** | 1.2M m² | Additional Farm Tower, Green Spaces | — |
-
----
-
-## Component Breakdown (All Ceramic, Kit-Based)
-
-### 1. Luxurious Single-Family Homes (5,000 units)
-- **Size**: 186 m², 2 floors  
-- **Kits per Home**:
-  | Kit | Qty | Cost |
-  |-----|-----|------|
-  | Tile Kit | 1 | $5,000 |
-  | Stud Kit | 1 | $9,000 |
-  | Agriculture Kit | 1 | $15,000 |
-  | Recreation Kit | 1 | $10,000 |
-  | Energy Kit | 1 | $6,000 |
-  | HVAC Kit | 1 | $2,000 |
-  | Smart Airlock Kit | 1 | $2,000 |
-  | **Total** | | **$49,000** |
-- **Output**: 1,200 kg crops, 75 kg fish, 150 L water, 2 kW surplus  
-- **CapEx**: **$245M** (vs. $1.875B conventional)
-
-### 2. Sustainable Hospital (50,000 m²)
-- **Output**: 1,000 tons food, 182 tons meds, 10 MW surplus  
-- **CapEx**: **$5.6M** | **OpEx**: $5M/yr  
-- **Revenue**: $300M/yr (healthcare + pharma)
-
-### 3. K-12 School (30,000 m²)
-- **Output**: 500 tons crops, educates 2,000  
-- **CapEx**: **$1.5M** | **OpEx**: $3M/yr
-
-### 4. Shopping Mall (100,000 m²)
-- **Revenue**: **$500M/yr**  
-- **CapEx**: **$3.5M**
-
-### 5. Low-Income Apartments (50,000 m²)
-- **Output**: 5,000 tons food, 10,000 free meals/day  
-- **CapEx**: **$4.1M**
-
-### 6. Hotels (2 × 20,000 m²)
-- **Revenue**: **$200M/yr**  
-- **CapEx**: **$1.9M**
-
-### 7. College Campus (30,000 m²)
-- **Trains 500 workers/year**  
-- **CapEx**: **$1.5M**
-
-### 8. Industrial Park (50,000 m²)
-- **Output**: 1,000 Megapacks, 10 GWh batteries, $100M rare earths  
-- **Revenue**: **$1.1B/yr**  
-- **CapEx**: **$12.5M**
-
-### 9. Colossus 2 Data Center (20,000 m²)
-- **100 MW, ceramic liquid cooling**  
-- **Revenue**: **$600M/yr**  
-- **CapEx**: **$15M**
-
-### 10. Smart Airport (30,000 m²)
-- **Hyperloop hub, Tesla robotaxi terminal**  
-- **Revenue**: **$250M/yr**  
-- **CapEx**: **$2.6M**
-
-### 11. Additional Skyscraper Farm (300,000 m²)
-- **Output**: 54,000 tons food, 488 tons packaging  
-- **CapEx**: **$23M**
-
-### 12. Public Buildings
-- **5 Churches**: $0.8M  
-- **2 Gov Offices**: $0.7M
-
----
-
-## Infrastructure Systems
-
-| System | Capacity | Source |
-|--------|----------|--------|
-| **Energy** | **4,000 MW** | 2,000 MW PV tiles, 1,500 MW biogas, 500 MW geothermal |
-| **Water** | **200M L/year** | 95% recycled, AWG tiles, greywater |
-| **Waste** | **200,000 tons/day** | MSW → tiles, bio-silica, rare earths |
-| **Internet** | **10 TB/s** | Fiber in smart roads, ceramic routers |
-| **Transport** | **500 mph hyperloops** | Ceramic tubes, Tesla robotaxis |
-
----
-
-## Construction Timeline (2.5 Years)
-
-| Phase | Duration | Cost | Key Actions |
-|-------|----------|------|-------------|
-| 1. Planning | 6 mo | $5M | Permits, FAST-41, grants |
-| 2. Site Prep | 6 mo | $10M | Recycle infrastructure |
-| 3. Hub Build | 12 mo | $115M | Factory, farm, hospital, mall |
-| 4. Spoke Build | 12 mo | $261M | Homes, college, airport |
-| 5. Dome + Testing | 12 mo | $510M | Phased dome, certification |
-
-**Total CapEx**: **$396M** → **$196M net** after grants
-
----
-
-## Financial Model (Recomputed)
-
-| Metric | Value |
-|--------|-------|
-| **Total CapEx** | **$396M** |
-| **Grants + ITC** | **$320M** |
-| **Net CapEx** | **$76M** |
-| **Annual OpEx** | **$60M** |
-| **Annual Revenue** | **$3.75B** |
-| **Annual Profit** | **$3.69B** |
-| **Break-Even** | **Month 10** |
-| **ROI (Year 5)** | **4,800%** |
-
-### Revenue Streams
-| Source | Revenue |
-|--------|---------|
-| Energy Export | $1.2B |
-| Food + Pharma | $1.1B |
-| Retail + Hotels | $700M |
-| Data Center | $600M |
-| Industrial | $1.1B |
-| Airport | $250M |
-| **Total** | **$3.75B** |
-
----
-
-## Feasibility & Viability Enhancements
-
-| Enhancement | Impact |
-|------------|--------|
-| **Tile Factory Pre-Funding** | $1B/year → full self-finance |
-| **Modular Kits** | -10% CapEx, +50% speed |
-| **AI Assembly** | 95% automation → $10M labor savings |
-| **Hybrid Farming** | -25% energy vs. full vertical |
-| **Dome PV** | +500 MW free energy |
-| **Rare Earth Mining** | +$100M/yr from waste |
-| **Tesla Partnership** | $50M Megapack orders |
-
----
-
-## Disaster Resilience: Domed City
-
-| Threat | Mitigation | Standard |
-|--------|-----------|----------|
-| **EMP** | Ceramic Faraday cage | MIL-STD-461G |
-| **Earthquake** | Graphene flex joints | 9.0 Richter |
-| **Hurricane** | Aerodynamic dome | 300 mph |
-| **Blast** | 1,000 psi tile | UFC 3-340-02 |
-| **Fire** | SiC core | 2,000°C |
-| **Flood** | Floating foundation | ICC 500 |
-
----
-
-## National Replication Plan
-
-| Year | Cities | Population | % U.S. |
-|------|--------|------------|--------|
-| 1 | 1 | 20,000 | 0.006% |
-| 5 | 100 | 2M | 0.6% |
-| 10 | 1,000 | 20M | 6% |
-| 20 | **16,000** | **320M** | **100%** |
-
----
-
-## License
-This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
----
-
-```markdown
----
-title: Earth-Star Industries Smart City Complex
-description: A modular hub-and-spoke urban ecosystem for 20,000 residents, integrating luxurious single-family homes, sustainable urban agriculture systems, a hospital, K-12 school, shopping mall, low-income housing, hotels, college campus, vocational training, industrial park, Tesla Megapack factory, Colossus 2-sized data center, and smart airport, built with ceramic tiles and kits from the Earth-Star Industries Facility.
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: jekyll-theme-minimal
----
-
-# Earth-Star Industries Smart City Complex  
-**Modular Hub-and-Spoke Urban Ecosystem (MHUE)**
-
-## Executive Summary
-
-The **Earth-Star Smart City Complex** is a **fully off-grid, self-financing, AI-orchestrated urban district** for **20,000 residents**, built **100% from ceramic tiles and modular kits** produced by the Earth-Star Industries Facility (Prompt 1). Located along **BNSF rail lines** (Seattle or Miami), it features **luxurious homes, a hospital, K-12 school, mall, low-income housing, hotels, college, industrial park, Tesla Megapack factory, Colossus 2 data center, and smart airport** — all under a **phased transparent ceramic dome** for disaster resilience and energy generation.
-
-Using **2025 robotics (Skydio, Spot, Squad X, BlockADE)** and **500 trained human workers**, construction completes in **2.5 years** with **$396M CapEx** (offset by **$200M grants + $1B/year tile factory revenue**). The city generates **$3.4B/year net profit**, achieves **break-even in Year 2**, and scales nationally via **rail-linked replication**.
-
----
-
-## Core Construction System (Prompt 1)
-
-All structures, equipment, and infrastructure are built **exclusively** using:
-
-- **Enhanced Ceramic Tiles** (5 m², 10–15 cm thick, 50 cm foundation):  
-  60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂  
-  **2,800 MPa compressive**, **>95% recyclable**, **28.75% PV**, **0.5 kWh LFP**, **AWG**, **IoT**, **EMP shielding**  
-- **Smart Studs** (1 m, 50 kg): Interlocking power/water/methane/data sockets  
-- **Modular Kits**: IKEA-style, flat-packed, ceramic-based, AI-assembled  
-- **Assembly**: 95% robotic (DARPA BlockADE snap-together), 5% human oversight  
-- **Light Pollution**: Matte non-reflective tiles, downward LEDs, **zero skyglow** → **urban stargazing certified**
-
----
-
-## City Dome: Transparent Ceramic Shield
-
-| Phase | Area Covered | Tiles Used | Features |
-|-------|--------------|------------|---------|
-| **1** | Hub (1M m²) | 200,000 clear tiles | PV (20%), AWG, sensors |
-| **2** | Spokes (2M m²) | 400,000 clear tiles | Self-healing, EMP >80 dB |
-| **3** | Full (5M m²) | 1M clear tiles | Hyperloop ports, VAWTs |
-
-- **Material**: Transparent ZrO₂-Al₂O₃ composite (95% transmittance)  
-- **Disaster Resistance**:
-  - **EMP**: >80 dB attenuation (copper mesh + ceramic Faraday cage)
-  - **Seismic**: 9.0 Richter (flexible graphene joints)
-  - **Hurricane**: 300 mph (aerodynamic curvature)
-  - **Blast**: UFC 3-340-02 (1,000 psi overpressure)
-  - **Fire**: 2,000°C resistance (SiC core)
-  - **Flood**: Floating foundation tiles (50 cm thick)
-- **Energy**: 500 MW from dome PV + VAWTs  
-- **Cost**: $500M (phased over 3 years, self-funded)
-
----
-
-## Hub-and-Spoke Layout
-
-| Zone | Area | Key Facilities | Population |
-|------|------|----------------|------------|
-| **Hub** | 1.5M m² | Tile Factory, Skyscraper Farm, Hospital, School, Mall, Data Center, Industrial Park, Airport | 5,000 |
-| **Spoke 1** | 1M m² | 5,000 Luxury Homes | 15,000 |
-| **Spoke 2** | 0.8M m² | Low-Income Apts, Hotels, College | 5,000 |
-| **Spoke 3** | 1.2M m² | Additional Farm Tower, Green Spaces | — |
-
----
-
-## Component Breakdown (All Ceramic, Kit-Based)
-
-### 1. Luxurious Single-Family Homes (5,000 units)
-- **Size**: 186 m², 2 floors  
-- **Kits per Home**:
-  | Kit | Qty | Cost |
-  |-----|-----|------|
-  | Tile Kit | 1 | $5,000 |
-  | Stud Kit | 1 | $9,000 |
-  | Agriculture Kit | 1 | $15,000 |
-  | Recreation Kit | 1 | $10,000 |
-  | Energy Kit | 1 | $6,000 |
-  | HVAC Kit | 1 | $2,000 |
-  | Smart Airlock Kit | 1 | $2,000 |
-  | **Total** | | **$49,000** |
-- **Output**: 1,200 kg crops, 75 kg fish, 150 L water, 2 kW surplus  
-- **CapEx**: **$245M** (vs. $1.875B conventional)
-
-### 2. Sustainable Hospital (50,000 m²)
-- **Output**: 1,000 tons food, 182 tons meds, 10 MW surplus  
-- **CapEx**: **$5.6M** | **OpEx**: $5M/yr  
-- **Revenue**: $300M/yr (healthcare + pharma)
-
-### 3. K-12 School (30,000 m²)
-- **Output**: 500 tons crops, educates 2,000  
-- **CapEx**: **$1.5M** | **OpEx**: $3M/yr
-
-### 4. Shopping Mall (100,000 m²)
-- **Revenue**: **$500M/yr**  
-- **CapEx**: **$3.5M**
-
-### 5. Low-Income Apartments (50,000 m²)
-- **Output**: 5,000 tons food, 10,000 free meals/day  
-- **CapEx**: **$4.1M**
-
-### 6. Hotels (2 × 20,000 m²)
-- **Revenue**: **$200M/yr**  
-- **CapEx**: **$1.9M**
-
-### 7. College Campus (30,000 m²)
-- **Trains 500 workers/year**  
-- **CapEx**: **$1.5M**
-
-### 8. Industrial Park (50,000 m²)
-- **Output**: 1,000 Megapacks, 10 GWh batteries, $100M rare earths  
-- **Revenue**: **$1.1B/yr**  
-- **CapEx**: **$12.5M**
-
-### 9. Colossus 2 Data Center (20,000 m²)
-- **100 MW, ceramic liquid cooling**  
-- **Revenue**: **$600M/yr**  
-- **CapEx**: **$15M**
-
-### 10. Smart Airport (30,000 m²)
-- **Hyperloop hub, Tesla robotaxi terminal**  
-- **Revenue**: **$250M/yr**  
-- **CapEx**: **$2.6M**
-
-### 11. Additional Skyscraper Farm (300,000 m²)
-- **Output**: 54,000 tons food, 488 tons packaging  
-- **CapEx**: **$23M**
-
-### 12. Public Buildings
-- **5 Churches**: $0.8M  
-- **2 Gov Offices**: $0.7M
-
----
-
-## Infrastructure Systems
-
-| System | Capacity | Source |
-|--------|----------|--------|
-| **Energy** | **4,000 MW** | 2,000 MW PV tiles, 1,500 MW biogas, 500 MW geothermal |
-| **Water** | **200M L/year** | 95% recycled, AWG tiles, greywater |
-| **Waste** | **200,000 tons/day** | MSW → tiles, bio-silica, rare earths |
-| **Internet** | **10 TB/s** | Fiber in smart roads, ceramic routers |
-| **Transport** | **500 mph hyperloops** | Ceramic tubes, Tesla robotaxis |
-
----
-
-## Construction Timeline (2.5 Years)
-
-| Phase | Duration | Cost | Key Actions |
-|-------|----------|------|-------------|
-| 1. Planning | 6 mo | $5M | Permits, FAST-41, grants |
-| 2. Site Prep | 6 mo | $10M | Recycle infrastructure |
-| 3. Hub Build | 12 mo | $115M | Factory, farm, hospital, mall |
-| 4. Spoke Build | 12 mo | $261M | Homes, college, airport |
-| 5. Dome + Testing | 12 mo | $510M | Phased dome, certification |
-
-**Total CapEx**: **$396M** → **$196M net** after grants
-
----
-
-## Financial Model (Recomputed)
-
-| Metric | Value |
-|--------|-------|
-| **Total CapEx** | **$396M** |
-| **Grants + ITC** | **$320M** |
-| **Net CapEx** | **$76M** |
-| **Annual OpEx** | **$60M** |
-| **Annual Revenue** | **$3.75B** |
-| **Annual Profit** | **$3.69B** |
-| **Break-Even** | **Month 10** |
-| **ROI (Year 5)** | **4,800%** |
-
-### Revenue Streams
-| Source | Revenue |
-|--------|---------|
-| Energy Export | $1.2B |
-| Food + Pharma | $1.1B |
-| Retail + Hotels | $700M |
-| Data Center | $600M |
-| Industrial | $1.1B |
-| Airport | $250M |
-| **Total** | **$3.75B** |
-
----
-
-## Feasibility & Viability Enhancements
-
-| Enhancement | Impact |
-|------------|--------|
-| **Tile Factory Pre-Funding** | $1B/year → full self-finance |
-| **Modular Kits** | -10% CapEx, +50% speed |
-| **AI Assembly** | 95% automation → $10M labor savings |
-| **Hybrid Farming** | -25% energy vs. full vertical |
-| **Dome PV** | +500 MW free energy |
-| **Rare Earth Mining** | +$100M/yr from waste |
-| **Tesla Partnership** | $50M Megapack orders |
-
----
-
-## Disaster Resilience: Domed City
-
-| Threat | Mitigation | Standard |
-|--------|-----------|----------|
-| **EMP** | Ceramic Faraday cage | MIL-STD-461G |
-| **Earthquake** | Graphene flex joints | 9.0 Richter |
-| **Hurricane** | Aerodynamic dome | 300 mph |
-| **Blast** | 1,000 psi tile | UFC 3-340-02 |
-| **Fire** | SiC core | 2,000°C |
-| **Flood** | Floating foundation | ICC 500 |
-
----
-
-## National Replication Plan
-
-| Year | Cities | Population | % U.S. |
-|------|--------|------------|--------|
-| 1 | 1 | 20,000 | 0.006% |
-| 5 | 100 | 2M | 0.6% |
-| 10 | 1,000 | 20M | 6% |
-| 20 | **16,000** | **320M** | **100%** |
-
----
-
-## License
-This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+# Earth-Star Industries Smart City Complex
+
+The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ecosystem (MHUE) for 20,000 residents, designed to prevent urban hollowing and enable nationwide expansion along BNSF railway lines (e.g., near Seattle or Miami). Built entirely with Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Facility (Prompt 1), it integrates single-family homes, sustainable hospital, K-12 school, shopping mall, low-income apartments, hotels, college campus, vocational training, industrial park, Tesla Megapack factory (1,000 units/year), Colossus 2-sized data center (100 MW), and smart airport. Infrastructure includes smart roads/sidewalks (ceramic, IoT-embedded), hyperloops (500 mph, 10–20 miles/spoke, $60M/mile phased build), 1 TB/s internet (scalable to 10 TB/s), and Tesla autonomous transport. All buildings minimize light pollution via non-reflective finishes and shielded 2700K LEDs for urban stargazing.
+
+The complex is enclosed by a phased geodesic City Dome (transparent studs/tiles, 10–15% premium cost, built over 3 years; enhances PV generation, AWG, and resilience). Hyperloops provide dome ingress/egress. Off-grid operations: 4,000 MW energy (surplus 1,000–1,500 MW), 200M L/year water (95% recycle). Waste: 120k–240k tons/day recycled for ceramics/rare earths. Standards: ISO 37122 (smart cities/security), LEED Gold, WELL Silver, Green Star 5-Star, BREEAM Excellent, ASHRAE 90.1/62.1, ICC 500, NFPA 101, UFC 4-010-01/3-340-02/3-410-01/3-401-01, MIL-STD-810H/461G/188-125-1/1474E, NIST 800-53, NATO STANAG 4370/7159/2582; UN SDGs 3/6/7/11/12. Security: Tile-integrated smart airlocks (facial/role-based, AI weapons/explosives scans). Construction: 500 workers (vocational-trained) + 80–95% robotics (Skydio/Boston Dynamics/DARPA Squad X/BlockADE). Sustainable mining for future waste gaps.
+
+## Complex Overview
+- **Population**: 20,000 (5,000 homes, 5,000 apartments, hotels/staff).
+- **Location**: BNSF-adjacent district (Seattle: coastal; Miami: southern); 10-year rail partnership ($50M/year revenue).
+- **Structure**: Hub (factory/farm/hospital/school/mall/data center/industrial/airport) + spokes (housing/farm/college/hotels); City Dome (phased: Year 1 core, Year 3 full; resilient to Cat 5 hurricanes/8.0 quakes/EMPs via aerodynamics/copper mesh).
+- **Infrastructure**: Ceramic smart roads (fiber/IoT), hyperloops ($600M total for 10 spokes/10 miles each, feasibility high via modular tubes), 50-acre greens (automated irrigation).
+- **Transport**: Tesla robotaxis/AVs, hyperloops, BNSF integration.
+- **Internet**: 1 TB/s (fiber via roads, ISO 37122).
+- **Energy**: 4,000 MW (2,000 MW PV tiles, 1,500 MW biogas, 500 MW geothermal/micro-hydro); surplus 1,000–1,500 MW ($350–525M/year at $40/MWh wholesale).
+- **Water**: 200M L/year (AWG/greywater, 95% recycle).
+- **Waste**: 120k–240k tons/day to ceramics/bio-silica/rare earths ($100M/year revenue).
+- **Disaster Resistance**: Dome + tiles withstand Cat 5 (250 mph winds, shape deflects), 8.0 quakes (base isolation), EMPs (>80 dB), floods (elevated foundations), wildfires (non-combustible ceramics); man-made (blast-resistant UFC 3-340-02, cybersecurity NIST 800-53).
+
+## Components and Kits
+All use Prompt 1 tiles ($10/5 m², 200 kg, 10–15 cm thick/50 cm foundation; 60% SiC/25% Al₂O₃/10% graphene-CNTs/5% ZrO₂; 2,800 MPa compressive/700–900 MPa flexural/20–30 MPa·m¹/² toughness/>95% recyclability) and studs ($45/1 m, 50 kg, interlocking). New kits: Dome Kit (transparent variants, $20M/phase), Hyperloop Kit ($60M/mile, modular tubes/pods). Assembly: 80–95% automated. Outputs recomputed for 2025 (e.g., Megapacks $2M/unit, food $15k/ton premium).
+
+### Luxurious Single-Family Homes (5,000 units)
+- **Design**: 186 m², 2 floors, 4–6 beds; 28 m² ag sunroom/pool/sauna/kitchen.
+- **Kits** (per unit):
+
+| Kit Type | Components | Cost ($/unit) | Quantity/Unit |
+|----------|------------|---------------|---------------|
+| Tile Kit | 400 tiles, 100 windows | 5,000 | 1 |
+| Stud Kit | 200 studs | 9,000 | 1 |
+| Agriculture Kit | Aquaponics/vertical farm/algae/WTE | 15,000 | 1 |
+| Recreation Kit | Pool/hot tub/sauna/kitchen | 10,000 | 1 |
+| Energy Kit | 2 kW PV/thermal/geothermal | 6,000 | 1 |
+| HVAC Kit | 2 kW heat pump | 2,000 | 1 |
+| Automation Kit | IoT/Arduino | 200 | 1 |
+| Odor Kit | Filters/scrubbers | 500 | 1 |
+| Airlock Kit | Security scan | 2,000 | 1 |
+
+- **Output**: 75 kg/year fish, 1,125 kg/year crops ($17k/year/home premium), 150 L/day water, 0.9 kg/day tiles, 0.2 kg/day CO₂.
+- **Cost**: $49,700/unit (80% market: $300k vs. $375k).
+- **Total**: 2.5M tiles, 1M studs, $248.5M CapEx.
+
+### Sustainable Hospital (50,000 m²)
+- **Design**: 15 floors; 1,000 tons/year food, 500 kg/day meds/supplies (ISO 1–8 ceramics).
+- **Kits**:
+
+| Kit Type | Components | Cost ($) | Quantity |
+|----------|------------|----------|----------|
+| Tile Kit | 20,000 tiles, 2,000 windows | 220,000 | 1 |
+| Stud Kit | 5,000 studs | 225,000 | 1 |
+| Farm Kit | Aquaponics/vertical | 50,000 | 1 |
+| Cleanroom Kit | ISO 1–8 meds/supplies | 100,000 | 1 |
+| Processing Kit | Biodegradable packaging | 50,000 | 1 |
+| Energy Kit | 50 MW solar/biogas/geothermal | 5M | 1 |
+| Water Kit | AWG/greywater | 100,000 | 1 |
+| Airlock Kit | 10 units | 20,000 | 1 |
+
+- **Output**: 1,000 tons/year food ($15M), 182.5k kg/year meds ($36.5M), 365k kg/year supplies ($73M), 10 MW surplus.
+- **Cost**: $5.645M CapEx, $5M/year OpEx.
+
+### K-12 School (30,000 m²)
+- **Design**: 15 floors; competency-based, sports/tech labs, 1,000 m² farms; 2,000 students.
+- **Kits**:
+
+| Kit Type | Components | Cost ($) | Quantity |
+|----------|------------|----------|----------|
+| Tile Kit | 15,000 tiles, 1,500 windows | 165,000 | 1 |
+| Stud Kit | 4,000 studs | 180,000 | 1 |
+| Farm Kit | Vertical | 20,000 | 1 |
+| Tech Kit | 3D printers/robotics/ceramics | 50,000 | 1 |
+| Sports Kit | Ceramic courts/fields | 50,000 | 1 |
+| Energy Kit | 10 MW solar/geothermal | 1M | 1 |
+| Airlock Kit | 5 units | 10,000 | 1 |
+
+- **Output**: 500 tons/year crops ($7.5M).
+- **Cost**: $1.475M CapEx, $3M/year OpEx.
+
+### Shopping Mall (100,000 m²)
+- **Design**: 15 floors; theaters/stores/restaurants (diverse menus).
+- **Kits**:
+
+| Kit Type | Components | Cost ($) | Quantity |
+|----------|------------|----------|----------|
+| Tile Kit | 50,000 tiles, 5,000 windows | 550,000 | 1 |
+| Stud Kit | 12,500 studs | 562,500 | 1 |
+| Retail Kit | Ceramic displays/packaging | 100,000 | 1 |
+| Restaurant Kit | Appliances/packaging | 200,000 | 1 |
+| Energy Kit | 20 MW solar/biogas | 2M | 1 |
+| Airlock Kit | 20 units | 40,000 | 1 |
+
+- **Output**: $500M/year (retail/entertainment).
+- **Cost**: $3.4525M CapEx, $10M/year OpEx.
+
+### Low-Income Apartments (50,000 m²)
+- **Design**: 15 floors, 5,000 units (46 m²); soup kitchen/clinic.
+- **Kits**:
+
+| Kit Type | Components | Cost ($) | Quantity |
+|----------|------------|----------|----------|
+| Tile Kit | 20,000 tiles
