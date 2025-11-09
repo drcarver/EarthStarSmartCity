@@ -22,7 +22,7 @@ The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ec
 - **Water**: 200 million liters/year (90–95% recycling, AWGs, greywater).
 - **Waste**: 120,000–240,000 tons/day recycled for ceramics, bio-silica, rare earths.
 - **Standards**: UN SDGs (3, 6, 7, 11, 12), ISO 14644-1, 52120-1, 27001, 37122, NATO STANAG 4370, 7159, 2582.
-- **City Dome**" The entire city is covered with a dome made of transparent studs and tiles for further protection and energy generation.  This can be bild in phaes as the tiles become avaialble. Use hyperloops for transport in and out
+- **City Dome**" The entire city is covered with a dome made of stealth transparent studs and tiles for further protection and energy generation.  This can be bild in phaes as the tiles become avaialble. Use hyperloops for transport in and out
 
 ## Components and Kits
 All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 cm thick, 50 cm for foundations; 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; 2,800 MPa compressive strength, 700–900 MPa flexural, 20–30 MPa·m¹/² fracture toughness, >95% recyclability) and **Smart Studs** (1 m, $45/stud, 50 kg, ceramic composite, interlocking sockets). Assembly is 80–95% automated via Skydio drones, Boston Dynamics Spot robots, DARPA Squad X AI, and BlockADE snap-together systems, supplemented by 500 trained human workers. Kits are pre-certified under ICC 500/NFPA 101. Smart airlocks (AI-driven, weapons/explosives scanning, ISO 37122) are standard. All equipment is ceramic-based, sourced from the tile factory.
