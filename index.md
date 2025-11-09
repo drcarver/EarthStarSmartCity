@@ -18,23 +18,21 @@ Explore the detailed prompts for AI to define the Earth-Star Sustainable Smart C
 
 1. [Tile factory](prompts/01-tilefactory.md)  
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
-2. [Sustainable Urban Agriculture](prompts/02-UrbanArculture.md) 
-   Closed-loop systems for households, producing food, water, and energy
-3. [Earth-Star Sustainable Farm](prompts/03-UrbanFarms.md)  
+2. [Earth-Star Sustainable Farm](prompts/02-UrbanFarms.md)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm Rational](prompts/03A-Rational.md)  
+3. [Earth-Star Sustainable Farm Rational](prompts/03-Rational.md)  
    Rationale for why this vertical farm will scced vs. others..
-5. [Smart City Ecosystem](prompts/04-SmartCity.md) 
+4. [Smart City Ecosystem](prompts/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-6. [Nationwide](prompts/05-nationwide.md) 
+5. [Nationwide](prompts/05-nationwide.md) 
    Expand the cities to nationwide and environmnet cleanup.
-7. [Undersea Cities](prompts/06-undersea.md) 
+6. [Undersea Cities](prompts/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
-8. [Tiles and kits catalog](prompts/07-tilesandkits.md) 
+7. [Tiles and kits catalog](prompts/07-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
-9. [Feasibility and Viability](prompts/08-feasability.md) 
+8. [Feasibility and Viability](prompts/08-feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
-10. [Reslence](prompts/09-resilience.md) 
+9. [Reslence](prompts/09-resilience.md) 
     City resilence to man made and natural disaters.
 
 ### Grok 4 Responsess
@@ -42,23 +40,21 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
 
 1. [Tile factory](grok/01-tilefactory.md)  
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
-2. [Sustainable Urban Agriculture](grok/02-UrbanArculture.md) 
-   Closed-loop systems for households, producing food, water, and energy
-3. [Earth-Star Sustainable Farm](grok/03-UrbanFarms.md)  
+2. [Earth-Star Sustainable Farm](grok/02-UrbanFarms.md)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm Rational](grok/03A-Rational.md)  
+3. [Earth-Star Sustainable Farm Rational](grok/03-Rational.md)  
    Rationale for why this vertical farm will scced vs. others.
-5. [Smart City Ecosystem](grok/04-SmartCity.md) 
+4. [Smart City Ecosystem](grok/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-6. [Nationwide](grok/05-nationwide.md) 
+5. [Nationwide](grok/05-nationwide.md) 
    Expand the cities to nationwide and environmnet cleanup.
-7. [Undersea Cities](grok/06-undersea.md) 
+6. [Undersea Cities](grok/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
-8. [Tiles and kits catalog](grok/07-tilesandkits.md) 
+7. [Tiles and kits catalog](grok/07-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
-9. [Feasibility and Viability](grok/08-feasability.md) 
+8. [Feasibility and Viability](grok/08-feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
-10. [Reslence](grok/09-resilience.md) 
+9. [Reslence](grok/09-resilience.md) 
     City resilence to man made and natural disaters.
 
 ### ChatGpt 4 Responsess
@@ -66,23 +62,21 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
 
 1. [Tile factory](ChatpGpt/01-tilefactory.md)  
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
-2. [Sustainable Urban Agriculture](ChatpGpt/02-UrbanArculture.md) 
-   Closed-loop systems for households, producing food, water, and energy
-3. [Earth-Star Sustainable Farm](ChatpGpt/03-UrbanFarms.md)  
+2. [Earth-Star Sustainable Farm](ChatpGpt/02-UrbanFarms.md)  
    15-floor tower producing 36,800 tons/year food and non-food products.
-4. [Earth-Star Sustainable Farm Raational](ChatpGpt/03A-Rational.md)  
+3. [Earth-Star Sustainable Farm Raational](ChatpGpt/03-Rational.md)  
    Rationale for why this vertical farm will scced vs. others.
-5. [Smart City Ecosystem](ChatpGpt/04-SmartCity.md) 
+4. [Smart City Ecosystem](ChatpGpt/04-SmartCity.md) 
    Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-6. [Nationwide](ChatpGpt/05-nationwide.md) 
+5. [Nationwide](ChatpGpt/05-nationwide.md) 
    Expand the cities to nationwide and environmnet cleanup.
-7. [Undersea Cities](ChatpGpt/06-undersea.md) 
+6. [Undersea Cities](ChatpGpt/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
-8. [Tiles and kits catalog](ChatpGpt/07-tilesandkits.md) 
+7. [Tiles and kits catalog](ChatpGpt/07-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
-9. [Feasibility and Viability](ChatpGpt/08-feasability.md) 
+8. [Feasibility and Viability](ChatpGpt/08-feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
-10. [Reslence](ChatpGpt/09-resilience.md) 
+9. [Reslence](ChatpGpt/09-resilience.md) 
     City resilence to man made and natural disaters.
 
 ## Get Involved
