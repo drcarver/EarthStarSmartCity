@@ -9,8 +9,6 @@ theme: jekyll-theme-minimal
 
 Recompute all costs, revenues and volumes.Make all kits equipment in the facility from ceramcs, tiles and kits. Uses specifications from prompt 1 for all tiles, kits and studs.
 
-*License*: This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material, provided you give appropriate credit and indicate changes.
-
 ## Introduction
 
 This strategy outlines Earth-Star Industries’ plan to achieve exponential growth of smart city districts to house and feed the entire U.S. population (~350M by 2040), restore unused areas (e.g., abandoned rural/urban land) to natural habitats, remediate U.S. coastal oceans, replace ~700 military bases and associated housing with modular infrastructure using stealth-enabled Enhanced Ceramic Tiles, recycle base materials, and redevelop airports as needed. The approach leverages direct container-to-hyperloop transport, sustainable mining tailored to tile factory needs (SiC, Al₂O₃, graphene/CNTs, ZrO₂), acquired railroad rights-of-way (ROW), smart roads, and expanded landfill mining (5,000+ sites). All infrastructure uses Enhanced Ceramic Tiles (5 m², $10/tile, 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; 2,800 MPa compressive strength, >95% recyclability; stealth version with radar-absorbing metamaterials), Smart Studs ($45/stud), and modular kits (ceramic-based equipment). Construction is 80–95% automated (Skydio drones, Boston Dynamics Spot robots, DARPA Squad X AI, BlockADE systems) with 500–100,000 human workers (trained via vocational programs). The initiative adheres to smart city standards (ISO 37122), sustainable building codes (LEED Gold, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1, 62.1, ICC 500, NFPA 101), military standards (UFC 4-010-01, 3-340-02, 3-410-01, 3-401-01, MIL-STD-810H, 461G, 188-125-1, 1474E, NIST 800-53), and environmental regulations (EPA CERCLA, CWA). Smart airlocks (AI-driven, weapons/explosives scanning, ISO 37122, NIST 800-53) ensure security. Costs and revenues are computed for 2025 technologies, leveraging federal funding (IIJA: $110B roads, $102B rail; CERCLA; IRA; DoD budgets).
@@ -49,10 +47,6 @@ As the cities scale out revenue streams may dry up, for emple grid sales.  In ad
   | 11–15 (2036–2040) | 50–350 | 40–80% | 17,500 (350,000 complexes) | 300,000 manufacturers; 100,000 miles hyperloop; 5,000+ landfills; all bases/airports. |
 - **Infrastructure Needs** (2040): 17,500 districts (8.75T tiles, 1.3T studs), 4.1M miles smart roads, 100,000 miles hyperloop, 300,000 manufacturing buildings, 1,000 sustainable mines, 700 military bases, 3,000 airports.
 
-### Food Production
-- **Vertical Farms/Aquaponics**: Each district has 10 farms (50,000 m², 15 floors, ceramic-based). Outputs: 2,000–4,000 tons/day food (grains, vegetables, fish; 0.5–1 ton/person/year). Kits: Farm ($10M, 5/farm), Water ($8,000, 20), Energy ($40,000, 10).
-- **Costs/Revenues**: CapEx: $0.5–1T (17,500 districts). Revenue: $1–2T/year (food sales: $2,000/ton). OpEx: $50–100B/year.
-
 ## Natural Habitat Restoration
 Restore unused areas (~1.5B acres: 50% of U.S. land, e.g., abandoned rural, industrial sites) to natural habitats (forests, wetlands, prairies) post-recycling. Feasibility: High (70% restorable per EPA/USGS).
 
@@ -88,8 +82,7 @@ Replace ~700 U.S. military bases (~27M acres, DoD 2025) and associated housing (
 ### Process
 - **Scope**: 700 bases (avg. 38,500 acres/base), 500,000 housing units (100 m²/unit).
 - **Recycling**: Demolish concrete/steel structures (80% recyclable into tiles). CapEx: $0.5–1T (27M acres). Revenue: $100–200B (feedstock: $100–200/ton, 1B tons).
-- **New Facilities**: Each base uses 1M–2M stealth tiles, 150,000–300,000 studs, 10,000 window tiles. Housing: 1,000 tiles, 200 studs/unit. Kits: Tile ($1,000, 10,000–20,000/base), Stud ($2,250, 3,000–6,000), Energy ($40,000, 100), Water ($8,000, 200), Smart Airlock ($2,000, 100).
-- **Costs/Revenues**: CapEx: $0.7–1.4T (bases: $0.5–1T; housing: $0.2–0.4T). Revenue: $50–100B/year (DoD contracts, energy surplus). OpEx: $20–40B/year.
+- **New Facilities**: Dome city with external air port and logistic suppled throgh hyperloops
 
 ## Airport Redevelopment
 Recycle and redevelop ~3,000 U.S. airports (19,000 total, FAA 2025; focus on 3,000 major) into hyperloop-integrated hubs or green spaces.
@@ -107,42 +100,11 @@ Recycle and redevelop ~3,000 U.S. airports (19,000 total, FAA 2025; focus on 3,0
 - **Railroad Removal**: 140,000 miles. CapEx: $0.28–0.7T. Revenue: $50–100B (recycling).
 - **Landfill Mining**: 5,000+ sites. CapEx: $0.25–0.5T. Revenue: $200–400B/year.
 
-## Financial Model
-- **CapEx**: $25–42T (roads/cities: $7–14T; rail: $0.28–0.7T; hyperloop: $0.65–1.3T; mining: $0.5–1T; manufacturing: $2–4T; military: $0.7–1.4T; airports: $0.3–0.6T; habitat: $150–750B; ocean: $50–100B). Financed: 50% federal ($12.5–21T via IIJA/CERCLA/IRA/DoD), 30% revenues ($7.5–12.6T), 20% bonds ($5–8.4T).
-- **OpEx**: $3–6T/year (20% automation savings).
-- **Revenue**: $15–22T/year by Year 10:
-  | Source | ($T/year) |
-  |--------|-----------|
-  | Cities/Trade/Food | 5–7 |
-  | Smart Roads | 2–4 |
-  | Manufacturing | 0.6–1.2 |
-  | Mining/Recycling | 0.35–0.7 |
-  | Military/Airports | 0.1–0.2 |
-  | Habitat/Ocean | 0.07–0.14 |
-  | Freight/Data | 2–3 |
-- **ROI**: 500–700% (breakeven Year 4).
-- **Cash Flow**:
-  | Year | CapEx ($T) | OpEx ($T) | Revenue ($T) | Net ($T) |
-  |------|------------|-----------|--------------|----------|
-  | 1–2 | 5 | 1 | 0.8 | -5.2 |
-  | 3–5 | 10 | 2 | 5–7 | -7 to -5 |
-  | 6–10 | 15 | 3 | 15–22 | +12–19 |
-  | 11–15 | 0 | 6 | 22+ | +16+ |
-
-## Implementation Roadmap
-- **2025 (Q4)**: Rail buyouts; IIJA/DoD bids; recycle 500,000 miles roads, 1,000 cities; 100 manufacturers; 10 mines; 50 bases; 100 airports; pilot ocean remediation.
-- **2026–2030**: Hyperloop to 50 ports; recycle 1.5M miles, 5,000 cities; 5,000 manufacturers; 1,000 mines; 300 bases; 1,000 airports; 50M acres habitat.
-- **2031–2040**: Complete transformation; 300,000 manufacturers; 1,000 mines; 700 bases; 3,000 airports; 1.5B acres habitat; full ocean remediation; 350M residents.
-
-This strategy creates a $75T+ economy by 2040, housing and feeding the U.S. while restoring ecosystems.
-
 Assume we want to begin the expansion described above using brownfield sites in hollowed out districts and cities where we can pick up the abandoned railroads and stuff for fairly cheap price. How many would that allow us to be the expansion begin the expansion of assuming we're going to do deep mining to get rid of all the contaminants in the brownfield areas.  Leveraging this as a start and then expanding to closed landfills where we want to remediate them and replace them with our infrastructure to continue out the expansion at a cheaper cost how many sites is that and how long would that take.  Use closed landfills that are adjacent to the brownfield sites that would allow us to pick them up and then expand into our brownfield sites fairly quickly to fuel a cheaper expansion.  Next process brownfields and clodsed landfills that are not in hollowed areas.  Build districts this way before expanding into greenfield areas that may include existing city structures and in those situations so that it's makes it easier to do the expansion. Take over regional recycling centers and sewage processing centers and replacing them with our technology also in the open landfills
 
 Assume we're going to replace all farms with our vertical farms and any extra space we will convert to it's natural habitat and just would help us with the expansion into the rural areas and provide a mechanism for converting the farming to sustainable farming we should be able to handle any exterior ranges like cattle and stuff like that in a more sustainable fashion.  Assume we will always choose to replace any existing infrastructure rather than build over it unless it's a historical area in addition or national park.
 
 Assume we replace all dams,  keeping those around that our flood control since we're going to replace irrigation with our self-contained farms. In addition we should look at what it takes to dismantle existing power plants as we go and they're replaced by the green power from the districts
-
---
 
 *This document is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
 
