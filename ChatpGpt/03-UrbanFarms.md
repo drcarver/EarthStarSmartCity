@@ -2,195 +2,178 @@
 title: Earth-Star Industries Skyscraper Farm
 description: A detailed plan for a 15-floor skyscraper farm integrated with the Earth-Star Industries Facility, designed to feed a 20,000-person urban district using sustainable ceramics, closed-loop systems, and smart infrastructure.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: jekyll-theme-minimal
+theme: minimal
 ---
 
-# Ultra-Closed-Loop Regenerative Ecosystem  
-### Transforming Global Agriculture (Prompt 3)
+# Earth-Star Industries Skyscraper Farm
+
+This document outlines the **Earth-Star Industries Skyscraper Farm**, an ultra-closed-loop regenerative ecosystem integrated with the Earth-Star Industries Facility. Leveraging **2025 technologies**, including NASA CELSS (Controlled Ecological Life Support Systems), AI automation, and hybrid vertical-horizontal farming, the farm feeds 20,000 people year-round.  
+
+- **Structure**: 15-floor cylindrical skyscraper, 50,000 m² footprint (~750,000 m² growing area via vertical stacking)  
+- **Horizontal Greenhouses**: 100,000 m² on brownfield/abandoned sites  
+- **Materials**: Tiles, ceramics, and kits from the facility’s factory  
+- **Light Pollution**: Minimized via shielded agrivoltaic panels (2700K LEDs)  
+- **Excess Resources**: Power and water exported; non-farm land rewilded  
 
 ---
 
 ## Project Overview
 
-The **Earth-Star Industries Skyscraper Farm** represents a new era of sustainable, regenerative urban agriculture — a **15-floor vertical megastructure** built entirely from **ceramic tiles and modular smart kits** produced by the Earth-Star Industries Facility (Prompt 1). Each structure feeds an estimated **20,000-person urban district**, replacing traditional rural farms with **hyper-efficient, zero-waste ecosystems**.
-
-This system applies **NASA’s Controlled Ecological Life Support System (CLESS)** principles, closed-loop biocycles, and automation technologies available in 2025 to deliver unmatched agricultural and manufacturing performance.  
-
----
-
-## Core Design and Functional Systems
-
-### 1. Structural & Material Framework
-- **Construction Material**: Reinforced ceramic tiles and modular kits from Earth-Star Industries Factory.
-- **Load-bearing Structure**: Prefabricated ceramic composites with embedded graphene mesh for strength and smart-sensor integration.
-- **Smart Infrastructure**: Full IoT and AI-based automation loop for lighting, humidity, nutrient delivery, temperature, and energy balance.
-- **Security**:  
-  - Smart airlocks with weapon and explosive scanners.  
-  - Multi-factor access and biometric authentication.  
-  - Cyber-secure data architecture using MIL-SPEC encryption.
+| Parameter | Specification |
+|-----------|---------------|
+| Capacity | 20,000-person district |
+| Annual Food Output | 50,000 tons/year |
+| Vitamins & Pharma Revenue | $100M/year |
+| Land Use | ~150 acres total (99% savings vs. 20,000 acres traditional) |
+| Certifications | Green Star 5★, LEED Platinum, NASA CELSS, ISO 37122 (smart city), RegenAG Verified |
+| Carbon Credits | 1M tons/year, $50M revenue |
+| Security | Tile-integrated smart airlocks with facial/role-based access, AI explosives/weapons scans |
 
 ---
 
-## 2. Regenerative Closed-Loop Systems
+## Core Technologies
 
-| System | Function | Output / Byproduct | Reuse Pathway |
-|--------|-----------|--------------------|----------------|
-| **Biomass to Methane** | Farm waste anaerobic digestion | Methane gas | Energy for turbines & heating |
-| **CO₂ Methylation** | Captures atmospheric CO₂ | Synthetic methane | Combustion fuel or storage |
-| **Hydrogen/Oxygen Recovery** | Electrolysis & recombination | H₂O & O₂ | Water cycle & turbine optimization |
-| **Aquaponics / Hydroponics / Aeroponics** | Fish-plant symbiosis & root misting | Nutrient-rich water | Complete nutrient loop |
-| **Heat Pump + HVAC System** | Climate control | Condensed water | Water reclamation & cooling |
-| **Geothermal Integration** | Thermal regulation | Low-energy HVAC operation | 40% reduction in energy load |
-
----
-
-## 3. Agricultural Subsystems
-
-### A. Vertical Crop Tiers (Floors 1–10)
-- **Aquaponics, Hydroponics, Aeroponics Mix**
-- Crops: Leafy greens, legumes, grains, citrus, tropical fruits, root vegetables.
-- **Crop rotation** enabled by digital twin simulations.
-- LED-optimized photosynthetic spectrum using **agrivoltaic glass panels**.
-
-### B. Horizontal Greenhouses & Orchards
-- Full-size orchards (non-dwarf) for apples, citrus, stone fruits, and nuts.
-- Cotton, tobacco, hemp, and flax fields in horizontal wings for textile and specialty crops.
-- Automated pollination drones and robotic pruning systems.
-
-### C. Animal Integration
-- Floors 11–14: Livestock, poultry, and aquaculture sections.  
-- **Species:** Cows, pigs, goats, sheep, chickens, ducks, geese, freshwater and saltwater fish, mollusks, and crustaceans.
-- **Regenerative grazing** and **silvopasture systems** simulate natural ecosystems.
-- **Waste reuse:** Animal manure feeds biomass reactors and composting systems.
-
-### D. Processing Facilities (Floor 15)
-- Bakeries, dairies, distilleries, butchery, wool spinning, and fabric production.
-- Long-term biodegradable food packaging production.
-- **Pharmaceutical and vitamin clean rooms** for bioproduct synthesis.
+| Technology | Function | Notes |
+|------------|---------|------|
+| NASA CELSS | Closed-loop recycling | Plants/microbes recycle waste to nutrients/O₂/H₂O; 95% water recovery |
+| AWG Tiles | Atmospheric water generation | 50 L/m²/day |
+| Electrolysis | H₂/O₂ production | Excess H₂ recombined with O₂ for water recovery |
+| Geothermal Heat Pumps | Building energy | COP 5.0 |
+| Methane Turbines | Energy from biomass | +20% efficiency with extra O₂ |
+| Agrivoltaics | Solar energy & crop shading | PV 28.75%; 10% more power, 65% CO₂ uptake boost |
+| AI Automation | Planting/harvesting/monitoring | IoT sensors (AES-256) feed ML models |
+| Packaging | Biodegradable ceramics | 2-year shelf life |
 
 ---
 
-## 4. Smart Systems Integration
+## Modular Kits
 
-- **Sensors:** pH, CO₂, humidity, temperature, nutrient concentration, pathogen detection.
-- **Automation:** AI-managed crop scheduling, predictive maintenance, and yield optimization.
-- **Smart Grids:** Energy from agrivoltaics and turbines redistributed to nearby city blocks.
-- **Water-from-Air Systems:** Atmospheric moisture harvesting integrated into HVAC.
-
----
-
-## 5. Rewilding & Expansion
-
-- Abandoned or purchased farms are **converted into rewilded ecosystems**.  
-- Introduced fauna include deer, elk, and bison — repopulated via artificial womb programs.  
-- Urban brownfield sites use enclosed farms without rewilding.  
-- Goal: **100% U.S. food and agricultural product replacement** by 2040.
+| Kit Name | Components | Key Features | Est. Cost (USD) | Sales Price | Annual Volume | Revenue (USD) |
+|----------|------------|--------------|-----------------|-------------|---------------|----------------|
+| Farm Kit | Hydro/aero/aquaponic trays, RAS tanks | CELSS-integrated, diverse species | $5,000 | $10,000 | 5,000 | $50M |
+| Bakery Kit | Ceramic ovens, mills | Automated dough-to-bread | $10,000 | $20,000 | 1,000 | $20M |
+| Dairy Kit | Ceramic churns, pasteurizers | Milk processing (cheese, yogurt) | $15,000 | $30,000 | 800 | $24M |
+| Confectionery Kit | Ceramic molds, extractors | Nut/berry sugars, vitamin-enriched | $8,000 | $16,000 | 600 | $9.6M |
+| Distillery Kit | Ceramic stills, fermenters | Spirits, ethanol for pharma | $20,000 | $40,000 | 400 | $16M |
+| Butchery Kit | Ceramic knives/slaughter lines | Poultry/pigs/cows/goats; leather/wool | $25,000 | $50,000 | 500 | $25M |
+| Cultured Meat Kit | Bioreactors (tile-framed) | Lab-grown meat | $100,000 | $200,000 | 200 | $40M |
+| Pharma/Vitamin Kit | Cleanroom reactors ISO 1–8 | Vitamins/hospital supplies | $50,000 | $100,000 | 300 | $30M |
+| **Total** | - | - | - | - | - | **$214.6M** |
 
 ---
 
-## 6. Energy and Water Balance
+## Farming Systems
 
-| Resource | Source | Efficiency | Surplus |
-|-----------|---------|-------------|----------|
-| **Electricity** | Agrivoltaic glass + methane turbines + geothermal | 120% | 20% exported to grid |
-| **Water** | Recycled greywater + atmospheric condensate | 98% | 2% loss |
-| **Oxygen** | Electrolysis surplus | 15% | Used to enrich turbines |
-| **Methane** | Biomass + CO₂ conversion | 85% | Stored or burned cleanly |
+### Vertical Farm (750,000 m², 15 Floors)
 
----
+- **Hydro/Aeroponics/Aquaponics**: Leafy greens, tomatoes, berries; tilapia, salmon, crustaceans, mollusks  
+- **Orchards**: Non-dwarf full-size trees (citrus, nuts); horizontal floors with silvopasture  
+- **Crops**: Staples (corn, soy, wheat, cotton, tobacco); vitamin-rich (kale, spinach, carrots)  
 
-## 7. Financial and Feasibility Analysis
+### Horizontal Greenhouses (100,000 m²)
 
-### Capital Expenditure (CapEx)
-| Component | Cost per Unit | Units | Total |
-|------------|----------------|--------|--------|
-| Ceramic Tile Structure | \$400M | 1 | \$400M |
-| Automation & AI Systems | \$75M | 1 | \$75M |
-| Agrivoltaics & Power Systems | \$50M | 1 | \$50M |
-| Aquaponics & Livestock Systems | \$60M | 1 | \$60M |
-| Processing & Manufacturing | \$40M | 1 | \$40M |
-| **Total CapEx** |  |  | **\$625M per tower** |
+- **Regenerative Grazing**: Chickens, ducks, pigs, cows, sheep, goats, game (bison/deer via CELSS)  
+- **Fields**: Citrus, orchards, nuts, legumes; 3–5 year ramp-up via accelerated CELSS growth  
 
-### Operational Expenditure (OpEx)
-| Category | Annual Cost | Note |
-|-----------|--------------|------|
-| Maintenance & Labor | \$25M | ~70% automated |
-| Energy | -\$10M | Net surplus sold |
-| Water | \$0 | Fully recycled |
-| Supplies / Consumables | \$15M | Reagents, nutrients |
-| **Total OpEx** |  | **\$30M/year** |
+### Animal Husbandry & Processing
 
-### Revenue Streams
-| Source | Annual Revenue |
-|---------|----------------|
-| Food Sales (urban district) | \$150M |
-| Pharmaceuticals & Vitamins | \$50M |
-| Surplus Energy & Water | \$15M |
-| Carbon Credits & Certifications | \$10M |
-| **Total Annual Revenue** | **\$225M** |
-
-### ROI and Breakeven
-- **ROI:** 36% annualized  
-- **Breakeven:** ~7.5 years  
-- **Lifespan:** 60+ years  
-- **Carbon-negative operation:** Yes (estimated -35,000 tons CO₂e/year)
+| Animal Type | Quantity | Notes |
+|-------------|---------|------|
+| Poultry | 10,000 | Eggs/meat |
+| Pigs/Cows/Sheep/Goats | 2,000 | Meat/milk/wool/leather |
+| Cultured Meat | 200 units | 20% production by 2030 |
+| Processing | Automated | Dairies, bakeries, confectioneries, distilleries, butcheries |
+| Waste Handling | Biomass | Methane turbines & pyrolysis energy |
 
 ---
 
-## 8. Comparison to Traditional Farming
+## Closed-Loop Enhancements
 
-| Metric | Traditional Farm | Earth-Star Skyscraper Farm |
-|--------|------------------|-----------------------------|
-| Land Use (per 20,000 people) | ~10,000 acres | 5-acre footprint |
-| Water Usage | ~3.5 billion liters/year | <70 million liters (98% recycled) |
-| Labor Force | 250+ people | 40 people (70% automated) |
-| Yield Efficiency | Seasonal | Continuous 24/7 production |
-| Climate Risk | High | Fully controlled |
-| Waste Output | 35% loss | <1% loss |
-| Net Energy | Consumer | Producer |
+| Resource | Method | Efficiency |
+|----------|--------|------------|
+| Water | Grey/black via CELSS microbes, AWG tiles | 98% recycled |
+| CO₂ & Methane | LT-DAC + methanation, electrolysis | Turbines +20% efficiency |
+| Nutrients | Digestate from waste | Recycled to farms |
+| Pharma | Vitamin extracts | From farm crops via cleanroom kits |
 
 ---
 
-## 9. Compliance & Standards
+## Construction Timeline
 
-- **ISO 14001, 50001, 22000**  
-- **NASA Technology Transfer Standards**  
-- **Blue-Green Building Certification**  
-- **MIL-SPEC Security Protocols**  
-- **LEED Platinum Smart Infrastructure**
-
----
-
-## 10. Strategic Expansion & Export Vision
-
-1. **Phase 1 (2025–2030):** 500 towers feeding 10 million Americans.  
-2. **Phase 2 (2030–2035):** 5,000 towers feeding 100 million Americans.  
-3. **Phase 3 (2035–2040):** Full U.S. agricultural replacement + global export base.  
-
-Export focus:  
-- Pharmaceuticals  
-- Nutraceuticals & Vitamins  
-- Plant-based and cultured proteins  
-- Sustainable packaging and textiles  
+| Phase | Duration | Activities | Cost ($M) |
+|-------|----------|------------|------------|
+| 1: Tent & Horizontal Setup | Months 1–6 | Lease/mine waste, horizontal greenhouses, orchards | 100 |
+| 2: Vertical Lower Floors | Months 7–12 | Floors 1–5, aquaponics, grazing, CELSS integration | 200 |
+| 3: Upper Floors & Processing | Months 13–24 | Floors 6–15, crops, orchards, kit deployment, cultured labs | 400 |
+| 4: Commissioning & Scale | Months 25–36 | Full operation, rewilding, pilot expansion | 150 |
+| **Total** | 36 months | - | **850** |
 
 ---
 
-## 11. Viability Enhancements
+## Cost Analysis (USD)
 
-- Add **modular clean room pods** for biotechnical scalability.  
-- Implement **AI-driven genetic crop optimization** for higher nutrient density.  
-- Utilize **lunar/martian CLESS test data** for extreme condition redundancy.  
-- Establish **biochar carbon sequestration units** on every site.  
-- Integrate **supply chain blockchain** for full transparency and traceability.
-
----
-
-## Conclusion
-
-The **Earth-Star Skyscraper Farm** provides a self-sustaining, secure, and export-capable agricultural model that eliminates the vulnerabilities of traditional farming. With a 7.5-year breakeven and 36% ROI, it is economically and environmentally viable — offering food, energy, and pharmaceutical independence for entire nations.
+| Category | CapEx ($M) | Opex/Year ($M) |
+|----------|------------|----------------|
+| Structures/Tiles | 400 | 40 |
+| Kits/Equipment | 250 | 50 |
+| Systems (CELSS/Farms) | 150 | 40 |
+| Rewilding/Expansion | 50 | 20 |
+| **Total** | 850 | 150 |
 
 ---
 
-### License
+## Revenue Streams (USD)
+
+| Source | Annual Revenue ($M) |
+|--------|-------------------|
+| Food Production | 200 |
+| Kits Sales | 214.6 |
+| Pharma/Vitamins | 100 |
+| Carbon Credits | 50 |
+| Exports | 50 |
+| **Total** | 614.6 |
+
+---
+
+## Cashflow Projection (10-Year, USD)
+
+| Year | Revenue ($M) | Opex ($M) | Net Profit ($M) | Cumulative ($M) |
+|------|--------------|-----------|-----------------|-----------------|
+| 0 | 0 | 0 | -850 | -850 |
+| 1 | 184 | 45 | 139 | -711 |
+| 2 | 308 | 75 | 233 | -478 |
+| 3 | 615 | 150 | 465 | -13 |
+| 4 | 615 | 150 | 465 | 452 |
+| 5 | 615 | 150 | 465 | 917 |
+| 6 | 615 | 150 | 465 | 1,382 |
+| 7 | 615 | 150 | 465 | 1,847 |
+| 8 | 615 | 150 | 465 | 2,312 |
+| 9 | 615 | 150 | 465 | 2,777 |
+| 10 | 615 | 150 | 465 | 3,242 |
+
+**Break-even:** Year 3; ROI ~55% by Year 5  
+
+---
+
+## Monthly Budgets
+
+| Resource | Monthly Usage | Excess / Export |
+|----------|---------------|----------------|
+| Power | 2,000 MWh | 500 MWh |
+| Water | 6,000 m³ | 2,000 m³ |
+
+---
+
+## Feasibility Analysis
+
+- **Market Viability**: 90%+; $9B regenerative food/pharma market (2025), +15% CAGR  
+- **Labor Savings**: CELSS automation reduces labor by 90%  
+- **Energy Efficiency**: Agrivoltaics + geothermal reduces costs by 50%  
+- **Revenue Boosts**: Carbon credits + pharma products add $150M/year  
+- **Scaling**: 37,500 farms could replace 900M acres; export $500B/year  
+
+---
+
+## License
 
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
