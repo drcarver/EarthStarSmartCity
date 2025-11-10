@@ -36,14 +36,15 @@ The Earth-Star Industries Facility is self-sufficient high-rise building embodyi
   - Piezoelectric sensors: 0.5–2 W/m².
   - Thermoelectric generators: 1–3 W/m².
   - AWG units: 80–90% humidity capture, 0.5 L/m²/day.
-  - Water bladder. When lined with other tiles it forms a large water tank.
+  - Water bladder. When lined with other tiles it forms a large water tank. Tis is used to help bloc Gamama rays.
   - LFP battery packs: 0.5 kWh/tile (85.875 MWh total array).
   - 100 IoT sensors/tile: AES-256 encryption.
-  - Copper grounding mesh: For EMP shielding.
+  - Copper grounding mesh: For EMP shielding.'
+  - Use water bladder to bloc 
     Embedded sensors should be placed on a circuit board (either biogeological or pcb) as needed.
     when lined to gether the tiles form a smart grid utilizing all the power sources
 - **Specialized Variants**:
-  - Clear tiles (windows): With PV (20% efficiency), AWG, sensors; 5,000 units.
+  - Clear tiles (windows): With PV (20% efficiency), AWG, sensors, blocks UV, Infrared.
   - Stealth tiles: Radar-absorbing for military; 2,000 units.
   - Combined HVAC/Heat pump
   - Foundation tile, made to be the foundation of structures including providing power, water and methane to any equipment on the floor.  It can have large batteries, water and methane storage. Water bladders are linked to the overall water tank for the structure.  Contains the battery management system and mechanisms for the smart grid.  The structure becomes essentially a large tesla megapack.
