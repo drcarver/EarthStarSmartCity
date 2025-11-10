@@ -1,64 +1,93 @@
 ---
-title: Earth-Star Industries: Comprehensive Tiles and Kits Catalog
-description: A complete inventory of all enhanced ceramic tiles and modular kits developed for Earth-Star Industries projects, including manufacturing processes, inputs, compositions, costs, and revenues. All elements support closed-loop sustainability, smart city standards (ISO 37122), and resilient construction with integrated smart airlocks for security.
+title: Earth-Star Industries Tiles and Kits Catalog
+description: A comprehensive catalog of all Enhanced Ceramic Tiles and modular kits produced by the Earth-Star Industries tile factory, including manufacturing processes, input sources, compositions, costs, and revenue potentials based on 2025 technologies.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Earth-Star Industries: Comprehensive Tiles and Kits Catalog
+# Earth-Star Industries Tiles and Kits Catalog
 
-This catalog compiles all tiles and modular kits from Earth-Star Industries initiatives (Facility, Skyscraper Farm, Smart City Complex, National Strategy, Undersea Cities). All are produced in-house at the tile factory using waste-derived feedstocks (zero material cost via recycling/landfill mining: MSW, e-waste, sewage, landfill leachate). Manufacturing: Automated lines (CVD for graphene/CNTs at 900–1,000°C methane feedstock; HIP sintering at 1,600–1,800°C, 80–150 MPa; microchannel etching 0.5 mm). 95% recyclability via supercritical CO₂/waste-to-energy. Enhancements for viability: 95% AI automation reduces labor 80%; modular snap-together (DARPA BlockADE) cuts assembly time 50%; sales to external markets (e.g., DoD for stealth, NOAA for ocean kits) boost revenue 20%. All buildings constructed solely from tiles, ceramics, and kits; include smart airlocks (facial/role-based, AI scans for weapons/explosives, ISO 37122/NIST 800-53 alerts). Supports sustainable codes (LEED Platinum, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1/62.1, ICC 500, NFPA 101; UN SDGs 3/6/7/11/12/14).
+This document provides a self-contained catalog of all Enhanced Ceramic Tiles and modular kits developed across Earth-Star Industries projects (Prompts 1–7). All items are manufactured in-house at the tile factory using closed-loop processes from waste streams (landfill/brownfield mining: MSW/e-waste/sewage yielding SiC/Al₂O₃/graphene/CNTs/ZrO₂ at ~$0/ton via pyrolysis/electrolysis/supercritical CO₂). Manufacturing: CVD (900–1,000°C, methane feedstock for graphene/CNTs, >90% purity), HIP (1,600–1,800°C, 80–150 MPa for densification), and 3D-printed microchannels (0.5 mm). Compositions: Fiber-reinforced ceramic composites (base: 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; 2,800 MPa compressive, 700–900 MPa flexural, 20–30 MPa·m¹/² toughness; >95% recyclable). Costs: Recomputed for Nov 10, 2025 (6% inflation from 2024 baselines; waste offsets 50%). Revenues: Aggressive potentials (20% market capture, 15% CAGR). All buildings use these exclusively with smart airlocks (ISO 37122/NIST 800-53; AI scans for weapons/explosives). Enhances viability: Modular snap-together reduces bottlenecks 80%; external sales diversify revenue. New kits: Universal Airlock Kit (integrated security), Waste-to-Feedstock Kit (mining optimizer).
 
-## Tiles
-All tiles (5 m², 10–15 cm thick facade/floors, 50 cm foundation; 200 kg) form smart grids when assembled. Inputs: Recycled SiC/Al₂O₃ (pyrolysis/electrodialysis), graphene/CNTs (CVD from methane), ZrO₂ (leaching). Composition base: 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ (2,800 MPa compressive, 700–900 MPa flexural, >95% recyclability). Costs: $10/tile production (energy/labor only); revenues from sales/export.
+## Enhanced Ceramic Tiles
+All variants: 5 m² each, 200 kg, 10–15 cm thick (50 cm foundations); deploy via DARPA canisters. Inputs: Waste pyrolysis (plastics to biochar/graphene), electrodialysis (metals to SiC/Al₂O₃), supercritical CO₂ (recycling). Revenue: $50–100M/year external sales (construction market $10T global).
 
-| Tile Type | Manufacturing | Inputs | Composition/Features | Production Cost ($/tile) | Sale Price ($/tile) | Annual Revenue Potential (M units) |
-|-----------|---------------|--------|----------------------|---------------------------|---------------------|------------------------------------|
-| Standard Enhanced Ceramic | CVD + HIP + microchannels | Waste SiC/Al₂O₃, methane | PV (28.75% eff., 200–240 W/m²), piezo (0.5–2 W/m²), thermoelectric (1–3 W/m²), AWG (0.5 L/m²/day), LFP batteries (0.5 kWh), 100 IoT sensors (AES-256), copper mesh (EMP >80 dB) | 10 | 25 | $1B (40M units) |
-| Clear (Windows) | CVD + acrylic infusion | Waste + recycled acrylic | 20% PV eff., AWG/sensors; 92% light transmission | 15 | 35 | $500M (14M units) |
-| Stealth | CVD + metamaterial coating | Waste + radar-absorbers (e-waste) | Radar-absorbing (0.1–10 GHz); military-grade | 15 | 40 | $300M (7.5M units) |
-| HVAC/Heat Pump | HIP + coil embedding | Waste + copper coils | Wraps heat sources; COP 5.0 geothermal integration | 12 | 30 | $400M (13M units) |
-| Foundation | HIP + large storage molding | Waste + LFP/graphene | Batteries/water/methane tanks, BMS; mega-pack structure | 20 | 50 | $600M (12M units) |
-| Transparent Dome (Undersea) | CVD + graphene-acrylic composite | Waste + acrylic (recycled plastics) | 92% clarity, 500 MPa flexural, 300 m depth; pressure-optimized | 18 | 45 | $200M (4M units) |
-| **Totals** | - | - | - | - | - | **$3B+** |
+| Variant | Composition/Features | Inputs | Manufacturing | Cost (2025, per Tile) | Revenue Potential |
+|---------|----------------------|--------|---------------|-----------------------|-------------------|
+| Standard | 60% SiC/25% Al₂O₃/10% graphene/CNTs/5% ZrO₂; PV (28.75% eff., 200–240 W/m²), piezo (0.5–2 W/m²), thermoelectric (1–3 W/m²), AWG (0.5 L/m²/day), LFP (0.5 kWh), 100 IoT sensors (AES-256), copper mesh (EMP). | Landfill MSW/e-waste (80%), sewage (20%). | CVD graphene, HIP densification, microchannels. | $10.60 | $20 (sales to builders). |
+| Clear (Windows) | As standard + UV/IR blocking, 20% PV eff. | Same + silica from e-waste. | CVD + optical polishing. | $12.70 | $25 (premium glazing). |
+| Stealth | As standard + radar-absorbing metamaterials (99% 0.1–10 GHz). | Same + carbon from pyrolysis. | CVD + metamaterial embedding. | $15.90 | $30 (military contracts). |
+| HVAC/Heat Pump | As standard + integrated heat exchangers (COP 5.0). | Same + copper from scrap. | HIP + channel extrusion. | $13.40 | $25 (energy retrofits). |
+| Foundation | As standard + large batteries/water/methane storage, BMS, smart grid hubs (Megapack-style). | Same + metals from car scraps. | CVD + large-scale HIP. | $21.20 | $40 (infrastructure). |
+| Transparent (Domes) | As clear + 95% clarity, pressure seals (200m depth). | Same + ZrO₂ from mining. | CVD + graphene sealing. | $14.00 | $28 (tourism domes). |
+| Marine (Floating/Undersea) | As standard + anti-fouling, corrosion-resistant. | Ocean waste + coastal mining. | CVD + coating application. | $11.70 | $22 (maritime). |
 
-## Kits
-All IKEA-style flat-packed, ceramic-based (zero material cost). Assembly: AI-guided Pez dispensers, Squad X AI (95% automated). Inputs: Tiles/studs + recycled electronics/metals. Costs: Production (energy/labor); revenues from sales (govt./export). New kits: Hyperloop Pod Kit (for transport), Coral Seeding Kit (ocean enhancement). Viability: Bundle sales (+15% revenue); leasing model reduces buyer capex 30%.
+## Modular Kits
+All IKEA-style flat-packed, ceramic-produced; assembly: AI-guided Pez dispensers/DARPA BlockADE/Squad X (95% automation). Inputs: Tile/stud feedstock from factory. Revenue: $1–2B/year external (sustainable market $500B). New: Universal Airlock Kit ($2.1k, security integration); Waste-to-Feedstock Kit ($15k, mining AI sorters).
 
-| Kit Name | Manufacturing | Inputs | Components/Outputs | Production Cost ($/kit) | Sale Price ($/kit) | Annual Revenue Potential (10k units) |
-|----------|---------------|--------|--------------------|--------------------------|--------------------|-------------------------------------|
-| Farm Kit | Ceramic molding + hydro assembly | Tiles, recycled plastics | Hydro/aeroponic trays, RAS tanks; greens/tomatoes/berries | 2,000 | 5,000 | $30M |
-| Cleanroom Kit | HEPA ceramic filters + VAV molding | Tiles, e-waste sensors | ISO 1–8 filters/systems; semiconductors/pharma | 5,000 | 12,000 | $70M |
-| Processing Kit (Expanded) | Oven/looms from heat-pump tiles | Tiles, recycled metals | Ovens/looms/bakeries/dairies/butcheries; furniture/food/leather/wool | 5,000 | 12,000 | $70M |
-| Apartment Kit | Furniture molding + fixture assembly | Tiles, recycled fabrics | Ceramic furniture/fixtures/linens; luxurious units | 4,000 | 10,000 | $60M |
-| Electronics Kit | Casing molding + semi integration | Tiles, in-house semis | TVs/appliances; consumer goods | 6,000 | 15,000 | $90M |
-| Office Kit | Desk/chair molding | Tiles, recycled wood composites | Desks/chairs; workspaces | 2,500 | 6,000 | $35M |
-| Amenity Kit | Fixture assembly | Tiles, recycled metals | Gym/pool/sauna/restaurant; recreation | 20,000 | 50,000 | $300M |
-| Semiconductor Manufacturing Kit | Wafer/CVD reactor molding | Tiles, e-waste silicates | 65nm CMOS/MEMS; wafers/sensors | 50,000 | 120,000 | $700M |
-| Ceramics Equipment Line Kit | Press/CVD unit assembly | Tiles, recycled machinery | Tile/stud production lines | 30,000 | 75,000 | $450M |
-| Recycling Line Kit | Sorter/digester molding | Tiles, e-waste | AI sorters/pyrolysis; feedstock/nutrients | 40,000 | 100,000 | $600M |
-| Aquaponics Kit | Tank/filter molding | Tiles, recycled pipes | Salt/freshwater tanks; fish/crustaceans (500 tons/year) | 3,500 | 8,000 | $45M |
-| Livestock Kit | Enclosure/feed assembly | Tiles, recycled fencing | Poultry/mammals/game enclosures; ethical grazing | 4,000 | 10,000 | $60M |
-| Orchard Kit | Tree support molding | Tiles, recycled supports | Full-size trees/orchards; silvopasture fruits/nuts | 6,000 | 15,000 | $90M |
-| Cultured Meat Kit | Bioreactor assembly | Tiles, cleanroom semis | Lab-grown meats; alternatives | 20,000 | 50,000 | $300M |
-| Pharma Kit | Extraction/cleanroom molding | Tiles, recycled glass | Vitamins/pharma extraction; hospital supplies | 10,000 | 25,000 | $150M |
-| Automated Womb Kit | Bioreactor molding | Tiles, cultured media | Ethical livestock gestation; bison/deer | 15,000 | 40,000 | $250M |
-| Dome Kit (Undersea) | Geodesic frame + transparent tile assembly | Transparent tiles, acrylic | Pressure domes (10–50 m dia.); housing/research | 500,000 | 1.2M | $7B (for 500 units) |
-| Aquaculture Kit (Expanded) | RAS/coral grower molding | Tiles, recycled tanks | Fingerlings (10M/year)/coral (1,000 ha); restoration | 100,000 | 250,000 | $1.5B |
-| Tourism Kit | Portal/pod assembly | Tiles, recycled viewing | Submersible pods/portals; 10k visitors/year | 50,000 | 120,000 | $700M |
-| Research Kit | Sensor/lab molding | Tiles, MEMS | Ocean labs/sensors; data/grants | 200,000 | 500,000 | $3B |
-| Ocean Remediation Kit | Drone/buoy molding | Tiles, recycled plastics | Drones/buoys/bioremediation; 1M tons plastics/year | 5M | 12M | $70B (1,000 units) |
-| Hyperloop Port Kit | Terminal/pod assembly | Tiles, recycled rails | Ceramic terminals/pods; hubs | 10M | 25M | $22.5B (1,500 units) |
-| Shipping Kit | Hull/farm molding | Tiles, recycled steel | Automated ships with farms; 5,000 vessels | 100–500M | 250–1.25B | $1.25–6.25T |
-| Hyperloop Pod Kit (New) | Pod chassis + propulsion | Tiles, recycled magnets | 500 mph pods (28–50 TEUs); transport | 5M | 12M | $120B (10,000 units) |
-| Coral Seeding Kit (New) | Reef structure molding | Tiles, recycled substrates | Coral nurseries/seeding; 100 ha/year | 20,000 | 50,000 | $300M |
-| **Totals** | - | - | - | - | - | **$17T+** (scaled) |
+| Kit Name | Components/Use | Inputs | Manufacturing | Cost (2025, per Kit) | Revenue Potential |
+|----------|----------------|--------|---------------|-----------------------|-------------------|
+| Farm Kit | Hydro/aeroponic trays, RAS tanks; food production. | Waste nutrients, ceramic trays. | 3D-print + assembly. | $2,120 | $530/month (yields). |
+| Cleanroom Kit | HEPA/VAV housings; ISO 1–8 setup. | Ceramic filters from silica waste. | HIP molding. | $5,300 | $10.6k (pharma). |
+| Processing Kit | Ovens/looms; furniture/clothing. | Metal scraps for looms. | CVD reinforcement. | $3,180 | $4.24k (sales). |
+| Apartment Kit | Ceramic furniture/fixtures/linens; 50 m² unit. | Waste textiles. | 3D-print furniture. | $8,480 | $15.9k (rental). |
+| Electronics Kit | TVs/appliances (casings); consumer goods. | E-waste metals. | Microchannel etching. | $4,240 | $6.36k. |
+| Office Kit | Desks/chairs; workspace. | Wood waste composites. | HIP pressing. | $2,650 | $4.24k. |
+| Amenity Kit | Gym/pool/sauna fixtures; recreation. | Same + pools from molds. | Assembly line. | $106k | $21.2k/month. |
+| Cleanroom Equipment Kit | Laminar flows/gloveboxes; ISO equip. | High-purity silica. | CVD clean fab. | $10.6k | $26.5k. |
+| Semiconductor Fab Kit | Reactors/etchers (65nm); chip production. | E-waste silicons. | Nano-HIP. | $53k | $106k/month. |
+| Ceramics Line Kit | CVD/HIP kilns (HVAC-wrapped); tile production. | Waste feedstock. | Self-replicating molds. | $21.2k | $31.8k. |
+| Recycling Line Kit | AI sorters/pyrolyzers; waste processing. | MSW inputs. | Modular sorters. | $15.9k | $42.4k (outputs). |
+| Bakery Kit | Ovens/looms; breads/pastries. | Farm grains. | Heat-resistant ceramics. | $10.6k | $21.2k/month. |
+| Dairy Kit | RAS/cheese vats; milk products. | Aquaponic waste. | Membrane tech. | $15.9k | $26.5k. |
+| Confectionery Kit | Mixers/molders; sweets. | Fruit/nut waste. | Non-stick coatings. | $8.48k | $15.9k. |
+| Distillery Kit | Fermenters/distillers; beverages. | Biomass methane. | Corrosion-proof. | $12.7k | $19.1k. |
+| Butchery Kit | Knives/processors; meat/leather. | Animal waste. | Sharp-edge HIP. | $21.2k | $31.8k. |
+| Packaging Kit | Biodegradable extruders; compostable packs. | Chitin/PLA from waste. | Extrusion molding. | $5.3k | $10.6k. |
+| Cultured Meat Kit | Bioreactors; lab-grown proteins. | Nutrient media. | Sterile chambers. | $53k | $106k/month. |
+| Orchard Kit | Tree supports; fruits/nuts. | Soil amendments. | Vertical framing. | $26.5k | $42.4k. |
+| Grazing Kit | Enclosures; regenerative animal fields. | Pasture waste. | Fencing molds. | $31.8k | $53k. |
+| Ethical Animal Kit | Ceramic wombs/bioreactors; ethical gestation. | Cell cultures. | Bio-compatible HIP. | $42.4k | $47.6k. |
+| Tile Kit | Tiles/studs bundles; basic building. | Factory feedstock. | Pre-pack CVD. | $5.3k (400 tiles) | $10.6k. |
+| Stud Kit | Studs bundles; structural. | Metal composites. | Extrusion. | $9.54k (200 studs) | $19.1k. |
+| Agriculture Kit | Bio-digesters/AWGs/aquaponics; home farms. | Greywater. | Mini-RAS. | $15.9k | $21.2k. |
+| Recreation Kit | Pool/hot tub/sauna; amenities. | Water systems. | Molded fixtures. | $10.6k | $15.9k. |
+| Energy Kit | PV/thermal/geothermal; power. | Waste metals. | Panel assembly. | $6.36k | $10.6k surplus. |
+| HVAC Kit | Heat pumps; climate. | Copper scraps. | Channel integration. | $2.12k | $4.24k. |
+| Automation Kit | IoT/Arduino; smart controls. | E-waste chips. | PCB fab. | $212 | $530. |
+| Odor Control Kit | Filters/scrubbers; waste mgmt. | Biochar. | Membrane pressing. | $530 | $1.06k. |
+| Smart Airlock Kit | Security scanners; access. | Sensors/metals. | Door molding. | $2.12k | $4.24k (security sales). |
+| Retail Kit | Displays/packaging; stores. | Waste plastics. | Display extrusion. | $106k | $212k. |
+| Restaurant Kit | Appliances/packaging; dining. | Food waste. | Oven assembly. | $212k | $424k. |
+| Hospitality Kit | Furniture/appliances; hotels. | Linens/textiles. | Suite molding. | $106k | $212k. |
+| Education Kit | Labs/kilns/3D printers; training. | E-waste. | Printer fab. | $106k | $212k. |
+| Sports Kit | Courts/fields; recreation. | Surface composites. | Turf pressing. | $53k | $106k. |
+| Tech Kit | Printers/robotics; labs. | Metals/chips. | Arm assembly. | $53k | $106k. |
+| Healthcare Kit | Clinic equipment; medical. | Pharma waste. | Sterile molding. | $53k | $106k. |
+| Kitchen Kit | Soup kitchens; community. | Utensils. | Batch cooking. | $106k | $212k. |
+| Industrial Kit | Mfg/battery lines; factories. | Scrap metals. | Line extrusion. | $5.3M | $10.6M. |
+| Mining Kit | Electrodialysis/leaching; resources. | Ore waste. | Electrode fab. | $2.12M | $4.24M. |
+| Data Kit | Servers/cooling; centers. | E-waste chips. | Rack assembly. | $5.3M | $10.6M. |
+| Airport Kit | Terminals/shops; transport. | Runway composites. | Gate molding. | $212k | $424k. |
+| Remediation Kit | Drones/buoys/microbes; cleanup. | Ocean waste. | Buoy extrusion. | $5.3M | $10.6M. |
+| Hyperloop Kit | Tubes/pods; transport. | Rail scrap. | Tube HIP. | $106M/mile | $212M fares. |
+| Farm Replacement Kit | Vertical/horizontal conversion; ag shift. | Farm waste. | Tray relocation. | $21.2M | $42.4M. |
+| Dam Decommission Kit | Removal/flood retain; infra. | Concrete scrap. | Safe demo tools. | $1.06M/unit | $2.12M recycling. |
+| Power Plant Recycle Kit | Metal/tile conversion; energy. | Plant scrap. | Furnace disassembly. | $5.3M/unit | $10.6M feedstock. |
+| Ship Kit | Farm-integrated hulls; maritime. | Ship scrap. | Hull molding. | $53M | $106M food sales. |
+| Undersea Dome Kit | Transparent assembly; subsea. | Silica waste. | Pressure seals. | $530M | $1.06B tourism. |
+| Aquaculture Kit | RAS/fingerlings; fish. | Sea waste. | Tank molding. | $10.6M | $21.2M. |
+| Coral Restoration Kit | Nurseries/seeders; reefs. | Coral media. | Microstructure. | $5.3M | $10.6M contracts. |
+| Floating Platform Kit | Honeycomb hull; floating. | Buoyancy foam. | Void filling. | $5.3B | $10.6B charters. |
+| Propulsion Engine Kit | Azimuth thrusters; mobility. | Motor metals. | Pod assembly. | $530M | $1.06B services. |
+| Ocean Regeneration Kit | Filters/dosers; ocean health. | Membrane silica. | Intake channels. | $106M | $212M credits. |
+| Universal Airlock Kit (New) | Scanners/doors; security. | Sensor arrays. | Integrated molding. | $2.12k | $4.24k (universal). |
+| Waste-to-Feedstock Kit (New) | AI sorters/optimizers; mining. | Waste streams. | Sorter fab. | $15.9k | $31.8k efficiency. |
 
-## Viability Enhancements
-- **Bottlenecks Reduced**: Phased production (factory output 1M tiles/month); AI predictive maintenance (20% uptime boost).
-- **Revenue Streams**: Govt. contracts (NOAA/DoD: +$5T); exports (global: +30%); leasing (reduces capex barrier).
-- **Sustainability**: 100% closed-loop; carbon credits ($50–100/ton, $10B/year potential).
+## Enhancements for Viability
+- **Bottleneck Reduction**: Self-replicating factory kits (20% faster production); waste offsets cut costs 50%.
+- **Revenue Diversification**: Kit exports ($2B/year); carbon/RECs integration (+$500M/year).
+- **Scalability**: Modular design enables 100% reuse; AI optimization (15% yield boost).
 
----
-
-*This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
+## License
+This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
