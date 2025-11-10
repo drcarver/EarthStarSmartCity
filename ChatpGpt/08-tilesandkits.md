@@ -1,115 +1,88 @@
 ---
-title: Earth-Star Industries Tiles and Kits Master Catalog
+title: Earth-Star Industries Tiles and Kits Inventory
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: jekyll-theme-minimal
 ---
 
-# Earth-Star Industries Tiles and Kits Master Catalog
+# Earth-Star Industries Tiles and Kits Inventory
 
-This catalog describes all **tiles** and **kits** used in Earth-Star districts (land, sea, space).  
-All structures are built **exclusively from ceramic tiles, smart studs, and modular kits**.  
-Each facility integrates **smart airlocks** (weapons/explosives scanning) and complies with **ISO 37122 Smart Cities**, **NIST 800-53 security**, and **sustainable building codes**.  
-
-All tiles and kits are manufactured in **Tile Factories**, supplied by **landfill mining**, **brownfield remediation**, and **ceramic feedstock recycling**.  
+This document provides a **comprehensive inventory of all tiles and kits** used by Earth-Star Industries for constructing smart cities, floating cities, undersea domes, and other modular infrastructure. All items are manufactured from **ceramic-based materials, recycled inputs, and modular components**, fully compatible with smart city standards, sustainable building codes, and integrated security systems including smart airlocks.
 
 ---
 
-## Tile Production
+## 1. Tile Inventory
 
-| Tile | Composition | Input Sources | Manufacturing Process | Cost per Unit | Revenue/Value |
-|------|-------------|---------------|-----------------------|---------------|---------------|
-| **Enhanced Ceramic Tile** | Aluminosilicate ceramics, recycled glass, slag, fly ash, landfill-sourced minerals | Landfills, brownfields, mining tailings, demolished concrete | Plasma/arc furnace smelting → casting → sintering → optional transparency treatment | $0.10–0.20 | $0.50–1.00 (retail to construction) |
-| **Transparent Ceramic Tile** | Yttrium aluminum garnet (YAG) ceramics + recycled glass | Landfill glass, rare earth tailings | High-temp sintering, hot isostatic pressing | $1.00 | $3.00 (tourism domes, observatories) |
-| **Smart Studs** | Reinforced ceramic beams with embedded fiber optics & sensor mesh | Same as above + recycled metals (aluminum, steel) | Ceramic extrusion + embedded electronics insertion | $5 | $15 (structural load + smart monitoring) |
+| Tile Type | Dimensions | Composition | Input Sources | Cost ($/tile) | Revenue ($/tile) | Notes |
+|-----------|------------|------------|---------------|---------------|-----------------|------|
+| Standard Ceramic Tile | 5 m² | 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ | Landfill-mined ceramics, silica, aluminum, carbon | 10 | 50 | Base construction tile; high compressive strength (2,800 MPa); 95% recyclable |
+| Transparent Ceramic Tile | 5 m² | SiC/Al₂O₃ mix with optical-grade polymer | Silica sand, polymer additives | 25 | 150 | For domes, aquariums, and ocean/undersea cities |
+| Stealth Ceramic Tile | 5 m² | Standard tile + radar-absorbing graphene metamaterials | Graphene, CNTs, SiC | 15 | 200 | Military/airspace stealth; 0.1–10 GHz absorption |
+| Energy PV Tile | 5 m² | Standard tile + embedded PV cells, LFP storage | Silicon, LiFePO₄, SiC | 90 | 250 | Solar energy production; IoT integrated |
+| AWG / Water Generation Tile | 5 m² | Standard tile + atmospheric water capture | Ceramic, hygroscopic metals | 45 | 120 | 0.5 L/day/m² water generation |
 
-**Tile Factory Kit**: Produces **1M tiles/day** at $50M CapEx.  
-**Revenue**: $300M–$500M/year from tile sales.  
-
----
-
-## Standard Kits
-
-| Kit | Cost ($M) | Composition | Function | Revenue/Value |
-|-----|-----------|-------------|----------|---------------|
-| **Apartment Kit** | 20 | Tiles, studs, smart airlocks, plumbing & electrical modules | 100 apartments (400 residents) | $8M–$12M/year rent |
-| **Office Kit** | 25 | Tiles + smart wiring + air filtration | 50 offices, 500 workers | $15M–$20M/year leases |
-| **Hospital Kit** | 50 | Tiles + sterile HVAC + modular wards | 200 beds + clinic | $25M–$40M/year |
-| **School Kit** | 30 | Tiles + classrooms + labs + gym | 1,000 students | $10M/year funding + services |
-| **Mall & Retail Kit** | 40 | Tiles + transparent sections + storefronts | 200 shops | $20M–$40M/year |
-| **Farm Kit** | 35 | Tiles + hydroponics, aquaponics, livestock pens | Food for 5,000 people | $15M–$30M/year sales |
-| **Energy Kit** | 20 | Solar tiles, methane digesters, batteries | 50 MW power | $20M/year |
-| **Water Kit** | 15 | Atmospheric water generator + ceramic filtration | 1M liters/day | $10M/year |
-| **Recycling Kit** | 20 | Robotic sorters, ceramic grinders | 500 tons/day | $15M–$25M/year |
-| **Brownfield Mining Kit** | 25 | Tunnel borers, ceramic liners | Contaminant removal → feedstock | Indirect (provides free input to tile factories) |
-| **Landfill Mining Kit** | 30 | Robotic diggers, AI sorters, methane capture | Waste → tile feedstock + energy | $25M–$50M/year |
-| **Remediation Kit** | 5 | Phytoremediation, electrokinetics | Cleans soil/water | Indirect (reduces CapEx elsewhere) |
+**Manufacturing Process:**
+- **Step 1**: Raw material collection from **landfill mining, recycling centers, and sustainable mines**.
+- **Step 2**: Ceramic powder synthesis, blending with additives (graphene, SiC, Al₂O₃, polymers).
+- **Step 3**: Tile forming via automated **3D molding or press extrusion**.
+- **Step 4**: Sintering/firing in automated kilns.
+- **Step 5**: Quality inspection with **AI vision systems**, embedded IoT sensors, and optional PV/stealth modules.
 
 ---
 
-## Advanced Kits
+## 2. Stud Inventory
 
-| Kit | Cost ($M) | Composition | Function | Revenue/Value |
-|-----|-----------|-------------|----------|---------------|
-| **Semiconductor Fab Kit** | 100 | Ceramic cleanroom shells, chip foundry modules | 10M chips/year | $2B/year sales |
-| **GPU/AI Farm Kit** | 75 | Ceramic cooling blocks, AI servers | 1 exaflop compute | $500M–$1B/year |
-| **Electronics Kit** | 20 | PCB lines, assembly robots | Phones, IoT, sensors | $100M/year |
-| **Battery Kit** | 30 | Ceramic cathodes, recycling inputs | 1 GWh/year | $150M/year |
-| **Transport Hub Kit** | 80 | Hyperloop port + maglev + drone bay | 100,000 passengers/day | $200M–$400M/year |
-| **Defense & Security Kit** | 40 | Smart airlocks, drones, sensors, encryption | District protection | $10M/year (service revenue) |
+| Stud Type | Dimensions | Composition | Input Sources | Cost ($/stud) | Revenue ($/stud) | Notes |
+|-----------|------------|------------|---------------|---------------|-----------------|------|
+| Standard Smart Stud | 1 m | Reinforced ceramic + IoT wiring | Tile feedstock, metals | 45 | 120 | Structural component; embedded sensors for building automation |
+| Stealth Stud | 1 m | Reinforced ceramic + radar absorbing | Graphene, SiC | 65 | 200 | Used in military or stealth zones |
+| Transparent Stud | 1 m | Optical-grade ceramic | Silica, polymer | 55 | 150 | For domes and ocean/undersea cities |
 
----
-
-## Marine & Undersea Kits
-
-| Kit | Cost ($M) | Composition | Function | Revenue/Value |
-|-----|-----------|-------------|----------|---------------|
-| **Undersea Dome Kit** | 500 | Transparent ceramic dome, smart studs | Housing for 10,000 | $200M–$400M/year housing |
-| **Coral & Habitat Kit** | 20 | Growth racks, transplant drones | Reef/kelp restoration | Indirect (carbon credits, ecosystem) |
-| **Marine Hatchery Kit** | 15 | Fish tanks, release systems | Fingerlings for restocking | $50M/year exports |
-| **Tourism & Research Kit** | 50 | Transparent tunnels, labs | Tourist + research hub | $250M–$500M/year |
-| **Pressure & Energy Kit** | 25 | Seawater pressure stabilization + tidal power | Power + safety | $20M–$40M/year |
+**Manufacturing Process:**
+- Precision extrusion of ceramics
+- Automated sintering
+- Embedded sensor wiring during molding
+- Quality assurance via AI monitoring
 
 ---
 
-## Manufacturing Flow
+## 3. Modular Kits Inventory
 
-1. **Input Sources**  
-   - Landfills → glass, metals, plastics, organic waste.  
-   - Brownfields → contaminated soil/slag → refined to ceramics.  
-   - Recycling → continuous feedstock.  
+| Kit Type | Components | Cost ($/kit) | Revenue ($/kit) | Function / Notes |
+|----------|------------|---------------|-----------------|-----------------|
+| Residential Kit | Housing modules, vertical farms, HVAC, water recycling | 5,000,000 | 15,000,000 | Complete self-contained residential unit |
+| Commercial/Hotel Kit | Hotels, labs, aquariums, offices | 2,500,000 | 8,000,000 | Tourism and commercial use |
+| Aquaculture Kit | Fish nurseries, coral, seaweed cultivation, water filtration | 1,000,000 | 3,500,000 | Ocean regeneration and food production |
+| Energy Kit | Solar PV tiles, biogas turbines, wave/tidal generators | 5,000,000 | 15,000,000 | Power generation for districts |
+| Propulsion Kit | Engines, thrusters, control modules | 20,000,000 | 50,000,000 | Floating city mobility and relocation |
+| Smart Airlock Kit | 5–10 units per building | 20,000 | 50,000 | AI scanning, weapons/explosives detection |
+| Dome Kit | 500,000 tiles, 250,000 studs, assembly & engineering | 66,250,000 | 180,000,000 | Covers city domes; energy integrated; stealth optional |
+| Vertical Farm Kit | Hydroponics, aquaponics, robotics, LED grow systems | 2,000,000 | 6,500,000 | Food production for districts and floating cities |
+| Ocean Remediation Kit | Drones, buoys, bioreactors | 5,000,000 | 15,000,000 | Plastics, oil, and heavy metals removal |
+| Industrial Kit | Manufacturing lines, robotics, storage | 5,000,000–20,000,000 | 15,000,000–60,000,000 | Customizable for automotive, electronics, textile, food processing |
 
-2. **Tile Factory Processing**  
-   - Plasma/arc furnaces melt input.  
-   - Casting into tiles/studs.  
-   - Smart embedding (sensors, fiber optics).  
-   - Transparency treatment for domes.  
-
-3. **Kit Assembly**  
-   - Modular assembly lines near tile factories.  
-   - Components stacked/shipped like containerized IKEA modules.  
-   - Final deployment via robotics + drones.  
-
----
-
-## Economics (per District)
-
-- **CapEx**: ~$400M–$600M/district.  
-- **OpEx**: ~$40M/year.  
-- **Revenue**: $3B–$5B/year.  
-- **Breakeven**: 3–5 years.  
-- **ROI**: 500%+.  
+**Manufacturing Process:**
+- Kits assembled **at tile factory or modular assembly hubs**.
+- Components use **recycled feedstock**, standard tiles/studs, and specialized modules (PV, aquaculture, robotics).
+- Automated assembly lines with **Skydio drones, Spot robots, and BlockADE AI** for precision.
+- Kits are **pre-certified for smart city standards** and sustainability codes.
 
 ---
 
-## Suggestions to Enhance Viability
-1. **Prioritize Tile Factories** near landfills for constant feedstock.  
-2. **Standardize Smart Airlocks** across all kits for security compliance.  
-3. **Use Transparent Ceramics** to boost tourism + R&D revenues.  
-4. **Cluster Deployment**: Build 3–5 districts per region to share tile factories and reduce costs.  
-5. **Carbon Credit Monetization** from coral/forest restoration.  
-6. **Automation**: Deploy robotic assembly lines + AI logistics to cut OpEx 25%.  
+## 4. Cost and Revenue Optimization Strategies
+
+- **Reuse & Modularization**: Existing tiles, studs, and kits can be reconfigured for new districts, reducing CapEx by 30–50%.
+- **Landfill Mining**: Reduces feedstock cost to near $0 for raw ceramics.
+- **Automation**: 80–95% construction automation lowers labor costs.
+- **Phased Deployment**: Floating, undersea, and land-based cities deployed in clusters to optimize logistics.
+- **Energy & Water Integration**: Tiles generating energy and AWG reduce operational costs and create new revenue streams (sale of surplus energy, water, and carbon credits).
+- **Smart Airlocks & Security**: Compliance with ISO 37122, NIST 800-53 ensures safety and lowers insurance cost.
 
 ---
 
-## License
-This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+## 5. Summary
+
+Earth-Star Industries’ **tiles and kits system** provides a **highly scalable, sustainable, and profitable approach** for constructing smart cities, floating ocean cities, and undersea habitats. Leveraging **recycled materials, modular kits, and automation**, costs are minimized while revenues are maximized through energy, food, tourism, and environmental services.
+
+*All tiles and kits are fully compatible with smart city standards, sustainable building codes, and integrated security systems.*
+
+*This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
