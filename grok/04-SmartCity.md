@@ -1,269 +1,252 @@
 ---
-title: Earth-Star Industries Smart City Complex
-description: A modular hub-and-spoke urban ecosystem for 20,000 residents, integrating luxurious single-family homes, sustainable urban agriculture systems, a hospital, K-12 school, shopping mall, low-income housing, hotels, college campus, vocational training, industrial park, Tesla Megapack factory, Colossus 2-sized data center, and smart airport, built with ceramic tiles and kits from the Earth-Star Industries Facility.
+title: Earth-Star Industries Smart City Complex – Prompt 4
+description: Full modular hub-and-spoke urban ecosystem for 20,000 residents, integrating residential, industrial, and civic infrastructure with ceramics and smart kits from Earth-Star Industries.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
+theme: jekyll-theme-minimal
 ---
 
-# Earth-Star Industries Smart City Complex
+# Earth-Star Industries Smart City Complex – Prompt 4
 
-The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ecosystem (MHUE) supporting 20,000 residents in a new district along a BNSF railway line (e.g., near Seattle for coastal access or Miami for southern connectivity). Built entirely from Enhanced Ceramic Tiles and Smart Studs per Prompt 1 specifications, it integrates all listed components with smart infrastructure. All costs, revenues, and volumes recomputed based on 2025 projections, factoring waste-derived materials (~$0 feedstock). Structures minimize light pollution via non-reflective tiles, inward low-Kelvin LEDs, and dome shielding for urban stargazing. The complex achieves off-grid operation, with smart airlocks (facial/role-based, weapons/explosives AI scans) in all buildings (ISO 37122 compliant). Construction leverages 80–95% automation (Skydio drones, Boston Dynamics Spot, DARPA Squad X AI, BlockADE systems) and 500 trained workers. Sustainable mining integrated for rare earths if waste streams dwindle.
+This document presents the Earth-Star Industries Smart City Complex (MHUE), a modular, hub-and-spoke urban ecosystem for 20,000 residents. It integrates residential, commercial, educational, industrial, and civic infrastructure using **Enhanced Ceramic Tiles** and **Smart Studs** from the Earth-Star Industries facility. All kits and equipment are ceramic-based, assembled with high automation, and designed for sustainability, security, and smart city compliance.
+
+---
 
 ## Complex Overview
-- **Population**: 20,000 (5,000 single-family homes, 5,000 low-income apartments, hotels/staff).
-- **Location**: BNSF-adjacent district; 10-year rail partnership ($50M/year) for expansion/logistics.
-- **Structure**: Hub (factory, farm, hospital, school, mall, data center, industrial park, airport) + spokes (housing, college, hotels); total ~500,000 m² built area on ~2 km² site.
-- **Infrastructure**: Ceramic smart roads/sidewalks (IoT/fiber), hyperloops (500 mph, 10–20 miles/spoke), 50-acre green spaces with automated irrigation.
-- **Transport**: Tesla robotaxis, autonomous vehicles; BNSF for relocatable towers.
-- **Internet**: 1 TB/s scalable to 10 TB/s (ISO 37122).
-- **Energy**: 4,000 MW (2,000 MW solar/PV tiles at $0.9M/MW installed, 1,500 MW biogas/methane turbines at $1.2M/MW, 500 MW geothermal at $2.9M/MW); 1,000–1,500 MW surplus.
-- **Water**: 200M L/year (90–95% recycling, AWG tiles, grey/black processing).
-- **Waste**: 120,000–240,000 tons/day recycled into ceramics/bio-silica/rare earths.
-- **Standards**: UN SDGs 3/6/7/11/12; ISO 14644-1/52120-1/27001/37122; NATO STANAG 4370/7159/2582; LEED Gold, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1/62.1, ICC 500, NFPA 101; UFC 4-010-01/3-340-02/3-410-01/3-401-01, MIL-STD-810H/461G/188-125-1/1474E, NIST 800-53.
-- **City Dome**: Phased construction; stealth transparent tiles/studs cover ~2.5M m² surface (low-profile over 2 km²); generates energy (PV-integrated), provides protection. New Dome Kit: 500,000 tiles ($5M), 250,000 studs ($11.25M), assembly/engineering ($50M); total $66.25M.
 
-## Components and Kits
-All use Prompt 1 tiles (5 m², $10 each, 200 kg, 10–15/50 cm thick; composition/strength as specified) and studs (1 m, $45 each, 50 kg). Kits ceramic-based, pre-certified. Outputs/volumes recomputed for scale/efficiency. Construction costs adjusted 70% below 2025 market averages ($240–870/sq ft or ~$2,600–9,400/sqm) due to zero-material modularity.
-
-### Luxurious Single-Family Homes (5,000 units)
-- **Design**: 186 m², 4–6 beds; sunroom/pool/sauna. Market cost ~$300/sq ft ($3,200/sqm); adjusted $267/sqm.
-- **Kits** (per unit):
-
-| Kit Type | Components | Cost ($/unit) | Quantity/Unit |
-|----------|------------|---------------|---------------|
-| Tile Kit | 400 tiles, 100 windows | 5,000 | 1 |
-| Stud Kit | 200 studs | 9,000 | 1 |
-| Agriculture Kit | Bio-digester, AWG, aquaponics | 15,000 | 1 |
-| Recreation Kit | Pool, hot tub, sauna | 10,000 | 1 |
-| Energy Kit | 2 kW solar, geothermal | 6,000 | 1 |
-| HVAC Kit | 2 kW heat pump | 2,000 | 1 |
-| Automation Kit | IoT sensors | 200 | 1 |
-| Odor Control Kit | Filters | 500 | 1 |
-| Smart Airlock Kit | Scanning | 2,000 | 1 |
-
-- **Output**: 75 kg/year fish, 1,125 kg/year crops, 150 L/day water, 0.9 kg/day tiles per home (total: 375k kg fish, 5.625M kg crops, 273.75M L water, 1.6425k tons tiles/year).
-- **Cost**: $49,700/unit; total CapEx $248.5M. Revenue: $200M/year rentals.
-
-### Sustainable Hospital (50,000 m²)
-- **Design**: 15 floors, cleanrooms for pharma/supplies. Market ~$450–1,020/sq ft ($4,800–11,000/sqm); adjusted $115/sqm.
-- **Kits**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 20,000 tiles, 2,000 windows | 220,000 | 1 |
-| Stud Kit | 5,000 studs | 225,000 | 1 |
-| Farm Kit | Aquaponics | 50,000 | 1 |
-| Cleanroom Kit | ISO 1–8 | 100,000 | 1 |
-| Processing Kit | Packaging | 50,000 | 1 |
-| Energy Kit | 50 MW | 5,000,000 | 1 |
-| Water Kit | AWG | 100,000 | 1 |
-| Smart Airlock Kit | 10 units | 20,000 | 1 |
-
-- **Output**: 1,000 tons/year food, 182.5 tons/year medicines, 365 tons/year supplies, 10 MW surplus.
-- **Cost**: $5.765M CapEx. Revenue: $150M/year (ARPOB ~$900/day, 100 beds).
-
-### K-12 School (30,000 m²)
-- **Design**: Competency-based, labs/farms. Market ~$292–417/sq ft ($3,100–4,500/sqm); adjusted $49/sqm.
-- **Kits**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 15,000 tiles, 1,500 windows | 165,000 | 1 |
-| Stud Kit | 4,000 studs | 180,000 | 1 |
-| Farm Kit | Vertical | 20,000 | 1 |
-| Tech Kit | Printers, robotics | 50,000 | 1 |
-| Sports Kit | Courts | 50,000 | 1 |
-| Energy Kit | 10 MW | 1,000,000 | 1 |
-| Smart Airlock Kit | 5 units | 10,000 | 1 |
-
-- **Output**: 500 tons/year crops; educates 2,000.
-- **Cost**: $1.475M CapEx. Revenue: $20M/year tuition/grants.
-
-### Shopping Mall (100,000 m²)
-- **Design**: Theaters, stores, restaurants. Market $370–580/sq ft ($4,000–6,200/sqm); adjusted $34.5/sqm.
-- **Kits**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 50,000 tiles, 5,000 windows | 550,000 | 1 |
-| Stud Kit | 12,500 studs | 562,500 | 1 |
-| Retail Kit | Displays | 100,000 | 1 |
-| Restaurant Kit | Appliances | 200,000 | 1 |
-| Energy Kit | 20 MW | 2,000,000 | 1 |
-| Smart Airlock Kit | 20 units | 40,000 | 1 |
-
-- **Output**: $500M/year revenue.
-- **Cost**: $3.453M CapEx.
-
-### Low-Income Apartment Complex (50,000 m²)
-- **Design**: 5,000 units, kitchen/clinic. Market ~$200/sq ft ($2,150/sqm); adjusted $82/sqm.
-- **Kits**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 20,000 tiles, 2,000 windows | 220,000 | 1 |
-| Stud Kit | 5,000 studs | 225,000 | 1 |
-| Agriculture Kit | 1,000 mini-units | 2,000,000 | 1 |
-| Kitchen Kit | Soup kitchen | 100,000 | 1 |
-| Healthcare Kit | Clinic | 50,000 | 1 |
-| Energy Kit | 15 MW | 1,500,000 | 1 |
-| Smart Airlock Kit | 10 units | 20,000 | 1 |
-
-- **Output**: 5,000 tons/year food, 10,000 meals/day.
-- **Cost**: $4.115M CapEx. Revenue: $50M/year subsidies/rentals.
-
-### Hotels (2 units, 20,000 m² each)
-- **Design**: 500 rooms/unit. Market $400–762/sq ft ($4,300–8,200/sqm); adjusted $48/sqm.
-- **Kits** (per unit):
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 16,000 tiles, 1,600 windows | 176,000 | 1 |
-| Stud Kit | 4,000 studs | 180,000 | 1 |
-| Hospitality Kit | Furniture | 100,000 | 1 |
-| Energy Kit | 5 MW | 500,000 | 1 |
-| Smart Airlock Kit | 5 units | 10,000 | 1 |
-
-- **Output**: $100M/year/unit.
-- **Cost**: $966,000/unit; total $1.932M.
-
-### College Campus (30,000 m²)
-- **Design**: Labs, training. Market ~$596/sq ft ($6,400/sqm); adjusted $49/sqm.
-- **Kits**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 15,000 tiles, 1,500 windows | 165,000 | 1 |
-| Stud Kit | 4,000 studs | 180,000 | 1 |
-| Education Kit | Labs | 100,000 | 1 |
-| Farm Kit | Vertical | 20,000 | 1 |
-| Energy Kit | 10 MW | 1,000,000 | 1 |
-| Smart Airlock Kit | 5 units | 10,000 | 1 |
-
-- **Output**: 500 tons/year crops; trains 2,000/year.
-- **Cost**: $1.475M CapEx. Revenue: $30M/year tuition.
-
-### Industrial Park (50,000 m²)
-- **Design**: Megapack factory (scaled to 4 GWh/year, $2B revenue at $500/kWh), mining.
-- **Kits**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 20,000 tiles, 2,000 windows | 220,000 | 1 |
-| Stud Kit | 5,000 studs | 225,000 | 1 |
-| Industrial Kit | Battery lines | 5,000,000 | 1 |
-| Mining Kit | Leaching | 2,000,000 | 1 |
-| Energy Kit | 50 MW | 5,000,000 | 1 |
-| Smart Airlock Kit | 10 units | 20,000 | 1 |
-
-- **Output**: $2B/year.
-- **Cost**: $12.465M CapEx.
-
-### Colossus 2-Sized Data Center (20,000 m²)
-- **Design**: 100 MW compute, 100k GPUs (~$3B hardware, scaled from $20B full).
-- **Kits**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 10,000 tiles, 1,000 windows | 110,000 | 1 |
-| Stud Kit | 2,500 studs | 112,500 | 1 |
-| Data Kit | Servers | 5,000,000 | 1 |
-| Energy Kit | 100 MW | 10,000,000 | 1 |
-| Smart Airlock Kit | 5 units | 10,000 | 1 |
-
-- **Output**: $500M/year AI services.
-- **Cost**: $15.233M CapEx.
-
-### Smart Airport (30,000 m²)
-- **Design**: Hyperloop hub. Market ~$300/sq ft ($3,200/sqm); adjusted $85.5/sqm.
-- **Kits**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 15,000 tiles, 1,500 windows | 165,000 | 1 |
-| Stud Kit | 4,000 studs | 180,000 | 1 |
-| Airport Kit | Terminals | 200,000 | 1 |
-| Energy Kit | 20 MW | 2,000,000 | 1 |
-| Smart Airlock Kit | 10 units | 20,000 | 1 |
-
-- **Output**: $200M/year.
-- **Cost**: $2.565M CapEx.
-
-### Additional Farm Tower (300,000 m²)
-- **Design**: Hybrid model from Prompt 2.
-- **Cost**: $22.885M CapEx. Revenue: $120M/year.
-
-### Public Buildings
-- **Churches (5, 5,000 m² each)**: Multi-denominational.
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 2,500 tiles, 250 windows | 27,500 | 1 |
-| Stud Kit | 625 studs | 28,125 | 1 |
-| Energy Kit | 1 MW | 100,000 | 1 |
-| Smart Airlock Kit | 1 unit | 2,000 | 1 |
-
-- **Cost**: $157,625/unit; total $0.788M. Revenue: $5M/year donations.
-
-- **Government Offices (2, 10,000 m² each)**:
-
-| Kit Type | Components | Cost ($) | Quantity |
-|----------|------------|----------|----------|
-| Tile Kit | 5,000 tiles, 500 windows | 55,000 | 1 |
-| Stud Kit | 1,250 studs | 56,250 | 1 |
-| Office Kit | Furniture | 50,000 | 1 |
-| Energy Kit | 2 MW | 200,000 | 1 |
-| Smart Airlock Kit | 2 units | 4,000 | 1 |
-
-- **Cost**: $365,250/unit; total $0.731M. Revenue: $10M/year services.
-
-## System Integration
-- **Waste**: Processed via ceramic kits.
-- **Water/Energy/CO₂**: As overview.
-- **Transport/Internet**: As overview.
-
-## Construction Phases
-- Phase 1 (1–6): Planning ($5M).
-- Phase 2 (7–12): Site ($10M).
-- Phase 3 (13–24): Hub ($115M).
-- Phase 4 (25–36): Spokes ($206M).
-- Phase 5 (37–48): Testing ($10M); dome phased in 3–5.
-- Total: 48 months.
-
-## Financial Model
-CapEx $402.26M (70% below market ~$1.4B); OpEx $55M/year; Revenue $4.18–4.72B/year (diversified: housing $250M, hospital $150M, mall $500M, industrial $2B, data $500M, etc.); ROI 2,000%+; break-even Year 2.
-
-| Year | CapEx ($) | Revenue ($) | Opex ($) | Net Cashflow ($) | Cumulative ($) |
-|------|-----------|-------------|----------|------------------|----------------|
-| 0 | -402,260,000 | 0 | 0 | -402,260,000 | -402,260,000 |
-| 1 | 0 | 4,180,000,000 | 55,000,000 | 4,125,000,000 | 3,722,740,000 |
-| 2 | 0 | 4,389,000,000 | 57,750,000 | 4,331,250,000 | 8,053,990,000 |
-| 3 | 0 | 4,608,450,000 | 60,637,500 | 4,547,812,500 | 12,601,802,500 |
-| 4 | 0 | 4,838,872,500 | 63,669,375 | 4,775,203,125 | 17,377,005,625 |
-| 5 | 0 | 5,080,816,125 | 66,852,844 | 5,013,963,281 | 22,390,968,906 |
-
-- **Break-Even**: Month 1 Year 2. ROI: 1,025% Year 1.
-
-## Disaster Resistance Evaluation
-The domed city leverages geodesic principles for superior resilience.
-
-- **Natural Disasters**:
-  - Earthquakes: Even force distribution; withstands 8.0 Richter.
-  - Hurricanes: Aerodynamic; 250 mph winds.
-  - Floods: Sealed/elevated base.
-  - Wildfires: Ceramic non-combustible.
-  - Other: High strength-to-weight.
-
-- **Man-Made Disasters**:
-  - Bombs: Load absorption.
-  - EMP: >80 dB shielding.
-  - Cyber: NIST compliance.
-
-95%+ survival in major events.
-
-## Feasibility and Viability
-95% feasibility (2025 tech viable; zero materials slash costs 70%). Enhancements: Grants ($280M), partnerships, waste hubs, AI assembly. Bottlenecks reduced via modularity; scale to 100 complexes for US urban revival.
+- **Population**: 20,000 (5,000 single-family homes, 5,000 low-income apartments, hotels, staff)
+- **Location**: Along BNSF railway (Seattle or Miami)
+- **Structure**: Hub (tile factory, skyscraper farm, hospital, school, mall, data center, industrial park, airport) with spokes (housing, farm tower, college, hotels)
+- **Infrastructure**: Smart roads, sidewalks, hyperloops, high-speed internet (1–10 TB/s), Tesla autonomous transport
+- **Energy**: 4,000 MW (2,000 MW solar, 1,500 MW biogas, 500 MW geothermal/micro-hydro), 1,000–1,500 MW surplus
+- **Water**: 200 million liters/year (90–95% recycled)
+- **Waste**: 120,000–240,000 tons/day recycled into ceramics, bio-silica, rare earths
+- **Standards**: ISO 37122, LEED Gold, WELL Silver, Green Star 5-Star, BREEAM Excellent, ASHRAE 90.1/62.1, ICC 500, NFPA 101, UFC/MIL-STD compliance
+- **Security**: Smart airlocks with weapons/explosive scanning
+- **Domed City**: Transparent ceramic dome for protection, energy generation, and light pollution reduction
 
 ---
 
-*This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
+## Key Components and Kits
+
+### 1. Luxurious Single-Family Homes (5,000 units)
+
+| Kit Type         | Components                                  | Cost ($/unit) |
+|------------------|---------------------------------------------|---------------|
+| Tile Kit         | 400 tiles, 100 window tiles                | 5,000         |
+| Stud Kit         | 200 studs                                  | 9,000         |
+| Agriculture Kit  | Bio-digester, AWG, greywater, vertical farming, aquaponics | 15,000 |
+| Recreation Kit   | Pool, hot tub, sauna, kitchen              | 10,000        |
+| Energy Kit       | 2 kW solar PV, solar thermal, geothermal  | 6,000         |
+| HVAC Kit         | 2 kW heat pump                             | 2,000         |
+| Automation Kit   | IoT sensors, Arduino                        | 200           |
+| Odor Control Kit | Filters, scrubbers                          | 500           |
+| Smart Airlock Kit| Security scanning                           | 2,000         |
+
+- **Output**: 75 kg/year fish, 1,125 kg/year crops, 150 L/day water, CO₂ capture 0.2 kg/day
+- **CapEx**: $49,700/unit, total $248.5M
+
+---
+
+### 2. Sustainable Hospital (50,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 20,000 tiles, 2,000 window tiles           | 220,000  |
+| Stud Kit         | 5,000 studs                                | 225,000  |
+| Farm Kit         | Aquaponics, vertical farming               | 50,000   |
+| Cleanroom Kit    | ISO 1–8 medicines/supplies                  | 100,000  |
+| Processing Kit   | Biodegradable packaging                     | 50,000   |
+| Energy Kit       | 50 MW solar, biogas, geothermal            | 5,000,000|
+| Water Kit        | AWGs, greywater                             | 100,000  |
+| Smart Airlock Kit| 10 units                                   | 20,000   |
+
+- **Output**: 1,000 tons/year food, 182,500 kg/year medicines, 365,000 kg/year supplies, 10 MW surplus
+- **CapEx**: $5.645M, OpEx $5M/year
+
+---
+
+### 3. K-12 School (30,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 15,000 tiles, 1,500 window tiles           | 165,000  |
+| Stud Kit         | 4,000 studs                                | 180,000  |
+| Farm Kit         | Vertical farming                            | 20,000   |
+| Tech Kit         | 3D printers, robotics, ceramics lab         | 50,000   |
+| Sports Kit       | Ceramic courts, fields                      | 50,000   |
+| Energy Kit       | 10 MW solar, geothermal                     | 1,000,000|
+| Smart Airlock Kit| 5 units                                    | 10,000   |
+
+- **Output**: 500 tons/year crops, educates 2,000 students
+- **CapEx**: $1.475M, OpEx $3M/year
+
+---
+
+### 4. Shopping Mall (100,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 50,000 tiles, 5,000 window tiles           | 550,000  |
+| Stud Kit         | 12,500 studs                               | 562,500  |
+| Retail Kit       | Ceramic displays, biodegradable packaging   | 100,000  |
+| Restaurant Kit   | Ceramic appliances, sustainable packaging  | 200,000  |
+| Energy Kit       | 20 MW solar, biogas                         | 2,000,000|
+| Smart Airlock Kit| 20 units                                   | 40,000   |
+
+- **Output**: $500M/year revenue
+- **CapEx**: $3.4525M, OpEx $10M/year
+
+---
+
+### 5. Low-Income Apartment Complex (50,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 20,000 tiles, 2,000 window tiles           | 220,000  |
+| Stud Kit         | 5,000 studs                                | 225,000  |
+| Agriculture Kit  | 1,000 mini-aquaponics units                | 2,000,000|
+| Kitchen Kit      | Soup kitchen, restaurant                    | 100,000  |
+| Healthcare Kit   | Clinic with ceramic equipment               | 50,000   |
+| Energy Kit       | 15 MW solar, biogas                         | 1,500,000|
+| Smart Airlock Kit| 10 units                                   | 20,000   |
+
+- **Output**: 5,000 tons/year food, healthcare for 5,000 residents
+- **CapEx**: $4.115M, OpEx $4M/year
+
+---
+
+### 6. Hotels (2 units, 20,000 m² each)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 16,000 tiles, 1,600 window tiles           | 176,000  |
+| Stud Kit         | 4,000 studs                                | 180,000  |
+| Hospitality Kit  | Ceramic furniture, appliances               | 100,000  |
+| Energy Kit       | 5 MW solar, biogas                          | 500,000  |
+| Smart Airlock Kit| 5 units                                    | 10,000   |
+
+- **Output**: $100M/year revenue/unit
+- **CapEx**: $966,000/unit, OpEx $2M/year/unit
+
+---
+
+### 7. College Campus (30,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 15,000 tiles, 1,500 window tiles           | 165,000  |
+| Stud Kit         | 4,000 studs                                | 180,000  |
+| Education Kit    | Labs, kilns, 3D printers                    | 100,000  |
+| Farm Kit         | Vertical farming                            | 20,000   |
+| Energy Kit       | 10 MW solar, geothermal                     | 1,000,000|
+| Smart Airlock Kit| 5 units                                    | 10,000   |
+
+- **Output**: 500 tons/year crops, educates 1,000 students, trains 2,000 residents/year
+- **CapEx**: $1.475M, OpEx $3M/year
+
+---
+
+### 8. Industrial Park (50,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 20,000 tiles, 2,000 window tiles           | 220,000  |
+| Stud Kit         | 5,000 studs                                | 225,000  |
+| Industrial Kit   | Ceramic manufacturing, battery lines       | 5,000,000|
+| Mining Kit       | Rare earths extraction                      | 2,000,000|
+| Energy Kit       | 50 MW solar, biogas                          | 5,000,000|
+| Smart Airlock Kit| 10 units                                   | 20,000   |
+
+- **Output**: $1B/year (Megapacks, batteries, rare earths)
+- **CapEx**: $12.465M, OpEx $10M/year
+
+---
+
+### 9. Colossus 2 Data Center (20,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 10,000 tiles, 1,000 window tiles           | 110,000  |
+| Stud Kit         | 2,500 studs                                | 112,500  |
+| Data Kit         | Ceramic servers, cooling systems           | 5,000,000|
+| Energy Kit       | 100 MW solar, biogas                        | 10,000,000|
+| Smart Airlock Kit| 5 units                                    | 10,000   |
+
+- **Output**: $500M/year compute sales
+- **CapEx**: $15.2325M, OpEx $5M/year
+
+---
+
+### 10. Smart Airport (30,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 15,000 tiles, 1,500 window tiles           | 165,000  |
+| Stud Kit         | 4,000 studs                                | 180,000  |
+| Airport Kit      | Ceramic terminals, shops                    | 200,000  |
+| Energy Kit       | 20 MW solar, biogas                         | 2,000,000|
+| Smart Airlock Kit| 10 units                                   | 20,000   |
+
+- **Output**: $200M/year (shops, restaurants, transport)
+- **CapEx**: $2.565M, OpEx $3M/year
+
+---
+
+### 11. Additional Farm Tower (300,000 m²)
+
+| Kit Type         | Components                                  | Cost ($) |
+|------------------|---------------------------------------------|----------|
+| Tile Kit         | 103,050 tiles, 3,000 window tiles          | 1,330,500|
+| Stud Kit         | 15,000 studs                               | 675,000  |
+| Farm Kit         | RAS tanks, aeroponics, pens                | 400,000  |
+| Processing Kit   | Dairy, bakery, tanning, pyrolysis, extruders| 450,000  |
+| Energy Kit       | Biogas turbines, methanation, solar, VAWTs | 400,000  |
+| Water Kit        | Rainwater tanks, AWG, biofilters           | 160,000  |
+| Smart Airlock Kit| 10 units                                   | 20,000   |
+
+- **Output**: 54,000 tons/year food, 24 tons/day bio-silica, 488 tons/day packaging
+- **CapEx**: $22.885M, OpEx $8–15M/year
+
+---
+
+## Construction Timeline
+
+| Phase | Duration | Key Activities | Cost ($M) |
+|-------|----------|----------------|-----------|
+| 1: Planning/Permits | Months 1–6 | Feasibility, grants, zoning | 5        |
+| 2: Site Prep        | Months 7–12 | Recycling infrastructure, foundations | 10 |
+| 3: Hub Construction | Months 13–24 | Tile factory, farm, hospital, school, mall, data center, industrial park, airport | 110–118 |
+| 4: Spoke Construction | Months 25–36 | Homes, apartments, hotels, college, churches, offices, farm tower | 260 |
+| 5: Testing/Operation | Months 37–48 | Certify systems, scale production | 10 |
+
+---
+
+## Financial Summary
+
+| Component        | CapEx ($M) |
+|-----------------|------------|
+| Homes (5,000)    | 248.5      |
+| Hospital         | 5.645      |
+| School           | 1.475      |
+| Mall             | 3.4525     |
+| Apartments       | 4.115      |
+| Hotels (2)       | 1.932      |
+| College          | 1.475      |
+| Industrial Park  | 12.465     |
+| Data Center      | 15.2325    |
+| Airport          | 2.565      |
+| Farm Tower       | 22.885     |
+| Churches (5)     | 0.788125   |
+| Offices (2)      | 0.7305     |
+| Planning/Site Prep | 15       |
+| **Total CapEx**  | **396–404**|
+
+- **OpEx**: $50–70M/year
+- **Revenue**: $3.26–3.46B/year
+- **ROI**: 800–1,000%, breakeven Year 2.5
+
+---
+
+## License
+
+This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
