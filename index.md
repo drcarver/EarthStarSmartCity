@@ -28,9 +28,9 @@ Explore the detailed prompts for AI to define the Earth-Star Sustainable Smart C
    Expand the cities to nationwide and environmnet cleanup.
 6. [Undersea Cities](prompts/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
-7. [Floating Cites](prompts/07-Floatngcities.md) 
+7. [Floating Cites](prompts/07-FloatngCity.md) 
    Earthstar cities on the ocean
-7. [Tiles and kits catalog](prompts/08-tilesandkits.md) 
+8. [Tiles and kits catalog](prompts/08-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
 9. [Feasibility and Viability](prompts/09-feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
