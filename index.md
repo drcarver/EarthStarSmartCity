@@ -52,7 +52,7 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
    Expand the cities to nationwide and environmnet cleanup.
 6. [Undersea Cities](grok/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
-7. [Floating Cites](grok/07-FloatngCity.md) 
+7. [Floating Cites](grok/07-floatingCity.md) 
    Earthstar cities on the ocean
 8. [Tiles and kits catalog](grok/08-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
