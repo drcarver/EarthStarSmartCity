@@ -52,11 +52,13 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
    Expand the cities to nationwide and environmnet cleanup.
 6. [Undersea Cities](grok/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
-7. [Tiles and kits catalog](grok/07-tilesandkits.md) 
+7. [Floating Cites](grok/07-FloatngCity.md) 
+   Earthstar cities on the ocean
+8. [Tiles and kits catalog](grok/08-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
-8. [Feasibility and Viability](grok/08-feasability.md) 
+9. [Feasibility and Viability](grok/09-feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
-9. [Reslence](grok/09-resilience.md) 
+10. [Reslence](grok/10-resilience.md) 
     City resilence to man made and natural disaters.
 
 ### ChatGpt 4 Responsess
@@ -74,11 +76,13 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
    Expand the cities to nationwide and environmnet cleanup.
 6. [Undersea Cities](ChatpGpt/06-undersea.md) 
    Expand the cities uder the sea to provide for research and environmnet cleanup.
-7. [Tiles and kits catalog](ChatpGpt/07-tilesandkits.md) 
+7. [Floating Cites](ChatpGpt/07-FloatngCity.md) 
+   Earthstar cities on the ocean
+8. [Tiles and kits catalog](ChatpGpt/08-tilesandkits.md) 
    Catalog of tiles and kits sed n the system.
-8. [Feasibility and Viability](ChatpGpt/08-feasability.md) 
+9. [Feasibility and Viability](ChatpGpt/09-feasability.md) 
    Technical, economic, and regulatory analysis, with 90% feasibility.
-9. [Reslence](ChatpGpt/09-resilience.md) 
+10. [Reslence](ChatpGpt/10-resilience.md) 
     City resilence to man made and natural disaters.
 
 ## Get Involved
