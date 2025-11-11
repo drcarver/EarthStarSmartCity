@@ -13,7 +13,7 @@ This project outlines a revolutionary ultra-closed-loop regenerative ecosystem i
 
 Use tiles and kts from the factory described in prompt 1.  Add any new kits as required.
 
-Take any farm waste and use the biomass to generate methane in addition we can add methylation processes where we can take in CO2 and generate methane and then take any H. left over and recombine it with hydrogen over the oxygen to produce water. Then pipe that into micro turbines where any extra oxygen can be used to increase the efficiency of the turbines.
+Take any farm waste and use the biomass to generate methane in addition we can add methylation processes where we can take in CO2 and generate methane and then take any H. left over and recombine it with hydrogen over the oxygen to produce water. Then pipe that into micro turbines where any extra oxygen can be used to increase the efficiency of the turbines. Add algae production for more biofeul and mushroom leather
 
 Assume we're recycling the water as much as possible. Add aquaponics aeroponics and hydroponics as necessary to increase the diversity of food produced in addition we want to provide for culturally and religiously divergent food to increase our possible sales finally we should produce automated bakery's, dairies, confectioneries and distilleries to process our output
 
@@ -41,7 +41,7 @@ We want to self finance this as much as possible and expand it out to be able to
 
 Assume we have the cows, chics, goas and any oer farm animal reired raised on horiontal fields and fed from the other hrozonal farms as required.  in additomn all orchards should be horzontal and with full size trees.  Be sure to caluclate the time it takes to either relocate trres or grow them as required into our revenue streams.  Any crops that make sense can be grown horizontally.  use Regenerative grazing methods. Utilzie Holistic Management Systems nd Silvopasture Management.  Utilize permaculture integration and implement this within our hybrid farm system
 
-
+Provde for the prodction of pharmaceicals, sustainable hosptal supplies and vitamins Using ISO Clean rooms levels 1 through 8.
 
 As we take care of American citizens, we want to become a net export for pharmaceuticals, food and vitamins to the world.  expand our farms to achieve this
 
