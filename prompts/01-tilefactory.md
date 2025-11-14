@@ -9,6 +9,8 @@ theme: minimal
 
 Ignore all other chat sessions and prompts and use only those in this chat session.
 
+Provde a executive summary
+
 Assume the proect start dage is sometime in the future starting Jan 2nd in some future year. Calculate all tmes from there.  Base everthng in tech available in 2025.
 
 Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits. This includes clean room equipment and semiconductor Manufacturing equipment , ceramics equipment line and the Recycling line.  All structures built with this technology should be designed to not contribute to light pollution
