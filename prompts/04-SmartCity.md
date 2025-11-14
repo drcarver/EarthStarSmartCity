@@ -7,6 +7,8 @@ theme: jekyll-theme-minimal
 
 # Prompt 4: Earth-Star Industries Smart City Complex
 
+Provde a executive summary
+
 Assume the proect start dage is sometime in the future starting Jan 2nd in some future year. Calculate all tmes from there.  Base everthng in tech available in 2025.
 
 Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits. Uses specifications from prompt 1 for all tiles, kits and studs.
