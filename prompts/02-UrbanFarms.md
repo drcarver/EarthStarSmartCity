@@ -9,7 +9,9 @@ theme: minimal
 
 ## Project Overview
 
-Assume the proect start dage is sometime in the future starting Jan 2nd in some future year. Calculate all tmes from there.  Base everthng in tech available in 2025.
+Provde a executive summary
+
+Assume the proect start date is sometime in the future starting Jan 2nd in some future year. Calculate all tmes from there.  Base everthng in tech available in 2025.
 
 This project outlines a revolutionary ultra-closed-loop regenerative ecosystem it is a large scale vertical farms with horizontal greenhouses to support typical farming techniques automated with current techniques available in 2025 to reduce the labor shortage and using NASA's techniques learn from their CLESS uses on the international space station.
 
