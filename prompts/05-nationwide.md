@@ -40,6 +40,7 @@ As the cities scale out revenue streams may dry up, for emple grid sales.  In ad
 
 ### Growth Model
 - **Model**: Logistic growth: \( P(t) = \frac{K}{1 + \frac{K - P_0}{P_0} e^{-rt}} \), where P₀=20,000 (pilot district), r=1.0–1.6/year (driven by jobs, food security, hyperloop), K=350M (national capacity).
+- **Self Financed**: Assume sel financed as much as posssble with grants and minimal startup capitol. 
 - **Infrastructure Needs** (2040): 17,500 districts (8.75T tiles, 1.3T studs), 4.1M miles smart roads, 100,000 miles hyperloop, 300,000 manufacturing buildings, 1,000 sustainable mines, 700 military bases, 3,000 airports.
 
 ## Natural Habitat Restoration
@@ -58,12 +59,6 @@ Remediate U.S. coastal oceans (3.4M square miles, EEZ) focusing on plastics, hea
 ### Process
 - **Scope**: 1M tons plastics, 100,000 tons metals, 10M gallons oil annually (NOAA 2025 estimates).
 - **Method**: Deploy 1,000 ceramic-based ocean drones (100 km²/day coverage, AI navigation), filtration buoys (ceramic membranes, 1,000 L/hour), and bioremediation (microbes, 90% oil degradation). Materials recycled into tiles/bio-silica.
-- **Kits**:
-  | Kit Type | Components | Cost ($/kit) | Quantity |
-  |----------|------------|--------------|----------|
-  | Ocean Remediation Kit | Drones, buoys, bioremediation units | 5,000,000 | 1,000 |
-  | Tile Kit | 100 tiles | 1,000 | 10,000 |
-  | Energy Kit | Solar/biogas (10 MW) | 40,000 | 1,000 |
 - **Costs/Revenues**: CapEx: $50–100B (1,000 kits + infrastructure). Revenue: $20–40B/year (recycled plastics: $1,000/ton; carbon credits). OpEx: $5–10B/year.
 
 ## Military Base Replacement with Stealth Tiles
