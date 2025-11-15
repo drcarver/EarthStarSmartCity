@@ -97,6 +97,15 @@ Recycle and redevelop ~3,000 U.S. airports (19,000 total, FAA 2025; focus on 3,0
 - **Railroad Removal**: 140,000 miles. CapEx: $0.28–0.7T. Revenue: $50–100B (recycling).
 - **Landfill Mining**: 5,000+ sites. CapEx: $0.25–0.5T. Revenue: $200–400B/year.
 
+## Future and current tech
+ Give a timeframes for posiible integration into our cities and how they might work  
+- **Rail Guns**: For military bases and possibly other cities
+- **Lasers**: Military grade lasers
+- **Star trek shields**::
+- **Star trek med bays**:
+- **Star trek communicators**:
+- **Holodwck**:
+
 Assume we want to begin the expansion described above using brownfield sites in hollowed out districts and cities where we can pick up the abandoned railroads and stuff for fairly cheap price. How many would that allow us to be the expansion begin the expansion of assuming we're going to do deep mining to get rid of all the contaminants in the brownfield areas.  Leveraging this as a start and then expanding to closed landfills where we want to remediate them and replace them with our infrastructure to continue out the expansion at a cheaper cost how many sites is that and how long would that take.  Use closed landfills that are adjacent to the brownfield sites that would allow us to pick them up and then expand into our brownfield sites fairly quickly to fuel a cheaper expansion.  Next process brownfields and clodsed landfills that are not in hollowed areas.  Build districts this way before expanding into greenfield areas that may include existing city structures and in those situations so that it's makes it easier to do the expansion. Take over regional recycling centers and sewage processing centers and replacing them with our technology also in the open landfills
 
 Assume we're going to replace all farms with our vertical farms and any extra space we will convert to it's natural habitat and just would help us with the expansion into the rural areas and provide a mechanism for converting the farming to sustainable farming we should be able to handle any exterior ranges like cattle and stuff like that in a more sustainable fashion.  Assume we will always choose to replace any existing infrastructure rather than build over it unless it's a historical area in addition or national park.
