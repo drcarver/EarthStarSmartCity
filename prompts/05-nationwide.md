@@ -9,9 +9,9 @@ theme: jekyll-theme-minimal
 
 Recompute all costs, revenues and volumes.Make all kits equipment in the facility from ceramcs, tiles and kits. Uses specifications from prompt 1 for all tiles, kits and studs.
 
-Assume the proect start date is sometime in the future starting Jan 2nd in some future year. Calculate all tmes from there.  Base everthng in tech available in 2025.
+Provde a executive summary.  Insure te schedule is realisic.  extend it if needed.
 
-Provde a executive summary
+Assume the proect start date is sometime in the future starting Jan 2nd in some future year. Calculate all times from there.  Base everthng in tech available in 2025.y
 
 ## Introduction
 
