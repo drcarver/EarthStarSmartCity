@@ -95,6 +95,17 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 - **Mining**: Planned for future waste stream shortages, using ceramic-based electrodialysis/acid leaching (Mining Kit).
 - **Disaster resistance**: Evaluate resistance to man made and natural disasters of such a domed city
 
+## Earth star communicatior
+  Combines a cell phone with biomeric sensors in a star trek badge inerface that includes payment services, biometrics health sensors, emergency calling.  Issued wih every resident wireless charging.
+ 
+## Future and current tech
+ Give a timeframes for posiible integration into our cities and how they might work  
+- **Rail Guns**: For military bases and possibly other cities
+- **Lasers**: Military grade lasers
+- **Star trek shields**::
+- **Star trek med bays**:
+- **Holodeck**:
+
 ## License
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
