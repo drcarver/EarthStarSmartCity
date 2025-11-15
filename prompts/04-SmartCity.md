@@ -1,6 +1,6 @@
 ---
 title: Earth-Star Industries Smart City Complex
-description: A modular hub-and-spoke urban ecosystem for 20,000 residents, integrating luxurious single-family homes, sustainable urban agriculture systems, a hospital, K-12 school, shopping mall, low-income housing, hotels, college campus, vocational training, industrial park, Tesla Megapack factory and a Colossus 2-sized data center built with ceramic tiles and kits from the Earth-Star Industries Facility.
+description: A modular hub-and-spoke urban ecosystem for 50,000 residents, integrating luxurious single-family homes, sustainable urban agriculture systems, a hospital, K-12 school, shopping mall, low-income housing, hotels, college campus, vocational training, industrial park, Tesla Megapack factory and a Colossus 2-sized data center built with ceramic tiles and kits from the Earth-Star Industries Facility.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: jekyll-theme-minimal
 ---
@@ -13,15 +13,15 @@ Assume the proect start dage is sometime in the future starting Jan 2nd in some 
 
 Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits. Uses specifications from prompt 1 for all tiles, kits and studs.
 
-The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ecosystem (MHUE) designed to support 20,000 residents in a new district along a BNSF railway line (e.g., near the Port of Brownsville, Tx) to leverage rail connectivity for nationwide expansion while preventing urban hollowing. Constructed entirely using Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries tile factory, it integrates luxurious single-family homes, a sustainable hospital, K-12 school, shopping mall, low-income apartments, hotels, college campus, vocational training, industrial park, Tesla Megapack factory and a Colossus 2-sized data center. The complex features smart roads, sidewalks, and hyperloops, high-speed internet (1 TB/s, scalable to 10 TB/s), and Tesla autonomous transport. It adheres to smart city standards (ISO 37122), sustainable building codes (LEED Gold, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1, 62.1, ICC 500, NFPA 101), and military standards (UFC 4-010-01, 3-340-02, 3-410-01, 3-401-01, MIL-STD-810H, 461G, 188-125-1, 1474E, NIST 800-53). Smart airlocks ensure security, and the complex operates off-grid, financed by tile factory revenues and grants, recycling existing infrastructure. All equipment (cleanroom, ceramics production, recycling lines) is ceramic-based, using modular kits. Sustainable mining is planned for future waste stream shortages. Construction uses human overseers and robotic automation usings DARPA Squad X AI, Blockade snap-together systems.  All buildings should be designed to reduce light pollution to allow for urban stargazing.
+The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ecosystem (MHUE) designed to support 50,000 residents in a new district along a BNSF railway line (e.g., near the Port of Brownsville, Tx) to leverage rail connectivity for nationwide expansion while preventing urban hollowing. Constructed entirely using Enhanced Ceramic Tiles and Smart Studs from the Earth-Star Industries tile factory, it integrates luxurious single-family homes, a sustainable hospital, K-12 school, shopping mall, low-income apartments, hotels, college campus, vocational training, industrial park, Tesla Megapack factory and a Colossus 2-sized data center. The complex features smart roads, sidewalks, and hyperloops, high-speed internet (1 TB/s, scalable to 10 TB/s), and Tesla autonomous transport. It adheres to smart city standards (ISO 37122), sustainable building codes (LEED Gold, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1, 62.1, ICC 500, NFPA 101), and military standards (UFC 4-010-01, 3-340-02, 3-410-01, 3-401-01, MIL-STD-810H, 461G, 188-125-1, 1474E, NIST 800-53). Smart airlocks ensure security, and the complex operates off-grid, financed by tile factory revenues and grants, recycling existing infrastructure. All equipment (cleanroom, ceramics production, recycling lines) is ceramic-based, using modular kits. Sustainable mining is planned for future waste stream shortages. Construction uses human overseers and robotic automation usings DARPA Squad X AI, Blockade snap-together systems.  All buildings should be designed to reduce light pollution to allow for urban stargazing.
 
 ## Complex Overview
-- **Population**: 20,000 (5,000 single-family homes, 5,000 low-income apartments, hotels, staff) scaling to 50,000 in a phased approach.
+- **Population**: 50,000.
 - **Location**: Along BNSF railway (e.g., Brownsville, Tx) with rail access for expansion.
 - **Structure**: Hub (tile factory, skyscraper farm, hospital, school, mall, data center, industrial park) with spokes (housing, additional farm tower, college, hotels).
 - **Infrastructure**: Smart roads/sidewalks (ceramic, fiber-optic, IoT), hyperloops (10–20 miles/spoke), automated irrigation, 50-acre green spaces.
 - **Transport**: Tesla robotaxis, autonomous vehicles, hyperloops; use existing BNSF lines for tower relocation pilots.
-- **Internet**: 1 TB/s, scalable to 10 TB/s, via smart roads.
+- **Internet**: 100 GGbs scalable to 10 TB/s, via smart roads.
 - **Standards**: UN SDGs, ISO 14644-1, 52120-1, 27001, 37122, NATO STANAG 4370, 7159, 2582.
 - **City Dome**" The entire city is covered with a dome made of stealth transparent studs and tiles for further protection and energy generation.  This can be built in phases as the tiles become available. Use hyperloops for transport in and out
 
@@ -48,7 +48,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 - **Design**: 15 floors, 5,000 units (500 ft² each), soup kitchen/restaurant (free meals, healthcare), biodegradable packaging.
 - **Output**: food, 10,000 free meals/day, healthcare for 5,000 residents.
 
-### Hotels (2 units, 20,000 m² each)
+### Hotels (2 units, 50,000 m² each)
 - **Design**: 15 floors, 500 rooms/unit, restaurants, shops.
 - **Output**: (rooms, dining, shops.
 
@@ -60,7 +60,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 - **Design**: 15 floors, startup incubators, virtual companies, Tesla Megapack factory, battery cell line.
 - **Output**: Megapacks, batteries.
 
-### Colossus 2-Sized Data Center (1 unit, 20,000 m²)
+### Colossus 2-Sized Data Center (1 unit, 50,000 m²)
 - **Design**: 15 floors, 100 MW, optimizes city operations, sells compute resources.
 - **Output**: compute sales.
 
