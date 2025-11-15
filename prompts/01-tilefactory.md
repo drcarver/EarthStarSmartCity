@@ -50,6 +50,7 @@ The Earth-Star Industries Facility is self-sufficient high-rise building embodyi
   - Clear tiles (windows): With PV, AWG, sensors, blocks UV, Infrared.
   - Stealth tiles: Radar-absorbing for military.
   - Combined HVAC/Heat pump
+  - Starmesh tile for connecting to the starlink network.
   - Foundation tile, made to be the foundation of structures including providing power, water and methane to any equipment on the floor.  It can have large batteries, water and methane storage. Water bladders are linked to the overall water tank for the structure.  Contains the battery management system and mechanisms for the smart grid.  The structure becomes essentially a large tesla megapack.
 - **Manufacturing**: In-house graphene/CNT via CVD; HIP; microchannels for fluid flow.
 - **Maintenance**: Snap-together for replacement recycle failing component
