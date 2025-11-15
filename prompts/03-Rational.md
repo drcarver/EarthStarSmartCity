@@ -1,5 +1,9 @@
 Prompt 3 Rationale
 
+Provde a executive summary. Insure te schedule is realisic. extend it if needed.
+
+Assume the proect start date is sometime in the future starting Jan 2nd in some future year. Calculate all times from there. Base everthng in tech available in 2025.
+
 Given the typical reasons vertical farms fail and regular farms for that matter specify how this system addresses those problems and provides for solutions given an aggressive feasibility analysis for the project. 
 what aspects of this system that we're proposing are unique in the sense that nobody else is trying them and why do you suppose that is? Given all the advancements we're proposing here and changes to the current 
 agricultural system it still seems to have a very high viability without much mitigation then would include creating tiles from waste is that about accurate.
