@@ -43,7 +43,6 @@ As the cities scale out revenue streams may dry up, for emple grid sales.  In ad
 ### Growth Model
 - **Model**: Logistic growth: \( P(t) = \frac{K}{1 + \frac{K - P_0}{P_0} e^{-rt}} \), where P₀=50,000 (pilot district), r=1.0–1.6/year (driven by jobs, food security, hyperloop), K=350M (national capacity).
 - **Self Financed**: Assume sel financed as much as posssble with grants and minimal startup capitol. 
-- **Infrastructure Needs** (2040): 17,500 districts (8.75T tiles, 1.3T studs), 4.1M miles smart roads, 100,000 miles hyperloop, 300,000 manufacturing buildings, 1,000 sustainable mines, 700 military bases, 3,000 airports.
 
 ## Natural Habitat Restoration
 Restore unused areas (~1.5B acres: 50% of U.S. land, e.g., abandoned rural, industrial sites) to natural habitats (forests, wetlands, prairies) post-recycling. Feasibility: High (70% restorable per EPA/USGS).
@@ -51,9 +50,6 @@ Restore unused areas (~1.5B acres: 50% of U.S. land, e.g., abandoned rural, indu
 ### Process
 - **Scope**: 1.5B acres (500M urban recycled, 1B rural/abandoned). Prioritize Superfund sites, brownfields, decommissioned industrial zones.
 - **Method**: Phytoremediation (plants for metal uptake, $0.2–0.5M/site), electrokinetic remediation (ion removal, $0.5–1M/site), rewilding (native species, 90% biodiversity recovery). Materials recycled into tile feedstock (80% yield).
-- **Cost**: $0.1–0.5M/acre. Total CapEx: $150–750B (phased). OpEx: $5–10B/year.
-- **Revenue**: $50–100B/year (carbon credits: $50–100/ton CO₂, 1B tons/year sequestered).
-- **Timeline**: 50M acres by 2030, 500M by 2035, 1.5B by 2040.
 
 ## Ocean Remediation
 Remediate U.S. coastal oceans (3.4M square miles, EEZ) focusing on plastics, heavy metals, and oil spills. Feasibility: Moderate (80% plastic recovery viable per NOAA).
@@ -61,7 +57,6 @@ Remediate U.S. coastal oceans (3.4M square miles, EEZ) focusing on plastics, hea
 ### Process
 - **Scope**: 1M tons plastics, 100,000 tons metals, 10M gallons oil annually (NOAA 2025 estimates).
 - **Method**: Deploy 1,000 ceramic-based ocean drones (100 km²/day coverage, AI navigation), filtration buoys (ceramic membranes, 1,000 L/hour), and bioremediation (microbes, 90% oil degradation). Materials recycled into tiles/bio-silica.
-- **Costs/Revenues**: CapEx: $50–100B (1,000 kits + infrastructure). Revenue: $20–40B/year (recycled plastics: $1,000/ton; carbon credits). OpEx: $5–10B/year.
 
 ## Military Base Replacement with Stealth Tiles
 Replace ~700 U.S. military bases (~27M acres, DoD 2025) and associated housing (~500,000 units) with modular facilities using stealth-enabled Enhanced Ceramic Tiles (radar-absorbing metamaterials, 99% signal reduction, MIL-STD-461G). Recycle existing infrastructure.
@@ -83,7 +78,6 @@ Recycle and redevelop ~3,000 U.S. airports (19,000 total, FAA 2025; focus on 3,0
 - **Scope**: 3,000 airports (avg. 1,000 acres, 3M acres total). Recycle runways/terminals (80% feedstock for tiles).
 - **Redevelopment**: 50% (1,500) as hyperloop hubs (10,000 m², 500,000 tiles, 75,000 studs); 50% as green spaces (phytoremediation).
 - **Kits**: Hyperloop Port ($10M, 5–10/hub), Tile ($1,000, 5,000), Stud ($2,250, 750), Energy ($40,000, 10), Smart Airlock ($2,000, 10).
-- **Costs/Revenues**: CapEx: $0.3–0.6T (recycling: $0.1–0.2T; redevelopment: $0.2–0.4T). Revenue: $50–100B/year (hyperloop fares, land value). OpEx: $10–20B/year.
 
 ## Undersea Cities
 - **Scope**: Under sea cities could also be used to help restore overfished by providing fingerlings for release. We could also use these to restore habitats along all the shorelines of the United States by growing coral and stuff that's required for that rehabilitation or remediation anyway. In addition to providing housing for residents these undersea domes can become big tourist hubs and centers for marine biology and studies of the ocean in general. If the domes can be made fairly transparent then they become almost reverse aquariums for the people on the inside are looking at the sea life on the outside. The undersea domes were already performing as tourist attractions but this allows us to have transparent domes placed in very interesting ecological areas around the US to be able to see different types of marine life and ecosystems in those areas
