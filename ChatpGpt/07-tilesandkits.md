@@ -1,88 +1,103 @@
 ---
-title: Earth-Star Industries Tiles and Kits Inventory
+title: Earth-Star Industries Tiles & Kits Inventory
+description: Comprehensive list of tiles and kits used in Earth-Star Industries projects, including manufacturing, inputs, composition, costs, and revenues.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: jekyll-theme-minimal
 ---
 
-# Earth-Star Industries Tiles and Kits Inventory
+# Earth-Star Industries Tiles & Kits Inventory
 
-This document provides a **comprehensive inventory of all tiles and kits** used by Earth-Star Industries for constructing smart cities, floating cities, undersea domes, and other modular infrastructure. All items are manufactured from **ceramic-based materials, recycled inputs, and modular components**, fully compatible with smart city standards, sustainable building codes, and integrated security systems including smart airlocks.
+This document provides a **comprehensive list of all tiles and kits** used for the Earth-Star Industries projects, including materials, manufacturing processes, costs, revenue potential, and operational notes.
 
----
-
-## 1. Tile Inventory
-
-| Tile Type | Dimensions | Composition | Input Sources | Cost ($/tile) | Revenue ($/tile) | Notes |
-|-----------|------------|------------|---------------|---------------|-----------------|------|
-| Standard Ceramic Tile | 5 m² | 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ | Landfill-mined ceramics, silica, aluminum, carbon | 10 | 50 | Base construction tile; high compressive strength (2,800 MPa); 95% recyclable |
-| Transparent Ceramic Tile | 5 m² | SiC/Al₂O₃ mix with optical-grade polymer | Silica sand, polymer additives | 25 | 150 | For domes, aquariums, and ocean/undersea cities |
-| Stealth Ceramic Tile | 5 m² | Standard tile + radar-absorbing graphene metamaterials | Graphene, CNTs, SiC | 15 | 200 | Military/airspace stealth; 0.1–10 GHz absorption |
-| Energy PV Tile | 5 m² | Standard tile + embedded PV cells, LFP storage | Silicon, LiFePO₄, SiC | 90 | 250 | Solar energy production; IoT integrated |
-| AWG / Water Generation Tile | 5 m² | Standard tile + atmospheric water capture | Ceramic, hygroscopic metals | 45 | 120 | 0.5 L/day/m² water generation |
-
-**Manufacturing Process:**
-- **Step 1**: Raw material collection from **landfill mining, recycling centers, and sustainable mines**.
-- **Step 2**: Ceramic powder synthesis, blending with additives (graphene, SiC, Al₂O₃, polymers).
-- **Step 3**: Tile forming via automated **3D molding or press extrusion**.
-- **Step 4**: Sintering/firing in automated kilns.
-- **Step 5**: Quality inspection with **AI vision systems**, embedded IoT sensors, and optional PV/stealth modules.
+All tiles and kits are manufactured at the **Earth-Star Tile Factory**. Each building and system is constructed exclusively using **tiles, ceramics, and kits**, ensuring full compliance with smart city standards, sustainable building codes, and integrated security systems including **smart airlocks**.
 
 ---
 
-## 2. Stud Inventory
+## 1. Tiles
 
-| Stud Type | Dimensions | Composition | Input Sources | Cost ($/stud) | Revenue ($/stud) | Notes |
-|-----------|------------|------------|---------------|---------------|-----------------|------|
-| Standard Smart Stud | 1 m | Reinforced ceramic + IoT wiring | Tile feedstock, metals | 45 | 120 | Structural component; embedded sensors for building automation |
-| Stealth Stud | 1 m | Reinforced ceramic + radar absorbing | Graphene, SiC | 65 | 200 | Used in military or stealth zones |
-| Transparent Stud | 1 m | Optical-grade ceramic | Silica, polymer | 55 | 150 | For domes and ocean/undersea cities |
-
-**Manufacturing Process:**
-- Precision extrusion of ceramics
-- Automated sintering
-- Embedded sensor wiring during molding
-- Quality assurance via AI monitoring
+| Tile Name | Dimensions | Material Composition | Manufacturing Process | Input Sources | Cost ($/tile) | Revenue Potential ($/tile) | Notes |
+|-----------|-----------|-------------------|---------------------|---------------|---------------|---------------------------|-------|
+| Enhanced Ceramic Tile | 5 m² | 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ | Pressed & sintered in kilns, CNC surface finishing | Recycled landfills, raw minerals (SiC, Al₂O₃, ZrO₂, graphene) | 10 | 20–25 | Standard building tile, high strength, 95%+ recyclable |
+| Stealth Ceramic Tile | 5 m² | 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂ + radar-absorbing metamaterials | Same as Enhanced Tile + embedded metamaterial layers | Same as above, graphene metamaterials | 15 | 30–35 | Used for stealth & military applications |
+| Transparent Ceramic Tile | 5 m² | 55% Al₂O₃, 20% SiC, 20% silica glass, 5% CNTs | Vacuum sintering with optical polishing | Recycled silica, Al₂O₃, CNTs | 20 | 35–40 | For domes, skylights, and undersea/floatable cities |
+| Solar Ceramic Tile | 5 m² | 50% SiC, 25% Al₂O₃, 20% photovoltaic layer, 5% CNTs | Layered sintering with PV coating | Recycled SiC, Al₂O₃, PV materials | 25 | 50 | Agrivoltaic integration for farms & city rooftops |
+| Bio-Silica Tile | 5 m² | 60% recycled biomass silica, 25% Al₂O₃, 10% SiC, 5% ZrO₂ | Pressed from pyrolyzed biomass + sintering | Farm waste, aquaponics residues | 8 | 18 | Sustainable alternative, converts waste into construction feedstock |
 
 ---
 
-## 3. Modular Kits Inventory
+## 2. Studs
 
-| Kit Type | Components | Cost ($/kit) | Revenue ($/kit) | Function / Notes |
-|----------|------------|---------------|-----------------|-----------------|
-| Residential Kit | Housing modules, vertical farms, HVAC, water recycling | 5,000,000 | 15,000,000 | Complete self-contained residential unit |
-| Commercial/Hotel Kit | Hotels, labs, aquariums, offices | 2,500,000 | 8,000,000 | Tourism and commercial use |
-| Aquaculture Kit | Fish nurseries, coral, seaweed cultivation, water filtration | 1,000,000 | 3,500,000 | Ocean regeneration and food production |
-| Energy Kit | Solar PV tiles, biogas turbines, wave/tidal generators | 5,000,000 | 15,000,000 | Power generation for districts |
-| Propulsion Kit | Engines, thrusters, control modules | 20,000,000 | 50,000,000 | Floating city mobility and relocation |
-| Smart Airlock Kit | 5–10 units per building | 20,000 | 50,000 | AI scanning, weapons/explosives detection |
-| Dome Kit | 500,000 tiles, 250,000 studs, assembly & engineering | 66,250,000 | 180,000,000 | Covers city domes; energy integrated; stealth optional |
-| Vertical Farm Kit | Hydroponics, aquaponics, robotics, LED grow systems | 2,000,000 | 6,500,000 | Food production for districts and floating cities |
-| Ocean Remediation Kit | Drones, buoys, bioreactors | 5,000,000 | 15,000,000 | Plastics, oil, and heavy metals removal |
-| Industrial Kit | Manufacturing lines, robotics, storage | 5,000,000–20,000,000 | 15,000,000–60,000,000 | Customizable for automotive, electronics, textile, food processing |
-
-**Manufacturing Process:**
-- Kits assembled **at tile factory or modular assembly hubs**.
-- Components use **recycled feedstock**, standard tiles/studs, and specialized modules (PV, aquaculture, robotics).
-- Automated assembly lines with **Skydio drones, Spot robots, and BlockADE AI** for precision.
-- Kits are **pre-certified for smart city standards** and sustainability codes.
+| Stud Name | Dimensions | Material | Manufacturing Process | Input Sources | Cost ($/stud) | Revenue Potential ($/stud) | Notes |
+|-----------|-----------|---------|---------------------|---------------|---------------|---------------------------|-------|
+| Smart Stud | 1 m | Ceramic composite, reinforced | CNC machining + interlocking socket molding | Recycled ceramic, Al₂O₃, SiC | 45 | 90 | Core building support, IoT integrated |
+| Transparent Stud | 1 m | Ceramic-glass composite | Vacuum sintering + optical finishing | Silica, Al₂O₃ | 55 | 100 | Supports transparent structures and domes |
 
 ---
 
-## 4. Cost and Revenue Optimization Strategies
+## 3. Modular Kits
 
-- **Reuse & Modularization**: Existing tiles, studs, and kits can be reconfigured for new districts, reducing CapEx by 30–50%.
-- **Landfill Mining**: Reduces feedstock cost to near $0 for raw ceramics.
-- **Automation**: 80–95% construction automation lowers labor costs.
-- **Phased Deployment**: Floating, undersea, and land-based cities deployed in clusters to optimize logistics.
-- **Energy & Water Integration**: Tiles generating energy and AWG reduce operational costs and create new revenue streams (sale of surplus energy, water, and carbon credits).
-- **Smart Airlocks & Security**: Compliance with ISO 37122, NIST 800-53 ensures safety and lowers insurance cost.
+| Kit Name | Purpose | Components (Tiles/Studs/Others) | Manufacturing | Cost ($/kit) | Revenue Potential ($/kit) | Notes |
+|----------|--------|--------------------------------|---------------|--------------|--------------------------|------|
+| Hyperloop Port Kit | Container handling & transport hub | 5,000 tiles, 750 studs, 10 energy modules, 10 smart airlocks | Factory assembly + AI QA | 10,000,000 | 12,500,000 | Integrates AWG, renewable energy, hyperloop docking |
+| Bio-Silica Generator Kit | Waste-to-tile feedstock | 500 tiles, 100 studs, 20 process modules | Factory assembly | 1,000,000 | 1,500,000 | Supports circular construction system |
+| Automated Cleanroom Kit | Pharma, vitamins, ISO 1–8 | 2,000 tiles, 300 studs, HVAC + sterilization units | Factory assembly | 2,000,000 | 3,000,000 | Modular, deployable, fully ISO-certified |
+| Vertical Farm Expansion Kit | Skyscraper/horizontal farm | 1,500 tiles, 250 studs, hydro/aeroponics modules | Factory assembly | 1,500,000 | 2,200,000 | Includes aquaponics, vertical gardens, irrigation |
+| Disaster Resilience Kit | Emergency storage & deployable modules | 300 tiles, 50 studs, 10 energy storage units | Factory assembly | 500,000 | 800,000 | Portable for crises and disaster recovery |
+| Smart Urban Housing Kit | Modular housing unit | 500 tiles, 100 studs, 1 airlock, HVAC | Factory assembly | 400,000 | 600,000 | Includes embedded IoT, security, and utilities |
+| Solar Tile Kit | Rooftop & agrivoltaics | 200 tiles, wiring, connectors | Factory assembly | 5,000 | 10,000 | Converts rooftops to energy-generating surfaces |
+| Transparent Dome Kit | Dome construction | 1,000 tiles, 200 studs | Factory assembly | 20,000 | 35,000 | Used for city domes, undersea/floatable structures |
 
 ---
 
-## 5. Summary
+## 4. Manufacturing & Input Sources
 
-Earth-Star Industries’ **tiles and kits system** provides a **highly scalable, sustainable, and profitable approach** for constructing smart cities, floating ocean cities, and undersea habitats. Leveraging **recycled materials, modular kits, and automation**, costs are minimized while revenues are maximized through energy, food, tourism, and environmental services.
+1. **Recycled Feedstocks**
+   - Landfills, brownfields, abandoned infrastructure
+   - Organic farm waste (bio-silica)
+   - E-waste, scrap metals for reinforcement
 
-*All tiles and kits are fully compatible with smart city standards, sustainable building codes, and integrated security systems.*
+2. **Raw Minerals**
+   - SiC (silicon carbide)
+   - Al₂O₃ (alumina)
+   - ZrO₂ (zirconia)
+   - Graphene / CNTs
+   - Silica for transparent and solar tiles
 
-*This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
+3. **Manufacturing Process**
+   - Crushing, refining, and mixing raw materials
+   - Pressing and sintering in high-temperature kilns
+   - CNC machining for precision dimensions
+   - Layering for photovoltaic, stealth, or transparent tiles
+   - QA using AI vision and robotics
+   - Assembly into modular kits
+
+4. **Automation**
+   - 80–95% automated production using robotics, AI quality control, Skydio drones, and DARPA Squad X systems
+   - Human oversight for QA, maintenance, and complex assembly
+
+---
+
+## 5. Cost & Revenue Summary
+
+| Component | Avg Cost | Avg Revenue | Notes |
+|-----------|-----------|------------|-------|
+| Tiles | $8–25 | $18–50 | Dependent on type (standard, stealth, solar, transparent) |
+| Studs | $45–55 | $90–100 | Smart studs integrated with IoT sensors |
+| Kits | $400K–10M | $600K–12.5M | Modular, scalable, supports smart city and farm deployments |
+
+> Aggressive cost reduction achieved through **recycled feedstocks**, **automation**, and **modular standardization**. Revenue is enhanced by **value-added functionality**, e.g., energy generation, IoT integration, cleanroom deployment, and security compliance.
+
+---
+
+## 6. Viability Enhancements
+
+- **Reuse:** All modular kits designed to be redeployed or reconfigured.
+- **Waste-to-Tile Conversion:** Converts bio-waste, MSW, e-waste, and construction scrap into feedstock.
+- **Automation:** Reduces labor cost, accelerates production, ensures precision.
+- **Smart Airlocks:** Standard in all kits, integrated IoT monitoring.
+- **Sustainability:** Biodegradable packaging, renewable energy integration, water recycling in farms.
+- **Bottleneck Reduction:** Pre-assembly, AI-driven scheduling, and predictive supply chain management.
+
+---
+
+*This document is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).*
