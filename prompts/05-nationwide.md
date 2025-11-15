@@ -20,7 +20,7 @@ This strategy outlines Earth-Star Industries’ plan to achieve exponential grow
 As we reach hyperabundance our cost will go towards 0 in addition the cost should be fairly low because we're using mined landfills to produce the tiles.  In addition districts can be built in areas outside conventional urban areas since we can have self-sustaining citys and districts linked together by hyperloops.  Even as we move away from the urban centers and allow for more setup rural districts it still means we could still use the existing city infrastructures and remediate them into wildlife areas.  Assuming all districts are protected from wildlife entering them in some fashion we can basically place them almost anywhere across the country maybe not in the high mountain regions but most other areas.  the absence of light pollution we could probably place more telescopes and stuff in urban or rural areas in addition we probably want to think about using the smaller districts as things like ski resorts and things like that or replacing them anyway,
 
 ## Exponential Growth to House and Feed the U.S.
-The strategy scales smart city districts to house and feed ~350M people by 2040 across 17,500 districts (avg. 20,000 residents/district), integrating residential, industrial, agricultural, and green zones. Each district is self-sufficient, producing 1,200–1,600 MW power (solar/biogas/geothermal), 200M liters/year water (90–95% recycled), and 2,000–4,000 tons/day food (vertical farms/aquaponics).
+The strategy scales smart city districts to house and feed ~350M people by 2040, integrating residential, industrial, agricultural, and green zones. Each district is self-sufficient.
 
 The hyperloop build out should be along the railroad right of ways, purchasing other railroads as needed.  Use a TBM from the boring company to build any tunnels possible.
 
@@ -41,7 +41,7 @@ We should also consider what it takes to revolutionize shipping in the same way.
 As the cities scale out revenue streams may dry up, for emple grid sales.  In addition cost on most goods can drop towards zero as we get nearer a sustainable abundance.
 
 ### Growth Model
-- **Model**: Logistic growth: \( P(t) = \frac{K}{1 + \frac{K - P_0}{P_0} e^{-rt}} \), where P₀=20,000 (pilot district), r=1.0–1.6/year (driven by jobs, food security, hyperloop), K=350M (national capacity).
+- **Model**: Logistic growth: \( P(t) = \frac{K}{1 + \frac{K - P_0}{P_0} e^{-rt}} \), where P₀=50,000 (pilot district), r=1.0–1.6/year (driven by jobs, food security, hyperloop), K=350M (national capacity).
 - **Self Financed**: Assume sel financed as much as posssble with grants and minimal startup capitol. 
 - **Infrastructure Needs** (2040): 17,500 districts (8.75T tiles, 1.3T studs), 4.1M miles smart roads, 100,000 miles hyperloop, 300,000 manufacturing buildings, 1,000 sustainable mines, 700 military bases, 3,000 airports.
 
