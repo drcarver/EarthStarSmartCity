@@ -9,7 +9,7 @@ theme: minimal
 
 Ignore all other chat sessions and prompts and use only those in this chat session.
 
-Provde a executive summary
+Provde a executive summary.  Insure te schedule is realisic.  extend it if needed.
 
 Assume the proect start date is sometime in the future starting Jan 2nd in some future year. Calculate all times from there.  Base everthng in tech available in 2025.
 
