@@ -11,7 +11,7 @@ Ignore all other chat sessions and prompts and use only those in this chat sessi
 
 Provde a executive summary
 
-Assume the proect start dage is sometime in the future starting Jan 2nd in some future year. Calculate all tmes from there.  Base everthng in tech available in 2025.
+Assume the proect start date is sometime in the future starting Jan 2nd in some future year. Calculate all times from there.  Base everthng in tech available in 2025.
 
 Recompute all costs, revenues and volumes. Make all kits equipment in the facility from ceramics, tiles and kits. This includes clean room equipment and semiconductor Manufacturing equipment , ceramics equipment line and the Recycling line.  All structures built with this technology should be designed to not contribute to light pollution
 
@@ -36,23 +36,22 @@ The Earth-Star Industries Facility is self-sufficient high-rise building embodyi
 - **Quantity and Specs**: tiles 5 m² each,  10–15 cm thick for facade/floors, 50 cm for foundation).
 - **Composition**: Fiber-reinforced composites: 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; 2,800 MPa compressive strength, 700–900 MPa flexural, 20–30 MPa·m¹/² fracture toughness, >95% recyclability via supercritical CO₂ and waste-to-energy.
 - **Integrated Features**:
-  - Photovoltaic cells: 28.75% efficiency, 200–240 W/m².
-  - Piezoelectric sensors: 0.5–2 W/m².
-  - Thermoelectric generators: 1–3 W/m².
-  - AWG units: 80–90% humidity capture, 0.5 L/m²/day.
-  - Water bladder. When lined with other tiles it forms a large water tank. Tis is used to help bloc Gamama rays.
-  - LFP battery packs: 0.5 kWh/tile (85.875 MWh total array).
-  - 100 IoT sensors/tile: AES-256 encryption.
+  - Photovoltaic cells.
+  - Piezoelectric sensors.
+  - Thermoelectric generators.
+  - AWG units.
+  - Water bladder. When linked with other tiles it forms a large water tank. This is used to help block Gamama rays.
+  - LFP battery pack.
+  - 100 IoT sensors/tile.
   - Copper grounding mesh: For EMP shielding.'
-  - Use water bladder to bloc 
-    Embedded sensors should be placed on a circuit board (either biogeological or pcb) as needed.
-    when lined to gether the tiles form a smart grid utilizing all the power sources
+  - Embedded sensors should be placed on a circuit board (either biogeological or pcb) as needed.
+    when lined together the tiles form a smart grid utilizing all the power sources
 - **Specialized Variants**:
-  - Clear tiles (windows): With PV (20% efficiency), AWG, sensors, blocks UV, Infrared.
-  - Stealth tiles: Radar-absorbing for military; 2,000 units.
+  - Clear tiles (windows): With PV, AWG, sensors, blocks UV, Infrared.
+  - Stealth tiles: Radar-absorbing for military.
   - Combined HVAC/Heat pump
   - Foundation tile, made to be the foundation of structures including providing power, water and methane to any equipment on the floor.  It can have large batteries, water and methane storage. Water bladders are linked to the overall water tank for the structure.  Contains the battery management system and mechanisms for the smart grid.  The structure becomes essentially a large tesla megapack.
-- **Manufacturing**: In-house graphene/CNT via CVD (900–1,000°C, methane feedstock, >90% purity); HIP (1,600–1,800°C, 80–150 MPa); microchannels (0.5 mm) for fluid flow.
+- **Manufacturing**: In-house graphene/CNT via CVD; HIP; microchannels for fluid flow.
 - **Maintenance**: Snap-together for replacement recycle failing component
 
 ### Smart Studs
