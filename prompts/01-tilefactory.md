@@ -131,10 +131,13 @@ and setting for role based security.  Any where you would use a lock can be repl
 1. **Leased tent for initial kits, tiles, studs, equipment.  Provice a timeline when renred including tent and all leased equipment
 2. **Transition to in-house ceramic line Floor 1.
 
-## Location ans recycling
+## Location and recycling
 - **Location**: In a hollowed city adjacent to a brownsfield site and a closed landfill that can be mined to provide resourses for 
    tower to recycle.
 - **Railroad**: Any existing abandoned railways will be recyled and railroads will be upgraded to high speed rail as needed.
+
+# Sensor suites
+All required sensors are integrated in the factory frim our clean roons.  We also want to get blue and green certifications
 
 ## Sensor Requirements for NASA CLESS / ISS Life Support Protocols  
 ### Integrated Into the Earth-Star Systems Architecture
@@ -554,9 +557,6 @@ These additional sensors provide complete coverage for:
 - **U.S. DoD / NATO environmental and infrastructure resilience**  
 
 They complete the sensor network required for automated certification, mass-balance accounting, safety, environmental monitoring, and space-grade life-support compliance.
-
-If you want, I can also generate a **BOM (Bill of Materials)**, **deployment density map**, or **tile-embedded sensor bus diagram**.
-
 
 ## Response Guidelines
 - Structure output as a single GitHub Markdown page (minimal theme).
