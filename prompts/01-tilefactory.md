@@ -20,13 +20,13 @@ The Earth-Star Industries Facility is self-sufficient high-rise building embodyi
 - **Structure**: 150-meter-tall, 15-floor cylindrical building (~265,000 m² total area, height-to-diameter ratio ~1 for stability, 150 m diameter).
 - **Resilience**: Optimized for 8.0 Richter seismic events, Category 5 hurricanes (250 mph), and EMP (>80 dB attenuation).
 - **Certifications and Standards**:
-  - Green Star 5 Star, Fitwel 3 Star, WELL Silver, LEED Gold, BREEAM Excellent.
-  - UN SDGs: 3, 6, 7, 11, 12.
+  - Green Star, Fitwel, WELL, LEED, BREEAM.
+  - UN SDGs
   - NASA CELSS for closed-loop systems.
-  - ISO: 14644-1 (cleanrooms), 52120-1 (energy), 27001 (cybersecurity), 37122 (smart cities).
-  - NATO: STANAG 4370 (environmental testing), 7159 (climate control), 2582 (cybersecurity).
-  - Military: UFC 4-010-01 (antiterrorism), 3-340-02 (blast resistance), 3-410-01/3-401-01 (HVAC/mechanical), MIL-STD-810H (resilience), 461G/188-125-1 (electromagnetic), 1474E (noise), NIST 800-53 (cybersecurity).
-  - Building: ASHRAE 90.1 (energy), 62.1 (ventilation), ICC 500 (storm), NFPA 101 (life safety).
+  - ISO
+  - NATO
+  - Military.
+  - Building
 
 **Task**: Generate a comprehensive, self-contained description incorporating all details below. Use tables for data (e.g., costs, outputs). Assume 2025 technologies for feasibility.
 
