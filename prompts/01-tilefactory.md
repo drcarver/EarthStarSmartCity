@@ -59,7 +59,7 @@ The Earth-Star Industries Facility is self-sufficient high-rise building embodyi
 - **Quantity and Specs**:  1m length, 50 kg, 10 cm diameter.
 - **Features**: Same ceramic composite; interlocking sockets for power, water, methane; copper wiring, graphene-reinforced pipes. Provides the backbone for the tiles water tank and smart grid.
 - **Maintenance**: Snap-together for replacement recycle failing component
-- 
+
 ## Modular Kits
 All kits are Ikea-style flat-packed, produced in-house from tile factory, and available for sale. Reuse existing kits where possible; create new ones as needed (e.g., Apartment Kit, Electronics Kit). 
 - **Farm Kit**: Hydroponic/aeroponic trays, RAS tanks.
@@ -128,7 +128,7 @@ and setting for role based security.  Any where you would use a lock can be repl
 - **Standards**: ISO 37122 (AI-driven security, traffic, energy); sustainable building codes.
 
 ## Construction Timeline
-1. **Leased tent for initial kits, tiles, studs, equipment.  Provice a timeline when renred including tent and all leased equipment
+1. **Leased tent for initial kits, tiles, studs, equipment.  Provice a timeline when retuned including tent and all leased equipment
 2. **Transition to in-house ceramic line Floor 1.
 
 ## Location and recycling
@@ -137,14 +137,14 @@ and setting for role based security.  Any where you would use a lock can be repl
 - **Railroad**: Any existing abandoned railways will be recyled and railroads will be upgraded to high speed rail as needed.
 
 # Sensor suites
-All required sensors are integrated in the factory frim our clean roons.  We also want to get blue and green certifications
+All required sensors are integrated in the factory and manufactured in our clean roons.  We also want to get blue and green certifications
 
 ## Sensor Requirements for NASA CLESS / ISS Life Support Protocols  
-### Integrated Into the Earth-Star Systems Architecture
 
-This document outlines the full sensor suite required to support NASA CLESS (Closed-Loop Environmental System Simulation), ISS ECLSS–derived protocols, and the broader Earth-Star smart-city environmental, industrial, and safety standards.
+## Integrated Into the Earth-Star Systems Architecture
 
----
+This document outlines the full sensor suite required to support NASA CLESS (Closed-Loop Environmental System Simulation), ISS ECLSS–derived protocols, 
+and the broader Earth-Star smart-city environmental, industrial, and safety standards.
 
 ## 1. Atmospheric / Air Quality Sensors
 
@@ -164,8 +164,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - In life-support racks and bioregenerative modules  
 - In emergency shelters / protected structures  
 - At airlock entrances and exits  
-
----
 
 ## 2. Water Quality and Life Support Sensors
 
@@ -189,8 +187,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - In potable water storage tanks  
 - In industrial wastewater treatment units  
 
----
-
 ## 3. Structural and Mechanical Integrity Sensors
 
 ### Required Sensors
@@ -210,8 +206,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - Along bridges, elevated tramways, or skywalks  
 - In launchpad-adjacent facilities  
 
----
-
 ## 4. Thermal Management and HVAC Sensors
 
 ### Required Sensors
@@ -229,8 +223,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - In server rooms and Earth-Star data centers  
 - In greenhouse and controlled-environment agriculture modules  
 
----
-
 ## 5. Radiation and Space-Habitat Safety Sensors
 
 ### Required Sensors
@@ -247,8 +239,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - Exterior building surfaces for cumulative exposure  
 - On power systems (especially nuclear or RTG-type studies)  
 
----
-
 ## 6. Biological and Bioenvironmental Sensors
 
 ### Required Sensors
@@ -262,8 +252,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - Bioregenerative life-support systems  
 - Food production and clean kitchens  
 - Waste handling and recycling systems  
-
----
 
 ## 7. Fire, Explosion, and Hazard Detection Sensors
 
@@ -281,8 +269,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - Kitchens, labs, workshops  
 - Battery banks / energy storage  
 - Any room using 3D printers or laser cutters  
-
----
 
 ## 8. Geo-Sensing, Seismic, and Environmental Sensors
 
@@ -302,8 +288,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - Roof top weather stations  
 - Aquaponic farms and outdoor agriculture  
 
----
-
 ## 9. Cyber-physical & Smart City Sensors
 
 ### Required Sensors
@@ -319,8 +303,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - Around all power distribution nodes  
 - Inside public buildings and logistics hubs  
 - On renewable energy systems (solar, wind, geothermal)  
-
----
 
 ## 10. Space Systems / Aerospace Operations Sensors
 
@@ -338,8 +320,6 @@ This document outlines the full sensor suite required to support NASA CLESS (Clo
 - Cleanrooms  
 - Propellant storage and transfer systems  
 
----
-
 # Summary
 With these sensors integrated into the Earth-Star tiles, kits, and equipment, the system now supports:
 
@@ -351,14 +331,14 @@ With these sensors integrated into the Earth-Star tiles, kits, and equipment, th
 - NATO environmental and interoperability frameworks  
 - DoD energy, safety, and threat-monitoring standards  
 
-This creates a **fully instrumented, standards-aligned, automated compliance ecosystem** capable of generating real-time reports, lifecycle documentation, and regulatory certifications through an online portal backed by edge computing and the Earth-Star data centers.
+This creates a **fully instrumented, standards-aligned, automated compliance ecosystem** capable of generating real-time reports,
+lifecycle documentation, and regulatory certifications through an online portal backed by edge computing and the Earth-Star data centers.
 
 # Additional Sensors Required to Fully Support All Identified Standards  
 *(For Earth-Star Systems, Smart Cities, NASA CLESS, ESA ELSS, LEED, WELL, ISO, IEC, GDPR, and Manufacturing Standards)*
 
-Below is the complete list of **additional sensors** that close remaining gaps across all environmental, manufacturing, security, aerospace, life-support, sustainability, and quality-assurance standards already identified.
-
----
+Below is the complete list of **additional sensors** that close remaining gaps across all environmental, manufacturing, security, 
+aerospace, life-support, sustainability, and quality-assurance standards already identified.
 
 ## 1. XRF / Optical Material Composition Sensors  
 **Purpose:** Verify feedstock composition, detect heavy metals, ensure EPD traceability.  
@@ -369,8 +349,6 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Incoming material docks  
 - QC labs  
 
----
-
 ## 2. Rare-Earth / E-Waste XRF Screening  
 **Purpose:** Identify rare earths, precious metals, conflict-mineral compliance.  
 **Locations:**  
@@ -378,16 +356,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Scrap facilities  
 - Port-of-entry inspection stations  
 
----
-
 ## 3. Corrosion / Electrochemical Sensors  
 **Purpose:** Monitor corrosion in coastal, underground, and marine-adjacent infrastructure.  
 **Locations:**  
 - Foundation tiles  
 - Coastal dome supports  
 - Pipelines and conduits  
-
----
 
 ## 4. Acoustic Noise & Vibration Arrays  
 **Purpose:** OSHA noise compliance, WELL comfort metrics, mechanical fault detection.  
@@ -398,16 +372,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Hospitals  
 - Data centers  
 
----
-
 ## 5. Illuminance / Spectral Radiometers  
 **Purpose:** WELL circadian lighting credits, LEED compliance, horticultural optimization.  
 **Locations:**  
 - Offices, classrooms, hospitals  
 - Grow bays  
 - Street lighting and plazas  
-
----
 
 ## 6. Opt-In Health / Vital Sign Gateways  
 **Purpose:** WELL health scoring, outbreak monitoring, workplace safety (heat stress).  
@@ -416,16 +386,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Emergency shelters  
 - Voluntary workplace kiosks  
 
----
-
 ## 7. Isotope / Trace Chemistry Analyzers  
 **Purpose:** Provenance detection, advanced environmental forensics, pharma QA.  
 **Locations:**  
 - Environmental QA labs  
 - Drinking-water labs  
 - Pharma manufacturing QA  
-
----
 
 ## 8. GC / GC–MS VOC Speciation  
 **Purpose:** High-fidelity contamination analysis where VOC identity matters.  
@@ -434,16 +400,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Mobile environmental-response vans  
 - Cleanroom QA stations  
 
----
-
 ## 9. Corrosive Gas Sensors (HCl, HF, etc.)  
 **Purpose:** Safety in chemical coating/etching operations.  
 **Locations:**  
 - Chemical storage rooms  
 - Coating booths  
 - Plasma/etch equipment zones  
-
----
 
 ## 10. Ground-Penetrating Radar (GPR)  
 **Purpose:** Detect voids, anomalies, landfill heterogeneity before tile foundation installation.  
@@ -452,16 +414,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Landfill-mining sites  
 - Tunnel/rail corridors  
 
----
-
 ## 11. Chloride / Moisture Interface Sensors  
 **Purpose:** Prevent long-term chloride damage at ceramic–foundation interfaces.  
 **Locations:**  
 - Soil–tile interfaces  
 - Coastal structures  
 - Bridge joints  
-
----
 
 ## 12. Hydrocarbon Liquid Leak Detectors  
 **Purpose:** Immediate detection of oil/fuel spills for environmental compliance.  
@@ -470,8 +428,6 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Maintenance depots  
 - Marine docks  
 
----
-
 ## 13. Hardware-backed IoT Asset Authentication Modules  
 **Purpose:** Cryptographic identity for every sensor; supports blockchain provenance and anti-tamper.  
 **Locations:**  
@@ -479,16 +435,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Factory control cabinets  
 - Port-of-entry inspection devices  
 
----
-
 ## 14. Electrochemical Noise Sensors  
 **Purpose:** Monitor acid-leaching recycling systems, electrochemical baths.  
 **Locations:**  
 - Metal recovery systems  
 - Electrodialysis racks  
 - Acid process vessels  
-
----
 
 ## 15. Surface Wetness / Dew / Ice Sensors  
 **Purpose:** Safety and PV optimization; icing detection on transport surfaces.  
@@ -498,16 +450,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Rooftops  
 - Rail systems in cold climates  
 
----
-
 ## 16. Odor Detection Sensor Arrays  
 **Purpose:** Nuisance monitoring for ESG and community impact correlation.  
 **Locations:**  
 - Perimeter of recycling plants  
 - Landfill remediation areas  
 - Residential buffer zones  
-
----
 
 ## 17. Smart Weighbridges & Load-Cell Arrays  
 **Purpose:** Automated mass-balance for carbon accounting and traceable manifests.  
@@ -516,16 +464,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Rail freight yards  
 - Ports and container hubs  
 
----
-
 ## 18. Advanced Explosive/Narcotic Trace Swabs (Lab Use)  
 **Purpose:** Supports airlock screening validation and high-security compliance.  
 **Locations:**  
 - Security labs  
 - Mobile screening vans  
 - High-risk access points  
-
----
 
 ## 19. Hyperspectral Optical Sorting  
 **Purpose:** Advanced material sorting for plastics, ceramics, and quality control.  
@@ -534,16 +478,12 @@ Below is the complete list of **additional sensors** that close remaining gaps a
 - Tile finishing lines  
 - Warehouse inbound belts  
 
----
-
 ## 20. Corrosive/Acid Sensors for Methanation & Electrolysis  
 **Purpose:** Protects electrochemical hydrogen/methane systems.  
 **Locations:**  
 - Electrolysis rooms  
 - Methanation reactors  
 - Fuel buffer tanks  
-
----
 
 # Summary  
 These additional sensors provide complete coverage for:  
@@ -556,7 +496,8 @@ These additional sensors provide complete coverage for:
 - **Circular-economy / supply-chain provenance standards**  
 - **U.S. DoD / NATO environmental and infrastructure resilience**  
 
-They complete the sensor network required for automated certification, mass-balance accounting, safety, environmental monitoring, and space-grade life-support compliance.
+They complete the sensor network required for automated certification, mass-balance accounting, safety, environmental monitoring, 
+and space-grade life-support compliance.
 
 ## Response Guidelines
 - Structure output as a single GitHub Markdown page (minimal theme).
