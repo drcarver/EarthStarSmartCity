@@ -7,180 +7,188 @@ theme: jekyll-theme-minimal
 
 # Earth-Star Industries Smart City Complex
 
-This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This document details the Earth-Star Industries Smart City Complex, a modular hub-and-spoke urban ecosystem (MHUE) for 50,000 residents, built entirely with enhanced ceramic tiles, smart studs, and modular kits from the Earth-Star Industries Facility (Prompt 1). Start date: January 2, 2030 (post-farm rationale). Based on 2025 technologies (e.g., DARPA Squad X AI, Tesla autonomy, LT-DAC), the phased dome (transparent stealth tiles) enables urban stargazing (low-emissivity coatings, automated shutters). Sensors from Prompt 1 (atmospheric, water, structural, biological, etc.) ensure NASA CELSS/ISO 37122 compliance. New kits: Dome Phasing Kit ($50K/unit, for modular dome assembly), Earth-Star Communicator Kit ($200/unit, badge with biometric sensors/payment/emergency), Mining Kit ($100K/unit, ceramic electrodialysis for waste mining). Viability enhancements: 95% recycling cuts capex 50%; grants ($500M) for brownfield/SDGs; AI automation reduces labor 70%. Bottlenecks: Phased dome (3 years) mitigates supply; rail integration accelerates logistics 40%.
 
 ## Executive Summary
 
-The Earth-Star Industries Smart City Complex (ESISCC) is a revolutionary modular hub-and-spoke urban ecosystem (MHUE) for 50,000 residents, constructed entirely from waste-recycled ceramic tiles and kits sourced from the Earth-Star Industries Facility. Located along the BNSF railway near the Port of Brownsville, TX, it integrates luxurious single-family homes, a sustainable hospital, K-12 school, shopping mall, low-income housing, hotels, college campus, vocational training, industrial park (including a Tesla Megapack factory), and a Colossus 2-scale data center (300 MW, 50,000 m²), all under a phased transparent dome for enhanced protection and energy generation. Leveraging 2025 technologies like DARPA Squad X AI for 95% automated assembly, Tesla autonomous transport, and ISO 37122 smart grids, the complex achieves off-grid self-sufficiency, zero light pollution (shielded low-Kelvin LEDs for stargazing), and full compliance with LEED Gold, WELL Silver, Green Star 5 Star, BREEAM Excellent, ASHRAE 90.1/62.1, ICC 500, NFPA 101, UN SDGs, NASA CELSS, NATO STANAGs, and military standards (UFC, MIL-STD-810H, etc.).
+The MHUE revives hollowed districts along BNSF railway (Brownsville, TX site: 500 acres brownfield, rail access to UP/BNSF [](grok_render_citation_card_json={"cardIds":["9dee2e","839563"]})). Hub: Factory/farm/hospital/school/mall/data center/industrial. Spokes: Housing/farm/college/hotels. Off-grid (200% energy surplus via PV/methane), 99% water closure. Outputs: 250,000 t food/yr, 1,000 Megapacks/yr, 500 PFLOPS compute, $2B annual revenue by Yr 5.
 
-Sensors from Prompt 1 (atmospheric, water, structural, etc.) are embedded in all tiles/kits for real-time CELSS/ISO monitoring. Project start: January 2, 2028. Realistic timeline: 48-month phased rollout (Jan 2028-Dec 2031), with dome completion by 2032, full ops January 2032. Total CapEx: $15B (60% offset by recycling/grants; effective $6B), financed via Facility revenues ($2B seed) and federal grants ($3B for SDGs/infrastructure). Annual OpEx: $1.5B. Revenue: $5B/yr (housing $1.5B, industrial/data $2B, services $1.5B). Breakeven: Year 7 (2035); ROI: 18% (vs. traditional urban dev 8%). Monthly: Power 500 MW (self-gen, excess 100 MW to grid); water 500,000 m³ (98% recycled). Viability enhanced by modularity (50% faster build), bottlenecks reduced via rail logistics and AI oversight. Disaster resistance: Dome/tile resilience to Cat 5 hurricanes, 8.0 quakes, EMP, and man-made threats (blast/chemical).
+**Financials (Recomputed, 2025 USD, 50% Reduction via Tiles/Recycling)**: Capex $15B (down from $30B market); opex $1.2B/yr; revenues $2B/yr (data center $800M, industrial $500M, mall/hospital $300M, housing/food $400M). ROI 22%; break-even 7 years (Q4 2037). Monthly: Power 50 GWh (surplus export $10M); Water 30M m³ (AWG/recycle).
+
+**Timeline (Realistic, Extended 12 Months for Dome/Tests)**: 5-year build (phased dome Years 1-3). Phase 1: Jan-Jun 2030. Phase 2: Jul 2030-Dec 2032. Phase 3: Jan-Dec 2033. Full ops Jan 2034.
+
+**Feasibility**: Score 94/100. 2025 tech mature (modular AI assembly); dome resilience to Cat 5 hurricanes (aerodynamic tiles, 250 mph) [](grok_render_citation_card_json={"cardIds":["728442"]}), 8.0 quakes (flexural strength), floods (elevated foundations, barriers) [](grok_render_citation_card_json={"cardIds":["a1035d"]}). Scales to 100 cities ($200B revenue).
+
+| Metric | Value | Notes |
+|--------|-------|-------|
+| Capex | $15B | $500M grants offset |
+| Annual Revenue (Yr 5) | $2B | 35% margin |
+| Break-Even | Q4 2037 | Cumulative positive |
+| Jobs | 20,000 | 70% local/vocational |
+| CO₂ Capture | 3M t/yr | LT-DAC/methanation |
 
 ## Complex Overview
 
-- **Population**: 50,000 residents.
-- **Location**: BNSF railway-adjacent brownfield (Brownsville, TX) for rail-enabled expansion; sustainable mining for resources.
-- **Structure**: Central hub (tile factory, farm tower, hospital, school, mall, data center, industrial park) with spokes (housing clusters, college, hotels) connected by 10–20 mile High-Speed Rails (500 mph, ceramic tracks). Phased dome (transparent stealth tiles/studs) covers 5 km² for climate control/energy (PV-integrated, 20% efficiency).
-- **Infrastructure**: Ceramic smart roads/sidewalks (IoT-embedded, fiber-optic); automated irrigation (90% recycling); 50-acre green spaces with vertical farms.
-- **Transport**: Tesla robotaxis/autonomous vehicles; BNSF integration for goods/tower relocation.
-- **Internet**: 1 TB/s baseline, scalable to 10 TB/s via Starmesh tiles.
-- **Standards**: All Prompt 1 certs; zero light pollution via directional shielding.
-- **Security**: Smart airlocks (facial/X-ray/terahertz scans) at all entries; ISO 37122 AI-driven.
+**Population/Location**: 50,000; Brownsville, TX (BNSF access for expansion, port synergy [](grok_render_citation_card_json={"cardIds":["67db1e"]})). **Dome**: Phased transparent tiles (stealth variants, PV/AWG integrated; full by 2033 for protection/energy). **Infrastructure**: Ceramic smart roads (IoT/fiber, $5/m²), HSR (500 mph spokes, tile tracks), Tesla robotaxis. **Internet**: 1 TB/s (scalable 10 TB/s). **Standards**: All from Prompt 1 + UN SDGs, ICC 500 (storm), NFPA 101 (safety). Security: Smart airlocks everywhere. Green spaces: 50 acres (auto-irrigation, 90% recycle).
+
+**Disaster Resistance**: Dome: Aerodynamic cylinder (Cat 5, 250 mph winds); seismic (2,800 MPa tiles, strain sensors); floods (elevated 5m, auto-barriers, GPR voids) [](grok_render_citation_card_json={"cardIds":["0409cf","e1b31a"]}). EMP (80 dB mesh); man-made (blast-resistant UFC 3-340-02).
 
 ## Components and Kits
 
-All use Prompt 1 tiles ($0 effective via waste; 5 m², 200 kg) and studs ($0; 1 m, 50 kg). New kits: Dome Kit (transparent HVAC tiles for enclosure), Mining Kit (electrodialysis lines), Communicator Kit (biometric badges). Assembly: 95% robotic (Squad X AI, BlockADE snaps), 5% human oversight.
+All use tiles ($2/m² effective post-recycle), studs ($45/m). Assembly: DARPA AI/drones (70% auto). New Kits Details:
 
-| Kit Name (New/Existing) | Components | Cost ($M) | Tiles Required | Studs Required | Other Kits | Notes |
-|-------------------------|------------|-----------|----------------|---------------|------------|-------|
-| Dome Kit (New) | Transparent stealth tiles, HVAC wraps, rail interfaces | 500 | 100,000 | 50,000 | Security Kit | Phased build; EMP/UV blocking. |
-| Mining Kit (New) | Ceramic electrodialysis/acid leaching lines | 100 | 5,000 | 2,000 | Recycling Kit | For rare earths/silica. |
-| Communicator Kit (New) | Biometric badges (health sensors, payments, emergency) | 50 | 1,000 (embedded) | 500 | Sensor Kit | Wireless charging; issued per resident. |
-| Urban Ag System Kit (New for Homes) | Hydro/aquaponic sunrooms, pools | 10/unit | 200 | 100 | Farm Kit | 300 ft²/home. |
-| Megapack Factory Kit (New) | Ceramic assembly lines, cleanrooms | 200 | 10,000 | 5,000 | Cleanroom/Processing Kits | 10,000 units/yr. |
+| Kit | Components | Tiles/Studs Required | Other Kits | Cost/Unit |
+|-----|------------|----------------------|------------|-----------|
+| Dome Phasing (New) | Transparent tiles, interlocking frames | 10,000 tiles, 5,000 studs/unit | Sensor Integration | $50,000 |
+| Earth-Star Communicator (New) | Badge (ceramic, biometrics/Pay/emergency) | 1 tile, 0 studs | Electronics | $200 |
+| Mining (New) | Electrodialysis units (ceramic) | 500 tiles, 200 studs | Recycling Processor | $100,000 |
 
-## Detailed Implementation Tables
+Reuse: Apartment, Farm, Cleanroom, etc.
 
-### Luxurious Single-Family Homes (5,000 units, 930,000 m² total)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 186,000 (37/unit) | 3 months/unit (parallel) | 0 (recycled) |
-| Studs | 93,000 (18.6/unit) | Included | 0 |
-| Kits | 5,000 Urban Ag + Apartment | 1 month/fit-out | 50 |
-| Total | - | 12 months (phased) | 2,500 (80% market) |
+### Implementation Tables
 
-### Sustainable Hospital (50,000 m²)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 10,000 | 6 months | 0 |
-| Studs | 5,000 | Included | 0 |
-| Kits | 1 Cleanroom + Amenity | 3 months/fit-out | 250 (reduced from $22B baseline) |
-| Total | - | 9 months | 500 |
+**Luxurious Single-Family Homes (5,000 units, 186 m² each, Total 930,000 m²)**  
+| Item | Quantity/Unit | Total | Cost ($M) | Construction Time |
+|------|---------------|-------|-----------|-------------------|
+| Tiles | 38/unit | 190,000 | 380 | 2 months/unit (parallel) |
+| Studs | 100/unit | 500,000 | 22.5 | |
+| Kits | 1 Apartment + 1 Farm | 10,000 | 200 | |
+| **Total/Unit** | | | 0.12 | **Total: 12 months phased** |
 
-### K-12 School (30,000 m²)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 6,000 | 4 months | 0 |
-| Studs | 3,000 | Included | 0 |
-| Kits | 1 Office + Farm | 2 months/fit-out | 84 (reduced from $300/sqm) |
-| Total | - | 6 months | 150 |
+**Sustainable Hospital (50,000 m²)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 10,000 | 20 | 6 months |
+| Studs | 5,000 | 0.225 | |
+| Kits | 5 Cleanroom + 2 Pharma | 150 | |
+| **Total** | | **170** | **9 months** |
 
-### Shopping Mall (100,000 m²)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 20,000 | 8 months | 0 |
-| Studs | 10,000 | Included | 0 |
-| Kits | 10 Amenity + Processing | 4 months/fit-out | 300 (reduced from $4500/sqm) |
-| Total | - | 12 months | 600 |
+**K-12 School (30,000 m²)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 6,000 | 12 | 4 months |
+| Studs | 3,000 | 0.135 | |
+| Kits | 3 Office + 1 Farm | 50 | |
+| **Total** | | **62** | **6 months** |
 
-### Low-Income Apartment Complex (50,000 m², 5,000 units)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 10,000 | 6 months | 0 |
-| Studs | 5,000 | Included | 0 |
-| Kits | 5,000 Apartment (scaled) | 3 months/fit-out | 100 |
-| Total | - | 9 months | 200 |
+**Shopping Mall (100,000 m²)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 20,000 | 40 | 8 months |
+| Studs | 10,000 | 0.45 | |
+| Kits | 10 Amenity + 5 Processing | 600 | |
+| **Total** | | **640** | **12 months** |
 
-### Hotels (2 units, 100,000 m² total)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 20,000 | 6 months/unit | 0 |
-| Studs | 10,000 | Included | 0 |
-| Kits | 2 Amenity + Apartment | 3 months/fit-out | 200 |
-| Total | - | 9 months | 400 |
+**Low-Income Apartments (50,000 m², 5,000 units)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 10,000 | 20 | 6 months |
+| Studs | 5,000 | 0.225 | |
+| Kits | 5,000 Apartment (scaled) | 500 | |
+| **Total** | | **520** | **9 months** |
 
-### College Campus (30,000 m²)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 6,000 | 4 months | 0 |
-| Studs | 3,000 | Included | 0 |
-| Kits | 1 Office + Vocational (new: ceramics/tech labs) | 2 months/fit-out | 90 |
-| Total | - | 6 months | 180 |
+**Hotels (2 units, 50,000 m² each, Total 100,000 m²)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 20,000 | 40 | 8 months/unit |
+| Studs | 10,000 | 0.45 | |
+| Kits | 2 Amenity + 10 Apartment | 1,200 | |
+| **Total** | | **1,240** | **12 months** |
 
-### Industrial Park (50,000 m², incl. Megapack Factory)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 10,000 | 6 months | 0 |
-| Studs | 5,000 | Included | 0 |
-| Kits | 1 Megapack Factory + Processing | 4 months/fit-out | 300 (reduced from $1000/sqm) |
-| Total | - | 10 months | 500 |
+**College Campus (30,000 m²)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 6,000 | 12 | 4 months |
+| Studs | 3,000 | 0.135 | |
+| Kits | 3 Office + 2 Vocational (new, $10K) | 80 | |
+| **Total** | | **92** | **6 months** |
 
-### Colossus 2-Sized Data Center (50,000 m², 300 MW)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 10,000 | 8 months | 0 |
-| Studs | 5,000 | Included | 0 |
-| Kits | 1 Cleanroom + Sensor | 4 months/fit-out | 1,100 (reduced from $220M baseline) |
-| Total | - | 12 months | 2,000 |
+**Industrial Park (50,000 m²)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 10,000 | 20 | 6 months |
+| Studs | 5,000 | 0.225 | |
+| Kits | 5 Processing + 2 Recycling | 100 | |
+| **Total** | | **120** | **9 months** |
 
-### Additional Farm Tower (300,000 m²)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 60,000 | 12 months | 0 |
-| Studs | 30,000 | Included | 0 |
-| Kits | 6 Farm + Aquaponics | 6 months/fit-out | 600 |
-| Total | - | 18 months | 1,200 |
+**Data Center (50,000 m², 100 MW)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 10,000 | 20 | 6 months |
+| Studs | 5,000 | 0.225 | |
+| Kits | 5 Cleanroom + Electronics | 150 | |
+| **Total** | | **170** | **9 months** |
 
-### Public Buildings (Churches/Gov Offices, 50,000 m² total)
-| Item | Quantity | Construction Time | Cost ($M) |
-|------|----------|-------------------|-----------|
-| Tiles | 10,000 | 4 months | 0 |
-| Studs | 5,000 | Included | 0 |
-| Kits | 7 Office/Amenity | 2 months/fit-out | 100 |
-| Total | - | 6 months | 200 |
+**Additional Farm Tower (300,000 m²)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 60,000 | 120 | 12 months |
+| Studs | 30,000 | 1.35 | |
+| Kits | 30 Farm + 10 Aquaponics | 600 | |
+| **Total** | | **721** | **18 months** |
 
-**Overall Construction**: 48 months phased (hub first, spokes parallel); dome 24 months post-hub.
+**Public Buildings (Churches 5x5,000 m²=25,000 m²; Gov 2x10,000=20,000 m², Total 45,000 m²)**  
+| Item | Quantity | Total Cost ($M) | Time |
+|------|----------|-----------------|------|
+| Tiles | 9,000 | 18 | 3 months/building |
+| Studs | 4,500 | 0.2 | |
+| Kits | 7 Office/Amenity | 100 | |
+| **Total** | | **118** | **6 months** |
+
+**Dome (Phased, 10M m² total)**: 2M tiles/phase x3, $40M/phase, 12 months/phase.
 
 ## System Integration
 
-- **Waste**: Full recycling (MSW/sewage to tiles/nutrients; ceramic lines).
-- **Water/CO₂**: AWG/greywater (500,000 m³/mo); LT-DAC (8,500 t/day).
-- **Transport/Internet**: As overview.
-- **Sensors**: Prompt 1 full suite in tiles for CELSS/smart city.
+**Waste/Water/CO₂**: Recycling lines (ceramic, 95% to tiles/nutrients); AWG (500k L/day); LT-DAC (8,500 t/day). **Transport**: HSR/Tesla (ISO 37122). **Communicator**: Issued to residents (wireless charge via tiles).
 
 ## Financial Model
 
-CapEx: $15B (60% offset). OpEx: $1.5B/yr. Revenue: $5B/yr (5% growth).
+**Capex Breakdown** ($15B Total):
+| Category | Cost ($B) | % |
+|----------|-----------|---|
+| Materials (Tiles/Studs) | 3 | 20 |
+| Kits/Equipment | 4 | 27 |
+| Construction/Labor (AI) | 5 | 33 |
+| Dome/Infrastructure | 2 | 13 |
+| Sensors/Integration | 1 | 7 |
+| Grants Offset | -0.5 | -3 |
+| **Total** | **15** | **100** |
 
-| Year | Cashflow ($B) | Cumulative ($B) |
-|------|---------------|-----------------|
-| 2028 | -3 | -3 |
-| 2029 | -3 | -6 |
-| 2030 | -2 | -8 |
-| 2031 | 1 | -7 |
-| 2032 | 3.5 | -3.5 |
-| 2033 | 3.5 | 0 (Breakeven adj.) |
-| ... | 3.5 | +18 (Yr 10) |
+**Opex (Yr 5, $B)**: Maintenance 0.4, Utilities 0.2 (surplus), Operations 0.6. Total: 1.2.
 
-ROI: 18%. Financing: 40% self, 40% grants, 20% bonds.
+**Revenues (Ramp-Up)**:
+| Year | Housing/Food ($B) | Industrial/Data ($B) | Services ($B) | Total ($B) |
+|------|-------------------|----------------------|---------------|------------|
+| 2033 | 0.5 | 0.3 | 0.2 | 1.0 |
+| 2034 | 1.0 | 0.6 | 0.4 | 2.0 |
+| 2035+ | 1.5 | 1.0 | 0.5 | 3.0 |
+
+**Cashflow (Cumulative, $B)**:
+| Year | Inflow | Outflow | Net | Cumulative |
+|------|--------|---------|-----|------------|
+| 2030 | 0 | 4 | -4 | -4 |
+| 2031 | 0.1 | 1.2 | -1.1 | -5.1 |
+| 2032 | 0.3 | 1.2 | -0.9 | -6 |
+| 2033 | 1.0 | 1.2 | -0.2 | -6.2 |
+| 2034 | 2.0 | 1.2 | 0.8 | -5.4 |
+| 2035 | 3.0 | 1.2 | 1.8 | -3.6 |
+| ... | ... | ... | ... | Positive Q4 2037 |
+
+ROI: 22% IRR. NPV (10%): $10B. Financing: 60% facility revenues, 30% grants, 10% bonds.
 
 ## Feasibility and Viability
 
-90% feasible with 2025 tech (modular ceramics proven in pilots [](grok_render_citation_card_json={"cardIds":["ac5460","4ac42c"]})); enhancements: Rail logistics (50% supply cut), AI (30% labor save). Bottlenecks: Scale (phased); mining (Mining Kit).
+Score 94/100. Strengths: Modular (50% faster build), off-grid (resilience), diverse revenue (data $800M like Colossus scale [](grok_render_citation_card_json={"cardIds":["ec8c6f"]})). Challenges: Dome scale (mit: phased, AI); supply (rail mining). Enhancements: Partnerships (Tesla/BNSF), carbon credits ($100M/yr).
 
-## Challenges and Mitigation
+## Future Tech Integration
 
-- **Scale/Logistics**: Phased build, BNSF rail.
-- **Tech Integration**: Squad X pilots.
-- **Financing**: SDG grants.
+| Tech | Timeframe | Integration |
+|------|-----------|-------------|
+| Rail Guns | 2025-2030 (China/US deployment [](grok_render_citation_card_json={"cardIds":["a1cd8c","f0dfe7"]})) | Military bases; HSR defense by 2035. |
+| Lasers | 2026+ (Army production [](grok_render_citation_card_json={"cardIds":["be639a","8de431"]})) | Dome perimeter security by 2032. |
+| Star Trek Shields | 2030-2040 (plasma research [](grok_render_citation_card_json={"cardIds":["2813f0","abea46"]})) | Dome enhancement for EMP/hurricanes by 2040. |
+| Med Bays | 2030s (AI scanners/MRI [](grok_render_citation_card_json={"cardIds":["d409f1","0f5af0"]})) | Hospital universal diagnostics by 2035. |
+| Holodeck | 2030+ (immersive VR [](grok_render_citation_card_json={"cardIds":["c6580a","e049af"]})) | Education/entertainment rooms by 2038. |
 
-## Implementation
-
-Phased: Hub 2028-30, spokes/dome 2030-32. Recycling: 100% existing infra. Green spaces: Automated.
-
-## Disaster Resistance
-
-Dome/tiles: Geodesic design resists Cat 5 winds (250 mph), 8.0 quakes (2,800 MPa strength), EMP (>80 dB), floods (elevated foundations), man-made (blast UFC 3-340-02, chemical seals) [](grok_render_citation_card_json={"cardIds":["92e997","65bbe6","a52711"]}). Airlocks/rail guns (future) for threats.
-
-## Earth-Star Communicator
-
-Star Trek badge-style: Biometric sensors (vitals, ATP), payments, emergency calls; wireless charging via tiles. Issued to residents ($10/unit cost).
-
-## Future and Current Tech
-
-- **Rail Guns**: 2025 Japan tests; integration 2030 military bases (anti-drone) [](grok_render_citation_card_json={"cardIds":["14cb84","6c04cc"]}).
-- **Lasers**: 2025 Army/Israel deployment (50 kW anti-UAV); city defense 2028 [](grok_render_citation_card_json={"cardIds":["d4cc36","b40e5c"]}).
-- **Star Trek Shields**: Conceptual plasma (Boeing 2020s); viable 2040s for dome enhancement.
-- **Star Trek Med Bays**: Tricorder diagnostics 2025 pilots; full AI bays 2035 (digital twins) [](grok_render_citation_card_json={"cardIds":["26074c","298a8e"]}).
-- **Holodeck**: 2025 AR/VR rooms (EON); full immersion 2030 (sensor walls) [](grok_render_citation_card_json={"cardIds":["d5347b","1ee2b1"]}).
-
+## License
 This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
