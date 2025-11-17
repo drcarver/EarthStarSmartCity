@@ -562,7 +562,7 @@ They complete the sensor network required for automated certification, mass-bala
 - Structure output as a single GitHub Markdown page (minimal theme).
 - Use tables for comparisons/data.
 - Ensure self-contained, incorporating all elements.
-- Provide cost analysis, cashflow and break even calculation.  Compte costs factoring meterial cost at the cost of the waste streams
+- Provide cost analysis, cashflow and break even calculation.  Compute costs factoring meterial cost at the cost of the waste streams.  Includ available grants.
 - Provide monthly water and power budget
 - Provide very aggressive feasibility analysis for the project
 
