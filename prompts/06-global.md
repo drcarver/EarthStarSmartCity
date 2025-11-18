@@ -1,11 +1,13 @@
-take the eartch star cities intrernational
-
 ---
-title: Earth-Star Industries International Compliance Kit
-description: A modular kit for adapting Earth-Star districts to international standards, embedding region-specific sensors and compliance tools for global scalability.
+title: Earth-Star Industries National Transformation Strategy.
+description: A comprehensive strategy for Earth-Star Industries to scale smart city districts to house and feed NATO and western Hemishere countries.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: jekyll-theme-minimal
 ---
+
+Prompt 6:
+
+Expand to the countries in the NAtO alliance and the western hemisphere simlar to the Chinese BRI.  When it mskes sense we want to make portions of the project open source whee it makes sense.
 
 # International Compliance Kit
 
