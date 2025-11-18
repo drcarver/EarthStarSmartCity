@@ -47,8 +47,8 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 - **Output**: retail, restaurants, entertainment.
 
 ### Low-Income Apartment Complex (2 unit, 50,000 m²)
-- **Design**: 15 floors, 5,000 units (500 ft² each), soup kitchen/restaurant (free meals, healthcare), biodegradable packaging.
-- **Output**: food, 10,000 free meals/day, healthcare for 5,000 residents.
+- **Design**: 15 floors, 5,000 units (1000 ft² each), soup kitchen/restaurant (free meals, healthcare), biodegradable packaging.
+- **Output**: food, 10,000 free meals/day, healthcare for 10,000 residents.
 
 ### Hotels (2 units, 50,000 m² each)
 - **Design**: 15 floors, 500 rooms/unit, restaurants, shops.
