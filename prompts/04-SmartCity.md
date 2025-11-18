@@ -30,7 +30,7 @@ The Earth-Star Industries Smart City Complex is a modular hub-and-spoke urban ec
 ## Components and Kits
 All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 cm thick, 50 cm for foundations; 60% SiC, 25% Al₂O₃, 10% graphene/CNTs, 5% ZrO₂; 2,800 MPa compressive strength, 700–900 MPa flexural, 20–30 MPa·m¹/² fracture toughness, >95% recyclability) and **Smart Studs** (1 m, $45/stud, 50 kg, ceramic composite, interlocking sockets). Assembly is automated via drones, DARPA Squad X AI, and Blockade snap-together systems, supplemented by trained human overseers. Kits are pre-certified under ICC 500/NFPA 101. Smart airlocks (AI-driven, weapons/explosives scanning, ISO 37122) are standard. All equipment is ceramic-based, sourced from the tile factory.
 
-### Luxurious Single-Family Homes (5,000 units)
+### Luxurious Single-Family Homes (10,000 units)
 - **Design**: 2,000 ft² (186 m²), 2 floors, 4–6 bedrooms, with Sustainable Urban Agriculture System Kit (300 ft² sunroom, pool, hot tub, sauna, kitchen).
 - **Output**: 75 kg/year fish, 1,125 kg/year crops, 150 liters/day water, 0.9 kg/day tiles, 0.2 kg/day CO₂ capture per home.
 - **Cost**: 80% market value..
@@ -46,7 +46,7 @@ All structures use **Enhanced Ceramic Tiles** (5 m², $10/tile, 200 kg, 10–15 
 - **Design**: 15 floors, theaters, entertainment, stores for Earth-Star products, home improvement, gourmet restaurants (halal, kosher, vegan).
 - **Output**: retail, restaurants, entertainment.
 
-### Low-Income Apartment Complex (1 unit, 50,000 m²)
+### Low-Income Apartment Complex (2 unit, 50,000 m²)
 - **Design**: 15 floors, 5,000 units (500 ft² each), soup kitchen/restaurant (free meals, healthcare), biodegradable packaging.
 - **Output**: food, 10,000 free meals/day, healthcare for 5,000 residents.
 
