@@ -347,5 +347,3 @@ Below are common failure modes with responses specific to this system.
 
 # License
 This document is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt provided attribution is retained.
-
-```markdown
