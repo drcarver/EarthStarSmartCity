@@ -32,6 +32,7 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
   - Atmospheric water generator micro-channels (where useful)
   - IoT sensor array for building monitoring
   - Thin printed buffer battery or supercapacitor (≤ 1 kWh per panel)
+  - Rain and fogcapure the an be made potable
 - Foundation and bulk storage: standard concrete with high recycled content; bulk LFP or flow batteries housed conventionally.
 - Energy: on-site biogas from organic waste fraction + grid + solar; standard combined-cycle or reciprocating engines (no pure-oxygen or exotic cycles without labelled pilot).
 - Water: 98 % closed-loop + AWG + rainwater; net exporter in humid climates.
