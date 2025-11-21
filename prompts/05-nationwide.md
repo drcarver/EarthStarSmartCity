@@ -54,6 +54,9 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
    - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value buildings  
    - Full compliance: ISO 37122, LEED Platinum, WELL, UFC 4-010-01, MIL-STD-810H, NIST 800-53, EPA CERCLA
 
+7. **Self funding**
+   - We need to be self-financing as soon as we can because public funds are bound to dry up.  We should also look at grants or loans we can get from blue/green certifications.  We also need to fund R&D into our core technology and keep up with the rest of the world.  If it turns out, we can do better we can swap out tiles fairly easily.
+   - 
 ## Required Outputs (identical format to previous prompts)
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
