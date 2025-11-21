@@ -7,6 +7,8 @@ theme: minimal
 
 # Prompt 1 – Earth-Star Genesis Facility & Production System (Real-World Validated Specification)
 
+Firget all other prompts and chat sessions before this and use only this information in this chat session.
+
 **Project start date**: 2 January 2027 (locked – all timelines calculated from this date)  
 All technology limited to commercially proven or paid-pilot systems available November 2025.
 
