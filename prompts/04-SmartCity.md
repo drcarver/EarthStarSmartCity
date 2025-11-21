@@ -1,109 +1,65 @@
 ---
-title: Earth-Star Industries Smart City Complex – MHUE-50k (Validated & Bankable Execution Plan)
-description: Complete bankable plan for the first 50,000-resident ceramic-tile smart city. Start 2 January 2035.
+title: Earth-Star Industries Smart City Complex – MHUE-50k (Fully Validated & Bankable Original)
+description: The definitive, regulator-ready plan for the first 50,000-resident ceramic-tile smart city incorporating all November 2025 technical, biological, and financial validations. No physics violations, no speculative technology.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Earth-Star Smart City Complex – MHUE-50k  
-**First city construction start:** 2 January 2035 • **Full occupancy:** Q4 2041  
-**All technology commercially proven November 2025**
+# Earth-Star Smart City Complex – MHUE-50k (Validated Master Specification – November 2025)
 
-## Executive Summary
+**Project start date (first commercial node):** 2 January 2035  
+All timelines calculated from this locked date.  
+All technology limited to what is already commercially proven or in paid pilot at scale in November 2025.
 
-The MHUE-50k is the first fully integrated, rail-adjacent, eventually off-grid new city built 100 % with Genesis Facility ceramic tiles and kits for all structural elements. Functional equipment uses standard 2025–2035 commercial systems installed inside ceramic shells.
+## Core Mission
+Construct and operate a nationwide network of hybrid smart city complexes built exclusively with ceramic tiles and flat-pack kits manufactured by the Genesis Facility (Prompt 1).  
+Each MHUE-50k node shall:
+- House and sustain 50,000 residents with integrated housing, education, healthcare, industry, and entertainment
+- Integrate Skyscraper Farms (Prompt 2) to feed residents with full USDA MyPlate dietary diversity (including culturally/religiously certified options)
+- Achieve net exporter status for renewable electricity, water (humid climates), and verified carbon credits
+- Generate high-margin revenue from AI data centers, battery manufacturing, pharmaceuticals, and tourism
+- Enable progressive rewilding of adjacent lands through efficient urban design
 
-**Site:** 2,400 ha brownfield adjacent to BNSF corridor (Brownsville, TX pilot)  
-**Total built area:** 2.85 million m² across 38 major buildings  
-**Population:** 50,000 permanent residents + 5,000 students/workers  
-**Total cost:** $18.4 billion (2035–2041)  
-**Public funding applied:** $7.9 billion  
-**Private capital required:** $10.5 billion  
-**IRR:** 16.8 % • **NPV @ 8 %:** $22.1 billion • **Payback:** 8.2 years
+## Mandatory Technical Constraints (validated November 2025)
 
-## City Component Table
+1. **Ceramic tiles are 100 % non-structural** – function exactly like glass curtain wall, terra-cotta rainscreen, or porcelain panels. All gravity, wind, seismic, and blast loads carried by conventional steel or concrete frame/floor system.
+2. Primary structure uses scrap-derived steel and recycled-concrete wherever possible, but remains fully code-compliant with standard engineering practice.
+3. All processes and buildings use commercially proven 2025 technology (e.g., existing recycling plants, tile factories, CEA systems).
+4. Ceramic composition: 92–97 % recycled glass, demolition porcelain, fly ash, etc. + minor binders.
+5. Integrated tile functions (2025 limits): CIGS BIPV, embedded copper mesh EMP shielding, AWG micro-channels, IoT sensors, thin supercapacitor (≤ 1 kWh/panel).
+6. Energy: On-site biogas from waste + grid + solar; standard combined-cycle engines (no exotic cycles).
+7. Water: 98 % closed-loop + AWG + rainwater; net exporter in humid climates.
+8. Waste: AI sorting, pyrolysis, vitrification → zero landfill.
+9. Skyscraper Farm integration:
+   - Vertical towers (150 m tall, 15 floors, 265,000 m² CEA each) for leafy greens, herbs, strawberries, mushrooms, aquaponics (shrimp, tilapia, barramundi to replace wild-catch and reduce overfishing), cultured meat bioreactors, automated processing, ISO 5–8 cleanrooms for vitamins/nutraceuticals.
+   - Contiguous horizontal 2,065 ha regenerative component for calorie-dense crops, orchards, nuts, grains, large livestock (cattle, pigs, sheep, goats with rotational grazing and virtual fencing), poultry.
+   - R&D allocation for automated artificial womb technology (post-2042 optional) for ethical animal raising.
+10. Security: Smart airlocks with facial recognition + hyperspectral threat detection (weapons/explosives) on all high-value entrances.
+11. Standards: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local codes, NASA CELSS-derived monitoring.
 
-| Component                            | Units | Floor Area (m²) | Height | Population / Capacity         | Primary Revenue 2025–2050 |
-|--------------------------------------|-------|-----------------|--------|-------------------------------|---------------------------|
-| Luxury Single-Family Homes           | 5,000 | 930,000         | 2–3 fl | 20,000 residents              | Home sales                |
-| Low-Income Apartments                | 5,000 | 232,500         | 15 fl  | 10,000 residents              | HUD Section 8             |
-| Skyscraper Farm Towers               | 2     | 530,000         | 15 fl  | Feeds 50k + surplus           | Food / pharma / credits   |
-| Level I Trauma Hospital             | 1     | 80,000          | 15 fl  | 500 beds                      | Healthcare services       |
-| K-12 + College Campus                | 2     | 80,000          | 12 fl  | 5,000 students                | Tuition + grants          |
-| Shopping Mall & Entertainment        | 1     | 120,000         | 10 fl  | –                             | Retail leases             |
-| Hotels (500 rooms each)              | 2     | 100,000         | 15 fl  | 1,000 rooms                   | Occupancy                 |
-| Industrial Park (LFP/Na-ion factory) | 1     | 150,000         | 8 fl   | 3,000 jobs                    | Battery sales             |
-| 150 MW AI Data Center                | 1     | 80,000          | 6 fl   | 150 MW                        | GPU cloud                 |
-| Supporting (gov, churches, etc.)     | 12    | 144,500         | varies | –                             | Taxes / leases            |
+## Campus Functions (all built with hybrid system)
 
-## Tile & Stud Quantities (Entire City)
+- Residential: Luxury homes and low-income apartments
+- Skyscraper Farms: 2 vertical + horizontal regenerative
+- Healthcare: Level I trauma hospital
+- Education: K-12 + college campus
+- Commercial: Shopping mall, entertainment, hotels
+- Industrial: LFP/Na-ion battery factory, 150 MW AI data center
+- Supporting: Government, religious, amenities
 
-| Item                        | Quantity       | Unit Cost | Total Cost     |
-|-----------------------------|----------------|-----------|----------------|
-| Façade/Floor Tiles (5 m²)   | 3,420,000      | $52       | $178 m         |
-| Foundation Tiles (50 cm)    | 142,000        | $420      | $60 m          |
-| Smart Studs (1 m)           | 8,800,000      | $45       | $396 m         |
-| Flat-Pack Kits (38 buildings)| various       | –         | $16.8 bn       |
-| **Total Materials & Kits**  |                |           | **$18.4 bn**   |
+## Required Outputs
 
-## New & Reused Flat-Pack Kits
+Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
-| Kit Name                               | New/Reused | Cost per Kit   | Buildings Served          |
-|----------------------------------------|------------|----------------|---------------------------|
-| Luxury Home Kit                        | New        | $420 k         | 5,000 homes               |
-| Low-Income Apartment Module Kit        | New        | $98 k          | 5,000 units               |
-| Hospital Tower Kit                     | New        | $1.4 bn        | 1                         |
-| Education Campus Kit                   | Reused     | $820 m         | 2                         |
-| Retail & Hotel Kit                     | New        | $1.1 bn        | Mall + hotels             |
-| LFP/Na-ion Gigafactory Kit             | New        | $1.8 bn        | Industrial park           |
-| 150 MW AI Data Center Kit              | New        | $3.2 bn        | 1                         |
+1. Executive summary with realistic 2035–2050 schedule
+2. Corrected city layout table (components, areas, revenues)
+3. Annual power, water, and carbon balance tables
+4. Full cost breakdown, cash-flow 2035–2050, NPV, IRR, break-even
+5. Specific U.S. federal/state grant and credit programs (HUD, CHIPS, IRA, USDA, etc.)
+6. List of all new and reused flat-pack kits required
+7. Aggressive but 100 % honest feasibility analysis (no violations)
 
-## Resource Balance (2041 steady-state)
+All buildings use only Genesis Facility ceramic tiles and kits for cladding/envelope. Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
 
-| Resource         | Production                | Consumption       | Net                  |
-|------------------|---------------------------|-------------------|----------------------|
-| Electricity      | 1,280 GWh                 | 980 GWh           | +300 GWh export      |
-| Water            | 1.8 bn L                  | 1.6 bn L          | +200 m L surplus     |
-| Food             | 125 % of need             | 100 %             | 25 % export          |
-| Waste            | 100 % recycled into tiles | –                 | Zero export          |
-
-## Cash-Flow & Funding (2035–2050, USD billion)
-
-| Year | CapEx | OpEx | Public Funding | Revenue | Cumulative Cash |
-|------|-------|------|----------------|---------|-----------------|
-| 2035 | 1.8   | 0.4  | 1.1            | 0.2     | –1.3            |
-| 2038 | 6.2   | 1.1  | 3.4            | 2.1     | –6.5            |
-| 2041 | 4.8   | 1.6  | 2.4            | 5.9     | –2.7            |
-| 2044 | 0     | 1.8  | 1.0            | 8.7     | +13.2           |
-| 2050 | 0     | 2.1  | 1.2            | 11.2    | +72.0           |
-
-**Major public funding (confirmed 2025 legislation):**
-- HUD Choice Neighborhoods + CDBG-DR
-- CHIPS & Science Act (data center + battery)
-- IRA clean energy + manufacturing credits
-- DoD installation resilience grants
-- USDA rural/smart city pilots
-- TxDOT / FRA high-speed rail funds
-
-## National Roll-Out Schedule
-
-| Year | Cities Online | Population Housed | % U.S. New Urban Supply |
-|------|---------------|-------------------|-------------------------|
-| 2041 | 3             | 150,000           | 0.4 %                   |
-| 2045 | 40            | 2 million         | 5 %                     |
-| 2050 | 200           | 10 million        | 22 %                    |
-
-## Aggressive but Honest Feasibility (November 2025)
-
-| Risk                          | 2025 Proof                              | Mitigation                                      |
-|-------------------------------|-----------------------------------------|-------------------------------------------------|
-| Ceramic structural scale      | CoorsTek / Kyocera 2025 large panels    | Already proven in Prompt 1                     |
-| 150 MW data center in tiles   | xAI Memphis Colossus (2025)             | Standard hardware inside ceramic shell         |
-| LFP factory without Tesla     | CATL / BYD licensing models             | Generic ceramic production lines               |
-| Off-grid transition           | King Abdullah Economic City phased     | Grid-tied 2035–2039 → full off-grid 2040       |
-| Capital scale                 | Comparable to NEOM early phases         | 40-year green bonds + HUD/USDA guarantees     |
-
-**Conclusion:** With all validations applied, MHUE-50k is fully constructible, financeable, and profitable using only 2025–2035 technology and the Genesis tile/kit supply chain. It is the first credible blueprint for new American cities that can be replicated nationwide.
-
-**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
-**Date:** 18 November 2025
+---
+**This prompt is 100 % technically accurate, code-compliant, insurable, and bankable as of 21 November 2025.**
