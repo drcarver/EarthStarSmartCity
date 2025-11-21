@@ -50,6 +50,14 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
 - Full compliance: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local seismic/hurricane codes, NASA CELSS-derived monitoring where applicable
 
+## Smart Roads
+- **Primary market remains building cladding** — predictable, large volume, lower certification cost.
+- **Allocate 15–25 % of Genesis Line 2 capacity** to certified smart-road variants (higher firing specs, embedded sensors, anti-slip coatings).
+- **Bid aggressively on**:
+   - FHWA/IIJA noise-barrier solar projects (2026–2027 rounds)
+   - Port electrification grants (PORT Infrastructure Development Program)
+   - USDOT INFRA + Charging & Fueling grants for inductive lanes
+
 ## Deliverables Required in Response
 Generate a complete executive summary and project plan containing:
 1. Realistic timeline from 2027 start to full production
