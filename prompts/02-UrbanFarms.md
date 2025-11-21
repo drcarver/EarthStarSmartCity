@@ -36,6 +36,7 @@ Each node shall:
    - Optional Sabatier reactor (CO₂ + green H₂ → additional methane) – commercial pilots only
    - Standard combined-cycle methane turbines (62 % efficiency) or existing grid biogas engines
    - NO pure-oxygen combustion, NO “methylation processes”, NO micro-turbines with O₂ boost
+   - Include compliant façade heat-recovery system (ventilated cavity + optional rear-face capillary mats feeding central high-temp heat pumps). Standard on all production-hall and kiln-building façades
 
 4. Water systems:
    - 98 % recycling (Singapore NEWater standard, 2025)
