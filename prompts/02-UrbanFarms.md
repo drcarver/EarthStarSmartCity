@@ -29,7 +29,7 @@ Each node shall:
    - Automated bakery, dairy processing, confectionery, distillery
    - ISO 5–8 cleanrooms for vitamins, botanical extracts, and sterile hospital supplies
 
-2. All calorie-dense crops, full-size orchards, nuts, cotton, tobacco, grains, large livestock (cattle, pigs, sheep, goats), and poultry at scale are grown/raised on the contiguous horizontal 2,065 hectare (5,100 acre) regenerative component using 2025-proven no-till, cover cropping, silvopasture, and holistic planned grazing methods.
+2. All calorie-dense crops, full-size orchards, nuts, cotton, tobacco, grains, large livestock (cattle, pigs, sheep, goats), and poultry at scale are grown/raised on the contiguous horizontal 2,065 hectare (5,100 acre) regenerative component using 2025-proven no-till, cover cropping, silvopasture, and holistic planned grazing methods.  These are greenhouse built using our clear tiles and HVAC equipment.  Utilie geothermal when posssible.
 
 3. Energy systems:
    - Anaerobic digestion of all biomass waste → biogas
