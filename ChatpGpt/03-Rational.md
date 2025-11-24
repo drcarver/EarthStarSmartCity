@@ -242,5 +242,3 @@ You are free to share and adapt with attribution.
 
 ---
 **© Earth-Star Industries — Prompt 3 Rationale (2025-Validated)**
-
-```markdown
