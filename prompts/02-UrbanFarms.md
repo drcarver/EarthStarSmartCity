@@ -19,6 +19,7 @@ Each node shall:
 - Be net exporter of renewable electricity and water (humid climates)
 - Generate additional high-margin revenue from vitamins, cultured meat, biodegradable packaging, pharmaceuticals (nutraceuticals & simple APIs), and verified carbon credits
 - Enable progressive rewilding of >800 million acres of existing U.S. farmland by 2045
+- Do as much permitting and construcio in paralell as possible
 
 ## Mandatory Technical Constraints (validated November 2025)
 
