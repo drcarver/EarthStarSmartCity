@@ -32,28 +32,29 @@ Each node shall:
 2. All calorie-dense crops, full-size orchards, nuts, cotton, tobacco, grains, large livestock (cattle, pigs, sheep, goats), and poultry at scale are grown/raised on the contiguous horizontal 2,065 hectare (5,100 acre) regenerative component using 2025-proven no-till, cover cropping, silvopasture, and holistic planned grazing methods.
 3. Phase in Geeenhouse built using our clear tiles and HVAC equipment.  Utilie geothermal when posssible.  Cover all crops with greenhouses inclding Open-field Regenerative and Silvopasture & Orchards.  Assume we supplemnt LED's for additional lighting.  Pastures use agrivoltaic canopies.  THese all plug into our smart grid and water systems for rainwater capture and AWG
 4. Create our own windmill kits that plug into our smart grid and use as needed on the horizontal farms and Integrate windmills into aquaponics
+5. purchase mature nut and fruit orchards for transplanr as soon as possuble for faster yield
 
-5. Energy systems:
+6. Energy systems:
    - Anaerobic digestion of all biomass waste → biogas
    - Optional Sabatier reactor (CO₂ + green H₂ → additional methane) – commercial pilots only
    - Standard combined-cycle methane turbines (62 % efficiency) or existing grid biogas engines
    - NO pure-oxygen combustion, NO “methylation processes”, NO micro-turbines with O₂ boost
    - Include compliant façade heat-recovery system (ventilated cavity + optional rear-face capillary mats feeding central high-temp heat pumps). Standard on all production-hall and kiln-building façades
 
-6. Water systems:
+7. Water systems:
    - 98 % recycling (Singapore NEWater standard, 2025)
    - Atmospheric water generators integrated in façade tiles
    - Geothermal heat pumps (COP > 5) for HVAC efficiency
 
-7. Animal systems:
+8. Animal systems:
    - Large livestock and poultry in ceramic-tile flat-pack barns on the horizontal site
    - Rotational grazing with virtual fencing and solar-powered herding robots (2025 John Deere / Gallagher)
 
-8. Pharmaceutical / cleanroom scope:
+9. Pharmaceutical / cleanroom scope:
    - ISO 5–8 ceramic cleanroom kits for nutraceuticals, vitamins (C, D, B-complex from algae/yeast), botanical APIs, sterile gauze, biodegradable syringes, IV bags
    - NO complex biologics or injectables until separate stainless facility (post-2040)
 
-9. Rewilding:
+10. Rewilding:
    - All purchased excess farmland is rewilded with native seed banks and managed herds
    - NO artificial wombs – bison, elk, etc. introduced via conventional breeding programs
 
