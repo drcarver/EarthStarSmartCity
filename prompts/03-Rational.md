@@ -11,6 +11,7 @@ agricultural system it still seems to have a very high viability without much mi
 Assume we're going to research into automated womb technology so that we can provide for more ethical raising of farm animals.  Use aquaponics to supply any wild caught fish or anything so that we can reduce the
 amount of fishing done for overfishing.  How does ths effect the project viability?
 
+Implement all recomendations
 
 License
 This document is licensed under the Creative Commons Attribution 4.0 International License.
