@@ -30,7 +30,7 @@ Each node shall:
    - ISO 5–8 cleanrooms for vitamins, botanical extracts, and sterile hospital supplies
 
 2. All calorie-dense crops, full-size orchards, nuts, cotton, tobacco, grains, large livestock (cattle, pigs, sheep, goats), and poultry at scale are grown/raised on the contiguous horizontal 2,065 hectare (5,100 acre) regenerative component using 2025-proven no-till, cover cropping, silvopasture, and holistic planned grazing methods.
-3. Phase in Geeenhouse built using our clear tiles and HVAC equipment.  Utilie geothermal when posssible.  Only cover crops with greenhouses.  Assume we supplemnt LED's for additional lighting.  Pastures use agrivoltaic canopies.  THese all plug into our smart grid and water systems for rainwater capture and AWG
+3. Phase in Geeenhouse built using our clear tiles and HVAC equipment.  Utilie geothermal when posssible.  Cover all crops with greenhouses.  Assume we supplemnt LED's for additional lighting.  Pastures use agrivoltaic canopies.  THese all plug into our smart grid and water systems for rainwater capture and AWG
 4. No wind power for now
 
 5. Energy systems:
