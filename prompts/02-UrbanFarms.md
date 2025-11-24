@@ -31,7 +31,7 @@ Each node shall:
 
 2. All calorie-dense crops, full-size orchards, nuts, cotton, tobacco, grains, large livestock (cattle, pigs, sheep, goats), and poultry at scale are grown/raised on the contiguous horizontal 2,065 hectare (5,100 acre) regenerative component using 2025-proven no-till, cover cropping, silvopasture, and holistic planned grazing methods.
 3. Phase in Geeenhouse built using our clear tiles and HVAC equipment.  Utilie geothermal when posssible.  Cover all crops with greenhouses inclding Open-field Regenerative and Silvopasture & Orchards.  Assume we supplemnt LED's for additional lighting.  Pastures use agrivoltaic canopies.  THese all plug into our smart grid and water systems for rainwater capture and AWG
-4. Create our own windmill kits that plug into our smart grid and use as needed on the horizontal farms. 
+4. Create our own windmill kits that plug into our smart grid and use as needed on the horizontal farms and Integrate windmills into aquaponics
 
 5. Energy systems:
    - Anaerobic digestion of all biomass waste → biogas
