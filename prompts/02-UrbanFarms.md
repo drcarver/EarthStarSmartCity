@@ -50,6 +50,7 @@ Each node shall:
 8. Animal systems:
    - Large livestock and poultry in ceramic-tile flat-pack barns on the horizontal site
    - Rotational grazing with virtual fencing and solar-powered herding robots (2025 John Deere / Gallagher)
+   - begin research into bioreactor-driven tissue agriculture to replace livestock
 
 9. Pharmaceutical / cleanroom scope:
    - ISO 5–8 ceramic cleanroom kits for nutraceuticals, vitamins (C, D, B-complex from algae/yeast), botanical APIs, sterile gauze, biodegradable syringes, IV bags
