@@ -29,29 +29,31 @@ Each node shall:
    - Automated bakery, dairy processing, confectionery, distillery
    - ISO 5–8 cleanrooms for vitamins, botanical extracts, and sterile hospital supplies
 
-2. All calorie-dense crops, full-size orchards, nuts, cotton, tobacco, grains, large livestock (cattle, pigs, sheep, goats), and poultry at scale are grown/raised on the contiguous horizontal 2,065 hectare (5,100 acre) regenerative component using 2025-proven no-till, cover cropping, silvopasture, and holistic planned grazing methods.  These are greenhouse built using our clear tiles and HVAC equipment.  Utilie geothermal when posssible.
+2. All calorie-dense crops, full-size orchards, nuts, cotton, tobacco, grains, large livestock (cattle, pigs, sheep, goats), and poultry at scale are grown/raised on the contiguous horizontal 2,065 hectare (5,100 acre) regenerative component using 2025-proven no-till, cover cropping, silvopasture, and holistic planned grazing methods.
+3. Phase in Geeenhouse built using our clear tiles and HVAC equipment.  Utilie geothermal when posssible.  Only cover crops with greenhouses.  Assume we supplemnt LED's for additional lighting.  Pastures use agrivoltaic canopies.  THese all plug into our smart grid and water systems for rainwater capture and AWG
+4. No wind power for now
 
-3. Energy systems:
+5. Energy systems:
    - Anaerobic digestion of all biomass waste → biogas
    - Optional Sabatier reactor (CO₂ + green H₂ → additional methane) – commercial pilots only
    - Standard combined-cycle methane turbines (62 % efficiency) or existing grid biogas engines
    - NO pure-oxygen combustion, NO “methylation processes”, NO micro-turbines with O₂ boost
    - Include compliant façade heat-recovery system (ventilated cavity + optional rear-face capillary mats feeding central high-temp heat pumps). Standard on all production-hall and kiln-building façades
 
-4. Water systems:
+6. Water systems:
    - 98 % recycling (Singapore NEWater standard, 2025)
    - Atmospheric water generators integrated in façade tiles
    - Geothermal heat pumps (COP > 5) for HVAC efficiency
 
-5. Animal systems:
+7. Animal systems:
    - Large livestock and poultry in ceramic-tile flat-pack barns on the horizontal site
    - Rotational grazing with virtual fencing and solar-powered herding robots (2025 John Deere / Gallagher)
 
-6. Pharmaceutical / cleanroom scope:
+8. Pharmaceutical / cleanroom scope:
    - ISO 5–8 ceramic cleanroom kits for nutraceuticals, vitamins (C, D, B-complex from algae/yeast), botanical APIs, sterile gauze, biodegradable syringes, IV bags
    - NO complex biologics or injectables until separate stainless facility (post-2040)
 
-7. Rewilding:
+9. Rewilding:
    - All purchased excess farmland is rewilded with native seed banks and managed herds
    - NO artificial wombs – bison, elk, etc. introduced via conventional breeding programs
 
