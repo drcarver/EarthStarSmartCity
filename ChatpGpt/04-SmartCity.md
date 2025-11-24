@@ -243,5 +243,3 @@ You may share and adapt with attribution.
 
 ---
 **© Earth-Star Industries — MHUE-50k Smart City Complex (Validated 2025)**
-
-```markdown
