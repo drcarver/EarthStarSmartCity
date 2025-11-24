@@ -6,7 +6,7 @@ The Earth-Star Sustainable abundance system is a revolutionary modular hub-and-s
 
 | # | Document Title                                      | Focus Area                                 | Key Output / Milestone                         | Date Added   |
 |---|-----------------------------------------------------|--------------------------------------------|------------------------------------------------|--------------|
-| 1 | **Prompt 1 – Genesis Facility**                     | Waste-to-ceramic megafactory               | First factory online 2027 → 18 megafactories by 2055 | Core         |
+| 1 | **[Prompt 1 – Genesis Facility](prompts/01-tilefactory.md)/**                     | Waste-to-ceramic megafactory               | First factory online 2027 → 18 megafactories by 2055 | Core         |
 | 2 | **Prompt 2–4 – Skyscraper Farm (Hybrid)**           | Food & energy node (20,000 people)         | Node 1 complete 2043 → 9,300 nodes by 2095    | Core         |
 | 3 | **Prompt 5 – MHUE-50k Smart City**                  | 50,000-resident smart city                 | First city occupied 2041 → 7,200 cities by 2095| Core         |
 | 4 | **Prompt 6 – National Transformation Strategy**    | 60-year master plan                        | Full programme cost, funding, HSR, rewilding   | Master       |
