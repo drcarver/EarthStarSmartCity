@@ -27,14 +27,6 @@ The Earth-Star Sustainable abundance system is a revolutionary modular hub-and-s
 6. Prompt 6 → The full 60-year vision  
 7. Part 9 → Why nothing short of planetary extinction stops us  
 
-## Key Features
-- **Modular Construction**: Enhanced Ceramic Tiles (2,800 MPa strength, PV/AWG/battery-integrated) and Smart Studs enable rapid, sustainable builds, rivaling conventional methods by reducing time (50–70%) and cost (40–60%).
-- **Sustainability**: 90% waste recycling, 1,557.575 MW renewable energy per city (solar, biogas, smart roads), 317,805–615,815 tons/year CO₂ sequestration, 90% water recycling.
-- **Urban Ecosystem**: 5,000 smart homes, 5 farm towers (36,800 tons/year food), hospital, school, mall, and more, feeding 94,340 per farm and supporting 20,000 residents per city.
-- **AI and Innovation**: Cleanrooms produce semiconductors (1,000 microcontrollers/day), data centers (100 MW) drive AI, and industrial complexes foster startups.
-- **Scalability**: Exponential growth via parallel construction (1,000 factories by Year 3) to build 16,650 cities, housing 333M by 2040.
-- **Financials**: $1.65B CapEx per city, $4.29–$4.83B/year revenue, 260–292% ROI, breakeven Month 12, funded by $1–2T (grants, bonds, ROI).
-
 ### Grok Responsess
 Explore the Grok responses for the Earth-Star Sustainable Smart City:
 
@@ -59,8 +51,8 @@ Explore the Grok responses for the Earth-Star Sustainable Smart City:
 10. [Reslence](grok/10-resilience.md) 
     City resilence to man made and natural disaters.
 
-### ChatGpt 4 Responsess
-Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
+### ChatGpt Responsess
+Explore the ChatGpt responses for the Earth-Star Sustainable Smart City:
 
 1. [Tile factory](ChatpGpt/01-tilefactory.md)  
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
