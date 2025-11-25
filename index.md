@@ -27,10 +27,6 @@ The Earth-Star Sustainable abundance system is a revolutionary modular hub-and-s
 6. Prompt 6 → The full 60-year vision  
 7. Part 9 → Why nothing short of planetary extinction stops us  
 
-All documents are licensed under **CC BY 4.0** – share, adapt, and build freely with attribution.
-
-© 2025 Earth-Star IndustriesISO, NATO, military, and building standards, positioning the US as an AI superpower through resilient, zero-waste infrastructure.
-
 ## Key Features
 - **Modular Construction**: Enhanced Ceramic Tiles (2,800 MPa strength, PV/AWG/battery-integrated) and Smart Studs enable rapid, sustainable builds, rivaling conventional methods by reducing time (50–70%) and cost (40–60%).
 - **Sustainability**: 90% waste recycling, 1,557.575 MW renewable energy per city (solar, biogas, smart roads), 317,805–615,815 tons/year CO₂ sequestration, 90% water recycling.
@@ -91,6 +87,8 @@ Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
 The Earth-Star project is open-source, inviting collaboration from innovators, investors, and policymakers. Visit the [GitHub repository](https://github.com/drcarver/EarthStarSmartCity) to contribute, or contact us via [X](https://x.com/) for partnership opportunities.
 
 ---
+All documents are licensed under **CC BY 4.0** – share, adapt, and build freely with attribution.
 
-**License**: CC0 1.0 Universal  
+© 2025 Earth-Star IndustriesISO, NATO, military, and building standards, positioning the US as an AI superpower through resilient, zero-waste infrastructure.
+
 **Last Updated**: September 7, 2025
