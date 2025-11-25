@@ -36,7 +36,9 @@ Each MHUE-50k node shall:
    - R&D allocation for automated artificial womb technology (post-2042 optional) for ethical animal raising.
 10. Security: Smart airlocks with facial recognition + hyperspectral threat detection (weapons/explosives) on all high-value entrances.
 11. The whole city is DC as much as possible.  We will supply a DC only version of Home Appliances and Home Electronics including a full computer line.
-12. Standards: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local codes, NASA CELSS-derived monitoring.
+12. Provide for a line of electric barges to haul garbage and other shipping.
+13. spokes handle all heavy trafiic.  All other roads are true smart roads built with out foundation and regular tiles to harves rain and provide water and electricity.
+14. Standards: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local codes, NASA CELSS-derived monitoring.
 
 ## Campus Functions (all built with hybrid system)
 
