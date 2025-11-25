@@ -35,7 +35,8 @@ Each MHUE-50k node shall:
    - Contiguous horizontal 2,065 ha regenerative component for calorie-dense crops, orchards, nuts, grains, large livestock (cattle, pigs, sheep, goats with rotational grazing and virtual fencing), poultry.
    - R&D allocation for automated artificial womb technology (post-2042 optional) for ethical animal raising.
 10. Security: Smart airlocks with facial recognition + hyperspectral threat detection (weapons/explosives) on all high-value entrances.
-11. Standards: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local codes, NASA CELSS-derived monitoring.
+11. The whole city is DC as much as possible.  We will supply a DC only version of Home Appliances and Home Electronics including a full computer line.
+12. Standards: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local codes, NASA CELSS-derived monitoring.
 
 ## Campus Functions (all built with hybrid system)
 
