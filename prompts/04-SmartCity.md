@@ -59,8 +59,9 @@ Generate a complete, self-contained GitHub-Markdown executive summary and projec
 3. Annual power, water, and carbon balance tables
 4. Full cost breakdown, cash-flow 2035–2050, NPV, IRR, break-even
 5. Specific U.S. federal/state grant and credit programs (HUD, CHIPS, IRA, USDA, etc.)
-6. List of all new and reused flat-pack kits required
-7. Aggressive but 100 % honest feasibility analysis (no violations)
+6. Detailed financials for electronics and appliances
+7. List of all new and reused flat-pack kits required
+8. Aggressive but 100 % honest feasibility analysis (no violations)
 
 All buildings use only Genesis Facility ceramic tiles and kits for cladding/envelope. Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
 
