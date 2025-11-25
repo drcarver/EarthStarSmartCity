@@ -39,35 +39,8 @@ All documents are licensed under **CC BY 4.0** – share, adapt, and build freel
 - **Scalability**: Exponential growth via parallel construction (1,000 factories by Year 3) to build 16,650 cities, housing 333M by 2040.
 - **Financials**: $1.65B CapEx per city, $4.29–$4.83B/year revenue, 260–292% ROI, breakeven Month 12, funded by $1–2T (grants, bonds, ROI).
 
-## Project Components
-Explore the detailed components of the Earth-Star Sustainable Smart City:  There are a set of detailed prompts for each component.  These identical prompts were used on GroK 4 and ChaptGpt 4 and the prompts and respnses from both are given below.
-
-### Prompts
-Explore the detailed prompts for AI to define the Earth-Star Sustainable Smart City:
-
-1. [Tile factory](prompts/01-tilefactory.md)  
-   A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
-2. [Earth-Star Sustainable Farm](prompts/02-UrbanFarms.md)  
-   15-floor tower producing 36,800 tons/year food and non-food products.
-3. [Earth-Star Sustainable Farm Rational](prompts/03-Rational.md)  
-   Rationale for why this vertical farm will scced vs. others..
-4. [Smart City Ecosystem](prompts/04-SmartCity.md) 
-   Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-5. [Nationwide](prompts/05-nationwide.md) 
-   Expand the cities to nationwide and environmnet cleanup.
-6. [Undersea Cities](prompts/06-undersea.md) 
-   Expand the cities uder the sea to provide for research and environmnet cleanup.
-7. [Floating Cites](prompts/07-FloatngCity.md) 
-   Earthstar cities on the ocean
-8. [Tiles and kits catalog](prompts/08-tilesandkits.md) 
-   Catalog of tiles and kits sed n the system.
-9. [Feasibility and Viability](prompts/09-feasability.md) 
-   Technical, economic, and regulatory analysis, with 90% feasibility.
-10. [Reslence](prompts/10-resilience.md) 
-    City resilence to man made and natural disaters.
-
-### Grok 4 Responsess
-Explore the Grok 4 responses for the Earth-Star Sustainable Smart City:
+### Grok Responsess
+Explore the Grok responses for the Earth-Star Sustainable Smart City:
 
 1. [Tile factory](grok/01-tilefactory.md)  
    A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
