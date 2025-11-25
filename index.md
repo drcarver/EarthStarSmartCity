@@ -17,7 +17,7 @@ The Earth-Star Sustainable abundance system is a revolutionary modular hub-and-s
 |  9 | **[Part 9 – Total Disaster Resilience Analysis](prompts/09-resilience.md)**    | Natural & man-made catastrophe survival    | Survives full nuclear war + nuclear winter     | Resilience   |
 | 10 | **[Part 10 – Top 10 Risks & Quick Wins Dashboard](prompts/10-Top10Risk.md)**   | Risk matrix + 2026–2030 actions            | 5 quick wins that make the whole project inevitable | Execution |
 | 11 | **[README](README.md)**                                       | Project overview & licence                 | One-page introduction                          | Overview     |
-| 12 | **[INDEX]{INDEX.md)** ← you are here                         | Master navigation                          | This file                                      | Navigation   |
+| 12 | **[INDEX](INDEX.md)** ← you are here                         | Master navigation                          | This file                                      | Navigation   |
 
 ### Recommended Reading Order
 1. README.md → 30-second overview  
