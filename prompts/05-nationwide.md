@@ -56,6 +56,47 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
 
 7. **Self funding**
    - We need to be self-financing as soon as we can because public funds are bound to dry up.  We should also look at grants or loans we can get from blue/green certifications.  We also need to fund R&D into our core technology and keep up with the rest of the world.  If it turns out, we can do better we can swap out tiles fairly easily.
+  
+   - # Earth-Star Industries – Official Plug-and-Play City Configuration Library  
+Nationwide & Global Expansion 2045–2150  
+(Approved configurations – all use identical tile kits, same royalty, same life-support closure)
+
+| Code | Name                              | Base Population | Max Population | Terrain / Location                     | Visual Signature                              | Individuality Score | First Operational | Number Built by 2150 (global) | Construction Premium vs Standard Hub |
+|------|-----------------------------------|-----------------|----------------|----------------------------------------|-----------------------------------------------|---------------------|-------------------|-------------------------------|--------------------------------------|
+| L-01 | Linear River Canyon               | 50 000          | 120 000        | River valleys, canyons                 | 4–12 km glowing ceramic canyon                | 9/10                | 2051 (San Antonio)| 1 180                         | +6 %                                 |
+| T-01 | Terraced Mountain                 | 40 000          | 90 000         | Hills ≥8 % slope                       | Stacked ceramic platforms cascading down hills | 10/10               | 2054 (Addis Ababa)| 1 420                         | +9 %                                |
+| F-01 | Forest Lattice                    | 35 000          | 70 000         | Existing forest canopy                 | Low-rise pods connected by skybridges in trees | 10/10               | 2057 (Austin)     | 980                           | +11 %                               |
+| O-01 | Surface Ocean Hex (Floating)       | 50 000          | 150 000        | Coastal or open ocean                  | Linked ceramic hexagons on water              | 9/10                | 2059 (Lagos)      | 820                           | +14 %                               |
+| C-01 | Crater Ring                       | 45 000          | 80 000         | Volcanic craters, meteor craters       | Circular terraces inside crater bowl          | 10/10               | 2062 (Jeju)       | 340                           | +7 %                                |
+| D-01 | Desert Star                       | 50 000          | 100 000        | Arid flat land                         | 5–8 radiating ceramic arms from oasis farm    | 8/10                | 2064 (Algiers)    | 760                           | +4 %                                |
+| V-01 | Vertical Coast Wall Coast          | 80 000          | 200 000        | Seafront cliffs                        | 300–600 m ceramic wall city                   | 8/10                | 2066 (Cape Town)  | 210                           | +18 %                               |
+| I-01 | Ice-Ring (under permanent ice cover)| 30 000          | 70 000         | Arctic/Antarctic sea ice               | Inverted ceramic domes under ice               | 9/10                | 2072 (Arctic Ring)| 90                            | +22 %                               |
+| M-01 | Mid-Water Drift (200 m depth)        | 60 000          | 140 000        | Open ocean thermocline                  | Cluster of tethered ceramic spheres            | 10/10               | 2081 (Gulf Stream) | 28                            | +38 %                               |
+| S-01 | Seafloor Arcology (≤4 km)           | 40 000          | 90 000         | Abyssal plain or ridge                 | Inverted ceramic towers on seabed              | 10/10               | 2089 (Clarion)    | 11                            | +65 %                               |
+| H-01 | Standard Hub-and-Spoke (baseline)  | 50 000          | 80 000         | Flat or gentle terrain                  | Classic 150 m central farm tower + rings        | 4/10               | 2039 (Pilot)      | 12 400                        | 0 % (baseline)                      |
+
+### Deployment Rules (locked into every licence agreement)
+
+- Any district may choose **any configuration** from the library at any time.  
+- All configurations use the **exact same tile catalogue** (T-01 to T-09) and pay the **same 5 % royalty**.  
+- Residents vote every 20 years whether to keep or switch configuration (retrofit possible in 30–42 months).  
+- Premiums above baseline are paid by local choice — no central subsidy required.
+
+### Expected Global Mix by 2150
+
+| Configuration          | % of Total Districts | Total Built | Dominant Regions |
+|------------------------|---------------------|-------------|------------------|
+| Standard Hub-and-Spoke  | 68 %                | 12 400     | Midwest US, China hold-outs, Russia |
+| Linear River / Terraced / Forest | 22 %            | 4 000       | Americas, Africa, Southeast Asia |
+| Ocean & Extreme        | 8 %                 | 1 460       | Coastal & polar nations |
+| Experimental (M-01/S-01)| 2 %                 | 140         | Science & prestige cities |
+
+Total districts worldwide in 2150: **≈18 000**  
+All built from the same ceramic bricks.  
+All culturally unique.
+
+Copy, paste, vote, build.  
+The future is modular.
    - 
 ## Required Outputs (identical format to previous prompts)
 
