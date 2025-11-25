@@ -14,9 +14,9 @@ The Earth-Star Sustainable abundance system is a revolutionary modular hub-and-s
 |  6 | **[Part 6 – “Fortress West” Programme](prompts/06-global.md)**  | Global                        | Earth-Star Industries Global Transformation Strategy       | Critical     |
 |  7 | **[Part 7 – Aggressive Feasibility & Self-Funding](prompts/07-feasability.md)**  | Financial survival                         | Permanent self-funding achieved **2051**       | Critical     |
 |  8 | **[Part 8 – Complete Tile & Kit Catalogue](prompts/08-tilesandkits.md)**          | 28 ceramic products + sensor handbook      | $28.4 T/yr revenue driver by 2055              | Technical    |
-|  9 | **[Part 9 – Total Disaster Resilience Analysis](prompts/09-resilience.md}**    | Natural & man-made catastrophe survival    | Survives full nuclear war + nuclear winter     | Resilience   |
-| 10 | **[Part 10 – Top 10 Risks & Quick Wins Dashboard](prompts/10-Top10Risk.md}**   | Risk matrix + 2026–2030 actions            | 5 quick wins that make the whole project inevitable | Execution |
-| 11 | **[README](README.md}**                                       | Project overview & licence                 | One-page introduction                          | Overview     |
+|  9 | **[Part 9 – Total Disaster Resilience Analysis](prompts/09-resilience.md)**    | Natural & man-made catastrophe survival    | Survives full nuclear war + nuclear winter     | Resilience   |
+| 10 | **[Part 10 – Top 10 Risks & Quick Wins Dashboard](prompts/10-Top10Risk.md)**   | Risk matrix + 2026–2030 actions            | 5 quick wins that make the whole project inevitable | Execution |
+| 11 | **[README](README.md)**                                       | Project overview & licence                 | One-page introduction                          | Overview     |
 | 12 | **[INDEX]{INDEX.md)** ← you are here                         | Master navigation                          | This file                                      | Navigation   |
 
 ### Recommended Reading Order
