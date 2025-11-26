@@ -51,8 +51,6 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 - Employee housing and amenities (mid-rise hybrid construction)
 
 ## Product Lines
-# Earth-Star Genesis Facility – Detailed Cost Breakdown & Revenue Model per Product (2030 Full Production)
-
 All figures in **2030 USD**, ex-works Genesis Facility (Midwest US).  
 Production: 500,000 m²/year total capacity (Line 1 + Line 2).  
 Assumptions locked to November 2025 real-world costs:
