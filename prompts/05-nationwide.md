@@ -57,9 +57,8 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
 7. **Self funding**
    - We need to be self-financing as soon as we can because public funds are bound to dry up.  We should also look at grants or loans we can get from blue/green certifications.  We also need to fund R&D into our core technology and keep up with the rest of the world.  If it turns out, we can do better we can swap out tiles fairly easily.
   
-   - # Earth-Star Industries – Official Plug-and-Play City Configuration Library  
-Nationwide & Global Expansion 2045–2150  
-(Approved configurations – all use identical tile kits, same royalty, same life-support closure)
+ ## Earth-Star Industries – Official Plug-and-Play City Configuration Library  
+So our woeld deoes not become a mono culure of hub and spoke ciies, residents can choose what they want their city to look like from the configurations below
 
 | Code | Name                              | Base Population | Max Population | Terrain / Location                     | Visual Signature                              | Individuality Score | First Operational | Number Built by 2150 (global) | Construction Premium vs Standard Hub |
 |------|-----------------------------------|-----------------|----------------|----------------------------------------|-----------------------------------------------|---------------------|-------------------|-------------------------------|--------------------------------------|
@@ -82,22 +81,6 @@ Nationwide & Global Expansion 2045–2150
 - Residents vote every 20 years whether to keep or switch configuration (retrofit possible in 30–42 months).  
 - Premiums above baseline are paid by local choice — no central subsidy required.
 
-### Expected Global Mix by 2150
-
-| Configuration          | % of Total Districts | Total Built | Dominant Regions |
-|------------------------|---------------------|-------------|------------------|
-| Standard Hub-and-Spoke  | 68 %                | 12 400     | Midwest US, China hold-outs, Russia |
-| Linear River / Terraced / Forest | 22 %            | 4 000       | Americas, Africa, Southeast Asia |
-| Ocean & Extreme        | 8 %                 | 1 460       | Coastal & polar nations |
-| Experimental (M-01/S-01)| 2 %                 | 140         | Science & prestige cities |
-
-Total districts worldwide in 2150: **≈18 000**  
-All built from the same ceramic bricks.  
-All culturally unique.
-
-Copy, paste, vote, build.  
-The future is modular.
-   - 
 ## Required Outputs (identical format to previous prompts)
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
