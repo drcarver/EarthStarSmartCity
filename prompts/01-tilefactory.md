@@ -52,6 +52,8 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 
 ## Product Lines
 
+Give a cost breakdown and revenue analysis for each.
+
 | # | Product | 
 | 1 | TerraCycle™ Rainscreen (base) |
 | 2 | TerraCycle™ BIPV Rainscreen |
@@ -63,35 +65,12 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 | 8 | Smart-Road Noise Barrier | 
 | 9 | Smart-Road Inductive Tile | 
 |10| TerraStore™ Buffer Panel |
-|11| DARPA Blockade Canister Set dir emergency shelters | 
+|11| DARPA Blockade Canister Set for emergency shelters | 
 |12| Potable Water & Solar Skid for home and porable.  Include hot and cold water and small batery management system | 
 |13| Cleanroom Wall System | 
 |14| Acoustic Interior Panel | 
 |15| Custom Digital-Print Tile |
 |16| Smart airlocks with facial recognition + hyperspectral threat detection
-
-*Note: Canister sets = 20 m² equivalent per set for capacity accounting.
-
-### 2030 Summary at Full Production (500,000 m² + 2,000 canister sets)
-
-| Item                                 | USD Million |
-|--------------------------------------|-------------|
-| Total ceramic product revenue        | **93.4**    |
-| Gate fees received (360,000 tons @ $78/ton) | **28.1**    |
-| **Total Revenue**                    | **121.5**   |
-| Direct production cost (all products)| **−53.8**   |
-| Energy, labor, maintenance, SG&A     | **−36.0**   |
-| **EBITDA**                           | **+31.7**   |
-| Depreciation & interest              | **−14.5**   |
-| **Pre-tax profit**                   | **17.2**    |
-| Gross margin (ceramic products only) | **42–57%**  |
-| Overall project gross margin (incl. gate fees) | **56%** |
-
-### Key Takeaways
-- The **base rainscreen (#1)** remains the profit engine (52% margin at scale).
-- High-value defense & infrastructure products (#8, #9, #11) deliver 55–57% margins despite low volume.
-- Gate fees alone cover ~60% of total opex — ceramic sales are almost pure margin.
-- Even with conservative 2030 pricing, facility generates **$31.7 M annual EBITDA** from Year 4 onward.
 
 ## Security & Standards
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
