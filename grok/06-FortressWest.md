@@ -1,4 +1,4 @@
-# Earth-Star Industries Global Transformation Strategy  
+# Earth-Star Industries Western Hemisphere Transformation Strategy  
 “Fortress West” Programme – Executive Summary & Bankable 2045–2092 Plan  
 (Validated November 2025 Baseline – All Mechanisms Exist Today)
 
