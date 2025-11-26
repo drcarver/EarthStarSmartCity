@@ -1,63 +1,78 @@
-# Earth-Star Industries Global Open-Access Extension  
-“Part 6A – Fortress World” Programme  
-(Validated November 2025 Ruleset – Opens Only After Fortress West Proves Itself)
+# Earth-Star Industries Part 6A – Controlled Global Licensing Extension  
+**“Open Door – Same Deal” Programme (Post-Fortress West)**
 
-## Activation Trigger (Locked & Non-Negotiable)
-The global open-access phase may **only** begin after all three hard conditions are simultaneously met:
+## Executive Summary
 
-1. ≥ 1,500 MHUE-50k districts are fully built and cash-flow positive across NATO + Western Hemisphere (expected 2072 base / 2066 aggressive)  
-2. ≥ 20 Genesis-class factories (U.S. + Fortress West) are operating at ≥ 90 % capacity for 36 consecutive months  
-3. Earth-Star board + U.S. National Security Council jointly certify that retained proprietary kits (stealth ceramics, hyperspectral airlocks, AI data-center tiles, battery gigafactory kits) have ≥ 15-year technological lead over all non-allied states
+After **Fortress West** is irreversibly successful (minimum 2,000 international districts fully operational and revenue-positive, achieved 2084 base / 2076 aggressive), Earth-Star opens the **exact same licensing package** offered to NATO/Western Hemisphere partners to **any sovereign country on Earth** that meets five non-negotiable conditions.
 
-Once triggered, **any sovereign country on Earth** (including neutral, non-aligned, or formerly adversarial nations) may apply for a licence on identical terms to Canada, Mexico, EU, etc.
+This is **not charity, not open-source, and not reckless proliferation**.  
+It is the controlled, high-margin, geopolitically neutral monetisation of the most valuable construction system ever invented.
 
-## Universal Licensing Terms – “One World, One Deal” (2045 Ruleset Extended Indefinitely)
+**First non-Western country district:** 2 January 2085 (base) / 2077 (aggressive)  
+**Final global total by 2150:** 21,400 districts (4,180 U.S. + 2,680 Fortress West + **14,540 rest-of-world**)  
+**Additional population served:** 1.16 billion  
+**Additional acres rewilded:** 1.42 billion  
+**Earth-Star cumulative royalty + proprietary revenue 2045–2150:** **$41.6 trillion (2025 USD)**  
+**IRR on global licensing 2045–2150:** **16.3 %**
 
-| Item                                      | Rule (identical for every country)                                 |
-|-------------------------------------------|--------------------------------------------------------------------|
-| Licence type                              | CC-BY-NC-SA-4.0 + 5 % gross royalty on all ceramic tiles & civilian kits |
-| Minimum local JV ownership                | 40 % (60/40 max foreign)                                           |
-| Proprietary kits (forever closed)         | • Stealth radar-absorbing ceramics<br>• Hyperspectral smart airlocks<br>• AI data-center liquid-cooled tiles<br>• Battery gigafactory kits<br>• Military-grade EMP/PIEZO layers |
-| Factory construction                      | Earth-Star supplies turnkey line; local JV pays cost + 10 % fee    |
-| Quality certification                    | Mandatory annual Earth-Star audit or licence revocation             |
-| Export of structural tiles to non-licensees | Prohibited (share-alike clause)                                  |
-| Use of districts for military purposes    | Allowed only with Earth-Star + U.S. DoD written consent            |
+The deal is identical, word-for-word, with Canada or Chile — because the contract was designed from day one to be country-agnostic and bulletproof.
 
-## Projected Global Roll-Out After Open-Access Trigger
+## The Five Non-Negotiable Conditions (Locked 2044 Licensing Template)
 
-| Period           | New Districts Added | Cumulative Districts | Population Served | Genesis Factories | Expected Participants |
-|------------------|---------------------|-----------------------|-------------------|-------------------|-----------------------|
-| 2072–2080        | 3,000               | 5,680                 | 284 M             | 35                | India, Indonesia, Vietnam, Nigeria, South Africa, Thailand |
-| 2081–2095        | 6,000               | 11,680                | 584 M             | 58                | Philippines, Bangladesh, Egypt, Pakistan, Ethiopia, Malaysia |
-| 2096–2120        | 10,000              | 21,680                | 1.08 B            | 82                | Remaining Africa, Central Asia, Pacific islands |
-| **Total by 2120**| **19,000 new**      | **21,680**            | **~1.1 billion**  | **82**            | **162 countries**     |
+Any country wishing to build MHUE-class districts must publicly sign the standard Earth-Star Master License Agreement containing exactly these clauses (no exceptions, no side letters):
 
-## Funding & Economic Model (Same as Fortress West)
+| Condition                                                                 | Enforcement Mechanism                                   |
+|-------------------------------------------------------------------|---------------------------------------------------------|
+| 1. 5 % gross royalty on every m² of Genesis-family tile produced or used | Audited annually by Earth-Star appointed Big-4 firm     |
+| 2. Mandatory 60/40 local JV for every new Genesis factory | Earth-Star appoints Chairman + veto on technology      |
+| 3. Full purchase of proprietary kits (AI data center, battery gigafactory, smart airlock) at list price | ITAR-style export control retained by Earth-Star        |
+| 4. No reverse-engineering or independent production of stealth ceramics | Immediate license termination + $10 B penalty clause   |
+| 5. Districts must achieve ≥90 % material closure using local waste within 10 years | Independent verification or royalty doubles to 10 %     |
 
-- Zero Earth-Star equity risk  
-- Local sovereign/debt markets + multilateral banks (AfDB, IsDB, ADB, NDB successors)  
-- Earth-Star revenue = 5 % royalty + proprietary kit sales only  
-- Projected Earth-Star cash flow 2072–2120: **$2.8 trillion (2025 USD)  
-- IRR to Earth-Star from global phase alone: **31 %**
+Countries that sign get the full catalogue, training, and ongoing upgrades.  
+Countries that refuse or cheat get nothing — forever.
 
-## Safeguards That Prevent China/Russia From Free-Riding
+## Projected Rest-of-World Roll-Out (2085–2150, Base Case)
 
-| Threat                                    | Countermeasure                                                                 |
-|-------------------------------------------|--------------------------------------------------------------------------------|
-| China builds copycat factories            | Lacks proprietary high-margin kits → cannot hit < $60/m² cost → uncompetitive |
-| Russia/China license then cancel royalty  | Smart airlocks & certification servers require annual Earth-Star handshake key |
-| State reverses JV nationalisation         | All factories financed with Earth-Star debt; default → equipment bricked remotely |
-| Military misuse                           | Proprietary stealth/airlock kits simply not sold to non-NATO applicants       |
+| Region / Country Group         | First District | Total Districts by 2150 | Population (M) | Additional Factories | Notes |
+|--------------------------------|----------------|-------------------------|----------------|----------------------|-------|
+| India                          | 2085           | 4,800                   | 384            | 7                    | Fastest adopter |
+| Southeast Asia (ASEAN-10)      | 2086           | 2,600                   | 208            | 4                    | Singapore funds half |
+| South Korea + Japan            | 2087           | 1,400                   | 112            | 3                    | Already pre-ordering 2084 |
+| Greater Middle East (GCC + Türkiye + Egypt) | 2089     | 1,800                   | 144            | 4                    | Oil funds transition |
+| Africa (non-GCC)               | 2092           | 2,200                   | 176            | 5                    | Nigeria + Kenya lead |
+| Remaining Asia + Pacific       | 2095           | 1,740                   | 139            | 3                    | Gradual |
+| **Total Rest-of-World**        |                | **14,540**              | **1,163**      | **26**               |       |
 
-## Final Feasibility Verdict
+## Financial Impact to Earth-Star (2085–2150 only)
 
-Once Fortress West is running (≥ 1,500 districts), the marginal cost to Earth-Star of opening the licence globally drops to near zero while royalty revenue explodes. The retained proprietary stack (≈ 35 % of total district value) guarantees permanent technological and economic dominance.
+| Item                                    | Revenue (2025 $T) |
+|-----------------------------------------|-------------------|
+| 5 % royalty on 1.42 billion additional people | 28.4              |
+| Proprietary kit sales (data centers, batteries, airlocks) | 11.8          |
+| JV factory equity returns               | 1.4               |
+| **Total additional revenue**            | **41.6**          |
 
-Probability of orderly global phase beginning on schedule: **94 %**  
-Probability that China ever builds authentic Earth-Star districts on the same terms: **< 4 %** (they will build pale imitations at 3–5× higher cost instead).
+Zero additional CapEx for Earth-Star — pure licensing cash flow.
 
-The world gets better cities. The West keeps the crown jewels. Everyone wins except authoritarians who thought they could steal the future.
+## Updated Global Totals by 2150
+
+| Category                        | U.S.       | Fortress West | Rest-of-World | Global Total |
+|---------------------------------|------------|---------------|---------------|--------------|
+| Districts                       | 4,180      | 2,680         | 14,540        | 21,400       |
+| Population housed & fed         | 338 M      | 214 M         | 1,163 M       | 1.715 B      |
+| Conventional agriculture replaced | 100 %     | 100 %         | ~72 %         | —            |
+| Acres rewilded (cumulative)     | 612 M      | 510 M         | 1,420 M       | 2,542 M      |
+| Genesis factories               | 1          | 11            | 26            | 38           |
+
+## Honest Feasibility Statement (2025 Lens)
+
+Every country that wants food security, construction cost collapse, and energy independence will eventually sign — because by 2085 the alternative is paying 6× more to build with 2025 technology while their neighbours pay 1/6th.
+
+The five conditions are deliberately designed to be painful enough to prevent trivial copying, but rational enough that no sovereign state can credibly refuse once the system is proven at scale.
+
+This is the controlled, profitable, and permanent export of the most powerful construction technology of the 21st–22nd century — on exactly Earth-Star’s terms.
 
 ---
 
-*This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). © 2025 Earth-Star Industries. Last updated 25 November 2025.*
+*This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ © 2025 Earth-Star Industries.*
