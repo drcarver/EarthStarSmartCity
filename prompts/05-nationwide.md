@@ -58,7 +58,7 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
    - We need to be self-financing as soon as we can because public funds are bound to dry up.  We should also look at grants or loans we can get from blue/green certifications.  We also need to fund R&D into our core technology and keep up with the rest of the world.  If it turns out, we can do better we can swap out tiles fairly easily.
   
  ## Earth-Star Industries – Official Plug-and-Play City Configuration Library  
-So our woeld deoes not become a mono culure of hub and spoke ciies, residents can choose what they want their city to look like from the configurations below
+So our world deoes not become a mono culure of hub and spoke ciies, residents can choose what they want their city to look like from the configurations below
 
 | Code | Name                              | Base Population | Max Population | Terrain / Location                     | Visual Signature                              | Individuality Score | First Operational | Number Built by 2150 (global) | Construction Premium vs Standard Hub |
 |------|-----------------------------------|-----------------|----------------|----------------------------------------|-----------------------------------------------|---------------------|-------------------|-------------------------------|--------------------------------------|
@@ -75,11 +75,11 @@ So our woeld deoes not become a mono culure of hub and spoke ciies, residents ca
 | H-01 | Standard Hub-and-Spoke (baseline)  | 50 000          | 80 000         | Flat or gentle terrain                  | Classic 150 m central farm tower + rings        | 4/10               | 2039 (Pilot)      | 12 400                        | 0 % (baseline)                      |
 
 ### Deployment Rules (locked into every licence agreement)
-
 - Any district may choose **any configuration** from the library at any time.  
 - All configurations use the **exact same tile catalogue** (T-01 to T-09) and pay the **same 5 % royalty**.  
 - Residents vote every 20 years whether to keep or switch configuration (retrofit possible in 30–42 months).  
 - Premiums above baseline are paid by local choice — no central subsidy required.
+- Provide a table of the number of cities to be expected in each configuration along with the conplete City Configuration Librar
 
 ## Required Outputs (identical format to previous prompts)
 
