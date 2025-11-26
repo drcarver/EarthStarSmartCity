@@ -5,7 +5,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Prompt 6 – Earth-Star Industries Global Transformation Strategy  
+# Prompt 6 – Earth-Star Industries Western Hemisphere Transformation Strategy 
 **“Fortress West” Programme – Validated Master Specification (November 2025)**
 
 **Locked start date for first non-U.S. district:** 2 January 2045  
