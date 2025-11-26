@@ -51,8 +51,7 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 - Employee housing and amenities (mid-rise hybrid construction)
 
 ## Product Lines
-
-Give a cost breakdown and revenue analysis for each.
+Give a cost breakdown and revenue analysis for each.  Specify when they enter production
 
 1.  TerraCycle™ Rainscreen (base)
 2.  TerraCycle™ BIPV Rainscreen
@@ -70,6 +69,20 @@ Give a cost breakdown and revenue analysis for each.
 14.  Acoustic Interior Panel
 15.  Custom Digital-Print Tile
 16.  Smart airlocks with facial recognition + hyperspectral threat detection
+17.  TerraPhase™ Phase-Change Panel – Standard rainscreen with rear micro-encapsulated phase-change material (paraffin or salt hydrate) providing 20–35 kWh/m³ latent heat storage for passive peak-load reduction.
+18.  TerraCool™ Radiant Cooling Panel – Rainscreen with factory-bonded PEX or capillary tubing on rear face for chilled-water radiant cooling/heating.
+19.  TerraGlow™ Phosphorescent Tile – Porcelain tile with strontium-aluminate glow-in-the-dark glaze (8–12 h duration) for emergency wayfinding.
+20.  TerraPure™ Photocatalytic Façade – Self-cleaning, NOx- and VOC-decomposing tile using visible-light TiO₂ or equivalent photocatalytic top coat.
+21.  TerraTherm™ IR-Reflective Cool Roof Tile – High-SRI (≥100) cool-roof porcelain tile with near-IR reflective pigments for Title-24/LEED compliance.
+22.  TerraRail™ Balustrade & Handrail Infill – 12–19 mm porcelain slats or panels certified as code-compliant guardrail infill (IBC load & impact).
+23.  TerraSorb™ Acoustic Road Barrier – 120 mm thick perforated porcelain noise barrier achieving 40–45 dB transmission loss.
+24.  TerraTrace™ Heated Pavement Tile – Heavy-duty paver with embedded low-voltage carbon heating film for automated snow/ice melting.
+25.  TerraFlex™ Thin & Bendable Panel – 6–8 mm ultra-thin porcelain laminated to honeycomb or fiber-cement for curved surfaces and retrofits.
+26.  TerraShield™ Ballistic Panel – 20 mm porcelain + polycarbonate composite panel rated NIJ Level III (stops 7.62×51 NATO).
+27.  TerraWave™ 5G/6G-Repeater Tile – Rainscreen with embedded metasurface antenna array for mmWave signal reflection and coverage extension.
+28.  TerraBio™ Living Wall Tile – 3D-structured porcelain tile with water-retention pockets designed for integrated green/living walls.
+29.  TerraVault™ Data-Center Raised-Floor Tile – 600×600 mm porcelain raised-access floor tile (40 kN concentrated load, A1 fire rated).
+30.  TerraMed™ Antibacterial Hospital Wall – Porcelain panel with silver-ion + photocatalytic coating achieving 99.99 % reduction of hospital-acquired pathogens.
 
 ## Security & Standards
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
