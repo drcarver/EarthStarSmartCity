@@ -1,96 +1,96 @@
-# Earth-Star Industries – Prompt 8  
-Complete Tile & Kit Catalogue + Embedded Sensor Handbook  
-Master Reference – November 2025 Validated Baseline
+# Earth-Star Industries Master Tile & Kit Catalogue – Prompt 8  
+**Complete 2045-Ready Product Registry + Sensor Handbook (November 2025 Baseline)**
 
 ## Executive Summary
 
-All Earth-Star construction worldwide uses only ceramic tiles, panels, and flat-pack kits produced in the Genesis Facility network.  
-Total catalogue: 27 tile types + 18 structural/system kits.  
-Average realised price 2029–2034: $92/m² → 68 % gross margin  
-All tiles contain the same 7-layer co-fired security stack → every square metre is an active sensor.
+All structural, cladding, functional, and security elements of every Earth-Star district are produced **exclusively** from the Genesis-family waste-to-ceramic ecosystem.  
+Total active catalogue as of 2045: **61 standard tiles + 92 flat-pack kits** (153 items total).  
+All tiles are non-structural cladding/infill only (IBC/UFC compliant). Primary structure remains conventional recycled steel or concrete frames.
 
-**2034 Global Output**: 3.2 billion m²/year → $294 billion revenue → $195 billion EBITDA
+Manufacturing: 38 Genesis-class factories worldwide (1 U.S. + 11 Fortress West + 26 RoW) producing **428 billion m² cumulative by 2150**.  
+Input: 100 % local C&D waste, closed landfills, brownfields, fly ash, red mud, glass cullet.  
+Zero virgin clay, zero virgin cement after 2040.
 
-## 1. Tile & Kit Master Catalogue
+**Average production cost (2045):** $18.40/m²  
+**Average selling price (2045):** $96/m²  
+**Gross margin:** 81 %  
+**Net profit per m² after royalty & overhead:** $62
 
-| ID   | Name                                    | Dimensions (m) | Thickness (mm) | Weight (kg/m²) | Primary Composition (2025)                          | Input Sources (100 % waste)                                 | Cost ($/m²) | Realised Price ($/m²) | Gross Margin | Annual Volume 2034 (M m²) |
-|------|-----------------------------------------|----------------|----------------|----------------|-----------------------------------------------------|-------------------------------------------------------------|-------------|-----------------------|--------------|----------------------------|
-| T-01 | Standard Rainscreen (BIPV + AWG)        | 3.2 × 1.6      | 25             | 42             | 94 % C&D glass + fly ash + red mud                  | Brownfields, landfills, demolition concrete                 | 38          | 88                    | 57 %         | 1,400                      |
-| T-02 | Clear Geothermal Greenhouse Tile        | 3.0 × 1.5      | 20             | 35             | 96 % recycled float glass + silica tailings         | End-of-life windows, solar panels                           | 42          | 95                    | 56 %         | 600                        |
-| T-03 | Stealth Radar-Absorbing Façade          | 3.2 × 1.6      | 30             | 48             | +Fe₂O₃ + carbon nano-foam layers                    | Same + DoD scrap                                            | 68          | 280                   | 76 %         | 80                         |
-| T-04 | AI Data-Center Liquid-Cooling Tile      | 2.4 × 1.2      | 40             | 62             | Ceramic micro-channel + copper mesh                 | Same + server farm e-waste                                  | 85          | 420                   | 80 %         | 60                         |
-| T-05 | Smart-Road Modular Paver (no foundation)| 1.0 × 1.0      | 80             | 140            | 92 % recycled concrete + glass                      | Demolition + ELV                                           | 55          | 110                   | 50 %         | 400                        |
-| T-06 | HSR Slab Track Panel                    | 5.0 × 2.5      | 200            | 420            | 90 % recycled concrete + ceramic binder             | Legacy rail ballast + demolition                            | 65          | 120                   | 46 %         | 200                        |
-| T-07 | ISO-7 Cleanroom Wall Panel              | 3.0 × 1.2      | 30             | 45             | 95 % porcelain + antibacterial glaze               | Sanitary ware + tile factory rejects                        | 72          | 180                   | 60 %         | 120                        |
-| T-08 | Battery Gigafactory Floor Tile          | 2.0 × 2.0      | 50             | 90             | Conductive ceramic + EMP mesh                       | Same + battery black mass                                   | 90          | 350                   | 74 %         | 50                         |
-| T-09 | Hyperspectral Smart Airlock Module      | Full door      | —              | 1,200 kg/unit  | Ceramic composite + 12 sensors                      | Same                                                        | 180k/unit   | 480k/unit             | 63 %         | 8 million units            |
+## Master Tile Catalogue (61 Types – All Non-Structural)
 
-(18 additional specialised tiles omitted for brevity — full 27-type list in appendix)
+| ID | Tile Name                          | Composition (by mass)                  | Key Integrated Functions                              | Size (max)       | Thickness | Weight | Cost 2045 ($/m²) | Revenue 2045 ($/m²) |
+|----|------------------------------------|----------------------------------------|-------------------------------------------------------|------------------|-----------|--------|------------------|---------------------|
+| T-01 | TerraCycle™ Rainscreen Base        | 94 % glass + porcelain waste + 4 % binders | Ventilated façade                                     | 3.2 × 1.6 m      | 12 mm     | 26 kg  | 16               | 58                  |
+| T-02 | TerraCycle™ BIPV                   | T-01 + CIGS thin-film                  | 180 W/m² solar + AWG channels                         | 3.2 × 1.6 m      | 14 mm     | 31 kg  | 44               | 148                 |
+| T-03 | EMP-Shielded Panel                 | T-01 + embedded Cu mesh                | MIL-STD-188-125 compliant                             | 3.0 × 1.5 m      | 16 mm     | 38 kg  | 52               | 174                 |
+| T-04 | FogCapture™ AWG Panel              | T-01 + micro-channel array             | 0.8 L/m²/day potable water                            | 3.2 × 1.5 m      | 18 mm     | 42 kg  | 68               | 208                 |
+| T-05 | TerraPhase™ PCM Panel              | T-01 + micro-encapsulated paraffin     | 32 kWh/m³ latent storage                              | 3.0 × 1.5 m      | 20 mm     | 48 kg  | 76               | 226                 |
+| T-06 | Clear Greenhouse Span              | 96 % recycled borosilicate             | 92 % light transmission, 50 m span                    | 6.0 × 2.5 m      | 10 mm     | 22 kg  | 42               | 112                 |
+| T-07 | Stealth Ceramic (DoD only)         | Classified + radar-absorbing ferrites   | RCS reduction >25 dB                                  | 2.8 × 1.4 m      | 18 mm     | 46 kg  | 240              | 820                 |
+| T-08 | Smart-Road Inductive Tile          | T-01 + embedded 800 V coil             | 12 kW dynamic charging                                | 1.2 × 1.2 m      | 80 mm     | 140 kg | 180              | 580                 |
+| …  | (53 more standard variants)        |                                        |                                                       |                  |           |        |                  |                     |
+| T-61 | TerraMed™ Antibacterial Hospital   | T-01 + Ag-ion + visible-light TiO₂     | 99.999 % pathogen reduction                           | 1.2 × 2.4 m      | 12 mm     | 28 kg  | 68               | 198                 |
 
-## 2. Flat-Pack Structural & System Kits (All Ceramic + Steel Studs)
+## Master Flat-Pack Kit Catalogue (92 Kits)
 
-| Kit ID | Name                                | Contents                                      | Districts Served by 2034 | Revenue per District ($M) |
-|--------|-------------------------------------|-----------------------------------------------|--------------------------|----------------------------|
-| K-01   | MHUE-50k Core Envelope Kit          | 4.2 M m² T-01 + studs + airlocks               | 1,200                    | 420                        |
-| K-02   | Skyscraper Farm Vertical Tower Kit  | 265 k m² T-01 + 15-storey steel frame         | 4,000                    | 180                        |
-| K-03   | Geothermal Greenhouse Kit           | 1.8 M m² T-02 + geothermal loop               | 4,000                    | 160                        |
-| K-04   | AI Data Center Full Kit             | T-04 tiles + liquid cooling + airlocks        | 800                      | 920                        |
-| K-05   | Battery Gigafactory Kit             | T-08 floor + T-07 walls + airlocks            | 400                      | 1,200                      |
-| K-06   | Smart Airlock Security Suite        | T-09 module + biometric + drone dispatch      | All                      | 60                         |
+| Kit ID | Name                                    | Contents (main tiles + parts)          | Assembly Time (TerraBots) | Cost 2045 ($M) | Revenue 2045 ($M) | Margin |
+|--------|-----------------------------------------|----------------------------------------|---------------------------|----------------|-------------------|--------|
+| K-01   | TerraBot™ Mk1 Assembly Robot            | 1,200 parts → 7-axis cobot             | 75 min                    | 0.038          | 0.095             | 60 %   |
+| K-31   | Smart Airlock Pro (Hyperspectral)       | T-03 + sensors + AI core               | 4 h                       | 1.8            | 8.4               | 78 %   |
+| K-44   | DC-Native Ceramic Server Rack           | T-02 + liquid cooling plates           | 6 h                       | 12             | 48                | 75 %   |
+| K-55   | Electric Barge 2,000-ton                | T-01 hull panels + DC propulsion       | 18 days                   | 42             | 118               | 64 %   |
+| K-60   | 3 MW Ceramic Windmill Tower Kit         | T-01 segments + recycled composite blades | 11 days                | 2.8            | 7.2               | 61 %   |
+| K-92   | Full MHUE-50k Core District Shell       | 42 million m² tiles + all civic kits  | 28 months                 | 2,100          | 6,800             | 69 %   |
 
-## 3. Manufacturing Process (Identical for All Tiles)
+## Detailed Sensor Handbook – Embedded in Every Smart Tile (2045 Standard)
 
-1. Waste intake → AI sorting → crushing → magnetic/eddy-current → pyrolysis of organics  
-2. Vitrification at 1,350 °C → frit production  
-3. Dry-press or extrusion forming  
-4. Co-firing at 1,150 °C with 7 security layers embedded:  
-   → Copper EMP mesh  
-   → CIGS BIPV thin film  
-   → Piezoelectric impact film  
-   → Hyperspectral micro-spectrometers (4× per large panel)  
-   → PUF cryptographic chip  
-   → Rare-earth forensic taggants in glaze  
-   → Printed supercapacitor (0.5–1 kWh/panel)  
-5. Glazing + final QA → IPv6 handshake test → shipping
+All tiles ≥ T-02 contain the **TerraSense™ v6 array** (0.8 mm thick, printed on rear face):
 
-Energy: 100 % from on-site biogas + solar → $9/m² energy cost
+| Sensor Type                    | Resolution / Range                  | Update Rate | Power Draw | Primary Use |
+|--------------------------------|-------------------------------------|-------------|------------|-------------|
+| Structural strain (piezo)      | 0.1 µm displacement                 | 10 Hz       | 0.4 mW     | Predictive maintenance |
+| Temperature                    | ±0.05 °C                            | 1 Hz        | 0.1 mW     | Fire & energy modelling |
+| Humidity + VOC                 | ±1.5 % RH, ppb VOC                  | 0.1 Hz      | 0.6 mW     | Indoor air quality |
+| Acoustic (MEMS)                | 20–20 kHz                           | 50 Hz       | 1.2 mW     | Gunshot & structural anomaly |
+| Hyperspectral (16-band)        | 400–1700 nm                         | 0.5 Hz      | 8 mW       | Explosives, narcotics, biothreat |
+| Radiation (COTS MOSFET)        | 1 µSv/h – 10 Sv/h                   | 1 Hz        | 0.3 mW     | Dirty bomb detection |
+| EMP transient detector         | 50 kV/m pulse                               | Event       | 0 mW       | Grid resilience |
 
-## 4. Embedded Sensor Handbook – 7-Layer Security Stack (Co-Fired)
+Total power budget per m²: **<15 mW** (harvested from BIPV or building DC bus).  
+All data encrypted on-device → transmitted only on anomaly → zero privacy violation.
 
-| Layer | Sensor Type                          | Function                                                                 | Detection Range | False Positive Rate | Power Source                     |
-|-------|--------------------------------------|--------------------------------------------------------------------------|-----------------|---------------------|----------------------------------|
-| 1     | Continuous copper mesh               | Full HEMP shielding (MIL-STD-188-125) + antenna plane                    | Whole building  | < 0.0001 %          | Passive                          |
-| 2     | 4× hyperspectral micro-spectrometer  | Explosives, CWAs, narcotics, fentanyl                                    | 12 m            | 0.0008 %            | Supercapacitor + BIPV            |
-| 3     | Piezoelectric PVDF film              | Gunshots, ramming, climbing, ballistic impacts                           | 5 m²/panel      | 0.001 %             | Harvested from impact energy     |
-| 4     | mm-wave concealed weapon scanner     | Guns, knives, IEDs in airlocks                                           | 3 m             | 0.002 %             | Supercapacitor                   |
-| 5     | PUF cryptographic chip + IPv6        | Tile authenticity, tamper reporting, self-healing mesh                   | Global          | Unclonable          | Supercapacitor + BIPV            |
-| 6     | Rare-earth forensic taggants         | Batch traceability — only readable by Genesis scanner                     | Lab             | Unforgeable         | Passive                          |
-| 7     | Printed supercapacitor               | 72-hour autonomy if grid/BIPV fails                                      | Panel           | —                   | BIPV + kinetic harvesting        |
+## Smart Airlock Pro – Mandatory on All High-Value Buildings
 
-Every tile is a node in a self-healing, encrypted LoRa/5G private mesh.  
-If any tile is damaged or removed → surrounding tiles report GPS + serial in <3 seconds.
+- Dual-door mantrap with full hyperspectral + terahertz scan  
+- AI false-positive rate: 0.0004 % (trained 2038–2044 on 42 million scans)  
+- Weapons/explosives/biothreat detection probability: 99.996 %  
+- Integration: ISO 37122, UFC 4-010-01, NIST 800-53, EU-GSR
 
-## 5. Viability Enhancements Implemented
+## Viability Enhancements Implemented in Prompt 8
 
-| Bottleneck                     | 2025 Fix Applied                                      | Impact |
-|--------------------------------|-------------------------------------------------------|--------|
-| Feedstock scarcity             | Locked 15-year gate-fee contracts with 4,200 landfills| +$36 B/year |
-| Political funding risk         | 100 % DoD pre-paid base conversion contracts 2029–2032| +$540 B locked |
-| China cloning                  | CC-BY-NC-SA + ITAR on high-margin kits                | Clone profit = $0 |
-| Labour shortage                | 94 % robotic tile placement (ABB + Boston Dynamics)   | Cost → $4/m² installation |
-| Certification delays           | Pre-certified kit library (LEED Platinum in 6 weeks)  | +30 % deployment speed |
+1. **DC-Only Standard** – All buildings 100 % 800 V DC native → eliminates 6–8 % conversion loss  
+2. **Tile-as-a-Service** – Districts can lease tiles at $6/m²/year instead of buying → accelerates adoption  
+3. **Waste Pre-Purchase Contracts** – Genesis factories lock 50-year waste streams at negative cost (-$12/ton)  
+4. **Modular Retrofit Kit** – Any 2025–2045 building can be re-clad in 18 months using TerraBots  
 
-## Final Aggressive Summary
+## Final Cost & Revenue Summary (2045 Steady-State, per m²)
 
-- 100 % of construction = Genesis ceramic tiles & kits  
-- 100 % of security = co-fired sensor stack (no bolt-on systems)  
-- 100 % of revenue after 2034 = internal cash flow + royalties  
-- 0 % chance of Chinese commoditisation  
-- 0 % reliance on post-2025 legislation  
+| Item                      | Cost ($/m²) | Revenue ($/m²) |
+|---------------------------|-------------|----------------|
+| Raw waste intake          | –12         |                |
+| Processing & firing       | 14          |                |
+| Integrated functions      | 16          |                |
+| Assembly & certification  | 8           |                |
+| **Total Cost**            | **26**      |                |
+| Base sale                 |             | 96             |
+| Royalty (5 %)             |             | –4.8           |
+| **Net Profit**            |             | **62**         |
 
-We do not build cities.  
-We print money with waste and security.
+**Result:** Every square metre of Earth-Star tile generates **$62 net profit in perpetuity** while removing waste and emitting zero CO₂.
+
+We don’t build cities.  
+We print profit from trash.
 
 ---
 
-*This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). © 2025 Earth-Star Industries. Last updated 25 November 2025.*
+*This work is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ © 2025 Earth-Star Industries.*
