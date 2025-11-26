@@ -41,7 +41,8 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 - Include compliant façade heat-recovery system (ventilated cavity + optional rear-face capillary mats feeding central high-temp heat pumps). Standard on all production-hall and kiln-building façades
 - Water: 98 % closed-loop + AWG + rainwater; net exporter in humid climates.
 - Waste processing: AI sorting, shredding, magnetic/eddy-current separation, pyrolysis of organics, vitrification of inorganics → zero landfill.
-- All productss packaged in PEZ inspired kits and deliered in IKEA style flat packs for easy assemble,  The parts are delivered in the correct order by the dispenser for easy assembly by robots or humans
+- All productss packaged in PEZ inspired kits and deliered in IKEA style flat packs for easy assemble,  The parts are delivered in the correct order by the dispenser for easy assembly by robots or humans.
+- Kits are designed to be able to be assembed as automated as possible as soon as possible to cut down on time and cost.
 
 ## Campus Functions (all built with the hybrid system)
 - Waste receiving and pre-processing halls
