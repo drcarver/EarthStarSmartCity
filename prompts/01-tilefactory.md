@@ -51,32 +51,24 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 - Employee housing and amenities (mid-rise hybrid construction)
 
 ## Product Lines
-All figures in **2030 USD**, ex-works Genesis Facility (Midwest US).  
-Production: 500,000 m²/year total capacity (Line 1 + Line 2).  
-Assumptions locked to November 2025 real-world costs:
-- Average feedstock gate fee received: **$78/ton** (blended C&D, ELV, red mud, fly ash)
-- Natural gas + biogas blend: **$4.80/MMBtu**
-- Electricity: **$0.095/kWh** (40% self-generated)
-- Labor: 450 people total, average fully-loaded **$95,000/year**
-- Depreciation: 20-year straight line on $285 M capex
 
-| # | Product | Annual Production (m²) | Production Cost (USD/m²) | Breakdown of Cost per m² | Avg. Selling Price ex-works (USD/m²) | Gross Margin (%) | Annual Revenue (USD M) | Annual Gross Profit (USD M) |
-|---|--------|-------------------------|---------------------------|-----------------------------|----------------------------------------|-------------------|-------------------------|------------------------------|
-| 1 | TerraCycle™ Rainscreen (base) | 200,000 | **58** | Feedstock −12 (gate fee credit) + Ceramic body 32 + Glaze 8 + Firing/energy 22 + Labor/OH 8 | **120** | 52% | 24.0 | 12.4 |
-| 2 | TerraCycle™ BIPV Rainscreen | 50,000 | **132** | Base 58 + CIGS lamination (MiaSolé 2025) 68 + Testing 6 | **280** | 53% | 14.0 | 7.4 |
-| 3 | EMP-Shielded Panel | 30,000 | **98** | Base 58 + Copper mesh + conductive glaze 36 + MIL-STD test 4 | **220** | 55% | 6.6 | 3.7 |
-| 4 | Heat-Recovery Façade Panel | 40,000 | **82** | Base 58 + Rear capillary mat + fittings 20 + Extra QC 4 | **165** | 50% | 6.6 | 3.3 |
-| 5 | Smart-Wall IoT Panel | 50,000 | **68** | Base 58 + Sensor suite + NFC 8 + Firmware 2 | **135** (base +35) | 49% | 6.8 | 3.4 |
-| 6 | FogCapture™ AWG Panel | 20,000 | **92** | Base 58 + Hydrophilic nano-coating + channels 30 + Certification 4 | **195** | 53% | 3.9 | 2.1 |
-| 7 | TerraPave™ Heavy-Duty Paver | 30,000 | **52** | Lower firing temp, higher thickness offset by simpler glaze | **85** | 39% | 2.6 | 1.0 |
-| 8 | Smart-Road Noise Barrier | 25,000 | **142** | Thicker body 70 + Impact certification 40 + Sensors 32 | **320** | 56% | 8.0 | 4.5 |
-| 9 | Smart-Road Inductive Tile | 15,000 | **195** | Thick body 80 + Coil embed certification 85 + Load testing 30 | **450** | 57% | 6.8 | 3.9 |
-|10| TerraStore™ Buffer Panel | 5,000 | **285** | Base 58 + Printed supercapacitor layers 210 + Safety cert 17 | **550** | 48% | 2.8 | 1.3 |
-|11| DARPA Blockade Canister Set | 2,000 sets* | **1,450/set** | Complex geometry + thick walls + interlocking certification | **2,800/set** | 48% | 5.6 | 2.7 |
-|12| Potable Water & Solar Skid | 3,000 | **340** | Base panel 58 + Thermal storage + UV-LED loop 282 | **580** | 41% | 1.7 | 0.7 |
-|13| Cleanroom Wall System | 15,000 | **78** | Base 58 + Ultra-low outgassing glaze + seamless joint system 20 | **165** | 53% | 2.5 | 1.3 |
-|14| Acoustic Interior Panel | 10,000 | **62** | Base 58 + Perforation + recycled acoustic backing 4 | **110** | 44% | 1.1 | 0.5 |
-|15| Custom Digital-Print Tile | 5,000 | **95** | Base 58 + Inkjet printing + extra firing pass 37 | **200** (+100 on base) | 53% | 1.0 | 0.5 |
+| # | Product | 
+| 1 | TerraCycle™ Rainscreen (base) |
+| 2 | TerraCycle™ BIPV Rainscreen |
+| 3 | EMP-Shielded Panel | 
+| 4 | Heat-Recovery Façade Panel |
+| 5 | Smart-Wall IoT Panel |
+| 6 | FogCapture™ AWG Panel |
+| 7 | TerraPave™ Heavy-Duty Paver | 
+| 8 | Smart-Road Noise Barrier | 
+| 9 | Smart-Road Inductive Tile | 
+|10| TerraStore™ Buffer Panel |
+|11| DARPA Blockade Canister Set dir emergency shelters | 
+|12| Potable Water & Solar Skid for home and porable.  Include hot and cold water and small batery management system | 
+|13| Cleanroom Wall System | 
+|14| Acoustic Interior Panel | 
+|15| Custom Digital-Print Tile |
+|16| Smart airlocks with facial recognition + hyperspectral threat detection
 
 *Note: Canister sets = 20 m² equivalent per set for capacity accounting.
 
