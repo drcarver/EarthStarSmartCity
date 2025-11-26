@@ -15,6 +15,8 @@ All technology limited to commercially proven or paid-pilot systems available No
 ## Core Mission
 Construct the first Genesis Facility: a waste-to-circular-materials megafactory and its associated closed-loop R&D campus that simultaneously:
 - Accepts payment (gate fees) to remediate brownfields, closed landfills, construction & demolition debris, end-of-life vehicles, ship scraps, and industrial byproducts
+- Can also process currrent landfill needs and remediate open landfills. Handle raw sewage from existing sewage plants.
+- Close and recycle eisting landfill and sewage systems
 - Produces large-format ceramic cladding tiles, rainscreen panels, pavers, interior finishes, and related non-structural components from 100 % recycled waste feedstock
 - Supplies all ceramic cladding and non-structural elements for downstream Earth-Star projects (Skyscraper Farms, MHUE cities, etc.)
 - Demonstrates full-scale hybrid construction using conventional steel or concrete primary structure with waste-derived ceramic cladding
