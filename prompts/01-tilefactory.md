@@ -54,23 +54,22 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 
 Give a cost breakdown and revenue analysis for each.
 
-| # | Product | 
-| 1 | TerraCycle™ Rainscreen (base) |
-| 2 | TerraCycle™ BIPV Rainscreen |
-| 3 | EMP-Shielded Panel | 
-| 4 | Heat-Recovery Façade Panel |
-| 5 | Smart-Wall IoT Panel |
-| 6 | FogCapture™ AWG Panel |
-| 7 | TerraPave™ Heavy-Duty Paver | 
-| 8 | Smart-Road Noise Barrier | 
-| 9 | Smart-Road Inductive Tile | 
-|10| TerraStore™ Buffer Panel |
-|11| DARPA Blockade Canister Set for emergency shelters | 
-|12| Potable Water & Solar Skid for home and porable.  Include hot and cold water and small batery management system | 
-|13| Cleanroom Wall System | 
-|14| Acoustic Interior Panel | 
-|15| Custom Digital-Print Tile |
-|16| Smart airlocks with facial recognition + hyperspectral threat detection
+1.  TerraCycle™ Rainscreen (base)
+2.  TerraCycle™ BIPV Rainscreen
+3.  EMP-Shielded Panel
+4.  Heat-Recovery Façade Panel
+5.  Smart-Wall IoT Panel
+6.  FogCapture™ AWG Panel
+7.  TerraPave™ Heavy-Duty Paver
+8.  Smart-Road Noise Barrier
+9.  Smart-Road Inductive Tile
+10.  TerraStore™ Buffer Panel
+11.  DARPA Blockade Canister Set for emergency shelters
+12.  Potable Water & Solar Skid for home and porable.  Include hot and cold water and small batery management system
+13.  Cleanroom Wall System
+14.  Acoustic Interior Panel
+15.  Custom Digital-Print Tile
+16.  Smart airlocks with facial recognition + hyperspectral threat detection
 
 ## Security & Standards
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
