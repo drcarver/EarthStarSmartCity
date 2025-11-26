@@ -81,6 +81,7 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
   - Atmospheric water generator micro-channels (where useful)
   - IoT sensor array for building monitoring and support of all standards NASA (CLESS), DOD, ISO and International standards and Certifications that would apply to this complex
   - All sensors feed into a compliance portal or real time tracking and reporting for all standards
+  - As new kits are added instrument them with any required sensors including botsand eternl equipment
   - Thin printed buffer battery or supercapacitor (≤ 1 kWh per panel)
   - Rain and fogcapure the an be made potable
 - Foundation and bulk storage: standard concrete with high recycled content; bulk LFP or flow batteries housed conventionally.
