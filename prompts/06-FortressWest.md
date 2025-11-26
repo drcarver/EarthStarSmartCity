@@ -1,5 +1,5 @@
 ---
-title: Earth-Star Industries Global Transformation Strategy – Prompt 6 (Fully Validated & Bankable Original)
+title: Earth-Star Industries Western Hemisphere Transformation Strategy
 description: The definitive, regulator-ready Prompt 6 incorporating all November 2025 technical, financial, geopolitical, legal, and physical validations. No impossible timelines, no suicidal open-sourcing, no fantasy funding.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
