@@ -25,38 +25,9 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 3. The facility itself is built using the exact same hybrid system it will later supply to the market.
 4. All processes (waste intake, sorting, crushing, purification, firing, glazing) use commercially proven 2025 technology at smaller scale (e.g., existing C&D recycling plants, ceramic tile factories in China/Spain/India).
 5. All products are delivered exclusively as PEZ/IKEA-style sequenced flat-pack dispenser kits. No loose panels, no pallets, no traditional installation.
-3. Every single item ever used inside the Genesis Facility itself — from the very first temporary office to the final 400-ton SACMI kiln — is delivered and installed as a TerraBot™-assembled flat-pack kit. There is no exception.
-4. The factory is bootstrapped inside a leased high-performance tent campus (2027–2029) before the permanent buildings are erected with proven kits.
-5. TerraBot™ modular assembly robots are themselves shipped as flat-pack kits and are the only machines that ever install anything on site.
-
-
----
-title: Earth-Star Industries Genesis Facility – Consolidated Master Prompt (Version 1.9 – November 2025)
-description: Single, self-contained, bankable master prompt incorporating all additions and refinements since Prompt 1. Replaces all previous prompts. Use only this document.
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
----
-
-# Consolidated Master Prompt – Earth-Star Genesis Facility (Version 1.9)
-
-**Effective immediately – replaces Prompt 1, Prompt 2, Prompt 3, and all tent discussions.**  
-Project start date remains locked: 2 January 2027  
-All technology limited to commercially proven or paid-pilot systems available November 2025.
-
-## Core Mission (unchanged)
-Construct the first Genesis Facility – a waste-to-circular-materials megafactory and closed-loop R&D campus that:
-- Accepts gate fees to remediate brownfields, C&D debris, ELVs, ship scraps, industrial byproducts
-- Produces large-format non-structural ceramic cladding, rainscreen, pavers, and smart panels from 100 % recycled feedstock
-- Supplies all ceramic elements for downstream Earth-Star projects
-- Demonstrates full-scale hybrid construction (conventional steel/concrete primary structure + waste-derived ceramic cladding)
-
-## Fundamental Locked Rules (additions in bold)
-
-1. Ceramic tiles/panels are 100 % non-structural (rainscreen / curtain-wall function only).
-2. All products are delivered exclusively as PEZ/IKEA-style sequenced flat-pack dispenser kits. No loose panels, no pallets, no traditional installation.
-3. Every single item ever used inside the Genesis Facility itself — from the very first temporary office to the final 400-ton SACMI kiln — is delivered and installed as a TerraBot™-assembled flat-pack kit. There is no exception.
-4. The factory is bootstrapped inside a leased high-performance tent campus (2027–2029) before the permanent buildings are erected with proven kits.
-5. TerraBot™ modular assembly robots are themselves shipped as flat-pack kits and are the only machines that ever install anything on site.
+6.  Every single item ever used inside the Genesis Facility itself — from the very first temporary office to the final 400-ton SACMI kiln — is delivered and installed as a TerraBot™-assembled flat-pack kit. There is no exception.
+7.  The factory is bootstrapped inside a leased high-performance tent campus (2027–2029) before the permanent buildings are erected with proven kits.
+8.  TerraBot™ modular assembly robots are themselves shipped as flat-pack kits that can be assembled by other TerraBots and are the only machines that ever install anything on site.
 
 ## Phase 0 – Tent-First Bootstrap Campus (2027–2029)
 
@@ -76,17 +47,6 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
 - Specs: 7-axis, 35 kg payload, Jetson Orin Nano, ISO 10218 cobot certified, 78 % recycled materials
 - Bundled free or heavily discounted with every large tile order (≥800 m²)
 - Separate subscription $480/bot/year for updates, certification, and liability coverage
-
-## Consolidated Production Lines (33 total)
-
-Lines 1–30 remain exactly as originally listed in Prompt 1.  
-Lines 31–33 added:
-
-| Line | Product                          | First Production | Annual Units (Year 5) | Factory Gate Cost | Sale Price | Gross Margin |
-|------|----------------------------------|------------------|------------------------|-------------------|------------|--------------|
-| 31   | TerraBot™ Mk1 flat-pack kit      | Q2 2027 (tent)   | 38,000                 | $2,400            | $7,900     | 70 %         |
-| 32   | TerraBot™ Refurb/Upgrade Credit  | Q4 2027          | 12,000                 | –                 | $1,200     | 100 %        |
-| 33   | TerraBot™ Software Subscription | Q2 2027          | 120,000                | –                 | $480/yr    | 94 %         |
 
 ## Revised Financial Summary (incorporating tent + kits + TerraBot™)
 
@@ -172,6 +132,10 @@ Give a cost breakdown and revenue analysis for each.  Specify when they enter pr
 28.  TerraBio™ Living Wall Tile – 3D-structured porcelain tile with water-retention pockets designed for integrated green/living walls.
 29.  TerraVault™ Data-Center Raised-Floor Tile – 600×600 mm porcelain raised-access floor tile (40 kN concentrated load, A1 fire rated).
 30.  TerraMed™ Antibacterial Hospital Wall – Porcelain panel with silver-ion + photocatalytic coating achieving 99.99 % reduction of hospital-acquired pathogens.
+31.  TerraBot™ Mk1 flat-pack kit
+32.  TerraBot™ Refurb/Upgrade Credit
+33.  TerraBot™ Software Subscription
+
 
 ## Security & Standards
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
