@@ -90,7 +90,7 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
 - Waste processing: AI sorting, shredding, magnetic/eddy-current separation, pyrolysis of organics, vitrification of inorganics → zero landfill.
 - All productss packaged in PEZ inspired kits and deliered in IKEA style flat packs for easy assemble,  The parts are delivered in the correct order by the dispenser for easy assembly by robots or humans.
 - Kits are designed to be able to be assembed as automated as possible as soon as possible to cut down on time and cost.
-
+- Any new buildings are built by bots using kits from eisting factories with human oversight and any manual labor required
 ## Campus Functions (all built with the hybrid system)
 - Waste receiving and pre-processing halls
 - Ceramics production lines (kilns, glazing, lamination)
