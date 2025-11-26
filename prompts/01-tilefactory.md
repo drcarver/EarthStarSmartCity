@@ -79,7 +79,8 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
   - Thin-film or CIGS BIPV laminates (optional)
   - Embedded copper mesh for moderate EMP shielding
   - Atmospheric water generator micro-channels (where useful)
-  - IoT sensor array for building monitoring
+  - IoT sensor array for building monitoring and support of all standards NASA CLess, ISO Smart Building standards, building codes, etc.
+  - All sensors feed into a compliance portal or real time tracking and reporting doe all standards
   - Thin printed buffer battery or supercapacitor (≤ 1 kWh per panel)
   - Rain and fogcapure the an be made potable
 - Foundation and bulk storage: standard concrete with high recycled content; bulk LFP or flow batteries housed conventionally.
