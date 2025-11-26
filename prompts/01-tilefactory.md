@@ -50,6 +50,10 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 - Training academy and demonstration buildings
 - Employee housing and amenities (mid-rise hybrid construction)
 
+## Additional Product Lines
+- Darpa blockade canisters for shelters (emergency, military)
+- Solar and water systes with hot and cold potable water
+
 ## Security & Standards
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
 - Full compliance: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local seismic/hurricane codes, NASA CELSS-derived monitoring where applicable
