@@ -79,4 +79,3 @@ Construct and operate a 50,000-resident smart city using modular ceramic tiles a
 - Multi-revenue streams ensure high financial resilience
 
 **License:** This document is licensed under the Creative Commons Attribution 4.0 International License.
-```
