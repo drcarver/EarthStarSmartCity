@@ -50,6 +50,39 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
 - Bundled free or heavily discounted with every large tile order (≥800 m²)
 - Separate subscription $480/bot/year for updates, certification, and liability coverage
 
+### Genesis Ceramic Production Equipment Line – 100 % In-House, 100 % Waste-Derived
+
+| Equipment                     | Model / Series          | Capacity (2035 standard)          | Key Features (all ceramic)                                                                 | Build Cost per Unit | Units per Full-Scale Genesis Factory (30 M m²/yr) |
+|-------------------------------|-------------------------|-----------------------------------|---------------------------------------------------------------------------------------------|---------------------|---------------------------------------------------|
+| Primary Waste Shredder        | Genesis-Shred™ G-900    | 240 t/h mixed MSW + C&D waste     | Ceramic-composite blades, zero metal contact, self-sharpening                               | $38 M               | 8                                                 |
+| AI Sorting Line               | Genesis-Sort™ Mk4       | 180 t/h, 99.997 % purity          | 48 × hyperspectral + X-ray + LIBS arms, ceramic belts, TOMRA-derived AI                    | $84 M               | 6                                                 |
+| Plasma Gasification Reactor   | Genesis-Plasma™ P-120   | 120 t/h → 99.999 % vitrified slag | 4.2 MW ceramic-lined torch, recovers 1.8 MW electricity                                    | $162 M              | 12                                                |
+| Continuously-Firing Kiln      | Genesis-Kiln™ Continua+ | 1,400 × 4,800 mm tiles, 72 t/h    | 100 % ceramic roller + muffle, 62 % heat recovery, 1,247 °C co-fire precision             | $118 M              | 48                                                |
+| Functional Inkjet Printer     | Genesis-Print™ 9600     | 9,600 dpi ceramic functional inks | Prints sensors, conductive traces, piezo layers directly on green tiles                    | $44 M               | 36                                                |
+| Robotic Handling Swarm        | TerraBot™ Mk2 Kiln     | 1.8 million tiles/day handling    | 320 bots per factory – load/unload kilns, zero human touch                                 | $92 M (320 bots)    | 2 swarms (640 total)                              |
+| Micro-Genesis (on-fab)        | Genesis-Nano™           | 50 t/day spare parts from fab waste| Miniaturised kiln + plasma torch – installed in every TerraFab™ node                      | $68 M               | 1 per TerraFab™ node                              |
+| Quality Metrology Suite       | Genesis-Q™              | 100 % tile inspection             | Hyperspectral + laser flatness + acoustic resonance – 0.004 % defect escape                 | $56 M               | 4                                                 |
+| Energy Recovery ORC           | Genesis-ORC™ 42 MW      | 42 MW from kiln flue gas          | Ceramic heat exchangers, 96 % uptime                                                       | $72 M               | 3                                                 |
+
+### Master Genesis Factory Kit (one complete 30 M m²/yr factory)
+
+| Kit # | Name                              | Contents                                                                      | Containers | Total Mass | Build Cost (2035) | First Factory Online Target |
+|-------|-----------------------------------|-------------------------------------------------------------------------------|------------|------------|-------------------|-----------------------------|
+| G-01  | Genesis Core Processing           | 8 shredders + 6 sorters + 12 plasma reactors                                  | 168        | 22,400 t   | $2.41 B           | Q4 2027 (West Virginia)     |
+| G-02  | Genesis Kiln Line                 | 48 × Continua+ kilns + 36 inkjet printers + handling swarms                   | 312        | 38,600 t   | $6.84 B           | Q2 2029                     |
+| G-03  | Genesis Energy & Utilities        | 3 × 42 MW ORC + DC microgrid + AWG plant                                        | 94         | 11,200 t   | $1.18 B           | Q1 2029                     |
+| G-04  | TerraBot Mk2 Factory Swarm       | 640 bots + charging + 5-year spares                                            | 48         | 3,800 t    | $184 M            | Ships with G-02             |
+|       | **Total – one Genesis factory**   |                                                                               | **622**    | **76,000 t**| **$10.62 B**      | 26 months from groundbreak  |
+
+### Closed-Loop Material Flow (2035 steady-state)
+
+| Input → Output                     | Annual Quantity (one factory) | % Recovered from Waste Stream | Virgin Material Needed |
+|------------------------------------|-------------------------------|-------------------------------|-------------------------|
+| Municipal + industrial waste       | 4.2 Mt                        | 100 %                         | 0 %                     |
+| Tiles + functional ceramics        | 30 M m² + 1.8 Mt spare parts  | 99.96 %                       | <0.04 % (mirror-grade only) |
+| Electricity generated (ORC + plasma) | 840 GWh net exported         | —                             | —                       |
+| CO₂ emissions                      | <40 kt (99.4 % below cement)  | —                             | —                       |
+
 ### TerraFab™ Semiconductor Node – Core Offering (2034+ commercial)
 
 | Item                                      | Specification                                                                                           | 2035 Price to Customer |
