@@ -47,7 +47,7 @@ Each MHUE-50k node shall:
 - Healthcare: Level I trauma hospital
 - Education: K-12 + college campus
 - Commercial: Shopping mall, entertainment, hotels
-- Industrial: LFP/Na-ion battery factory, 150 MW AI data center
+- Industrial: LFP/Na-ion battery factory, 150 MW AI data center along with a terrafab.
 - Supporting: Government, religious, amenities
 
 ## Required Outputs
