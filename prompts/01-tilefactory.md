@@ -118,17 +118,6 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
 | Cleanroom envelope + utilities   | 1                 | ISO-3 ceramic walls/floors/plenums + DC microgrid  | $284 M            |
 | 5-year spares + 182 TerraBots    | 1                 | Perpetual self-repair & upgrades                   | $112 M            |
 
-### Permanent Dependency Architecture (the real moat)
-
-| Dependency Layer          | Implementation                                                                                   | Escape Difficulty |
-|---------------------------|--------------------------------------------------------------------------------------------------|-------------------|
-| TerraBot swarm            | 182 leased Mk3 bots – only entities that can run the fab                                         | 10/10             |
-| Power                     | 800 V DC microgrid + ceramic supercapacitors – no commercial inverter works                     | 10/10             |
-| Sensors                   | 840 million printed piezo/thermal/hyperspectral sensors – data encrypted to us only             | 10/10             |
-| Software & recipes        | Quantum-resistant 90-day expiring keys                                                           | 10/10             |
-| Satellite + Starlink backbone | Primary command & kill-switch via Starlink (2026–2034) → hybrid with our LEO constellation     | 9/10 → 10/10      |
-| Waste-to-ceramic loop     | All fab waste must be recycled on-site into spare parts                                         | 9/10              |
-
 ### Revenue Model (one node over 20 years, 2025 USD)
 
 | Stream                      | Revenue        | Gross Margin |
@@ -137,7 +126,10 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
 | 20-year bot + support lease | $1.360 B       | 90 %         |
 | **Total**                   | **$2.925 B**   | **81.5 %**   |
 
-One mature Genesis factory shipping 46 nodes/year = **>$110 B annual profit** from TerraFab™ alone.
+1. One mature Genesis factory shipping 46 nodes/year = **>$110 B annual profit** from TerraFab™ alone.\
+2. Focus on 3–5nm nodes initially (scalable to 2nm by 2040), with 85–90% ceramic content by mass. Full ISO-3 cleanroom (1,200 m²), 182 TerraBot Mk3 swarm for assembly.
+3. Purity Tiers: Tier A/B (96–99.98%): 100% waste via Genesis plasma vitrification + electrolytic refining. Tier C (99.999%): 60% waste + 40% virgin precursors (e.g., sol-gel quartz). Tier D: Post-2040 recycling loop.
+4. Ownership: 20-year lease ($75M/yr), with "escape hatch" (buyout at 60% residual value after Year 5) to mitigate antitru
 
 ### Earth-Star Industries – Full Ceramic Semiconductor Equipment Portfolio  
 (All tools 100 % waste-derived ceramic, 100+ year life, TerraBot-assembled only)
