@@ -288,8 +288,7 @@ Generate a complete executive summary and project plan containing:
 2. Updated tile/panel specifications and campus material quantities table
 3. Monthly/annual power, water, and waste-processing budgets
 4. Full cost analysis, cash-flow, break-even, NPV (2027–2040)
-5. Applicable U.S. federal/state grants and remediation incentives]
-6.We do not sell semiconductor equipment.  We lease immortal, self-healing, waste-eating, bot-operated 2 nm ceramic fabs that are physically, electrically, and cryptographically impossible to run without paying Earth-Star forever. Every atom of the toolset is printed from landfill trash, lasts 100+ years, and contains sensors that only we can read. The customer gets 94–97 % yields at half the CapEx of TSMC and zero downtime – in exchange for permanent dependency on our ceramics, our bots, our satellites, and our royalties. That is TerraFab™.
-7. Honest feasibility analysis with no violations of 2025 physics, codes, or supply chains
+5. Applicable U.S. federal/state grants and remediation incentives
+6. Honest feasibility analysis with no violations of 2025 physics, codes, or supply chains
 
 **This prompt is 100 % technically accurate, code-compliant, insurable, and bankable as of 21 November 2025.**
