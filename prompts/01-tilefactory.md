@@ -300,7 +300,4 @@ Generate a complete executive summary and project plan containing:
 6.We do not sell semiconductor equipment.  We lease immortal, self-healing, waste-eating, bot-operated 2 nm ceramic fabs that are physically, electrically, and cryptographically impossible to run without paying Earth-Star forever. Every atom of the toolset is printed from landfill trash, lasts 100+ years, and contains sensors that only we can read. The customer gets 94–97 % yields at half the CapEx of TSMC and zero downtime – in exchange for permanent dependency on our ceramics, our bots, our satellites, and our royalties. That is TerraFab™.
 7. Honest feasibility analysis with no violations of 2025 physics, codes, or supply chains
 
-Output as raw Markdown only in a single code block suitable for direct copy-paste into GitHub Pages (Jekyll minimal theme). Include CC-BY-4.0 footer.
-
----
 **This prompt is 100 % technically accurate, code-compliant, insurable, and bankable as of 21 November 2025.**
