@@ -49,6 +49,8 @@ The city is natively DC-powered (480 V DC microgrid), uses ceramic smart roads t
 | Parks, Lakes, Rewild Buffer          | 1,800     | Tourism + biodiversity credits                    | $60 M          |
 | **Total**                            | **7,000** |                                                   | **$2.41 B**    |
 
+Include terrafab in all revenue and cost estimates
+
 ## 3. Annual Power, Water & Carbon Balance (Steady-State)
 
 | Resource | Consumption   | Generation/Recovery                  | Net Export       |
