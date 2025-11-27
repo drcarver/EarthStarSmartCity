@@ -56,6 +56,7 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
 
 7. **Self funding**
    - We need to be self-financing as soon as we can because public funds are bound to dry up.  We should also look at grants or loans we can get from blue/green certifications.  We also need to fund R&D into our core technology and keep up with the rest of the world.  If it turns out, we can do better we can swap out tiles fairly easily.
+   - Include terrafabs in costing and revenue calculations
   
  ## Earth-Star Industries – Official Plug-and-Play City Configuration Library  
 So our world deoes not become a mono culure of hub and spoke ciies, residents can choose what they want their city to look like from the configurations below
