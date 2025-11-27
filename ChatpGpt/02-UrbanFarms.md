@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Earth-Star Industries Skyscraper Farm – Prompt 2 (Fully Validated & Bankable Original)
 description: Executive Summary and Project Plan for the nationwide network of hybrid vertical + horizontal regenerative Skyscraper Farms, built exclusively with Genesis Facility ceramic tiles and kits.
