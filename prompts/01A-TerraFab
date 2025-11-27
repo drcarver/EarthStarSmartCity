@@ -1,0 +1,99 @@
+---
+title: TerraFab™ – Waste-Derived Ceramic Semiconductor Fab-in-a-Box
+subtitle: Real-World Bankable Master Specification – November 2025 Baseline
+description: The world's first ≥90% waste-derived, robot-only assembled, 3 nm → 1.4 nm capable semiconductor fabrication facility. Fully regulator-ready, financeable, and export-control compliant.
+license: CC BY 4.0
+author: Earth-Star Industries R&D
+date: 2025-11-27
+theme: minimal
+---
+
+# TerraFab™ – Official Master Prompt (2032–2042 Commercial Window)
+
+**This is the single source of truth for all TerraFab™ discussions. Forget all prior versions. Use only this document.**
+
+### Core Mission (Locked)
+Deliver the first commercially qualified, ≥90% waste-derived-ceramic, flat-pack semiconductor fabrication plant capable of:
+- 3 nm production starting 2034  
+- 1.4 nm High-NA EUV production starting 2038  
+-2040  
+- Full assembly and perpetual maintenance by TerraBot™ Mk3 robotic swarm only  
+- 20-year rolling lease model (customer never owns hardware or bots)
+
+All technology limited to paid-pilot or commercial systems proven by November 2025.
+
+### Non-Negotiable Design Principles
+1. Ceramic replaces metal/plastic only where 2025 reliability data exists (chambers, liners, chucks, stages, cleanroom envelope, gas/water lines).
+2. EUV light sources, pellicles, reticles, photoresists, silicon wafers, and precision optics remain conventional virgin materials.
+3. Primary structure of cleanroom is conventional raised-floor ballroom with ceramic cladding/infill only.
+4. First TerraBot on every site is hand-assembled by 6 humans in ≤8 hours. All others are bot-built.
+5. Full node assembled in ≤14 months from first container arrival to first full-loop wafer out.
+
+### Realistic Commercial Timeline (Locked)
+
+| Milestone                                          | Target Date   | Dependency                              |
+|---------------------------------------------------|---------------|-----------------------------------------|
+| Genesis-1 ceramic factory at 30 M m²/yr           | Apr 2031      | Ceramic cladding factory                |
+| First 99.9999% ceramic EUV mirror blank fired     | Q1 2032       | Genesis kiln precision upgrade          |
+| First full-ceramic TerraEtch™/TerraCVD™ pilot line| Q4 2033       | Qualification with TSMC/GlobalFoundries |
+| First complete TerraFab™ 3 nm node shipped        | Q3 2034       |                                         |
+| First customer 3 nm wafers out                    | Q1 2035       |                                         |
+| High-NA EUV upgrade kit available                 | 2037          | ASML EXE:5200 integration               |
+| First 1.4 nm wafers out                           | Q4 2038       |                                         |
+| 50th TerraFab™ node delivered                     | 2045          |                                         |
+
+### TerraFab™ Node Specification – One Complete 3 nm → 1.4 nm Fab (30 000 wspm)
+
+| Category                     | 2034 Specification                                           | % Mass Waste-Derived Ceramic | 2025 Precedent                                 |
+|------------------------------|--------------------------------------------------------------|----------------------------|------------------------------------------------|
+| Cleanroom Envelope           | 4 800 m² ISO-2 ballroom, ceramic walls/floor/ceiling         | 96 %                       | Large porcelain panel plants (Florim, Laminam) |
+| Lithography                  | 4 × ASML NXE:3600D + 2 × High-NA EXE:5000 in ceramic pods    | 38–44 %                    | Standard ASML tools + ceramic shielding        |
+| Dry Etch                     | 18 × full-ceramic SiC/Y₂O₃ chambers                          | 89 %                       | Lam CeramiX + CoorsTek full-chamber pilots     |
+| CVD / ALD                    | 14 × TerraCVD™/TerraALD™ hot-wall ceramic reactors           | 92 %                       | Applied Materials Olympia ALD with ceramic kit |
+| Ion Implant                 | 5 × standard tools with full ceramic beamline & shielding    | 72 %                       | Sumitomo ceramic beamline prototypes           |
+| Wet Processing               | 16 × ZrO₂ single-wafer + batch wet benches                   | 94 %                       | 2025 ceramic-coated wet benches → full ceramic    |
+| Metrology & Inspection       | CD-SEM, overlay, review tools on ceramic stages              | 85 %                       | KLA/Zeiss with ceramic air-bearing stages      |
+| Utilities & Support          | 800 V DC microgrid + Genesis-Nano™ on-fab gas/water loop      | 97 %                       | Ceramic heat exchangers + AWG proven           |
+| Assembly & Maintenance Swarm | 182 × TerraBot™ Mk3 (45 kg payload, ISO-14644-1 clean)        | 100 % waste-derived frame  | UR20 + ABB GoFa with ceramic arms              |
+
+### Ceramic Purity Tiers (2034 Realistic)
+
+| Tier | Purity           | Source                                      | Application                              | % of Total Fab Mass |
+|------|------------------|---------------------------------------------|------------------------------------------|---------------------|
+| A    | 96–99.5 %        | 100 % vitrified waste + fly ash             | Walls, floors, structural liners         | 76 %                |
+| B    | 99.97–99.99 %    | Waste + electrolytic refining               | Chucks, showerheads, non-optical parts   | 19 %                |
+| C    | 99.999–99.9999 % | 50–70 % waste + 30–50 % virgin precursors   | EUV mirror blanks, gate tools            | 4.8 %               |
+| D    | 99.99999 %       | Closed-loop recycled mirrors (post-2042)    | Future nodes                             | <0.2 %              |
+
+### Master Flat-Pack Mega-Kits (2034 Pricing – 2025 USD)
+
+| Kit | Name                                  | Containers | Mass (tonnes) | Price (2034 USD) |
+|-----|---------------------------------------|------------|---------------|------------------|
+| T-01| Ceramic Cleanroom Envelope            | 48         | 4 200         | $138 M           |
+| T-02| TerraLith™ EUV + High-NA Cluster      | 52         | 4 800         | $720 M           |
+| T-03| TerraEtch™ + TerraDepo™ Cluster       | 42         | 3 400         | $620 M           |
+| T-04| TerraCVD™/ALD + Implant Cluster       | 30         | 2 500         | $490 M           |
+| T-05| TerraClean™ + Track + Metrology       | 26         | 1 900         | $370 M           |
+| T-06| Genesis-Nano™ On-Fab Utilities        | 20         | 1 600         | $300 M           |
+| T-07| TerraBot™ Mk3 Swarm + 7-year spares   | 14         | 900           | $184 M           |
+|     | **Total One Complete Node**           | **232**    | **19 300**    | **$2.822 B**     |
+
+### Revenue Model (One Node – 20 Years)
+
+| Stream                          | Amount (2034 USD)      | Gross Margin |
+|---------------------------------|--------------------------|--------------|
+| Upfront kit hardware            | $2.822 B                 | 69 %         |
+| 20-year lease & support         | $2.46 B ($123 M/yr)      | 89 %         |
+| **Total revenue per node**           | **$5.282 B**             | **78 % avg** |
+
+One Genesis factory at full capacity (2031) supplies ceramic content for ~9–11 TerraFab™ nodes per year → $45–55 B annual recurring profit from 2038 onward.
+
+### Mandatory Realism & Compliance Constraints
+- No thick batteries or supercapacitors on panels  
+- No quantum-encrypted lock-in or anti-right-to-repair features  
+- Full compliance with SEMI S2/S8/F47, U.S. ECCN, and ITAR/EAR  
+- All tools must pass qualification at TSMC/GlobalFoundries/Intel/Samsung by 2033  
+- Yield target: 93–96 % at 3 nm (ceramic reduces metallic & organic contamination only)
+
+This document is the only valid TerraFab™ specification as of 27 November 2025.  
+All earlier versions containing 2027–2030 timelines or full-ceramic EUV sources are deprecated.
