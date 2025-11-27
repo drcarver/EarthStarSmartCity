@@ -50,6 +50,111 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
 - Bundled free or heavily discounted with every large tile order (≥800 m²)
 - Separate subscription $480/bot/year for updates, certification, and liability coverage
 
+### TerraFab™ Semiconductor Node – Core Offering (2034+ commercial)
+
+| Item                                      | Specification                                                                                           | 2035 Price to Customer |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------|-------------------------|
+| Full 7 nm → 2 nm capable fab              | 1,200 m² ISO-3 ceramic cleanroom + all process tools + utilities + 182 TerraBot Mk3 swarm            | $1.565 B one-time kit |
+| Delivery format                           | 42 flat-pack ceramic mega-kits shipped in standard containers                                            | —                       |
+| Assembly time                             | 11 months from first container arrival → first wafer out (TerraBots only)                                | —                       |
+| Ownership model                           | 20-year rolling lease only – customer never owns the hardware or bots                                   | —                       |
+| Annual lease & support                    | $68 M/yr (includes bots, spares, upgrades, satellite, software, predictive maintenance)                | —                       |
+| Effective 20-year cost                    | $2.925 B (still 35–45 % cheaper than conventional fab + 95 % yield vs 72–82 %)                         | —                       |
+| Projected yield (2 nm)                    | 91–95 % (ceramic eliminates 60–80 % of metal & organic contamination)                                   | —                       |
+
+### Why Full Ceramic Tools Win Forever
+
+| Contamination Source         | Conventional Stainless/Epoxy | TerraFab™ 100 % Ceramic | Real Yield Delta (3 nm) |
+|------------------------------|-------------------------------|--------------------------|-------------------------|
+| Metallic ions                | 10⁴–10⁶ atoms/cm²/month       | 0                        | +22 %                   |
+| Organic outgassing           | ppb-level for years           | 0                        | +18 %                   |
+| Particle shedding            | 0.8–3.4 >10 nm/ft³            | <0.001                   | +15 %                   |
+| Moisture release             | Months to stabilise           | <4 h to 10⁻⁸ Torr        | +11 %                   |
+| Thermal drift                | 2.5–4 nm overlay drift        | <0.8 nm for decades      | +19 %                   |
+
+### In-House Ceramic Equipment List (all bot-assembled, 100+ year life)
+
+| Tool Cluster                     | Quantity per Node | Key Ceramic Advantage                              | Approx. Kit Price |
+|----------------------------------|-------------------|----------------------------------------------------|-------------------|
+| TerraLith™ EUV / High-NA towers  | 3–5               | Ceramic optics bench, zero metal contamination     | $354 M            |
+| TerraEtch™ dry etch              | 12                | Full SiC/Y₂O₃ chambers – no corrosion ever         | $312 M            |
+| TerraCVD™ / ALD                  | 10                | Ceramic liners → no particle bursts                | $340 M            |
+| TerraImplant™                    | 4                 | Ceramic beamline → zero metallic memory            | $176 M            |
+| TerraClean™ wet & single-wafer   | 10                | Full ZrO₂ benches → no acid corrosion              | $95 M             |
+| TerraMetro™ suite                | 1                 | Ceramic stages → sub-nm stability 50+ years        | $98 M             |
+| Cleanroom envelope + utilities   | 1                 | ISO-3 ceramic walls/floors/plenums + DC microgrid  | $284 M            |
+| 5-year spares + 182 TerraBots    | 1                 | Perpetual self-repair & upgrades                   | $112 M            |
+
+### Permanent Dependency Architecture (the real moat)
+
+| Dependency Layer          | Implementation                                                                                   | Escape Difficulty |
+|---------------------------|--------------------------------------------------------------------------------------------------|-------------------|
+| TerraBot swarm            | 182 leased Mk3 bots – only entities that can run the fab                                         | 10/10             |
+| Power                     | 800 V DC microgrid + ceramic supercapacitors – no commercial inverter works                     | 10/10             |
+| Sensors                   | 840 million printed piezo/thermal/hyperspectral sensors – data encrypted to us only             | 10/10             |
+| Software & recipes        | Quantum-resistant 90-day expiring keys                                                           | 10/10             |
+| Satellite + Starlink backbone | Primary command & kill-switch via Starlink (2026–2034) → hybrid with our LEO constellation     | 9/10 → 10/10      |
+| Waste-to-ceramic loop     | All fab waste must be recycled on-site into spare parts                                         | 9/10              |
+
+### Revenue Model (one node over 20 years, 2025 USD)
+
+| Stream                      | Revenue        | Gross Margin |
+|-----------------------------|----------------|--------------|
+| Upfront hardware kit        | $1.565 B       | 74 %         |
+| 20-year bot + support lease | $1.360 B       | 90 %         |
+| **Total**                   | **$2.925 B**   | **81.5 %**   |
+
+One mature Genesis factory shipping 46 nodes/year = **>$110 B annual profit** from TerraFab™ alone.
+
+### Earth-Star Industries – Full Ceramic Semiconductor Equipment Portfolio  
+(All tools 100 % waste-derived ceramic, 100+ year life, TerraBot-assembled only)
+
+| Tool Family                  | Model Series       | Node Capability | Key Ceramic Innovation                                   | Unit Kit Price (2035) | Tools per Full TerraFab™ Node |
+|------------------------------|--------------------|-----------------|----------------------------------------------------------|-----------------------|-------------------------------|
+| Lithography                  | TerraLith™ EUV-7   | 7 → 3 nm        | Ceramic optics bench, zero-outgassing vacuum chamber     | $118 M                | 3–4                           |
+|                              | TerraLith™ High-NA | 3 → 1.4 nm      | 0.55 NA anamorphic ceramic mirrors                       | $162 M                | 1–2                           |
+| Dry Etch                     | TerraEtch™ CCP/ICP | All nodes       | Full SiC + Y₂O₃ monolithic chamber – no corrosion ever  | $26 M                 | 12                            |
+| Deposition                   | TerraCVD™          | All nodes       | Ceramic hot-wall furnace + liners                        | $34 M                 | 6                             |
+|                              | TerraALD™          | ≤5 nm           | Single-wafer ceramic showerhead                          | $38 M                 | 4                             |
+| Ion Implant                  | TerraImplant™      | All nodes       | Ceramic beamline + electrostatic chuck                  | $44 M                 | 4                             |
+| Wet Processing               | TerraClean™        | All nodes       | Full ZrO₂ wet benches + single-wafer spin             | $9.5 M                | 10                            |
+| Metrology & Inspection       | TerraMetro™ CD-SEM | ≤2 nm           | Ceramic stage + vacuum column                            | $68 M                 | 1                             |
+|                              | TerraMetro™ Overlay| ≤1.4 nm         | Sub-nm ceramic reference flat                            | $42 M                 | 1                             |
+| RTP / Anneal                 | TerraRTP™          | All nodes       | Ceramic tube furnace, <1 ppm/°C stability                | $12 M                 | 6                             |
+| PVD Sputtering               | TerraDepo™         | All nodes       | Ceramic targets & shields – zero particles               | $18 M                 | 8                             |
+| Coater / Developer Tracks    | TerraTrack™        | All nodes       | Ceramic chucks & bowls – no polymer contamination        | $28 M                 | 6                             |
+
+### Master Flat-Pack Mega-Kits (what actually ships)
+
+| Kit # | Name                                 | Contents                                                                 | Containers | Mass (tonnes) | Price (2035) |
+|-------|--------------------------------------|--------------------------------------------------------------------------|------------|---------------|--------------|
+| K-01  | TerraFab™ Cleanroom Envelope         | 1,200 m² ISO-3 ceramic walls, raised floor, plenums, HEPA tiles          | 28         | 1,920         | $84 M        |
+| K-02  | TerraLith™ EUV Cluster               | 3–5 towers + illumination + ceramic vacuum vessel                       | 38         | 2,640         | $354–$562 M  |
+| K-03  | TerraEtch™ + TerraCVD/ALD Cluster    | 22 deposition/etch tools + gas cabinets                                  | 34         | 2,180         | $652 M       |
+| K-04  | TerraImplant™ + TerraDepo™           | 12 implant & PVD systems                                                 | 18         | 1,140         | $320 M       |
+| K-05  | TerraClean™ + TerraTrack™            | 16 wet + track systems                                                   | 16         | 980           | $263 M       |
+| K-06  | TerraMetro™ + TerraRTP™ Suite        | Full metrology + anneal cluster                                          | 12         | 720           | $170 M       |
+| K-07  | Genesis-Nano Utility Module          | Micro-Genesis kiln, DC microgrid, AWG, gas generators, water loop        | 14         | 1,060         | $240 M       |
+| K-08  | TerraBot™ Mk3 Starter Swarm          | 182 bots + charging docks + spare parts for 5 years                      | 8          | 480           | $112 M       |
+|       | **Total – one complete node**        |                                                                          | **168**    | **11,140**    | **$1.565 B** |
+
+### Material Strategy (ceramic purity tiers)
+
+| Tier | Purity       | Source (2035)                              | Used For                              | % of Node Mass | Cost Impact |
+|------|--------------|--------------------------------------------|---------------------------------------|----------------|-------------|
+| A    | 96–98 %      | 100 % municipal/industrial waste           | Structural, floors, walls             | 94 %           | $0 virgin   |
+| B    | 99.98 %      | 98 % waste + 2 % electrolytic refining    | Chucks, gas lines, non-critical liners| 5.5 %          | <$6 M/node  |
+| C    | 99.9999 %    | 60–80 % waste + 20–40 % virgin precursors  | EUV mirrors, gate dielectrics         | 0.5 %          | $110–$160 M/node |
+| D    | 99.99999 %   | 100 % recycled from previous mirrors (2045+) | Future EUV/angstrom nodes             | <0.1 %         | $0          |
+
+### Final Lock-In Summary (why no one will ever copy or escape)
+
+1. Tools only run on our 800 V DC microgrid  
+2. Tools only accept gas/water from our Genesis-Nano utilities  
+3. Every recipe & sensor stream is quantum-encrypted to us  
+4. Only our TerraBot swarm can physically operate them  
+5. All critical spare parts are printed on-site from fab waste by our micro-kilns
+
 ## Revised Financial Summary (incorporating tent + kits + TerraBot™)
 
 | Item                         | Original Prompt 1 | Consolidated V1.9 | Delta       |
@@ -140,7 +245,6 @@ Give a cost breakdown and revenue analysis for each.  Specify when they enter pr
 32.  TerraBot™ Refurb/Upgrade Credit
 33.  TerraBot™ Software Subscription
 
-
 ## Security & Standards
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
 - Full compliance: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local seismic/hurricane codes, NASA CELSS-derived monitoring where applicable
@@ -159,8 +263,9 @@ Generate a complete executive summary and project plan containing:
 2. Updated tile/panel specifications and campus material quantities table
 3. Monthly/annual power, water, and waste-processing budgets
 4. Full cost analysis, cash-flow, break-even, NPV (2027–2040)
-5. Applicable U.S. federal/state grants and remediation incentives
-6. Honest feasibility analysis with no violations of 2025 physics, codes, or supply chains
+5. Applicable U.S. federal/state grants and remediation incentives]
+6.We do not sell semiconductor equipment.  We lease immortal, self-healing, waste-eating, bot-operated 2 nm ceramic fabs that are physically, electrically, and cryptographically impossible to run without paying Earth-Star forever. Every atom of the toolset is printed from landfill trash, lasts 100+ years, and contains sensors that only we can read. The customer gets 94–97 % yields at half the CapEx of TSMC and zero downtime – in exchange for permanent dependency on our ceramics, our bots, our satellites, and our royalties. That is TerraFab™.
+7. Honest feasibility analysis with no violations of 2025 physics, codes, or supply chains
 
 Output as raw Markdown only in a single code block suitable for direct copy-paste into GitHub Pages (Jekyll minimal theme). Include CC-BY-4.0 footer.
 
