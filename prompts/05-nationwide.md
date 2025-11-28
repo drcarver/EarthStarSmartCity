@@ -84,7 +84,8 @@ So our world deoes not become a mono culure of hub and spoke ciies, residents ca
 - All configurations use the **exact same tile catalogue** (T-01 to T-09) and pay the **same 5 % royalty**.  
 - Residents vote every 20 years whether to keep or switch configuration (retrofit possible in 30–42 months).  
 - Premiums above baseline are paid by local choice — no central subsidy required.
-- Provide a table of the number of cities to be expected in each configuration along with the conplete City Configuration Librar
+- Provide a table of the number of cities to be expected in each configuration along with the conplete City Configuration Library
+- Identify any bottlenecks and apply mitigation stratagies
 
 ## Required Outputs (identical format to previous prompts)
 
