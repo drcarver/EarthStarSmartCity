@@ -30,6 +30,8 @@ All numbers, timelines, purities, and costs below have been independently correc
 3. No fab has ever reached 3 nm qualification in <46 months — TerraFab™ timeline moved accordingly  
 4. ASML High-NA tools cannot be placed in third-party pods without ASML ownership — TerraFab™ restructured as ASML-partnered turnkey  
 5. Realistic capex for a 30 k wspm 3 nm fab in 2034–2038 window: $9.2–11.4 B (not $2.8 B)
+6. 3d print any parts we can
+7. Add sensors as required o everything for our dashboard
 
 ## Genesis-1 Validated Specification (West Virginia)
 
