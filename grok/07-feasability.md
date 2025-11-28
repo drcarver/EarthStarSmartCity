@@ -73,4 +73,9 @@ theme: minimal
 
 **Chance of Success:** 65–75 % if executed perfectly – higher than Apollo (1960s tech) or China's Belt & Road (ongoing).  
 **Why It Can Work:** Bootstrap from Genesis profits → hit escape velocity by 2048 before funding dries. Royalties turn it into a $9 T+ cash machine. 2025 tech suffices; no moonshots needed.  
-**Why It Could Fail:** Politics (e.g., U
+**Why It Could Fail:** Politics (e.g., U.S. isolationism post-2032) or black-swan events (pandemic, war). Mitigation: Keep core IP proprietary; diversify factories early.  
+**Recommendation:** Double-down on U.S. pilots 2027–2040. If self-funding hit by 2048, green-light Fortress West. Open Cities only if West is locked in. No mercy on royalties – that's the moat.
+
+---
+
+*This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).*
