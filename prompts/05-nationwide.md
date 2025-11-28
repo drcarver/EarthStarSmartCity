@@ -20,6 +20,7 @@ Earth-Star Industries will deploy the Genesis Facility ceramic tile/kit supply c
 - Builds 82,000 miles of 220 mph High-Speed Rail along existing freight railroad rights-of-way using recycled ceramic-concrete slab track  
 - Upgrades or replaces up to 180 non-strategic military bases and provides stealth-ceramic façades for 80 critical DoD facilities  
 - Achieves >97 % material closure and marginal construction cost approaching $6,000–$8,000 per person after 2065
+- Provide pods for housing those who do not want to live in the new cities
 
 All construction uses only Genesis Facility tiles, studs, and flat-pack kits. All functional equipment uses standard 2025–2095 commercial systems installed inside ceramic structural shells.
 
@@ -33,6 +34,7 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
 2. **High-Speed Rail**  
    - 220 mph maximum (Brightline West / California HSR 2025 technology) on recycled ceramic-concrete slab  
    - Built exclusively along existing freight railroad ROW (no new eminent domain)
+   - Research Hyperloops and use of the boring machine tunnel boring machines when needed
 
 3. **Military Scope**  
    - Maximum 180 bases realistically de-commissionable + façade upgrades on 80 critical sites  
@@ -43,12 +45,12 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
    - Maximum 720 million acres rewilded (all cropland + pasture freed)  
    - All flood-control dams retained; only pure irrigation dams (~6,000) removed post-farm replacement
 
-5. **Exclusions (permanently removed as non-feasible with ceramics)**  
-   - Large undersea cities  
-   - Large floating cities  
-   - Ceramic-hulled ships  
-   - Supersonic ceramic aircraft  
-   - Global biome “Ark” megaprojects
+5. **Exclusions that need to be researched**  
+   - research undersea cities  
+   - researh floating cities  
+   - researh Ceramic-hulled ships  
+   - researh Supersonic ceramic aircraft  
+   - researh Global biome “Ark” megaprojects
 
 6. **Security & Standards**  
    - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value buildings  
