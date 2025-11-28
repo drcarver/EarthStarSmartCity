@@ -39,7 +39,7 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 | 2028–2029     | Same tent campus                  | 46,400 m²  | Ramp to 40 % capacity, generate $600+ M cumulative revenue/profit | $1.07 M       |
 | 2027–2029 total cost |                                       |            |                                         | $49.5 M       |
 
-Revenue begins Q2 2027. Permanent campus is built beside the tents using kits that have already earned money for two years.
+Revenue begins Q2 2027. Permanent campus is built beside the tents using kits that have already earned money for two years. Once the tent is no longer needed it is returned and any prchased equipment in it is rrecycled.
 
 ## TerraBot™ Modular Assembly Robot (Product Line 31–33)
 
