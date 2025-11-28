@@ -19,6 +19,7 @@ Each MHUE-50k node shall:
 - Achieve net exporter status for renewable electricity, water (humid climates), and verified carbon credits
 - Generate high-margin revenue from AI data centers, battery manufacturing, pharmaceuticals, and tourism
 - Enable progressive rewilding of adjacent lands through efficient urban design
+- Co-locae with existing genesis factory, terrafab ans farm
 
 ## Mandatory Technical Constraints (validated November 2025)
 
