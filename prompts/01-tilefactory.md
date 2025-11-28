@@ -31,6 +31,7 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 7.  The factory is bootstrapped inside a leased high-performance tent campus (2027–2029) before the permanent buildings are erected with proven kits.
 8.  TerraBot™ modular assembly robots are themselves shipped as flat-pack kits that can be assembled by other TerraBots and are the only machines that ever install anything on site.
 
+
 ## Phase 0 – Tent-First Bootstrap Campus (2027–2029)
 
 | Period        | Facility                          | Area       | Purpose                                 | Monthly lease |
@@ -127,6 +128,7 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
 - Waste processing: AI sorting, shredding, magnetic/eddy-current separation, pyrolysis of organics, vitrification of inorganics → zero landfill.
 - All productss packaged in PEZ inspired kits and deliered in IKEA style flat packs for easy assemble,  The parts are delivered in the correct order by the dispenser for easy assembly by robots or humans.
 - Kits are designed to be able to be assembed as automated as possible as soon as possible to cut down on time and cost.
+- Create aline of 3d printers. Build every single piece that is made of ceramic. Outsource everything that is made of glass, lasers, or electronics.
 - Any new buildings are built by bots using kits from eisting factories with human oversight and any manual labor required
 ## Campus Functions (all built with the hybrid system)
 - Waste receiving and pre-processing halls
