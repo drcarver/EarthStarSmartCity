@@ -21,6 +21,7 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 - Supplies all ceramic cladding and non-structural elements for downstream Earth-Star projects (Skyscraper Farms, MHUE cities, etc.)
 - Demonstrates full-scale hybrid construction using conventional steel or concrete primary structure with waste-derived ceramic cladding
 - Once one factory comes onlline begin a exponential epansion to replace all waste processing in cities across the country. This inludes recycling existing infrastructure as it is no longer needed.
+- Only the first factory requires a tent.  All others are built from factory supplied kits and robots with mininimal human supervision
 
 ## Key Design Principles (locked – no exceptions)
 1. **Ceramic tiles are 100 % non-structural** – function exactly like glass curtain wall, terra-cotta rainscreen, or porcelain panels. All gravity, wind, seismic, and blast loads are carried by a conventional steel or concrete frame/floor system.
