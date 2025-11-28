@@ -20,6 +20,7 @@ Each node shall:
 - Generate additional high-margin revenue from vitamins, cultured meat, biodegradable packaging, pharmaceuticals (nutraceuticals & simple APIs), and verified carbon credits
 - Enable progressive rewilding of >800 million acres of existing U.S. farmland by 2045
 - Do as much permitting and construcio in paralell as possible
+- 3d print as much as possible. Utilie our 3d printers in the fab.
 
 ## Mandatory Technical Constraints (validated November 2025)
 
