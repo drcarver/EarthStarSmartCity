@@ -11,7 +11,7 @@ theme: minimal
 All timelines, costs, and technical specifications are calculated from this date using only technology that is commercially proven or in paid pilot in November 2025.
 
 ## Core Mission
-Earth-Star Industries will deploy the Genesis Facility ceramic tile/kit supply chain to execute a 60-year phased transformation of the United States that by 2095 (base case) or 2075 (aggressive case):
+Earth-Star Industries will deploy the Genesis Facility ceramic tile/kit supply chain to execute a phased transformation of the United States.
 
 - Houses and feeds 360–400 million Americans in 7,200 self-sustaining MHUE-50k-class smart city districts  
 - Replaces 100 % of conventional U.S. agriculture with 9,300 validated hybrid Skyscraper Farm nodes (Prompt 2)  
