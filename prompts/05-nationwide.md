@@ -21,6 +21,8 @@ Earth-Star Industries will deploy the Genesis Facility ceramic tile/kit supply c
 - Upgrades or replaces up to 180 non-strategic military bases and provides stealth-ceramic façades for 80 critical DoD facilities  
 - Achieves >97 % material closure and marginal construction cost approaching $6,000–$8,000 per person after 2065
 - Provide pods for housing those who do not want to live in the new cities
+- All cities are co-located with the genesys factories, farns and terrafabs
+- Expansion can be expoential where possible
 
 All construction uses only Genesis Facility tiles, studs, and flat-pack kits. All functional equipment uses standard 2025–2095 commercial systems installed inside ceramic structural shells.
 
