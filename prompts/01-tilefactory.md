@@ -199,4 +199,6 @@ Generate a complete executive summary and project plan containing:
 5. Applicable U.S. federal/state grants and remediation incentives
 6. Honest feasibility analysis with no violations of 2025 physics, codes, or supply chains
 
+Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
+
 **This prompt is 100 % technically accurate, code-compliant, insurable, and bankable as of 21 November 2025.**
