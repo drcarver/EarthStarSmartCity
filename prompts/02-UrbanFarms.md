@@ -21,6 +21,7 @@ Each node shall:
 - Enable progressive rewilding of >800 million acres of existing U.S. farmland by 2045
 - Do as much permitting and construcio in paralell as possible
 - 3d print as much as possible. Utilie our 3d printers in the fab.
+- once a genesys factory cmes online we want to evaluate it to allow us to colocate a vertical farm
 
 ## Mandatory Technical Constraints (validated November 2025)
 
