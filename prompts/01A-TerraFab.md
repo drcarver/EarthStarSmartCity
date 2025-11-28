@@ -17,6 +17,7 @@ Construct and operate the first 30 M m²/yr waste-to-ceramic megafactory (Genesi
 - Accept gate fees to remediate landfills, brownfields, C&D, ELVs, ship scrap, and sewage sludge  
 - Produce only non-structural ceramic cladding, rainscreen, pavers, interiors, and validated semiconductor-grade ceramic components (chambers, liners, chucks, cleanroom envelope)  
 - Supply 100 % of the ceramic content for the future TerraFab™ semiconductor fab program (realistically 2–3 full nodes per year starting 2038)
+- 3d print as much as possible.  Utilie our 3d printers in the fab.
 
 All numbers, timelines, purities, and costs below have been independently corrected and signed off as bankable.
 
