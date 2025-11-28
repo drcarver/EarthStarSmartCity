@@ -1,120 +1,110 @@
 ---
 layout: default
-title: Earth-Star Industries Global Open-Access Programme – Prompt 6A “Open Cities”
-permalink: /open-cities/
-license: CC BY 4.0
+title: Earth-Star Industries Global Expansion Strategy – Prompt 6A “Open Gates”
+description: Controlled, royalty-funded global licensing of the Earth-Star ecosystem to any sovereign nation after Fortress West is secured. November 2025 baseline.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Earth-Star Industries Global Open-Access Programme  
-**Prompt 6A – “Open Cities” (Post-Fortress West Extension)**  
-**First non-Western-Hemisphere / non-NATO district groundbreaking:** 2 January 2072  
-(locked hard gate – only after Fortress West Phase 3 is ≥70 % complete and ≥1,000 total districts are revenue-positive)
+# Earth-Star “Open Gates” Programme (Prompt 6A)  
+**First Non-Western District Groundbreaking:** 2 January 2068  
+**Trigger condition:** Minimum 1,500 MHUE-50k districts operational and revenue-positive in NATO + Western Hemisphere countries (Fortress West Phase 3 complete)
 
 ## Core Mission
-After the defensive “Fortress West” bloc is irreversibly established and cash-flowing at continental scale, Earth-Star will open the proven MHUE-50k / Skyscraper Farm system to any sovereign nation on Earth that meets four non-negotiable conditions:
+Once the Western alliance is fully modernised, food-secure, and rewilded (≥1,500 districts, ≥75 million people, ≥280 million acres rewilded outside USA), Earth-Star opens the licensing spigot to any sovereign nation on Earth under the exact same financial, legal, and technical terms used in the Americas.
 
-1. Signs the 2070 Earth-Star Global Licence Agreement (identical commercial terms as Fortress West)  
-2. Accepts the permanent NC/SA clause (no military use, no transfer to sanctioned entities)  
-3. Pays the same 4–6 % gross royalty in USD or USD-equivalent  
-4. Allows Earth-Star final quality-certification authority on all load-bearing ceramic kits
+This is not charity — it is the controlled monetisation phase that turns Earth-Star Industries into the highest-value company in human history while retaining permanent veto power over strategic technologies.
 
-No geopolitical veto beyond existing U.S. export-control lists.  
-China, Russia, Iran, North Korea, Syria, Venezuela remain permanently excluded under ITAR / BIS rules.
+By 2100 (base) / 2095 (aggressive):
+- Additional 8,400 MHUE-50k equivalent districts in 138 new countries
+- Total global districts: 11,080 (2,680 Fortress West + 8,400 Open Gates)
+- Total population served: 554 million
+- Additional rewilded land: 1.42 billion acres (bringing global total to 2.15 billion acres)
+- Additional licensed Genesis factories: 42 (total global factories = 53)
+- Cumulative royalties to Earth-Star (2068–2100): $4.81 trillion (2025 USD)
 
-All other 140+ countries are eligible immediately upon signature.
+## Mandatory Constraints (locked – no exceptions)
 
-## Executive Summary – Open Cities Programme (2072–2150)
+1. **Trigger gate** – Export only begins after Fortress West Phase 3 (1,500 districts) is complete and independently audited.
+2. **Identical licensing terms** – Every country pays:
+   - 5 % gross royalty on every m² of tile produced locally
+   - 7 % royalty on all proprietary kits (data centers, battery plants, TerraFabs)
+   - One-time $800 M per district certification & training fee
+3. **Permanent strategic lock** – Stealth ceramics, smart airlock threat detection, 3 nm TerraFab pods, military-grade kits remain 100 % ITAR/EAR-controlled forever.
+4. **No discounts** – Same price for Singapore as for Somalia.
+5. **Veto power** – Earth-Star can revoke certification and cut off kit supply for any country with 90-day notice (enforced via embedded firmware in TerraBots and compliance portals).
 
-| Metric                               | Base Case (2150) | Aggressive Case (2142) |
-|--------------------------------------|------------------|------------------------|
-| Additional districts licensed        | 9,400            | 9,400                  |
-| Additional population housed & fed   | 470 million      | 470 million            |
-| Additional Skyscraper Farms          | 12,220           | 12,220                 |
-| Additional acres rewilded            | 1.82 billion     | 1.82 billion           |
-| New Genesis-class factories licensed | 38               | 38                     |
-| Total programme CapEx (2025 USD)     | $68.2 trillion   | $68.2 trillion         |
-| Earth-Star royalty revenue (2072–2150)| $5.1 trillion   | $5.1 trillion          |
-| NPV to Earth-Star (2072–2150, 6 %)   | $184 trillion    | $212 trillion          |
-| IRR (royalty-only cash flow)         | 28.6 %           | 31.2 %                 |
+## Phased Global Roll-Out (2068–2100)
 
-## 1–2. Phased Global Roll-Out (Base Case)
+| Period       | New Districts Added | Cumulative Global Districts | Population Served (M) | New Genesis Factories | Additional Acres Rewilded (B) |
+|--------------|---------------------|-----------------------------|------------------------|-----------------------|-------------------------------|
+| 2068–2075    | 680                 | 3,360                       | 168                    | 6                     | 0.18                          |
+| 2076–2085    | 2,400               | 5,760                       | 288                    | 14                    | 0.52                          |
+| 2086–2095    | 4,120               | 9,880                       | 494                    | 18                    | 1.10                          |
+| 2096–2100    | 1,200               | 11,080                      | 554                    | 4                     | 1.42 (final)                  |
 
-| Period      | Country Group                                 | Districts | Cum. Population (M) | Genesis Factories Added | Acres Rewilded (M) |
-|-------------|-----------------------------------------------|-----------|---------------------|-------------------------|--------------------|
-| 2072–2079   | India, Indonesia, Philippines, Vietnam, Thailand | 1,800     | 90                  | 9                       | 340                |
-| 2080–2089   | Africa (Nigeria, Ethiopia, Egypt, Kenya, South Africa, Ghana + 22 others) | 3,200 | 160             | 14                      | 620                |
-| 2090–2099   | Remaining Asia (Bangladesh, Pakistan, Malaysia, etc.) | 2,100 | 105             | 9                       | 410                |
-| 2100–2150   | Middle East (UAE, Saudi, Turkey, Israel), Central Asia, Pacific Islands | 2,300 | 115             | 6                       | 450                |
-| **Total**   |                                               | **9,400** | **470**             | **38**                  | **1,820**          |
+## Projected Top 15 Non-Western Participants (by 2100)
 
-## 3. Genesis Factory Licensing Plan (38 additional plants)
+| Rank | Country              | Districts | Population Served (M) | Notes |
+|------|----------------------|-----------|-----------------------|-------|
+| 1    | India                | 1,820     | 91                    | Largest licensee |
+| 2    | Indonesia            | 860       | 43                    | Archipelagic configuration |
+| 3    | Nigeria              | 620       | 31                    | Lagos mega-cluster |
+| 4    | Pakistan             | 480       | 24                    | Indus River linear cities |
+| 5    | Bangladesh           | 380       | 19                    | Delta floating variants |
+| 6    | Egypt                | 340       | 17                    | Nile canyon configuration |
+| 7    | Vietnam              | 280       | 14                    | Coastal wall cities |
+| 8    | Philippines          | 260       | 13                    | Ocean hex clusters |
+| 9    | Ethiopia             | 240       | 12                    | Terraced mountain |
+| 10   | Turkey               | 220       | 11                    | Bridge cities |
+| 11–15| Thailand, Kenya, South Africa, Morocco, Malaysia | 1,900 combined | 95 combined | Various |
 
-- All follow identical 60/40 JV + 4–6 % royalty model  
-- Earth-Star retains golden-share veto on any military diversion  
-- Typical partners: Adani (India), Dangote (Nigeria), Astra (Indonesia), Koç (Turkey), etc.
+## Global Genesis Factory Network (Final 53 Factories – 2100)
 
-## 4. Licensing Terms – Identical Worldwide (2072 onward)
+| Region                  | Number of Factories | Annual Tile Output (billion m²) |
+|-------------------------|---------------------|---------------------------------|
+| United States           | 18                  | 1.08                            |
+| Fortress West           | 11                  | 0.66                            |
+| India + Indian Ocean    | 9                   | 0.54                            |
+| Africa                  | 7                   | 0.42                            |
+| Southeast Asia          | 5                   | 0.30                            |
+| Middle East + Central Asia | 3                | 0.18                            |
+| **Total**               | **53**              | **3.18 billion m²/year**        |
 
-| Item                                      | License Type            | Royalty | Military Use Allowed? |
-|-------------------------------------------|-------------------------|---------|-----------------------|
-| Standard & functional ceramic tiles       | CC-BY-NC-SA-4.0         | 4–6 % gross | No                    |
-| Skyscraper Farm kits                      | CC-BY-NC-SA-4.0          | 4 % gross | No                    |
-| Smart-road, HSR slab, residential pods    | CC-BY-NC-SA-4.0         | 5 % gross | No                    |
-| Stealth ceramics, hyperspectral airlocks, AI data-center kits, gigafactory kits | Permanently withheld | 100 % proprietary / ITAR | —       | —                     |
+## Financial Impact to Earth-Star Industries (2068–2100 only)
 
-## 5. Funding Realism (Open Cities)
+| Revenue Stream                  | Cumulative 2068–2100 ($ trillion 2025 USD) |
+|---------------------------------|--------------------------------------------|
+| 5 % tile royalties              | 1.84                                       |
+| 7 % proprietary kit royalties   | 2.61                                       |
+| Certification & training fees   | 0.36                                       |
+| **Total Open Gates royalties**  | **4.81**                                   |
 
-| Source                                      | % of CapEx | Notes |
-|---------------------------------------------|------------|-------|
-| Host-country sovereign debt & budgets       | 44 %       | Same as Fortress West |
-| Asian Infrastructure Investment Bank / NDB  | 18 %       | Already exist 2025 |
-| Islamic Development Bank + Gulf SWFs        | 16 %       | Proven infra investors |
-| African Development Bank + China Exim alternative (non-Chinese) | 12 %   | |
-| Earth-Star royalties + parent cash sweep    | 10 %       | Reinvested U.S. profits |
+Combined with Fortress West ($1.91 T), total post-2068 royalty income = $6.72 trillion.
 
-No charity, no grants, no fantasy global fund.
+## Licensing Tiers – Final Global Structure (Locked Forever)
 
-## 6. Programme Cash-Flow to Earth-Star (royalty-only, USD trillions, 2025)
+| Tier | Contents                                      | License Type                  | Royalty |
+|------|-----------------------------------------------|-------------------------------|---------|
+| 1    | Standard tiles, civilian kits, farm pods      | CC-BY-NC-SA-4.0               | 5 %     |
+| 2    | Data centers, battery plants, TerraFab ≤7 nm  | Case-by-case bilateral        | 7 %     |
+| 3    | Stealth ceramics, smart airlocks, 3 nm TerraFab, military kits | Never exported        | N/A     |
 
-| Decade   | Districts Online (cum.) | Annual Royalty | Cumulative Royalty |
-|----------|--------------------------|----------------|--------------------|
-| 2072–79  | 1,800                    | 0.09           | 0.72               |
-| 2080–89  | 5,000                    | 0.24           | 2.64               |
-| 2090–99  | 7,100                    | 0.36           | 5.88               |
-| 2100–50  | 9,400                    | 0.48           | 19+                |
+## Honest Feasibility & Realpolitik Assessment (November 2025)
 
-Pure royalty cash flow, zero CapEx risk to Earth-Star after 2072.
-
-## 7. Final Proprietary Firewall (Never Released)
-
-- All stealth / radar-absorbing ceramics  
-- Hyperspectral weapon/explosive airlocks  
-- AI data-center DC-native server & cooling kits  
-- LFP/Na-ion & next-gen solid-state battery process kits  
-- TerraBot™ Mk4+ controller source code  
-- All nuclear-related ceramic shielding
-
-Everything else is licensed under NC/SA.
-
-## 8. Aggressive but 100 % Honest Feasibility Verdict (November 2025 view)
-
-- Starts only after Fortress West is an unassailable economic & military fact (2072)  
-- Uses exactly the same contract template proven in 2,680 Western districts  
-- Royalty-only model means Earth-Star bears zero construction, political, or currency risk  
-- NC/SA clause legally prevents reverse-engineering into military applications by non-allies  
-- Demand will be overwhelming: every country not on the sanctioned list will queue once India & Nigeria are seen succeeding  
-- No new technology required — pure licensing scale-out of 2040s-proven system
+**Probability of reaching Open Gates phase:** 91 %  
+**Probability any country ever gets Tier 3 technology:** <1 %  
+**Risk of full technology leakage:** <6 % (non-commercial + share-alike + firmware kill switches)  
+**Expected Earth-Star valuation in 2100 (2025 USD):** $38–44 trillion
 
 **Conclusion**  
-Prompt 6A “Open Cities” is not charity and not open-source suicide.  
-It is the controlled, profitable, and geopolitically safe globalisation of the most valuable construction system ever created — while permanently ring-fencing every technology that actually matters for Western strategic superiority.
+“Open Gates” is the final monetisation stage that:
+- Makes Earth-Star the permanent owner of global urban infrastructure
+- Funds indefinite R&D without taxpayers or VCs
+- Maintains absolute Western strategic superiority
+- Ends hunger and conventional agriculture everywhere that pays
 
-Earth-Star makes >$5 trillion in pure royalty profit and brings modern housing, food, and energy to ~470 million additional humans — all without spending a single dollar of its own after 2072.
-
-**Recommendation:**  
-Keep the gate closed until 2072.  
-Then open it wide — on our terms.
+It is the most profitable and responsible way to give the entire world the same system — on our terms, forever.
 
 ---
 
