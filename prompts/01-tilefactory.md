@@ -32,8 +32,8 @@ Construct the first Genesis Facility: a waste-to-circular-materials megafactory 
 6.  Every single item ever used inside the Genesis Facility itself — from the very first temporary office to the final 400-ton SACMI kiln — is delivered and installed as a TerraBot™-assembled flat-pack kit. There is no exception.
 7.  The factory is bootstrapped inside a leased high-performance tent campus (2027–2029) before the permanent buildings are erected with proven kits.
 8.  TerraBot™ modular assembly robots are themselves shipped as flat-pack kits that can be assembled by other TerraBots and are the only machines that ever install anything on site.
-
-
+9.  Terrabots can act as roving security with telepresnce when needed in all buildings.  they are supplimented with human oversite.
+    
 ## Phase 0 – Tent-First Bootstrap Campus (2027–2029)
 
 | Period        | Facility                          | Area       | Purpose                                 | Monthly lease |
