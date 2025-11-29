@@ -39,6 +39,9 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
 2. **High-Speed Rail**  
    - 220 mph maximum (Brightline West / California HSR 2025 technology) on recycled ceramic-concrete slab  
    - Built exclusively along existing freight railroad ROW (no new eminent domain)
+   - The HSR corridors essentially become national lifelines, carrying not just transport, but energy, water, data, emergency response, and environmental restoration functions.
+   - Depending on the biome, some systems are critical (e.g., water in deserts) while others are optional or redundant.
+   - Costal cities can provide desalination.  In those cases the brine should be refined to the maximim p9ssible for use in genesys factories
    - Research Hyperloops and use of the boring machine tunnel boring machines when needed
 
 3. **Military Scope**  
