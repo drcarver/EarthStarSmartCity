@@ -43,6 +43,7 @@ Each MHUE-50k node shall:
 15. Terrabots can act as roving security with telepresnce when needed with some telepresence from human oversite
 16. All city services are paid from city profits as needed.  Most of the city services are monitored and controlled by a central AI that can monitor the city throgh its sensor net.
 17. Each city has a elected council and any matter can be brought up for a full electronic vote by  the citiens of the city.
+18. Cities also will do Atmospheric carbon remediation and remediate all the swamps, rivers, lakes and oceans while replacing fish from overfisihig. Plantig coral and algae as needed while removing plastics
 
 ## Campus Functions (all built with hybrid system)
 
