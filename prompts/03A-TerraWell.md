@@ -65,7 +65,7 @@ Generate a complete executive summary containing:
 4. Mobile unit specifications & disaster response protocols
 5. Political risk reduction analysis
 6. Integration rules with core Earth-Star industrial stack (none allowed)
-7. Place any diagrams in triple tick marks
+7. Dont include diagrams.  Use text descriptions instead
 
 All services remain 100 % free forever. All facilities use only standard Genesis ceramic tiles and kits. Smart airlocks with hyperspectral screening on every entrance.
 
