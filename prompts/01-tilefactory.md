@@ -134,6 +134,8 @@ Revenue begins Q2 2027. Permanent campus is built beside the tents using kits th
 - The 3d printers should be built in the tents as quickly as possible to maximie their use in building the factory, Print s many printer parts we can in house. Outsource the rest
 - We want to 3d print prts wherever possible.  we should also add any snsors required to the printers.
 - Any new buildings are built by bots using kits from eisting factories with human oversight and any manual labor required
+- Manufacture our own plasma torches under license
+ 
 ## Campus Functions (all built with the hybrid system)
 - Waste receiving and pre-processing halls
 - Ceramics production lines (kilns, glazing, lamination)
