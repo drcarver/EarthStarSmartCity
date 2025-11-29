@@ -24,9 +24,8 @@ Earth-Star Industries will deploy the Genesis Facility ceramic tile/kit supply c
 - All cities are co-located with the genesys factories, farns and terrafabs
 - Expansion can be expoential where possible
 - Provided housing and medical support  included assisted living facilities, nursing homes etc to retires on social security in exchnge for a percentage of there ssi with Opimus careivers (when available)
-- Seniors can keep their savings.  This draws seniors into our cities (along withtheir families) 
-
-
+- Seniors can keep their savings.  This draws seniors into our cities (along withtheir families)
+- Expand Terawell into rural america
 
 All construction uses only Genesis Facility tiles, studs, and flat-pack kits. All functional equipment uses standard 2025–2095 commercial systems installed inside ceramic structural shells.
 
