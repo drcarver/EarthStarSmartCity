@@ -1,11 +1,11 @@
 ---
-title: Earth-Star Industries Prompt 11 – TerraWell FreeCare System (November 2025)
+title: Earth-Star Industries Prompt 03A – TerraWell FreeCare System (November 2025)
 description: Standalone, fully private, tax-deductible, zero-entanglement humanitarian layer that operates parallel to the core industrial stack. 100 % free food, medicine, medical devices, urgent care, primary care, mental health, and mobile response for all citizens.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Prompt 11 – TerraWell FreeCare System  
+# Prompt 03A – TerraWell FreeCare System  
 **“Everything Free, Everything Deductible” – Validated Master Specification (November 2025)**
 
 **Locked first FreeCare centers & mobile units:** Q1 2035  
@@ -13,6 +13,7 @@ All timelines, costs, and legal structures calculated from this date using only 
 
 ## Core Mission
 Create a nationwide (later global) network of **100 % free** health & food centers and mobile units that:
+- Supplies food banks with packaging branded for the food bank
 - Give away all services and products at zero charge to the public
 - Operate as a genuine 501(c)(3) nonprofit (TerraWell Foundation) funded entirely by fair-market-value donations from Earth-Star Industries (for-profit)
 - Generate massive tax deductions that effectively make the entire program free or cash-positive to Earth-Star after tax savings
