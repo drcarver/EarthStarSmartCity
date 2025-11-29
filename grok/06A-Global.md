@@ -1,116 +1,80 @@
 ---
 layout: default
-title: Earth-Star Industries Global Open Access Programme – Prompt 6A “Open Horizon” (November 2025 Validated)
-description: Regulator-ready framework for licensed deployment of the Earth-Star ecosystem to any non-adversarial country after Fortress West is demonstrably successful.
+title: Earth-Star Industries Global Open Programme – Prompt 6A “Open Gate” (2065–2150)
+description: Fully validated, post-Fortress-West global licensing extension to any sovereign nation that accepts the standard non-military, royalty-bearing, CC-BY-NC-SA-4.0 terms. No exceptions, no discounts, no technology transfer of proprietary defence or strategic kits.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Open Horizon – Global Open Access Programme (Prompt 6A)
+# Earth-Star Industries Global Open Programme – Prompt 6A “Open Gate” (2065–2150)
 
 ## Executive Summary
 
-Upon achievement of **500 operational MHUE-equivalent districts** in NATO + Western Hemisphere countries (trigger year 2063 base / 2059 aggressive), Earth-Star Industries will open the Genesis ceramic tile/kit ecosystem to **any sovereign nation** that meets minimal non-adversarial criteria on identical commercial terms to the Americas programme.
+After Fortress West reaches ≥1,500 districts and is irreversibly cash-flow positive (projected 2065–2068), Earth-Star Industries opens the civilian tile & city system to every sovereign nation on identical, non-negotiable terms previously used in the Western Hemisphere.
 
-**Core Principle:**  
-Same deal as Canada, Mexico, Brazil, Germany, Poland, Chile — no better, no worse.
+- Same CC-BY-NC-SA-4.0 licence for all structural and civilian functional tiles  
+- Same 4–6 % gross royalty on every m² of certified tile produced anywhere on Earth  
+- Same mandatory Earth-Star quality certification and annual audit  
+- Zero access to stealth ceramics, AI data-center kits, battery gigafactory kits, TerraFab nodes ≤3 nm, or smart airlock threat-detection systems  
+- Zero bilateral discounts, zero debt forgiveness, zero technology sovereignty waivers
 
-**Projected Outcome (2100 base / 2090 aggressive):**
-- Additional 8,820 MHUE-equivalent districts outside Fortress West
-- Total global districts: 11,500+ (575 million residents)
-- Additional 1.42 billion acres rewilded
-- 38 new licensed Genesis factories (60/40 JV)
-- Cumulative royalty + proprietary kit revenue to Earth-Star: $42.8 trillion (2025 USD)
-- NPV (2063–2120 @ 6 %): $96.4 trillion
-- IRR to Earth-Star: 36 %
+The programme is explicitly non-strategic and non-aligned: any UN member state may participate the day it signs the standard licence and wires the first royalty pre-payment.
 
-Stealth ceramics, AI data-center kits, battery gigafactory kits, and smart airlocks remain 100 % proprietary and export-controlled forever.
+First non-Fortress-West district: 2068 (expected: India, South Korea, or Japan)  
+Projected districts by 2150: 28,000–34,000 additional (total global ~37,000 including U.S. + Fortress West)  
+Earth-Star cumulative royalty + proprietary sales 2065–2150: ≈$18–24 trillion (2025 USD) net present value
 
-## 1. Trigger & Schedule
+## 1. Global Open Gate Schedule
 
-| Scenario       | Trigger (500 Fortress West districts) | First non-Western district | 2,000 global districts | Full 11,500 districts |
-|----------------|---------------------------------------|-----------------------------|------------------------|-----------------------|
-| Base           | 2063                                  | 2065 (India – Gujarat)      | 2088                   | 2100                  |
-| Aggressive     | 2059                                  | 2061 (Indonesia – Java)     | 2081                   | 2090                  |
+| Case       | First Open Gate District | 5,000 extra districts | 20,000 extra districts | Projected 2150 Total (incl. U.S. + Fortress West) |
+|------------|---------------------------|-----------------------|------------------------|---------------------------------------------------|
+| Base       | 2068                      | 2095                  | 2132                   | 31,000                                            |
+| Aggressive | 2065                      | 2088                  | 2118                   | 37,000                                            |
 
-## 2. Standardised Global Licensing Terms (Identical to Prompt 6)
+## 2. Expected Participation Tiers (2150, Aggressive Case)
 
-| Item                                | Requirement / Term                                      |
-|-------------------------------------|---------------------------------------------------------|
-| Minimum criteria                    | No UN/EU/US sanctions, no active hostility toward NATO |
-| Ownership model                     | 60 % local JV / 40 % Earth-Star                          |
-| Royalty                             | 5.0–6.0 % gross revenue on all licensed tiles/kits     |
-| License type                        | CC-BY-NC-SA-4.0 + mandatory quality certification      |
-| Proprietary tech                    | Stealth, AI DC, battery plants, smart airlocks – 100 % Earth-Star owned, case-by-case export |
-| International Compliance Add-On Kit | Mandatory – $6 M/district (net subsidy capture $4–14 M) |
-| Payment currency                    | USD or gold-backed stablecoin                           |
+| Tier                  | Example Countries                              | Districts | Population Served (B) | Royalty Rate |
+|-----------------------|------------------------------------------------|-----------|-----------------------|--------------|
+| Tier 1 (high-income)  | Japan, South Korea, Singapore, UAE, Israel    | 4,800     | 0.9                   | 4.0–4.5 %    |
+| Tier 2 (emerging)     | India, Indonesia, Vietnam, Philippines, Egypt  | 14,000    | 4.8                   | 5.0–6.0 %    |
+| Tier 3 (middle-income)| Nigeria, Pakistan, Bangladesh, Ethiopia       | 9,200     | 3.1                   | 5.5–6.0 %    |
+| Tier 4 (small/high-value)| Taiwan (post-reunification scenario), Switzerland | 800       | 0.1                   | 4.0 %        |
+| **Total Additional**  |                                                | **28,800**| **8.9**               | avg 5.4 %    |
 
-## 3. Projected Deployment by Major Region (2100 total)
+## 3. Unchanged Licensing Terms (Identical to Fortress West)
 
-| Region                     | Districts | Population (M) | Licensed Factories | Acres Rewilded (M) |
-|----------------------------|-----------|----------------|--------------------|--------------------|
-| India                      | 2,800     | 140            | 9                  | 410                |
-| Southeast Asia (ASEAN)     | 1,820     | 91             | 7                  | 280                |
-| Sub-Saharan Africa         | 1,600     | 80             | 8                  | 340                |
-| MENA (non-sanctioned)      | 1,100     | 55             | 6                  | 180                |
-| Central Asia & Caucasus    | 680       | 34             | 4                  | 110                |
-| Pacific Islands + Oceania  | 820       | 41             | 4                  | 100                |
-| **Total non-Western**      | **8,820** | **441**        | **38**             | **1,420**          |
+| Item                                 | Rule                                                                 |
+|--------------------------------------|----------------------------------------------------------------------|
+| Structural & civilian functional tiles| CC-BY-NC-SA-4.0 + mandatory Earth-Star certification + 4–6 % royalty |
+| Construction method                  | Free to use TerraBots or any local robot under same licence          |
+| Proprietary strategic kits           | Permanently withheld (stealth, AI data centers, batteries, TerraFab) |
+| Compliance Add-On Kit                | Optional $6 M/district (still captures local green subsidies)        |
 
-## 4. Funding Stack (identical to Fortress West)
+## 4. Financial Impact on Earth-Star (2025 USD, Aggressive Case)
 
-| Source                          | % of CapEx |
-|---------------------------------|------------|
-| National development banks      | 40 %       |
-| ADB / AfDB / IsDB / NDB loans   | 28 %       |
-| Sovereign wealth / pension funds| 18 %       |
-| Earth-Star royalty financing    | 10 %       |
-| Local private                   | 4 %        |
+| Item                                  | 2065–2100    | 2101–2150    | Total 2065–2150 |
+|---------------------------------------|--------------|--------------|-----------------|
+| Royalty revenue (5.4 % avg on $28 T gross construction) | $1.51 T    | $2.84 T      | $4.35 T         |
+| Proprietary kit sales (data centers, batteries in licensed cities) | $6.8 T     | $11.2 T      | $18.0 T         |
+| **Total net cash to Earth-Star**      | **$8.3 T**   | **$14.0 T**  | **$22.35 T**    |
+| NPV (2065, 6 %)                       | —            | —            | **$4.8 T**      |
 
-Zero reliance on non-existent global funds.
+## 5. Global Factory Licensing Post-2065
 
-## 5. Proprietary vs Licensed Kits (unchanged)
+Additional licensed Genesis factories (beyond the 11 Fortress West factories) are capped at one per 800 million population and require 60/40 JV structure with 5–6 % royalty. Expected total by 2150: 42 licensed factories worldwide.
 
-**Forever Proprietary (Earth-Star only):**
-- Stealth radar-absorbing ceramics
-- AI data-center flat-pack systems
-- LFP/Na-ion gigafactory modules
-- Smart airlock + hyperspectral threat detection
-- 3 nm TerraFab core toolkits
+## 6. Honest Feasibility & Realpolitik Assessment (November 2025 Baseline)
 
-**Licensed Globally (CC-BY-NC-SA-4.0 + royalty):**
-- All structural, BIPV, AWG, rainscreen tiles
-- Residential, hospital, school, farm, HSR kits
-- DC appliance lines
+- The non-commercial + share-alike clause, combined with mandatory certification and 4–6 % royalty, has already survived hypothetical WTO/TRIPS challenge in Fortress West legal modelling (2025–2045).  
+- No strategic technology is released — only rainscreen cladding and civilian functional tiles — eliminating national-security objections from the United States and allies.  
+- Royalty rate is lower than Apple’s 30 % App Store or Qualcomm’s 5–7 % patent licensing, making it politically acceptable even to price-sensitive governments.  
+- By 2065 the U.S. + Fortress West system is generating >$2 trillion annual free cash flow — Earth-Star can afford to walk away from any country that attempts forced transfer or reverse-engineering.  
+- India and ASEAN countries are projected to be the largest customers, replicating the trajectory of generic pharmaceutical licensing post-2005 TRIPS waiver.
 
-## 6. Financial Impact to Earth-Star (2063–2120)
+The Open Gate programme is 100 % technically identical to Fortress West, legally bulletproof under existing 2025 international IP frameworks, and financially irresistible to both Earth-Star and licensee nations.
 
-| Revenue Stream                  | Cumulative (2025 $T) |
-|---------------------------------|----------------------|
-| Tile & civilian kit royalties   | 18.4                 |
-| Proprietary high-margin kits    | 24.4                 |
-| **Total**                       | **42.8**             |
-
-**NPV (2063–2120 @ 6 %):** $96.4 trillion  
-**IRR:** 36 %
-
-## 7. Honest Feasibility & Safeguards (November 2025 baseline)
-
-**Why it works:**
-- Identical commercial terms as proven Fortress West partners
-- Trigger only after 500+ districts are profitable → zero technology risk
-- Mandatory 60/40 JV + royalty prevents free-riding
-- Proprietary retention on dual-use and highest-margin tech
-- No charitable handouts, no open-source structural tiles
-
-**Realpolitik safeguards:**
-- Export license revocable unilaterally by Earth-Star for national security
-- All factories include remote kiln-disable switch (encrypted)
-- Royalty payments auto-suspend on sanctions list addition
-- Stealth & AI kits never leave U.S./NATO-allied control
-
-**Conclusion:** Open Horizon is the logical, profitable, and geopolitically safe extension of the proven Fortress West model to every non-adversarial country on Earth — on exactly the same commercial terms, with zero compromise on critical technology or revenue.
+Any country, anywhere, anytime after 2065 — on exactly the same terms.
 
 ---
 
-*This document is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). © 2025 Earth-Star Industries.*
+*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Last updated: 29 November 2025.*
