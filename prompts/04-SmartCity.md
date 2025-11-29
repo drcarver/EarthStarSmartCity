@@ -40,14 +40,18 @@ Each MHUE-50k node shall:
 12. Provide for a line of electric barges to haul garbage and other shipping.
 13. spokes handle all heavy trafiic.  All other roads are true smart roads built with out foundation and regular tiles to harves rain and provide water and electricity.
 14. Standards: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local codes, NASA CELSS-derived monitoring.
+15. Terrabots can act as roving security with telepresnce when needed with some telepresence from human oversite
+16. All city services are paid from city profits as needed.  Most of the city services are monitored and controlled by a central AI that can monitor the city throgh its sensor net.
+17. Each city has a elected council and any matter can be brought up for a full electronic vote by  the citiens of the city.
 
 ## Campus Functions (all built with hybrid system)
 
-- Residential: Luxury homes and low-income apartments
+- Residential: Luxury homes and apartments.  For goverment purpose they can all beconsidred low income housing, although with the modular nature of the buildings they are as luurios as needed.
+- Most services are free to residents.  We can use these features as well as the founders zone to attract young professionals
 - Skyscraper Farms: 2 vertical + horizontal regenerative
 - Healthcare: Level I trauma hospital
 - Education: K-12 + college campus
-- Commercial: Shopping mall, entertainment, hotels
+- Commercial: Shopping mall, entertainment, hotels.  Non city supplied items can be bought as normal with terrabots providing security
 - Industrial: LFP/Na-ion battery factory, 150 MW AI data center along with a terrafab.
 - Supporting: Government, religious, amenities
 
