@@ -184,6 +184,15 @@ Give a cost breakdown and revenue analysis for each.  Specify when they enter pr
 ## Security & Standards
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
 - Full compliance: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local seismic/hurricane codes, NASA CELSS-derived monitoring where applicable
+- 
+| Level               | Standard / Framework           | Enhancements                                                                                  | Linked SDGs |
+|--------------------|--------------------------------|------------------------------------------------------------------------------------------------------------|-------------|
+| **Building-Specific** | LEED Platinum                   | Regular commissioning of HVAC, lighting, and energy systems; perform energy audits; update material sourcing for low embodied carbon; ensure adaptive reuse of tiles/kits. | SDG 7, 9, 11, 12, 13 |
+|                    | WELL Building Standard           | Maintain air quality sensors; calibrate thermal, lighting, and acoustic controls; gather occupant feedback; monitor indoor environmental quality continuously. | SDG 3, 6, 7, 11 |
+|                    | Fitwel                          | Track occupant health and safety KPIs; ensure accessibility audits; conduct post-occupancy surveys; implement occupant wellness programs. | SDG 3, 10, 11 |
+|                    | BREEAM Outstanding              | Update lifecycle assessments for all materials and processes; ensure imported equipment LCAs are validated; implement maintenance of energy/water-efficient systems. | SDG 6, 7, 9, 11, 12, 13 |
+|                    | NIST 800-53 (cybersecurity)     | Continuous IoT and building systems monitoring; routine patching and penetration tests; enforce access control; implement anomaly detection for smart building systems. | SDG 9, 16 |
+
 
 ## Smart Roads
 - **Primary market remains building cladding** — predictable, large volume, lower certification cost.
