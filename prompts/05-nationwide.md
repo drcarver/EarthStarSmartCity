@@ -47,6 +47,7 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
 3. **Military Scope**  
    - Maximum 180 bases realistically de-commissionable + façade upgrades on 80 critical sites  
    - 100 % DoD-funded via MILCON + black budget
+   - nuclear waste vitrification.
 
 4. **Agriculture & Rewilding**  
    - 9,300 hybrid Skyscraper Farm nodes (Prompt 2 validated) replace 100 % of U.S. agriculture  
