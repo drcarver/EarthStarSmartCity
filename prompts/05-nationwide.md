@@ -68,7 +68,6 @@ All construction uses only Genesis Facility tiles, studs, and flat-pack kits. Al
 7. **Self funding**
    - We need to be self-financing as soon as we can because public funds are bound to dry up.  We should also look at grants or loans we can get from blue/green certifications.  We also need to fund R&D into our core technology and keep up with the rest of the world.  If it turns out, we can do better we can swap out tiles fairly easily.
    - Include terrafabs in costing and revenue calculations
-   - Create “Legacy Buy-Out Fund” – MHUE surplus buys failing cities at 20 ¢ on the dollar, converts them into new districts
    - Add “Natalist Package” – every child born in an MHUE city gets a $1 M trust fund at 18, paid by city surplus (starts 2060) to fight Fertility collapse
    - Build CRISPR-Phage Foundry inside every TerraFab-3 by 2050 – continuous production of personalised phage cocktails to fight Antibiotic-resistant superbugs
 
