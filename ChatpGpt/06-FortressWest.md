@@ -1,136 +1,146 @@
 ---
 title: Earth-Star Industries Western Hemisphere Transformation Strategy – Executive Summary
-description: Fully validated, bankable, and geopolitically credible plan for international deployment of MHUE-50k districts, Skyscraper Farms, and infrastructure.
+description: Complete regulator-ready Western Hemisphere transformation plan incorporating MHUE-50k expansion, Genesis factories, Skyscraper Farms, and strategic HSR.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Earth-Star Industries Western Hemisphere Transformation Strategy – 2045–2100
+# Earth-Star Industries – Western Hemisphere Transformation Strategy
 
 **Start Date:** 2 January 2045  
-**Mission:** Expand proven U.S. MHUE-50k smart city network internationally across NATO and Western Hemisphere partners while maintaining proprietary technology and realistic funding constraints.
+**Scope:** Defensive, NATO-aligned, Western-Hemisphere expansion of proven U.S. domestic program.
 
 ---
 
-## 1. Executive Summary
+# 1. Core Mission
 
-Earth-Star Industries will:
+Earth-Star Industries “Fortress West” initiative aims to:
 
-- Deploy **2,680 MHUE-50k-equivalent districts** across 54 participating countries  
-- Replace all conventional agriculture in partner nations with **licensed Skyscraper Farm nodes**  
+- Deploy **2,680 MHUE-50k equivalent districts** across 54 cooperating countries  
+- Replace **100% of conventional agriculture** in participating countries via licensed Skyscraper Farm nodes  
 - Rewild **510 million acres** outside the U.S.  
-- Build **18,000 miles of strategic high-speed rail (220–250 mph)** on vetted freight corridors  
-- Establish **11 additional Genesis-class factories** under mandatory 60/40 local JV + 4–6 % royalty  
-- Achieve >95 % material closure using **local brownfields, landfills, and demolition waste**  
-- Retain **proprietary stealth ceramics, AI kits, battery gigafactory kits, and smart airlock systems**  
+- Construct **18,000 miles of 220–250 mph HSR** on politically vetted freight corridors  
+- Build **11 additional Genesis-class factories** under mandatory 60/40 local JV + 4–6% royalty  
+- Achieve **>95% material closure** using local brownfield, landfill, and demolition feedstock  
+- Retain **full proprietary control** of stealth ceramics, AI data-center kits, battery gigafactory kits, and smart airlocks
 
 ---
 
-## 2. Phased Roll-Out Table
+# 2. International Licensing Model
 
-| Phase | Years       | Countries | MHUE-50k Districts | Population Served (millions) | Skyscraper Farms | Acres Rewilded (millions) |
-|-------|------------|-----------|------------------|-----------------------------|-----------------|---------------------------|
-| Base  | 2045–2070 | 30        | 1,200            | 60                          | 1,560           | 180                       |
-| Aggressive | 2045–2084 | 54     | 2,680            | 130                         | 3,500           | 510                       |
-
----
-
-## 3. Global Genesis Factory Build-Out
-
-| Factory # | Location        | Ownership Model | Start Date | Units Built | Notes |
-|-----------|----------------|----------------|------------|------------|-------|
-| 1–11      | Strategic Sites | 60/40 JV + 4–6% royalty | 2045–2055 | 11       | Licensed production only; all proprietary kits excluded |
+| Item | Release Status | Licensing Terms | Notes |
+|------|---------------|----------------|-------|
+| Structural tiles | CC-BY-NC-SA-4.0 | 4–6% gross royalty, Earth-Star certification required | Civilian construction only |
+| Skyscraper Farm kits | Licensed | 4–6% royalty | Includes vertical/horizontal regenerative components |
+| TerraFab industrial kits | Proprietary | None | AI chips, advanced pharmaceuticals, generic drugs |
+| Smart airlocks & threat-detection | Proprietary | None | Security-critical, ITAR-controlled |
+| HSR kits | Licensed | 4% royalty | Only freight corridor compatible |
+| Compliance Add-On Kit | Licensed | Mandatory $10k/unit, 600 units/district | Captures €6–12M/district in local subsidies |
 
 ---
 
-## 4. Licensing & Proprietary Strategy
+# 3. Phased Roll-Out by Country Grouping
 
-| Item                                | Status                   | Notes |
-|-------------------------------------|--------------------------|-------|
-| Standard MHUE-50k tiles & kits       | CC-BY-NC-SA-4.0          | 4–6 % royalties collected |
-| Stealth ceramics / AI kits / battery | Fully proprietary        | ITAR-controlled; not licensed |
-| Compliance Add-On Kit                | Licensed per district    | $10k/unit, 600 units/district, yields €6–12M subsidies post-audit |
-
----
-
-## 5. International Compliance Add-On Kit
-
-- **Units per district:** 600  
-- **Cost:** $10,000 per unit (~$6M/district)  
-- **CapEx impact:** +0.14 % per district  
-- **Benefit:** Access to local subsidies (€6–12 million/district)  
-- **Scope:** Adapts U.S.-standard systems to local regulations, safety codes, and monitoring requirements  
+| Phase | Countries | Districts | Population Served | Farms Deployed | Acres Rewilded | Genesis Factories |
+|-------|----------|----------|-----------------|----------------|----------------|-----------------|
+| 2045–2050 | Mexico, Canada, Caribbean | 120 | 6 M | 180 | 12 M | 2 |
+| 2051–2060 | Central America + Andean nations | 400 | 20 M | 600 | 60 M | 3 |
+| 2061–2070 | Brazil, Argentina, Southern Cone | 880 | 44 M | 1,320 | 132 M | 3 |
+| 2071–2080 | Chile, Colombia, Peru, Pacific states | 800 | 40 M | 1,200 | 120 M | 2 |
+| 2081–2092 | Remaining Western Hemisphere partners | 480 | 24 M | 720 | 96 M | 1 |
 
 ---
 
-## 6. Realistic Funding Stack
+# 4. Genesis Factory Build-Out
 
-| Source                                    | % Contribution | Notes |
-|-------------------------------------------|----------------|-------|
-| National budgets (partner countries)      | 30–50 %        | Direct project support |
-| Multilateral development banks (IDB, CAF)| 10–20 %        | Loans/grants, tied to compliance |
-| Sovereign wealth funds                     | 5–10 %         | Equity investment in Genesis factories |
-| Earth-Star royalties + private capital    | 30–50 %        | Self-financing and licensing revenue |
-| EU / OECD / bilateral grants              | 0–5 %          | Technical assistance or audits |
-
----
-
-## 7. High-Speed Rail Reduced-Scope Plan
-
-| Metric                     | Value                               |
-|-----------------------------|-------------------------------------|
-| Length                      | 18,000 miles                        |
-| Speed                       | 220–250 mph max                      |
-| Cost                        | ~$280 M/mile (~$5.04 trillion)      |
-| Timeline                    | 2048–2090 phased rollout             |
-| Notes                       | Vetted politically feasible freight corridors only |
+| Factory | Location | Local JV Ownership | Royalty % | Production Capacity | First Operational |
+|---------|---------|-----------------|-----------|------------------|----------------|
+| G-01 | Mexico City | 60% local / 40% ES | 4% | 50 districts/year | 2046 |
+| G-02 | São Paulo | 60/40 | 4% | 50 districts/year | 2048 |
+| G-03 | Bogotá | 60/40 | 4% | 40 districts/year | 2049 |
+| G-04 | Lima | 60/40 | 4% | 30 districts/year | 2050 |
+| G-05 | Santiago | 60/40 | 4% | 30 districts/year | 2051 |
+| G-06 | Buenos Aires | 60/40 | 4% | 50 districts/year | 2052 |
+| G-07 | Rio de Janeiro | 60/40 | 4% | 50 districts/year | 2053 |
+| G-08 | Panama City | 60/40 | 4% | 30 districts/year | 2054 |
+| G-09 | Kingston | 60/40 | 4% | 20 districts/year | 2055 |
+| G-10 | San José | 60/40 | 4% | 20 districts/year | 2056 |
+| G-11 | Quito | 60/40 | 4% | 30 districts/year | 2057 |
 
 ---
 
-## 8. Programme Cost & Financials (2045–2100)
+# 5. International Compliance Add-On Kit
 
-| Item                                    | CapEx ($B) | Opex ($B/yr) | Revenue ($B/yr) | Notes |
-|----------------------------------------|------------|---------------|-----------------|-------|
-| MHUE-50k Districts (2,680)             | 20,160     | 2,680         | 5,360           | Licensed revenue + royalties |
-| Skyscraper Farms                        | 8,500      | 1,200         | 3,200           | Food + nutraceuticals      |
-| Genesis Factories (11)                  | 6,600      | 400           | 1,800           | JV revenues                |
-| Rewilding & Remediation                 | 2,500      | 100           | 0               | Environmental credits      |
-| High-Speed Rail (18,000 mi)             | 5,040      | 50            | 100             | Passenger/freight revenue  |
-| Compliance Add-On Kits                   | 1,608      | N/A           | 8,100           | Subsidies & licensing       |
-| Total Programme                          | 44,408     | 4,430         | 18,560          | -                           |
-
-**NPV (6% discount, 2045–2100):** ~$820 B  
-**IRR:** 12–15 %  
-**Break-even:** ~2054 (first 1,200 districts operational)
+- **Unit Cost:** $10,000 per kit  
+- **Units/District:** 600  
+- **CapEx Impact:** +0.14% per district  
+- **Revenue Capture:** €6–12M/district via local subsidy and tax credits  
+- **Scope:** Regulatory monitoring, smart-grid integration, environmental compliance reporting, localized digital twin sensors  
 
 ---
 
-## 9. Proprietary vs Licensed Kits
+# 6. High-Speed Rail – Reduced Scope Plan
 
-| Kit Type                        | Status                   |
-|---------------------------------|--------------------------|
-| Standard Tiles & Flat-Pack Kits  | Licensed + royalties     |
-| Skyscraper Farm Vertical & Horizontal Kits | Licensed |
-| Industrial / AI / Battery Kits   | Fully proprietary        |
-| Military-grade Stealth Ceramics  | Fully proprietary        |
-| Smart Airlocks & Threat Detection | Fully proprietary       |
-| Compliance Add-On Kit            | Licensed per district    |
+| Segment | Miles | Max Speed | Cost ($B) | Timeline |
+|---------|------|-----------|------------|---------|
+| Mexico – Central America | 3,500 | 220 mph | 3.85 | 2046–2052 |
+| Andean Corridor | 4,200 | 230 mph | 4.62 | 2051–2058 |
+| Brazil / Southern Cone | 5,300 | 240 mph | 5.95 | 2059–2067 |
+| Coastal Pacific / Caribbean | 5,000 | 250 mph | 5.45 | 2068–2080 |
+
+**Notes:** All HSR aligned with existing freight ROW; politically viable segments prioritized; functions as multi-utility corridor (energy, water, data, disaster response).
 
 ---
 
-## 10. Feasibility Analysis
+# 7. Funding Stack (per district, 2045 USD)
 
-- **Technical:** Uses fully validated 2025–2045 technology; all kits & tiles market-proven  
-- **Financial:** Licensing, royalties, and JV funding provide self-financing; NPV and IRR bankable  
-- **Operational:** Co-located Genesis factories, farms, and districts ensure supply chain reliability  
-- **Geopolitical:** NATO-aligned, defensive deployment minimizes risk; subsidies realistic and audited  
-- **Environmental:** >95 % material closure; extensive rewilding; renewable energy export  
-- **Scalability:** Modular district design allows phased growth; funding and production limits mitigated by local JV partnerships  
+| Source | % Contribution | Notes |
+|--------|---------------|------|
+| National Governments | 45% | Direct infrastructure funding |
+| Multilateral Development Banks (IDB/CAF) | 20% | Project loans / grants |
+| Sovereign Wealth Funds | 15% | Long-term infrastructure investment |
+| Earth-Star Royalties / Private Capital | 20% | Tile & kit licensing, Skyscraper Farm royalties |
 
-**Conclusion:** The Western Hemisphere Transformation Strategy is technically feasible, geopolitically credible, financially sustainable, and compliant with all 2025 international norms, delivering a resilient, self-sustaining smart district network by 2100.
+---
+
+# 8. Programme Financial Overview (2045–2100)
+
+| Category | Total ($B, 2025 USD) |
+|----------|--------------------|
+| CapEx | 7,200 |
+| OpEx | 4,300 |
+| Revenue (royalties, exports, services) | 9,800 |
+| Net Cash Flow | +0 (break-even 2055) |
+| NPV (6%) | 2,500 |
+| IRR | 14% |
+
+---
+
+# 9. Proprietary vs Licensed Kits
+
+| Kit | Status |
+|-----|--------|
+| Stealth ceramic façade | Proprietary |
+| AI data-center & battery gigafactory | Proprietary |
+| Genesis standard tiles | Licensed 4–6% royalty |
+| Skyscraper Farm kits | Licensed 4–6% royalty |
+| HSR kits | Licensed 4% royalty |
+| Compliance Add-On Kit | Licensed (mandatory) |
+| Smart airlocks & sensors | Proprietary |
+
+---
+
+# 10. Feasibility Analysis
+
+- **Technical:** All designs based on proven 2025 technology; full material closure and tile re-use validated.  
+- **Financial:** Self-financing via royalties, private capital, and multilateral loans; positive NPV, IRR 14%  
+- **Legal & Regulatory:** CC-BY-NC-SA-4.0 licensing ensures protection of proprietary kits; all international operations compliant with 2025 law and ITAR for defense-sensitive components.  
+- **Geopolitical:** NATO-aligned, risk-adjusted corridors, no direct military funding; local JV ensures sovereignty compliance.  
+- **Environmental:** 510 M acres rewilded; waste remediation; water and energy net-positive; HSR multi-utility corridors.
 
 ---
 
 # CC-BY-4.0
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This document is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+Attribution: **Earth-Star Industries / Darrel Carver**.
