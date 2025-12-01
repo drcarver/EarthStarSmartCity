@@ -244,7 +244,7 @@ Give a cost breakdown and revenue analysis for each.  Specify when they enter pr
 ## Security & Standards
 - Smart airlocks with facial recognition + hyperspectral threat detection on all high-value entrances
 - Full compliance: LEED Platinum, WELL, Fitwel, BREEAM Outstanding, ISO 37122, local seismic/hurricane codes, NASA CELSS-derived monitoring where applicable
-- 
+ 
 | Level               | Standard / Framework           | Enhancements                                                                                  | Linked SDGs |
 |--------------------|--------------------------------|------------------------------------------------------------------------------------------------------------|-------------|
 | **Building-Specific** | LEED Platinum                   | Regular commissioning of HVAC, lighting, and energy systems; perform energy audits; update material sourcing for low embodied carbon; ensure adaptive reuse of tiles/kits. | SDG 7, 9, 11, 12, 13 |
@@ -261,6 +261,48 @@ Give a cost breakdown and revenue analysis for each.  Specify when they enter pr
    - FHWA/IIJA noise-barrier solar projects (2026–2027 rounds)
    - Port electrification grants (PORT Infrastructure Development Program)
    - USDOT INFRA + Charging & Fueling grants for inductive lanes
+ 
+ ## Official Correction Section  
+**(Add this verbatim to the master prompt; all prior versions are superseded by these corrections)**
+
+### CORRECTION ADDENDUM – AUTHORITATIVE FROM 1 DECEMBER 2025
+The following locked corrections supersede all conflicting statements in Prompt 1:
+
+1. **Waste Processing Capacity and Equipment Cost**  
+   - Maximum realistic waste throughput: **1.65 million tonnes per year** at full ramp (88 % availability on 2 × 120 t/h plasma reactors).  
+   - G-01 Core waste processing kit cost corrected to **$238 million** (2 × licensed 120 t/h plasma gasification systems at 2025 pricing including syngas cleanup and ORC interface).  
+   - Total Genesis-1 CapEx revised to **$584 million** (increase of $96 million). All downstream financials (revenue, IRR, NPV) shall be recalculated accordingly (gate fee revenue drops proportionally to $128.7 M/yr; IRR falls to ~22 %; payback extends to 4.4 years – still bankable).
+
+2. **Plasma Torch Manufacturing**  
+   - No in-house manufacturing or re-engineering of plasma torches before 1 January 2034. All torches remain fully licensed third-party units with standard maintenance contracts.
+
+3. **TerraShield™ Ballistic Panel**  
+   - Corrected rating: NIJ Level IIIA (stops 9 mm and .44 Mag); total thickness increased to 28–32 mm. Full NIJ Level III (7.62×51) available only in 42–45 mm variant (special order, 2030+).
+
+4. **Smart-Road Inductive Tile**  
+   - Maximum certified continuous power transfer: **120 W/m²** (2025 WiTricity/Electreon standard). Higher ratings require additional pilot certification.
+
+5. **TerraStore™ Buffer Panel**  
+   - Hard cap: **60 Wh per 3.2 × 1.6 m panel** (≈11 Wh/m²) using printed supercapacitors/thin-film LFP. Any reference to 1 kWh per panel is deleted.
+
+6. **3D Printing Scope**  
+   - Strictly limited to ≤27 % of total factory built mass (kiln furniture, TerraBot replacement parts, custom fixtures, and <5 % of production tiles). No attempt to 3D-print structural or high-wear ceramic components beyond these limits.
+
+7. **Kiln Installation Timeline**  
+   - All 8 SACMI Continua+ lines fully commissioned: **31 December 2030** (realistic 30–36 month delivery + installation inside tent/hybrid halls). Full 4.80 M m²/yr production achieved **Q1 2031**.
+
+8. **Financial Recalculation Summary (post-correction)**  
+   | Metric                  | Original | Corrected |
+   |-------------------------|----------|-----------|
+   | Total CapEx Genesis-1   | $488 M   | $584 M    |
+   | Annual waste processed  | 1.95 Mt  | 1.65 Mt   |
+   | Gate fee revenue (full) | $152.1 M | $128.7 M  |
+   | Total annual revenue    | $650 M   | $626 M    |
+   | IRR                     | 26 %     | 22 %      |
+   | NPV (6 %, 2027–2040)    | $1.91 B  | $1.68 B   |
+   | Payback period          | 3.9 yrs  | 4.4 yrs   |
+
+All other specifications, principles, and timelines in Prompt 1 remain unchanged except where explicitly corrected above.
 
 ## Deliverables Required in Response
 Generate a complete executive summary and project plan containing:
