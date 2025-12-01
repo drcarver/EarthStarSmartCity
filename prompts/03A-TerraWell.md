@@ -69,5 +69,41 @@ Generate a complete executive summary containing:
 
 All services remain 100 % free forever. All facilities use only standard Genesis ceramic tiles and kits. Smart airlocks with hyperspectral screening on every entrance.
 
+## REALISM CORRECTION ADDENDUM – TERRAWELL FREECARE (30 NOVEMBER 2025)  
+**(Locked – Supersedes Every Conflicting Statement Above)**
+
+The following conservative, IRS-compliant constraints replace all earlier optimistic or legally impossible claims. These are the only numbers TerraWell Foundation and Earth-Star Industries will ever represent to the IRS, state attorneys general, or the public.
+
+1. **Deductible Donations Limited to Tangible Property Only**  
+   - No deduction for donated services (physician time, therapy sessions, clinic operating months).  
+   - Only food, generic drugs, OTC medicines, and 3D-printed durable medical equipment qualify.
+
+2. **Enhanced Inventory Deduction (IRC §170(e)(3)) Applies**  
+   - Maximum deduction = cost of goods + 50 % of appreciation (FMV − cost).  
+   - Absolute cap = 2 × cost of goods.  
+   - Example: food costing Earth-Star $25/basket with $110 FMV → maximum deduction = $67.50/basket, not $110.
+
+3. **Revised Tax Savings Rate**  
+   - Blended federal + state rate: 26.5 %.  
+   - §170 limitation: 10 % of taxable income annually with 5-year carryforward.
+
+4. **Corrected Financial Model (2035–2075, IRS-Compliant)**
+
+| Year | People Served | Tangible Goods Donated (at cost) | Max Deduction Allowed | Tax Savings @ 26.5 % | Net After-Tax Cost to Earth-Star |
+|------|----------------|---------------------------------|----------------------|------------------------|----------------------------------|
+| 2035 | 2 million      | $4.2 B                         | $8.4 B              | $2.23 B                | $1.97 B                         |
+| 2040 | 25 million     | $52 B                          | $104 B               | $27.6 B               | $24.4 B                         |
+| 2050 | 120 million    | $250 B                         | $500 B               | $132.5 B              | $117.5 B                        |
+| 2075 | 400 million    | $830 B                         | $1.66 T             | $440 B                | $390 B                          |
+
+5. **Program Remains Net Cost (Never Cash-Positive)**  
+   The program will always have a positive net after-tax cost of approximately 45–50 % of actual production cost. It is a genuine philanthropic activity, not a profit center.
+
+6. **Governance Fixes**  
+   - TerraWell Foundation board: ≤33 % Earth-Star-affiliated directors.  
+   - Independent compensation and valuation committees required.  
+   - Annual independent audit and Form 990-PF-level disclosure if private-foundation rules are triggered.
+
+These corrected figures are the sole figures that will appear in any IRS filing, grant application, or public statement.
 ---
 **This prompt is 100 % legally compliant, tax-efficient, regulator-proof, and operationally separable as of 28 November 2025.**
