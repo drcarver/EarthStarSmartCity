@@ -7,8 +7,7 @@ Earth-Star Industries elects to forgo USDA Climate-Smart Commodities, REAP, and 
 Pursue targeted JV/partnerships or acquisitions of mid-tier players (e.g., Seven Refractories' U.S./Europe ops, acquired by RHI in Apr 2023 for $110M revenue base, or similar assets from Chosun/Shinaga and integrate them into terrafactories to produce all kiln parts and kilns in house.  Includes sensors in all of this and provide reporting back to 
 our comploance portals.
 
-Build stainless continuous-flow synthesis hall (TF-07) → captures 95 % of the profitable, low-risk APIs.
-Expand the Skyscraper Farm to support API production.
+Build stainless continuous-flow synthesis hall (TF-07) → captures 95 % of the profitable, low-risk APIs. Expand the Skyscraper Farm to support API production.
 
 ## REALISM CORRECTION ADDENDUM – 30 NOVEMBER 2025 (Locked – Supersedes Every Prior Claim in Prompt 3)
 
@@ -46,6 +45,6 @@ The following mandatory, third-party-verified constraints replace all earlier op
    - IRR (post-CHIPS): 12.8–18.4 % (base case 15.6 %)  
    - NPV (6 %, 2031–2050): $4.18 B
 
-These corrected figures are the sole figures that will appear in any CHIPS Act application, FDA establishment registration, DEA filings, investor deck, insurance submission, or public statement. All earlier claims are hereby withdrawn and replaced in full by this addendum.
+Recompute any costs and revenues that will appear in any CHIPS Act application, FDA establishment registration, DEA filings, investor deck, insurance submission, or public statement. All earlier claims are hereby withdrawn and replaced in full by this addendum.
 
 Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
