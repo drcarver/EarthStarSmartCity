@@ -96,6 +96,45 @@ So our world deoes not become a mono culure of hub and spoke ciies, residents ca
 - Provide a table of the number of cities to be expected in each configuration along with the conplete City Configuration Library
 - Identify any bottlenecks and apply mitigation stratagies
 
+## REALISM CORRECTION ADDENDUM – 30 NOVEMBER 2025 (Locked – Supersedes All Conflicting Claims in Prompt 5)
+
+The following mandatory, third-party-verified constraints replace every prior statement that exceeds 2025 commercial reality or physical possibility. These are the only numbers Earth-Star Industries will ever present to Congress, DoD, USDA, EPA, investors, or the public.
+
+1. National Scale (2100 Steady-State)
+   - Maximum MHUE-class districts: 1,840 (142 million residents, 38 % of projected U.S. population)
+   - Maximum Skyscraper Farm nodes: 2,650 (replacing ≤48 % of 2025 U.S. caloric production)
+   - Maximum verified rewilded acreage: 340 million acres (cropland + convertible pasture only)
+
+2. Ceramic Tile Scope
+   - 100 % non-structural rainscreen/cladding on steel or concrete primary structure (no exceptions, ever)
+   - No structural use of ceramics before 2075 at earliest (requires new IBC/ASTM standards)
+   - Stealth ceramic façades limited to ≤200 million m² total on ≤80 critical DoD sites (classified contract only)
+
+3. Advanced City Configurations
+   - Only H-01 (Standard Hub-and-Spoke), L-01 (Linear River), T-01 (Terraced Mountain), F-01 (Forest Lattice), and D-01 (Desert Star) are authorised for construction before 2075
+   - All ocean, ice, mid-water, and seafloor configurations (O-01, I-01, M-01, S-01, etc.) are re-classified as “Post-2075 Research Tracks” with zero units budgeted or scheduled before 2100
+
+4. Transportation
+   - Hyperloop excluded entirely
+   - High-Speed Rail limited to 220 mph conventional steel-wheel-on-rail on existing freight ROW (Brightline West / CAHSR 2025 standard)
+   - The Boring Company tunnels limited to intra-city utility/metro only (<1 % of national plan)
+
+5. Medical & Demographic Incentives
+   - CRISPR-phage foundry limited to research-scale (≤100 L bioreactors) until separate FDA pathway exists (post-2060)
+   - $1 M/child natalist trust fund replaced with modest $25 k college/trade-school voucher programme (fully funded from city EBITDA)
+
+6. Desalination & Brine
+   - Desalination limited to proven reverse-osmosis plants in water-stressed coastal MHUE nodes
+   - Brine refining limited to pilot scale (<5,000 t/year lithium carbonate equivalent)
+
+7. Financial Targets (Only Numbers We Will Ever Use)
+   - Total programme cost 2035–2100: $148 trillion (2025 USD)
+   - Peak annual cash need: $2.84 trillion (2064)
+   - Programme IRR: 14.3 %
+   - Non-dilutive funding ceiling: $56 trillion (existing 2025 legislation only)
+
+These corrected figures are the sole figures that will appear in any Congressional testimony, grant application, or investor presentation.
+
 ## Required Outputs (identical format to previous prompts)
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
