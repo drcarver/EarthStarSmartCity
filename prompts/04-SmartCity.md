@@ -64,7 +64,41 @@ Each MHUE-50k node shall:
 |                    | EPA CERCLA / Brownfield Standards | Continuous soil, water, and material testing; adaptive remediation for unexpected contamination; maintain public disclosure records. | SDG 6, 11, 12 |
 |                    | UN SDGs (e.g., SDG 6, 7, 11, 12, 13) | Track city-wide energy, water, waste, and mobility metrics; integrate renewable energy and green infrastructure; maintain equitable access to resources. | SDG 1–17 (all relevant) |
 
+## REALISM CORRECTION ADDENDUM – 30 NOVEMBER 2025 (Locked)
 
+The following conservative, third-party-verified constraints replace any earlier specification in Prompt 4 that exceeds 2025 commercial reality. These are the only numbers Earth-Star Industries will ever present to HUD, CHIPS Office, IRS, USACE, EPA, insurers, or permitting authorities.
+
+1. **Vertical CEA Towers**  
+   Maximum height 60 m using conventional steel/concrete primary structure. Total CEA floor area per tower ≤120,000 m² (Plenty/Bowery 2025 scale). Ceramic tiles remain 100 % non-structural rainscreen only.
+
+2. **Smart Roads**  
+   All vehicular roads built on standard compacted sub-base + concrete or asphalt pavement. Genesis ceramic smart-road tiles are inductive pavers or overlay only (inductive charging + water-harvesting functions proven in 2025 FHWA pilots).
+
+3. **Environmental Restoration Scope**  
+   Limited to on-site brownfield remediation and adjacent wetland restoration. No city-led oceanic coral planting, atmospheric CO₂ removal, or large-scale plastic harvesting. Verified carbon claims limited to 5.5 t CO₂e/ha/year soil sequestration across regenerative farmland.
+
+4. **Artificial Wombs**  
+   Explicitly excluded from all plans, budgets, and investor materials.
+
+5. **Housing Classification**  
+   Residential units are market-rate/attainable housing with luxury finishes. No LIHTC or similar subsidized designations are not claimed.
+
+6. **DC Microgrid**  
+   City employs extensive 380 V DC zones (data center, appliances, lighting) but all buildings retain standard 120/208–277/480 V AC service for code compliance and resale flexibility.
+
+7. **Marine Vessels**  
+   Electric barges use conventional steel or aluminium hulls with Genesis ceramic-composite cladding panels for corrosion protection and BIPV.
+
+8. **Revised 2043 Steady-State Targets (Only Numbers We Will Ever Use)**  
+   - Population served: 50,000  
+   - Vertical CEA area: 2 × 120,000 m² = 240,000 m² total  
+   - Net electricity export: +165 GWh/year  
+   - Verified carbon sequestration: 22 kt CO₂e/year (soil only)  
+   - Total CapEx: $19.1 B gross → $12.3 B effective post-grants  
+   - IRR: 15.9 %  
+   - NPV (6 %, 2035–2070): $26.8 B
+
+These corrected figures are the sole figures that will appear in every investor deck, grant application, insurance submission, and permitting package.
 
 ## Required Outputs
 
