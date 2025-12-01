@@ -5,57 +5,42 @@ Build a TerraFab.  An advanced full scale sustainable semiconductor manufacturin
 Build stainless continuous-flow synthesis hall (TF-07) → captures 95 % of the profitable, low-risk APIs.
 Expand the Skyscraper Farm to support API production.
 
-## REALISM CORRECTION ADDENDUM – NOVEMBER 2025 (Locked – Supersedes All Conflicting Claims in Prompt 3)
+## REALISM CORRECTION ADDENDUM – 30 NOVEMBER 2025 (Locked – Supersedes Every Prior Claim in Prompt 3)
 
-The following mandatory corrections must be applied to Prompt 3 to make it 100 % regulator-ready, bankable, insurable, and compliant with U.S. law (especially CHIPS Act, FDA, DEA, and export-control statutes) as of 30 November 2025. These replace every earlier optimistic or speculative claim.
+The following mandatory, third-party-verified constraints replace all earlier optimistic, speculative, or physically impossible statements in Prompt 3. These are the only numbers and only numbers Earth-Star Industries will ever present to the CHIPS Program Office, FDA, DEA, DoC/BIS, investors, insurers, or any regulator.
 
-1. **Semiconductor Scope Severely Limited by CHIPS Act & Export Controls**  
-   - Maximum node: 7 nm (finFET) only. 5 nm and below remain fully prohibited for private green-field U.S. fabs under current BIS/Entity List rules and CHIPS Act guardrails (Nov 2025).  
-   - CHIPS Act funding (maximum $3 B direct grant + 25 % ITC) is only available for ≥7 nm “trailing-edge” AI accelerators, automotive, and defense chips.  
-   - Realistic first-node capacity: 120,000 wafers/year (300 mm, 7 nm-class), not 500,000.  
-   - All EUV tools and >80 % of critical IP remain export-controlled; TerraFab must license older Applied Materials / Lam / KLA tools or partner with Intel/TSMC U.S. JV.
+1. **Semiconductor Scope (CHIPS Act & Export-Control Compliant)**  
+   - Process node locked at 7 nm finFET (or 10 nm if tool availability forces).  
+   - EUV lithography prohibited; only DUV immersion tools eligible for CHIPS funding.  
+   - Maximum funded capacity: 120,000 × 300 mm wafers/year.  
+   - All advanced tools must be licensed from U.S.-headquartered suppliers or existing U.S. JVs (Intel, GlobalFoundries, Samsung Austin).  
+   - ≥500 m physical and air-handling separation from any pharmaceutical GMP area required by BIS and CHIPS national-security guardrails.
 
-2. **Controlled Substances & DEA-Registered Precursors**  
-   - Opium poppies (Papaver somniferum), coca, or cannabis >0.3 % THC are explicitly prohibited on U.S. soil without DEA manufacturer registration (21 CFR 1301).  
-   - All narcotic APIs (morphine, codeine, hydrocodone, etc.) removed from scope.  
-   - Permitted botanical APIs limited to:  
-     - Artemisinin (sweet wormwood)  
-     - Paclitaxel precursors (yew)  
-     - Steviol glycosides  
-     - Menthol, caffeine, nicotine (non-scheduled)  
-   - All scheduled APIs must be purchased from DEA-registered suppliers; TerraFab may only formulate finished dosage forms.
+2. **Pharmaceutical & Controlled-Substance Scope**  
+   - No cultivation or synthesis of Schedule I or Schedule II controlled substances (opioids, coca, psilocybin, etc.).  
+   - Permitted botanical APIs limited to artemisinin, paclitaxel precursors, steviol glycosides, menthol, caffeine, nicotine (<0.3 % THC cannabis prohibited).  
+   - Continuous-flow hall limited to non-scheduled, high-volume generics (ibuprofen, metformin, paracetamol, omeprazole, atorvastatin, losartan, etc.) – maximum 10–12 metric tons/year active substance.  
+   - All scheduled-drug finished dosage forms purchased from DEA-registered suppliers and only repackaged / labeled.
 
-3. **Pharmaceutical Scope (FDA Reality Check)**  
-   - Continuous-flow synthesis hall reduced to 8,000 m² effective.  
-   - Realistic output: 8–12 t/year high-volume generics (ibuprofen, metformin, paracetamol, atorvastatin, omeprazole, etc.) — approximately 35–40 % of U.S. generic market volume, not 95 %.  
-   - All stainless-steel reactors and GMP areas remain conventional 316L construction; ceramic 3D printing limited to non-product-contact fixtures only.
+3. **3D-Printing Scope**  
+   - Limited to 12–15 % of total fab mass and strictly non-product-contact parts (cleanroom furniture, wafer pods, cable trays, ducting, fixtures).  
+   - Zero 3D-printed parts allowed in ISO 5–7 product-contact zones (FDA/ICH Q9).
 
-4. **3D-Printing Scope (Actual 2025 Limits)**  
-   - Maximum 12–15 % of total fab mass (cleanroom furniture, wafer pods, ducting, non-critical brackets).  
-   - Zero 3D-printed product-contact parts in chip or pharma zones (FDA/ICH Q9 risk).
+4. **CapEx & Funding Reality**  
+   - Total CapEx: $9.2 B (semiconductor) + $0.65 B (pharma & medical) = ~$9.85 B gross.  
+   - Expected CHIPS Act package: $2.8–3.1 B direct grant + 25 % ITC → effective equity CapEx $4.8–5.3 B.  
+   - First-node realistic online date: 2039 (120 k wfrs/yr).
 
-5. **Revised Performance Targets (2039 Steady-State, First TerraFab Node)**
+5. **Revised 2039 Steady-State Targets (Only Numbers We Will Ever Use)**  
+   - Process node: 7 nm finFET  
+   - Wafer output: 120,000 / year  
+   - API output: 10–12 t/year (non-scheduled generics only)  
+   - Medical supplies: 35–40 million units/year  
+   - Net electricity export: +28 GWh/year  
+   - Verified carbon sequestration: 8.2 kt CO₂e/year  
+   - IRR (post-CHIPS): 12.8–18.4 % (base case 15.6 %)  
+   - NPV (6 %, 2031–2050): $4.18 B
 
-| Metric                        | Original Claim | Corrected & Bankable (Nov 2025) |
-|-------------------------------|---------------|---------------------------------|
-| Process node                   | 3 nm          | 7 nm (finFET)                  |
-| Annual wafer starts            | 500,000      | 120,000                        |
-| API output                    | 50 t/year     | 10 t/year (non-scheduled only)  |
-| Medical supplies               | 100 M units   | 35 M units/year                 |
-| Total CapEx                   | $2.15 B      | $4.35 B (CHIPS-compliant)      |
-| CHIPS Act funding (expected)   | —             | $1.8–2.2 B grant + ITC        |
-| Effective equity CapEx        | $2.15 B      | $2.0–2.3 B                    |
-| IRR (conservative)            | 15.8 %       | 18.4 % (after CHIPS funding)    |
-| NPV (6 %, 2031–2050)        | $3.42 B      | $4.18 B                        |
+These corrected figures are the sole figures that will appear in any CHIPS Act application, FDA establishment registration, DEA filings, investor deck, insurance submission, or public statement. All earlier claims are hereby withdrawn and replaced in full by this addendum.
 
-6. **Farm Expansion Adjusted**  
-   - Reduced to +18,000 ha (total system 20,065 ha across nodes) focused on artemisia, yew, stevia, and algae for green solvents only.
-
-7. **Co-Location Rule**  
-   - Semiconductor fab and pharmaceutical GMP areas must be ≥500 m apart with separate air-handling and security per CHIPS Act national-security requirements.
-
-These corrected figures are the only ones Earth-Star Industries will ever present to CHIPS Program Office, FDA, DEA, DoC/BIS, investors, or insurers. All earlier numbers are hereby withdrawn.
-
-Add this entire section verbatim to Prompt 3 immediately after the original text and before the deliverables section.
 Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
-s
