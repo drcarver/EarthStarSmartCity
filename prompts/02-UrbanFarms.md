@@ -66,6 +66,42 @@ Each node shall:
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
+## REALISM CORRECTION ADDENDUM – NOVEMBER 2025 (Locked – Supersedes All Conflicting Claims Above)
+
+The following conservative, third-party-verified constraints replace any earlier specification that exceeds 2025 commercial reality:
+
+1. **Vertical Component**  
+   Maximum height 60 m (≈15–18 stories) using conventional steel or post-tensioned concrete primary structure. Total CEA floor area limited to 120,000 m² (proven Plenty/Bowery 2025 scale). All ceramic tiles remain non-structural rainscreen/cladding only.
+
+2. **Greenhouse Roofing**  
+   All greenhouses and agrivoltaic canopies use standard 4 mm tempered glass or twin-wall polycarbonate/ETFE roofing. Genesis Facility supplies only the ceramic structural posts, ventilated façade panels, side walls, and functional AWG/BIPV cladding modules. Transparent ceramic roofing is explicitly excluded until 2035+.
+
+3. **Agrivoltaics**  
+   Maximum 30 W/m² ground coverage on pasture (2025 U.S. agrivoltaic standard). Elevated single-axis trackers at 3–4 m height to allow grazing and machinery passage.
+
+4. **Carbon Sequestration**  
+   Verified maximum 5.5 t CO₂e/ha/year on best-management regenerative practices → 11,400 t CO₂e/year total for the 2,065 ha. No claims above this figure will be made to registries or investors.
+
+5. **Cultured Meat & Pharmaceutical Scope**  
+   Limited to 50,000 L stirred-tank bioreactors in dedicated stainless-steel ISO 7 modular cleanrooms (not porcelain). No USDA-inspected meat production until separate licensed facility (2038+).
+
+6. **Sabatier Reactor**  
+   Excluded from baseline energy and financial models. May be added later as a grant-funded pilot only.
+
+7. **Cleanroom Rating**  
+   Genesis ceramic wall systems certified to ISO 14644-1 Class 7 (10,000 particles) maximum. ISO 5 zones use conventional stainless or modular panel systems.
+
+8. **Revised Performance Targets (2037 steady-state, one node)**  
+   - Vertical CEA area: 120,000 m²  
+   - Electricity: +42 GWh/year net export (realistic biogas + 30 W/m² agrivoltaics)  
+   - Water: net zero in humid climates (98 % recycling + façade AWG)  
+   - Carbon: –11.4 kt CO₂e/year verified sequestration  
+   - First-node CapEx: $1.08 B (down from $1.41 B)  
+   - IRR: 17.2 % (conservative case)  
+   - NPV (6 %, 2032–2050): $2.11 B
+
+These corrected figures are the only ones Earth-Star Industries will represent to USDA, FDA, investors, carbon registries, insurers, or permitting authorities.
+
 1. Executive summary with realistic 2032–2045 schedule
 2. Corrected node layout table (vertical + 2,065 ha horizontal zones)
 3. Annual power, water, and carbon balance tables
