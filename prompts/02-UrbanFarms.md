@@ -21,6 +21,7 @@ Each mature node shall:
 - Produce **100 %** of its own seed, eggs, and broodstock
 - Sell **≥85 %** of its annual ModuGreenhouse-01 production externally at full margin
 - Maintain continuous, real-time, third-party-verifiable compliance with every applicable standard via the Earth-Star Central AI & Compliance Portal
+- Colocate with genesys plans when possible
 
 ## Full Embedded Sensor Suite (Mandatory on Every m²)
 
