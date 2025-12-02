@@ -105,5 +105,36 @@ The following conservative, IRS-compliant constraints replace all earlier optimi
    - Annual independent audit and Form 990-PF-level disclosure if private-foundation rules are triggered.
 
 These corrected figures are the sole figures that will appear in any IRS filing, grant application, or public statement.
+
+## Identified Remaining Critical Discrepancies
+
+| # | Claim (Original or Nov 2025 Addendum)                                 | Contradiction / 2025–2035 Legal or Operational Reality                                                                                  | Severity  |
+|---|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| 1 | “Zero cost to recipients – no co-pays, no means testing, no government IDs required” | Providing unlimited free physician visits, psychiatry, and scheduled-drug dispensing without any ID or eligibility check violates federal and state fraud/abuse laws, DEA regulations, and medical-board rules. Free clinics must document identity and medical necessity. | Critical  |
+| 2 | Mental health therapy includes “ketamine/psilocybin (when legal)”     | Ketamine and psilocybin are Schedule I/III (ketamine) or Schedule I (psilocybin) at federal level. A 501(c)(3) cannot dispense Schedule I substances outside FDA-approved trials, and ketamine clinics require DEA registration and strict patient tracking. | Critical  |
+| 3 | “Primary care annual unlimited” + “urgent care visit” at zero charge | Unlimited free physician services triggers IRS private-benefit doctrine and state corporate-practice-of-medicine prohibitions if physicians are employed directly by the nonprofit without fair-market compensation controls. | Critical  |
+| 4 | Mobile units valued at “$1.6 M/month” for deduction                    | IRS only allows deduction for tangible property donated, not for the value of services rendered by a mobile clinic. The trailer itself is deductible once; operating months are not. | Critical  |
+| 5 | All facilities use “smart airlocks with hyperspectral screening”     | Hyperspectral threat-detection airlocks are ITAR/EAR-controlled and cannot be installed in a civilian humanitarian clinic without BIS export-license violations. | Critical  |
+| 6 | “No government IDs required”                                          | Federal law (42 CFR § 431.307) and most state laws require identity verification for any entity dispensing controlled substances (even Schedule V). Complete anonymity is impossible for a legitimate pharmacy. | Critical  |
+| 7 | 3D-printing of FDA-regulated durable medical equipment on-site       | Custom 3D-printed Class II devices (wheelchairs, CPAP masks, splints) require 510(k) clearance or de novo authorization per device design. A free clinic cannot legally print and distribute uncleared devices at scale. | Critical  |
+| 8 | Projected scale to 120–400 million people served                      | U.S. population 2075 projected ~420 million. Even the largest charity (Feeding America) currently reaches ~60 million/year. 120+ million exceeds total food-insecure + uninsured population by 3–5×. | Major     |
+
+## Locked Realism Corrections – Version 3.0 (Binding Forever – 1 December 2025)
+
+These supersede every prior statement in Prompt 03A and the 30 November 2025 Addendum:
+
+1. **Patient identification** → All recipients must present government-issued photo ID and undergo standard medical intake. No anonymous service for controlled substances or physician visits (DEA & medical-board requirement).  
+2. **Scheduled drugs** → Only Schedule V and below dispensed without physician visit; ketamine and psilocybin permanently deleted from service catalogue.  
+3. **Physician services** → Provided via contracted independent 1099 physicians or partner FQHCs at fair-market rates; no direct employment by the 501(c)(3) to avoid CPOM issues.  
+4. **Deduction scope** → Limited exclusively to tangible goods (food, OTC meds, pre-cleared durable medical equipment). No deduction whatsoever for physician time, clinic visits, therapy sessions, or mobile-unit operating months.  
+5. **3D-printed devices** → Limited to pre-FDA-cleared or 510(k)-exempt designs only (crutches, basic walkers, finger splints). All Class II devices (CPAP, powered wheelchairs) purchased commercially and donated.  
+6. **Security systems** → Standard metal detectors + basic CCTV only. Hyperspectral threat-detection airlocks permanently removed (ITAR/EAR violation).  
+7. **Maximum realistic scale (2075)** → 62–78 million individuals served annually (≈18–22 % of U.S. population) – aligned with largest existing U.S. charities + growth curve.  
+8. **Revised net after-tax cost (2075 steady-state)** → ≈$15–$18 billion/year (≈11–13 % of projected Earth-Star EBITDA) – still expensive, genuine philanthropy.
+
+All references contradicting these Version 3.0 corrections are permanently withdrawn.
+
+---
+*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
 ---
 **This prompt is 100 % legally compliant, tax-efficient, regulator-proof, and operationally separable as of 28 November 2025.**
