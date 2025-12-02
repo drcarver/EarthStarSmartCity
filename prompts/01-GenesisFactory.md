@@ -139,8 +139,7 @@ Give a cost breakdown and revenue analysis for each.  Specify when they enter pr
 8.  Smart-Road Noise Barrier
 9.  Smart-Road Inductive Tile
 10.  TerraStore™ Buffer Panel
-11.  DARPA Blockade Canister Set for emergency shelters
-12.  Potable Water & Solar Skid for home and porable.  Include hot and cold water and small batery management system
+11.  Potable Water & Solar Skid for home and porable.  Include hot and cold water and small batery management system
 13.  Cleanroom Wall System
 14.  Acoustic Interior Panel
 15.  Custom Digital-Print Tile
@@ -220,25 +219,54 @@ The following locked corrections supersede all conflicting statements in Prompt 
    - G-01 Core waste processing kit cost corrected to **$238 million** (2 × licensed 120 t/h plasma gasification systems at 2025 pricing including syngas cleanup and ORC interface).  
    - Total Genesis-1 CapEx revised to **$584 million** (increase of $96 million). All downstream financials (revenue, IRR, NPV) shall be recalculated accordingly (gate fee revenue drops proportionally to $128.7 M/yr; IRR falls to ~22 %; payback extends to 4.4 years – still bankable).
 
-2. **Plasma Torch Manufacturing**  
+## Locked Realism Corrections – Version 2 (1 December 2025)
+These supersede all previous statements including the first correction block.
+
+1. **Product Scope Lock**  
+   Genesis-1 produces only large-format non-structural ceramic cladding tiles, panels, and pavers. The following items are permanently deleted from the product list because they are not ceramic tiles/panels:  
+   - 11 DARPA Blockade Canister Set  
+   - 12 Potable Water & Solar Skid  
+   - 16 Smart airlocks with hyperspectral threat detection (airlocks themselves are conventional; only the ceramic wall panels remain)  
+
+2. **TerraClear™ Transparent/Translucent Tile**  
+   Maximum format: 3.0 m × 1.5 m  
+   Maximum visible light transmission: 48 % (highly translucent opal only)  
+   Fully transparent “clear for windows” vision panels are deleted.  
+   All references to >70 % VLT or direct replacement of architectural glass are removed.
+
+3. **TerraShield™ Ballistic Panel – Final Rating**  
+   Maximum realistic rating using recycled porcelain composite: NIJ Level IIIA handgun only (9 mm + .44 Mag) at 34–38 mm total thickness. Rifle-rated panels are removed from scope before 2035.
+
+4. **Smart-Road Inductive Tile Power**  
+   Hard cap: 100 W/m² average, 120 W/m² peak for <30 seconds (2025 certified limit for dynamic wireless charging).
+
+5. **Plasma Reactor Capital Cost**  
+   G-01 kit (two licensed 120 t/h plasma gasification systems + full syngas cleanup and ORC interface): **$428 million** (2025 firm quotes).  
+   Total Genesis-1 CapEx revised to **$794 million**.  
+   Annual waste throughput remains 1.65 Mt; gate fee revenue $128.7 M; total annual revenue at full ramp revised to **$602 M**; IRR ~19 %; payback 4.8 years – still bankable with grants.
+
+6. **Premium Tile Pricing Cap**  
+   No tile exceeds $118/m² average selling price 2027–2031 (real European/Asian benchmark for functional porcelain cladding).
+
+7. **Plasma Torch Manufacturing**  
    - No in-house manufacturing or re-engineering of plasma torches before 1 January 2034. All torches remain fully licensed third-party units with standard maintenance contracts.
 
-3. **TerraShield™ Ballistic Panel**  
+8. **TerraShield™ Ballistic Panel**  
    - Corrected rating: NIJ Level IIIA (stops 9 mm and .44 Mag); total thickness increased to 28–32 mm. Full NIJ Level III (7.62×51) available only in 42–45 mm variant (special order, 2030+).
 
-4. **Smart-Road Inductive Tile**  
+9. **Smart-Road Inductive Tile**  
    - Maximum certified continuous power transfer: **120 W/m²** (2025 WiTricity/Electreon standard). Higher ratings require additional pilot certification.
 
-5. **TerraStore™ Buffer Panel**  
+10. **TerraStore™ Buffer Panel**  
    - Hard cap: **60 Wh per 3.2 × 1.6 m panel** (≈11 Wh/m²) using printed supercapacitors/thin-film LFP. Any reference to 1 kWh per panel is deleted.
 
-6. **3D Printing Scope**  
+11. **3D Printing Scope**  
    - Strictly limited to ≤27 % of total factory built mass (kiln furniture, TerraBot replacement parts, custom fixtures, and <5 % of production tiles). No attempt to 3D-print structural or high-wear ceramic components beyond these limits.
 
-7. **Kiln Installation Timeline**  
+12. **Kiln Installation Timeline**  
    - All 8 SACMI Continua+ lines fully commissioned: **31 December 2030** (realistic 30–36 month delivery + installation inside tent/hybrid halls). Full 4.80 M m²/yr production achieved **Q1 2031**.
 
-8. **Financial Recalculation Summary (post-correction)**  
+13. **Financial Recalculation Summary (post-correction)**  
    | Metric                  | Original | Corrected |
    |-------------------------|----------|-----------|
    | Total CapEx Genesis-1   | $488 M   | $584 M    |
