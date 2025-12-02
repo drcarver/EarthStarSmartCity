@@ -1,116 +1,81 @@
 ---
-title: Earth-Star Industries Genesis-1 Facility – Executive Summary & Project Plan (Realism-Adjusted, December 2025)
-description: Regulator-ready master plan with all Version 4 corrections applied
+title: Earth-Star Skyscraper Farm – Authoritative Final Version (Prompt 2 with Locked Realism Corrections v1.1 Applied)
+description: Single authoritative master document – all previous versions superseded
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Earth-Star Industries Genesis-1 Facility  
-**Executive Summary & Bankable Project Plan**  
-**Version 4 – Final Realism-Adjusted (1 December 2025)**
+# Earth-Star Skyscraper Farm  
+**Authoritative Final Specification – Version 1.1**  
+**All previous claims superseded by Locked Realism Corrections below**  
+**Project start date (first commercial node):** 2 January 2032 – 100 % fixed
 
-## 1. Project Overview (Locked Scope)
-- **Single product family**: Large-format non-structural porcelain cladding tiles, rainscreen panels, pavers, and interior finishes made from ≥98 % recycled waste via plasma vitrification.
-- **Location**: Brownfield site (to be selected) with rail/road access; Phase 0 inside leased high-bay insulated tent campus.
-- **Primary revenue**: Gate fees + sale of functional ceramic cladding that replaces imported virgin porcelain.
-- **Construction method**: Hybrid (conventional steel/concrete primary structure + Genesis-produced ceramic cladding); all post-Mar 2027 erection by 132-unit TerraBot™ swarm from flat-pack kits.
-- **Replication trigger**: Positive free cash flow → immediate Genesis-2 groundbreaking using 100 % kits from Genesis-1.
+## Core Mission (Corrected & Locked)
+Construct and operate a rapidly replicating network of highly automated Skyscraper Farms built predominantly from flat-pack kits manufactured by the Genesis Facility ecosystem.
 
-## 2. Realistic Timeline (2027 start, Version 4 corrected)
+Each mature node shall:
+- Feed **5,300–6,200 people** year-round with complete USDA MyPlate dietary diversity including premium freshwater/brackish fish and shrimp
+- Generate **$52–$78 million** annual free cash flow after all costs at steady-state
+- Be **net exporter of electricity** in high-insolation climates only; **net exporter of potable water** in humid climates only
+- Achieve **≥98 % closed-loop** performance for water and nutrients (commercial best-practice 2025–2035)
+- Produce **≥85 %** of its own seed and freshwater/brackish broodstock; marine salmon deleted
+- Sell **maximum 60 %** of annual ModuGreenhouse-01 production externally at full margin (resolves food-vs-sales conflict)
+- Maintain continuous, real-time, third-party-verifiable compliance via the Earth-Star Central AI & Compliance Portal
+- Colocate with Genesis plants when possible
 
-| Milestone                                   | Date             | Notes |
-|---------------------------------------------|------------------|-------|
-| Lease signing & tents erected               | 1 Feb 2027       | 46 400 m² Sprung/Rubb campus |
-| First 8 TerraBots operational               | 15 Mar 2027      | Begin tent fit-out |
-| Waste receiving & pilot plasma line live    | 1 Jun 2027       | First gate-fee revenue |
-| First pilot tiles (single small press)      | Q4 2027          | Revenue from early adopters |
-| 25 % capacity (0.89 M m²/yr)                | 1 Jul 2029       | 2 kiln lines commissioned |
-| Permanent campus groundbreaking             | 1 Apr 2029       | Using early tile output |
-| All 8 SACMI Continua+ lines installed       | 31 Dec 2031      | 48-month lead + tent constraints |
-| Tent campus dismantled & recycled           | 1 Apr 2032       | Materials reused |
-| Full commercial ramp (3.56 M m²/yr)         | 1 Jul 2032       | ≥92 % net yield |
-| Positive cumulative cash (payback)          | Q3 2033          | 6.8-year payback |
-| Genesis-2 groundbreaking (100 % kit-built) | Q4 2033          | Replication begins |
+## Full Embedded Sensor Suite (Unchanged – Fully Feasible in 2025)
+| Sensor Type                            | Coverage / Frequency          | Primary Standards Met |
+|----------------------------------------|-------------------------------|-----------------------|
+| PAR quantum (LI-COR grade)             | Every 5 m, 1 Hz               | NASA CELSS, ISO 37122 |
+| Spectral light quality (380–780 nm)    | Every 40 m², 10 s             | WELL Platinum, BREEAM Outstanding |
+| CO₂, O₂, CH₄                            | Every zone + fish tanks, 10 s | NASA CELSS, LEED Platinum |
+| Air temperature, RH, VPD               | Every 10 m grid, 10 s         | WELL, Fitwel, ISO 37122 |
+| Leaf temperature (IR)                  | Randomised 1 per 200 m², 30 s | NASA CELSS |
+| Sap flow + stem diameter               | 1 per 500 plants, 5 min       | NASA CELSS |
+| Substrate moisture, EC, pH             | Every tray/bed, 1 min         | ISO 37122 |
+| Water quality (fish tanks)             | DO, TAN, NO₂, NO₃, salinity, pH, ORP, continuous | FDA, USDA aquaculture |
+| Structural strain, deflection, wind    | All trusses + roof, 1 min     | IBC seismic/hurricane, local codes |
+| Energy sub-metering (revenue grade)    | Every LED zone, HVAC zone, robot bay, 1 min | LEED Platinum, NIST 800-53 |
+| Air quality (VOC, NOx, particulates)   | Intake + exhaust, 1 min       | WELL Platinum |
+| Pathogen early detection               | ATP + qPCR prep stations, 1 h | FDA food safety |
+| Cybersecurity (zero-trust)             | Every gateway + edge node     | NIST 800-53, IEC 62443 |
 
-## 3. Updated Tile/Panel Specifications (2025 physics & certification compliant)
+All sensors feed the **Earth-Star Central AI & Compliance Portal** – live 24/7 third-party audit access retained.
 
-| Parameter                        | Specification (final locked) |
-|----------------------------------|------------------------------|
-| Max format                       | 3.2 × 1.6 m × 6–20 mm       |
-| Recycled content                 | ≥98 % (glass, fly ash, tailings, red mud, slag) |
-| Functional add-ons (realistic)   | CIGS BIPV (≤25 W/m²), IoT sensors, photocatalytic TiO₂, phosphorescent glaze, phase-change back-coating (≤35 kWh/m³), PEX/capillary radiant, IR-reflective cool-roof (SRI ≥100), embedded copper mesh (moderate EMP only), printed supercapacitor ≤60 Wh/panel, FogCapture™ ≤0.28 L/m²/day |
-| Deleted / downgraded             | Transparent vision glazing, rifle-rated ballistic (handgun UL 752 Level 3 only), inductive road tiles >120 W/m² peak, 1 kWh buffer panels |
-| Packaging                        | Sequenced PEZ/IKEA-style flat-pack dispenser kits for TerraBot assembly |
+## Locked Node Specification – Version 1.1 (2044 Steady-State)
 
-**Campus cladding demand (permanent buildings only)**  
-Total façade + paving area ≈ 488 000 m² → fully supplied by early production runs 2029–2032.
+| Component                              | Area / Capacity                              | Key Features |
+|----------------------------------------|----------------------------------------------|--------------|
+| Vertical CEA tower                    | 72,000 m²                                    | Leafy greens, vine crops, strawberries |
+| ModuGreenhouse-01                      | 380–420 hectares                             | Fully robotic, TerraSun™ + FogCapture™ + capillary thermal glazing |
+| Aquaponics / RAS block                 | 48–56 hectares                               | Tilapia, barramundi, shrimp; ≥85 % in-house broodstock |
+| Regenerative horizontal land           | 3,600–3,800 hectares                         | Grains, silvopasture, orchards, carbon sink |
+| Buffers, roads, energy, buildings      | 180–240 hectares                             | — |
+| **Total footprint**                    | **4,300 ± 400 hectares**                     |              |
+| **People fed**                         | **5,300–6,200**                              | USDA-complete diet |
+| **Total node CapEx (2032 USD)**        | **$1.74–$1.92 billion**                      |              |
+| **Annual revenue**                     | **$138–$168 million**                        |              |
+| **Annual EBITDA**                      | **$68–$88 million**                          | 48–52 % margin |
+| **Annual free cash flow**              | **$52–$78 million**                          |              |
+| **IRR (with 35–40 % grants/ITC)**      | **16.8–19.4 %**                              | Bankable |
+| **Net energy export**                  | **18–36 GWh/year** (high-insolation sites)   |              |
+| **Net water export**                   | **0.28–0.62 million m³/year** (humid climates only) |              |
+| **Carbon sequestration**               | **–38 to –46 kt CO₂e/year**                  |              |
+| **Circularity score**                  | **≥98 %** (water & nutrients)                |              |
 
-## 4. Power, Water & Waste Budgets (full ramp 2032)
+## Locked Realism Corrections – Version 1.1 (Binding – Supersede All Prior Claims)
 
-| Resource                  | Annual Budget (2032)          | Notes |
-|---------------------------|-------------------------------|-------|
-| Waste processed           | 1.51 million tonnes           | 84 % avg availability (real plants 2020–2025) |
-| Electricity consumption   | 298 GWh (gross)               | Plasma + kilns dominant |
-| Electricity export        | 71 GWh net                    | ORC + biogas gensets |
-| Water consumption         | 98 % closed loop + AWG/rain   | Net exporter in humid climates |
-| CO₂e (Scope 1+2)          | ~52 kt/year                   | Still 98 % below cement baseline |
+1. People fed per node → **5,300–6,200** (realistic maximum with 100 % own-use of CEA area)  
+2. Net exports → Electricity: high-insolation only; Water: humid climates only; Oxygen export claim **permanently deleted**  
+3. Circularity → **≥98 %** water & nutrients (2025 commercial best practice)  
+4. In-house manufacturing → **≥92 % of total value** from Genesis ecosystem; steel, LEDs, HVAC, pumps, controls remain licensed third-party  
+5. Labor → **≤10 full-time equivalents** per node (maintenance, hatchery, regulatory); zero routine labor in crop zones where legally permissible  
+6. ModuGreenhouse-01 external sales → **Maximum 60 %** of annual production (resolves food-vs-sales conflict)  
+7. Turnkey pricing → **$680–$780 per m²** (real 2025–2035 European/Dutch benchmark)  
+8. Fish species → Freshwater/brackish only (tilapia, barramundi, shrimp); marine salmon & 100 % broodstock independence **deleted until ≥2045**  
+9. Total footprint → **4,300 ± 400 hectares** including all buffers and infrastructure  
 
-## 5. Full Cost Analysis & Cash Flow (2027 USD, unlevered, no grants in base case)
-
-| Year | CapEx ($M) | OpEx ($M) | Revenue ($M) | FCF ($M) | Cumulative ($M) |
-|------|------------|-----------|--------------|----------|-----------------|
-| 2027 | 300        | 50        | 42           | –308     | –308            |
-| 2028 | 320        | 95        | 120          | –295     | –603            |
-| 2029 | 200        | 140       | 240          | –100     | –703            |
-| 2030 | 78         | 160       | 340          | +102     | –601            |
-| 2031 | 0          | 175       | 410          | +235     | –366            |
-| 2032 | 0          | 185       | 452.5        | +267     | –99             |
-| 2033 | 0          | 190       | 452.5        | +262     | +163            |
-| 2034–2040 avg | 120/yr (new factories) | 250/yr | 750/yr | +380/yr | +3 200 (2040 est.) |
-
-- **Total Genesis-1 CapEx**: **$898 million** (Version 4 final)
-- **Break-even**: Q4 2029
-- **Payback period**: 6.8 years (2033)
-- **IRR (unlevered, no grants)**: 12.4 %
-- **NPV @ 6 % real (2027–2040)**: $712 million
-
-**With realistic grant/ITC stacking (30–40 % CapEx coverage)** → IRR rises to 18–22 % and payback <5 years.
-
-## 6. Applicable U.S. Incentives (2025–2027 windows)
-
-| Program                                | Likely Award Size | Notes |
-|----------------------------------------|-------------------|-------|
-| EPA Brownfields Multipurpose Grants    | $10–30 M          | Site acquisition/remediation |
-| DOE Industrial Facilities Decarbonization (IFDO) | $50–150 M   | Plasma + ORC qualifies |
-| IRS 45X Advanced Manufacturing PTC     | $80–120 M (10 yr) | Recycled-content ceramics |
-| IRS 48E Clean Electricity ITC          | 30–40 % of CapEx  | If located in energy community |
-| USDA REAP / New Era Rural Tech         | $10–25 M          | Waste-to-energy component |
-| State brownfield tax credits (e.g., NY, CA, TX) | $50–100 M   | Typical 30–50 % of remediation |
-| IIJA RAISE / INFRA grants (smart-road pilots) | $25–100 M   | If 15 % capacity allocated |
-
-Realistic total non-dilutive funding: **$280–420 million** (30–45 % of CapEx).
-
-## 7. Honest Feasibility Analysis (2025 baseline)
-
-**Technically feasible**  
-- Plasma gasification at 120 t/h scale: proven (Utashinai, Yoshii, Tees Valley adjustments applied).  
-- Large-format recycled-body porcelain: SACMI, System Ceramics, and Chinese producers already run 90–95 % recycled mixes commercially.  
-- Functional add-ons (BIPV, PCM, radiant, photocatalytic): all exist in European/Asian porcelain cladding 2024–2025.
-
-**Commercially challenging but bankable**  
-- $898 M CapEx is large but within single-project range for brownfield infrastructure (cf. recent U.S. Covanta / Wheelabrator upgrades).  
-- Base-case 12.4 % IRR is below typical project-finance hurdle (14–16 %) without grants → **grants/45X/48E are mandatory for FID**.  
-- With 35 % grant/ITC coverage → IRR 19–22 %, payback <5 years → fully bankable under 70/30 debt/equity.
-
-**Key risks & mitigations**  
-| Risk                              | Probability | Mitigation |
-|-----------------------------------|-------------|------------|
-| Plasma plant availability <80 %   | Medium      | Dual redundant 120 t/h trains + long-term Westinghouse/PyroGenesis O&M contract |
-| Kiln commissioning delay in tents | High        | Phase commissioning (2 lines → 4 → 8); accept 2032 full ramp |
-| Gate fee erosion in competitive markets | Medium | Lock 5–7 year municipal contracts early; target NYC/NJ/FL markets |
-| Functional tile market acceptance | Low–Medium  | Start with proven base rainscreen ($80–90/m²) → add functions only after cash flow positive |
-
-**Overall verdict**: Genesis-1 is **feasible and financeable in 2027–2032** provided (1) $300–400 M non-dilutive funding is secured and (2) the project accepts the corrected 2032 full-ramp timeline and 3.56 M m²/yr output. Replication cascade remains viable from 2033 onward.
+All other specifications in Prompt 2 remain unchanged except where explicitly corrected above.
 
 ---
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
