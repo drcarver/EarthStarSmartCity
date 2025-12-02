@@ -320,9 +320,66 @@ These supersede all previous statements including the first correction block.
    | Total annual revenue    | $650 M   | $626 M    |
    | IRR                     | 26 %     | 22 %      |
    | NPV (6 %, 2027–2040)    | $1.91 B  | $1.68 B   |
-   | Payback period          | 3.9 yrs  | 4.4 yrs   |
+   | Payback period          | 3.9 yrs  | 4.4 yrs   
 
-All other specifications, principles, and timelines in Prompt 1 remain unchanged except where explicitly corrected above.
+## Locked Realism Corrections – Version 4 (1 December 2025)
+These corrections supersede all previous statements in Prompt 1 and all earlier correction blocks (Versions 1–3). Add this section to the master document immediately after “Locked Realism Corrections – Version 3”.
+
+### Identified Discrepancies and Final Binding Corrections
+
+1. **TerraBot swarm size and cost inconsistency**  
+   Version 3 increased the required swarm from 84 → 132 bots and raised G-04 cost by only $14 M.  
+   → Realistic 2025 flat-pack TerraBot Mk1 unit cost (fully loaded with 5-year spares, charging, software): **$318 000 per bot**.  
+   → Correct G-04 TerraBot kit cost for 132 bots: **$42 M → $56 M** (+$14 M additional correction).  
+   → Total Genesis-1 CapEx revised upward to **$898 million**.
+
+2. **Kiln line output double-counting error**  
+   The 520 000 m²/line/year figure used in Version 3 is the SACMI nameplate for virgin-body porcelain at 6–8 mm thickness and 30–34 min cold-to-cold. Large-format recycled-body mixes (12–20 mm, ≥98 % waste-derived) require 42–48 min cycles and ~12 % higher rejection/scrap.  
+   → Realistic net saleable output per line: **445 000 m²/year**.  
+   → 8 lines total realistic production: **3.56 million m²/year** (not 4.16 M).  
+   → Blended tile revenue at full ramp (73/27 base/premium mix, $98/m²): **$349 M** (down from $408 M).
+
+3. **Gate fee revenue still overstated**  
+   Real mixed-waste gate fees in competitive U.S. markets 2024–2025 (e.g., NYC metro, CA, FL) average **$62–$68/tonne** net of transport credits for high-BTU waste, not $78/t.  
+   → Correct average gate fee: **$66/tonne**.  
+   → Gate fee revenue at 1.51 Mt/yr: **$99.7 M**.
+
+4. **Electricity export overstated**  
+   Real parasitic load of two 120 t/h plasma plants + full ceramics factory is higher than previously modelled once realistic 84 % availability and auxiliary systems are included.  
+   → Net export corrected to **71 GWh/year** → revenue **$3.0 M**.
+
+5. **Final corrected full-ramp revenue (2032, not 2031)**  
+   | Stream                | Volume             | Price       | Revenue     |
+   |-----------------------|--------------------|-------------|-------------|
+   | Gate fees             | 1.51 Mt            | $66/t       | $99.7 M     |
+   | Tiles & panels        | 3.56 M m²          | $98/m²      | $349 M      |
+   | Electricity export    | 71 GWh             | $42/MWh     | $3.0 M      |
+   | TerraBot subs & minor | —                  | —           | $0.8 M      |
+   | **Total**             |                    |             | **$452.5 M**|
+
+6. **Updated Financial Summary (Version 4 – final realistic)**  
+   | Metric                     | Version 3 | Version 4 (final) |
+   |----------------------------|-----------|-------------------|
+   | Total Genesis-1 CapEx      | $884 M    | $898 M            |
+   | Realistic annual tile production | 4.16 M m² | 3.56 M m²         |
+   | Realistic annual revenue (full ramp) | $530 M | $452.5 M       |
+   | IRR (unlevered, no grants) | 15.8 %    | 12.4 %            |
+   | NPV (6 %, 2027–2040)       | $1.12 B   | $712 M            |
+   | Payback period             | 5.6 yrs   | 6.8 years         |
+   | Break-even                 | Q2 2029   | Q4 2029           |
+   | Full commercial ramp       | 1 Oct 2031| 1 Jul 2032        |
+
+7. **Timeline correction for full ramp**  
+   With slower kiln cycles and higher commissioning risk in tent environment:  
+   → All 8 lines at ≥92 % net yield: **1 July 2032**.
+
+8. **Product scope final lock**  
+   Permanently remove or downgrade the following because they violate 2025 physics or certification reality:  
+   - TerraShield™ Ballistic: downgraded to UL 752 Level 3 (handgun only); rifle protection deleted until 2035+.  
+   - TerraClear™: maximum 42 % VLT translucent only; all references to vision glazing deleted.  
+   - Smart-Road Inductive Tile: capped at **100 W/m² average**, **120 W/m² peak <30 s**; higher claims deleted.
+
+All other specifications in the original Prompt 1 and previous correction blocks remain unchanged except where explicitly corrected above.
 
 ## Deliverables Required in Response
 Generate a complete executive summary and project plan containing:
