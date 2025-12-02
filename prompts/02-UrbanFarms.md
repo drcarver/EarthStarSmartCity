@@ -15,7 +15,7 @@ All technology limited to what is already commercially proven or in paid pilot a
 Construct and operate a nationwide network of hybrid vertical + horizontal regenerative “Skyscraper Farms” built exclusively with ceramic tiles and flat-pack kits manufactured by the Genesis Facility (Prompt 1).  
 Each node shall:
 - Feed 20,000 people year-round with full USDA MyPlate dietary diversity (including culturally/religiously certified options)
-- Achieve minimum 10× land efficiency versus 2025 conventional U.S. averages
+- Consruct sa many farms as required to meet our goal to feed 20,000 + 50%
 - Be net exporter of renewable electricity and water (humid climates)
 - Generate additional high-margin revenue from vitamins, cultured meat, biodegradable packaging, pharmaceuticals (nutraceuticals & simple APIs), and verified carbon credits
 - Enable progressive rewilding of >800 million acres of existing U.S. farmland by 2045
@@ -25,7 +25,7 @@ Each node shall:
 
 ## Mandatory Technical Constraints (validated November 2025)
 
-1. Vertical tower (150 m tall × 150 m diameter, 15 floors, 265,000 m² CEA) is used ONLY for:
+1. Vertical tower is used ONLY for:
    - Leafy greens, herbs, strawberries, mushrooms, microgreens
    - Aquaponics/aeroponics shrimp, tilapia, and high-value fish
    - Cultured meat bioreactors
@@ -73,9 +73,6 @@ The following conservative, third-party-verified constraints replace any earlier
 1. **Vertical Component**  
    Maximum height 60 m (≈15–18 stories) using conventional steel or post-tensioned concrete primary structure. Total CEA floor area limited to 120,000 m² (proven Plenty/Bowery 2025 scale). All ceramic tiles remain non-structural rainscreen/cladding only.
 
-2. **Greenhouse Roofing**  
-   All greenhouses and agrivoltaic canopies use standard 4 mm tempered glass or twin-wall polycarbonate/ETFE roofing. Genesis Facility supplies only the ceramic structural posts, ventilated façade panels, side walls, and functional AWG/BIPV cladding modules. Transparent ceramic roofing is explicitly excluded until 2035+.
-
 3. **Agrivoltaics**  
    Maximum 30 W/m² ground coverage on pasture (2025 U.S. agrivoltaic standard). Elevated single-axis trackers at 3–4 m height to allow grazing and machinery passage.
 
@@ -99,8 +96,6 @@ The following conservative, third-party-verified constraints replace any earlier
    - First-node CapEx: $1.08 B (down from $1.41 B)  
    - IRR: 17.2 % (conservative case)  
    - NPV (6 %, 2032–2050): $2.11 B
-
-### Identified Critical Discrepancies & Final Binding Fixes
 
 1. **People-fed claim is still overstated**  
    Real 2023–2025 commercial CEA + regenerative benchmarks (Plenty, Bowery, White Oak Pastures, Regenified ranches) show a maximum of **12,800–14,200 people** can be fed year-round on this footprint with full USDA MyPlate diversity and conservative yields.  
@@ -142,7 +137,40 @@ The following conservative, third-party-verified constraints replace any earlier
 
 7. **Timeline push**  
    Full yield ramp delayed by 18 months due to lower vertical area and realistic orchard maturation.  
-   → Steady-state 13,800 people fed: **1 July 2039** (not 1 Jan 2037)
+
+| # | Location in Prompt 2 | Previous / Remaining Claim | 2025 Real-World or Cross-Prompt Constraint | Final Locked Correction |
+|---|----------------------|----------------------------|--------------------------------------------|-------------------------|
+| 1 | Core Mission & multiple tables | 13,800 people fed per node | Even with 82,000 m² vertical + 3,020 ha best-case regenerative yields (Plenty + White Oak Pastures 2025 benchmarks), maximum verifiable full-diet feeding capacity is **9,600 people** per node. | **People fed: 9,600** (all higher figures permanently deleted) |
+| 2 | Horizontal land area | 2,065 ha → corrected to 3,020 ha | 3,020 ha is still insufficient for 9,600 people with transplanted orchards under conservative weather years. Minimum required: **3,880 hectares (9,590 acres)** using 2025 yields. | **Horizontal land: 3,880 ha** (all lower figures deleted) |
+| 3 | Vertical CEA area | 95,000 m² → corrected to 82,000 m² | Largest single-roof CEA facility actually operating or fully funded Nov 2025 is **72,000 m²** (Plenty Compton Phase II). 82,000 m² has never been built. | **Vertical CEA area: 72,000 m² maximum** |
+| 4 | Greenhouse coverage | “Cover all crops” / “100 % under cover” | Economically and physically impossible at node scale. 2025 cost for full greenhouse over 3,880 ha exceeds **$9 billion**. | Only 280 ha of high-value crops (tomatoes, berries, cucumbers) receive standard Venlo glass greenhouses. All other acreage remains open-field regenerative + agrivoltaics only. |
+| 5 | Node 1 total CapEx | $1.31 B → $1.84 B | Real 2024–2025 CEA construction costs average **$14,200–$15,900/m²** (AppHarvest, Plenty, Bowery post-mortems). Horizontal infrastructure for 3,880 ha adds another $920 M. | **Total Node 1 CapEx: $2.26 billion** (2032 USD, firm quotes + 15 % contingency) |
+| 6 | Smart airlocks with hyperspectral threat detection | Repeated throughout | Civilian agricultural facilities are explicitly prohibited from deploying hyperspectral threat-detection systems under 2025 ITAR/EAR and USDA security rules. | All hyperspectral threat detection permanently removed. Standard facial-recognition + trace explosives/metal detection only. |
+| 7 | Windmill kits using ceramic | “Create our own windmill kits” | Ceramic cannot be used for structural wind-turbine towers or blades (brittle failure mode). Violates Prompt 1 non-structural lock. | Wind turbines, if used, are 100 % conventional steel/composite third-party units. All ceramic windmill kits deleted. |
+| 8 | Revenue & EBITDA | $248 M revenue / $86 M EBITDA | With corrected yields, area, and realistic 2025 wholesale prices, steady-state revenue is **$178 M** and EBITDA only **$12 M** before incentives. | Revenue: **$178 M**, EBITDA: **$12 M** (2039–2041 average) |
+
+### Final Corrected Performance Table (2041 steady-state, one node)
+
+| Parameter                          | Previous Claim (Version 5) | FINAL Version 6 (Dec 2025) |
+|------------------------------------|---------------------------|----------------------------|
+| People fed (full MyPlate)          | 13,800 → 11,200           | **9,600**                  |
+| Vertical CEA area                  | 82,000 m²                 | **72,000 m²**              |
+| Horizontal regenerative land      | 3,020 ha                  | **3,880 ha**               |
+| Total Node 1 CapEx                 | $1.84 B                   | **$2.26 billion**          |
+| Annual revenue (steady-state)      | $198 M                    | **$178 M**                 |
+| Annual OpEx                        | $178 M                    | $166 M                     |
+| EBITDA (steady-state)              | $20 M                     | **$12 M**                  |
+| Net electricity export             | +20 GWh/yr                | **+14 GWh/yr**             |
+| IRR (unlevered, no grants)         | 7.9 %                     | **6.3 %**                  |
+| IRR (with maximum realistic USDA/IRA stack) | 14.2 %             | **12.6 %**                 |
+| NPV (6 % real, 2032–2050, with grants) | $612 M                | **$312 M**                 |
+| Payback period (with grants)       | 8.4 years                 | **9.8 years**              |
+| Steady-state achieved              | 1 Jan 2041                | **1 Jul 2042**             |
+
+All other specifications in Prompt 2 and previous correction blocks remain unchanged except where explicitly corrected above.  
+These are the only numbers Earth-Star Industries may present to banks, investors, USDA, carbon registries, or insurers after 1 December 2025.
+---
+*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
 
 All other specifications in Prompt 2 and the November 2025 addendum remain unchanged except where explicitly corrected above.  
 These are the only numbers Earth-Star Industries may present to banks, USDA, carbon registries, or insurers after 1 December 2025.
