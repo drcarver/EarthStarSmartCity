@@ -1,18 +1,18 @@
 ---
-title: Earth-Star Industries Genesis Facility – Prompt 1 (Final Bankable Edition – 1 December 2025)
-description: Single, internally consistent, regulator-ready master prompt. All numbers are freshly calculated in real time. All prior prompts are fully superseded.
+title: Earth-Star Industries Genesis Facility – Prompt 1
+description: Single, internally consistent, regulator-ready master prompt.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Earth-Star Industries Genesis Facility – Prompt 1 (FINAL BANKABLE EDITION)
+# Earth-Star Industries Genesis Facility – Prompt 1
 
-**Forget all previous prompts. This document is the sole authoritative source from 1 December 2025 onward.**
+**Forget all previous prompts. This document is the sole authoritative source.**
 
 **Project start date:** 2 January 2027 (all timelines calculated from this fixed date)  
-**Technology baseline:** Commercially proven or funded-pilot systems available 30 November 2025 only
+**Technology baseline:** Commercially proven or funded-pilot systems
 
-## Core Mission (unchanged)
+## Core Mission
 Build the first Genesis Facility: a waste-to-circular-materials megafactory that
 - Earns gate fees for remediating brownfields, closed landfills, C&D debris, ELVs, e-waste, farm waste, industrial byproducts, and raw sewage
 - Produces only non-structural large-format ceramic cladding tiles, rainscreen panels, pavers, and interior finishes from ≥98 % recycled waste
@@ -29,9 +29,9 @@ Build the first Genesis Facility: a waste-to-circular-materials megafactory that
 6. Every item delivered to site (from the first office chair to the final kiln) arrives as a TerraBot™-assemblable flat-pack kit
 7. Genesis-1 bootstraps inside a leased high-performance tent campus (2027–2029)
 8. TerraBot™ robots are the only machines that ever install anything on site after March 2027
-9. Subsequent factories (Genesis-2 onward) are built entirely from kits produced by earlier factories using minimal human supervision
+9. Subsequent factories are built entirely from kits produced by earlier factories using minimal human supervision
 
-## Genesis-1 Realistic Performance Envelope (locked – used for all financial calculations)
+## Genesis-1 Realistic Performance Envelope
 
 | Parameter                        | Value (Genesis-1 at full ramp) | Year Achieved | Notes |
 |----------------------------------|--------------------------------|---------------|-------|
@@ -93,7 +93,8 @@ Total tent lease cost 2027–2029: **$38.52 M** (36 months)
 ### Mandatory Technical Constraints
 
 Ceramic composition: 92–97 % recycled glass, demolition porcelain, fly ash, quarry tailings, red mud, etc. + minor binders; no reliance on virgin alumina or zirconia beyond trace amounts.
-Tile formats: large-format rainscreen (up to 3.2 m × 1.6 m), ventilated façade systems, floor/wall panels, pavers.
+Tile formats: large-format rainscreen (up to 3.2 m × 1.6 m), ventilated façade systems, floor/wall panels, pavers, clear for windows (may not have full capability)
+Cladding seramics made as non-britale as possible
 Integrated functions per tile/panel (realistic 2025 limits):
 Thin-film or CIGS BIPV laminates (optional)
 Embedded copper mesh for moderate EMP shielding
@@ -211,11 +212,6 @@ Give a cost breakdown and revenue analysis for each.  Specify when they enter pr
 - TerraStore™ panels: max 60 Wh per 3.2 × 1.6 m panel
 - FogCapture™: max 0.28 L/m²/day with active assist in humid climates
 - EMP shielding limited to sealed interior rooms
-
-## Official Correction Section  
-**(Add this verbatim to the master prompt; all prior versions are superseded by these corrections)**
-
-### CORRECTION ADDENDUM – AUTHORITATIVE FROM 1 DECEMBER 2025
 
 The following locked corrections supersede all conflicting statements in Prompt 1:
 
