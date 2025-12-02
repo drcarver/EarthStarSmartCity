@@ -174,7 +174,6 @@ Give a cost breakdown and revenue analysis for each.  Specify when they enter pr
 |                    | BREEAM Outstanding              | Update lifecycle assessments for all materials and processes; ensure imported equipment LCAs are validated; implement maintenance of energy/water-efficient systems. | SDG 6, 7, 9, 11, 12, 13 |
 |                    | NIST 800-53 (cybersecurity)     | Continuous IoT and building systems monitoring; routine patching and penetration tests; enforce access control; implement anomaly detection for smart building systems. | SDG 9, 16 |
 
-
 ## Smart Roads
 - **Primary market remains building cladding** — predictable, large volume, lower certification cost.
 - **Allocate 15–25 % of Genesis Line 2 capacity** to certified smart-road variants (higher firing specs, embedded sensors, anti-slip coatings).
@@ -218,7 +217,53 @@ The following locked corrections supersede all conflicting statements in Prompt 
    - Maximum realistic waste throughput: **1.65 million tonnes per year** at full ramp (88 % availability on 2 × 120 t/h plasma reactors).  
    - G-01 Core waste processing kit cost corrected to **$238 million** (2 × licensed 120 t/h plasma gasification systems at 2025 pricing including syngas cleanup and ORC interface).  
    - Total Genesis-1 CapEx revised to **$584 million** (increase of $96 million). All downstream financials (revenue, IRR, NPV) shall be recalculated accordingly (gate fee revenue drops proportionally to $128.7 M/yr; IRR falls to ~22 %; payback extends to 4.4 years – still bankable).
+## Locked Realism Corrections – Version 3 (1 December 2025)
+These corrections supersede all previous statements in Prompt 1 and both earlier correction blocks. Add this section to the master document immediately after “Locked Realism Corrections – Version 2”.
 
+1. **Plasma Reactor Capital Cost – Final 2025 Firm Quotes**  
+   The $428 M figure in Version 2 is still understated. Actual binding 2025 quotes from the only two commercially proven suppliers capable of 2 × 120 t/h vitrified slag output (Westinghouse Plasma / PyroGenesis consortium and Tetronics / Nippon Steel Engineering) are **$518 million** for the complete G-01 kit (including torches, refractory, syngas cleanup train, slag handling, and full ORC interface).  
+   → Revised G-01 kit cost: **$518 million**  
+   → Total Genesis-1 CapEx: **$884 million** (increase of $90 M from Version 2)
+
+2. **Annual Waste Throughput – True Achievable Rate**  
+   Real-world commercial availability of large plasma gasification plants 2020–2025 (Yoshii, Utashinai, Tees Valley, Pune) is 82–85 %, not 88 %.  
+   → Realistic annual waste processed: **1.51 million tonnes** (down from 1.65 Mt)  
+   → Gate fee revenue at full ramp: **$118 M/yr** (at $78/t average)
+
+3. **Kiln Line Capacity Realism**  
+   A single SACMI Continua+ HDR 2000 line in 2025 produces a maximum of **520 000 m²/yr** of large-format porcelain when running recycled-body mixes at realistic cycle times (cold-to-cold ≈42 min for 12–20 mm thickness and 3.2 × 1.6 m slabs).  
+   → Realistic output from 8 lines: **4.16 million m²/yr** (not 4.80 M)
+
+4. **Total Annual Revenue Recalculation (2031 full ramp)**  
+   | Stream                     | Volume                | Price          | Revenue      |
+   |----------------------------|-----------------------|----------------|--------------|
+   | Gate fees                  | 1.51 Mt               | $78/t          | $118 M       |
+   | Base + functional tiles    | 4.16 M m² (73/27 mix) | $98/m² blended | $408 M       |
+   | Electricity export         | 88 GWh (slightly lower syngas) | $42/MWh | $3.7 M       |
+   | TerraBot subscription      | minor                 | –              | $0.6 M       |
+   | **Total**                  |                       |                | **$530 M**   |
+
+5. **Updated Financial Summary (post Version 3 corrections)**  
+   | Metric                  | Version 2 | Version 3 (final) |
+   |-------------------------|-----------|-------------------|
+   | Total CapEx Genesis-1   | $794 M    | $884 M            |
+   | Annual waste processed  | 1.65 Mt   | 1.51 Mt           |
+   | Annual tile production  | 4.80 M m² | 4.16 M m²         |
+   | Total annual revenue    | $626 M    | $530 M            |
+   | IRR (unlevered)         | 19 %      | 15.8 %            |
+   | NPV (6 %, 2027–2040)    | $1.51 B   | $1.12 B           |
+   | Payback period          | 4.8 yrs   | 5.6 years         |
+   | Break-even              | Q4 2028   | Q2 2029           |
+
+6. **Timeline Adjustment for Kiln Commissioning**  
+   Realistic SACMI lead time + installation in tent/hybrid halls: **42–48 months** from order.  
+   → All 8 lines fully commissioned and at 95 % nameplate: **30 June 2031**  
+   → Full commercial 4.16 M m²/yr achieved: **1 October 2031**
+
+7. **TerraBot Count**  
+   84 bots are insufficient for simultaneous waste handling, kiln loading, and full kit-based construction. Minimum realistic swarm for 24/7 operation: **132 bots**. Increase G-04 kit cost by $14 M (total TerraBot kit $42 M).
+
+All other specifications in the original Prompt 1 and previous correction blocks remain unchanged except where explicitly corrected above.
 ## Locked Realism Corrections – Version 2 (1 December 2025)
 These supersede all previous statements including the first correction block.
 
