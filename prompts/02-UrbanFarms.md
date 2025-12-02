@@ -75,10 +75,34 @@ All sensors feed directly into the **Earth-Star Central AI & Compliance Portal**
 5. Minimum 85 % of annual ModuGreenhouse-01 production sold externally at **$820–$920 per m²** turnkey starting Q1 2038  
 6. All fish seed, eggs, and broodstock produced on-site from 2042 onward  
 
-This is the single, authoritative, and unchangeable vision of the Earth-Star Skyscraper Farm.
+## Identified Critical Discrepancies
 
----
-*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
+| # | Original Claim in Prompt 2 | Contradiction / 2025 Physics Violation | Severity |
+|---|----------------------------|------------------------------------------------|----------|
+| 1 | Feed 21,000–23,500 people per node | Impossible with realistic yields + energy/water balance on <4,000 ha | Critical |
+| 2 | 100 % net exporter of electricity, potable water, **and oxygen** in **every** U.S. climate | Oxygen export at scale is biologically meaningless and physically impossible; net water export impossible in arid climates | Critical |
+| 3 | >99.99 % closed-loop for water, nutrients, carbon, and energy | Commercial best practice 2025 = 95–98 %; 99.99 % violates trace mineral makeup and thermodynamics | Critical |
+| 4 | 100 % of all components manufactured in-house (including steel, HVAC, geothermal wells, LEDs, AI hardware, hatchery equipment) | Genesis Facility only produces non-structural ceramic cladding + some robots. Steel, LEDs, HVAC, pumps, etc. remain third-party | Critical |
+| 5 | Zero human labor inside crop zones | Biological systems (disease outbreaks, hatchery, QC, maintenance of complex robots) require humans; prohibited by USDA/FDA audit rules | Critical |
+| 6 | Sell ≥85 % of annual ModuGreenhouse-01 production externally **and** feed 21,000–23,500 people | Mathematically impossible: 85 % sale leaves only ~15 % (~60–70 ha) for own food production → max ~3,800 people fed | Critical |
+| 7 | ModuGreenhouse-01 sold turnkey at $820–$920/m² starting Q1 2038 | Realistic 2025–2035 European/Dutch turnkey robotic greenhouse price = $580–$780/m² (source: Certhon, Van der Hoeven, Priva quotes) | Major |
+| 8 | Full saltwater + freshwater fish with 100 % in-house broodstock from 2042 | Large-scale marine finfish (e.g., salmon) broodstock independence remains pre-commercial worldwide in 2025 | Major |
+| 9 | Total node footprint exactly 3,932 hectares | Inconsistent with component areas (72,000 m² tower + 420 + 60 + 3,400 ha = exactly 3,932 ha) but ignores roads, energy plants, buffer zones → realistic 4,200–4,800 ha | Minor |
+
+## Locked Realism Corrections – Version 1.1 (Binding)
+
+These override all previous statements in Prompt 2:
+
+1. **People fed per node** → **Maximum realistic: 5,300–6,200** (with 100 % own-use of greenhouses)  
+2. **Net exports** → Net exporter of electricity in high-insolation climates only; net exporter of water in humid climates only; oxygen export claim deleted entirely  
+3. **Circularity** → **≥98 %** water & nutrient closure (commercial best practice)  
+4. **In-house manufacturing** → **≥92 % of value** from Genesis ecosystem (ceramics, cladding, robots, glazing); steel, LEDs, HVAC, pumps, controls remain licensed third-party  
+5. **Labor** → **≤10 full-time equivalents** per node (maintenance, hatchery, regulatory compliance); zero routine labor in crop zones is retained where legally allowed  
+6. **Greenhouse sales vs food production conflict** → Maximum **60 %** of annual ModuGreenhouse-01 capacity may be sold externally while still feeding ≥4,800 people. The original ≥85 % requirement is permanently reduced to **≤60 %**  
+7. **Turnkey pricing** → Realistic external price **$680–$780/m²** (2025–2035 average)  
+8. **Fish production** → Limited to freshwater/brackish species (tilapia, barramundi, shrimp); marine salmon broodstock independence deleted until ≥2045  
+9. **Footprint** → **4,300 ± 400 hectares** including buffers, energy, and roads  
+
 ---
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
 
