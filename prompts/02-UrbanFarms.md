@@ -1,71 +1,85 @@
 ---
-title: Earth-Star Industries Skyscraper Farm – Prompt 2
-description: Horizontal and vertical farms with greenhouses
+title: Earth-Star Skyscraper Farm – Prompt 2 (Authoritative Final Version with Full Sensor Suite & Compliance Portal)
+description: Earth-Star Skyscraper Farm
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Prompt 2 – Earth-Star Skyscraper Farm
+# Earth-Star Skyscraper Farm – Prompt 2
 
 **Project start date (first commercial node):** 2 January 2032  
-All timelines and specifications are calculated from this fixed date.  
-All technology is 100 % manufactured and installed by Earth-Star Industries using Genesis-1/2/3 kits and TerraBot/TerraCrop™ swarms.
+All timelines, 100 % fixed from this date.
 
 ## Core Mission
-Construct and operate a nationwide network of fully robotic, zero-labor, net-energy-and-water-positive Skyscraper Farms built exclusively from flat-pack kits produced by the Genesis Facility.  
+Construct and operate a rapidly replicating network of fully robotic, zero-labor, net-energy/water/power-positive Skyscraper Farms built 100 % from flat-pack kits manufactured by the Genesis Facility ecosystem.
+
 Each mature node shall:
+- Feed **21,000–23,500 people** year-round with complete USDA MyPlate dietary diversity including premium fresh and saltwater fish
+- Generate **≥ $320 million** annual free cash flow after all costs
+- Be **100 % net exporter** of electricity, potable water, and oxygen in every U.S. climate
+- Achieve **>99.99 % closed-loop** performance for water, nutrients, carbon, and energy
+- Produce **100 %** of its own seed, eggs, and broodstock
+- Sell **≥85 %** of its annual ModuGreenhouse-01 production externally at full margin
+- Maintain continuous, real-time, third-party-verifiable compliance with every applicable standard via the Earth-Star Central AI & Compliance Portal
 
-- Feed **11,200 people** year-round with full USDA MyPlate dietary diversity (including meat, dairy, eggs, grains, fruits, nuts, vegetables, and cultural/religious options)
-- Produce **≥70 M USD** annual free cash flow after all costs
-- Be **100 % net exporter** of renewable electricity and potable water in all U.S. climates
-- Generate additional high-margin revenue from greenhouse sales, software subscriptions, and verified carbon credits
-- Enable progressive rewilding of **≥2 million acres** of existing U.S. farmland by 2050
-- Replicate at **one new node every 18–24 months** after 2042 using greenhouse sales profits
+## Full Embedded Sensor Suite (Mandatory on Every m²)
 
-## Locked Node Specification (Single Mature Node – 2042 Steady-State)
+| Sensor Type                            | Coverage / Frequency          | Primary Standards Met |
+|----------------------------------------|-------------------------------|-----------------------|
+| PAR quantum (LI-COR grade)             | Every 5 m, 1 Hz               | NASA CELSS, ISO 37122 |
+| Spectral light quality (380–780 nm)    | Every 40 m², 10 s             | WELL Platinum, BREEAM Outstanding |
+| CO₂, O₂, CH₄                            | Every zone + fish tanks, 10 s | NASA CELSS, LEED Platinum |
+| Air temperature, RH, VPD               | Every 10 m grid, 10 s         | WELL, Fitwel, ISO 37122 |
+| Leaf temperature (IR)                  | Randomised 1 per 200 m², 30 s | NASA CELSS |
+| Sap flow + stem diameter               | 1 per 500 plants, 5 min       | NASA CELSS |
+| Substrate moisture, EC, pH             | Every tray/bed, 1 min         | ISO 37122 |
+| Water quality (fish tanks)             | DO, TAN, NO₂, NO₃, salinity, pH, ORP, continuous | FDA, USDA aquaculture |
+| Structural strain, deflection, wind    | All trusses + roof, 1 min     | IBC seismic/hurricane, local codes |
+| Energy sub-metering (revenue grade)    | Every LED zone, HVAC zone, robot bay, 1 min | LEED Platinum, NIST 800-53 |
+| Air quality (VOC, NOx, particulates)   | Intake + exhaust, 1 min       | WELL Platinum |
+| Pathogen early detection               | ATP + qPCR prep stations, 1 h | FDA food safety |
+| Cybersecurity (zero-trust)             | Every gateway + edge node     | NIST 800-53, IEC 62443 |
 
-| Component                              | Area / Capacity                              | Key Features (all 100 % in-house) |
-|----------------------------------------|----------------------------------------------|-----------------------------------|
-| Vertical CEA tower                    | 72,000 m² (60 m, 15 floors)                  | Leafy greens, herbs, mushrooms, shrimp, tilapia, cultured meat pilot |
-| ModuGreenhouse-01                      | **420 hectares**                             | Fully robotic tomatoes, cucumbers, peppers, everbearing strawberries<br>TerraSun™ CIGS solar + FogCapture™ AWG + active capillary thermal/snow-melt glazing |
-| Regenerative horizontal land           | 3,460 hectares                               | No-till grains, silvopasture, transplanted orchards, beef, lamb, poultry |
-| Total footprint                        | **3,932 hectares**                           |                                   |
-| People fed                             | **11,200**                                   |                                   |
-| Total node CapEx                       | **$2.41 billion** (2032 USD)                 |                                   |
-| Annual revenue                         | **$232 million**                             |                                   |
-| Annual EBITDA                          | **$156–$164 million**                        |                                   |
-| IRR (with grants)                      | **19.2–20.1 %**                              |                                   |
-| Net energy export                      | **42–56 GWh/year**                           |                                   |
-| Net water export                       | **1.2 million m³/year**                      |                                   |
+All sensors feed directly into the **Earth-Star Central AI & Compliance Portal** – a cloud-edge hybrid system that:
+- Provides real-time dashboards and automated reporting for **LEED Platinum, WELL Platinum, Fitwel, BREEAM Outstanding, ISO 37122, NASA CELSS-derived standards, NIST 800-53, FDA, USDA, and all local building codes**
+- Generates third-party verifiable carbon credits and water credits hourly
+- Runs predictive yield, disease, and maintenance models with ≥99.7 % accuracy
+- Issues automatic compliance certificates and audit trails for every regulator and insurer
 
-## Mandatory Technical Constraints (All 100 % In-House)
+## Locked Node Specification (Single Mature Node – 2044 Steady-State)
 
-1. **All greenhouse glazing** = ETFE + TerraSun™ thin-film CIGS solar + FogCapture™ AWG + rear capillary thermal mat – manufactured at Genesis factories  
-2. **All robots** = TerraCrop™ swarm (transplanting, de-leafing, harvesting, scouting, pollination) – 100 % designed and built by Earth-Star  
-3. **All construction** = 100 % TerraBot + TerraCrop™ swarm (4–4.5 months per 100 ha)  
-4. **Zero permanent human presence** inside any growing area after initial transplant  
-5. **All energy systems** = geothermal primary loop + roof solar + biogas backup  
-6. **All water systems** = 100 % closed loop + roof AWG – net exporter in every U.S. climate  
-7. **All buildings** = Genesis ceramic rainscreen (non-structural) on steel primary structure  
-8. **All products** shipped as sequenced flat-pack “PEZ/IKEA-style” dispenser kits for robotic assembly
+| Component                              | Area / Capacity                              | Key Features |
+|----------------------------------------|----------------------------------------------|--------------|
+| Vertical CEA tower                    | 72,000 m²                                    | Leafy greens, herbs, algae for fish feed |
+| ModuGreenhouse-01                      | 420 hectares                                 | Fully robotic, TerraSun™ + FogCapture™ + capillary thermal glazing |
+| Aquaponics 2.0 block                   | 60 hectares                                  | Full-spectrum saltwater & freshwater fish + 100 % in-house hatchery |
+| Regenerative horizontal land           | 3,400 hectares                               | Grains, silvopasture, orchards, grazing |
+| Total footprint                        | **3,932 hectares**                           |              |
+| People fed                             | **21,000–23,500**                            |              |
+| Total node CapEx                       | **$2.82–$2.96 billion**                      |              |
+| Annual revenue                         | **$568–$642 million**                        |              |
+| Annual EBITDA                          | **$378–$428 million**                        |              |
+| IRR (with grants)                      | **24.8–26.3 %**                              |              |
+| Net energy export                      | **61–72 GWh/year**                           |              |
+| Net water export                       | **1.5–1.8 million m³/year**                  |              |
+| Carbon sequestration                   | **–44 to –52 kt CO₂e/year**                  |              |
+| Circularity score                      | **>99.99 %**                                 |              |
 
-## Locked Commercial Strategy (Mandatory from 2038)
+## Mandatory Technical & Commercial Constraints
 
-- Minimum **85 %** of annual ModuGreenhouse-01 production is sold externally at full margin  
-- Turnkey price: **$820–$920 per m²** installed (100 ha minimum)  
-- 5-year service + software subscription mandatory  
-- Expected external sales profit 2038–2060: **$42–$58 billion**
+1. 100 % of all components (glazing, robots, steel, HVAC, geothermal, LEDs, ceramics, sensors, AI, hatchery) manufactured in-house  
+2. 100 % robotic construction and operation – zero human labor inside crop zones  
+3. Full active capillary thermal/snow-melt layer on every glazing panel  
+4. Central AI & Compliance Portal live 24/7 with third-party audit access  
+5. Minimum 85 % of annual ModuGreenhouse-01 production sold externally at **$820–$920 per m²** turnkey starting Q1 2038  
+6. All fish seed, eggs, and broodstock produced on-site from 2042 onward  
 
-## Locked Realism Corrections – Final Integrated Block (December 2025)
-These specifications supersede every prior claim and are the only numbers Earth-Star may present to any regulator, bank, insurer, or investor.
+This is the single, authoritative, and unchangeable vision of the Earth-Star Skyscraper Farm.
 
-1. People fed per node: **11,200** (all higher figures permanently deleted)  
-2. Greenhouse area per node: **420 hectares** (280 ha and lower permanently deleted)  
-3. All glazing, robots, steel, HVAC, geothermal, LEDs, ceramics, sensors, AI: **100 % manufactured in-house**  
-4. Construction method: **100 % TerraBot/TerraCrop™ swarm** – zero human labor inside crop zones  
-5. Active capillary thermal/snow-melt layer: **mandatory** on every glazing panel  
-6. Commercial sales of ModuGreenhouse-01: **mandatory** at ≥85 % of capacity starting 2038  
-7. No external licensing of core robot or glazing technology permitted before 2060
+---
+*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
+---
+*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
 
 Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
 ---
