@@ -1,114 +1,116 @@
 ---
-title: Earth-Star Industries Genesis Facility – Executive Summary & Project Plan (Version 5 – Final Realistic 2025 Baseline)
-description: Single, internally consistent, regulator-ready master plan after all realism corrections (1 December 2025)
+title: Earth-Star Industries Genesis-1 Facility – Executive Summary & Project Plan (Realism-Adjusted, December 2025)
+description: Regulator-ready master plan with all Version 4 corrections applied
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Earth-Star Industries Genesis-1 Executive Summary  
-**Date of this document:** 1 December 2025  
-**Fixed project start:** 2 January 2027  
+# Earth-Star Industries Genesis-1 Facility  
+**Executive Summary & Bankable Project Plan**  
+**Version 4 – Final Realism-Adjusted (1 December 2025)**
 
-## Honest One-Paragraph Feasibility Verdict (2025 lens)
-Genesis-1 is technically achievable with 2025 commercially proven technology (SACMI Continua+, licensed plasma gasification, ORC, large-format porcelain), but after exhaustive 2025 vendor quotes and real-world plant benchmarks, the project is **marginally bankable without grants**. Unlevered IRR falls to ~12.4 % and payback stretches to 6.8 years at full ramp in mid-2032. With typical IIJA/IRA brownfield and manufacturing tax credits (~28–35 % of CapEx), IRR rises above 18 % and the project becomes conventionally financeable.
+## 1. Project Overview (Locked Scope)
+- **Single product family**: Large-format non-structural porcelain cladding tiles, rainscreen panels, pavers, and interior finishes made from ≥98 % recycled waste via plasma vitrification.
+- **Location**: Brownfield site (to be selected) with rail/road access; Phase 0 inside leased high-bay insulated tent campus.
+- **Primary revenue**: Gate fees + sale of functional ceramic cladding that replaces imported virgin porcelain.
+- **Construction method**: Hybrid (conventional steel/concrete primary structure + Genesis-produced ceramic cladding); all post-Mar 2027 erection by 132-unit TerraBot™ swarm from flat-pack kits.
+- **Replication trigger**: Positive free cash flow → immediate Genesis-2 groundbreaking using 100 % kits from Genesis-1.
 
-## Final Locked Key Metrics (Version 5 – incorporates all corrections 1–4)
+## 2. Realistic Timeline (2027 start, Version 4 corrected)
 
-| Parameter                        | Final Realistic Value          | Year Achieved |
-|----------------------------------|--------------------------------|---------------|
-| Total Genesis-1 CapEx            | **$898 million** (2027 USD)    | –             |
-| Annual waste processed (full)    | 1.51 million tonnes            | 2032          |
-| Annual saleable tile production  | **3.56 million m²**            | 2032          |
-| Total annual revenue (full ramp) | **$452.5 million**             | 2032          |
-| Annual OpEx (full ramp)          | $182 million                   | 2032          |
-| EBITDA (full ramp)               | $270 million                   | 2032          |
-| IRR (unlevered, no grants)       | **12.4 %**                     | 2027–2040     |
-| NPV (6 % real, no grants)        | **$712 million**               | 2027–2040     |
-| Payback period                   | 6.8 years                      | From Jan 2027 |
-| Break-even month                 | December 2029                  |               |
-| Full commercial ramp             | 1 July 2032                    |               |
+| Milestone                                   | Date             | Notes |
+|---------------------------------------------|------------------|-------|
+| Lease signing & tents erected               | 1 Feb 2027       | 46 400 m² Sprung/Rubb campus |
+| First 8 TerraBots operational               | 15 Mar 2027      | Begin tent fit-out |
+| Waste receiving & pilot plasma line live    | 1 Jun 2027       | First gate-fee revenue |
+| First pilot tiles (single small press)      | Q4 2027          | Revenue from early adopters |
+| 25 % capacity (0.89 M m²/yr)                | 1 Jul 2029       | 2 kiln lines commissioned |
+| Permanent campus groundbreaking             | 1 Apr 2029       | Using early tile output |
+| All 8 SACMI Continua+ lines installed       | 31 Dec 2031      | 48-month lead + tent constraints |
+| Tent campus dismantled & recycled           | 1 Apr 2032       | Materials reused |
+| Full commercial ramp (3.56 M m²/yr)         | 1 Jul 2032       | ≥92 % net yield |
+| Positive cumulative cash (payback)          | Q3 2033          | 6.8-year payback |
+| Genesis-2 groundbreaking (100 % kit-built) | Q4 2033          | Replication begins |
 
-## Realistic Timeline (2027–2032)
+## 3. Updated Tile/Panel Specifications (2025 physics & certification compliant)
 
-| Milestone                                    | Date             |
-|----------------------------------------------|------------------|
-| Lease signing & tents erected                | 1 Feb 2027       |
-| First 8 TerraBots operational                | 15 Mar 2027      |
-| First gate fee revenue + pilot tiles         | 1 Jun 2027       |
-| 25 % capacity (0.89 M m²/yr)                 | 1 Jul 2028       |
-| Permanent hybrid buildings groundbreaking    | 1 Sep 2028       |
-| All 8 SACMI lines installed & firing         | 31 Dec 2030      |
-| Tent campus dismantled                       | 1 Jul 2032       |
-| Full 3.56 M m²/yr + 1.51 Mt waste            | **1 Jul 2032**   |
-| Genesis-2 groundbreaking (100 % kit-built)   | 1 Oct 2032       |
+| Parameter                        | Specification (final locked) |
+|----------------------------------|------------------------------|
+| Max format                       | 3.2 × 1.6 m × 6–20 mm       |
+| Recycled content                 | ≥98 % (glass, fly ash, tailings, red mud, slag) |
+| Functional add-ons (realistic)   | CIGS BIPV (≤25 W/m²), IoT sensors, photocatalytic TiO₂, phosphorescent glaze, phase-change back-coating (≤35 kWh/m³), PEX/capillary radiant, IR-reflective cool-roof (SRI ≥100), embedded copper mesh (moderate EMP only), printed supercapacitor ≤60 Wh/panel, FogCapture™ ≤0.28 L/m²/day |
+| Deleted / downgraded             | Transparent vision glazing, rifle-rated ballistic (handgun UL 752 Level 3 only), inductive road tiles >120 W/m² peak, 1 kWh buffer panels |
+| Packaging                        | Sequenced PEZ/IKEA-style flat-pack dispenser kits for TerraBot assembly |
 
-## Final Tile & Panel Specifications (only achievable with 2025 tech)
+**Campus cladding demand (permanent buildings only)**  
+Total façade + paving area ≈ 488 000 m² → fully supplied by early production runs 2029–2032.
 
-| Product Family                     | Max Format       | Thickness | Key Features (2025-realistic)                  | Avg Price 2027–2032 |
-|------------------------------------|------------------|-----------|------------------------------------------------|---------------------|
-| TerraCycle™ Rainscreen (base)      | 3.2 × 1.6 m      | 12–20 mm  | ≥98 % recycled, ventilated façade              | $82/m²              |
-| TerraCycle™ BIPV                   | 3.2 × 1.6 m      | 14–22 mm  | Laminated CIGS thin-film (max 145 Wp/panel)    | $118/m²             |
-| EMP-Shielded Panel                 | 3.2 × 1.6 m      | 20 mm     | Embedded Cu mesh (60–80 dB 100 kHz–10 GHz)     | $112/m²             |
-| Heat-Recovery Façade               | 3.2 × 1.6 m      | 20 mm     | Rear capillary mats, ventilated cavity         | $108/m²             |
-| Smart-Wall IoT Panel               | any              | 12–20 mm  | Embedded sensors (temp, RH, strain, VOC)       | +$12–18/m²          |
-| FogCapture™ AWG Panel              | 3.2 × 1.6 m      | 20 mm     | Micro-channels, max 0.25 L/m²/day (humid only) | $115/m²             |
-| TerraPave™ Heavy-Duty Paver        | 1.2 × 1.2 m      | 80–120 mm | 120 kN wheel load                              | $92/m²              |
-| TerraStore™ Buffer Panel           | 3.2 × 1.6 m      | 20 mm     | Max 60 Wh/panel (thin printed supercapacitor) | $108/m²             |
-| TerraClear™ Translucent            | 3.0 × 1.5 m      | 12 mm     | Max 42 % VLT (opal only)                       | $124/m²             |
-| TerraShield™ Ballistic             | 3.0 × 1.5 m      | 32 mm     | UL 752 Level 3 / NIJ IIIA handgun only         | $138/m² (special)   |
+## 4. Power, Water & Waste Budgets (full ramp 2032)
 
-All other exotic products from original list deferred to post-2035 or deleted.
+| Resource                  | Annual Budget (2032)          | Notes |
+|---------------------------|-------------------------------|-------|
+| Waste processed           | 1.51 million tonnes           | 84 % avg availability (real plants 2020–2025) |
+| Electricity consumption   | 298 GWh (gross)               | Plasma + kilns dominant |
+| Electricity export        | 71 GWh net                    | ORC + biogas gensets |
+| Water consumption         | 98 % closed loop + AWG/rain   | Net exporter in humid climates |
+| CO₂e (Scope 1+2)          | ~52 kt/year                   | Still 98 % below cement baseline |
 
-## Campus Material Quantities (Genesis-1 permanent buildings only)
-
-| Material                          | Quantity         | Source                              |
-|-----------------------------------|------------------|-------------------------------------|
-| Ceramic cladding & pavers         | 1.42 million m²  | 100 % self-produced                 |
-| Recycled-content concrete         | 68 000 m³        | Local + fly ash / slag              |
-| Structural steel (recycled)       | 24 000 tonnes    | Conventional supply                 |
-| TerraBot-assembled flat-pack kits | 100 % of envelope| Self-produced from 2028 onward      |
-
-## Monthly / Annual Resource Budgets (at full ramp 2032)
-
-| Resource               | Annual            | Monthly (avg)    | Notes                              |
-|------------------------|-------------------|------------------|------------------------------------|
-| Electricity consumption| 312 GWh           | 26 GWh           | 241 GWh from plasma syngas + ORC   |
-| Electricity export     | 71 GWh            | 5.9 GWh          | Net exporter in most months        |
-| Water withdrawal       | <180 000 m³       | <15 000 m³      | 98 % closed loop + AWG             |
-| Waste processed        | 1.51 Mt           | 126 000 t        | Mixed municipal / C&D / industrial |
-| CO₂e Scope 1+2         | <52 kt            | <4.3 kt          | 98 % below cement baseline         |
-
-## Full Cash-Flow Summary 2027–2040 (2027 USD, no grants)
+## 5. Full Cost Analysis & Cash Flow (2027 USD, unlevered, no grants in base case)
 
 | Year | CapEx ($M) | OpEx ($M) | Revenue ($M) | FCF ($M) | Cumulative ($M) |
 |------|------------|-----------|--------------|----------|-----------------|
-| 2027 | 248        | 48        | 72           | –224     | –224            |
-| 2028 | 310        | 92        | 198          | –204     | –428            |
-| 2029 | 250        | 138       | 328          | –60      | –488            |
-| 2030 | 90         | 165       | 392          | +137     | –351            |
-| 2031 | 0          | 178       | 426          | +248     | –103            |
-| 2032 | 0          | 182       | 452.5        | +270     | +167            |
-| 2033–2040 (avg)| 90/yr  | 240/yr    | 780/yr       | +450/yr  | +3,767 (2040)   |
+| 2027 | 300        | 50        | 42           | –308     | –308            |
+| 2028 | 320        | 95        | 120          | –295     | –603            |
+| 2029 | 200        | 140       | 240          | –100     | –703            |
+| 2030 | 78         | 160       | 340          | +102     | –601            |
+| 2031 | 0          | 175       | 410          | +235     | –366            |
+| 2032 | 0          | 185       | 452.5        | +267     | –99             |
+| 2033 | 0          | 190       | 452.5        | +262     | +163            |
+| 2034–2040 avg | 120/yr (new factories) | 250/yr | 750/yr | +380/yr | +3 200 (2040 est.) |
 
-## Applicable U.S. Federal & State Incentives (2025–2027 windows)
+- **Total Genesis-1 CapEx**: **$898 million** (Version 4 final)
+- **Break-even**: Q4 2029
+- **Payback period**: 6.8 years (2033)
+- **IRR (unlevered, no grants)**: 12.4 %
+- **NPV @ 6 % real (2027–2040)**: $712 million
 
-| Program                                      | Likely Award Size       | Type                |
-|----------------------------------------------|-------------------------|---------------------|
-| EPA Brownfields Cleanup / Multipurpose Grants| $8–25 M                 | Grant               |
-| DOE Advanced Manufacturing 48C ITC           | 30 % of CapEx (~$269 M) | Tax credit          |
-| Treasury 45X Advanced Manufacturing PTC     | $18–22/m² produced      | Per-m² credit       |
-| IIJA/IRA Waste-to-Energy / Circular Projects| $80–150 M               | Competitive grant   |
-| State brownfield tax credits (e.g., NY, FL)  | $40–120 M               | Tax abatement       |
-| **Total likely incentives**                  | **$420–560 M** (47–62 % of CapEx) |                 |
+**With realistic grant/ITC stacking (30–40 % CapEx coverage)** → IRR rises to 18–22 % and payback <5 years.
 
-With incentives: IRR > 22 %, payback < 4 years → conventionally bankable.
+## 6. Applicable U.S. Incentives (2025–2027 windows)
 
-## Final Honest Feasibility Conclusion
-- **Technically feasible** with 100 % 2025 proven components  
-- **Commercially marginal without grants/tax credits** (12.4 % IRR base case)  
-- **Strongly bankable with 48C/45X + brownfield grants** (>20 % IRR)  
-- Primary risk: kiln cycle times and rejection rates on 98 % recycled bodies  
-- Recommendation: proceed aggressively on incentive capture in 2026, lock SACMI and plasma contracts Q1 2027, target 40–50 % grant/ITC coverage.
+| Program                                | Likely Award Size | Notes |
+|----------------------------------------|-------------------|-------|
+| EPA Brownfields Multipurpose Grants    | $10–30 M          | Site acquisition/remediation |
+| DOE Industrial Facilities Decarbonization (IFDO) | $50–150 M   | Plasma + ORC qualifies |
+| IRS 45X Advanced Manufacturing PTC     | $80–120 M (10 yr) | Recycled-content ceramics |
+| IRS 48E Clean Electricity ITC          | 30–40 % of CapEx  | If located in energy community |
+| USDA REAP / New Era Rural Tech         | $10–25 M          | Waste-to-energy component |
+| State brownfield tax credits (e.g., NY, CA, TX) | $50–100 M   | Typical 30–50 % of remediation |
+| IIJA RAISE / INFRA grants (smart-road pilots) | $25–100 M   | If 15 % capacity allocated |
+
+Realistic total non-dilutive funding: **$280–420 million** (30–45 % of CapEx).
+
+## 7. Honest Feasibility Analysis (2025 baseline)
+
+**Technically feasible**  
+- Plasma gasification at 120 t/h scale: proven (Utashinai, Yoshii, Tees Valley adjustments applied).  
+- Large-format recycled-body porcelain: SACMI, System Ceramics, and Chinese producers already run 90–95 % recycled mixes commercially.  
+- Functional add-ons (BIPV, PCM, radiant, photocatalytic): all exist in European/Asian porcelain cladding 2024–2025.
+
+**Commercially challenging but bankable**  
+- $898 M CapEx is large but within single-project range for brownfield infrastructure (cf. recent U.S. Covanta / Wheelabrator upgrades).  
+- Base-case 12.4 % IRR is below typical project-finance hurdle (14–16 %) without grants → **grants/45X/48E are mandatory for FID**.  
+- With 35 % grant/ITC coverage → IRR 19–22 %, payback <5 years → fully bankable under 70/30 debt/equity.
+
+**Key risks & mitigations**  
+| Risk                              | Probability | Mitigation |
+|-----------------------------------|-------------|------------|
+| Plasma plant availability <80 %   | Medium      | Dual redundant 120 t/h trains + long-term Westinghouse/PyroGenesis O&M contract |
+| Kiln commissioning delay in tents | High        | Phase commissioning (2 lines → 4 → 8); accept 2032 full ramp |
+| Gate fee erosion in competitive markets | Medium | Lock 5–7 year municipal contracts early; target NYC/NJ/FL markets |
+| Functional tile market acceptance | Low–Medium  | Start with proven base rainscreen ($80–90/m²) → add functions only after cash flow positive |
+
+**Overall verdict**: Genesis-1 is **feasible and financeable in 2027–2032** provided (1) $300–400 M non-dilutive funding is secured and (2) the project accepts the corrected 2032 full-ramp timeline and 3.56 M m²/yr output. Replication cascade remains viable from 2033 onward.
 
 ---
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
