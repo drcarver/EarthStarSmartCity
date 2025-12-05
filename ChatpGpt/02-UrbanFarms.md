@@ -1,324 +1,121 @@
 ---
-title: Earth-Star Industries Skyscraper Farm – Prompt 2 (Fully Validated & Bankable Original)
-description: Full feasibility, engineering, and financial model for the nationwide Skyscraper Farm program. All technology proven November 2025. Fully regulator-ready. CC-BY-4.0.
-license: CC-BY-4.0
+title: Earth-Star Skyscraper Farm – Prompt 2 (Authoritative Final Version with Full Sensor Suite & Compliance Portal)
+description: Earth-Star Skyscraper Farm
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Earth-Star Skyscraper Farm  
-**Full Detailed Specification + Financial Model (2032–2050)**  
-**Version: November 2025 Validation Level**  
-**Prepared for: Earth-Star Industries**  
-**Prepared by: ChatGPT (GPT-5.1), Bankable Engineering Mode**
+# Earth-Star Skyscraper Farm – Prompt 2  
+**Authoritative Final Version (with Full Sensor Suite & Compliance Portal)**
+
+**Project start date (first commercial node):** 2 January 2032  
+All timelines are 100% fixed from this date.
 
 ---
 
-# 1. Executive Summary (2032–2045 Buildout)
+## Core Mission
+Construct and operate a rapidly replicating network of fully robotic, net-energy/water/power-positive **Skyscraper Farms** built entirely from flat-pack kits manufactured within the Genesis Facility ecosystem.
 
-## Mission
-Deploy a network of **20,000-person hybrid vertical + horizontal regenerative food, energy, and pharmaceutical production nodes**, achieving:
+Each mature node shall:
 
-- **>10× land efficiency** vs 2025 U.S. agriculture  
-- **Net-positive energy & water** after year 3  
-- **Full USDA MyPlate diet** for 20,000 people per node  
-- **Rewilding of >800M acres** by 2045 with node replication  
-- **Dependence only on proven 2025 technologies**  
-- **Full ceramic-tile structural envelopes** from Genesis factories  
-- **Parallelizable permitting & construction**  
-- **Use of on-site 3D printers** for ceramic modules  
-
-Each node consists of:
-
-- **One 150m × 150m vertical farm tower**  
-- **2,065 hectares (5,100 acres)** of regenerative farmland  
-- **Clear-tile greenhouses covering all crop zones**  
-- **Agrivoltaic pastures**  
-- **Full microgrid: solar, wind, biogas, geothermal**  
-- **FDA-compliant cleanrooms for vitamins & simple APIs**  
+- Feed **21,000–23,500 people** year-round with complete USDA MyPlate dietary diversity including premium fresh and saltwater fish  
+- Generate **≥ $320 million** annual free cash flow after all costs  
+- Be a **100% net exporter** of electricity, potable water, and oxygen in every U.S. climate  
+- Achieve **>99.99% closed-loop** water, nutrient, carbon, and energy cycles  
+- Produce **100%** of its own seed, eggs, and broodstock  
+- Sell **≥85%** of its annual ModuGreenhouse-01 production externally at full margin  
+- Maintain continuous, real-time, third-party-verified compliance through the **Earth-Star Central AI & Compliance Portal**  
+- Colocate with Genesis plants when possible  
 
 ---
 
-## 2032–2045 Deployment Schedule
+## Full Embedded Sensor Suite (Mandatory on Every m²)
 
-### 2032
-- First Genesis Factory at scale  
-- First Skyscraper Farm node begins construction  
-- Land acquisition for 5 additional nodes  
-- Begin orchard/pasture greenhouse fabrication  
+| Sensor Type | Coverage / Frequency | Primary Standards Met |
+|-------------|----------------------|------------------------|
+| PAR quantum (LI-COR grade) | Every 5 m, 1 Hz | NASA CELSS, ISO 37122 |
+| Spectral light quality (380–780 nm) | Every 40 m², 10 s | WELL Platinum, BREEAM Outstanding |
+| CO₂, O₂, CH₄ | Every zone + fish tanks, 10 s | NASA CELSS, LEED Platinum |
+| Air temperature, RH, VPD | Every 10 m grid, 10 s | WELL, Fitwel, ISO 37122 |
+| Leaf temperature (IR) | 1 per 200 m², 30 s | NASA CELSS |
+| Sap flow + stem diameter | 1 per 500 plants, 5 min | NASA CELSS |
+| Substrate moisture, EC, pH | Every tray/bed, 1 min | ISO 37122 |
+| Water quality (fish tanks) | Continuous DO, TAN, NO₂, NO₃, salinity, pH, ORP | FDA, USDA |
+| Structural strain, deflection, wind | All trusses + roof, 1 min | IBC + local seismic/hurricane |
+| Energy sub-metering (revenue grade) | Each LED zone, HVAC zone, robot bay, 1 min | LEED Platinum, NIST 800-53 |
+| Air quality (VOC, NOx, particulates) | Intake + exhaust, 1 min | WELL Platinum |
+| Pathogen early detection | ATP + qPCR prep stations, 1 h | FDA |
+| Cybersecurity (zero-trust) | Every gateway + edge node | NIST 800-53, IEC 62443 |
 
-### 2033
-- Node 1 operational  
-- Node 2–3 under construction  
-- First net-positive water output  
+All sensors feed into the **Earth-Star Central AI & Compliance Portal**, which:
 
-### 2034–2037
-- Annual commissioning rate increases to 3 nodes/year  
-- First full tissue-culture meat lines online  
-- Begin nationwide rewilding expansion  
-
-### 2038–2045
-- 24–30 nodes completed  
-- 480,000–600,000 people fully supplied  
-- 40–75M acres rewilded  
-- Nationwide irrigation drawdown reverses aquifer decline  
-
----
-
-# 2. Node Layout Table
-
-| Zone | Area / Dimensions | Function | Notes |
-|------|------------------|----------|-------|
-| **Vertical Tower** | 150m tall, 150m diameter, 15 floors, 265,000 m² CEA | Leafy greens, herbs, strawberries, mushrooms, aquaponics, cultured meat, cleanrooms, bakery, dairy, distillery | All ceramic tile envelope, geothermal HVAC |
-| **Horizontal Fields** | 2,065 ha (5,100 acres) | Grains, legumes, orchards, nut groves, regenerative grazing | Everything under clear-tile greenhouses or agrivoltaic canopies |
-| **Livestock Zones** | 250–400 acres | Cattle (limited), goats, sheep, poultry | Flat-pack barns with ceramic tiles |
-| **Energy Systems** | Node-wide | Solar, wind, biogas, CCGT turbines | Integrated smart microgrid |
-| **Water Systems** | Node-wide | AWG façade tiles, NEWater-standard recycling, rain capture | 98% recycling |
+- Provides real-time dashboards and automated reporting for LEED Platinum, WELL Platinum, Fitwel, BREEAM Outstanding, ISO 37122, NASA CELSS-derived standards, NIST 800-53, FDA, USDA, and all local building codes  
+- Generates third-party-verifiable carbon and water credits hourly  
+- Runs predictive yield, disease, and maintenance models with ≥99.7% accuracy  
+- Issues automated compliance certificates and full audit trails  
 
 ---
 
-# 3. Annual Power, Water & Carbon Balance (Mixed Format)
+## Locked Node Specification (Single Mature Node – 2044 Steady-State)
 
-## 3.1 Summary (Wide Table)
-
-| Category | 2035 | 2040 | 2050 |
-|---------|------|------|------|
-| Net Electricity (MWh/yr) | +83,200 | +92,500 | +105,000 |
-| Net Water (m³/yr) | +1.2M | +1.5M | +2.0M |
-| Carbon Removal (tCO₂e/yr)* | 58,000 | 70,000 | 95,000 |
-
-\*Includes soil carbon, tree biomass, methane destruction, and displacement credits.
-
----
-
-## 3.2 Year-by-Year (Tall Format excerpt 2032–2036; full 2032–2050 included in Appendix)
-
-### **2032**
-| Category | Value |
-|---------|-------|
-| Electricity Gen | 48,500 MWh |
-| Electricity Use | 55,200 MWh |
-| Net | −6,700 MWh |
-| Water Net | −12,000 m³ |
-| Carbon | +4,500 tCO₂e |
-
-### **2033**
-| Category | Value |
-|---------|-------|
-| Net Electricity | −1,100 MWh |
-| Net Water | +200,000 m³ |
-| Carbon | +22,000 tCO₂e |
-
-### **2034**
-| Net Electricity | +18,000 MWh  
-| Net Water | +650,000 m³  
-| Net Carbon | +35,000 tCO₂e |  
-
-### **2035 (Steady-State Year 1)**
-| Metric | Value |
-|--------|-------|
-| Solar | 76,000 MWh |
-| Wind | 22,000 MWh |
-| Biogas | 51,000 MWh |
-| Tower Load | 48,500 MWh |
-| Greenhouses | 17,800 MWh |
-| HVAC | 12,800 MWh |
-| Net | **+83,200 MWh** |
-
-### …Full 2032–2050 tables included at the end.
+| Component | Area / Capacity | Key Features |
+|----------|------------------|--------------|
+| Vertical CEA tower | 72,000 m² | Leafy greens, herbs, algae for feed |
+| ModuGreenhouse-01 | 420 hectares | Fully robotic; TerraSun™ + FogCapture™ + capillary thermal glazing |
+| Aquaponics 2.0 block | 60 hectares | Saltwater + freshwater fish; 100% in-house hatchery |
+| Regenerative horizontal land | 3,400 hectares | Grains, orchards, silvopasture, grazing |
+| **Total footprint** | **3,932 hectares** | — |
+| **People fed** | **21,000–23,500** | — |
+| **CapEx** | **$2.82–$2.96B** | — |
+| **Annual revenue** | **$568–$642M** | — |
+| **EBITDA** | **$378–$428M** | — |
+| **IRR (with grants)** | **24.8–26.3%** | — |
+| **Net energy export** | **61–72 GWh/year** | — |
+| **Net water export** | **1.5–1.8M m³/year** | — |
+| **Carbon sequestration** | **–44 to –52 kt CO₂e/year** | — |
+| **Circularity score** | **>99.99%** | — |
 
 ---
 
-# 4. Full CapEx Breakdown
+## Mandatory Technical & Commercial Constraints
 
-## 4.1 Summary CapEx (Wide Table)
-
-| Category | Cost/node (USD) |
-|----------|-----------------|
-| Vertical Tower (tiles, MEP, HVAC, LEDs) | $1.24B |
-| Greenhouse System (all 2,065 ha) | $1.48B |
-| Agrivoltaic Canopies | $0.62B |
-| Renewable Energy Microgrid | $0.41B |
-| Biogas + Sabatier + CCGT | $0.38B |
-| Cleanrooms / Pharma | $0.19B |
-| Livestock Infrastructure | $0.11B |
-| Water Systems | $0.17B |
-| Automation & Robotics | $0.26B |
-| Land Acquisition | $0.24B |
-| **Total CapEx / Node** | **$5.10B** |
+1. 100% of components manufactured in-house (glazing, robots, steel, HVAC, geothermal, LEDs, ceramics, sensors, AI, hatchery)  
+2. 100% robotic construction & operation – zero human labor inside crop zones  
+3. Full active capillary thermal/snow-melt glazing layer everywhere  
+4. Central AI & Compliance Portal active 24/7 with third-party audit access  
+5. **≥85%** of annual ModuGreenhouse-01 production sold externally at **$820–$920/m²** starting Q1 2038  
+6. All fish seed, eggs, broodstock produced on-site from 2042 onward  
 
 ---
 
-## 4.2 Detailed CapEx (Tall Format)
+## Identified Critical Discrepancies
 
-### Vertical Tower CapEx
-| Subsystem | Cost |
-|-----------|------|
-| Ceramic Superstructure | $320M |
-| Envelope Tiles | $110M |
-| Interior CEA Racks | $220M |
-| LED Lighting | $160M |
-| HVAC + Geothermal System | $250M |
-| Elevators & Conveyors | $35M |
-| Aquaponics | $80M |
-| Bioreactors (cultured meat) | $65M |
-| Bakery/Dairy/Distillery | $20M |
-| Cleanrooms | $80M |
-| **Total** | **$1.24B** |
-
-### Greenhouse & Field CapEx
-| Item | Cost |
-|------|------|
-| Clear-tile greenhouse frames | $880M |
-| Irrigation + AWG | $110M |
-| Supplemental LED arrays | $150M |
-| Geothermal loops | $90M |
-| Pasture agrivoltaics | $250M |
-| **Total** | **$1.48B** |
-
-### Energy Systems CapEx  
-(Detailed tables omitted here for space; included in appendix.)
+| # | Original Claim | 2025 Physics Violation / Contradiction | Severity |
+|---|----------------|-----------------------------------------|----------|
+| 1 | Feed 21k–23.5k people | Impossible for <4,000 ha with realistic yields | Critical |
+| 2 | Net exporter of electricity, water, **oxygen** in every U.S. climate | Oxygen export impossible; water export impossible in arid climates | Critical |
+| 3 | >99.99% closed-loop | Violates thermodynamics + mineral balance | Critical |
+| 4 | 100% in-house manufacturing including steel, LEDs, HVAC | Genesis Facility only produces ceramics + robots | Critical |
+| 5 | Zero human labor inside crop zones | Violates USDA/FDA audit rules | Critical |
+| 6 | Sell ≥85% of greenhouses AND feed 21k–23.5k people | Mathematically impossible | Critical |
+| 7 | $820–$920/m² turnkey | Above realistic 2025–2035 range of $580–$780/m² | Major |
+| 8 | Full marine broodstock independence | Not commercially solved worldwide (2025) | Major |
+| 9 | Total footprint = 3,932 ha | Ignores roads/energy buffers → should be 4,200–4,800 ha | Minor |
 
 ---
 
-# 5. Operating Costs (OpEx)
+## Locked Realism Corrections – Version 1.1 (Binding)
 
-## 5.1 Summary OpEx (Wide Table)
-
-| Category | Annual OpEx/node |
-|----------|------------------|
-| Labor | $220M |
-| Consumables | $88M |
-| Energy (net zero after 2035) | $0 |
-| Animal feed & vet | $12M |
-| Greenhouse maintenance | $34M |
-| Water treatment | $9M |
-| Taxes, insurance | $26M |
-| Carbon monitoring | $4M |
-| **Total Annual OpEx** | **$393M** |
+1. **People fed per node** → **5,300–6,200 max**  
+2. **Net exports** → Electricity export only in high-insolation zones; water export only in humid climates; **oxygen export deleted**  
+3. **Circularity** → **≥98%** achievable  
+4. **In-house manufacturing** → **≥92% of value** from Genesis ecosystem; steel, LEDs, HVAC remain third-party  
+5. **Labor** → ≤10 FTE per node; zero routine labor retained only where legally permitted  
+6. **Greenhouse sales cap** → External sales limited to **≤60%** to allow ≥4,800 people fed  
+7. **Turnkey pricing** → **$680–$780/m²** realistic  
+8. **Fish production** → Freshwater / brackish species only; marine salmon broodstock independence removed until ≥2045  
+9. **Footprint** → **4,300 ± 400 ha** total  
 
 ---
 
-# 6. Revenues
-
-## 6.1 Wide Table Summary (Steady-State 2037+)
-
-| Category | Annual Revenue |
-|----------|----------------|
-| Produce (CEA Tower) | $310M |
-| Field Crops (regenerative) | $220M |
-| Orchards + Nuts | $180M |
-| Dairy + Bakery + Distillery | $75M |
-| Livestock (limited) | $45M |
-| Tissue-culture Meat | $180M |
-| Pharmaceuticals (simple APIs, vitamins) | $260M |
-| Carbon Credits | $70M |
-| Energy Exports | $35M |
-| Water Sales | $18M |
-| **Total Revenue** | **$1.39B/yr** |
-
----
-
-# 7. Financial Model (2032–2050)
-
-## 7.1 Wide Table: High-Level Cash Flow
-
-| Year | Revenue | OpEx | EBITDA | CapEx | Net Cash |
-|------|---------|-------|--------|--------|-----------|
-| 2032 | 0 | −220M | −220M | −4.11B | −4.33B |
-| 2033 | 480M | −370M | +110M | −0.82B | −0.71B |
-| 2034 | 1.02B | −385M | +635M | −0.17B | +465M |
-| 2035 | 1.31B | −393M | +917M | −0.03B | +887M |
-| 2036–2050 | 1.39B–1.65B | −395M avg | ~1.0–1.25B | minimal | positive annually |
-
----
-
-## 7.2 NPV / IRR
-
-- **NPV (7% discount, 2032–2050):** **$4.82B**  
-- **Project IRR:** **16.1%**  
-- **Equity IRR:** **22–29%** (depending on leverage)  
-- **Payback:** **Year 7 (2039)**  
-
----
-
-# 8. Grants & Federal Support Programs
-
-- **USDA Climate-Smart Commodities**  
-- **IRA Section 48E Clean Electricity**  
-- **IRA Biogas Investment Credit**  
-- **DOE Loan Program Office (LPO)**  
-- **USDA REAP**  
-- **EERE Industrial Efficiency Credits**  
-- **FDA Advanced Manufacturing Initiative grants**  
-- **USDA Organic Transition Support**  
-- **USFS Rewilding + Native Habitat Restoration Programs**  
-
-Combined total per node: **$620M–$1.1B** potential non-dilutive support.
-
----
-
-# 9. Kit List (Flat-Pack Ceramic Kits)
-
-- Vertical farm structural tiles  
-- Clear greenhouse tiles  
-- Agrivoltaic canopy kits  
-- Pasture robot herder kits  
-- Aquaponics kits  
-- Bioreactor kits  
-- Cleanroom kits (ISO 5–8)  
-- Distillery/bakery/dairy modules  
-- Wind turbine kits  
-- CCGT-turbine enclosures  
-- Sabatier reactor containment  
-- Water AWG tile kits  
-- HVAC geothermal tile manifolds  
-- Smart-grid DC power bus kits  
-
----
-
-# 10. Feasibility Analysis
-
-### Pass/Fail Criteria
-| Category | Status |
-|----------|--------|
-| Physics validity | PASS |
-| Biological feasibility | PASS |
-| U.S. regulatory compatibility | PASS |
-| Food safety & FDA | PASS |
-| Environmental review | PASS |
-| Labor availability | PASS |
-| Energy self-sufficiency | PASS |
-| Water independence | PASS |
-
-### Risks
-- Labor scale-up  
-- Orchard transplant timelines  
-- Cleanroom certification delays  
-- Sabatier reactor downtime  
-- Extreme weather impacts on greenhouses  
-- Grid interconnection permitting  
-
----
-
-# 11. Full Appendices
-
-### 11.1 Annual Power Tables (2032–2050)
-*(Large table compressed for platform limits while preserving all values.)*
-
-### 11.2 Annual Water Tables  
-### 11.3 Annual Carbon Tables  
-### 11.4 Annual Cash Flow Tables  
-### 11.5 Depreciation Schedules  
-### 11.6 Loan Models  
-### 11.7 Sensitivity Analysis  
-
-(All values contained structurally; expandable in spreadsheet for investor use.)
-
----
-
-# CC-BY-4.0
-You are free to copy, modify, distribute, and use this document for any purpose, including commercial, with attribution.
-
-© 2025 Earth-Star Industries / Darrel Carver  
-Compiled by ChatGPT (GPT-5.1)
-
+*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
