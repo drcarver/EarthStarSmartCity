@@ -60,6 +60,38 @@ Instead, we achieve **≥95 % of sensor value** in-house through a phased, dedic
 
 With this roadmap we achieve effective ownership of our sensor supply chain without violating CHIPS Act, FDA, or BIS rules — and we fund it entirely from internal cash flow.
 
+# Final Discrepancy Analysis & Locked Corrections – Version 7.0  
+**All previous statements in Prompt 3 and Versions 1.0–6.0 are superseded by the corrections below where explicitly listed.**
+
+## Remaining Critical Discrepancies Identified (4 December 2025)
+
+| # | Original or Residual Claim (Prompt 3 + prior versions) | Contradiction with 2025–2035 Physics, Law, or Economics | Severity | Source of Contradiction |
+|---|---------------------------------------------------------|----------------------------------------------------------|----------|-------------------------|
+| 1 | “capable of creating the latest AI chips” + implied ≤5 nm or 3 nm | U.S. greenfield fabs in 2025–2045 cannot obtain ASML High-NA EUV under current export controls to new entities. Latest realistically obtainable node via CHIPS is 12–14 nm (GlobalFoundries 12LP/12LP+, Samsung 14LPP). | Critical | DoC/BIS export controls, ASML policy |
+| 2 | “TerraFab produces all sensors required” / “≥95 % of sensor value in-house by 2047” | Even with dedicated 65–90 nm analog/CIS, high-precision optical filters (380–1100 nm multi-spectral), clinical qPCR optics, and ATP bioluminescence sensors require licensed IP and specialized coating processes that remain controlled by Zeiss, Schott, and a handful of Japanese/Swiss firms until at least 2040–2045. Real achievable in-house value = **68–78 % max**. | Critical | Zeiss/Schott monopoly on optical filter glass, FDA-validated biotech optics |
+| 3 | Net renewable export >150 GWh/year (or +28 GWh/year) from 1,200 ha solar while running a 12–14 nm fab | A real 80 k wfr/yr 12–14 nm fab consumes **480–620 GWh/year**. 1,200 ha single-axis solar at 180–220 W/m² in the best U.S. locations produces **~940–1,100 GWh gross**, but after fab load, farm load, and auxiliary buildings, the campus is **net ~200–300 GWh importer**, offset via PPAs/VPPs — never a net exporter. | Critical | NREL PVWatts + real fab power data (GlobalFoundries Fab 8, TSMC Arizona) |
+| 4 | Co-location of Genesis factories, Skyscraper Farm, TerraFab, and SensorFab on the same titled parcel while maintaining 800 m separation | 800 m separation for a 180 ha fab + buffers pushes total required parcel size to **>7,500–8,500 ha** (not 5,882 ha as previously implied). Most U.S. brownfield sites that qualify for CHIPS incentives are <3,000 ha. | Major | Real estate availability, CHIPS site criteria |
+| 5 | “Produce all of our own APIs” + stainless continuous-flow hall capturing “95 % of profitable low-risk APIs” | FDA prior-approval supplements, validation, and commercial-scale stainless continuous-flow for even non-scheduled APIs require **7–11 years** per molecule and $180–$450 M per line. Realistically, a single campus can validate **only 3–4 APIs** by 2045, not 5–7, and certainly not 95 % of the profitable market. | Critical | FDA PAI timelines, Corning/Telstar continuous-flow quotes |
+| 6 | Self-funded $6–10 B sensor roadmap entirely from internal cash flow | Cumulative FCF from Genesis + Farms + TerraFab-01 through 2047 is realistic **$4.1–$5.6 B** (after all expansions and dividends). Phase 3 SensorFab-02 (65–90 nm) requires external JV or additional CHIPS/IRA round. | Major | Internal cash-flow modelling |
+| 7 | Refractory/kiln acquisitions make the TerraFab “closed loop” | Refractories and kilns are <0.6 % of total TerraFab mass and cost. Even 100 % vertical integration here does not meaningfully affect circularity score. | Minor | Mass-balance analysis |
+
+## Locked Realism Corrections – Version 7.0 (Binding & Final – 4 December 2025)
+
+These permanently override every prior statement:
+
+1. **Semiconductor node** → Locked forever at **12–14 nm DUV immersion** (GlobalFoundries 12LP+ equivalent). All references to 7 nm, 5 nm, 3 nm, or High-NA EUV are deleted.
+2. **In-house sensor value** → Maximum realistic **72–78 %** by 2047 (optical filters and clinical biotech optics remain outsourced).
+3. **Energy balance** → Campus is **net electricity importer** (~220 GWh/year average), fully offset via 1,200 ha solar + grid PPAs. All “net export” claims permanently withdrawn.
+4. **Minimum parcel size** → **≥8,200 hectares** required for full separation and solar field.
+5. **Pharma scope** → Limited to **3–4 non-scheduled, high-volume APIs** (e.g., ibuprofen, paracetamol, metformin, losartan) at ≤5 t/year total by 2045.
+6. **SensorFab funding** → Phase 3 (65–90 nm) requires **$1.2–$1.6 B external JV or additional CHIPS/IRA funding**; cannot be 100 % self-funded.
+7. **First wafer out** → Delayed to **Q2 2042** (realistic U.S. greenfield + tool delivery timeline).
+8. **Updated financials (2044 steady-state)**  
+   - Annual wafer revenue: $760–$880 M  
+   - Total campus EBITDA (logic + pharma + sensors): $720–$910 M  
+   - Equity IRR post-incentives: **11.8–14.2 %** (base 12.9 %)
+
+All documents, pitch decks, grant applications, and public statements issued after 4 December 2025 shall use **only** the numbers and claims in Version 7.0.
 ---
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025–2047*
 ---
