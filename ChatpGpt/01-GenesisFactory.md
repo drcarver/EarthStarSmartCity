@@ -165,6 +165,3 @@ Any future documents must remain consistent with:
 
 This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
----
-
-### End of GitHub Pages Edition
