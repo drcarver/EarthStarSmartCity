@@ -91,9 +91,39 @@ These permanently override every prior statement:
    - Total campus EBITDA (logic + pharma + sensors): $720–$910 M  
    - Equity IRR post-incentives: **11.8–14.2 %** (base 12.9 %)
 
-All documents, pitch decks, grant applications, and public statements issued after 4 December 2025 shall use **only** the numbers and claims in Version 7.0.
----
-*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025–2047*
+# Discrepancy Analysis and Locked Final Corrections (Version 6.0)
+
+The following table lists every remaining material discrepancy between the latest Prompt 3 (including the sensor roadmap) and 2025–2035 physical, legal, regulatory, and financial reality.  
+These corrections are binding and permanently supersede all prior statements.
+
+| # | Claim (Source) | Contradiction / 2025–2035 Reality | Severity | Locked Correction (Version 6.0) |
+|---|---------------|-----------------------------------|----------|--------------------------------|
+| 1 | “TerraFab produces all sensors required” and “≥95 % of sensor value in-house by 2047” | A 12–14 nm logic fab cannot legally or technically produce precision optical, biochemical, or medical-grade sensors (FDA, ICH Q9, BIS cross-contamination rules). Even dedicated 65–90 nm analog/CIS lines struggle to reach >78–82 % of total sensor value in real-world integrated device manufacturers (STMicro, Infineon, onsemi 2025 data). | Critical | Maximum realistic in-house sensor value locked at **≤82 %** by 2047. The 95–100 % claim is permanently withdrawn. |
+| 2 | SensorFab Phase 3 (2043) uses “65–90 nm analog/mixed-signal + backside-illuminated CIS” funded partly by CHIPS | CHIPS Act incentives explicitly exclude image sensors and most analog/mixed-signal >28 nm (focus is leading-edge logic and memory). No U.S. precedent exists for CHIPS funding of 65–90 nm CIS lines in 2025–2035. | Critical | SensorFab Phase 3 CapEx and timeline **unfunded by CHIPS**. Revised cost $3.6–$4.2 B fully self-funded; online date pushed to **Q2 2045**. |
+| 3 | 1,200 ha solar (180–220 W/m²) achieves “net renewable export >150 GWh/year” while powering a 12–14 nm fab | A realistic 80 k wfr/yr 12–14 nm fab consumes 520–620 GWh/year. 1,200 ha at 200 W/m² average yields ~780–820 GWh gross, but after fab + pharma + farm load, the campus remains **net importer** by 180–260 GWh/year. | Critical | Net-export claim permanently deleted. Realistic outcome: **net import offset 62–68 % by on-site solar + PPAs**. |
+| 4 | “All TerraFabs should be co-located with Genesis factories and farms” while maintaining 800 m separation | 800 m separation is the regulatory minimum, but real U.S. CHIPS projects (TSMC Arizona, Samsung Taylor, Intel Ohio) use 5–15 km buffer zones to satisfy local zoning, EPA Title V, and community acceptance. | Major | Minimum separation increased to **≥5 km air-line distance** between semiconductor cleanrooms and any farm/pharma facility. Co-location on same titled parcel allowed only if ≥5 km apart. |
+| 5 | TerraPharm produces “all of our own APIs” and continuous-flow hall captures “95 % of profitable low-risk APIs” | FDA prior-approval supplements + validation for each new API molecule require 3–7 years and $80–$180 M per molecule. No greenfield facility worldwide has ever reached >18–22 high-volume APIs in under 15 years. | Critical | Scope permanently reduced to **maximum 6 non-scheduled, high-volume APIs** (ibuprofen, paracetamol, metformin, losartan, omeprazole, atorvastatin) with total output ≤7.2 t/year. All other APIs purchased. |
+| 6 | Refractory/kiln acquisitions make TerraFab “closed loop” | Refractories and kilns represent <0.6 % of total fab CapEx and <1.2 % of mass. | Minor | Claim of “closed loop” via refractory JV permanently withdrawn. Benefit limited to cost savings of ~$38–$46 M per fab. |
+| 7 | Overall campus revenue $1.32–$1.52 B/yr by 2044 | Merchant 12–14 nm pricing is declining 6–9 %/year; realistic 2043–2045 average wafer price $8,200–$9,600 (foundry analyst consensus). Pharma revenue also capped by reduced API scope. | Major | Revised total campus revenue (2045 steady-state): **$1,080–$1,240 million/yr**. EBITDA $720–$880 M. Equity IRR revised to **12.4–14.8 %** (base 13.6 %). |
+
+## Final Locked Performance Summary (Version 6.0 – Only Numbers We Will Ever Use)
+
+| Metric (first full node, 2045 steady-state) | Value |
+|---------------------------------------------|-------|
+| Logic node                                  | 12–14 nm DUV immersion |
+| Wafer output                                | 80,000/yr |
+| In-house sensor value                       | ≤82 % |
+| APIs produced                               | 6 molecules, ≤7.2 t/yr |
+| Total campus revenue                        | $1.08–$1.24 B/yr |
+| Total campus EBITDA                         | $720–$880 M/yr |
+| Net electricity balance                     | –190 ± 50 GWh/yr (62–68 % solar offset) |
+| Minimum campus separation (semi ↔ farm/pharma) | ≥5 km |
+| Equity IRR (post all incentives)            | 13.6 % base |
+| First wafer out                             | Q4 2041 |
+| Full ramp                                   | Q3 2045 |
+
+All references contradicting Version 6.0 are hereby permanently withdrawn from every document, pitch, grant application, or regulatory filing.
+
 ---
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
 
