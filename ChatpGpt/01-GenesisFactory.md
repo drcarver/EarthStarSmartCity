@@ -1,7 +1,7 @@
 ---
 
 title: Earth-Star Industries Genesis Facility – Prompt 1 (Master Edition with Option A)
-description: Regulator-ready, Version 3–compliant specification with integrated market mix, suitable for GitHub Pages.
+description: Earth-Star Industries Genesis Facility – Prompt 1
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 layout: default
 theme: minimal
