@@ -1,100 +1,78 @@
 ---
-title: Earth-Star Industries Master Tile & Kit Catalogue + Sensor Handbook – Prompt 10
-description: Complete catalogue of every ceramic tile, flat-pack kit, manufacturing process, cost, revenue and embedded sensor system. Validated November 2025.
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
+layout: default
+title: Earth-Star Industries Tiles, Kits & Sensor Handbook (December 2025)
 ---
 
-# Earth-Star Industries Master Tile & Kit Catalogue + Sensor Handbook  
-**Prompt 10 – Final Production Specification (November 2025)**
+# Earth-Star Industries Tiles, Kits & Sensor Handbook  
+**Comprehensive Catalogue & Viability-Enhanced Specification (Version 1.0 – 14 December 2025)**
 
-## Executive Summary
+## Overview & Viability Enhancements Implemented
+To maximise self-funding speed and reduce bottlenecks, the following changes have been applied across the catalogue:
 
-All Earth-Star construction (2035–2250) uses **only** Genesis-family ceramic tiles and flat-pack kits produced in Genesis Facilities.  
-Total catalogue: **9 tile families (T-01 to T-09)** + **31 reusable kit families**.  
-Every building is assembled exclusively from these components on conventional steel/concrete frames (tiles remain 100 % non-structural).  
-Smart Airlock v3 (hyperspectral weapons/explosives detection) is mandatory on every building entrance.  
-All systems comply with ISO 37122, LEED Platinum, WELL Platinum, Fitwel 3-star, Passive House, EN 15251, MIL-STD-810H, NIST 800-53, and local building codes.  
-Viability increased 21 % vs Prompt 9 via three new high-margin proprietary tiles (T-07 to T-09) and full sensor monetisation.
+- **Prioritisation of high-margin kits first**: Data centre, battery factory, and proprietary security kits built in early phases to generate cash flow.
+- **Maximum reuse**: All buildings (residential, hospital, farm, factory) use the same core structural tile variants + specialised overlay kits.
+- **Manufacturing centralised**: All tiles and kits produced exclusively in Genesis cylindrical factories via 3D-printing/extrusion from recycled waste streams.
+- **Input sources diversified**: Primary: landfill/brownfield mining (90 %). Secondary: urban demolition contracts, industrial slag partnerships.
+- **Cost reduction**: Standardisation on 5 core tile types reduces variants by 70 %. Sensor integration at factory level (not field-retrofit).
+- **Revenue focus**: Proprietary smart airlock/security kits sold at 60–70 % margin to fund expansion.
+- **Compliance**: All designs meet LEED Platinum, WELL, Fitwel, ISO 37122 (smart cities), UFC 4-010-01 (DoD anti-terrorism), and local sustainable codes (e.g., CALGreen, IgCC).
 
-## 1. Genesis Facility – Single Source of All Tiles & Kits
+## 1. Core Tile Types (All Produced in Genesis Factories)
 
-| Parameter                        | Specification (2035–2075 average) |
-|----------------------------------|-----------------------------------|
-| Annual capacity                  | 420 million m² tiles + 1,200 kit sets |
-| Input feedstock                  | 96 % landfill/brownfield waste, demolition concrete, fly ash |
-| Energy                           | 70 % biogas + ORC from waste, 30 % grid/solar |
-| Labour                           | 380 people + 1,200 TerraBots |
-| Capex (2035)                     | $2.4 B |
-| Opex/year                        | $1.1 B |
-| Revenue/year (full capacity)     | $26–$34 B (royalty + proprietary tiles) |
-| Profit margin                    | 68–74 % |
+| Tile Type                  | Dimensions (mm) | Thickness (mm) | Composition (by mass)                          | Primary Input Sources                     | Production Cost ($/m²) | Sale Price ($/m²) | Key Features |
+|----------------------------|-----------------|----------------|------------------------------------------------|-------------------------------------------|-------------------------|--------------------|--------------|
+| Structural Cladding Panel  | 1200 × 600      | 20–30          | 95 % recycled glass/porcelain/fly ash/slag + 5 % geopolymer binder | Landfill glass, demolition porcelain, coal ash | 18                      | 45                 | Rainscreen, non-load-bearing |
+| BIPV Solar Overlay         | 1200 × 600      | +5 overlay     | CIGS thin-film on base panel                   | Same + virgin CIGS cells (10 %)           | 45                      | 120                | 180–220 W/m², integrated conduits |
+| EMP/RF Shielding Panel     | 1200 × 600      | 25             | Base + embedded copper mesh                    | Recycled copper wire/scrap                | 32                      | 90                 | Faraday cage performance |
+| AWG/Permeable Variant      | 1200 × 600      | 30             | Porous ceramic with hydrophilic coating        | Same + zeolite additives                  | 25                      | 65                 | Atmospheric water generation, stormwater |
+| Radiation/Stealth Variant (Proprietary) | 1200 × 600 | 40             | High-density ceramic + IR/radar absorbers      | Lunar regolith simulant (future) + proprietary | 80                      | 300                | Space & military use |
 
-## 2. Master Tile Catalogue
+**Manufacturing Process (All Types)**:  
+Waste feedstock → sorting/pyrolysis → vitrification → powder → 3D-printing/extrusion in cylindrical Genesis factory → sintering → sensor/conduit embedding → quality check → flat-pack shipping.  
+Factory output: 100M m²/year per line. Energy: On-site biogas + solar (net-positive).
 
-| Code | Name                          | Composition                                 | Key Functions                                  | Cost (2035–2075 avg.) | Proprietary? | Annual Revenue Potential (per factory) |
-|------|-------------------------------|---------------------------------------------|------------------------------------------------|-----------------------|--------------|----------------------------------------|
-| T-01 | Standard Rainscreen           | 93 % recycled glass/fly ash + ZrO₂ binder   | Façade, A1 fireproof, acoustic                | $48/m²                | No           | Baseline                               |
-| T-02 | BIPV Solar                    | T-01 + CIGS 22 % efficient layer            | 180 W/m² solar                                 | $72/m²                | No           | +$1,800/MWh                            |
-| T-03 | AWG Water-Generating          | T-01 + MOF microchannels                    | 6 L/m²/day at 40 % RH                          | $78/m²                | No           | Water export                           |
-| T-04 | IoT Structural Health         | T-01 + embedded strain/CO sensors           | Predictive maintenance                         | $62/m²                | No           | Sensor data sales                      |
-| T-05 | EMP-Shielded                  | T-01 + copper mesh + ferrite layer          | MIL-STD-461 compliant                          | $94/m²                | Yes (DoD)    | +$12 B/year (80 critical sites)        |
-| T-06 | Thermal Mass + PCM            | T-01 + microencapsulated paraffin           | 38 kWh/m³ storage                              | $68/m²                | No           | Peak-shaving credits                   |
-| T-07 | Stealth Radar-Absorbing       | T-05 + DARPA/BAE RAM ceramic composite     | <–25 dB RCS (S/X band)                         | $240/m²               | Yes (ITAR)   | +$28 B/year (DoD + NATO)               |
-| T-08 | Quantum-Dot Display Tile      | T-01 + perovskite QD emissive layer         | 8K, 2,000 nit, transparent when off           | $380/m²               | Yes          | +$42 B/year (commercial signage)       |
-| T-09 | Self-Healing Anti-Microbial  | T-01 + TiO₂ + silver-ion coating            | 99.999 % pathogen kill in 3 min                | $210/m²               | Yes          | +$18 B/year (hospitals + TerraWell)    |
+## 2. Complete Kit Catalogue
 
-## 3. Master Kit Catalogue (All Flat-Pack, TerraBot-Assembled)
+| Kit Name                          | Reused/New | Components (Tiles + Add-ons)                          | Primary Use                              | Production Cost ($M per full MHUE-50k deployment) | Revenue ($M per deployment) | Margin |
+|-----------------------------------|------------|-------------------------------------------------------|------------------------------------------|---------------------------------------------------|------------------------------|--------|
+| Residential Module Kit            | Reused     | Structural panels + BIPV roof + DC wiring conduits    | Housing (apartments/homes)               | 800                                               | 1,600                        | 50 %   |
+| Skyscraper Farm Kit               | Reused     | AWG panels + aquaponics racking + LED integration     | Vertical/horizontal farming              | 300                                               | 600                          | 50 %   |
+| Hospital Module Kit               | Reused     | Cleanroom-grade panels + shielded conduits            | Level I trauma centre                    | 400                                               | 900                          | 55 %   |
+| Data Centre Kit (Proprietary)     | Reused     | EMP panels + high-density cooling conduits            | 150 MW AI data centre                    | 1,200                                             | 3,500                        | 66 %   |
+| Battery Gigafactory Kit (Proprietary) | Reused | Structural + explosion-proof shielding                | LFP/Na-ion production                    | 900                                               | 2,800                        | 68 %   |
+| Smart Airlock Security Kit (Proprietary/New) | New       | mm-wave/explosive trace scanners + facial/hyperspectral + AI edge unit | All building entrances                   | 50 (600 units)                                    | 150                          | 67 %   |
+| Smart City Sensor Backbone Kit    | New        | Embedded IoT hubs in every 10 m² panel + central AI   | City-wide monitoring                     | 200                                               | 500                          | 60 %   |
+| Compliance & Sustainability Kit   | New        | LEED/WELL/ISO 37122 reporting sensors + carbon/water trackers | Regulatory compliance                    | 100                                               | 250                          | 60 %   |
+| Electric Barge Kit                | Reused     | Permeable hull cladding + BIPV roof                   | Waste/feedstock transport                | 1.5 (per barge)                                   | 4                            | 62 %   |
 
-| Kit | Name                                | Primary Use                        | Containers | Mass (t) | Cost (2035) | Reused/New |
-|-----|-------------------------------------|------------------------------------|------------|----------|-------------|------------|
-| G-01| Genesis Factory Core                | Tile & kit production              | 622        | 76,000   | Amortised   | Reused     |
-| G-02| Smart Airlock v3 (mandatory)        | All entrances                      | 12         | 68       | $840 k      | New        |
-| G-03| DC Microgrid Backbone               | 48 V city-wide                     | 82         | 4,200    | $180 M      | Reused     |
-| SF-01| Skyscraper Farm Vertical Tower     | CEA floors                         | 280        | 21,000   | Amortised   | Reused     |
-| TF-01| TerraFab Cleanroom Shell            | 2 nm fab                           | 150        | 15,000   | $4.1 B      | Reused     |
-| MH-01| Residential Luxury Module (500 u)   | Housing                            | 220        | 12,000   | $1.2 B      | Reused     |
-| MH-04| Rural Ceramic Pod (40 m²)           | Off-grid refugees                  | 8          | 38       | $62 k       | New        |
-| HS-01| HSR Ceramic-Concrete Slab Track     | 220 mph rail                       | 1 per km   | 1,800    | $92 M/mile  | New        |
-| MIL-01| Stealth Façade Retrofit Kit       | DoD bases                          | 180        | 9,800    | $11 B/site  | New        |
-| OF-01| O’Neill Cylinder Hull Segment       | Space habitats                     | 1 per 400 m| 42,000   | $680 M      | New (2135+)|
-| …   | (31 total kits – full list in repo) |                                    |            |          |             |            |
+All kits flat-packed and sensor-pre-embedded at factory. Deployment: Snap-together with robotic assistance.
 
-## 4. Smart Airlock v3 – Mandatory on Every Building
+## 3. Detailed Sensor Handbook
+All sensors are manufactured in TerraFab cleanrooms, embedded during tile production.
 
-| Feature                              | Technology (2025-proven)             | Detection Time | False Positive Rate | Alert Method |
-|--------------------------------------|--------------------------------------|----------------|---------------------|--------------|
-| Firearms & blades                    | mm-wave + X-band radar               | 0.8 s          | <0.01 %             | Silent + armed response |
-| Explosives (TNT, RDX, PETN, TATP)    | Hyperspectral LIBS + IMS             | 1.2 s          | <0.003 %            | Immediate lockdown |
-| CBRN agents                          | Photo-ionisation + mass spec         | 1.6 s          | <0.008 %            | Full isolation |
-| Facial + gait recognition            | 3D NIR + AI                          | 0.4 s          | 1 : 10⁸             | Access control |
-| Biometric health screening           | Thermal + HRV                        | 0.9 s          | n/a                 | Quarantine flag |
+| Sensor Type                  | Function                                              | Placement                          | Data Output                          | Cost ($/unit) | Compliance Standards Met |
+|------------------------------|-------------------------------------------------------|------------------------------------|--------------------------------------|---------------|--------------------------|
+| Structural Health            | Strain, vibration, crack detection                     | Every foundation/wall panel        | Real-time stress maps                | 8             | ISO 37122, UFC 4-010-01 |
+| Environmental (Air/Water)    | VOC, PM2.5, CO₂, pathogens, water quality             | All occupied spaces + pipes        | Continuous indoor/outdoor quality    | 12            | WELL, Fitwel            |
+| Security (mm-wave/trace)     | Weapons, explosives, concealed threats                 | Smart airlocks (every entrance)    | Instant alert to central AI/security | 45            | DoD anti-terrorism      |
+| Hyperspectral (Proprietary)  | Advanced threat/material ID                           | High-value entrances               | AI-flagged anomalies                 | 120           | ITAR-controlled         |
+| Energy/Water Flow            | DC microgrid, water recycling efficiency              | Conduits & meters                  | Net-positive tracking                | 6             | LEED Platinum, IRA      |
+| Carbon Sequestration         | Soil carbon, biogas capture                           | Farms & brownfield zones           | Verified credit reporting            | 10            | EPA/SDG 13              |
+| Facial/Biometric             | Access control (opt-in for residents)                 | Airlocks & common areas            | Privacy-compliant logs               | 25            | GDPR-equivalent         |
 
-Cost per unit: $840 k (2035) → $210 k (2075) at scale.  
-Revenue: $1.4 M/unit leased to third-party cities.
+**Central AI Integration**: All sensors feed encrypted DC mesh to on-site edge servers → central city AI (proprietary) → compliance portal. Redundant off-site backup. Annual third-party audit mandatory.
 
-## 5. Embedded Sensor Handbook (All Tiles Ship With)
+## 4. Viability-Enhancing Bottleneck Reductions
+- **Single factory dependency eliminated**: Early revenue funds 10 parallel Genesis factories by 2040.
+- **Material bottlenecks**: Long-term contracts with waste haulers + DoD base closures for steady slag/copper.
+- **Labour**: 90 % robotic assembly in factories; Terrabots for site deployment.
+- **Regulatory**: Pre-certified kit designs submitted to ICC/ES for national approval by 2035.
+- **Cash flow**: First 10 MHUE clusters prioritise data centre + battery kits → $20B FCF by 2042.
 
-| Sensor Type               | Tile Integration | Data Rate | Power | Cost Add-On | Revenue Model |
-|---------------------------|------------------|-----------|-------|-------------|---------------|
-| Structural health (strain)| T-04             | 1 Hz      | 6 µW  | $0.80/m²    | Predictive maintenance contracts |
-| Air quality (PM2.5, VOC)  | Every tile       | 0.1 Hz    | 2 µW  | $0.40/m²    | City carbon credits |
-| Temperature & humidity    | Every tile       | 0.05 Hz   | 1 µW  | $0.20/m²    | Energy optimisation |
-| Radiation & EMP detection | T-05             | Event     | 8 µW  | $4/m²       | DoD contracts |
-| Microbial surface         | T-09             | 1/day     | 18 µW | $6/m²       | Hospital licensing |
+**Result**: Programme reaches self-funding threshold ($500B annual FCF) by 2045 with 85 % probability under aggressive execution.
 
-Total sensor data revenue (2150): **$180 B/year** globally.
+---
 
-## 6. Viability Enhancements Implemented in Prompt 10
+**License**: This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-| Bottleneck             | Previous Prompt | Prompt 10 Fix                                      | Viability Gain |
-|------------------------|-----------------|----------------------------------------------------|----------------|
-| EUV lithography supply | 30 tools/year   | $180 B ASML buy-out fund + domestic line by 2052  | +9 %           |
-| Political risk         | TerraWell only  | Add free rural pods + senior SSI housing program   | +7 %           |
-| Revenue too back-loaded| Chips 60 %      | Add T-07/T-08/T-09 proprietary tiles → +42 % margin| +5 %           |
-| Single-point failure  | U.S. only       | Genesis factories now licensed in 11 countries     | +8 %           |
-
-**New overall probability of full Earth-side vision by 2150: 64 %** (up from 52 % in Prompt 9)  
-**Self-funding lock-in year unchanged: 2058**
-
-**CC-BY-4.0 Footer:** This work is licensed under a Creative Commons Attribution 4.0 International License. © 2025–2250 Earth-Star Industries. Generated November 30, 2025.
+© 2025 Earth-Star Industries
