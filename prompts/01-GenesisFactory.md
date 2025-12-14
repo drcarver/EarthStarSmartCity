@@ -82,6 +82,8 @@ The system is net-positive in energy, near-self-sufficient in water, and carbon-
 **IRR**: 20–35%.
 **Grants/Credits**: $100M–$300M potential (USDA Pilot, EPA Brownfields, IRA ITC).
 
+Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
+
 ---
 
 **License**: This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
