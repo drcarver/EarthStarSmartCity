@@ -5,7 +5,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Prompt 03A – TerraWell FreeCare System  
+# Prompt 03 – TerraWell FreeCare System  
 **“Everything Free, Everything Deductible” – Validated Master Specification (November 2025)**
 
 **Locked first FreeCare centers & mobile units:** Q1 2035  
