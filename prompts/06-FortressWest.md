@@ -14,13 +14,6 @@ All timelines, costs, and technical specifications are calculated from this date
 ## Core Mission
 Earth-Star Industries will expand the fully proven U.S. domestic programme (Prompt 5 – minimum 50 successful MHUE-50k cities required before export) into a defensive, NATO-aligned, Western-Hemisphere-focused infrastructure initiative that by 2092 (base case) or 2084 (aggressive case):
 
-- Deploys 2,680 MHUE-50k equivalent districts across 54 cooperating countries (32 NATO members + 22 Western Hemisphere partners)
-- Replaces 100 % of conventional agriculture in participating countries via licensed Skyscraper Farm nodes
-- Rewilds an additional 510 million acres outside the USA
-- Constructs 18,000 miles of strategic 220–250 mph high-speed rail on existing freight corridors where politically and technically feasible
-- Establishes 11 additional Genesis-class factories under mandatory 60/40 local JV + 4–6 % royalty model
-- Achieves >95 % material closure using only local brownfield, landfill, and demolition waste as feedstock
-
 All construction uses only Genesis-family ceramic tiles, studs, and flat-pack kits. Military-grade stealth ceramics and high-margin kits (AI data centers, gigafactories) remain fully proprietary and ITAR-controlled.
 
 ## Mandatory Technical, Legal & Financial Constraints (validated November 2025)
