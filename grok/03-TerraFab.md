@@ -1,104 +1,77 @@
 ---
-title: Earth-Star TerraFab Campus – Executive Summary & Final Binding Project Plan (Version 8.0 – December 2025)
-description: Fully regulator-ready master plan after all locked realism corrections up to Version 7.0 (4 December 2025)
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
+layout: default
+title: TerraFab Advanced Semiconductor and Pharmaceutical Manufacturing Facility
 ---
 
-# Earth-Star TerraFab Campus – Final Realistic Baseline (Version 8.0)
+# TerraFab: Sustainable Advanced Semiconductor and Pharmaceutical Manufacturing Facility
 
-**First commercial TerraFab campus groundbreaking:** 1 January 2037 (fixed – only after Genesis-1 and first two Skyscraper Farms are strongly cash-flow positive)  
-**All earlier claims in Prompt 3 and Versions 1.0–7.0 are permanently superseded by Version 7.0 corrections**
+**Project Overview**
 
-## Core Mission (Final – Achievable & Compliant)
-Construct and operate a large, separated-campus industrial ecosystem in the U.S. that combines:
-- A CHIPS-Act-eligible **12–14 nm** merchant logic fab (80 k wafers/yr)
-- A limited cGMP pharmaceutical plant producing **maximum 6 high-volume, non-scheduled generic APIs** (≤7.2 t/year total)
-- Expanded Genesis ceramic factories and Skyscraper Farms
-- A dedicated analog/mixed-signal sensor foundry reaching **≤82 %** of total sensor value in-house by 2047
+TerraFab is an advanced, full-scale sustainable semiconductor manufacturing facility designed to produce the latest AI chips (leading-edge nodes) while maximizing the use of 3D-printed materials. It integrates hybrid construction using regenerative closed-loop ceramics from the Genesis ecosystem alongside virgin high-purity materials where required for cleanroom integrity. Co-located with Genesis factories and regenerative farms, TerraFab achieves near-closed-loop operation by leveraging farm outputs, 3D printers, and waste streams for sustainable medical supplies, generic pharmaceuticals, and in-house APIs.
 
-All facilities maintain **≥5 km air-line separation** between semiconductor cleanrooms and any farm/pharma operation to satisfy CHIPS/BIS, FDA, and local zoning rules.
+The facility produces all required sensors, embeds them in equipment kits for real-time monitoring, and feeds data into a centralized compliance portal for FDA, EPA, and semiconductor standards traceability. Construction begins post-Genesis plant commissioning, phased using revenues from Genesis operations and farms. Each TerraFab expands supporting Genesis/farm capacity to ensure resource closure.
 
-## Final Campus Layout (≥8,200 ha total parcel required)
+**Energy Strategy**: Earth-Star Industries elects to forgo USDA Climate-Smart Commodities, REAP, and ACEP funding to deploy high-density (180–220 W/m²) single-axis solar across 1,200 hectares surrounding each TerraFab, achieving net renewable export of >150 GWh/year while preserving full CHIPS Act and IRA incentive eligibility.
 
-| Zone                                 | Area       | Minimum Separation from Semi Cleanrooms | Key Features |
-|--------------------------------------|------------|------------------------------------------|--------------|
-| TerraFab-01 (12–14 nm logic)         | 180 ha     | —                                        | 80 k wfr/yr, DUV immersion only |
-| TerraPharm-01 (API + repackaging)    | 45 ha      | ≥5 km                                    | 6 APIs, continuous-flow, Grade C/D |
-| SensorFab Campus                     | 120 ha     | ≥5 km                                    | 180 nm → 65–90 nm analog/CIS |
-| Genesis-3/4 ceramic megafactories    | 240 ha     | ≥5 km                                    | Supplies all cladding kits |
-| Skyscraper Farm expansion            | 4,300 ha   | ≥5 km                                    | Botanical precursors + food |
-| 1,200 ha single-axis solar field     | 1,200 ha   | Flexible                                 | 720–820 MWp total |
+**Core Principles**
+- Maximum 3D printing for non-critical components (structural, tooling, manifolds); hybrid ceramics/virgin materials for cleanrooms.
+- Full sensor integration in all equipment kits for compliance portal reporting.
+- Closed-loop integration: Farm-derived precursors for APIs/pharma; waste-to-ceramics for construction.
+- In-house production of all APIs and sensors.
+- Refractory self-sufficiency via targeted partnerships/acquisitions.
+- Alignment with CHIPS Act, IRA, FDA cGMP, and UN SDGs.
 
-## Final Locked Performance (2045 Steady-State – First Full Campus)
+## Key Components and Outputs
 
-| Parameter                                | Realistic Value (2045)                  |
-|------------------------------------------|-----------------------------------------|
-| Logic node                               | 12–14 nm DUV immersion                  |
-| Wafer output                             | 80,000 × 300 mm / year                  |
-| In-house sensor value                    | ≤82 % (optical filters & biotech optics remain outsourced) |
-| APIs produced                            | 6 molecules (ibuprofen, paracetamol, metformin, losartan, omeprazole, atorvastatin) – ≤7.2 t/yr |
-| Medical supplies (repackaged generics)   | 32–38 million units/year                |
-| Total campus revenue                     | $1.08–$1.24 billion / year              |
-| Total campus EBITDA                      | $720–$880 million / year                |
-| Net electricity balance                  | –190 ± 50 GWh/year (62–68 % offset by on-site solar + PPAs) |
-| Carbon sequestration (farm)              | 9–11 kt CO₂e/year                       |
+### 1. Semiconductor Fabrication Modules
+- **Capability**: Leading-edge AI chips (e.g., 3nm+ nodes), mature nodes, power semiconductors.
+- **Construction**: Maximum 3D-printed/Genesis ceramic components for support structures, manifolds, wafer handling tools; virgin materials for ISO-class cleanrooms.
+- **Features**: Embedded sensors in all process equipment; DC microgrids powered by co-located solar.
 
-## Financial Summary (2037 USD, Post-All Incentives)
+### 2. Pharmaceutical and Medical Supply Modules
+- **Outputs**: Generic prescription/OTC drugs (synthetics feasible in closed systems), medical supplies (syringes, implants via 3D printing), advanced chips for medical devices.
+- **Plant-Derived APIs**: Additional crops (e.g., Artemisia annua for artemisinin, Taxus for paclitaxel precursors, Salvia miltiorrhiza) integrated into expanded farms.
+- **Synthetic APIs**: In-house production of non-farmable compounds.
+- **Features**: FDA-compliant sensors for environmental monitoring, batch traceability; data to compliance portal.
 
-| Metric                                   | Value                                 |
-|------------------------------------------|---------------------------------------|
-| Total gross CapEx (all zones)            | $15.8–$18.2 billion                   |
-| CHIPS direct grant (logic only)          | $2.4–$2.8 billion                     |
-| 48C/45X/45X ITC                          | $3.6–$4.2 billion                     |
-| State & local packages                   | $0.8–$1.4 billion                     |
-| Effective equity requirement             | $8.6–$9.8 billion                     |
-| Equity IRR (base case)                   | 13.6 %                                |
-| NPV (6 % real, 2037–2060)                | $3.41 billion                         |
-| First wafer out                          | Q4 2041                               |
-| Full campus ramp                         | Q3 2045                               |
+### 3. Sensor and Kit Production
+- **Outputs**: All sensors (environmental, process, structural) produced on-site using TerraFab lines.
+- **Kits**: Modular, self-replicating equipment kits with embedded sensors for new TerraFabs/expansions.
 
-## Final Realistic Timeline
+### 4. Refractory Integration
+- **Strategy**: Pursue JVs, partnerships, or acquisitions of mid-tier refractory players (e.g., operations similar to pre-acquisition Seven Refractories, or assets from Chosun Refractories, Shinagawa Refractories, Puyang Refractories) to internalize kiln/refractory production.
+- **Features**: In-house kilns/parts with embedded sensors; reporting to compliance portal.
 
-| Milestone                                            | Date           |
-|------------------------------------------------------|----------------|
-| Genesis + first Farms strongly cash-flow positive    | 2036           |
-| Site selection & CHIPS preliminary application       | Q1 2037        |
-| CHIPS award & final permits                          | Q4 2038        |
-| TerraFab-01 groundbreaking (kit-built shell)         | Q2 2039        |
-| Tool move-in (ASML 1950i, Applied, Lam, KLA)         | 2040–2041      |
-| First wafer out (12–14 nm)                           | Q4 2041        |
-| TerraPharm-01 validation complete                    | Q1 2044        |
-| SensorFab Phase 3 (65–90 nm) online                  | Q2 2045        |
-| Full campus steady-state                             | Q3 2045        |
+### 5. Supporting Infrastructure
+- **Solar Arrays**: 1,200 ha high-density single-axis trackers per site.
+- **Expanded Genesis/Farms**: Scaled for ceramic feedstock, biomass precursors, energy symbiosis.
 
-## In-House Sensor Roadmap (Final)
+## Phased Rollout Plan
 
-| Phase | Year | Node / Process                     | Sensors Added                             | Cumulative In-House Value |
-|-------|------|------------------------------------|-------------------------------------------|----------------------------|
-| 1     | 2036 | 350–800 nm ceramic MEMS            | Pressure, strain, temp, humidity          | 28–32 %                    |
-| 2     | 2039 | 130–180 nm BCD (200 mm)            | PAR, CO₂, pH, EC, DO, VOC, IR             | 64–70 %                    |
-| 3     | 2045 | 65–90 nm analog/CIS (300 mm)       | Spectral, structural, IoT arrays          | **≤82 % max**              |
+**Phase 1: Pilot TerraFab (Post-Genesis Online, Years 1–2)**
+- Construct initial facility using Genesis revenues.
+- Focus: Mature-node chips, basic pharma/medical supplies, sensor production.
+- Co-locate solar array; expand farms for initial APIs.
 
-Remaining 18–36 % (high-end optical filters, clinical qPCR optics, ATP bioluminescence) permanently outsourced to Zeiss, Schott, Sartorius, etc.
+**Phase 2: Leading-Edge Expansion (Years 3–5)**
+- Upgrade to advanced nodes; full pharma portfolio.
+- Acquire/integrate refractory assets.
+- Achieve >95% closure via expanded loops.
 
-## Pharmaceutical Scope (Final Locked)
+**Phase 3: Self-Replication (Years 6–10)**
+- Produce kits for 5–10 new TerraFabs/year.
+- National integration with smart infrastructure.
 
-- Only **6 non-scheduled, high-volume APIs** (listed above)
-- All other generics purchased and repackaged
-- No Schedule I/II/III synthesis ever
-- No biologics or complex small molecules
+**Phase 4: Global Scaling (Year 10+)**
+- Export kits; adapt for international deployments.
 
-## Honest Feasibility Assessment (4 December 2025)
-
-- **Technical**: Fully achievable with 2025–2045 U.S. supply chain and licensed IP.
-- **Regulatory**: 100 % compliant with CHIPS guardrails, BIS export controls, FDA cGMP, ICH Q9, and DEA via strict separation.
-- **Financial**: Bankable at 13.6 % equity IRR with full incentive stack; requires CHIPS award to proceed.
-- **Key remaining risks**:
-  - ASML DUV tool delivery delays (currently 36–48 months)
-  - Skilled workforce availability for 12–14 nm ramp
-  - Potential reduction in CHIPS/IRA funding post-2026
-- **Verdict**: Extremely challenging but realistic, insurable, and fundable under current U.S. industrial policy.
+## Financial and Incentive Strategy
+- Bootstrapped via Genesis/farm revenues.
+- Full eligibility for CHIPS Act incentives (grants, 25% ITC) and IRA benefits.
+- Revenue streams: AI chips, pharmaceuticals, medical supplies, sensors/kits, renewable energy export.
 
 ---
-*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025–2045*
+
+*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*
+
+© 2025 Earth-Star Industries
