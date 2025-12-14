@@ -1,90 +1,82 @@
 ---
-title: Earth-Star TerraWell FreeCare System – Executive Summary & Final Binding Plan (Version 5.0 – December 2025)
-description: Fully IRS, DEA, FDA, and state-law compliant 501(c)(3) humanitarian program – final realistic baseline
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
+layout: default
+title: TerraWell FreeCare System – Executive Summary (Version 3.0, December 2025)
 ---
 
-# TerraWell FreeCare System – Final Realistic Baseline (Version 5.0)
+# TerraWell FreeCare System: Executive Summary  
+**Genuine Philanthropic Humanitarian Layer – IRS-Compliant Specification (Version 3.0, December 2025)**
 
-**Legal entity:** TerraWell Foundation – independent 501(c)(3) public charity  
-**First 15 centers + 40 mobile units operational:** Q1 2035  
-**All previous claims are permanently superseded by Version 3.0 corrections (1 December 2025)**
+**Overview**
 
-## Core Mission (Final – Fully Compliant)
-Operate a growing nationwide network of 100 % privately funded, zero-charge health & food assistance centers that:
-- Distributes surplus food, OTC medicines, and basic FDA-cleared medical equipment at no cost
-- Provides free physician and mental-health services via contracted independent providers
-- Is funded exclusively by audited donations of tangible goods from Earth-Star Industries
-- Maintains complete legal, operational, and physical separation from all for-profit activities
+The TerraWell FreeCare System is a standalone 501(c)(3) nonprofit (TerraWell Foundation) operating completely parallel to the Earth-Star Industries for-profit ecosystem. It provides free tangible humanitarian aid — surplus food baskets, OTC and generic medications, and pre-FDA-cleared durable medical equipment — to the public on a first-come, first-served basis from dedicated centers located exclusively on Genesis MSW-processing brownfields.
 
-## Legal & Tax Structure (Text Description)
-TerraWell Foundation is a fully independent 501(c)(3) public charity.  
-Board composition: maximum 33 % Earth-Star-affiliated directors; majority independent.  
-Three standing independent committees: Governance, Compensation, and Valuation.  
-All donated items are tangible goods only, appraised by third-party IRS-qualified appraisers.  
-Deduction governed exclusively by IRC §170(e)(3) – maximum = cost + 50 % of (FMV − cost), capped at 2 × cost.  
-Annual independent financial audit and public Form 990 filing are mandatory.  
-No deduction is ever claimed for physician services, therapy sessions, clinic operating costs, or staff time.
+All funding comes from fair-market-value donations of tangible goods produced by Earth-Star Industries. No services (physician visits, therapy, or clinic operations) are donated or deducted. The program is designed as genuine philanthropy with a significant but limited after-tax cost, building grassroots support while maintaining strict legal separation.
 
-## Final Service Catalogue (All Zero Charge to Patient)
+**Locked First Centers Operational:** Q1 2035  
+All projections based on 2025-validated IRS rules, FDA regulations, DEA requirements, and operational realities.
 
-| Service                              | Details                                                                                         | Deductibility Status            |
-|--------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------|
-| Weekly grocery basket                | Complete MyPlate surplus from Skyscraper Farms                                                  | Fully deductible (food)         |
-| Generic & OTC pharmacy               | 90-day supplies of ≥200 non-scheduled medications                                               | Fully deductible                |
-| Basic durable medical equipment      | Only pre-cleared or 510(k)-exempt items (crutches, walkers, finger splints)                     | Fully deductible                |
-| Urgent & primary care visits         | Same-day and scheduled physician services, basic labs                                           | Services – zero deduction       |
-| Mental health counseling            | Licensed therapists, 50-minute sessions (no scheduled substances)                               | Services – zero deduction       |
-| Mobile assistance units             | Dispense food & OTC meds only – no physician services on board                                 | Trailer deductible once only    |
+## 1. Legal & Tax Structure (Text Description)
 
-Ketamine, psilocybin, and all powered Class II devices are permanently excluded.
+TerraWell Foundation is established as a public charity under IRC §501(c)(3).  
+- **Funding**: Exclusively tangible inventory donations (food, OTC/generic drugs, durable medical equipment) from Earth-Star Industries (C-corporation donor).  
+- **Deductions**: Limited to IRC §170(e)(3) enhanced inventory deduction — cost of goods + 50% of appreciation, capped at 2× cost. Food inventory qualifies for special rules. Corporate deduction limited to 10% of taxable income with 5-year carryforward.  
+- **Governance**: Independent board with ≤33% Earth-Star-affiliated directors. Independent compensation and valuation committees. Annual independent audits and full Form 990 disclosure.  
+- **Firewall**: No data sharing, no shared facilities beyond brownfield co-location, no integration with farms/TerraFabs/Genesis production. Separate branding, staff, and operations.  
+- **Physician Services**: Provided via fair-market contracts with independent 1099 physicians or partner FQHCs to comply with state Corporate Practice of Medicine (CPOM) rules (varies by state; nonprofits often permitted with safeguards).  
+- **Compliance**: All recipients present government-issued photo ID and undergo standard medical intake for any physician services or controlled substances.
 
-## FMV Valuation & Maximum Deduction Table (2035 USD – IRS-Compliant)
+## 2. FMV Valuation Tables for Donated Items (Tangible Goods Only)
 
-| Item                                | Earth-Star Cost | Third-Party FMV | Maximum Allowed Deduction (§170(e)(3)) |
-|-------------------------------------|-----------------|-----------------|----------------------------------------|
-| Weekly grocery basket               | $29             | $108            | $68.50                                 |
-| 90-day generic/OTC fill             | $19             | $142            | $80.50                                 |
-| Basic walker/crutch set             | $78             | $410            | $244                                   |
-| Mobile 53 ft ceramic trailer        | $1.12 M         | $1.80 M         | $1.68 M (one-time only)                |
+| Donated Item                          | Example Description                                      | Production Cost to Earth-Star | Max Deductible (≤2× Cost) | Notes |
+|---------------------------------------|----------------------------------------------------------|-------------------------------|---------------------------|-------|
+| Weekly Grocery Basket                 | Full MyPlate-compliant fresh produce/staples (surplus)   | $40–$60                       | $80–$120                  | Food inventory special rules apply |
+| Generic/OTC Pharmacy Supply           | 90-day supply of common generics/OTC                     | $20–$50                       | $40–$100                  | Qualified inventory |
+| Durable Medical Equipment             | Pre-cleared basic walkers, crutches, finger splints      | $200–$800                     | $400–$1,600               | FDA 510(k)-exempt or cleared designs only; no custom/on-site printing of Class II devices |
 
-## Realistic Roll-Out Timeline & Financials (2035–2075)
+No deductions for physician time, therapy sessions, urgent/primary care visits, or mobile unit operations.
 
-| Year | Fixed Centers | Mobile Units | Individuals Served Annually | Tangible Goods Donated (cost) | Max Deduction | Tax Savings (26.5 %) | Net After-Tax Cost |
-|------|---------------|--------------|-----------------------------|-------------------------------|---------------|----------------------|--------------------|
-| 2035 | 15            | 40           | 1.9 million                 | $680 M                        | $1.36 B       | $360 M               | $320 M             |
-| 2040 | 210           | 420          | 21 million                  | $9.8 B                        | $19.6 B       | $5.2 B               | $4.6 B             |
-| 2050 | 780           | 1,300        | 62 million                  | $42 B                         | $84 B         | $22.3 B              | $19.7 B            |
-| 2075 | 1,200         | 2,000        | 74–78 million               | $78 B                         | $156 B        | $41.3 B              | $36.7 B            |
+## 3. Roll-Out Timeline (2035–2075)
 
-Maximum realistic steady-state reach (2075): 74–78 million individuals/year (~18–20 % of projected U.S. population).
+- **2035**: First 50 fixed centers operational; serve ~2 million individuals annually with tangible goods.  
+- **2040**: Expand to 300 centers; serve ~25 million.  
+- **2050**: 800 centers; serve ~50–60 million (steady-state growth).  
+- **2075**: ~1,000–1,200 centers; serve 62–78 million annually (~18–22% of projected U.S. population of ~420 million), aligned with scale of largest U.S. charities (e.g., Feeding America reaches ~46–53 million).
 
-## Mobile Unit Specifications & Disaster Protocol
-- 53 ft flat-pack ceramic trailer assembled from Genesis kits
-- Fully off-grid (solar + LFP battery + atmospheric water generator)
-- Contains automated grocery & OTC pharmacy dispensary only
-- No physician or controlled-substance capability on board
-- Disaster activation via pre-existing mutual-aid agreements with state EMAs and FEMA Region coordinators
-- Units deploy only for food and OTC medicine distribution under declared emergencies
+Growth limited by realistic demand, operational capacity, and IRS private benefit scrutiny.
 
-## Political & Regulatory Risk Reduction Analysis
-- Delivers tangible benefits in every congressional district
-- Creates broad bipartisan political goodwill while remaining 100 % private
-- Demonstrates genuine philanthropy (net after-tax cost ~9–11 % of projected Earth-Star EBITDA at scale)
-- Provides strong defense against NIMBY opposition and regulatory delays for core industrial projects
+## 4. Mobile Unit Specifications & Disaster Response Protocols
 
-## Integration Rules with Core Earth-Star Industrial Stack
-- Complete legal, financial, and data firewall – no shared systems or branding beyond donation labelling
-- All TerraWell sites located exclusively on Genesis brownfield MSW campuses, ≥5 km from any semiconductor, farm, or city zone
-- No military-derived technology (hyperspectral airlocks permanently removed)
-- No patient data ever leaves the 501(c)(3)
+- **Specifications**: 53 ft ceramic trailers built from standard Genesis kits; off-grid capable; stocked with donated tangible goods (food, OTC meds, basic DME). No on-board physician services or controlled-substance dispensing to avoid DEA mobile registration complexity.  
+- **Disaster Response**: Units deploy to affected areas for immediate distribution of food baskets and OTC supplies. Coordination with FEMA/Red Cross for access; no medical treatment provided on-unit. Standard security (metal detectors + CCTV).
 
-## Honest Feasibility Assessment (December 2025)
-- **Legal & Tax**: 100 % compliant with IRS §170, DEA, FDA, and all 50 state medical/licensure laws
-- **Financial**: Genuine philanthropic program with ~73–75 % after-tax cost of goods donated
-- **Operational**: Proven, scalable model (Feeding America + FQHC networks) executed with private capital
-- **Verdict**: Expensive, legally bulletproof, politically protective, and completely separable humanitarian initiative
+## 5. Political Risk Reduction Analysis
+
+The program generates strong grassroots political goodwill by providing tangible aid to tens of millions without means testing or bureaucracy. As a genuine, IRS-compliant philanthropic activity with independent governance and no profit motive, it insulates the core Earth-Star industrial stack from regulatory or political backlash. Separation firewalls prevent any perception of private inurement or entanglement.
+
+## 6. Integration Rules with Core Earth-Star Industrial Stack
+
+- **None Allowed**: Complete operational, data, and governance separation.  
+- Facilities located only on Genesis brownfield sites but branded/operated independently.  
+- No shared sensors, compliance portals, or production integration.  
+- Donations limited to surplus tangible goods; no custom production for TerraWell.  
+- Security: Standard metal detectors and CCTV only (no hyperspectral or advanced systems).
+
+## 7. Service Catalogue (Revised – Tangible Goods Focus)
+
+All tangible items provided free on first-come basis; physician consultations available via contracted providers (billed separately if applicable, not donated).
+
+- Free weekly grocery baskets (surplus food).  
+- Free generic/OTC pharmacy supplies (Schedule V and below; no controlled substances without physician oversight).  
+- Free pre-cleared durable medical equipment (basic walkers, crutches, splints).  
+- Limited primary/urgent care access via contracted physicians (not free/unlimited to comply with CPOM and IRS rules).  
+- Mental health: Standard therapy via contracts (no psychedelics).
+
+**Financial Summary (IRS-Compliant Projection)**
+
+Program remains a net after-tax philanthropic cost of ~45–50% of production value. Steady-state (2075): ~$15–$18 billion annual net cost (~11–13% of projected Earth-Star EBITDA).
 
 ---
-*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025–2075*
+
+**License**: This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+© 2025 Earth-Star Industries
