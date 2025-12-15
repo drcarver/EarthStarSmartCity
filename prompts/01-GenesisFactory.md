@@ -11,7 +11,7 @@ The Genesis System is a comprehensive, modular, regenerative closed-loop ecosyst
 
 Deployed on reclaimed closed landfills and brownfield sites, the system is net-positive in energy (exporter via biogas surplus and self-produced PV panels from internal wafers), near-100% self-sufficient in water (full recirculation plus evapotranspiration recovery), and strongly carbon-negative through sequestration, biochar production, and waste avoidance. It delivers a complete MyPlate-compliant diet—including culturally and religiously specific foods—with staples (rice, potatoes, corn, wheat, oats), proteins (fish, animals, legumes), oils (sunflower), sugars (sugarcane, grapes), fruits/vegetables, and premium beverages (craft beer from hops/grains, wine/mead from grapes/sugarcane).
 
-The Genesis System transforms degraded land into productive, self-sustaining hubs, scaling via self-replicating factory kits while generating multiple revenue streams for rapid financial independence.
+The Genesis System transforms degraded land into productive, self-sustaining hubs, scaling via self-replicating factory kits while generating multiple revenue streams for rapid financial independence.  Te proec should begin in the Jan 2027 timefframe. 
 
 **Core Principles**
 - Near-total zero-landfill via plasma vitrification, ELFM, and biorefinery cascades (residues → biogas → digestate → ash for ceramics/silicon/high-value products).
