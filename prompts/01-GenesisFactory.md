@@ -49,6 +49,8 @@ The Genesis System transforms degraded land into productive, self-sustaining hub
 
 ## Phased Rollout Plan
 
+A big concern is to be self financially independent and off government grants as quickly as possible.  tweak the rollout to get a faster imlemetation
+
 **Phase 0: Preparation (Months 1–3)**  
 Secure closed landfill/brownfield sites; initiate ELFM and waste revenue; build pilot factory.
 
