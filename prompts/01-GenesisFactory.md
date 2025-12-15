@@ -11,7 +11,19 @@ The Genesis System is a comprehensive, modular, regenerative closed-loop ecosyst
 
 Deployed on reclaimed closed landfills and brownfield sites, the system is net-positive in energy (exporter via biogas surplus and self-produced PV panels from internal wafers), near-100% self-sufficient in water (full recirculation plus evapotranspiration recovery), and strongly carbon-negative through sequestration, biochar production, and waste avoidance. It delivers a complete MyPlate-compliant diet—including culturally and religiously specific foods—with staples (rice, potatoes, corn, wheat, oats), proteins (fish, animals, legumes), oils (sunflower), sugars (sugarcane, grapes), fruits/vegetables, and premium beverages (craft beer from hops/grains, wine/mead from grapes/sugarcane).
 
-The Genesis System transforms degraded land into productive, self-sustaining hubs, scaling via self-replicating factory kits while generating multiple revenue streams for rapid financial independence.  Te proec should begin in the Jan 2027 timefframe. 
+The Genesis System transforms degraded land into productive, self-sustaining hubs, scaling via self-replicating factory kits while generating multiple revenue streams for rapid financial independence.  Te proec should begin in the Jan 2027 timefframe.
+
+we want to license the technology to produce our own plasma torches and kilns.  We accelerate the time frames is we use virgin materials and buy abandoned or bankrupt farms and do rural partnerships. We bootstrap the original factory in a leased ten with leased equipment and then get rid of the tent and equipment lease as soon as we can, how long would it take to begin producing the ties for the greenhouses.  also once we have one tile factory up we can bootstrap others on bankrupt farms.  We would still want the brownfields and landfills to come online as soon as we can. Incorporate as many waste sreams as possible that do not require extra permitting. How do we get to feeding the entire nation with room for export.  Rewild excess land. 
+
+we can build out hotels and hospitals at the beginning for workers in the frms and scale out hosing and schools as it becomes nessecary assuming it doesnt take long to build them all
+Assume we make them luiourious homes and provide a line of dc-based appliances and electronics.  We connect them together with smart roads and smart city standards along with a smart grid.  what does it take to et new building codes to allow a dc based grid as much as possible.  Roads that have large loads can be regular roads.
+
+Assume we are mainly targeing dc grids on private land we own.  Our micro grid can convert to ac to hook to the national grid if we want to export power.  All utilites going into the homes are supplied through smart ceramic pipes and homes can export/import water of power through them.  Possibly even robotic food delivery
+
+All food, water and power are available for free o residents.  Inclde high speed inernet nnd realtime monitoring trhough the senor net and edge computers.  how about providing fre robotaxi service in partnership with tesla along with sopping and entertainment complees. We provide a governance council and voting.  Everything should be as automated as possible
+
+
+
 
 **Core Principles**
 - Near-total zero-landfill via plasma vitrification, ELFM, and biorefinery cascades (residues → biogas → digestate → ash for ceramics/silicon/high-value products).
@@ -51,19 +63,19 @@ The Genesis System transforms degraded land into productive, self-sustaining hub
 
 A big concern is to be self financially independent and off government grants as quickly as possible.  tweak the rollout to get a faster imlemetation
 
-**Phase 0: Preparation (Months 1–3)**  
+**Phase 0: Preparation**  
 Secure closed landfill/brownfield sites; initiate ELFM and waste revenue; build pilot factory.
 
-**Phase 1: Pilot Cluster (Months 4–12)**  
+**Phase 1: Pilot Cluster**  
 Operational clusters feeding thousands; prototype wafers; early raw/byproduct sales.
 
-**Phase 2: Self-Replication (Years 2–3)**  
+**Phase 2: Self-Replication**  
 5–10 sites; first commercial wafers; positive cash flow.
 
-**Phase 3: National Scaling (Years 4–10)**  
+**Phase 3: National Scaling**  
 50–500 sites on reclaimed closed landfills; feeding 50–200 million; full byproduct commercialization.
 
-**Phase 4: Global Replication (Year 10+)**  
+**Phase 4: Global Replication**  
 Export self-replicating kits; international adaptation.
 
 ## Financial Overview
