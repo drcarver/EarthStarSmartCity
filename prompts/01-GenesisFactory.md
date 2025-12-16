@@ -54,6 +54,11 @@ All food, water and power are available for free o residents.  Inclde high speed
 ### 5. Advanced Materials and Electronics
 - Solar-grade silicon wafers (SoG-Si, 99.9999% purity) from rice husk ash for on-site PV panels and embedded sensors.
 - Self-sufficient electronics loop closing energy and monitoring needs.
+- 
+### 5. Grey and Blackwaer processing
+= all grey and bblackwater should be priceesed to potable water wih residue converted to base components and what is left burned with waste energy for ash for ceramics
+- Solar-grade silicon wafers (SoG-Si, 99.9999% purity) from rice husk ash for on-site PV panels and embedded sensors.
+- Self-sufficient electronics loop closing energy and monitoring needs.
 
 ### 6. Smart Infrastructure and Cultural Add-Ons
 - DC smart grid, piezo/solar roads, experiential tourism, workshops, and immersive stays.
