@@ -23,8 +23,6 @@ Assume we are mainly targeing dc grids on private land we own.  Our micro grid c
 All food, water and power are available for free o residents.  Inclde high speed inernet nnd realtime monitoring trhough the senor net and edge computers.  how about providing fre robotaxi service in partnership with tesla along with sopping and entertainment complees. We provide a governance council and voting.  Everything should be as automated as possible
 
 
-
-
 **Core Principles**
 - Near-total zero-landfill via plasma vitrification, ELFM, and biorefinery cascades (residues → biogas → digestate → ash for ceramics/silicon/high-value products).
 - Modular snap-together ceramic tiles (70–95% from internal farm wastes and mined slag) with embedded self-produced silicon sensors, Faraday cage mesh, and integrated conduits.
@@ -38,6 +36,7 @@ All food, water and power are available for free o residents.  Inclde high speed
 ### 1. Modular Ceramic Tiles (Core Infrastructure)
 - Toughened composites primarily from mined landfill slag and internal farm residues (rice husk ash, sugarcane bagasse, straw, grape pomace as pore-formers/tougheners).
 - Embedded self-produced silicon-based sensors and PV elements; variants include insulating, permeable, and cultural designs.
+- Eternal tiles provide AWG processors and we can capture rain water, stormwwater into and pipe into building suports.  This include all external cldding, smart roads, etc. 
 - Produced in on-site cylindrical factories; self-replicating kits.
 
 ### 2. Hybrid Greenhouse/Aquaponics Modules
