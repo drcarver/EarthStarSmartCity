@@ -1,67 +1,48 @@
 ---
-title: Earth-Star Industries Prompt 03A – TerraWell FreeCare System (November 2025)
-description: Standalone, fully private, tax-deductible, zero-entanglement humanitarian layer that operates parallel to the core industrial stack. 100 % free food, medicine, medical devices, urgent care, primary care, mental health, and mobile response for all citizens.
+layout: default
+title: Earth-Star Industries Prompt 04 – TerraWell FreeCare System Detailed Specification
+description: Prompt to generate a comprehensive, accurate, and compliant description of the TerraWell FreeCare System as a standalone humanitarian nonprofit layer.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Prompt 03 – TerraWell FreeCare System  
-**“Everything Free, Everything Deductible” – Validated Master Specification (November 2025)**
+# Prompt 03 – Generate Detailed TerraWell FreeCare System Description (December 2025)
 
-**Locked first FreeCare centers & mobile units:** Q1 2018  
-All timelines, costs, and legal structures calculated from this date using only 2025-validated technology and IRS Section 170 rules.
+**Objective**  
+Generate a complete, self-contained executive specification document for the **TerraWell FreeCare System**, a fully private, standalone 501(c)(3) nonprofit operated by the independent TerraWell Foundation. The document must reflect realistic U.S. tax law (IRC §§170, 501(c)(3)), FDA regulations, and operational constraints as of December 2025, while preserving maximum humanitarian impact and tax efficiency.
 
-## Core Mission
-Create a nationwide (later global) network of **100 % free** health & food centers and mobile units that:
-- Supplies food banks with packaging branded for the food bank
-- Give away all services and products at zero charge to the public
-- Operate as a genuine 501(c)(3) nonprofit (TerraWell Foundation) funded entirely by fair-market-value donations from Earth-Star Industries (for-profit)
-- Generate massive tax deductions that effectively make the entire program free or cash-positive to Earth-Star after tax savings
-- Build unbreakable grassroots political protection for the entire Earth-Star ecosystem
-- Remain completely separate from farms, TerraFabs, Genesis factories, and MHUE cities (located only on MSW-processing brownfields)
+**Core Context**  
+- The regenerative closed-loop ecosystem is named the **Genesis System**, developed and owned by **EarthStar Technologies** (for-profit entity).  
+- TerraWell FreeCare is **completely separate** from the Genesis System, TerraFab, farms, and any residential/commercial developments.  
+- Facilities are located exclusively on Genesis MSW-processing brownfield sites using standard Genesis ceramic tiles and kits.  
+- All services and distributed goods are **100% free** to recipients (no co-pays, means testing, or ID required).  
+- Funding comes solely from fair-market-value donations of qualifying tangible inventory from EarthStar Technologies; no public funds ever accepted.
 
-## Mandatory Constraints (locked – no exceptions)
-1. **Zero cost to recipients** – no co-pays, no means testing, no government IDs required
-2. **100 % private funding** – no Medicare, Medicaid, SNAP, or public dollars ever accepted
-3. **All donations at FMV** – Earth-Star donates food, generics, devices, clinic time, mobile units at full retail value to the 501(c)(3)
-4. **Complete legal firewall** – TerraWell Foundation has independent board, separate facilities, no data sharing with for-profit side
-5. **Physical separation** – facilities built only on Genesis MSW sites, never inside farms, fabs, or cities
+**Mandatory Design Principles**  
+1. Strict legal firewall: Independent board, separate facilities, no data/personnel sharing, arm's-length transactions.  
+2. Donations limited to **tangible goods only** (food, OTC medications, generic drugs where compliant, 3D-printed durable medical equipment such as wheelchairs/crutches/walkers/CPAP accessories).  
+3. No donation of services, "visit credits," or professional time.  
+4. Medical care (urgent/primary/mental health) provided by paid or volunteer licensed staff employed directly by the 501(c)(3), funded through charity's general operations (not tied to specific corporate donations).  
+5. Enhanced corporate tax deductions claimed only for qualifying inventory under §170(e)(3) (primarily food; partial for certain medical supplies used for care of the ill/needy).  
+6. All facilities feature smart airlocks with hyperspectral screening for basic health triage and security.
 
-## TerraWell Service Catalogue (all free)
+**Required Sections in Output Document**  
+1. Executive Summary with mission, scale goals (2050 targets), and net financial impact to EarthStar Technologies.  
+2. Legal & Tax Structure Description (text only – no diagrams).  
+3. Detailed Service Catalogue Table (all free services/goods; realistic FMV ranges based on 2025 benchmarks; note deduction eligibility).  
+4. Physical Assets Table (fixed centers and mobile units – specs, quantities by 2050, capex).  
+5. Rollout Timeline 2027–2075 (phased, realistic).  
+6. Mobile Unit Detailed Specifications and Disaster Response Protocols.  
+7. Political & Reputational Risk Mitigation Analysis.  
+8. Strict Integration Rules with Genesis System / EarthStar Technologies (explicit prohibitions).  
+9. Honest Feasibility & Compliance Assessment (highlight strengths, risks, required safeguards).
 
-| Service                              | Details                                                                                              | FMV Deductible Value |
-|--------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------|
-| Weekly grocery basket                | Full MyPlate, fresh from Skyscraper Farm surplus                                                     | $95–$120                    |
-| Generic & OTC pharmacy               | 200+ drugs, 90-day supply                                                                            | $60–$180                    |
-| Urgent care visit                    | Same-day doctor, labs, X-ray, stitches                                                               | $179                        |
-| Primary care annual unlimited        | Doctor visits, basic labs, telehealth                                                                | $1,200/year                 |
-| Mental health therapy                | 50-min sessions, psychiatry, ketamine/psilocybin (when legal)                                        | $150/session                |
-| 3D-printed medical devices           | Wheelchairs, walkers, crutches, splints, oxygen concentrators, CPAP (printed on-site)                | $800–$6,000/unit            |
-| Mobile unit deployment               | Full rolling clinic for disasters, rural areas, new city sites                                       | $1.6 M/month                |
+**Tone & Style**  
+Professional, transparent, optimistic but grounded. Emphasize humanitarian impact while clearly stating legal/regulatory boundaries. Avoid overclaiming tax benefits or regulatory immunity.
 
-## TerraWell Physical Assets
-
-| Asset                                  | Description                                                                                           | Units by 2050 | Capex per Unit |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------|---------------|----------------|
-| Fixed TerraWell Center                 | 10,000 m² ceramic building on Genesis brownfield, grocery + clinic + pharmacy + 3D print lab         | 1,200         | $28 M          |
-| Mobile TerraWell Unit                  | 53 ft ceramic trailer or barge, fully off-grid, 3D printer equipped                                   | 2,000         | $1.8 M         |
-
-
-**Net result**: After ~2042 the program becomes cash-flow positive to Earth-Star due to tax shield exceeding actual costs.
-
-## Required Outputs
-Generate a complete executive summary containing:
-1. Detailed legal & tax structure diagram
-2. FMV valuation tables for all donated items
-3. Roll-out timeline 2026–2075
-4. Mobile unit specifications & disaster response protocols
-5. Political risk reduction analysis
-6. Integration rules with core Earth-Star industrial stack (none allowed)
-7. Dont include diagrams.  Use text descriptions instead
-
-All services remain 100 % free forever. All facilities use only standard Genesis ceramic tiles and kits. Smart airlocks with hyperspectral screening on every entrance.
+**Output Format**  
+Raw Markdown suitable for direct copy-paste into GitHub Pages (Jekyll minimal theme). Include page frontmatter with title, description, and license. End with CC-BY-4.0 footer and © 2025 EarthStar Technologies.
 
 ---
-*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
----
-**This prompt is 100 % legally compliant, tax-efficient, regulator-proof, and operationally separable as of 28 November 2025.**
+
+*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). EarthStar Technologies © 2025*
