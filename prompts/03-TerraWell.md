@@ -8,7 +8,7 @@ theme: minimal
 # Prompt 03 – TerraWell FreeCare System  
 **“Everything Free, Everything Deductible” – Validated Master Specification (November 2025)**
 
-**Locked first FreeCare centers & mobile units:** Q1 2035  
+**Locked first FreeCare centers & mobile units:** Q1 2018  
 All timelines, costs, and legal structures calculated from this date using only 2025-validated technology and IRS Section 170 rules.
 
 ## Core Mission
