@@ -87,14 +87,7 @@ The following conservative, IRS-compliant constraints replace all earlier optimi
    - Blended federal + state rate: 26.5 %.  
    - §170 limitation: 10 % of taxable income annually with 5-year carryforward.
 
-4. **Corrected Financial Model (2035–2075, IRS-Compliant)**
-
-| Year | People Served | Tangible Goods Donated (at cost) | Max Deduction Allowed | Tax Savings @ 26.5 % | Net After-Tax Cost to Earth-Star |
-|------|----------------|---------------------------------|----------------------|------------------------|----------------------------------|
-| 2035 | 2 million      | $4.2 B                         | $8.4 B              | $2.23 B                | $1.97 B                         |
-| 2040 | 25 million     | $52 B                          | $104 B               | $27.6 B               | $24.4 B                         |
-| 2050 | 120 million    | $250 B                         | $500 B               | $132.5 B              | $117.5 B                        |
-| 2075 | 400 million    | $830 B                         | $1.66 T             | $440 B                | $390 B                          |
+4. **Corrected Financial Model (2027–2075, IRS-Compliant)**
 
 5. **Program Remains Net Cost (Never Cash-Positive)**  
    The program will always have a positive net after-tax cost of approximately 45–50 % of actual production cost. It is a genuine philanthropic activity, not a profit center.
