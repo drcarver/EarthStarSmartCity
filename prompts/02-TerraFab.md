@@ -19,8 +19,11 @@ our comploance portals.
 - With these possibly placed on local farms we could even et the buy local thing
 - We could recycle our own tech as needed.  offer free replacements or high value trade in.  Use this as a method to produce the latest models and recycle old ones as tech improves.
 - fabs built with our tiles and ceramics are easier to upgrade
-- Since there are older technologies can we build as much of them in house including semiconductor equipment, printes robots etc
+- Since there are older technologies can w
+- We build as much of them in house including semiconductor equipment, printes robots etc
 - Use RHA silcon as much as possible
+- Drone peoduction with swarm capability and AI
+- stealth version of all products for the military if requeted using stealth ceramics and parts.  Possibly in a seperate fab and requiring virgin materials
 
 ---
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
