@@ -1,7 +1,3 @@
-```markdown
----
-layout: default```markdown
----
 layout: default
 title: Genesis System by EarthStar Technologies
 ---
