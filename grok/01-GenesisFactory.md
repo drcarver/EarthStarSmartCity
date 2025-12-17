@@ -15,6 +15,8 @@ The system is net energy-positive (exporting via biogas and self-produced PV), n
 
 ## Realistic Schedule (2035–2050)
 
+With our farm epasion there should be no reason to push back the start of th eproject wo 2035.  the brownsfield nd frms epnsion can be done in parallel
+
 By 2035, the system reaches national scaling (Phase 3). The focus here is on maturation, optimization, and global preparation:
 
 - **2035–2037**: Expand to 50–100 sites, feeding 50–100 million. Optimize AI/telepresence, DC grids, and partnerships (e.g., Tesla robotaxis). Launch luxurious housing pilots with free utilities.
