@@ -237,5 +237,3 @@ When combined with Genesis, TerraFab enables **national‑scale self‑sufficien
 
 © 2025 Earth‑Star Industries  \
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**
-```
-
