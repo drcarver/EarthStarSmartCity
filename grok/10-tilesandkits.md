@@ -1,77 +1,72 @@
 ---
 layout: default
-title: Earth-Star Industries Tiles, Kits & Sensor Handbook (December 2025)
+title: Earth-Star Industries Tiles, Kits, and Sensor Handbook – Part 10
+description: Comprehensive list of all tiles and kits in the Genesis Network, including manufacturing processes, inputs, materials, costs, revenues, and enhancements for viability. Includes detailed sensor handbook and implementation of smart city/sustainable standards.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+theme: minimal
 ---
 
-# Earth-Star Industries Tiles, Kits & Sensor Handbook  
-**Comprehensive Catalogue & Viability-Enhanced Specification (Version 1.0 – 14 December 2025)**
+# Earth-Star Industries Tiles, Kits, and Sensor Handbook – Part 10
 
-## Overview & Viability Enhancements Implemented
-To maximise self-funding speed and reduce bottlenecks, the following changes have been applied across the catalogue:
+## 1. Introduction and Viability Enhancements
 
-- **Prioritisation of high-margin kits first**: Data centre, battery factory, and proprietary security kits built in early phases to generate cash flow.
-- **Maximum reuse**: All buildings (residential, hospital, farm, factory) use the same core structural tile variants + specialised overlay kits.
-- **Manufacturing centralised**: All tiles and kits produced exclusively in Genesis cylindrical factories via 3D-printing/extrusion from recycled waste streams.
-- **Input sources diversified**: Primary: landfill/brownfield mining (90 %). Secondary: urban demolition contracts, industrial slag partnerships.
-- **Cost reduction**: Standardisation on 5 core tile types reduces variants by 70 %. Sensor integration at factory level (not field-retrofit).
-- **Revenue focus**: Proprietary smart airlock/security kits sold at 60–70 % margin to fund expansion.
-- **Compliance**: All designs meet LEED Platinum, WELL, Fitwel, ISO 37122 (smart cities), UFC 4-010-01 (DoD anti-terrorism), and local sustainable codes (e.g., CALGreen, IgCC).
+To enhance project viability and reduce bottlenecks, the following suggestions have been implemented based on current research (e.g., regenerative agriculture focuses on biodiversity credits, ecosystem services payments, and efficiency upgrades):
+- **Rapid Bootstrapping:** Prioritize self-funding by 2032 via early revenues from high-margin items (tiles, gases, kits); limit grants to <20% initial CAPEX.
+- **Carbon/Biodiversity Credits:** Integrate credits into revenue streams (e.g., $100M/site from sequestration/restoration).
+- **Modular Efficiency:** Reuse kits extensively; all manufacturing centralized in tile factories for scalability.
+- **Security/Sustainability Integration:** All buildings use smart airlocks (weapons/explosives scanning via hyperspectral/motion sensors) and comply with 2025 sustainable codes (e.g., NGBS, LEED equivalents) via embedded sensors/grids.
+- **Smart City Standards:** Implement IoT for energy, water, security (e.g., occupancy, air quality sensors); support codes like ICC 700-2025.
+- **Bottleneck Reduction:** Vertical integration of waste inputs; partnerships for virgin materials; automation via robotics kits to cut labor 50%.
 
-## 1. Core Tile Types (All Produced in Genesis Factories)
+Recomputed costs/revenues use 2025 data: Ceramic tiles ~$200–$500/ton production cost, revenues $8,000–$10,000M global market; aquaponics kits $10k–$50k startup, $50k–$100k/year revenue; biorefineries $400–$1,500/ton processed.
 
-| Tile Type                  | Dimensions (mm) | Thickness (mm) | Composition (by mass)                          | Primary Input Sources                     | Production Cost ($/m²) | Sale Price ($/m²) | Key Features |
-|----------------------------|-----------------|----------------|------------------------------------------------|-------------------------------------------|-------------------------|--------------------|--------------|
-| Structural Cladding Panel  | 1200 × 600      | 20–30          | 95 % recycled glass/porcelain/fly ash/slag + 5 % geopolymer binder | Landfill glass, demolition porcelain, coal ash | 18                      | 45                 | Rainscreen, non-load-bearing |
-| BIPV Solar Overlay         | 1200 × 600      | +5 overlay     | CIGS thin-film on base panel                   | Same + virgin CIGS cells (10 %)           | 45                      | 120                | 180–220 W/m², integrated conduits |
-| EMP/RF Shielding Panel     | 1200 × 600      | 25             | Base + embedded copper mesh                    | Recycled copper wire/scrap                | 32                      | 90                 | Faraday cage performance |
-| AWG/Permeable Variant      | 1200 × 600      | 30             | Porous ceramic with hydrophilic coating        | Same + zeolite additives                  | 25                      | 65                 | Atmospheric water generation, stormwater |
-| Radiation/Stealth Variant (Proprietary) | 1200 × 600 | 40             | High-density ceramic + IR/radar absorbers      | Lunar regolith simulant (future) + proprietary | 80                      | 300                | Space & military use |
+All tiles/kits produced in on-site cylindrical tile factories from waste/virgin mixes; buildings constructed solely from these.
 
-**Manufacturing Process (All Types)**:  
-Waste feedstock → sorting/pyrolysis → vitrification → powder → 3D-printing/extrusion in cylindrical Genesis factory → sintering → sensor/conduit embedding → quality check → flat-pack shipping.  
-Factory output: 100M m²/year per line. Energy: On-site biogas + solar (net-positive).
+## 2. List of All Tiles and Kits
 
-## 2. Complete Kit Catalogue
-
-| Kit Name                          | Reused/New | Components (Tiles + Add-ons)                          | Primary Use                              | Production Cost ($M per full MHUE-50k deployment) | Revenue ($M per deployment) | Margin |
-|-----------------------------------|------------|-------------------------------------------------------|------------------------------------------|---------------------------------------------------|------------------------------|--------|
-| Residential Module Kit            | Reused     | Structural panels + BIPV roof + DC wiring conduits    | Housing (apartments/homes)               | 800                                               | 1,600                        | 50 %   |
-| Skyscraper Farm Kit               | Reused     | AWG panels + aquaponics racking + LED integration     | Vertical/horizontal farming              | 300                                               | 600                          | 50 %   |
-| Hospital Module Kit               | Reused     | Cleanroom-grade panels + shielded conduits            | Level I trauma centre                    | 400                                               | 900                          | 55 %   |
-| Data Centre Kit (Proprietary)     | Reused     | EMP panels + high-density cooling conduits            | 150 MW AI data centre                    | 1,200                                             | 3,500                        | 66 %   |
-| Battery Gigafactory Kit (Proprietary) | Reused | Structural + explosion-proof shielding                | LFP/Na-ion production                    | 900                                               | 2,800                        | 68 %   |
-| Smart Airlock Security Kit (Proprietary/New) | New       | mm-wave/explosive trace scanners + facial/hyperspectral + AI edge unit | All building entrances                   | 50 (600 units)                                    | 150                          | 67 %   |
-| Smart City Sensor Backbone Kit    | New        | Embedded IoT hubs in every 10 m² panel + central AI   | City-wide monitoring                     | 200                                               | 500                          | 60 %   |
-| Compliance & Sustainability Kit   | New        | LEED/WELL/ISO 37122 reporting sensors + carbon/water trackers | Regulatory compliance                    | 100                                               | 250                          | 60 %   |
-| Electric Barge Kit                | Reused     | Permeable hull cladding + BIPV roof                   | Waste/feedstock transport                | 1.5 (per barge)                                   | 4                            | 62 %   |
-
-All kits flat-packed and sensor-pre-embedded at factory. Deployment: Snap-together with robotic assistance.
+| Name | Manufacturing Process | Input Sources | Materials | Cost (2025 USD, per unit/site) | Revenue (2025 USD, annual per unit/site) |
+|------|-----------------------|---------------|-----------|---------------------------------------|-----------------------------------------|
+| Modular Ceramic Tiles | Plasma vitrification in licensed kilns; molding/embedding sensors/PV. | Landfill slag (70%), farm residues (rice husk ash, bagasse) (25%), virgin clay (5%). | Toughened silica composites, embedded silicon sensors, Faraday mesh. | $200/ton (production); $500k/site setup. | $150M/site (sales + internal use value). |
+| Ceramic Tile Factory Kit | Self-replicating assembly in tent/factory; 3D printing molds. | Waste ash/slag (80%), virgin metals (20%). | Ceramics, steel frames, plasma torches. | $1M/kit. | $200M/year (tile production sales). |
+| Aquaponics Module Kit | Modular assembly with 3D-printed components; hydroponic integration. | Farm wastes (50%), virgin plastics/metals (50%). | Ceramics for tanks, LED lights, pumps. | $50k/kit (small); $500k/large. | $100k/year (food output sales). |
+| Biorefinery Cascade Kit | Robotic lines assembled on-site; includes distillation/fermentation. | Waste residues (90%), virgin enzymes (10%). | Ceramics, stainless steel, sensors. | $2M/kit. | $400M/year (byproducts/gases). |
+| Electronics Fab Kit | Cleanroom setup with wafer production from husk ash. | Rice husk ash (60%), virgin chemicals (40%). | Silicon wafers, ceramics. | $5M/kit. | $250M/year (chips/sensors). |
+| Housing Flat-Pack Kit | Snap-together tiles with embedded conduits; 3D-printed fixtures. | Waste-derived ceramics (95%), virgin wiring (5%). | Insulated tiles, DC appliances. | $100k/home kit. | $150M/site (rentals/tourism). |
+| Smart Grid/Road Kit | Piezo/solar embedding in tiles; grid assembly. | Waste ash (70%), virgin conductors (30%). | Ceramic pipes, solar elements. | $1M/km road. | $200M/year (energy export). |
+| Water Processing Kit | Ceramic filters/plasma treatment; modular pipes. | Waste water/sludge (100%). | Ceramics, membranes. | $500k/kit. | $50M/year (water sales/credits). |
+| Semiconductor Fab Kit (Reused/Adapted) | 3D-printed cleanrooms; integrates with electronics kit. | Husk ash/slag (70%), virgin semiconductors (30%). | Ceramics, silicon. | $10M/kit. | $500M/year (chips). |
+| Pharma Production Kit (Reused/Adapted) | Automated synthesizers; FDA-compliant. | Farm APIs (60%), virgin chemicals (40%). | Ceramics, glassware. | $3M/kit. | $300M/year (drugs/supplies). |
+| Refractories Kiln Kit (Reused/Adapted) | Integrated from acquisitions; sensor-embedded. | Waste slag (85%), virgin refractories (15%). | High-temp ceramics. | $1.5M/kit. | $150M/year (parts). |
+| Sensor Manufacturing Kit (Reused/Adapted) | Silicon-based production; embeds in tiles. | Husk ash (80%), virgin metals (20%). | Silicon sensors. | $2M/kit. | $100M/year (sensors). |
+| Solar Deployment Kit (Reused/Adapted) | High-density panels from internal wafers. | Internal silicon (90%), virgin frames (10%). | PV ceramics. | $500k/kit (1 ha). | $250M/year (energy). |
+| API Crop Extension Kit (Reused/Adapted) | Medicinal plant modules for farms. | Farm wastes (100%). | Ceramics, trellises. | $200k/kit. | $200M/year (byproducts). |
+| Restoration Kit | Flat-packs for blue/green carbon; assembly on-site. | Waste-derived (80%), virgin seeds (20%). | Ceramics for reefs, bio-materials. | $100k/kit (1 acre). | $100M/site (credits). |
+| Industrial Gas Kit | ASU retrofits; modular plants. | Biogas/waste air (100%). | Ceramics, compressors. | $2M/kit. | $150M/year (gases). |
+| Smallholder Starter Kit | Scaled greenhouses/digesters; farmer assembly. | Waste/local (90%), virgin (10%). | Ceramics, robotics. | $100k–$2M/kit. | $50k/year/farm (produce). |
+| Robotics Kit | Autonomous bots; 3D-printed in fab. | Internal electronics (80%), virgin motors (20%). | Ceramics, AI chips. | $500k/kit (10 bots). | $100M/year (efficiency gains). |
+| Smart Road/Rail Extension Kit | Piezo tracks; snap-together. | Waste ceramics (95%), virgin rails (5%). | Smart ceramics. | $5M/km. | $100M/year (transport). |
+| Security Airlock Kit (New) | Hyperspectral scanning doors; integrated in buildings. | Internal sensors (100%). | Ceramics, scanners. | $50k/unit. | $20M/site (security value). |
+| Smart City Standards Kit (New) | IoT grid for energy/water/security; complies with codes. | Internal sensors/electronics (100%). | Embedded networks. | $1M/site. | $50M/year (efficiency/credits). |
+| Sustainable Building Code Compliance Kit (New/Integrated) | Sensor-embedded for NGBS/LEED; air quality/energy monitoring. | Waste-derived (100%). | Ceramics with monitors. | $200k/site. | $30M/year (certification premiums). |
 
 ## 3. Detailed Sensor Handbook
-All sensors are manufactured in TerraFab cleanrooms, embedded during tile production.
 
-| Sensor Type                  | Function                                              | Placement                          | Data Output                          | Cost ($/unit) | Compliance Standards Met |
-|------------------------------|-------------------------------------------------------|------------------------------------|--------------------------------------|---------------|--------------------------|
-| Structural Health            | Strain, vibration, crack detection                     | Every foundation/wall panel        | Real-time stress maps                | 8             | ISO 37122, UFC 4-010-01 |
-| Environmental (Air/Water)    | VOC, PM2.5, CO₂, pathogens, water quality             | All occupied spaces + pipes        | Continuous indoor/outdoor quality    | 12            | WELL, Fitwel            |
-| Security (mm-wave/trace)     | Weapons, explosives, concealed threats                 | Smart airlocks (every entrance)    | Instant alert to central AI/security | 45            | DoD anti-terrorism      |
-| Hyperspectral (Proprietary)  | Advanced threat/material ID                           | High-value entrances               | AI-flagged anomalies                 | 120           | ITAR-controlled         |
-| Energy/Water Flow            | DC microgrid, water recycling efficiency              | Conduits & meters                  | Net-positive tracking                | 6             | LEED Platinum, IRA      |
-| Carbon Sequestration         | Soil carbon, biogas capture                           | Farms & brownfield zones           | Verified credit reporting            | 10            | EPA/SDG 13              |
-| Facial/Biometric             | Access control (opt-in for residents)                 | Airlocks & common areas            | Privacy-compliant logs               | 25            | GDPR-equivalent         |
+Sensors are produced via Sensor Manufacturing Kit; embedded in tiles/kits for real-time monitoring. Compliance with smart city standards (e.g., occupancy for energy, air quality for health) and sustainable codes (e.g., ICC 700-2025 for green building).
 
-**Central AI Integration**: All sensors feed encrypted DC mesh to on-site edge servers → central city AI (proprietary) → compliance portal. Redundant off-site backup. Annual third-party audit mandatory.
+| Sensor Type | Function | Application | Specs | Cost (per unit) |
+|-------------|----------|-------------|-------|-----------------|
+| Motion/Occupancy Sensors | Detect movement/presence; optimize lighting/HVAC. | Buildings, roads; security alerts. | PIR/ultrasonic; 10–50m range. | $50. |
+| Air Quality Sensors | Monitor CO₂, TVOC, PM2.5/10, humidity. | Indoor/outdoor; IAQ compliance. | Electrochemical; ±5% accuracy. | $100. |
+| Hyperspectral Sensors | Scan for weapons/explosives (e.g., chemical signatures); health triage. | Airlocks; security alerts to guards/AI. | 400–1000nm spectrum; AI integration. | $500. |
+| Water Quality Sensors | pH, turbidity, contaminants. | Processing kits; sustainable codes. | Optical/electrode; real-time. | $200. |
+| Structural Health Sensors | Vibration, strain; monitor integrity. | Tiles/bridges; predictive maintenance. | Piezoelectric; wireless. | $150. |
+| Environmental Sensors | Temperature, humidity, soil moisture. | Farms/restoration; biodiversity credits. | Thermistor/capacitive; ±0.5°C. | $50. |
+| Energy Sensors | Power usage, solar output. | Grids; efficiency standards. | Hall effect; smart metering. | $100. |
+| Security Sensors (CO/Smoke/Fire) | Detect hazards; integrate with airlocks. | All buildings; code compliance. | Ionization/photoelectric; alerts. | $75. |
+| Proximity/Glass Break Sensors | Intrusion detection. | Perimeters/airlocks; smart city security. | Acoustic/vibration; 10m range. | $80. |
+| Biometric Sensors | Facial recognition (optional, privacy-compliant). | High-security airlocks. | IR cameras; GDPR-aligned. | $300. |
 
-## 4. Viability-Enhancing Bottleneck Reductions
-- **Single factory dependency eliminated**: Early revenue funds 10 parallel Genesis factories by 2040.
-- **Material bottlenecks**: Long-term contracts with waste haulers + DoD base closures for steady slag/copper.
-- **Labour**: 90 % robotic assembly in factories; Terrabots for site deployment.
-- **Regulatory**: Pre-certified kit designs submitted to ICC/ES for national approval by 2035.
-- **Cash flow**: First 10 MHUE clusters prioritise data centre + battery kits → $20B FCF by 2042.
-
-**Result**: Programme reaches self-funding threshold ($500B annual FCF) by 2045 with 85 % probability under aggressive execution.
-
----
+Handbook Notes: All sensors feed into compliance portal (edge computing); support standards like ISO 37120 (smart cities), NGBS 2025 (green buildings). Power: DC/solar; data: Encrypted wireless. Maintenance: Annual calibration; redundancy for viability.
 
 **License**: This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
