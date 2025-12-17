@@ -77,7 +77,7 @@ All food, water and power are available for free o residents.  Inclde high speed
 
 ## Phased Rollout Plan
 
-A big concern is to be self financially independent and off government grants as quickly as possible.  tweak the rollout to get a faster imlemetation
+A big concern is to be self financially independent and off government grants as quickly as possible.  tweak the rollout to get a faster imlemetation.  with our farm epasion there should be no reason to push back the start of th eproject wo 2035.  the brownsfield nd frms epnsion can be done in parallel
 
 **Phase 0: Preparation**  
 Secure closed landfill/brownfield sites; initiate ELFM and waste revenue; build pilot factory.
