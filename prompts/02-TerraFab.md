@@ -25,7 +25,28 @@ our comploance portals.
 - Drone peoduction with swarm capability and AI
 - stealth version of all products for the military if requeted using stealth ceramics and parts.  Possibly in a seperate fab and requiring virgin materials
 
----
+### 2. Medical Equipmet and sensors
+- As autmated as possible with telepresenes as needed. Complete lights out.
+- Implement mobile wheelchair functionallity into hospital bed
+- Hospital bots for nurese aid functions
+- A sysem that can dispense OTC or prescription drugs based on a doctors prescription
+- Despense and create disposable srubs and other sustainable hospital suplies,  possibly 3d print from cartridges
+- Any hospital equipment can we build
+
+### 3. Powered Wheelchair
+- Utiliing the battrey for oxygen exractio, built in gps tracking, built in phones and tablets all customied from our eltronics line
+- license something like fsd with proper camera setup for automonus driving
+- Use v2g for charging
+- A 5g link back to a hospital service and the ability to go to a location if the patient is unable to
+- We  want to monitor all biometrics using passive sensors or continous monitors like cgm.
+- integrate a personal AI in the edge computer in the chair with info posted into the integrated tablet.
+- We have modularity with our tiles, we could hve modules for things like cpap/bipap amd tvs.
+  - Respiratory & Life Support Modules
+  - Assistance & Independence Modules
+  - Mobility Enhancement Modules
+  - Lifestyle & Connectivity Modules
+
+--
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
 
 Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
