@@ -75,6 +75,13 @@ All food, water and power are available for free o residents.  Inclde high speed
 ### 7. Smart Infrastructure and Cultural Add-Ons
 - DC smart grid, piezo/solar roads, experiential tourism, workshops, and immersive stays.
 
+### 7. Staples
+- Dedicate low-density zones in hybrid modules to greenhouse staples (trellised/tall crops like corn; flooded trays for rice; soil beds for potatoes/wheat).
+- Use passive features + minimal LEDs for off-season/extension.
+- Enhances diet diversity, rice husk ash for silicon, carbon negativity (soil sequestration).
+- Bootstrapping: Start on farms with simple poly/greenhouses before full modular ceramic.
+- reclaim all water through awg and irrigation
+
 ## Phased Rollout Plan
 
 A big concern is to be self financially independent and off government grants as quickly as possible.
