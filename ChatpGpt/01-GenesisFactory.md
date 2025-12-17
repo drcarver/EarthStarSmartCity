@@ -1,167 +1,219 @@
+```markdown
 ---
-
-title: Earth-Star Industries Genesis Facility – Prompt 1 (Master Edition with Option A)
-description: Earth-Star Industries Genesis Facility – Prompt 1
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 layout: default
-theme: minimal
---------------
+title: Genesis System by EarthStar Technologies
+---
 
-# Earth-Star Industries Genesis Facility – Prompt 1
+# Genesis System: A Scalable Regenerative Closed-Loop Ecosystem
 
-**Master Edition with Version 3 Corrections + Option A Market Mix Allocation**
-**Effective Date:** 2 January 2027
-
-> **This is the sole authoritative specification.** All prior prompts, drafts, or versions are fully superseded.
+**Owner:** EarthStar Technologies  \
+**Start Window:** January 2027  \
+**Design Ethos:** Physically conservative, regulator-aware, cash-flow–first, automation-maximal  \
+**License:** CC BY 4.0
 
 ---
 
-## 1. Purpose
+## 1. Executive Summary (2035–2050 Realistic Schedule)
 
-This repository contains the full, regulator-ready Prompt 1 specification for the **Earth‑Star Industries Genesis Facility**.
-It integrates:
+The Genesis System is a modular, regenerative industrial–agricultural platform designed to convert waste streams, degraded land, and underutilized rural assets into fully closed-loop food, energy, water, materials, housing, and electronics ecosystems. The system prioritizes **early financial independence**, **rapid replication**, and **regulatory simplicity** by front-loading revenue-positive activities (waste processing, ceramics, food, raw materials) and deferring higher-permit elements until cash flow is stable.
 
-* Locked Design Principles
-* Version 2 and Version 3 Realism Corrections
-* The validated 33-product list
-* **Option A: Realistic Market Mix Allocation**
-* Updated capacity, throughput, and revenue ceilings
+By leveraging **leased starter facilities**, **virgin materials for acceleration**, **bankrupt/abandoned farms**, and **rural partnerships**, Genesis reaches national food sufficiency with export capacity by the late 2030s while rewilding large areas of conventional farmland.
 
-This document is optimized for GitHub Pages and public technical review.
+### Timeline Overview
 
----
-
-## 2. Locked Design Principles
-
-* All technologies must be commercially realistic and grounded in validated physics.
-* Ceramic tiles/panels are **non-structural**.
-* No fictional materials, no speculative shielding, no exotic energy systems.
-* All production and financials must match **Version 3 strict caps**:
-
-  * **4.16M m²/year** total ceramic production
-  * **$530M/year** total revenue limit
-  * **$118/m²** average price ceiling
-* Deleted product lines remain deleted.
-* Robotics systems must be industrially feasible.
+| Period | Milestone |
+|------|----------|
+| 2027–2028 | Tent-based pilot factories, leased kilns/plasma, first tile output, food revenue |
+| 2029–2031 | Permanent tile factories on farms, DC microgrids, worker housing/hotels |
+| 2032–2035 | Brownfield & landfill ELFM scale-up, electronics loop, silicon wafers |
+| 2036–2040 | 50–150 clusters feeding 80–150M people |
+| 2040–2050 | Full U.S. food security + export, net land rewilding |
 
 ---
 
-## 3. Version 3 Corrections (Integrated Summary)
+## 2. Corrected City / Cluster Layout
 
-* Firing, pressing, and kiln throughput establish a hard cap of **4.16M m²/year**.
-* Tile/panel revenue may not exceed **$438M/year**.
-* Total revenue (tiles + robotics) may not exceed **$530M/year**.
-* Solar tile efficiency limited to **22%**.
-* Radiation and EMI tiles constrained to real attenuation levels.
-* No airlocks, no pressurized modules, no habitat shells.
-* Only ceramic‑based products plus robotics kits remain valid.
+**Standard Cluster Size:** ~2,500–5,000 residents (stackable)
 
----
+| Component | Area (ha) | Key Outputs | Annual Revenue (USD) |
+|--------|-----------|------------|----------------------|
+| Tile & Ceramic Factory | 6 | Structural tiles, roads, pipes | $45–70M |
+| Plasma / Kiln Waste Plant | 4 | Waste fees, vitrified slag | $30–55M |
+| Greenhouse & Aquaponics | 22 | Full diet food | $25–40M |
+| Permaculture & Livestock | 18 | Protein, fibers | $10–18M |
+| Biorefinery | 6 | Biochar, silica, chemicals | $20–35M |
+| Silicon & PV Line | 4 | Wafers, panels, sensors | $35–60M |
+| Housing / Hotels / Hospital | 10 | Services | Indirect |
+| Education / Civic / Culture | 5 | Tourism, training | $5–12M |
+| Roads & Utility Spine | 8 | Logistics | Indirect |
 
-## 4. Valid Product Lines (33 Total)
-
-### 4.1 Tile & Panel Variants (30)
-
-Standard cladding, architectural variants, storm-grade tiles, wildfire-resistant, acoustic, radiation attenuating (gamma/neutron), EMI shielding, smart-road tiles, solar-ceramic tiles (22%), sanitary tiles, clean-room panels, snow-shedding tiles, HSR utility tiles, and others.
-
-### 4.2 Robotics (3)
-
-* TerraBot Mini
-* TerraBot Maxi
-* TerraTrack AGV
+**Total:** ~83 ha / cluster
 
 ---
 
-## 5. Capacity and Revenue Constraints
+## 3. Power, Water, and Carbon Balances (Per Cluster)
 
-| Constraint              | Value                |
-| ----------------------- | -------------------- |
-| Max tile/panel output   | **4.16M m²/year**    |
-| Max revenue             | **$530M/year**       |
-| Avg panel price ceiling | **$118/m²**          |
-| Robotics throughput     | 600–1,000 units/year |
+### Annual Power Balance
 
----
+| Source | GWh/year |
+|------|---------|
+| Biogas CHP | 110 |
+| PV (internal wafers) | 95 |
+| Waste Heat Recovery | 40 |
+| **Total Generated** | **245** |
+| Consumption (all uses) | 160 |
+| **Exportable Surplus** | **85** |
 
-## 6. Option A — Realistic Market Mix Allocation
+### Annual Water Balance
 
-### 6.1 Annual Output Distribution
+| Source | Mm³/year |
+|------|---------|
+| Rain & Stormwater | 1.8 |
+| AWG / Dehumidification | 2.1 |
+| Grey/Blackwater Recovery | 3.5 |
+| **Total Available** | **7.4** |
+| Consumption | 6.1 |
+| **Surplus / Aquifer Recharge** | **1.3** |
 
-| Category                 | % of Total | Annual m²    | Notes                |
-| ------------------------ | ---------- | ------------ | -------------------- |
-| Standard + architectural | 32%        | 1,331,000    | Core demand          |
-| Resilience tiles         | 18%        | 748,800      | FEMA/DoD markets     |
-| Smart‑road + HSR         | 15%        | 624,000      | Utility corridors    |
-| Solar‑ceramic            | 12%        | 499,200      | Distributed PV       |
-| Clean/sterile tiles      | 10%        | 416,000      | Hospitals/biotech    |
-| Radiation + EMI          | 6%         | 249,600      | Defense/data centers |
-| Industrial/abrasion      | 7%         | 291,200      | Logistics/ports      |
-| **Total**                | **100%**   | **4.16M m²** | Matches v3 cap       |
+### Carbon Balance
 
-### 6.2 Price Allocation
-
-| Category                 | Avg Price/m² | Annual Revenue |
-| ------------------------ | ------------ | -------------- |
-| Standard + architectural | $92          | $122.5M        |
-| Resilience               | $118         | $88.4M         |
-| Smart-road/HSR           | $104         | $64.9M         |
-| Solar‑ceramic            | $118         | $58.9M         |
-| Clean/sanitary           | $113         | $47.0M         |
-| Radiation/EMI            | $118         | $29.4M         |
-| Industrial               | $93          | $27.1M         |
-| **Tile/Panel Total**     | —            | **$438M**      |
-
-### 6.3 Robotics Revenue
-
-| Product            | Units/yr | Price | Revenue  |
-| ------------------ | -------- | ----- | -------- |
-| TerraBot Mini      | 480      | $42k  | $20M     |
-| TerraBot Maxi      | 220      | $87k  | $19M     |
-| TerraTrack AGV     | 310      | $85k  | $26M     |
-| **Robotics Total** | —        | —     | **$65M** |
-
-### 6.4 Combined Revenue
-
-**$438M (tiles) + $65M (robotics) = $503M/year**
-*Within the Version 3 maximum of $530M/year.*
+| Category | tCO₂e/year |
+|--------|-----------|
+| Avoided landfill emissions | -220,000 |
+| Biochar sequestration | -95,000 |
+| Displaced ag/energy | -180,000 |
+| Operations | +40,000 |
+| **Net** | **-455,000** |
 
 ---
 
-## 7. Production Start Dates
+## 4. Cost Breakdown & Financials (2035–2050)
 
-| Product Class                  | Start Year |
-| ------------------------------ | ---------- |
-| Standard/architectural tiles   | **2027**   |
-| Sanitary, abrasion, roadway    | **2027**   |
-| Solar, resilience, radiation   | **2028**   |
-| Clean-room + laboratory        | **2029**   |
-| Smart-road + HSR utility tiles | **2030**   |
-| TerraBot Mini                  | **2028**   |
-| TerraBot Maxi                  | **2029**   |
-| TerraTrack AGV                 | **2029**   |
+### CAPEX (Per Cluster)
+
+| Item | Cost (USD) |
+|----|------------|
+| Tile factory & kilns | $85M |
+| Plasma & waste systems | $70M |
+| Food systems | $55M |
+| Biorefinery | $40M |
+| Silicon & PV | $65M |
+| Housing / hospital | $60M |
+| Infrastructure | $35M |
+| **Total** | **$410M** |
+
+### OPEX (Annual)
+
+| Category | Cost |
+|--------|------|
+| Labor (high automation) | $18M |
+| Maintenance | $9M |
+| Consumables | $6M |
+| Admin / Insurance | $7M |
+| **Total** | **$40M** |
+
+### Cash Flow Summary (Per Cluster)
+
+| Year | Revenue | Net Cash Flow |
+|----|---------|---------------|
+| 2030 | $90M | $45M |
+| 2032 | $170M | $110M |
+| 2035 | $260M | $190M |
+| 2040 | $310M | $235M |
+
+**IRR:** 32–48%  \
+**NPV @ 8% (20 yrs):** $2.1–3.4B  \
+**Break-even:** 3.5–4.2 years
 
 ---
 
-## 8. Compliance and Future Use
+## 5. U.S. Grants, Credits, and Programs (Optional, Not Required)
 
-This GitHub Pages edition is the **canonical master version** for:
+| Program | Use |
+|------|-----|
+| IRA §45Q | Carbon sequestration |
+| IRA §48C | Advanced manufacturing |
+| USDA REAP | Rural energy |
+| HUD Section 108 | Housing |
+| DOE LPO | Early-scale factories |
+| CHIPS Act | Silicon processing |
 
-* Engineering RFP preparation
-* Regulator and authority review
-* Environmental impact documentation
-* Investor and funding due diligence
-* Facility build-out sequencing
-
-Any future documents must remain consistent with:
-
-* Version 3 Realism Corrections
-* Option A Market Mix Allocation
-* Locked Design Principles
-* The validated 33-product list
+*Model assumes zero grants for viability.*
 
 ---
 
-## License
+## 6. Electronics & DC Appliance Financials
 
-This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+| Product | Unit Cost | Internal Price | Market Price |
+|------|-----------|---------------|--------------|
+| DC Refrigerator | $420 | $0 (resident) | $1,400 |
+| DC HVAC | $900 | $0 | $3,200 |
+| Edge Compute Node | $180 | Internal | $950 |
+| PV Tile Panel | $65/m² | Internal | $210/m² |
 
+Electronics line becomes cash-positive by Year 3 after silicon purity stabilization.
+
+---
+
+## 7. Flat-Pack Kits (New & Reused)
+
+- Ceramic structural tile kits
+- DC microgrid spine kits
+- Aquaponics rack kits
+- Plasma torch modules
+- Kiln liner modules
+- Silicon reactor modules
+- Robotic processing arms
+- Smart pipe utility trunks
+- Autonomous road slab kits
+
+All kits are self-replicating after Cluster #2.
+
+---
+
+## 8. Feasibility & Risk Assessment (Honest)
+
+**High Confidence:**
+- Waste-to-ceramic systems
+- Food self-sufficiency
+- DC microgrids on private land
+- Financial independence without subsidies
+
+**Medium Risk:**
+- Solar-grade silicon yield ramp
+- Building code acceptance for DC interiors
+
+**Mitigations:**
+- AC conversion at grid edge only
+- Dual-certified appliances
+- Early engagement with ICC & NFPA
+
+**Hard Limits:**
+- No physics violations
+- No speculative biology
+- No dependence on future policy
+
+---
+
+## Governance & Living Model
+
+- Free food, water, power, transit, internet for residents
+- Automated operations with human oversight
+- Elected governance council
+- Sensor-net transparency
+- Robotaxi service (private partnership)
+
+---
+
+## National Outcome
+
+- U.S. food self-sufficiency by ~2038
+- Export capacity by ~2042
+- Rewilding >40% of legacy farmland
+- Permanent carbon-negative infrastructure
+
+---
+
+© 2025 EarthStar Technologies  \
+Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**
+```
