@@ -77,7 +77,12 @@ All food, water and power are available for free o residents.  Inclde high speed
 
 ## Phased Rollout Plan
 
-A big concern is to be self financially independent and off government grants as quickly as possible.  tweak the rollout to get a faster imlemetation.  with our farm epasion there should be no reason to push back the start of th eproject wo 2035.  the brownsfield nd frms epnsion can be done in parallel
+A big concern is to be self financially independent and off government grants as quickly as possible.
+
+**Accelerated Path Forward**
+- **Short-term (2026–2034)** — Focus on farm-based pilots using virgin materials, licensed torches/kilns, and low-permit waste streams to bootstrap tile factories, housing, and basic food production.
+- **Mid-term (2035–2045)** — Transition to brownfield/landfill sites as tech matures and permits align; achieve positive cash flow and early national presence.
+- This honest timeline balances ambition with feasibility, avoiding over-optimism on unproven elements while prioritizing financial independence.
 
 **Phase 0: Preparation**  
 Secure closed landfill/brownfield sites; initiate ELFM and waste revenue; build pilot factory.
