@@ -81,6 +81,7 @@ All food, water and power are available for free o residents.  Inclde high speed
 - Enhances diet diversity, rice husk ash for silicon, carbon negativity (soil sequestration).
 - Bootstrapping: Start on farms with simple poly/greenhouses before full modular ceramic.
 - reclaim all water through awg and irrigation
+- Fla and hemp for clothing and linen
 
 ## Phased Rollout Plan
 
