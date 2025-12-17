@@ -9,6 +9,19 @@ Earth-Star Industries elects to forgo USDA Climate-Smart Commodities, REAP, and 
 Pursue targeted JV/partnerships or acquisitions of mid-tier players (e.g., Seven Refractories' U.S./Europe ops, acquired by RHI in Apr 2023 for $110M revenue base, or similar assets from Chosun/Shinaga and integrate them into terrafactories to produce all kiln parts and kilns in house.  Includes sensors in all of this and provide reporting back to 
 our comploance portals.
 
+## Key Products and Outputs
+
+### 1. Mini fabs (Core Infrastructure)
+- As autmated as possible with telepresenes as needed.  complete lights out.
+- Produce our edge computers.
+- build our robots combining mini fabs to get memory and compute while 3d printing bodies
+- produce complete lines of elecronic goods and services
+- With these possibly placed on local farms we could even et the buy local thing
+- We could recycle our own tech as needed.  offer free replacements or high value trade in.  Use this as a method to produce the latest models and recycle old ones as tech improves.
+- fabs built with our tiles and ceramics are easier to upgrade
+- Since there are older technologies can we build as much of them in house including semiconductor equipment, printes robots etc
+- Use RHA silcon as much as possible
+
 ---
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Earth-Star Industries © 2025*
 
