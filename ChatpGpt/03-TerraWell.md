@@ -140,4 +140,3 @@ Disaster protocols prioritize stabilization, medication continuity, and food acc
 
 © 2025 Earth-Star Industries  \
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**
-```
