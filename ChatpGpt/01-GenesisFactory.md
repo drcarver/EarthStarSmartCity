@@ -212,4 +212,3 @@ All kits are self-replicating after Cluster #2.
 
 © 2025 EarthStar Technologies  \
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**
-```
