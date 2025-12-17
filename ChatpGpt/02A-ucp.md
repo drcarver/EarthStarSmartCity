@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: default
 title: Earth‑Star Unified Compliance Portal (UCP)
@@ -212,4 +211,3 @@ UCP turns compliance from a cost center into a **strategic asset**.
 
 © 2025 Earth‑Star Industries  \
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**
-```
