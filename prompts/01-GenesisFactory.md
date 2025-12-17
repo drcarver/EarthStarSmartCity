@@ -56,12 +56,23 @@ All food, water and power are available for free o residents.  Inclde high speed
 - Solar-grade silicon wafers (SoG-Si, 99.9999% purity) from rice husk ash for on-site PV panels and embedded sensors.
 - Self-sufficient electronics loop closing energy and monitoring needs.
 - 
-### 5. Grey and Blackwaer processing
-= all grey and bblackwater should be priceesed to potable water wih residue converted to base components and what is left burned with waste energy for ash for ceramics
+### 5. Grey and Blackwater processing
+= all grey and blackwater should be priceesed to potable water wih residue converted to base components and what is left burned with waste energy for ash for ceramics
 - Solar-grade silicon wafers (SoG-Si, 99.9999% purity) from rice husk ash for on-site PV panels and embedded sensors.
 - Self-sufficient electronics loop closing energy and monitoring needs.
 
-### 6. Smart Infrastructure and Cultural Add-Ons
+### 6. Telepresence and AI
+- Relieve some of the traing questions by designing so we can use telepresence as much as possible from trained operators and automate the rest
+- This is a complicated hightly interactive network, so we will use AI as much as posible to manage the technolg stack and coordinte between nodes
+- Add aditional sensrs if needed to support this.  Make sure we have redundant sensors so we can detect sensor failures
+- Overtime the AI will get smarter and can make suggestions for changes we can implement into new tiles that can snapin replace existing tiles to avoid obselense
+- The AI should be able to use the telepresence instead of a human for oversight and fiing issues locally
+- The sensors + AI sure be designed to address compliance issues across al standards and agencies
+- This cpability should expand as our network does so the AI can help manage the compleity of the system
+- Implement the highest levels of cybersecurity overtime so we cn avoid malicious attacks
+- Use digital twins to simulate the envronment to test enhncements and possible failure scenarios
+  
+### 7. Smart Infrastructure and Cultural Add-Ons
 - DC smart grid, piezo/solar roads, experiential tourism, workshops, and immersive stays.
 
 ## Phased Rollout Plan
