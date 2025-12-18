@@ -148,6 +148,61 @@ Platforms for ingestion, analytics, visualization, and edge processing:
 - **Edge**: EdgeX Foundry (local processing); supports IEEE 1451/standards.
 
 This sensor ecosystem transforms the Network into a self-learning platform, continuously optimizing performance while establishing leadership in regenerative standards.
+
+---
+
+### Enhancements to the Genesis System
+
+<div style="height: 400px; overflow-y: scroll; border: 1px solid #ccc; padding: 15px; background: #f9f9f9;">
+
+#### 1. Viability-Optimized Rollout & Financials
+- Extended pilots and stronger early revenue (byproducts, silica, carbon credits).
+- Selective use of IRA/CHIPS/USDA/EPA incentives without dependency.
+- Expanded rewilding for verified carbon credits.
+- Revised hub layout: Increased greenhouse/permaculture/restoration areas for higher margins.
+- Updated balances: Power net +90–135 GWh, Water +4–6M m³, Carbon -20 Mt CO₂e per hub.
+- Enhanced financials: Lower CAPEX, higher IRR (40–55%), earlier break-even.
+
+#### 2. Multifunctional Glazing Panels (Greenhouses/Windows)
+- Produced in-house from RHA-derived soda-lime glass or glass-ceramics.
+- Integrated features:
+  - Semi-transparent BIPV (10–30% transmittance) for additional power generation.
+  - Embedded sensors (PAR, thermal, humidity, multispectral, strain, soiling, condensation, UV/IR/VOC, snow/ice).
+  - Rain/stormwater/melted snow capture via slopes/gutters → smart ceramic pipes.
+  - AWG (active/passive condensers) on undersides.
+  - Copper Faraday mesh for EMP/RFI protection.
+  - Copper resistive traces for snow/ice heating (AI-triggered, DC-powered).
+- All power feeds DC smart grid; excess charges batteries or exports.
+
+#### 3. Light Pollution Mitigation
+- Automated blackout/retractable curtains (hemp/flax textiles) for greenhouses.
+- Full-cutoff, shielded, warm-CCT external DC LEDs with motion/astronomical timers.
+- Network-wide sky quality/lux sensors for compliance.
+
+#### 4. Astronomy & Dark Sky Initiatives
+- Robotic/AI-controlled telescopes (0.8–2m aperture) in ceramic-tile domes/roll-offs.
+- Dual Astronomy Kits:
+  - Grinding variant: Raw RHA glass blank + tools for community mirror-making (education/tourism).
+  - Quick-assembly variant: Pre-ground/figured mirror from central labs.
+- Solar-powered (BIPV on domes or dedicated panels); grid-connected or off-grid with batteries.
+- Supporting sensors: All-sky cameras, SQM, weather stations.
+- Revenue from astrotourism, workshops, Dark Sky certification.
+
+#### 5. Citizen Science Initiatives
+- **Biodiversity Monitoring**: Phone/app logs + automated bio-sensors/multispectral for species tracking in rewilding/permaculture.
+- **Wildlife Camera Trapping & Acoustic Monitoring**: Self-produced traps/recorders; AI species ID; live feeds for tourism.
+- **Phenology & Climate Observation**: Seasonal plant/animal tracking; refines crop/AI models.
+- **Water/Air/Soil Quality Monitoring**: Portable/fixed kits tied to closure loops.
+- **Regenerative Agriculture Trials**: Community crop variety testing for optimization.
+- **Light Pollution & Sky Quality**: Extended Globe at Night with SQM network.
+
+#### 6. Cost & Revenue Impact of Recent Changes
+- Added CAPEX per hub: ~$100K–$300K (negligible vs total).
+- Added OPEX: Minimal (~$5K–$10K/year).
+- Revenue uplift: +$300K–$800K/hub/year from enhanced tourism (astrotourism, workshops, certifications); network-wide potential $100M–$500M+ annually.
+
+These enhancements increase resilience, data moat, tourism appeal, and financial independence while staying fully closed-loop and waste-derived.
+
 ---
 
 ## Phased Rollout Plan
