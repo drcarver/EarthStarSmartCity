@@ -79,6 +79,47 @@ Self-funded; high margins (60–80%) from closure/free energy.
 - **Political (7/10)**: Farmer focus defuses backlash; global smallholder strategy builds alliances.
 - **Key Risks/Safeguards**: Adoption resistance—mitigated by pilots/incentives; scalability—via modular kits. Overall: Highly feasible long-term (7.5/10)—transformative with disciplined execution.
 
+# Genesis Network Master Plan: Viability Enhancements (Post-Prompt 4 Updates – December 2025)
+
+## Infrastructure Recycling & Replacement Strategy
+- **Core Principle**: Aggressively recycle demolition materials (concrete, asphalt, steel, sediments) via mobile crushers/plasma vitrification → feed directly into sustainable concrete (RCA primary) and Genesis tile production.
+- **Sustainable Concrete Adoption**:
+  - Bases/sub-bases: Recycled Concrete Aggregate (RCA) + low-carbon binders (slag, fly ash, biochar from farm waste).
+  - 20–50%+ CO₂ reduction; comparable strength; lower costs long-term.
+  - Surfaces: Hybrid with Genesis ceramic tile cladding (smart features retained: piezo/solar, permeable, heating, sensors).
+- **Full Replacement Where Feasible**: Local roads, sidewalks, green spaces → 100% permeable/smart tiles.
+
+## Dam Removal & River Restoration
+- **Selective Removal**: Target obsolete/non-essential dams (focus small/low-head; preserve critical hydro).
+- **Recycling**: Concrete → RCA/tiles; steel → TerraFab; sediments → biorefinery nutrients/biochar.
+- **Post-Removal Enhancements**:
+  - Wetland/floodplain restoration using modular kits (ditch plugging, recontouring, native planting).
+  - Fisheries Integration: Use nearby Genesis farms for native fingerling hatcheries/aquaculture → accelerate recolonization and freshwater remediation.
+- **New Kit**: "Dam & River Restoration Module" (demolition tools, sediment processing, aquaculture tanks).
+
+## Road & Highway Upgrades
+- **Hybrid Design**: Concrete/RCA bases + tile cladding; full tiles on lower-load sections.
+- **Features**: Embedded power/water conduits; piezo/solar generation; resistive heating (AI-triggered for ice/snow); permeable stormwater capture.
+- **Rest Stops**: Replace aging facilities with off-grid modular tile kits (solar/biogas, waste closure, luxury amenities, TerraWell dispensers).
+- **Bidding Strategy**: Contract-based (municipal/DOT/FHWA); use funds + hub revenues.
+
+## Ports & Maritime Extensions
+- **Port Upgrades**: Docks, terminals, pavements → tile cladding/kits; off-grid terminals; waste/sludge processing.
+- **Cargo Ships**: Non-structural (decks, interiors, containers) → full tiles; hybrid hull cladding for corrosion/drag reduction; small vessels (barges/ferries) higher integration.
+- **Pathways**: PIDP/MARAD grants; P3 concessions; start coastal hubs.
+
+## Cost-Benefit Highlights (Per Mature Hub)
+- **Sustainable Concrete/RCA**: 15–25% CAPEX reduction; ROI 15–30%.
+- **Smart Cladding**: Payback 10–20 years (energy/water savings); +100–300 GWh/year power.
+- **Dam Removal**: 50–80% cheaper than repair; credits + materials savings.
+- **Overall Roads/Rest Stops**: Lifecycle savings 15–40%; +$200–500M/hub/year (export + resilience).
+
+## Wetland Restoration Techniques (Integrated Kit)
+- **Hydrology First**: Plug ditches, breach levees, recontour.
+- **Soil/Vegetation**: Amend with biochar; plant natives; control invasives.
+- **Monitoring**: Sensor arrays for adaptive management.
+- **Synergies**: Tie to dam removals, blue carbon credits, fisheries.
+
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
 1. Executive summary with realistic 2027–2050 schedule
