@@ -13,6 +13,8 @@ The Genesis Network, developed by Earth-Star Industries, is a scalable, self-rep
 
 Using adapted restoration kits for blue/green carbon ecosystems (seagrass, mangroves, corals, kelp, oyster reefs, salt marshes). The Network is strictly self-funded through bootstrapping revenues from tiles, biogas, food, industrial gases (including rare gases like neon/krypton), and kits, with no external investors. Political viability is ensured by emphasizing farmer empowerment, job creation, and rural revitalization. Environmental goals include rewilding hundreds of millions of acres, gigaton-scale carbon sequestration, and ocean/atmospheric remediation via DAC and enhanced weathering.
 
+We will coninue restoring and cleaning up all brownsfields and closed landfills.  we will also replace and recycle all seage systems.  Any additional waer can be pumped back into the waer table.  If he sight can not or will noot be used for acity it can be rewilded and the factories can be recycled or moved to a new location
+
 ## 2. Core Components Table
 
 | Component                          | Description                                                                 | U.S. Integration Role                          | Global Adaptation                              |
