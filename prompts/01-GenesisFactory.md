@@ -156,7 +156,7 @@ A big concern is to be self financially independent and off government grants as
 
 **Accelerated Path Forward**
 - **Short-term (2026–2034)** — Focus on farm-based pilots using virgin materials, licensed torches/kilns, and low-permit waste streams to bootstrap tile factories, housing, and basic food production.
-- **Mid-term (2035–2045)** — Transition to brownfield/landfill sites as tech matures and permits align; achieve positive cash flow and early national presence.
+- **Mid-term (2027–2045)** — Transition to brownfield/landfill sites as tech matures and permits align; achieve positive cash flow and early national presence.
 - This honest timeline balances ambition with feasibility, avoiding over-optimism on unproven elements while prioritizing financial independence.
 
 **Phase 0: Preparation**  
@@ -184,10 +184,10 @@ Export self-replicating kits; international adaptation.
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
-1. Executive summary with realistic 2035–2050 schedule
+1. Executive summary with realistic 2027–2050 schedule
 2. Corrected city layout table (components, areas, revenues)
 3. Annual power, water, and carbon balance tables
-4. Full cost breakdown, cash-flow 2035–2050, NPV, IRR, break-even
+4. Full cost breakdown, cash-flow 2027–2050, NPV, IRR, break-even
 5. Specific U.S. federal/state grant and credit programs (HUD, CHIPS, IRA, USDA, etc.)
 6. Detailed financials for electronics and appliances
 7. List of all new and reused flat-pack kits required
