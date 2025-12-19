@@ -1,11 +1,11 @@
 ---
 title: Earth-Star Industries Western Hemisphere Transformation Strategy
-description: The definitive, regulator-ready Prompt 6 incorporating all November 2025 technical, financial, geopolitical, legal, and physical validations. No impossible timelines, no suicidal open-sourcing, no fantasy funding.
+description: The definitive, regulator-ready Prompt 5 incorporating all November 2025 technical, financial, geopolitical, legal, and physical validations. No impossible timelines, no suicidal open-sourcing, no fantasy funding.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Prompt 6 – Earth-Star Industries Western Hemisphere Transformation Strategy 
+# Prompt 5 – Earth-Star Industries Western Hemisphere Transformation Strategy 
 **“Fortress West” Programme – Validated Master Specification (November 2025)**
 
 **Locked start date for first non-U.S. district:** 2 January 2045  
