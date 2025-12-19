@@ -156,6 +156,8 @@ These enhancements incorporate all discussions since the TerraWell FreeCare spec
 - **Revenue Prioritization**: Early byproducts/gases/food/credits; infrastructure contracts.
 - **Risk Mitigation**: Partnerships/licensing for gaps; farmer focus for politics; telehealth/volunteers in TerraWell.
 
+---
+
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
 1. Executive summary with realistic 2027–2050 schedule
