@@ -5,7 +5,109 @@ description: Prompt to generate a comprehensive, accurate, and compliant descrip
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
+---
+layout: default
+title: TerraWell FreeCare System – Executive Specification
+description: Comprehensive description of the TerraWell FreeCare System, a standalone 501(c)(3) humanitarian nonprofit providing free health services and goods.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+---
 
+# TerraWell FreeCare System: Executive Specification
+
+**TerraWell Foundation**  
+December 2025  
+
+The **TerraWell FreeCare System** is an independent 501(c)(3) nonprofit operated by the TerraWell Foundation, dedicated to providing **100% free** primary, urgent, and mental health care, along with essential medical goods, to anyone in need—no means testing, co-pays, or identification required. Facilities are standalone structures built with standard ceramic tile kits on Genesis System brownfield sites, ensuring full legal and operational separation from EarthStar Technologies.
+
+## 1. Executive Summary
+
+**Mission**: Deliver unrestricted access to basic healthcare and durable medical goods for the ill, needy, and infants, advancing health equity and humanitarian relief in the United States.
+
+**Scale Goals (2050 Targets)**:  
+- 500 fixed FreeCare centers co-located with mature Genesis hubs.  
+- 2,000 mobile units for rural/disaster response.  
+- Serve 50–100 million annual patient encounters.  
+- Distribute 10–20 million units of free medical goods yearly.
+
+**Net Financial Impact to EarthStar Technologies**:  
+Arm's-length donations of qualifying tangible inventory (primarily surplus food; selectively OTC medications and certain DME) enable enhanced deductions under IRC §170(e)(3) where applicable, potentially reducing effective tax liability by 20–35% on donated basis value. Standard FMV deductions apply to non-qualifying goods. No direct funding or services from EarthStar; all benefits derive from compliant charitable contributions.
+
+## 2. Legal & Tax Structure Description
+
+The TerraWell Foundation is a publicly supported 501(c)(3) organization with an independent board of directors unaffiliated with EarthStar Technologies. It maintains separate governance, finances, facilities, personnel, and data systems. Transactions with EarthStar occur solely at fair market value for tangible inventory donations, substantiated by independent appraisals where required (> $5,000 value).
+
+Corporate donations qualify for deductions under IRC §170:  
+- Enhanced under §170(e)(3) for apparently wholesome food and select inventory used solely for care of the ill/needy/infants (up to basis + 50% appreciation, capped at 2x basis; corporate limit 15% taxable income post-2015 enhancements).  
+- Standard FMV (or basis) for OTC medications and durable medical equipment, subject to substantiation rules.  
+
+No deduction for donated services, professional time, or intangibles. The Foundation accepts no public grants tied to corporate sources to preserve independence.
+
+## 3. Detailed Service Catalogue Table
+
+All services and goods are provided **100% free**.
+
+| Category                  | Specific Services/Goods                                      | Est. Annual FMV per Unit (2025) | Deduction Eligibility Notes                  |
+|---------------------------|--------------------------------------------------------------|---------------------------------|---------------------------------------------|
+| Medical Care             | Primary/urgent care visits, mental health counseling, basic diagnostics | N/A (services by paid/volunteer staff) | No corporate deduction (services prohibited) |
+| Food Assistance          | Nutritious meals/produce from surplus                        | $5–$20/meal                    | Enhanced §170(e)(3) for wholesome food      |
+| OTC Medications          | Pain relievers, antacids, allergy meds, vitamins             | $10–$50/package                | Standard FMV/basis; selective qualification |
+| Generic Drugs            | Limited non-controlled generics (e.g., basic antibiotics if compliant) | $20–$100/course               | Standard; full FDA distribution compliance  |
+| Durable Medical Equipment| Powered wheelchairs, crutches, walkers, CPAP accessories     | Wheelchair: $3,000–$8,000<br>Crutches: $50–$200<br>CPAP acc.: $200–$800 | Standard FMV/basis; §170(e)(3) if qualifying inventory |
+| Consumables              | Bandages, syringes, test strips                              | $10–$100                       | Standard FMV/basis                          |
+
+## 4. Physical Assets Table
+
+| Asset Type               | Specifications                                               | Quantity by 2050 | Est. CAPEX per Unit ($M) | Total CAPEX by 2050 ($B) |
+|--------------------------|--------------------------------------------------------------|------------------|--------------------------|--------------------------|
+| Fixed FreeCare Centers   | 5,000–10,000 sq ft modular ceramic tile buildings with clinics, pharmacies, airlocks | 500             | 5–10                    | 3–5                     |
+| Mobile Units             | Truck/trailer-based clinics with hyperspectral triage airlocks | 2,000           | 0.5–1                   | 1–2                     |
+
+Total estimated CAPEX: $4–7B, funded through general charitable revenues and operations.
+
+## 5. Rollout Timeline 2027–2075
+
+- **2027–2035**: Pilot phase – 10 fixed centers + 50 mobile units; establish compliance protocols.  
+- **2036–2045**: Expansion – 100 fixed + 500 mobile; integrate disaster response.  
+- **2046–2060**: National scale – 300 fixed + 1,200 mobile.  
+- **2061–2075**: Maturity – Reach 500 fixed + 2,000 mobile; full integration with national needs.
+
+## 6. Mobile Unit Detailed Specifications and Disaster Response Protocols
+
+**Specifications**: 40–53 ft trailers with ceramic tile interiors, hyperspectral screening airlocks for triage/security, solar/battery backup, telehealth suites, pharmacy storage, and basic lab/imaging.
+
+**Disaster Protocols**:  
+- Rapid deployment within 48 hours via pre-positioned fleets.  
+- Coordination with FEMA/state agencies (non-governmental role).  
+- Priority triage for acute needs; distribution of emergency goods.  
+- Post-event continuity care for 30–90 days.
+
+## 7. Political & Reputational Risk Mitigation Analysis
+
+**Risks**: Perceived corporate influence, regulatory scrutiny of donations, or political shifts in tax policy.  
+**Mitigations**: Strict independence documentation, annual third-party audits, transparent IRS Form 990 filings, diversified funding, and bipartisan board composition. Emphasis on universal access builds broad public support.
+
+## 8. Strict Integration Rules with Genesis System / EarthStar Technologies
+
+**Explicit Prohibitions**:  
+- No shared personnel, data, or governance.  
+- No co-location within operational Genesis/TerraFab areas.  
+- No donation of services, utilities, or access rights.  
+- Donations limited to tangible goods at FMV; no preferential treatment.  
+- Separate branding and public communications.
+
+## 9. Honest Feasibility & Compliance Assessment
+
+**Strengths**: Strong humanitarian alignment; enhanced tax efficiency for food donations; modular construction accelerates deployment; universal access model maximizes impact.  
+**Risks**: FDA scrutiny for drug/OTC distribution (mitigated by strict protocols); limited enhanced deductions for non-food goods; dependence on consistent corporate inventory surplus.  
+**Required Safeguards**: Annual IRS substantiation, independent appraisals, FDA-compliant storage/distribution, robust record-keeping.  
+
+Overall feasibility: High (90%+ for core operations) with disciplined adherence to separation and regulatory boundaries.
+
+---
+
+**License**: This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+© 2025 EarthStar Technologies
 # TerraWell FreeCare System: Executive Specification Document
 
 ## 1. Executive Summary
