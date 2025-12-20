@@ -231,6 +231,32 @@ These enhancements incorporate discussions on technical resilience, change manag
 - **Technical Resilience**: System evolves proactively, maintaining cutting-edge performance for decades while minimizing downtime.
 - **Overall Feasibility Boost**: Elevates technical viability by ~10% (from prior estimates), making the Network more adaptive and future-proof than traditional infrastructure.
 
+### Key Changes and Enhancements to the Genesis System
+
+These updates incorporate all refinements discussed for improved viability, realism, and alignment with 100% MyPlate self-sufficiency goals while maintaining closed-loop principles.
+
+#### 1. Technology and Material Realism Adjustments
+- **Rice Husk Ash (RHA) Silicon**: Limited to high-purity silica byproducts, pilot/metallurgical-grade sensors, and ceramics. Solar-grade silicon wafers de-emphasized (lab/pilot only in 2025); rely on commercial PV panels for main energy production.
+- **Tile Production (Bootstrapping Phase)**: Use minimal virgin materials (clay/kaolin ~$150–$250/ton, feldspar, quartz) early (~$75K–$500K/year per hub, total $1–$5M phase). Transition rapidly to 90–95% farm wastes + ELFM slag for full toughened structural tiles. Farm-only phase produces porous/insulating variants initially.
+- **Plasma Vitrification**: Licensed torches/kilns early; phased for residues after farms.
+
+#### 2. Greenhouse and Crop Production Enhancements
+- **Standardized Tunable Multi-Spectrum LEDs**: Installed throughout all modules (high- and low-density zones). Used selectively (off/dimmed when unnecessary) for passive dominance. Enables rapid spectrum testing (red-dominant for grains, far-red for tubers) and 3–6 cycles/year for staples.
+- **Blackout Curtains Retained**: Retractable (hemp/flax textiles) for flexibility, light pollution mitigation, and maximum natural light/BIPV efficiency. No fixed opaque tiles.
+- **Staples Role Clarified**: Primarily for MyPlate calorie compliance, on-site baking/processing, and long-term conventional farming replacement—not direct profitability. Accept lower/break-even margins; subsidized by high-value crops, beverages, and byproducts.
+- **Aquaponics for Staples**: Limited—strong for high-value greens/fruits/proteins/fish. Rice viable in flooded trays; potatoes/wheat experimental. Use decoupled elements + soil/permaculture beds for staples (roots/grains).
+- **Increased Low-Density Allocation**: Expand zones for rice (flooded), potatoes/wheat/oats (soil beds), corn/sugarcane (trellised) to ensure calorie-dense MyPlate coverage (~0.03–0.05 ha/person buffer).
+
+#### 3. Self-Sufficiency and Closure Goals
+- **100% MyPlate Internal Production**: Feasible with hybrid integration, multiple cycles, animal loops (pygmy goats, chickens, fish), and AI optimization. Nutrient-dense baseline (~2,000–2,200 cal/person). Minor early supplements phased out.
+- **RHA Sufficiency**: Excess production (10–32 tons silica/hub/year vs. 10–20 tons needed)—supports tiles, byproducts, export.
+- **No Significant Imports at Maturity**: Raw materials fully internal (farm wastes + ELFM). Early virgin inputs negligible.
+
+#### 4. Financial and Phased Rollout Adjustments
+- **Farm-First Bootstrapping Emphasized**: Low-regulation sites accelerate tile factories, housing, food/biogas revenues.
+- **Revenue Prioritization**: High-margin zones (greens, fruits, beverages, tourism, biochar credits) fund staples.
+- **Overall Viability**: 90–95% for pilots by 2030; national scale 2040s–2050 with disciplined execution.
+
 These refinements ensure the Genesis Network remains agile, cost-effective, and resilient against technological obsolescence while preserving the core vision of regenerative, closed-loop scalability.
 These enhancements increase resilience, data moat, tourism appeal, and financial independence while staying fully closed-loop and waste-derived.
 
