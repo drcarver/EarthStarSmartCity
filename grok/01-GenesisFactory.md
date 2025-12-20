@@ -124,6 +124,53 @@ DC-based line produced in-house (post-2035 maturity):
 
 Early phase: Commercial off-the-shelf with transition to internal.
 
+# Genesis Network Orchards and Pastures
+
+These enhancements incorporate all discussions since the initial TerraWell specification, focusing on agrivoltaics, automation, water/energy synergies, orchard strategies, and greenhouse balance to accelerate revenue, improve resilience, and strengthen regenerative closure.
+
+### 1. Agrivoltaic Solar Arrays with Integrated Pasture Grazing
+- **Core Design**: Large 1,200 ha solar arrays elevated (4–6 m clearance) using single-axis trackers for dual-use agrivoltaics.
+- **Grazing Integration**: Rotational sheep/goat herds (data-optimized size/type) under panels for natural vegetation control, wool/meat/milk production, and manure collection.
+- **Benefits**: 80–150% land-use efficiency; cooler panels (+5–10% efficiency); reduced livestock heat stress/water needs; enhanced soil carbon.
+- **Water Synergy**: Panels as massive rainwater/stormwater harvesters (gutters + ceramic pipes); underside condensers boost passive/active AWG (+1.0–1.5 million m³/year per hub).
+
+### 2. Lights-Out Automation & Smart Features
+- **Full Automation**: Lights-out operation with AI/telepresence oversight; redundant sensors (3–5x) for soil, weather, animal vitals, and panel performance.
+- **Smart Irrigation**: Precision drip/micro-sprinklers tied to AWG/rain capture; AI-optimized for 20–40% water savings.
+- **Maintenance Bots**: In-house ceramic-bodied robots for fencing, trimming, manure collection, cleaning, and harvesting.
+- **Heated Panels**: Embedded resistive traces (AI-triggered, DC-powered) for snow/ice removal; 95%+ uptime in cold climates.
+- **Data-Driven Optimization**: Herd size/type, grazing rotations, and irrigation dynamically adjusted via data moat + digital twins.
+
+### 3. Orchard Integration & Early Maturity Strategy
+- **Silvopasture Orchards**: 30–50% of fruit/nut zones as agrivoltaic silvopasture (transplanted mature/semi-mature trees in row gaps).
+- **Transplant Priority**: Start early (2027–2035 pilots); source 8–15 year trees for near-full yields in 1–3 years post-transplant (80–95% survival with best practices).
+- **Benefits**: Front-loads fruit revenue/diversity; shade/frost protection from panels; faster MyPlate fruit compliance.
+- **Mitigations**: Over-plant 10–15%; biochar/mycorrhizal amendments; AI-monitored recovery.
+
+### 4. Greenhouse Retention & Hybrid Balance
+- **Continued Role**: Retain ~50–65 ha dedicated hybrid greenhouses per hub for short-cycle, high-density crops (greens, herbs, berries, tender fruits, off-season staples).
+- **Complementary Split**: Greenhouses = fast-turnover/high-value/protected; agrivoltaic orchards/pastures = bulk/long-cycle/regenerative.
+- **Automation**: Lights-out greenhouses with bots, LED tuning, and AWG recovery unchanged.
+- **MyPlate Impact**: Strengthened diversity/reliability; no compromises.
+
+### 5. Manure Processing Preservation
+- **Full Retention**: Anaerobic digestion + advanced separation/polishing for biogas (baseload), water recovery (70–90%), and byproducts (fertilizer, biochar).
+- **Grazing Enhancement**: Dispersed collection via bots; loop unchanged and improved by pasture scale.
+
+### 6. Selective Wind Integration
+- **Complementary Addition**: Small modular turbines (20–100 kW) on perimeters/farmer sites or sparse VAWT in arrays where winds >5–6 m/s.
+- **Benefits**: +10–20% power yield; night/winter fill; grazing compatible.
+- **Phasing**: Pilot 2030–2035; scale post-2040 with ceramic blades.
+
+### 7. Overall Viability Boosts
+- **Land/Water/Power**: +15–30% efficiency; +1–2 million m³ water/year; +10–25% export potential.
+- **Economics**: +5–10% IRR uplift from faster fruit revenue, grazing margins, and OPEX reductions.
+- **Resilience**: Better climate adaptation (shade, frost/snow protection, wind fill).
+- **MyPlate**: Enhanced fruit/protein diversity; full compliance preserved/strengthened.
+- **Timeline**: Early pilots (2027–2035) for transplants/automation; full integration post-2040.
+
+These changes elevate the Network to a more resilient, profitable, and truly hands-off regenerative model while leveraging the data moat for continuous optimization.
+
 ## 7. List of All New and Reused Flat-Pack Kits Required
 
 - Tile Factory Kit (cylindrical kiln, robotic lines)  
