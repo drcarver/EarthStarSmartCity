@@ -1,83 +1,87 @@
-# Earth-Star Sustainable Abundance
-
-| # | Document Title                                      | Focus Area                                 | Key Output / Milestone                         | Date Added   |
-|---|-----------------------------------------------------|--------------------------------------------|------------------------------------------------|--------------|
-|  1 | **[Prompt 1 – Genesis Facility](prompts/01-tilefactory.md)**                     | Waste-to-ceramic megafactory               | First factory online 2027 → 18 megafactories by 2055 | Core         |
-|  2 | **[Prompt 2 – Skyscraper Farm (Hybrid)](prompts/02-UrbanFarms.md)**           | Food & energy node (20,000 people)         | Node 1 complete 2043 → 9,300 nodes by 2095    | Core         |
-|  2 | **[Prompt 3 – Raional for Skyyscraper Farm](prompts/03-Rational.md)**           | Why will our farms work        |   | Core         |
-|  4 | **[Prompt 4 – MHUE-50k Smart City](prompts/04-SmartCity.md)**                  | 50,000-resident smart city                 | First city occupied 2041 → 7,200 cities by 2095| Core         |
-|  5 | **[Prompt 5 – National Transformation Strategy](prompts/05-nationwide.md)**    | 60-year master plan                        | Full programme cost, funding, HSR, rewilding   | Master       |
-|  6 | **[Part 6 – “Fortress West” Programme](prompts/06-global.md)**  | Global                        | Earth-Star Industries Global Transformation Strategy       | Critical     |
-|  7 | **[Part 7 – Aggressive Feasibility & Self-Funding](prompts/07-feasability.md)**  | Financial survival                         | Permanent self-funding achieved **2051**       | Critical     |
-|  8 | **[Part 8 – Complete Tile & Kit Catalogue](prompts/08-tilesandkits.md)**          | 28 ceramic products + sensor handbook      | $28.4 T/yr revenue driver by 2055              | Technical    |
-|  9 | **[Part 9 – Total Disaster Resilience Analysis](prompts/09-resilience.md)**    | Natural & man-made catastrophe survival    | Survives full nuclear war + nuclear winter     | Resilience   |
-| 10 | **[Part 10 – Top 10 Risks & Quick Wins Dashboard](prompts/10-Top10Risk.md)**   | Risk matrix + 2026–2030 actions            | 5 quick wins that make the whole project inevitable | Execution |
-| 11 | **[README](README.md)**                                       | Project overview & licence                 | One-page introduction                          | Overview     |
-| 12 | **[INDEX](INDEX.md)** ← you are here                         | Master navigation                          | This file                                      | Navigation   |
-
-### Recommended Reading Order
-1. README.md → 30-second overview  
-2. Part 10 → Top 10 risks & immediate actions  
-3. Prompt 1 → The Genesis Facility (the single source of truth)  
-4. Part 8 → Tile catalogue (the economic engine)  
-5. Part 7 → How we become unkillable by 2051  
-6. Prompt 6 → The full 60-year vision  
-7. Part 9 → Why nothing short of planetary extinction stops us  
-
-### Grok Responsess
-Explore the Grok responses for the Earth-Star Sustainable Smart City:
-
-1. [Tile factory](grok/01-tilefactory.md)  
-   A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
-2. [Earth-Star Sustainable Farm](grok/02-UrbanFarms.md)  
-   15-floor tower producing 36,800 tons/year food and non-food products.
-3. [Earth-Star Sustainable Farm Rational](grok/03-Rational.md)  
-   Rationale for why this vertical farm will scced vs. others.
-4. [Smart City Ecosystem](grok/04-SmartCity.md) 
-   Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-5. [Nationwide](grok/05-nationwide.md) 
-   Expand the cities to nationwide and environmnet cleanup.
-6. [Undersea Cities](grok/06-undersea.md) 
-   Expand the cities uder the sea to provide for research and environmnet cleanup.
-7. [Floating Cites](grok/07-floatingCity.md) 
-   Earthstar cities on the ocean
-8. [Tiles and kits catalog](grok/08-tilesandkits.md) 
-   Catalog of tiles and kits sed n the system.
-9. [Feasibility and Viability](grok/09-feasability.md) 
-   Technical, economic, and regulatory analysis, with 90% feasibility.
-10. [Reslence](grok/10-resilience.md) 
-    City resilence to man made and natural disaters.
-
-### ChatGpt Responsess
-Explore the ChatGpt responses for the Earth-Star Sustainable Smart City:
-
-1. [Tile factory](ChatpGpt/01-tilefactory.md)  
-   A visionary, self-sufficient high-rise building embodying sustainable abundance through AI, robotics, and closed-loop systems.
-2. [Earth-Star Sustainable Farm](ChatpGpt/02-UrbanFarms.md)  
-   15-floor tower producing 36,800 tons/year food and non-food products.
-3. [Earth-Star Sustainable Farm Raational](ChatpGpt/03-Rational.md)  
-   Rationale for why this vertical farm will scced vs. others.
-4. [Smart City Ecosystem](ChatpGpt/04-SmartCity.md) 
-   Comprehensive 500 ha city with homes, hospital, school, mall, and more.
-5. [Nationwide](ChatpGpt/05-nationwide.md) 
-   Expand the cities to nationwide and environmnet cleanup.
-6. [Undersea Cities](ChatpGpt/06-undersea.md) 
-   Expand the cities uder the sea to provide for research and environmnet cleanup.
-7. [Floating Cites](ChatpGpt/07-FloatngCity.md) 
-   Earthstar cities on the ocean
-8. [Tiles and kits catalog](ChatpGpt/08-tilesandkits.md) 
-   Catalog of tiles and kits sed n the system.
-9. [Feasibility and Viability](ChatpGpt/09-feasability.md) 
-   Technical, economic, and regulatory analysis, with 90% feasibility.
-10. [Reslence](ChatpGpt/10-resilience.md) 
-    City resilence to man made and natural disaters.
-
-## Get Involved
-The Earth-Star project is open-source, inviting collaboration from innovators, investors, and policymakers. Visit the [GitHub repository](https://github.com/drcarver/EarthStarSmartCity) to contribute, or contact us via [X](https://x.com/) for partnership opportunities.
-
 ---
-All documents are licensed under **CC BY 4.0** – share, adapt, and build freely with attribution.
+layout: default
+title: Genesis Network by Earth-Star Industries
+description: Master Plan for the regenerative, closed-loop Genesis Network ecosystem, integrating food, energy, materials, manufacturing, healthcare, and global smallholder empowerment.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+---
 
-© 2025 Earth-Star IndustriesISO, NATO, military, and building standards, positioning the US as an AI superpower through resilient, zero-waste infrastructure.
+# Genesis Network Master Plan
 
-**Last Updated**: September 7, 2025
+## Overview
+
+The **Genesis Network** is a scalable, self-replicating regenerative ecosystem developed by **Earth-Star Industries**. It transforms degraded lands (brownfields, closed landfills, bankrupt farms) into productive, closed-loop hubs that internalize food, energy, water, ceramics, electronics, pharmaceuticals, infrastructure, and services while achieving near-100% resource closure, gigaton-scale carbon sequestration, and a mining-minimal circular economy through waste-derived ceramics, plasma processing, and aggressive recycling.
+
+The Network combines corporate hubs with empowered small family farmer and global smallholder partnerships, TerraFab automated manufacturing, and the independent TerraWell FreeCare nonprofit. Self-funded via high-margin revenues, it prioritizes political viability through rural revitalization and farmer independence.
+
+## Key Features
+
+- **Closed-Loop Production**: Food, energy, water, materials from waste streams; ceramics-dominant infrastructure.
+- **TerraFab Integration**: Lights-out mini-fabs and full facilities for sensors, chips, robotics, medical devices, and generics.
+- **TerraWell FreeCare**: Separate 501(c)(3) providing 100% free healthcare and goods via donated surplus.
+- **Farmer/Smallholder Empowerment**: Bridge loans, starter kits, robotics, housing, and market access.
+- **Environmental Restoration**: Rewilding, blue/green carbon kits, dam removals, river/wetland recovery.
+- **Infrastructure Modernization**: Recycling demolition waste into RCA concrete + smart ceramic cladding; upgrades for roads, ports, rest stops.
+
+## Project Timeline (2027–2050)
+
+- **2027–2035**: Extended pilots (30–150 hubs + 10,000 partners); achieve positive cash flow.
+- **2036–2045**: Acceleration (300–1,500 hubs + 50,000–200,000 partners); manufacturing and infrastructure scaling.
+- **2046–2050**: Consolidation (1,500–4,000 hubs); serve 150–250M; begin heavy industry transition.
+
+Full U.S. internalization targeted post-2060; global expansion via smallholder kits.
+
+## Hub Layout & Economics (Mature Hub)
+
+| Component                          | Area (ha) | Revenue ($M/hub/year) |
+|------------------------------------|-----------|-----------------------|
+| Greenhouses/Aquaponics             | 80       | 22–38                |
+| Agrivoltaics/Orchards/Pastures     | 1,200    | 28–50                |
+| Permaculture/Restoration           | 900–1,200| 12–30                |
+| Biorefinery/Gases                  | 70       | 18–35                |
+| Tile Factories/Recycling           | 80       | 12–25                |
+| TerraFab Clusters                  | 60–250   | 35–90                |
+| TerraWell Center                   | 10–15    | Indirect benefits    |
+| Housing/Infrastructure             | 250      | 12–30                |
+| Farmer Zones                       | Variable | 8–20                 |
+| **Total**                          | ~3,500   | **147–318**          |
+
+**Annual Balances (Mature Hub)**:
+- **Power**: +300–330 GWh net export
+- **Water**: +7–12 million m³ net
+- **Carbon**: -35–43 Mt CO₂e net
+
+## Financial Projections
+
+- **CAPEX per Hub**: $1.5–2.8B (phased; 35–55% offset by incentives)
+- **Revenue per Hub**: $147–318M/year
+- **Aggregate Cash Flow**: Break-even ~2049; NPV $80–150B; IRR 26–45%
+
+## Core Principles & Viability
+
+The Network is designed for maximum feasibility:
+- Self-funded bootstrapping with early high-margin revenues (tiles, gases, food, credits).
+- Political alignment via farmer empowerment and rural jobs.
+- Technical de-risking through proven components, partnerships, and data-driven iteration.
+- Strict compliance (TerraWell separation, NEC-private grids, FDA/DEA licensing).
+
+**Feasibility Rating**: 90–95% for pilots by 2035; 80–90% national consolidation by 2050.
+
+## Prompts for AI Chat Systems (Grok/Chatgpt)
+
+- [Genesis](prompts/01-GenesisFactory.md) – Genesis System Executive Summary and Project Plan
+- [TerraFab](prompts/02-TerraFab.md) – Advanced Sustainable Semiconductor and Medical Manufacturing Extension
+- [TerraWell FreeCare Specification](prompts/03-TerraWell.md) – Independent nonprofit details.
+- [Genesis Network Master Plan](prompts/04-nationwide.md) – Genesis Network Master Plan for National Expansion.
+
+## Grok responses
+
+- [Genesis](grok/01-GenesisFactory.md) – Genesis System Executive Summary and Project Plan
+- [TerraFab](grok/02-TerraFab.md) – Advanced Sustainable Semiconductor and Medical Manufacturing Extension
+- [TerraWell FreeCare Specification](grok/03-TerraWell.md) – Independent nonprofit details.
+- [Genesis Network Master Plan](grok/04-nationwide.md) – Genesis Network Master Plan for National Expansion.
+
+## License & Copyright
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+© 2025 Earth-Star Industries
