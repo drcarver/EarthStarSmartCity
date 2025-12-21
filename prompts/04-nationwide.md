@@ -79,7 +79,7 @@ Self-funded; high margins (60–80%) from closure/free energy.
 - **Political (7/10)**: Farmer focus defuses backlash; global smallholder strategy builds alliances.
 - **Key Risks/Safeguards**: Adoption resistance—mitigated by pilots/incentives; scalability—via modular kits. Overall: Highly feasible long-term (7.5/10)—transformative with disciplined execution.
 
-# Genesis Network Master Plan: Viability Enhancements (Post-Prompt 4 Updates – December 2025)
+# Genesis Network Master Plan: Infrastructure Recycling & Replacement Strategy
 
 ## Infrastructure Recycling & Replacement Strategy
 - **Core Principle**: Aggressively recycle demolition materials (concrete, asphalt, steel, sediments) via mobile crushers/plasma vitrification → feed directly into sustainable concrete (RCA primary) and Genesis tile production.
