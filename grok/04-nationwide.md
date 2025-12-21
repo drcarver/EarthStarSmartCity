@@ -3,7 +3,7 @@ layout: default
 title: Genesis Network Master Plan by Earth-Star Industries
 ---
 
-# Genesis Network Integrated Master Plan (Viability-Enhanced - December 2025)
+# Genesis Network Integrated Master Plan
 
 ## 1. Executive Summary with Realistic 2027–2050 Schedule
 
@@ -42,12 +42,14 @@ Full U.S. internalization post-2060; global via smallholder kits.
 |-------------------------------------|------------|-------------------------|------------|-------------|
 | Agrivoltaics + Biogas + Piezo/Wind | 400–500   | All Operations          | 140–200   | +260–300   |
 
-**Water Balance (Million m³/year)**  
+**Water Balance (Million m³/year)** 
+
 | Capture/Recovery                    | Amount     | Use                     | Amount     | Net         |
 |-------------------------------------|------------|-------------------------|------------|-------------|
 | AWG/Rain/Recirculation/Panels/Farms| 12–16     | All Needs               | 6–9       | +6–10      |
 
-**Carbon Balance (Mt CO₂e/year)**  
+**Carbon Balance (Mt CO₂e/year)** 
+
 | Sequestration/Avoidance             | Amount     | Emissions               | Amount     | Net         |
 |-------------------------------------|------------|-------------------------|------------|-------------|
 | Biochar/Soil/Blue-Green/Rewilding  | -40–50    | Operations/Mining       | 10–15     | -30–35     |
@@ -60,7 +62,8 @@ Full U.S. internalization post-2060; global via smallholder kits.
 
 **Revenue per Hub:** $125–275M/year + credits/contracts.
 
-**Projected Aggregate Cash Flow ($B, For-Profit)**  
+**Projected Aggregate Cash Flow ($B, For-Profit)** 
+
 | Period      | CAPEX     | Revenue   | Net Cash Flow | Cumulative |
 |-------------|-----------|-----------|---------------|------------|
 | 2027–2034  | -15      | 5        | -10          | -10       |
