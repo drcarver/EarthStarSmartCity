@@ -33,18 +33,21 @@ National food security achievable by 2050 with disciplined execution; no over-op
 
 ## 3. Annual Power, Water, and Carbon Balance Tables (Per Mature Hub)
 
-**Power Balance (GWh/year)**  
+**Power Balance (GWh/year)** 
+
 | Production                  | Amount     | Consumption        | Amount     | Net       |
 |-----------------------------|------------|--------------------|------------|-----------|
 | Agrivoltaics + BIPV        | 150–200   | Farming/Processing | 50–70     | +90–135  |
 | Biogas + Wind              | 20–30     | Housing/Grid       | 10–20     |           |
 
-**Water Balance (Million m³/year)**  
+**Water Balance (Million m³/year)** 
+
 | Capture/Recovery            | Amount     | Use                | Amount     | Net       |
 |-----------------------------|------------|--------------------|------------|-----------|
 | AWG/Rain/Recirculation     | 8–10      | Irrigation/Processing | 4–6       | +4–6     |
 
-**Carbon Balance (Mt CO₂e/year)**  
+**Carbon Balance (Mt CO₂e/year)** 
+
 | Sequestration/Avoidance     | Amount     | Emissions          | Amount     | Net       |
 |-----------------------------|------------|--------------------|------------|-----------|
 | Biochar/Soil/Rewilding     | -25–30    | Operations         | 5–10      | -20      |
@@ -55,7 +58,8 @@ National food security achievable by 2050 with disciplined execution; no over-op
 **OPEX per Hub:** $20–50M/year (low due to closure/automation).  
 **Revenue per Hub:** $45–85M/year + credits/incentives.
 
-**Projected Cash Flow (Aggregate, $B)**  
+**Projected Cash Flow (Aggregate, $B)** 
+
 | Period      | CAPEX     | Revenue   | Net Cash Flow | Cumulative |
 |-------------|-----------|-----------|---------------|------------|
 | 2027–2030  | -2       | 0.5      | -1.5         | -1.5      |
