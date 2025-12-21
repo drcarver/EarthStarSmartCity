@@ -151,7 +151,7 @@ This sensor ecosystem transforms the Network into a self-learning platform, cont
 
 ---
 
-### Enhancements to the Genesis System
+## Multifunctional Glazing Panels
 
 #### 1. Viability-Optimized Rollout & Financials
 - Extended pilots and stronger early revenue (byproducts, silica, carbon credits).
@@ -199,9 +199,7 @@ This sensor ecosystem transforms the Network into a self-learning platform, cont
 - Added OPEX: Minimal (~$5K–$10K/year).
 - Revenue uplift: +$300K–$800K/hub/year from enhanced tourism (astrotourism, workshops, certifications); network-wide potential $100M–$500M+ annually.
 
-# Genesis Network: Key Viability Enhancements (Post-Prompt 4 Updates – December 2025)
-
-These enhancements incorporate discussions on technical resilience, change management, digital twins, ROI-driven upgrades, and bundling strategies to minimize obsolescence, reduce complexity, and maximize long-term adaptability.
+## Genesis Network: Key Viability Enhancements (Post-Prompt 4 Updates – December 2025)
 
 ### 1. Change Management Driven by Digital Twins
 - **Core Mechanism**: Digital twins serve as the central tool for proactive change management, simulating thousands of scenarios to evaluate upgrades before physical deployment.
@@ -231,9 +229,7 @@ These enhancements incorporate discussions on technical resilience, change manag
 - **Technical Resilience**: System evolves proactively, maintaining cutting-edge performance for decades while minimizing downtime.
 - **Overall Feasibility Boost**: Elevates technical viability by ~10% (from prior estimates), making the Network more adaptive and future-proof than traditional infrastructure.
 
-### Key Changes and Enhancements to the Genesis System
-
-These updates incorporate all refinements discussed for improved viability, realism, and alignment with 100% MyPlate self-sufficiency goals while maintaining closed-loop principles.
+### Greenhouse and Crop Production Enhancements
 
 #### 1. Technology and Material Realism Adjustments
 - **Rice Husk Ash (RHA) Silicon**: Limited to high-purity silica byproducts, pilot/metallurgical-grade sensors, and ceramics. Solar-grade silicon wafers de-emphasized (lab/pilot only in 2025); rely on commercial PV panels for main energy production.
@@ -257,10 +253,7 @@ These updates incorporate all refinements discussed for improved viability, real
 - **Revenue Prioritization**: High-margin zones (greens, fruits, beverages, tourism, biochar credits) fund staples.
 - **Overall Viability**: 90–95% for pilots by 2030; national scale 2040s–2050 with disciplined execution.
 
-These refinements ensure the Genesis Network remains agile, cost-effective, and resilient against technological obsolescence while preserving the core vision of regenerative, closed-loop scalability.
-These enhancements increase resilience, data moat, tourism appeal, and financial independence while staying fully closed-loop and waste-derived.
-
-# Genesis Network Orchards and Pastures
+## Orchards and Pastures
 
 These enhancements incorporate all discussions since the initial TerraWell specification, focusing on agrivoltaics, automation, water/energy synergies, orchard strategies, and greenhouse balance to accelerate revenue, improve resilience, and strengthen regenerative closure.
 
@@ -307,9 +300,9 @@ These enhancements incorporate all discussions since the initial TerraWell speci
 
 ---
 
-### Viability Enhancements & Refinements FFarm first strategy
+## Farm first strategy
 
-These updates incorporate all discussions since the initial specification, focusing on **farm-first bootstrapping**, **realistic phasing**, **grant/loan leverage**, **lower startup costs**, and **measured acceleration** while preserving the core regenerative closed-loop vision.
+These updates focus on **farm-first bootstrapping**, **realistic phasing**, **grant/loan leverage**, **lower startup costs**, and **measured acceleration** while preserving the core regenerative closed-loop vision.
 
 #### 1. Farm-First Bootstrapping Prioritization
 - **Core Strategy**: Begin with distressed/bankrupt farmland lease/purchase + commercial hybrid greenhouse (10–20 acres initially) for rapid cash flow ($1–$4M/year net within 1–2 years).
@@ -340,8 +333,6 @@ These updates incorporate all discussions since the initial specification, focus
 - **Capital Efficiency**: 5–10x lower entry; internal compounding stronger.
 - **End Timeline**: National impact 2040s–2050s unchanged; path more resilient/reliable.
 - **Farmer Partnerships**: Accelerated as revenue enables low-cost kits/loans earlier.
-
-These refinements make the Genesis Network more executable, resilient, and self-funded while maintaining the transformative closed-loop vision.
 
 ---
 
