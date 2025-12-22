@@ -402,11 +402,7 @@ Export self-replicating kits; international adaptation.
 
 ## Financial Overview
 
-**CAPEX**: $600M–$1.3B total phased; bootstrapped via waste fees/raw sales.  
-**OPEX**: $35M–$85M/year at scale (low due to extreme closure).  
-**Revenue**: $400M–$950M/year (food/beverages/ceramics + raw products + byproducts + tourism/credits).  
-**Payback**: 2–4.5 years.  
-**IRR**: 30–50%.
+Recaoculate ll costs and revenies based on data i this prompt.
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
