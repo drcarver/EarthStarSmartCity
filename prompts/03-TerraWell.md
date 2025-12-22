@@ -26,6 +26,10 @@ Generate a complete, self-contained executive specification document for the **T
 5. Enhanced corporate tax deductions claimed only for qualifying inventory under §170(e)(3) (primarily food; partial for certain medical supplies used for care of the ill/needy).  
 6. All facilities feature smart airlocks with hyperspectral screening for basic health triage and security.
 
+--
+
+Make any changes that can increase viability of the entire project as defined in this chat session include all previous prompts in the analysis. Recalculate all costs, revenues and timelines based on data in this chat.
+
 **Required Sections in Output Document**  
 1. Executive Summary with mission, scale goals (2050 targets), and net financial impact to EarthStar Technologies.  
 2. Legal & Tax Structure Description (text only – no diagrams).  
