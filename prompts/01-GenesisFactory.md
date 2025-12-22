@@ -336,6 +336,46 @@ These updates focus on **farm-first bootstrapping**, **realistic phasing**, **gr
 
 ---
 
+### Expanded Enclosed Greenhouse Coverage
+
+These enhancements incorporate all discussions, focusing on de-risking, accelerating revenue, maximizing closure, expanding aquaculture diversity, and strengthening regenerative impacts while preserving the core modular, waste-derived ceramic tile foundation.
+
+#### 1. Expanded Enclosed Greenhouse Coverage
+- **Low-Density Zones Transition**: Progressively enclose 50–70% of staples/orchards/animal areas with structural tile greenhouses (vaulted/arched roofs, multifunctional BIPV glazing).
+- **Benefits**: 5–15x staple cycles/yields; year-round production; disaster resilience (hail/flood/frost/wind); dwarf orchards and modular animal barns under cover.
+- **Power Synergy**: Larger BIPV roofs generate surplus offsetting supplemental LEDs (2–10x over demand).
+- **Phasing**: Early pilots partial (150–200 ha/hub); mature 400–600 ha enclosed.
+
+#### 2. Full Integrated Multi-Trophic Aquaculture (IMTA)
+- **Core Stack**: Decoupled RAS/aquaponics with tilapia/catfish (volume protein base) → crayfish/lobster/shrimp/salmon (premium) → mollusks (oysters/mussels/clams/scallops) → seaweed (nutrient extractive) → plants.
+- **Techniques**: Ceramic-lined tanks/raceways; biofloc for shrimp/catfish; upflow trays for bivalves; tumble culture for seaweed.
+- **Closure Impact**: 99–100% nutrient/water recycling; waste → downstream feed.
+- **Revenue Boost**: Premium species drive 3–5x aquaculture margins.
+
+#### 3. Structural Tile Applications
+- **Greenhouses & Housing**: Load-bearing walls/roofs (60–100+ MPa compressive variants); masonry/block formats for compressive loads.
+- **Cost Reduction**: Waste-derived → $5–15/m² mature; 30–50% lower CAPEX vs. steel/glass.
+
+#### 4. Expanded Data Flywheel & Iteration
+- **Growth**: 50–100x experiments/year (weekly seaweed, monthly shrimp, quarterly fish, seasonal staples).
+- **Moat**: PB-scale data → AI-driven ruthless optimization; digital twins for pre-validated upgrades.
+
+#### 5. Updated Projections (Per Mature 5,000-ha Hub)
+- **Revenue**: $2,650–4,300M/year (+240–360% vs. original).
+- **OPEX**: $530–1,000M/year.
+- **Net Profit**: $2,120–3,300M/year.
+- **CAPEX (phased)**: $1,000–1,800M.
+- **Payback**: 1.5–3 years; **IRR**: 70–120%+.
+- **People Fed**: 500,000–800,000 (2.5–2.7x original).
+- **Carbon**: –58 to –110 Mt CO₂e/year.
+- **Water**: +7–12M m³ surplus.
+
+#### 6. Scaling & Timeline Adjustments
+- **Hubs for US Self-Sufficiency**: 500–800 (60–70% reduction).
+- **Pilot to Full Scale**: 20–23 years (2027–2050); surplus feeds additional 200M–1.1B globally.
+
+---
+
 ## Phased Rollout Plan
 
 A big concern is to be self financially independent and off government grants as quickly as possible.
