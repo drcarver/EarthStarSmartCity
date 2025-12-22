@@ -402,7 +402,7 @@ Export self-replicating kits; international adaptation.
 
 ## Financial Overview
 
-Recaoculate ll costs, revenues and timelines based on data in this prompt.
+Recalculate all costs and revenues based on data in this prompt.
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
