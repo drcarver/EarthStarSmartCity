@@ -251,7 +251,7 @@ This sensor ecosystem transforms the Network into a self-learning platform, cont
 #### 4. Financial and Phased Rollout Adjustments
 - **Farm-First Bootstrapping Emphasized**: Low-regulation sites accelerate tile factories, housing, food/biogas revenues.
 - **Revenue Prioritization**: High-margin zones (greens, fruits, beverages, tourism, biochar credits) fund staples.
-- **Overall Viability**: 90–95% for pilots by 2030; national scale 2040s–2050 with disciplined execution.
+- **Overall Viability**: 90–95% for pilots by 2030; national scale with disciplined execution.
 
 ## Orchards and Pastures
 
@@ -331,7 +331,7 @@ These updates focus on **farm-first bootstrapping**, **realistic phasing**, **gr
 #### 5. Overall Viability Boost
 - **Risk**: Reduced from high (big upfront) to low–medium (proven revenue first).
 - **Capital Efficiency**: 5–10x lower entry; internal compounding stronger.
-- **End Timeline**: National impact 2040s–2050s unchanged; path more resilient/reliable.
+- **End Timeline**: National impact unchanged; path more resilient/reliable.
 - **Farmer Partnerships**: Accelerated as revenue enables low-cost kits/loans earlier.
 
 ---
@@ -370,10 +370,10 @@ Export self-replicating kits; international adaptation.
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
-1. Executive summary with realistic 2027–2050 schedule
+1. Executive summary with realistic schedule
 2. Corrected city layout table (components, areas, revenues)
 3. Annual power, water, and carbon balance tables
-4. Full cost breakdown, cash-flow 2027–2050, NPV, IRR, break-even
+4. Full cost breakdown, cash-flow, NPV, IRR, break-even
 5. Specific U.S. federal/state grant and credit programs (HUD, CHIPS, IRA, USDA, etc.)
 6. Detailed financials for electronics and appliances
 7. List of all new and reused flat-pack kits required
