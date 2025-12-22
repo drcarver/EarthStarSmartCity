@@ -1,4 +1,4 @@
-make any changes that can increase viability of the entire project as defined in this chat session include all previous prompts in the analysis
+Make any changes that can increase viability of the entire project as defined in this chat session include all previous prompts in the analysis. Recalculate all costs, revenues and timelines based on data in this chat.
 
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
