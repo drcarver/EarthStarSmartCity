@@ -118,7 +118,7 @@ Sensors align with established standards for reliability, testing, and interoper
 - **ISO**: ISO 11783 (ISOBUS agriculture), ISO 11784/11785 (livestock/RFID), ISO/TC 268 (smart cities), ISO 14001 (environmental management).
 - **NASA**: NASA-STD-3001 (ECLSS for air/water/vitals in closed loops), NASA-STD-8739.10 (EEE parts/sensors).
 - **MIL-STD/Milspec**: MIL-STD-810 (environmental ruggedness testing).
-- **Smart City/Grid/Road/House**: ISO/IEC JTC 1/WG 11 & IEC SyC Smart Cities; IEEE 2030/NIST grid; ISO/TC 204 ITS roads; Matter/Thread/Zigbee home automation.
+- **Smart City/Grid/Road/House**: ISO/IEC JTC 1/WG 11 & IEC SyC Smart Cities; IEEE 2030/NIST grid; ISO/TC 204 ITS roads; ISO 37120; Matter/Thread/Zigbee home automation.
 - **UN SDG-Related**: U4SSC KPIs (SDG 11/13 monitoring), ISCC (sustainable ag/carbon sensors).
 - **Other**: IEEE 1451 (transducers), OGC SWE (sensor web), ITU-T Y.4900 (smart sustainable cities).
 
