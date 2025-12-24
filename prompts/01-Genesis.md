@@ -665,10 +665,6 @@ The phased rollout plan for the Genesis System emphasizes financial independence
   - **Milestones**: Global feeding/export; full financial independence achieved early in Phase 2.
 
 ---
----
-layout: default
-title: Genesis System by EarthStar Technologies - Housing, Schools, and Hospitals
----
 
 # Housing, Schools, and Hospitals in the Genesis System
 
@@ -728,9 +724,6 @@ Hospitals are built early alongside hotels for workers, using ceramic tile modul
 
 Integrated into housing and community complexes, these restaurants offer free meals to residents, featuring fresh Genesis produce in gourmet dishes curated by celebrity chefs (e.g., partnerships with chefs like José Andrés or Alice Waters for seasonal menus). Automated kitchens use robotic processing; farm-to-table ensures MyPlate compliance with cultural variety. Standards: Supports ISO 22000 (food safety) via sensor-monitored supply chains and closed loops.
 
----
-layout: default
-title: Guidelines for Generating Detailed Responses to the Genesis System Initial Prompt
 ---
 
 # Guidelines for Generating a Detailed Response to the Initial Genesis System Prompt
