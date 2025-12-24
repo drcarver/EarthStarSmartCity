@@ -3,7 +3,7 @@ layout: default
 title: Genesis System by EarthStar Technologies - Prompt 1 Detailed Overview
 ---
 
-# Genesis System: Detailed Overview (Based Solely on Initial Project Description)
+# Genesis System: Detailed Overview 
 
 ## Project Overview
 
