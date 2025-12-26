@@ -68,6 +68,10 @@ Scale to **feed the entire U.S. nation with room for export**, while **rewilding
 - All utilities delivered through **smart ceramic pipes**
 - Homes can export/import water and power
 - Potential for **robotic food delivery**
+- Free luxury nusing homes and assisted living complexes.  Seniors can keep their social security and wealth.  No more fixed income poverty
+- Free luxury apartments for those who prefer them
+- lots of green space and parks all maintained automatically
+- multidonominal churches and government buildings
 
 ### Resident Benefits (Free to Residents)
 - Food
