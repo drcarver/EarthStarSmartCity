@@ -1,210 +1,230 @@
 ---
 layout: default
-title: Genesis Network Master Plan by Earth-Star Industries – Integrated Executive Summary & Project Plan
-description: A corrected, viability-optimized, self-contained executive summary and project plan for the Genesis Network, integrating TerraFab, TerraWell FreeCare separation, farmer partnerships, infrastructure recycling, and enhanced biosolutions.
+title: Genesis Network Master Plan by Earth-Star Industries — Integrated Executive Plan (2027–2050)
+description: A comprehensive, execution-grade master plan for the Genesis Network integrating regenerative hubs, TerraFab manufacturing, TerraWell FreeCare, farmer partnerships, infrastructure recycling, and global expansion.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+theme: minimal
 ---
 
 # Genesis Network Master Plan  
-**Integrated Executive Summary & Project Plan (2027–2050)**  
-*Earth-Star Industries*
+## Integrated Executive Summary & Project Plan (2027–2050)  
+**Organization:** Earth-Star Industries  
+**Version:** December 2025 (Execution Baseline)
 
 ---
 
-## 1. Executive Summary (Realistic 2027–2050 Schedule)
+## 1. Executive Summary (2027–2050 Schedule)
 
-The **Genesis Network** is a modular, regenerative industrial–agricultural system designed to **internalize the production of essential goods** (food, energy, water, materials, electronics, medical supplies) while restoring degraded land and minimizing virgin extraction. The system scales through **repeatable hubs**, **farmer/smallholder partnerships**, and **flat-pack kits**, not speculative megaprojects.
+The **Genesis Network** is a self-replicating regenerative infrastructure system designed to internalize the production of food, energy, water, materials, electronics, pharmaceuticals, and essential services into closed-loop cities and distributed rural partnerships.
 
-Between **2027 and 2050**, Genesis transitions from pilot hubs to a nationally significant producer of food, materials, power, electronics, and carbon-negative infrastructure—while remaining **self-funded**, politically viable, and technically conservative.
+Between **2027 and 2050**, the Network focuses on:
+- Proving and scaling **U.S.-based Genesis hubs**
+- Integrating **TerraFab** advanced manufacturing
+- Deploying **TerraWell FreeCare** as a legally separate humanitarian layer
+- Empowering **small family farmers** as the primary scaling vector
+- Replacing legacy infrastructure through recycling-first modernization
 
-Key corrections incorporated for viability:
-- No assumption of full AI-chip independence before the 2040s.
-- Early revenue weighted to **food, tiles, gases, recycling, infrastructure contracts**, and **mature-node electronics**.
-- **Strict legal separation** of TerraWell FreeCare (501(c)(3)) from all for-profit activity.
-- Emphasis on **recycling + ceramics** to reduce mining and CAPEX volatility.
-- Conservative adoption curves and extended pilot phases.
+By 2050, the system is designed to reliably support **200–300 million people** in the U.S. with 80–95% internalization of goods, while restoring ecosystems at continental scale.
+
+---
 
 ### High-Level Timeline
-- **2027–2032**: Pilots, brownfield remediation, first profitable hubs
-- **2033–2040**: Replication, farmer network scale-up, MiniFabs, infrastructure contracts
-- **2041–2050**: National footprint, TerraFab expansion, advanced services, strong free cash flow
+
+| Period | Focus | Outcomes |
+|---|---|---|
+| 2027–2030 | Pilot & Proof | 3–5 Genesis hubs, positive cash flow |
+| 2031–2035 | Early Scale | 20–50 hubs, TerraFab pilots, farmer program |
+| 2036–2040 | Acceleration | 200+ hubs, national manufacturing |
+| 2041–2050 | Systemic Shift | 1,000+ hubs + partners, majority internalization |
 
 ---
 
 ## 2. Corrected Genesis City / Hub Layout (Per Mature Hub)
 
-| Component | Area (ha) | Primary Outputs | Annual Revenue (USD) |
-|--------|-----------|-----------------|----------------------|
-| Vertical & Greenhouse Farms | 300–500 | Produce, protein, feedstocks | $600–1,200M |
-| Aquaponics & Algae | 80–120 | Fish, algae, oils, feeds | $250–450M |
-| Biorefineries & Digesters | 40–60 | Biogas, fertilizers, CO₂ | $200–400M |
-| Tile & Ceramic Factories | 60–90 | Structural tiles, pipes | $500–900M |
-| Recycling & Plasma | 40–70 | Metals, slag ceramics | $300–600M |
-| Industrial Gases (ASU) | 25–40 | O₂, N₂, Ar, Ne/Kr | $300–700M |
-| MiniFabs (Electronics) | 30–50 | Sensors, edge chips | $400–800M |
-| TerraFab (Phase ≥2040) | 80–120 | Advanced chips, pharma | $1,500–3,000M |
-| Power (Solar/Wind) | 1,200+ | Power export | $150–300M |
-| Housing & Services | 150–250 | Rent, services | $200–400M |
-| **Total (Mature Hub)** | **~2,000 ha** | — | **$4.4–8.7B/yr** |
+| Component | Area (ha) | Annual Revenue ($M) | Notes |
+|---|---|---|---|
+| Controlled Environment Agriculture | 1,300 | 450–650 | Staples + high-value crops |
+| Agrivoltaics & Orchards | 1,200 | 180–300 | Power + perennial food |
+| Biorefineries & Waste Valorization | 300 | 250–400 | Biogas, biochar, vitrification |
+| Tile & Pipe Manufacturing | 200 | 300–500 | Structural materials + exports |
+| TerraFab (avg allocation) | 250 | 600–1,000 | Electronics, chips, medical |
+| Housing & Civic | 400 | Indirect | Enables labor & services |
+| Rewilded Buffer | 1,350 | Credits | Carbon & biodiversity |
+| **Total** | **5,000** | **2,100–3,200** | Per hub at maturity |
 
 ---
 
-## 3. Annual Resource Balance (Per Mature Hub)
+## 3. Annual Resource Balances (Per Mature Hub)
 
 ### Power Balance
 
-| Item | Annual Amount |
+| Source | GWh/year |
 |---|---|
-| Solar + Wind Generation | 300–450 GWh |
-| Internal Consumption | 150–220 GWh |
-| Net Export | 120–200 GWh |
-| Grid Services Revenue | $80–150M |
+| Agrivoltaic Solar | 1,200 |
+| BIPV & Smart Roads | 250 |
+| Biogas Turbines | 350 |
+| **Total Generated** | **1,800** |
+
+| Use | GWh/year |
+|---|---|
+| Internal Ops (farms, housing, fab) | 1,050 |
+| Storage & Losses | 150 |
+| **Exportable Surplus** | **600** |
+
+---
 
 ### Water Balance
 
-| Item | Annual Amount |
+| Source | Million m³/year |
 |---|---|
-| Reclaimed MSW / Sewage | 10–20B gallons |
-| Atmospheric / Capture | 2–5B gallons |
-| Internal Use | 8–12B gallons |
-| Net Aquifer Recharge / Export | 4–10B gallons |
+| Rain & Storm Capture | 22 |
+| Atmospheric Water | 15 |
+| Recycled Grey/Blackwater | 30 |
+| **Total Available** | **67** |
+
+| Use | Million m³/year |
+|---|---|
+| Agriculture | 42 |
+| Domestic & Industrial | 18 |
+| **Aquifer Recharge / Export** | **7** |
+
+---
 
 ### Carbon Balance
 
-| Source | Annual CO₂e |
+| Category | tCO₂e/year |
 |---|---|
-| Biochar & Soil | 0.5–1.5 Mt |
-| Blue/Green Carbon Kits | 0.3–1.0 Mt |
-| DAC / Mineralization | 0.2–0.5 Mt |
-| **Net Negative** | **1.0–3.0 Mt/yr** |
-| Credit Revenue (@$150–200/t) | $150–600M |
+| Biochar & Soil Carbon | –1.8M |
+| Blue/Green Carbon | –0.6M |
+| DAC & Mineralization | –0.4M |
+| Residual Emissions | +0.3M |
+| **Net Impact** | **–2.5M tCO₂e** |
 
 ---
 
-## 4. Full Cost & Cash-Flow Model (2027–2050, Per Hub)
+## 4. Full Cost Breakdown & Financials (Per Hub)
 
-### CAPEX (Phased)
+### Capital Expenditure (2027–2035)
 
-| Category | CAPEX |
+| Category | CAPEX ($B) |
 |---|---|
-| Land & Remediation | $150–300M |
-| Farms & Aquaponics | $400–700M |
-| Tile & Recycling | $300–500M |
-| Power Infrastructure | $250–400M |
-| MiniFabs | $150–250M |
-| TerraFab (later) | $3–5B |
-| Housing & Services | $300–600M |
-| **Total (to 2050)** | **$5.0–8.0B** |
-
-### Cash Flow Summary (Nominal)
-
-| Period | Annual Revenue | EBITDA | Free Cash Flow |
-|---|---|---|---|
-| 2027–2032 | $300–800M | $120–350M | $50–150M |
-| 2033–2040 | $1.5–3.5B | $700–1.8B | $400–1.0B |
-| 2041–2050 | $4.5–8.5B | $2.0–4.0B | $1.3–3.0B |
-
-### Financial Metrics
-- **Break-even**: Year 7–9
-- **Project IRR**: 28–45%
-- **NPV (8% discount, 30 yrs)**: $12–25B per hub
+| Land & Site Prep | 0.25 |
+| Farms & Aquaponics | 0.45 |
+| Energy & Water Systems | 0.40 |
+| Tile & Pipe Factories | 0.35 |
+| TerraFab Allocation | 0.85 |
+| Housing & Civic | 0.30 |
+| Digital / Sensors | 0.15 |
+| **Total CAPEX** | **2.75B** |
 
 ---
 
-## 5. Applicable U.S. Federal & State Programs (Used Conservatively)
+### Operating Economics (Mature)
 
-### Federal
-- **IRA**: ITC/PTC for solar, storage, biogas
-- **CHIPS Act**: Manufacturing credits (MiniFabs, TerraFab)
-- **DOE LPO**: Loan guarantees (power, recycling)
-- **EPA Brownfields**: Cleanup grants (early phase)
-- **45Q / 45Z**: Carbon capture & fuels (where qualified)
-
-### State / Local
-- Industrial revenue bonds
-- Sales/use tax abatements
-- Workforce training grants
-- Infrastructure cost-sharing (roads, ports)
-
-*No reliance on USDA climate programs (explicitly forgone where conflicting).*
+- Annual Revenue: **$2.5–3.5B**
+- EBITDA Margin: **40–50%**
+- EBITDA: **$1.1–1.6B**
+- Payback: **6–8 years**
 
 ---
 
-## 6. Electronics & Appliance Manufacturing Financials
+### Network-Level Financials (2027–2050, Discount Rate 8%)
 
-### Scope
-- Edge computers
-- Sensors & controllers
-- Robotics electronics
-- Appliances (HVAC, refrigeration, cooking)
-
-| Metric | Value |
+| Metric | Estimate |
 |---|---|
-| CAPEX | $200–400M |
-| Annual Revenue | $800M–1.5B |
-| Gross Margin | 45–60% |
-| Strategic Value | Internal supply security |
+| Total Network CAPEX | ~$1.2–1.6T |
+| Peak Annual Revenue (2050) | $350–500B |
+| NPV (2050 horizon) | $2.5–4.0T |
+| IRR (Network) | 14–18% |
+| Break-even (first hubs) | 2033–2036 |
 
 ---
 
-## 7. Flat-Pack Kits (New + Reused)
+## 5. U.S. Federal & State Programs (Used Selectively)
+
+**Accepted / Compatible**
+- CHIPS Act (manufacturing incentives)
+- IRA: ITC/PTC for solar, storage, biogas
+- DOE Loan Programs Office (select assets)
+- EPA Brownfields Cleanup Grants
+- DOT/FHWA for infrastructure replacement (contract basis)
+- HUD (housing construction credits, not operating funds)
+
+**Explicitly Declined**
+- USDA Climate-Smart Commodities
+- REAP
+- ACEP
+
+---
+
+## 6. Electronics & Appliances Financials (Per TerraFab)
+
+| Segment | Revenue ($B/yr) | Margin |
+|---|---|---|
+| Edge Computers & Sensors | 0.8–1.2 | 45% |
+| Robotics & Drones | 1.0–1.5 | 35% |
+| Medical Devices | 0.7–1.0 | 40% |
+| Consumer Appliances | 0.5–0.8 | 30% |
+| **Total** | **3.0–4.5** | — |
+
+---
+
+## 7. Flat-Pack Kits (New & Reused)
 
 ### Core Kits
-- Ceramic Tile & Pipe Kit
+- Genesis Tile & Pipe Kit
 - Modular Greenhouse Kit
-- Aquaponics Tank Kit
-- Biogas & Digesters
-- Recycling & Plasma Kit
-- Solar/Wind Microgrid Kit
+- Biogas & Digestate Kit
+- Aquaponics / IMTA Kit
+- Smart Road & Utility Kit
+- Housing & Civic Tile Kit
 
-### New Kits (Enhancements)
-- Microbial Inoculant Production Kit
+### Advanced Kits
+- TerraFab MiniFab Kit
+- Microbial Inoculant Kit
 - Agroforestry Expansion Kit
-- Blue/Green Carbon Restoration Kit
-- Dam & River Restoration Kit
-- MiniFab Electronics Kit
-- Mobile Infrastructure Recycling Kit
+- Restoration (Wetland/Dam) Kit
+- Mobile TerraWell Clinic Kit
+
+All kits are sensorized and compliance-ready.
 
 ---
 
-## 8. Aggressive but Honest Feasibility Assessment
+## 8. Honest Feasibility Analysis
 
-### What Is Strong (High Confidence)
-- Food systems
-- Ceramics & recycling
-- Power & water closure
-- Farmer partnership model
-- Infrastructure contracts
-- Mature-node electronics
+### Strengths
+- Cash-flow-first sequencing
+- Modular replication
+- Farmer empowerment reduces political risk
+- Data moat compounds advantage
+- Conservative regulatory posture
 
-### What Is Moderate Risk
-- Rare gas recovery at scale
-- Pharma APIs (regulated rollout)
-- Carbon credit pricing volatility
-
-### What Is Explicitly Long-Term
-- Leading-edge AI chips
-- Full mining displacement
-- National infrastructure replacement
+### Risks
+- Organizational complexity at scale
+- Skilled labor bottlenecks (mitigated via automation)
+- Misinterpretation of nonprofit separation
+- Infrastructure permitting delays
 
 ### Overall Assessment
-- **Technical Feasibility**: 8/10  
-- **Economic Feasibility**: 8/10  
-- **Political Feasibility**: 7.5/10  
-
-**Overall**: High-probability success if executed with discipline, phased capital deployment, and conservative regulatory posture.
+- **Technical Feasibility:** High (8/10)
+- **Economic Feasibility:** High (8/10)
+- **Political/Social Feasibility:** Moderate–High (7/10)
+- **Overall:** **Highly viable with disciplined execution**
 
 ---
 
-## Closing Statement
+## Conclusion
 
-The Genesis Network is not a single bet—it is a **self-reinforcing system** where food, materials, power, recycling, and data compound into durable advantage. By prioritizing **viability over hype**, Genesis can realistically become one of the most important regenerative industrial platforms of the 21st century.
+The Genesis Network is not a single project but a **new operating system for civilization**—one that replaces extractive growth with regenerative abundance, while remaining legally compliant, economically grounded, and politically durable.
+
+By 2050, it is realistic for the Network to become the dominant provider of essential goods and services across large portions of the United States, while exporting kits and knowledge globally.
 
 ---
 
 ## License
 
-This work is licensed under a  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
 
-© 2025 Earth-Star Industries
+© 2025 Earth-Star Industries  
+
+You are free to share and adapt this work for any purpose, including commercial use, provided appropriate credit is given.
