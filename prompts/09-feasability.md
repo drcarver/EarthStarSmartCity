@@ -1,6 +1,3 @@
-Part 9
-
-Provide a avery agreesive feasability analysis of the entire project. Lets be real the chane of a mltidecade proect like this being able to get publi fundig for this long is unlikely, so we need to get to the point where we are sef funding as soon as possblr.
+Provide a very aggressive feasibility analysis of the entire project. Let's be real the change of a multidecade project like this being able to get public funding for this long is unlikely, so we need to get to the point where we are self-funding as soon as possible.
 
 Output as raw Markdown only in a single code block suitable for direct copy-paste into a GitHub Pages repository (Jekyll minimal theme). Include CC-BY-4.0 footer.
-
