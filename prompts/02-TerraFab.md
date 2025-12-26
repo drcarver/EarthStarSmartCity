@@ -24,7 +24,7 @@ our comploance portals.
 - Use RHA silcon as much as possible
 - Drone peoduction with swarm capability and AI
 - stealth version of all products for the military if requeted using stealth ceramics and parts.  Possibly in a seperate fab and requiring virgin materials
-- se biogas tbies for power wit eandend farms instead of solar
+- Use biogas turbines for power with expandend farms instead of solar
 
 ### 2. Medical Equipmet and sensors
 - As autmated as possible with telepresenes as needed. Complete lights out.
