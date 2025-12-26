@@ -736,21 +736,17 @@ The response must be presented in a **scrollable Markdown window** (i.e., format
 ## Key Requirements for the Response Structure
 
 1. **Title and Header**
-   - Use a clear, descriptive page title (e.g., "Genesis System by EarthStar Technologies - Detailed Overview").
+   - Use a clear, descriptive page title (e.g., "Genesis System by EarthStar Technologies").
    - Include Jekyll front matter for compatibility (layout: default).
 
 2. **Main Heading**
-   - Start with a top-level heading: "# Genesis System: Detailed Overview (Based Solely on Initial Project Description)"
+   - Start with a top-level heading: "# Genesis System: Detailed Overview"
 
 3. **Section Organization**
    Organize content into logical, hierarchical sections using Markdown headings (##, ###, etc.) that mirror the structure of the initial prompt for maximum fidelity and clarity. Recommended sections include:
 
    - ## Project Overview
-   - ## Deployment Strategy and Performance Characteristics
-   - ## Food Production
-   - ## Scaling and Financial Model
-   - ## Infrastructure and Community Development
-   - ## Resident Benefits
+
    - ## Core Principles
    - ## Key Products and Outputs
      - Subsections numbered 1–9 exactly matching the prompt's listed modules:
@@ -763,6 +759,13 @@ The response must be presented in a **scrollable Markdown window** (i.e., format
        7. Telepresence and AI
        8. Smart Infrastructure and Cultural Add-Ons
        9. Staples Production
+   - ## Deployment Strategy and Performance Characteristics
+   - ## Food Production
+   - ## Scaling and Financial Model
+   - ## Infrastructure and Community Development
+   - ## Resident Benefits
+   - ## Summary
+
 
 4. **Content Guidelines**
    - Use direct, accurate paraphrasing and quotation of key phrases from the initial prompt to preserve intent.
