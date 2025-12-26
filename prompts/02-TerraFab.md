@@ -25,6 +25,9 @@ our comploance portals.
 - Drone peoduction with swarm capability and AI
 - stealth version of all products for the military if requeted using stealth ceramics and parts.  Possibly in a seperate fab and requiring virgin materials
 - Use biogas turbines for power with expandend farms instead of solar
+- affiliate farms (rural partnerships on distressed/bankrupt land) significantly help with power (biogas from residues/manure/energy crops) and water (rain capture, AWG supplements, shared recirculation tech via kits) for mini-fabs/TerraFabs
+
+
 
 ### 2. Medical Equipmet and sensors
 - As autmated as possible with telepresenes as needed. Complete lights out.
