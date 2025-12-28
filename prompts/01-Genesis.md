@@ -819,13 +819,49 @@ The response must be presented in a **scrollable Markdown window** (i.e., format
    - Use emphasis (bold, italics) judiciously.
    - Ensure long sections are broken into subsections for scrollability.
 
-6. **Footer**
-   - Include the Creative Commons license notice and copyright exactly as in the prompt:
-     ```
-     **License**: This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+##Key updates:
+- **Phased Aquaponics**: Hydroponics-only Phase 1 → fish RAS Phase 2.
+- **Interim Automation**: Priva Connext (greenhouses) + Pentair AES (RAS); open APIs for custom PoE sensors.
+- **Glazing/Lighting**: Separate modular LEDs + commercial semi-transparent BIPV (e.g., Heliene GiPV) initially → transition to custom RHA-derived ceramic-embedded PV tiles.
+- **Energy**: Agrivoltaics (Phase 1 roofs) + biogas microturbines (Phase 2+) → net-positive power.
+- **Water**: Rainwater harvesting + AWG integrated into tiles → near-100% closure.
+- **Ceramics Strategy**: Monolithic/large-format tanks (not modular tiles for tanks); embedded sensors; buildings/pipes tiled.
+- **Factory**: Leased tents + equipment (tile production & mini-fab) → permanent ceramic factories.
+- **Bots/Drones**: Produce custom tile-laying bots early; drones hybrid (electronics from mini-fab).
+- **Financing**: Minimal out-of-pocket ($0–$50k) via USDA FSA beginning farmer loans → Phase 1 revenue fully self-finances afterwards.
 
-     © 2025 EarthStar Technologies
-     ```
+## Updated Phased Rollout
+
+### Phase 1: Hydroponics Bootstrapping (2026–2027)
+- High-value greens/herbs in poly/Venlo greenhouses.
+- Automation: Priva Connext.
+- Energy: Heliene GiPV or equivalent BIPV roofing + grid.
+- Water: Rainwater + early AWG.
+- Revenue: $600–900k/ha/year → $10–50M+ cash flow.
+- CAPEX: $20–50M (loaned; near-zero personal out-of-pocket).
+- Milestones: Operational mid-2027; funds tents/mini-fab by late 2027.
+
+### Phase 2: Hybrid Aquaponics & Full Energy (2028+)
+- Separate fish buildings with Pentair AES RAS (tilapia → barramundi/shrimp → salmon/trout).
+- Tanks: Start fiberglass → monolithic ceramic (embedded sensors).
+- Energy: Biogas microturbines (Capstone) + CHP.
+- Integration: All systems into DC-dominant smart grid + Genesis AI portal.
+- CAPEX: $10–30M (40–70% self-funded from Phase 1).
+- Milestones: Full hybrid 2029; net-positive energy/water.
+
+### Phase 3+: Full Ceramic Scaling & Lights-Out Automation
+- Monolithic ceramic tanks/raceways with co-fired sensors.
+- Custom ceramic-embedded PV/AWG tiles on roofs.
+- Lights-out bots/drones from mini-fab.
+- Self-replicating kits include all modules.
+
+## Strategic & Technical Details
+- **Smart Grid**: Unified DC system (Priva, Pentair, BIPV, turbines) via APIs/Modbus + AI optimization.
+- **Data Moat**: Custom PoE/embedded sensors from Day 1 → operational data on PV, water, tanks.
+- **3D Printing**: Lease/buy off-the-shelf (no custom build needed).
+- **Bottlenecks Mitigated**: Low initial cash, proven interim tech, leased factories.
+
+   ```
 ## Output Format
 The entire response must be **raw Markdown only**, wrapped in a single code block if necessary for direct copy-paste, but primarily delivered as a complete standalone Markdown document ready for rendering in a scrollable window (e.g., GitHub Pages with Jekyll minimal theme).
 
