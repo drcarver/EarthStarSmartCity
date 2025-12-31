@@ -597,78 +597,93 @@ This module de-risks bootstrapping while maximizing regenerative outcomes on rec
 
 The phased rollout plan for the Genesis System emphasizes financial independence by starting with commercial greenhouse operations on distressed farmland to generate early revenue. These revenues are used to finance leased tents for initial tile production, bringing manufacturing in-house rapidly while expanding greenhouses in parallel. The plan accelerates to full tile and kit production using leased tents, transitioning to permanent facilities as cash flows allow. All projections are conservative estimates based on 2025 market data: commercial greenhouse setup at $2-4M per ha, annual gross revenue $500k-1M per ha for high-value crops (greens/herbs), industrial tent lease at $80-100 per sq m annually, small-scale ceramic tile factory setup $200k-500k (equipment), and tile revenue $3-5 per sq m manufactured. Assumptions include 50% gross margins initially, scaling to 60-70% with optimization. Timelines start from December 2025 planning, with operations in 2026. Projections are per pilot cluster (initial 500-1,000 acres, ~200-400 ha total land, but focused on greenhouse/tent areas).
 
-## Phase 0: Preparation (Q1 2026 - Q4 2026)
-- **Objectives**: Secure distressed farmland (500 acres initial via USDA FSA zero-down loans), set up first commercial greenhouses (poly/hoop style for low cost), initiate high-value crop production (greens, herbs) for revenue generation. Focus on passive upgrades and basic aquaponics. No tile production yet; prepare for tent leasing funded by greenhouse cash flow.
-- **Key Activities**:
-  - Acquire/lease land and install 10-20 ha of commercial greenhouses in stages.
-  - Plant high-value crops with short cycles (30-90 days) for quick revenue.
-  - Use initial revenues to secure leased tents (start small, 5,000 sq m) for tile factory bootstrapping.
-- **Financial Projections** (USD, Conservative Estimates):
-  - **CAPEX**: $20-40M (greenhouse setup at $2M/ha for 10-20 ha; land prep/minor equipment $5-10M).
-  - **OPEX**: $5-10M/year (seeds, labor, utilities; 40-50% of revenue initially).
-  - **Revenue**: $5-20M (ramping from $0 in Q1 to full by Q4; $500k/ha gross for partial operation).
-  - **EBITDA**: -$2M to +$5M (negative early, positive by Q3 as crops harvest).
-  - **Free Cash Flow**: -$15M to -$25M (initial investments), bridged by USDA loans.
-  - **Funding**: USDA FSA loans ($20-30M); aim for cash flow positive by end-2026.
-  - **Milestones**: First harvest Q2; revenues cover tent lease deposits by Q4.
+# Genesis Network: Extremely Detailed Phased Implementation Plan (2026–2035)
 
-## Phase 1: Pilot Cluster and Tile Bootstrapping (2027 - 2029)
-- **Objectives**: Expand commercial greenhouses to 50-100 ha in parallel, using revenues to lease tents (10,000-20,000 sq m) for initial tile production. Bootstrap small-scale tile factories in tents with licensed torches/kilns and virgin materials. Produce first modular ceramic tiles and basic kits (e.g., tile production kits). Incorporate low-permit waste streams. Transition some greenhouses to hybrid aquaponics.
-- **Key Activities**:
-  - Greenhouse expansion: Add 20-30 ha/year funded by prior revenues.
-  - Tent leasing: Start with 10,000 sq m tent ($800k-1M annual lease), install tile equipment.
-  - Tile production: Initial output 50,000-100,000 sq m/year, scaling to 500,000 sq m/year by 2029.
-  - Revenue diversification: Sell raw tiles/byproducts alongside crops.
-- **Financial Projections** (USD, Annual Averages; Cumulative by End-2029):
-  - **CAPEX**: $50-100M (greenhouse expansion $40-60M; tile equipment/tents $10-40M leased/purchased).
-  - **OPEX**: $20-50M/year (rising with scale; includes tent leases $1-2M/year).
-  - **Revenue**: $50-200M/year (greenhouses $25-100M at $500k/ha; tiles $10-50M at $3-5/sq m; byproducts $5-20M).
-  - **EBITDA**: $10-60M/year (50-60% margins as efficiency improves).
-  - **Free Cash Flow**: +$5M to +$30M/year (positive from 2027; cumulative +$50-100M by 2029).
-  - **Funding**: Self-financed from greenhouse revenues; repay loans.
-  - **Milestones**: First tiles produced Q2 2027; full pilot cluster (1-2 sites) operational by 2029; kits ready for replication.
+This plan provides the **most comprehensive, executable roadmap** for the Genesis Network, integrating **all modules** (greenhouses/aquaponics, multi-species livestock with automation, digesters/turbines, tile factory), **ELFM (Enhanced Landfill Mining)**, **brownfield cleanup**, **sewage processing replacement**, and **closed landfill transformation**. It starts with distressed farmland, phases in waste streams for revenue/materials, and scales exponentially via replication and affiliates.
 
-## Phase 2: Self-Replication and Expansion (2030 - 2035)
-- **Objectives**: Achieve full tile and kit production in leased tents (scale to 50,000 sq m tents across sites), enabling self-replicating factory kits. Expand to 5-10 clusters on bankrupt farms/rural partnerships. Transition to brownfields/landfills as permits allow. Parallel greenhouse growth to 200-300 ha total. Incorporate animal husbandry and biorefinery modules.
-- **Key Activities**:
-  - Replicate tile factories using kits produced in tents.
-  - Replace tents with permanent ceramic structures as tiles accumulate.
-  - Accelerate kit production (e.g., greenhouse kits, aquaponics kits) for internal/external sales.
-  - National presence: Feed 10,000-50,000 people per cluster.
-- **Financial Projections** (USD, Annual Averages; Cumulative by End-2035):
-  - **CAPEX**: $200-400M (new sites $100-200M; advanced equipment $50-100M; tent expansions $20-50M).
-  - **OPEX**: $100-300M/year (scaling operations; tent leases peak at $5-10M then decline).
-  - **Revenue**: $300-800M/year (greenhouses $100-300M; tiles/kits $100-300M; byproducts/beverages $50-100M).
-  - **EBITDA**: $100-300M/year (60-70% margins with automation/AI).
-  - **Free Cash Flow**: +$50-150M/year (cumulative +$500-1B by 2035).
-  - **Funding**: Fully self-financed; surplus for rewilding pilots.
-  - **Milestones**: Tents phased out by 2033; 10 clusters by 2035; full kit production (5-10 types) achieved.
+**Financial Assumptions (Per Initial 1,000–2,000 Acre Site + Adjacent Landfill)**
+- Land/Brownfield: $5–20M (distressed + cleanup grants/loans).
+- Greenhouse/Aquaponics: $30–80M pilot.
+- Livestock + Automation: $15–40M early.
+- Digester/Turbine: $10–30M.
+- Tent Tile Factory: $15–35M.
+- ELFM/Sewage Equipment: $20–50M phased.
+- Revenue Ramp: Year 1 $50–120M; Year 3 $600–1B.
+- Margins: 60–80% mature.
 
-## Phase 3: National Scaling (2036 - 2045)
-- **Objectives**: Scale to 50-500 hubs nationwide, focusing on reclaimed landfills/brownfields. Full integration of all modules (electronics, smart infrastructure). Feed 50-200 million with export surplus. Rewild excess land post-self-sufficiency.
-- **Key Activities**:
-  - Deploy kits exponentially for new hubs.
-  - Advanced features: DC grids, robotaxis, free resident services.
-  - Revenue from tourism, carbon credits, electronics.
-- **Financial Projections** (USD, Annual Averages per Hub; Network-Wide Scaled):
-  - **CAPEX**: $1-2B per new hub (phased; network total $50-100B).
-  - **OPEX**: $500-1B/year per hub.
-  - **Revenue**: $2-4B/year per hub (diversified across outputs).
-  - **EBITDA**: $1-2B/year per hub.
-  - **Free Cash Flow**: +$500M-1B/year per hub (network +$25-500B cumulative).
-  - **Funding**: Self-sustaining; investments in global kits.
-  - **Milestones**: 500 hubs by 2045; national food coverage.
+## Phase 1: Multi-Module Bootstrap & Energy Ramp (2026–2027)
 
-## Phase 4: Global Replication (2046+)
-- **Objectives**: Export kits internationally; adapt for global sites. Maintain carbon-negative operations and rewilding.
-- **Key Activities**: Kit sales/partnerships; AI-driven optimizations.
-- **Financial Projections** (USD, High-Level):
-  - **Revenue**: $10-20B/year network-wide initially, scaling globally.
-  - **EBITDA**: 60-70% margins.
-  - **Free Cash Flow**: +$5-10B/year.
-  - **Milestones**: Global feeding/export; full financial independence achieved early in Phase 2.
+**Goal**: Cash-positive Year 1; energy independence Year 2; basic waste processing.
 
----
+- **2026 (Year 1)**:
+  - Acquire distressed farmland (orchard/dairy priority) + adjacent closed landfill/brownfield (EPA grants for assessment).
+  - Lease tent + install 20–50 ha greenhouses + modular digesters.
+  - **Livestock Launch**: All modules small-scale (poultry 50k–100k, sheep/goats 1k–5k, pork 1k–5k, dairy/beef 500–2k).
+  - Automation: Robotic milking/feeders + sensors.
+  - Start C&D waste acceptance (easy permits) → tipping fees.
+  - First greens + livestock revenue + turbines Month 6–9.
+  - **CAPEX**: $120–250M. **Revenue**: $50–120M (greens 60%, livestock 20%, tipping 20%). **Net**: +$20–60M.
+
+- **2027 (Year 2)**:
+  - Livestock scale + premium sales.
+  - Tent tile factory pilot (farm waste ash + C&D slag).
+  - Automation: Drone monitoring + semi-auto butchering.
+  - Begin brownfield cleanup (EPA-funded) + sewage pilot (mobile plasma units for sludge).
+  - **CAPEX**: $80–150M. **Revenue**: $300–600M. **Net**: +$150–350M cumulative.
+
+**Milestone**: Energy self-sufficient; basic ELFM/C&D processing; data moat from multi-species.
+
+## Phase 2: Tile Factory Scale, ELFM, & Sewage Integration (2028–2029)
+
+**Goal**: Material closure; replace local sewage/landfills.
+
+- **2028 (Year 3)**:
+  - Full tent tiles → $500–800M revenue.
+  - Replicate to 10–30 sites (diversify farm types: row crops/soy/wheat).
+  - Full ELFM on landfill → mined slag for tiles.
+  - Sewage processing pilot: Plasma vitrification of sludge → vitrified aggregate + biogas.
+  - Livestock automation: Robotic shearing/deboning.
+  - MSW tipping → $20–50M/year.
+  - **CAPEX**: $300–500M. **Revenue**: $800M–$1.2B. **Net**: +$400–600M.
+
+- **2029 (Year 4)**:
+  - Permanent tile factory on remediated landfill.
+  - Full sewage replacement contracts (municipal partnerships) → sludge intake + revenue.
+  - Replication to 50–100 sites; affiliates begin (1,000–5,000 partners).
+  - Full aquaponics + processed products.
+  - **CAPEX**: $400–700M. **Revenue**: $1.2–2B. **Net**: +$700–1B.
+
+**Milestone**: Self-funding achieved; regional sewage/landfill replacement; 100+ hubs.
+
+## Phase 3: Exponential Expansion, Full Waste Replacement & Affiliates (2030–2035)
+
+**Goal**: 300–500 hubs + 10,000–50,000 affiliates; national sewage/landfill transformation.
+
+- **2030–2032**:
+  - 100–200 hubs; affiliates ramp → surplus water/power.
+  - ELFM/sewage processing scaled → 100–200 sites replacing local systems.
+  - Lights-out automation across livestock/processing.
+  - **CAPEX**: $2–5B. **Revenue**: $10–30B/year. **Net**: +$5–15B cumulative.
+
+- **2033–2035**:
+  - 300–500 hubs + 10,000–50,000 affiliates.
+  - Nationwide sewage processing contracts → plasma vitrification replaces legacy plants.
+  - Remediated landfills → new hubs/green space.
+  - **CAPEX**: $10–20B. **Revenue**: $50–100B/year. **Net**: +$30–80B cumulative.
+
+**Milestone**: National food/energy coverage; 200–300M acres freed for rewilding.
+
+## Financial Summary (Network-Wide)
+
+| Phase              | Years     | CAPEX ($B) | Revenue ($B/year mature) | Key Drivers                          |
+|--------------------|-----------|------------|---------------------------|--------------------------------------|
+| Bootstrap          | 2026–2027 | 0.3–0.5   | 0.1–0.3                  | Greens + livestock + early tipping  |
+| Tile/ELFM Scale    | 2028–2029 | 0.7–1.2   | 1–2                      | Tiles + sewage/tipping + biogas     |
+| Exponential        | 2030–2035 | 15–30     | 50–150                   | Full closure + affiliates + exports |
+
+**IRR**: 30–40%. **Self-Funding**: 2029.
+
+This plan **replaces sewage/landfills** via plasma/ELFM, **remediates brownfields** for expansion, and **scales via affiliates** for land/water/power resilience. Most comprehensive path to national transformation.
 
 # Housing, Schools, and Hospitals in the Genesis System
 
@@ -830,38 +845,8 @@ The response must be presented in a **scrollable Markdown window** (i.e., format
 - **Bots/Drones**: Produce custom tile-laying bots early; drones hybrid (electronics from mini-fab).
 - **Financing**: Minimal out-of-pocket ($0–$50k) via USDA FSA beginning farmer loans → Phase 1 revenue fully self-finances afterwards.
 
-## Updated Phased Rollout
+ ```
 
-### Phase 1: Hydroponics Bootstrapping (2026–2027)
-- High-value greens/herbs in poly/Venlo greenhouses.
-- Automation: Priva Connext.
-- Energy: Heliene GiPV or equivalent BIPV roofing + grid.
-- Water: Rainwater + early AWG.
-- Revenue: $600–900k/ha/year → $10–50M+ cash flow.
-- CAPEX: $20–50M (loaned; near-zero personal out-of-pocket).
-- Milestones: Operational mid-2027; funds tents/mini-fab by late 2027.
-
-### Phase 2: Hybrid Aquaponics & Full Energy (2028+)
-- Separate fish buildings with Pentair AES RAS (tilapia → barramundi/shrimp → salmon/trout).
-- Tanks: Start fiberglass → monolithic ceramic (embedded sensors).
-- Energy: Biogas microturbines (Capstone) + CHP.
-- Integration: All systems into DC-dominant smart grid + Genesis AI portal.
-- CAPEX: $10–30M (40–70% self-funded from Phase 1).
-- Milestones: Full hybrid 2029; net-positive energy/water.
-
-### Phase 3+: Full Ceramic Scaling & Lights-Out Automation
-- Monolithic ceramic tanks/raceways with co-fired sensors.
-- Custom ceramic-embedded PV/AWG tiles on roofs.
-- Lights-out bots/drones from mini-fab.
-- Self-replicating kits include all modules.
-
-## Strategic & Technical Details
-- **Smart Grid**: Unified DC system (Priva, Pentair, BIPV, turbines) via APIs/Modbus + AI optimization.
-- **Data Moat**: Custom PoE/embedded sensors from Day 1 → operational data on PV, water, tanks.
-- **3D Printing**: Lease/buy off-the-shelf (no custom build needed).
-- **Bottlenecks Mitigated**: Low initial cash, proven interim tech, leased factories.
-
-   ```
 ## Output Format
 The entire response must be **raw Markdown only**, wrapped in a single code block if necessary for direct copy-paste, but primarily delivered as a complete standalone Markdown document ready for rendering in a scrollable window (e.g., GitHub Pages with Jekyll minimal theme).
 
