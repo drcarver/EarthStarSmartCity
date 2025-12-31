@@ -4,8 +4,6 @@ Build a TerraFab.  An advanced full scale sustainable semiconductor manufacturin
 
 In addition to full terrafabs we can produce small highly automated fabs for productuin of sensors and other semiconductors as small mini fabs.  The key here would e highly automated lower tech with only ai or elepresene support needed.
 
-Earth-Star Industries elects to forgo USDA Climate-Smart Commodities, REAP, and ACEP funding in order to deploy high-density (180–220 W/m²) single-axis solar across 1,200 hectares surrounding each TerraFab, achieving net renewable export of >150 GWh/year while preserving full CHIPS Act and IRA incentive eligibility.
-
 Pursue targeted JV/partnerships or acquisitions of mid-tier players (e.g., Seven Refractories' U.S./Europe ops, acquired by RHI in Apr 2023 for $110M revenue base, or similar assets from Chosun/Shinaga and integrate them into terrafactories to produce all kiln parts and kilns in house.  Includes sensors in all of this and provide reporting back to 
 our comploance portals.
 
