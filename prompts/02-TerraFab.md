@@ -49,7 +49,7 @@ our comploance portals.
  
 ---
 
-# Genesis Network Updates – Changes Since TerraWell FreeCare Specification
+# Genesis Network Updates 
 
 The following encapsulates all key changes, enhancements, refinements, and additions discussed in the chat session since the TerraWell FreeCare System detailed specification. These updates strengthen the Genesis-EarthStar Regenerative System's viability, closure, revenue streams, and political/social alignment while maintaining strict legal separation (e.g., TerraWell firewall).
 
