@@ -16,6 +16,8 @@ Earth-Star Industries will expand the fully proven U.S. domestic programme (Prom
 
 All construction uses only Genesis-family ceramic tiles, studs, and flat-pack kits. Military-grade stealth ceramics and high-margin kits (AI data centers, gigafactories) remain fully proprietary and ITAR-controlled.
 
+Some llcs in the innovstion hub do not trqnsfer.  Country snd region dpecific verdions will replsce them including accomidation for culyutsl and religoud needs.
+
 ## Mandatory Technical, Legal & Financial Constraints (validated November 2025)
 
 1. **Export only after U.S. proof** – first international district no earlier than 2045 (after >50 U.S. districts are fully operational and revenue-positive)
