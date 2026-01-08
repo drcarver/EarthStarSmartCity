@@ -5,7 +5,7 @@ description: Consolidated specification for Innovation Hub with LLCs, competency
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Innovation Hub: Integrated Model
+# Prompt 01 -  Genesis Innovation Hub: Integrated Model
 
 ## 1. Overview
 
