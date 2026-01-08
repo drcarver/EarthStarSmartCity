@@ -18,6 +18,8 @@ We will coninue restoring and cleaning up all brownsfields and closed landfills.
 
 **Key Viability Enhancement**: Dense agriculture (vertical farms, rooftop greenhouses, balcony systems, integrated aeroponics/hydroponics in buildings) is now fully incorporated into Residential/Community zones. This adds 30–50% effective productive capacity without additional land footprint, boosts local fresh produce, enhances biophilic livability, increases sequestration via green roofs/walls, and generates supplementary revenue through community-supported premium greens/herbs.
 
+As much as possible each of these major peojects shoulf be foldd into the innovation hub aand executed in paralell.  Some projects will be region specific and not in all hubs
+
 
 ## 2. Core Components Table
 
@@ -322,7 +324,8 @@ Generate a complete, self-contained GitHub-Markdown executive summary and projec
 5. Specific U.S. federal/state grant and credit programs (HUD, CHIPS, IRA, USDA, etc.)
 6. Detailed financials for electronics and appliances
 7. List of all new and reused flat-pack kits required
-8. Aggressive but 100 % honest feasibility analysis (no violations)
+8. List of LLCs in thr innovstion hub
+9. Aggressive but 100 % honest feasibility analysis (no violations)
    
 **License**: This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
