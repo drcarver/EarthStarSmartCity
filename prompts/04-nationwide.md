@@ -5,7 +5,7 @@ description: A comprehensive, self-contained plan for the regenerative Genesis N
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Master Plan
+# Prompt 04 -  Genesis Network Master Plan
 
 ## 1. Executive Summary
 
