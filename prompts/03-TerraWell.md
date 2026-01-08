@@ -17,6 +17,7 @@ Generate a complete, self-contained executive specification document for the **T
 - Facilities are located exclusively on Genesis MSW-processing brownfield sites using standard Genesis ceramic tiles and kits.  
 - All services and distributed goods are **100% free** to recipients (no co-pays, means testing, or ID required).  
 - Funding comes solely from fair-market-value donations of qualifying tangible inventory from EarthStar Technologies; no public funds ever accepted.
+- Provide traing trough education modules and competency sets
 
 **Mandatory Design Principles**  
 1. Strict legal firewall: Independent board, separate facilities, no data/personnel sharing, arm's-length transactions.  
