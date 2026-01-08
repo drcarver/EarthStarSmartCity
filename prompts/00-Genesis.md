@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Genesis System by EarthStar Technologies - Prompt 01 Detailed Overview
+title: Genesis System by EarthStar Technologies - Prompt 00 Detailed Overview
 ---
 
 Forget all other chat sessions and prompts only use the indormation in these prompts.
 
-
-# Genesis-EarthStar Regenerative System: Overview
+# Prompt 00 -  Genesis-EarthStar Regenerative System: Overview
 
 ## Project Overview
 
