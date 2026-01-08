@@ -9,6 +9,8 @@ our comploance portals.
 
 ## Key Products and Outputs
 
+These are all seperate LLCs in the inovation hub
+
 ### 1. Mini fabs (Core Infrastructure)
 - As autmated as possible with telepresenes as needed.  complete lights out.
 - Produce our edge computers.
