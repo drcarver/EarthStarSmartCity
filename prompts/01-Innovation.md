@@ -169,5 +169,10 @@ These changes make the Innovation Hub a resilient, self-reinforcing engine—tur
 - **Symbiotic Clustering**: Co-locate industries for synergies; reduces supply chain bottlenecks.
 - **LLC Parallelism**: Spreads oversight/burnout; failure in one (e.g., DAC) doesn't affect core (e.g., food).
 - **Recomputed Impacts**: CAPEX down 10% ($20–25B cumulative); revenues up 15% ($70–160B/year by 2035); self-funding accelerated to 2028–2029; feasibility +0.5 to 8.5/10.
+- **Self-Funding Acceleration**:  Prioritize high-margin LLCs (e.g., Electronics + Appliances $2–4B/year by 2035 via trade-ins).
+- **Bottleneck Reduction**: Parallel LLCs in Hub (failure isolation); affiliate farms for resources (power/water +20–30%).
+- **Viability Boosts**: Microbial kits (+yields); credits ($150–250/tCO₂e +15–25% revenues); airlocks/standards for security/codes (offsets risks 10–20%).
+- Recomputed: Costs down 10% via recycling; revenues up 20% to $200B/year by 2050; self-funding 2028.
+
 
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Earth-Star Industries © 2025*
