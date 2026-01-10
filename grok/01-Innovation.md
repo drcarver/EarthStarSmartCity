@@ -89,6 +89,10 @@ The most significant improvements come from:
 - **Parallel spin-offs** → accelerates adoption and experimentation
 - **Early carbon/biodiversity credit monetization** → provides high-margin cash flow from Year 2–3
 - **Symbiotic clustering & waste heat recovery** → compound efficiency gains
+  **Self-Funding Acceleration**: Prioritize high-margin LLCs (e.g., Electronics + Appliances $2–4B/year by 2035 via trade-ins).
+- **Bottleneck Reduction**: Parallel LLCs in Hub (failure isolation); affiliate farms for resources (power/water +20–30%).
+- **Viability Boosts**: Microbial kits (+yields); credits ($150–250/tCO₂e +15–25% revenues); airlocks/standards for security/codes (offsets risks 10–20%).
+- Recomputed: Costs down 10% via recycling; revenues up 20% to $200B/year by 2050; self-funding 2028.
 
 **Result**: The Genesis Innovation Hub is now positioned as a highly agile, self-reinforcing platform capable of bootstrapping an expanding portfolio of regenerative industries with minimal external capital dependency.
 
