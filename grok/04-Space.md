@@ -68,6 +68,9 @@ This adjustment significantly increases overall project viability (from ~60% to 
 
 ---
 
+## Output Format
+The entire response must be **raw Markdown only**, wrapped in a single code block if necessary for direct copy-paste, but primarily delivered as a complete standalone Markdown document ready for rendering in a scrollable window (e.g., GitHub Pages with Jekyll minimal theme).
+
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 © 2026 Earth-Star Industries
