@@ -10,11 +10,11 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Objective
 
-The Genesis Network will remain **Earth-first** and aggressively focused on achieving rapid, robust self-funding (target: positive cash flow by late 2029, cumulative positive by 2030–2031) before any material commitment to space activities.  
+The Genesis Network remains **Earth-first** and aggressively focused on achieving rapid, robust self-funding (positive cash flow by late 2029; cumulative positive by 2030–2031) before any material commitment to space activities.
 
-Space expansion is treated as a **high-upside, long-term optionality** — not a near-term dependency. Formal space LLC formation, capital allocation, and operational milestones are deferred until **clear, de-risked progress** is demonstrated in critical Starship capabilities (high-cadence flights, orbital refueling, sustained payload delivery to LEO/Luna/Mars).  
+Space expansion is treated as **high-upside, long-term optionality** — not a near-term dependency. Formal space LLC formation, capital allocation, and operational milestones are deferred until **clear, de-risked progress** is demonstrated in critical Starship capabilities (high-cadence flights, orbital refueling, sustained payload delivery to LEO/Luna/Mars).
 
-This revision delays the original aggressive timeline by **8–12 years** on average, aligning with realistic external progress curves (NASA, independent analysts, SpaceX tempered statements as of January 2026).
+This revision delays the original aggressive timeline by **8–12 years** on average, aligning with realistic external progress curves as of January 2026 (Starship Flight 11 completed late 2025; Flight 12 preparations underway; orbital refueling NET mid-2026; Artemis III NET 2027–2028).
 
 ## Guiding Principles for Space Integration
 
@@ -23,7 +23,7 @@ This revision delays the original aggressive timeline by **8–12 years** on ave
    - Space R&D limited to low-cost, high-ROI Earth analogs (closed-loop habitat labs, microgravity simulators, artificial wombs) that deliver immediate improvements to Earth hubs.
 
 2. **Milestone-Gated Commitment**  
-   Space phases unlock only after sequential, externally verifiable achievements:  
+   Unlock phases only after sequential, externally verifiable achievements:  
    - ≥50 successful integrated flights/year with full reusability (target: 2028–2032)  
    - Proven orbital refueling + propellant depot demonstration (2028–2033)  
    - First successful uncrewed Mars landing with meaningful payload (2028–2035)  
@@ -31,7 +31,7 @@ This revision delays the original aggressive timeline by **8–12 years** on ave
    - Sustained lunar presence with resource extraction pilot (2035–2040)
 
 3. **Risk Compartmentalization**  
-   - Space LLCs (when formed) operate as independent entities within the Innovation Hub.  
+   - Future space LLCs operate as independent entities within the Innovation Hub.  
    - Failure or multi-year delays in space activities **cannot** impact core Earth revenue streams (tiles, biogas, food, electronics, credits).  
    - Oversight and burnout risk spread across dedicated space teams; no shared personnel with Earth operations.
 
@@ -52,24 +52,21 @@ This revision delays the original aggressive timeline by **8–12 years** on ave
 
 ## Financial & Risk Implications
 
-- **CapEx Deferral**: Original Phase 1–2 CapEx ($10–35B) pushed 8–12 years later → preserves $20–25B for Earth hubs 2027–2040, accelerating self-funding and affiliate scaling.
-- **Revenue Impact**: Earth-only focus adds ~$5–15B cumulative revenue by 2035 (faster kits/credits rollout); space feedback delayed but higher certainty.
-- **Risk Reduction**: Overall project failure probability drops from ~40% to ~25–30% by removing near-term space dependency.
+- **CapEx Deferral**: Original Phase 1–2 CapEx ($10–35B) pushed 8–12 years later → preserves $20–25B for Earth hubs 2027–2040, accelerating self-funding and affiliate scaling.  
+- **Revenue Impact**: Earth-only focus adds ~$5–15B cumulative revenue by 2035 (faster kits/credits rollout); space feedback delayed but higher certainty.  
+- **Risk Reduction**: Overall project failure probability drops from ~40% to ~25–30% by removing near-term space dependency.  
 - **Upside Retained**: Space remains a potential trillion-dollar multiplier post-2040 if milestones are met; treated as high-reward optionality, not core path.
 
 ## Summary Recommendation
 
-**The space integration was too early.**  
-The revised approach keeps the Genesis Network aggressively focused on proven Earth bootstrapping and self-funding (2029 break-even), while preserving visionary long-term space optionality.  
+**The original space timeline was too aggressive.**  
+This revised approach keeps the Genesis Network focused on proven Earth bootstrapping and self-funding (2029 break-even), while preserving visionary long-term space optionality.
 
 Formal space LLCs and significant CapEx commitments are deferred until **Starship demonstrates reliable, high-cadence orbital capability** (likely mid-2030s). Until then, space R&D remains low-cost, Earth-beneficial proxy work only.
 
 This adjustment significantly increases overall project viability (from ~60% to **70–80%**) without sacrificing the ultimate transformative vision.
 
 ---
-
-## Output Format
-The entire response must be **raw Markdown only**, wrapped in a single code block if necessary for direct copy-paste, but primarily delivered as a complete standalone Markdown document ready for rendering in a scrollable window (e.g., GitHub Pages with Jekyll minimal theme).
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
