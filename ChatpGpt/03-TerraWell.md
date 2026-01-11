@@ -1,219 +1,146 @@
 ---
 layout: default
-title: Earth-Star Industries Prompt 04 – TerraWell FreeCare System Detailed Specification
-description: Comprehensive executive specification for the TerraWell FreeCare System, a standalone humanitarian nonprofit layer.
+title: Earth-Star Industries – TerraWell FreeCare System Detailed Specification
+description: Comprehensive executive specification for the TerraWell FreeCare System, a standalone humanitarian nonprofit layer operating alongside but legally separate from the Genesis System.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# TerraWell FreeCare System  
-**Detailed Executive Specification (December 2025)**
+# Genesis System: Detailed Overview  
+## TerraWell FreeCare System (Standalone Humanitarian Layer)
 
 ---
 
-## 1. Executive Summary
+## Executive Summary
 
-### Mission
+The **TerraWell FreeCare System** is a fully independent, privately funded **501(c)(3) nonprofit** operated by the **TerraWell Foundation**, designed to deliver **free food, essential goods, and medical support** to underserved populations at national scale while maintaining strict legal and operational separation from **EarthStar Technologies** and its for-profit **Genesis System**.
 
-The **TerraWell FreeCare System** is a fully private, standalone **501(c)(3) nonprofit** operated by the independent **TerraWell Foundation**. Its sole mission is to provide **free, unconditional access** to food, essential medicines, durable medical equipment, and basic healthcare services to underserved populations in the United States, particularly during periods of economic stress, disaster response, and healthcare access failure.
+By 2050, TerraWell targets:
+- **250+ permanent FreeCare Centers** co-located on Genesis MSW-processing brownfield sites (physically adjacent but legally separate).
+- **1,000+ mobile care and logistics units** for disaster response and rural outreach.
+- **100+ million individuals served annually**, with no means testing, ID requirement, or co-pay.
 
-All services and goods are provided **100% free of charge**, with:
-- No co-pays  
-- No insurance requirements  
-- No means testing  
-- No identification requirements  
-
-### Structural Positioning
-
-TerraWell FreeCare is **legally and operationally firewalled** from:
-- EarthStar Technologies (for-profit)
-- The Genesis System
-- TerraFab
-- Any residential, commercial, or revenue-generating entities
-
-TerraWell facilities are located **only** on Genesis-operated **MSW-processing brownfield sites**, using standard Genesis ceramic tiles and kits purchased or donated at fair market value.
-
-### Scale Goals (2050 Targets)
-
-- **Fixed Care Centers**: ~2,500 nationwide  
-- **Mobile Units**: ~15,000 (medical, food, disaster response)  
-- **Annual Individuals Served**: 120–180 million encounters  
-- **Disaster Surge Capacity**: Up to 30 million people/year  
-
-### Net Financial Impact to EarthStar Technologies
-
-- Donations limited to **qualifying tangible inventory only**
-- Enhanced deductions claimed **only where allowed under IRC §170(e)(3)**
-- No donation of services, IP, labor, data, or facility use
-- Conservative net tax efficiency: **5–12% of donated inventory FMV**
-- Zero operational control or reputational dependency on TerraWell outcomes
-
-TerraWell is designed to **reduce reputational risk**, not increase it.
+**Net Financial Impact to EarthStar Technologies**
+- EarthStar donates **qualifying tangible inventory only** (food, OTC meds, select generic drugs, durable medical equipment).
+- Enhanced deductions under **IRC §170(e)(3)** apply primarily to food and limited medical inventory.
+- Donations are capped to preserve profitability and avoid recharacterization risk.
+- TerraWell provides **reputational, workforce stability, and political risk mitigation value**, but **no operational subsidies** to EarthStar.
 
 ---
 
-## 2. Legal & Tax Structure Description
+## Legal & Tax Structure Description
 
-- TerraWell Foundation is a **separately incorporated 501(c)(3)** public charity.
-- Independent Board of Directors (no EarthStar officers, no shared fiduciaries).
-- Separate:
-  - Accounting systems
-  - IT infrastructure
-  - Data storage
-  - Personnel
-  - Facilities
-- All transactions with EarthStar Technologies conducted at **arm’s length**.
-- Donations restricted to **tangible personal property inventory**:
-  - Food
-  - OTC medications
-  - Certain generic drugs (where legally compliant)
-  - Durable medical equipment (DME)
-
-### Tax Treatment (U.S.)
-
-- Donations evaluated under **IRC §170**.
-- Enhanced deduction under **§170(e)(3)** applies primarily to:
-  - Food inventory
-  - Certain medical supplies used for care of the ill or needy
-- No valuation inflation, no bundled services, no donor-directed use.
-- TerraWell does **not** issue donation receipts to individuals for services.
+- TerraWell Foundation is an **independent 501(c)(3)** with:
+  - Its own board (no EarthStar executives).
+  - Independent management, payroll, IT, and data systems.
+- All transactions with EarthStar Technologies occur at **arm’s length**, documented by third-party FMV appraisals.
+- **Donations restricted to tangible goods only**:
+  - Food (primary enhanced deduction eligibility).
+  - OTC medications.
+  - Certain generic prescription drugs where compliant.
+  - Durable medical equipment (wheelchairs, walkers, CPAP accessories).
+- **No donation of services, IP licenses, professional time, or use of staff**.
+- Medical services are delivered by **TerraWell-employed or volunteer licensed professionals**, funded through TerraWell’s own operating budget.
+- TerraWell accepts **no public funds**, grants, or government reimbursements.
 
 ---
 
-## 3. Detailed Service Catalogue
+## Detailed Service Catalogue (All Free)
 
-| Category | Description | Unit FMV (2025 USD) | Deduction Eligibility |
-|--------|-------------|---------------------|----------------------|
-| Food Kits | Fresh produce, staples, prepared meals | $8–15/day/person | §170(e)(3) eligible |
-| OTC Medications | Pain relievers, cold/flu, allergy meds | $5–30/item | Partial |
-| Generic Rx Drugs | Antibiotics, insulin (where compliant) | $20–300/course | Limited / case-by-case |
-| Wheelchairs | Manual and powered | $300–7,500 | Partial |
-| Walkers / Crutches | Durable mobility aids | $40–250 | Partial |
-| CPAP Accessories | Masks, tubing, filters | $25–200 | Partial |
-| Scrubs / PPE | Disposable, sustainable | $5–20/set | Partial |
-| Primary Care Visits | Basic evaluation, triage | $100–200 | Not deductible |
-| Mental Health Visits | Counseling, crisis care | $120–250 | Not deductible |
-
-**Note**: Services are funded through TerraWell operations, not tied to donations.
+| Category | Goods / Services | FMV Range (2025 USD) | Deduction Eligibility |
+|-------|-----------------|---------------------|----------------------|
+| Nutrition | Fresh produce, grains, legumes | $2–6 / meal | §170(e)(3) eligible |
+| Prepared Food | Shelf-stable meals | $3–8 / unit | §170(e)(3) eligible |
+| OTC Medication | Pain relievers, cold meds | $5–25 / unit | Standard FMV |
+| Generic Rx | Antibiotics, insulin (where compliant) | $10–300 / course | Limited |
+| Durable Medical Equipment | Wheelchairs, walkers, crutches | $300–2,500 | Partial |
+| Respiratory Accessories | CPAP/BiPAP masks, tubing | $50–400 | Partial |
+| Hygiene Supplies | Soap, toothbrushes, scrubs | $2–40 | Standard |
+| Basic Diagnostics | Vitals screening, CGM (loaned) | $20–150 | N/A (service) |
 
 ---
 
-## 4. Physical Assets Table
+## Physical Assets (2050 Target)
 
-### Fixed Facilities (2050)
-
-| Asset | Spec | Quantity | CapEx / Unit |
-|-----|------|----------|--------------|
-| Care Centers | 20–40k sq ft tiled facilities | 2,500 | $6–10M |
-| Pharmacies | Integrated dispensing zones | Included | — |
-| Food Prep Units | Commercial kitchens | Included | — |
-
-### Mobile Units
-
-| Asset | Spec | Quantity | CapEx / Unit |
-|-----|------|----------|--------------|
-| Medical Vans | Exam + diagnostics | 6,000 | $350k |
-| Food Distribution Trucks | Cold + dry storage | 5,000 | $250k |
-| Disaster Response Units | Power, water, triage | 4,000 | $500k |
+| Asset Type | Quantity | Key Specs | Est. Capex |
+|----------|----------|----------|------------|
+| Fixed FreeCare Centers | 250 | 20–40k sq ft, tiled ceramic structures | $50–75M each |
+| Mobile Clinics | 600 | EV/biogas hybrid, negative-pressure | $1.2M each |
+| Mobile Food Units | 400 | Cold chain + shelf stable | $750k each |
+| Disaster Response Units | 150 | автономous power + water | $2M each |
 
 ---
 
-## 5. Rollout Timeline (2027–2075)
+## Rollout Timeline (2027–2075)
 
-### Phase I: Pilot (2027–2030)
-- 25 care centers
-- 250 mobile units
-- Focus: proof of compliance, disaster response
+### Phase 1 (2027–2032)
+- Pilot 10 centers + 50 mobile units.
+- Focus: food security, OTC distribution, disaster response.
 
-### Phase II: Regional Scale (2031–2040)
-- 500 care centers
-- 3,000 mobile units
-- National disaster integration
+### Phase 2 (2033–2045)
+- Scale to 100 centers nationwide.
+- Add durable medical equipment manufacturing intake.
 
-### Phase III: National Coverage (2041–2055)
-- 2,000+ care centers
-- 10,000+ mobile units
-
-### Phase IV: Long-Term Stabilization (2056–2075)
-- Asset refresh cycles
-- Workforce automation support
-- Expanded disaster surge capacity
+### Phase 3 (2046–2075)
+- 250+ centers, global humanitarian deployment capability.
+- Full integration with emergency response frameworks (without public funding).
 
 ---
 
-## 6. Mobile Unit Specifications & Disaster Protocols
+## Mobile Unit Specifications & Disaster Protocols
 
-### Mobile Unit Capabilities
-- автономous-capable navigation (human override)
-- Satellite + cellular connectivity
-- Onboard cold chain
-- Rapid-deploy airlock entry
-- Integrated triage sensors
-
-### Disaster Response Protocol
-1. Pre-positioning within 24 hours
-2. автономous convoy deployment
-3. Triage via hyperspectral airlocks
-4. Free distribution without ID
-5. Data retained locally only (no sharing)
+- **Power**: Biogas microturbines + battery buffers.
+- **Water**: Rain capture + AWG.
+- **Medical**: Triage bays, telepresence diagnostics.
+- **Protocol**:
+  1. Autonomous deployment within 48 hours.
+  2. Secure perimeter + smart airlock triage.
+  3. Daily compliance and safety reporting.
 
 ---
 
-## 7. Political & Reputational Risk Mitigation
+## Political & Reputational Risk Mitigation
 
-- No public funding acceptance
-- No political advocacy
-- No data sharing with donors
-- Transparent public reporting
-- Conservative claims on tax benefits
-- Clear humanitarian-only branding
+- Absolute prohibition on political messaging.
+- Transparent public reporting (audited annually).
+- Geographic neutrality (no targeted districts).
+- Strict separation from EarthStar lobbying or commercial activity.
 
 ---
 
-## 8. Strict Integration Rules (Explicit Prohibitions)
+## Strict Integration Rules (Explicit Prohibitions)
 
-TerraWell **may not**:
-- Share data, personnel, or IT systems with EarthStar
-- Provide preferential access to Genesis residents
-- Accept directed donations tied to outcomes
-- Act as a healthcare insurer or managed care entity
-- Monetize services or collect patient data for resale
-
-All violations trigger automatic board review and suspension authority.
+- No shared employees, databases, or AI systems.
+- No preferential allocation of goods.
+- No marketing or branding overlap.
+- No bundled agreements with Genesis tenants or residents.
 
 ---
 
-## 9. Honest Feasibility & Compliance Assessment
+## Honest Feasibility & Compliance Assessment
 
-### Strengths
-- Legally conservative structure
-- High humanitarian impact
-- Low political risk
-- Asset-based (not service-donation dependent)
+**Strengths**
+- Legally robust firewall.
+- Tangible-goods-only donation model.
+- High humanitarian ROI per dollar.
 
-### Risks
-- FDA compliance complexity for drugs
-- Operational scale management
-- Public misinterpretation of relationship to EarthStar
+**Risks**
+- FDA compliance for donated generics.
+- Public perception of corporate influence.
+- Logistical scale complexity.
 
-### Required Safeguards
-- Independent compliance audits
-- Conservative valuation policies
-- Strict firewall enforcement
-- Incremental scaling only after audits
-
-**Overall Feasibility**: **8.0 / 10**  
-Achievable with disciplined governance, conservative tax posture, and phased growth.
+**Required Safeguards**
+- Third-party compliance audits.
+- Conservative deduction assumptions.
+- Donation caps tied to EarthStar profitability.
 
 ---
 
-## Closing Summary
+## Summary
 
-The TerraWell FreeCare System provides a **legally sound, ethically grounded, and operationally realistic** humanitarian layer that complements—but never intertwines with—the Genesis ecosystem. It is intentionally designed to maximize human benefit while minimizing legal, tax, political, and reputational risk.
+The TerraWell FreeCare System is a **credible, scalable, and legally defensible humanitarian layer** that maximizes social benefit while preserving EarthStar Technologies’ financial sustainability and regulatory compliance. When executed with disciplined governance, it materially improves food security, disaster resilience, and access to essential goods—without dependence on public funding or regulatory arbitrage.
 
 ---
 
-**License**  
-This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-
-© 2025 EarthStar Technologies
+© 2025 EarthStar Technologies  
+Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**
