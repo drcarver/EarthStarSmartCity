@@ -53,7 +53,7 @@ theme: minimal
 ## 3. Cost & Revenue Projection Table by Space Phase
 
 | Phase | CapEx (B USD) | Opex (B USD/year) | Revenue Flow to Earth Hubs (M USD/year) | Payback / ROI | Notes |
-|-------|---------------|------------------|----------------------------------------|---------------|-------|
+|-------|---------------|-----------------|----------------------------------------|---------------|-------|
 | Phase 0 | 0.25 | 0.05 | 50 | 3–5 years | Earth R&D, early feedback loop |
 | Phase 1 | 1.5 | 0.2 | 150 | 5–7 years | LEO factories & prep for mass drivers |
 | Phase 2 | 7.5 | 0.5 | 250–400 | 7–10 years | Lunar/Mars pilot colonies; hydroponics feedback |
@@ -69,7 +69,6 @@ theme: minimal
 
 ---
 
-**License:**  
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+**License:** This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 © 2025 Earth-Star Industries
