@@ -1,231 +1,157 @@
 ---
 layout: default
-title: Genesis Network Master Plan – Executive Summary & Integrated Project Plan
-description: Comprehensive, self-contained master plan for the Genesis Network regenerative system with realistic financials, timelines, and compliance.
+title: Genesis Network Master Plan by Earth-Star Industries
+description: A comprehensive, self-contained executive summary and project plan for the Genesis Network, integrating regenerative hubs, TerraFab, TerraWell FreeCare, and smallholder partnerships.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Genesis Network Master Plan  
-**Earth-Star Industries | Executive Summary & Integrated Project Plan (2027–2050)**
+# Genesis Network Master Plan: Executive Summary & Project Plan
+
+## 1. Executive Summary (2027–2050 Realistic Schedule)
+
+The **Genesis Network** is a self-funding, modular, regenerative industrial–agricultural system designed to internalize food, energy, water, materials, electronics, pharmaceuticals, and essential services into closed-loop hubs. Developed by **Earth-Star Industries**, the Network prioritizes **bootstrapped revenue**, political durability through farmer empowerment, and aggressive recycling of legacy infrastructure and waste streams.
+
+### Core Objective
+Achieve **regional self-sufficiency by the 2040s** and **near-total U.S. internalization of essentials by the 2050s**, while remaining carbon-negative and mining-minimal.
+
+### Schedule (Conservative, Execution-Driven)
+- **2027–2030**: Pilot Genesis hubs (5–10), farms-first revenue (food, tiles, biogas, waste tipping), leased factories, mini-fabs online.
+- **2030–2035**: 20–100 hubs; TerraFab Phase 1 (electronics, sensors, APIs); TerraWell rollout; first city incorporations.
+- **2035–2040**: 200–500 hubs + 10k–25k partner farms; majority of food, building materials, and power internalized.
+- **2040–2050**: 1,000+ hubs; 50k+ partners; electronics, appliances, pharma APIs, and infrastructure fully internalized; U.S. essentials largely post-scarcity.
+
+**Self-Funding Threshold**: Positive network cash flow by **2028–2029**, with no reliance on long-term public funding.
 
 ---
 
-## 1. Executive Summary (Reality-Checked)
+## 2. Corrected City Layout & Revenue Table (Per Mature Hub)
 
-The **Genesis Network** is a vertically integrated, regenerative industrial–agricultural system designed to replace extractive supply chains with **ceramics-dominant, recycling-first, automation-heavy hubs** located primarily on **brownfields, landfills, and degraded sites**.
-
-The Network is **self-funded**, **modular**, and **politically defensible** by embedding:
-- Small family farmer empowerment
-- Cooperative/LLC decentralization
-- A legally firewalled humanitarian layer (TerraWell FreeCare)
-- Aggressive recycling that reduces virgin mining by 70–90%
-
-### Corrected Strategic Reality (Key Changes)
-- **True break-even occurs earlier** (2034–2036) by prioritizing *infrastructure recycling, tiles, food, gases, and grants* before advanced electronics scale.
-- **Cities emerge gradually**, not from day one. Early hubs are rural-industrial with phased densification.
-- **Electronics/appliances are profitable but not dominant** until late 2030s.
-- **Federal/state programs materially improve cash flow** but are never required for survival.
-
-### Target Scale (U.S.)
-| Year | Hubs | Partner Farms | People Supported (food/services) |
-|----|----|----|----|
-| 2027 | 1–2 pilots | 20–50 | <100k |
-| 2030 | 10 | 500 | 2–3M |
-| 2035 | 50–80 | 5,000 | 20–40M |
-| 2040 | 200–400 | 25,000 | 80–150M |
-| 2050 | 1,000+ | 100,000+ | 250–350M |
+| Zone | % Area | Core Functions | Annual Revenue (USD) |
+|-----|-------|---------------|----------------------|
+| Productive | 40% | Aquaponics, agroforestry, TerraFab, biorefineries | $2.0–3.5B |
+| Residential/Community | 30% | Dense housing, vertical ag, TerraWell, education | $0.5–1.0B |
+| Infrastructure | 15% | Roads, pipes, power, mini-fabs | $0.3–0.6B |
+| Nature/Blue-Green | 15% | Rewilding, wetlands, DAC | $0.2–0.5B (credits) |
+| **Total** | **100%** | — | **$3.0–5.6B/hub/year** |
 
 ---
 
-## 2. Corrected Hub / City Layout (Per Mature Hub)
+## 3. Annual Power, Water, and Carbon Balance (Per Hub)
 
-**Baseline Hub Footprint:** 800–1,200 hectares (2,000–3,000 acres)
-
-| Zone | % Area | Key Components | Annual Revenue @ Maturity |
-|----|----|----|----|
-| Productive Core | 38% | Aquaponics, agroforestry, algae, insects, biorefineries | $1.4–2.2B |
-| Manufacturing | 14% | TerraFab, ceramics, appliances, robotics | $1.1–1.8B |
-| Residential/Community | 26% | Housing, dense ag, education, TerraWell | $0.3–0.6B |
-| Infrastructure | 12% | Smart roads, pipes, storage, grids | $0.2–0.4B |
-| Rewilding/Blue-Green | 10% | Wetlands, buffers, credits | $0.3–0.8B |
-| **Total** | **100%** | — | **$3.3–5.8B/hub/year** |
-
-Dense residential agriculture increases effective food output **+25–35%** with no new land.
-
----
-
-## 3. Annual Power, Water & Carbon Balance (Per Mature Hub)
-
-### Energy
+### Power Balance
 | Source | GWh/year |
-|----|----|
-| Solar (fixed + roofs) | 1,200 |
-| Wind | 1,000 |
-| Biogas/Syngas | 1,400 |
-| Waste Heat Recovery | 300 |
-| **Total Generated** | **3,900** |
-| Internal Use | 2,600 |
-| Export | 1,300 |
+|------|----------|
+| Agrivoltaics + BIPV | 800–1,200 |
+| Biogas turbines | 600–900 |
+| Waste heat recovery | 200–300 |
+| **Total Generated** | **1,600–2,400** |
+| Internal Use | 1,100–1,400 |
+| **Net Export** | **300–800** |
 
-### Water
-| Category | Volume |
-|----|----|
-| Rain/Harvest | 15–25B gallons |
-| Recycled/Closed-Loop | 30–40B gallons |
-| Net Aquifer Recharge | 5–12B gallons |
-| Municipal Import | ~0 |
+### Water Balance
+| Component | Volume |
+|---------|--------|
+| Rain capture + AWG | 3–6B gal/year |
+| Recycled grey/blackwater | 2–4B gal/year |
+| Losses | <5% |
+| **Closure** | **~98–100%** |
 
-### Carbon (Net)
-| Source | MtCO₂e/year |
-|----|----|
-| Biochar/Soils | 2.5–4 |
-| Blue-Green Carbon | 1.5–3 |
-| DAC + Mineralization | 0.8–1.5 |
-| Avoided Emissions | 4–6 |
-| **Net Negative** | **8–14 MtCO₂e/hub/year** |
+### Carbon Balance
+| Item | tCO₂e/year |
+|------|------------|
+| Biochar + soil | 1–3M |
+| Blue/green carbon | 0.5–1.5M |
+| DAC/mineralization | 0.5–1.0M |
+| **Net** | **2–5M tCO₂e sequestered** |
 
 ---
 
-## 4. Full Cost Breakdown & Cash Flow (Single Hub)
+## 4. Full Cost Breakdown & Financials (Network Aggregate)
 
-### CAPEX (Phased)
-| Phase | Years | CAPEX |
-|----|----|----|
-| Pilot | 2027–2029 | $1.4B |
-| Expansion | 2030–2035 | $2.1B |
-| Maturity | 2036–2045 | $1.6B |
-| **Total** | — | **$5.1B** |
+### CAPEX (Per Hub, Mature)
+- Land & remediation (brownfields): $50–150M
+- Agriculture & biorefineries: $400–700M
+- TerraFab & mini-fabs: $600–1,000M
+- Housing & infrastructure: $300–600M
+- **Total**: **$1.4–2.5B/hub**
 
-### OPEX @ Maturity
-- Labor (automation-heavy): $420M
-- Maintenance/materials: $380M
-- Energy (net): ~$0
-- Admin/compliance: $120M  
-**Total:** ~$920M/year
+### Network Cash Flow (USD, Conservative)
 
-### Revenue Ramp (Nominal)
-| Year | Revenue | EBITDA |
-|----|----|----|
-| 2028 | $180M | -$90M |
-| 2032 | $1.2B | $420M |
-| 2036 | $3.4B | $1.9B |
-| 2040 | $4.8B | $3.0B |
+| Year | Revenue | Opex | Net Cash Flow |
+|------|---------|------|---------------|
+| 2027 | $1.5B | $1.4B | $0.1B |
+| 2030 | $8–12B | $5–7B | $3–5B |
+| 2035 | $40–80B | $20–35B | $20–45B |
+| 2040 | $120–250B | $60–120B | $60–130B |
+| 2050 | $500B+ | $250B | $250B+ |
 
-### Financial Metrics (Per Hub)
-- **Break-Even:** 7–9 years
-- **IRR:** 29–36%
-- **NPV (7%):** $9–14B
-- **Operating Margin @ Maturity:** 55–65%
+- **Break-even**: 2028–2029  
+- **IRR**: ~28–38%  
+- **NPV (2050)**: Strongly positive (> $30–50B at network level)
 
 ---
 
-## 5. U.S. Federal & State Programs (Non-Dilutive)
+## 5. U.S. Federal & State Programs (Tactical Use Only)
 
-**Used Opportunistically, Never Required**
+- **USDA**: FSA Beginning Farmer Loans, REAP grants
+- **DOE/IRA**: ITC/PTC for solar, biogas, storage
+- **EPA**: Brownfields remediation, water recycling
+- **CHIPS Act**: Semiconductor equipment credits (TerraFab)
+- **HUD**: Modular housing pilots (where applicable)
 
-| Program | Use Case |
-|----|----|
-| USDA REAP | Farm energy, digesters |
-| USDA NRCS | Soil, wetlands, agroforestry |
-| IRA §45/48 | Clean power, storage |
-| IRA §45Q | DAC/mineralization |
-| DOE LPO | Grid-scale pilots |
-| EPA Brownfields | Site remediation |
-| HUD Section 108 | Infrastructure (later phases) |
-| CHIPS Act | Select TerraFab lines |
-| MARAD / PIDP | Ports & coastal hubs |
-
-Estimated contribution: **5–12% of CAPEX**, accelerating timelines 1–2 years.
+*All grants used tactically; long-term viability independent.*
 
 ---
 
-## 6. Electronics & Appliances – Realistic Financials
+## 6. Electronics & Appliance Financials (Per Hub)
 
-| Category | Annual Units | ASP | Revenue | Margin |
-|----|----|----|----|----|
-| Appliances (ceramic-dominant) | 2–4M | $900 | $1.8–3.6B | 25–35% |
-| Grid Electronics | — | — | $0.8–1.5B | 30–40% |
-| Robotics | 100k–250k | $18k | $1.8–4.5B | 35–45% |
-| Semiconductors (select nodes) | — | — | $1.2–2.0B | 20–30% |
-
-Electronics become core **post-2035**, never earlier.
+| Product Line | Revenue | Margin |
+|-------------|---------|--------|
+| Edge computers/sensors | $400–700M | 50–60% |
+| Appliances (licensed) | $300–600M | 30–40% |
+| Robotics/drones | $200–500M | 45–55% |
+| **Total** | **$0.9–1.8B** | — |
 
 ---
 
-## 7. Flat-Pack Kits (New + Reused)
+## 7. Flat-Pack Kits (New & Reused)
 
-### Reused
-- Ceramic tile kits
-- Aquaponics modules
-- Biogas digesters
-- Smart road segments
-- Housing pods
-
-### New (Added for Viability)
+- Genesis ceramic tile kits (roads, buildings, pipes)
+- Aquaponics & RAS kits (phased hydro → fish)
+- Biogas & waste valorization kits
+- Mini-fab & TerraFab equipment kits
 - Microbial inoculant kits
-- Dam & river restoration kits
-- Agroforestry expansion kits
-- Infrastructure recycling/plasma kits
-- Mobile TerraWell disaster units
-- Education/telepresence hubs
-- DAC pilot modules
+- Restoration kits (wetlands, rivers, blue carbon)
+- Housing & infrastructure kits
 
 ---
 
-## 8. LLCs Within a Single Innovation Hub
+## 8. Innovation Hub LLC Structure
 
-| LLC | Function |
-|----|----|
-| Genesis Hub Ops LLC | Core operations |
-| TerraFab Manufacturing LLC | Manufacturing |
-| Genesis Ag LLC | Food systems |
-| Genesis Energy LLC | Power & fuels |
-| Genesis Materials LLC | Ceramics/RCA |
-| Genesis Robotics LLC | Automation |
-| Genesis Restoration LLC | Wetlands/dams |
-| Genesis Infrastructure LLC | Roads/ports |
-| Genesis Housing LLC | Residential |
-| TerraWell Foundation (501c3) | Humanitarian (separate) |
-
-Each LLC ring-fenced for liability, tax clarity, and antitrust defense.
+- Genesis Hub Ops LLC  
+- TerraFab Manufacturing LLC  
+- Mini-Fab Electronics LLC  
+- Industrial Gases LLC  
+- Robotics & Automation LLC  
+- Restoration & Carbon LLC  
+- TerraWell FreeCare Foundation (501(c)(3), separate)
 
 ---
 
-## 9. Aggressive but Honest Feasibility Assessment
+## 9. Aggressive but Honest Feasibility Analysis
 
-### What Makes This Actually Work
-- Brownfield land arbitrage (huge)
-- Infrastructure recycling replacing mining
-- Early revenue from food, tiles, gases
-- Farmer & co-op political shield
-- Automation > labor
-- Modular parallel scaling
-
-### Real Risks
-- Execution discipline failure
-- Over-expansion before cash flow
-- Regulatory drag if separation rules blur
-- Cultural resistance in some regions
-
-### Final Scores
-| Dimension | Score |
-|----|----|
-| Technical | 8.5 / 10 |
-| Economic | 8.5 / 10 |
-| Environmental | 9.5 / 10 |
-| Political/Social | 8.0 / 10 |
-| **Overall** | **8.5 / 10** |
-
-**Success Probability:** ~70–80% with disciplined phasing.
+- **Technical**: 8.5/10 – All core tech exists; integration risk managed via phasing.
+- **Economic**: 8.5/10 – Early cash flows from food, waste, tiles de-risk scaling.
+- **Political/Social**: 8/10 – Farmer-first, co-op model reduces backlash.
+- **Key Risks**:
+  - Execution complexity → mitigated by modular kits.
+  - Regulatory drag → parallel pilots, compliance portals.
+- **Overall**: **~8.5/10 probability of success** with disciplined execution.
 
 ---
 
-## Closing Statement
+**License**  
+This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-The Genesis Network is not a moonshot—it is a **systematic replacement of extractive infrastructure with regenerative, modular industry**, executed hub-by-hub, farmer-by-farmer, and city-by-city. Its strength lies not in any single technology, but in **closure, repetition, and political realism**.
-
----
-
-© 2025 Earth-Star Industries  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+© 2025 Earth-Star Industries
