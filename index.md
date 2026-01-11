@@ -53,9 +53,7 @@ The system draws inspiration from NASA ECLSS/BLSS principles but is optimized fo
 
 ## Project Status
 
-Actively bootstrapping in 2026.  
-First distressed land acquisition and pilot hub construction targeted for Q2–Q3 2027.  
-All content licensed under CC BY 4.0 for maximum dissemination and collaboration.
+Planning for bootstrapping in 2026.  
 
 ## License
 
