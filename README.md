@@ -55,37 +55,37 @@ Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations in
    *(Inspired by ISS teleoperation and simulation training)*
 
 ### Non-NASA/ISS-Inspired Modules
-10. **Mini-Fab LLC**  
+10. **[Mini-Fab LCC](web/minifab.md)**  
     Sensors, edge computers, robotics, semiconductors, drones
 
-11. **Medical Supplies LLC**  
+11. **[Medical Supplies LCC](web/medical.md)**  
     DME, consumables, OTC drugs, nurse-aid bots
 
-12. **Carbon & Biodiversity Credits LLC**  
+12. **[Carbon & Biodiversity Credits LCC](web/carbon.md)**  
     Blockchain-verified credits
 
-13. **Robotics & Automation LLC**  
+13. **[Robotics & Automation LCC](web/robotics.md)**  
     Farm/factory bots, drone swarms, robotaxis
 
-14. **Consumer Electronics & Appliances LLC**  
+14. **[Consumer Electronics & Appliances LCC](web/consumer.md)**  
     TVs, chargers, wearables, appliances
 
-15. **Textiles & Vegan Materials LLC**  
+15. **[Textiles & Vegan Materials LCC](web/textiles.md)**  
     Recycled yarn, vegan leather
 
-16. **Furniture & Building Products LLC**  
+16. **[Furniture & Building Products LCC](web/furniture.md)**  
     Chairs, tables, bicycles, eyewear, toys, insulation, geotextiles
 
-17. **Forestry & Timber LLC**  
+17. **[Forestry & Timber LCC](web/forestry.md)**  
     Lights-out sustainable forestry
 
-18. **Port & Maritime LLC**  
+18. **[Port & Maritime LCC](web/port.md)**  
     Ceramic docks, vessel components
 
-19. **Transportation Infrastructure LLC**  
+19. **[Transportation Infrastructure LCC](web/transportation.md)**  
     Smart roads, rail extensions
 
-20. **Pharma & APIs LLC**  
+20. **[Pharma & APIs LCC](web/pharma.md)**  
     Generics, OTC, APIs from crops/biorefinery
 
 ## Modules Essential for Regenerative Architecture
