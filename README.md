@@ -18,11 +18,11 @@ This overview provides a list of all Innovation Hub modules (LLCs), prioritizing
 Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations include closed-loop life support (ECLSS for waste/water/air management), bioregenerative systems (BLSS for food/aquaponics), modular habitats, and environmental monitoring/digital twins from space station tech.
 
 ### NASA/ISS-Inspired Modules
-1. **Biorefinery LLC (web/biorefinery.md)**  
+1. **[Biorefinery LCC] (web/biorefinery.md)**  
    Biochar, microbial inoculants, biogas upgrading  
    *(Inspired by ECLSS waste-to-energy and BLSS microbial processing)*
 
-2. **Food & Agro LLC (web/food.md)**  
+2. **[Food & Agro LCC] (web/food.md)**  
    Hybrid aquaponics, vertical farming, agroforestry  
    *(Inspired by BLSS controlled-environment agriculture and hydroponics)*
 
