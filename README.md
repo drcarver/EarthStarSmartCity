@@ -34,7 +34,7 @@ Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations in
    Ceramic tiles, smart pipes/roads, modular housing  
    *(Inspired by modular space habitats and ECLSS infrastructure)*
 
-5. **[Restoration & DAC LCC](web/restoration.md}**  
+5. **[Restoration & DAC LCC](web/restoration.md)**  
    Blue-green carbon kits, wetlands, DAC  
    *(Inspired by ECLSS CO₂ management and environmental revitalization)*
 
