@@ -42,15 +42,15 @@ Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations in
    ASUs for LOX/LIN/LAR, rare gases  
    *(Inspired by ECLSS air revitalization and oxygen generation)*
 
-7. **Direct Air Capture & Mineralization LLC**  
+7. **[Direct Air Capture & Mineralization LCC](web/dac.md)**  
    Modular DAC units, CO₂ mineralization  
    *(Inspired by ECLSS CO₂ scrubbing and resource utilization)*
 
-8. **Cultured Meat LLC**  
+8. **[Cultured Meat LCC](web/cultured.md)**  
    Lab-grown proteins  
    *(Inspired by BLSS advanced food production concepts for space)*
 
-9. **Education & Telepresence LLC**  
+9. **[Education & Telepresence LCC](web/education.md}**  
    VR/AR training, digital twins  
    *(Inspired by ISS teleoperation and simulation training)*
 
