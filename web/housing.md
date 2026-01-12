@@ -10,7 +10,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Overview
 
-The **Housing & Infrastructure LLC** is a foundational pillar of the Genesis Network, responsible for the design, production, deployment, and ongoing evolution of all structural and utility infrastructure across hubs, affiliate farms, and community developments. It produces the signature **[toughened composite ceramic tiles](web/tileandkit.md)**  and associated modular systems that serve as the physical backbone of the entire regenerative ecosystem.
+The **Housing & Infrastructure LLC** is a foundational pillar of the Genesis Network, responsible for the design, production, deployment, and ongoing evolution of all structural and utility infrastructure across hubs, affiliate farms, and community developments. It produces the signature **[toughened composite ceramic tiles](tileandkit.md)**  and associated modular systems that serve as the physical backbone of the entire regenerative ecosystem.
 
 This LLC draws direct conceptual inspiration from **NASA modular habitat technologies** (e.g., inflatable modules, rigid structural panels, and ECLSS-integrated infrastructure) and ISS environmental control systems, adapted for terrestrial scalability, cost-efficiency, and long-term durability using waste-derived materials.
 
