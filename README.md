@@ -1,62 +1,128 @@
 ---
 layout: default
-title: Genesis Network by Earth-Star Industries
-description: A regenerative, closed-loop ecosystem transforming distressed lands into self-sustaining hubs for food, energy, water, materials, electronics, and community services.
+title: Genesis Network Project README
+description: Overview of the Genesis Network, including Innovation Hub modules inspired by NASA/ISS technologies and categorized lists.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network by Earth-Star Industries
+# Genesis Network Project Overview
 
-**A Vision for Regenerative Civilization**  
-As of January 11, 2026
+## Project Overview
 
-The Genesis Network is a scalable, modular, regenerative ecosystem developed by Earth-Star Industries. It transforms distressed or bankrupt farmland (starting with California's Central Valley orchards) into self-funding, closed-loop hubs that produce food, energy, water, advanced materials, electronics, pharmaceuticals, and community infrastructure with 95–99% resource closure.
+The Genesis Network is a scalable, regenerative ecosystem designed to transform distressed lands into self-sustaining hubs for food, energy, water, materials, and community services. It achieves high resource closure (95–99%) through modular technologies, drawing selective inspiration from NASA BLSS/ECLSS principles for closed-loop systems optimized for terrestrial use. The Innovation Hub serves as the core for business experimentation, housing independent LLCs that drive scaling and innovation.
 
-The system draws inspiration from NASA ECLSS/BLSS principles but is optimized for terrestrial scalability, rapid cash flow, and cooperative growth. Core innovations include waste-derived toughened ceramics, hybrid aquaponics, AI-driven data moats, farmer empowerment partnerships, and humanitarian layers (TerraWell FreeCare).
+This overview provides a list of all Innovation Hub modules (LLCs), prioritizing those inspired by NASA/ISS technologies. Modules are then separated into those essential for the regenerative architecture (core closed-loop sustainability) versus others (supplementary or revenue-focused).
 
-## Project Pillars
+## Innovation Hub Modules
 
-- **Regenerative Hubs** — Closed-loop clusters with aquaponics, vertical farming, biorefineries, and plasma vitrification  
-- **TerraFab** — Sustainable semiconductor/electronics/pharma manufacturing using 70–95% waste-derived ceramics  
-- **Innovation Hub** — 19 parallel LLCs distributing risk, burnout, and oversight  
-- **Farmer & Smallholder Partnerships** — Bridge loans, kits, robotics, and market access for 10,000–50,000 U.S. partners by 2040s  
-- **TerraWell FreeCare** — Independent 501(c)(3) nonprofit providing free healthcare, OTCs, DME, and community aid  
-- **Space Integration** — Feedback loops from ISS/Artemis to lunar/Mars settlements (starting 2045+)  
-- **Global Expansion** — Fortress West (Western Hemisphere, 2045–2092), then Fortress World (global, post-2080)  
+Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations include closed-loop life support (ECLSS for waste/water/air management), bioregenerative systems (BLSS for food/aquaponics), modular habitats, and environmental monitoring/digital twins from space station tech.
 
-## Core Technologies & Features
+### NASA/ISS-Inspired Modules
+1. **Biorefinery LLC (web/biorefinery.md)**  
+   Biochar, microbial inoculants, biogas upgrading  
+   *(Inspired by ECLSS waste-to-energy and BLSS microbial processing)*
 
-- Toughened ceramic tiles (70–95% waste-derived) with embedded sensors, PV, conduits, and Faraday mesh  
-- Flat-pack, self-replicating kits for rapid replication and upgrades  
-- Hyper-dense sensor arrays + ultra-short-cycle experiments (microalgae/BSFL weekly) creating a compounding data moat  
-- Smart airlocks with hyperspectral threat detection for security  
-- Dense urban agriculture (vertical, rooftop, balcony systems) adding 30–50% productive capacity  
-- Blockchain-verified carbon/biodiversity credits ($150–250/tCO₂e)  
-- Microbial biosolutions and agroforestry kits for +10–40% yields and sequestration  
+2. **Food & Agro LLC (web/food.md)**  
+   Hybrid aquaponics, vertical farming, agroforestry  
+   *(Inspired by BLSS controlled-environment agriculture and hydroponics)*
 
-## Financial & Feasibility Snapshot (Recalculated January 2026)
+3. **Recycling & Circular Economy LLC**  
+   ELFM, sewage/plasma vitrification, e-waste recovery  
+   *(Inspired by ECLSS resource recovery and closed-loop recycling)*
 
-- **Self-Funding**: Achieved by 2028–2029 via tiles, greens, biogas, and electronics trade-ins  
-- **Network CAPEX**: $18–36B cumulative (down 10–20% via recycling)  
-- **Mature Annual Revenue**: $115–230B/year by 2050 (up 15–25% from credits/electronics)  
-- **IRR**: 29% (network-wide)  
-- **NPV (7% discount)**: $435B  
-- **Overall Feasibility**: 8/10 (65–80% success probability)  
-- **Key Risk Mitigation**: 19 LLCs in Innovation Hub isolate failures (<5% impact each)  
+4. **Housing & Infrastructure LLC**  
+   Ceramic tiles, smart pipes/roads, modular housing  
+   *(Inspired by modular space habitats and ECLSS infrastructure)*
 
-## Roadmap Highlights (2027–2050)
+5. **Restoration & DAC LLC**  
+   Blue-green carbon kits, wetlands, DAC  
+   *(Inspired by ECLSS CO₂ management and environmental revitalization)*
 
-- **2027–2030**: Pilots (1–10 hubs), self-funding by 2029  
-- **2031–2040**: 10–100 hubs, TerraFab scale-up, 1K–10K farmer partners  
-- **2041–2050**: 100–500 hubs, global Fortress West pilots (2045+), full internalization  
-- **Space Feedback**: ISS ECLSS → Earth hubs → lunar/Mars settlements (2045–2060+)  
+6. **Industrial Gases LLC**  
+   ASUs for LOX/LIN/LAR, rare gases  
+   *(Inspired by ECLSS air revitalization and oxygen generation)*
 
-## Project Status
+7. **Direct Air Capture & Mineralization LLC**  
+   Modular DAC units, CO₂ mineralization  
+   *(Inspired by ECLSS CO₂ scrubbing and resource utilization)*
 
-Planning for bootstrapping in 2026.  
+8. **Cultured Meat LLC**  
+   Lab-grown proteins  
+   *(Inspired by BLSS advanced food production concepts for space)*
+
+9. **Education & Telepresence LLC**  
+   VR/AR training, digital twins  
+   *(Inspired by ISS teleoperation and simulation training)*
+
+### Non-NASA/ISS-Inspired Modules
+10. **Mini-Fab LLC**  
+    Sensors, edge computers, robotics, semiconductors, drones
+
+11. **Medical Supplies LLC**  
+    DME, consumables, OTC drugs, nurse-aid bots
+
+12. **Carbon & Biodiversity Credits LLC**  
+    Blockchain-verified credits
+
+13. **Robotics & Automation LLC**  
+    Farm/factory bots, drone swarms, robotaxis
+
+14. **Consumer Electronics & Appliances LLC**  
+    TVs, chargers, wearables, appliances
+
+15. **Textiles & Vegan Materials LLC**  
+    Recycled yarn, vegan leather
+
+16. **Furniture & Building Products LLC**  
+    Chairs, tables, bicycles, eyewear, toys, insulation, geotextiles
+
+17. **Forestry & Timber LLC**  
+    Lights-out sustainable forestry
+
+18. **Port & Maritime LLC**  
+    Ceramic docks, vessel components
+
+19. **Transportation Infrastructure LLC**  
+    Smart roads, rail extensions
+
+20. **Pharma & APIs LLC**  
+    Generics, OTC, APIs from crops/biorefinery
+
+## Modules Essential for Regenerative Architecture
+
+These modules form the core closed-loop sustainability foundation of the Genesis Network:
+
+- Biorefinery LLC  
+- Food & Agro LLC  
+- Recycling & Circular Economy LLC  
+- Housing & Infrastructure LLC  
+- Restoration & DAC LLC  
+- Industrial Gases LLC  
+- Direct Air Capture & Mineralization LLC  
+- Microbial Inoculant Production (integrated into Biorefinery)  
+- Agroforestry Expansion (integrated into Food & Agro)  
+- Waste Heat Recovery (integrated into Infrastructure)
+
+## Supplementary / Revenue-Focused Modules
+
+These modules support advanced manufacturing, revenue generation, specialized products, or expanded services:
+
+- Mini-Fab LLC  
+- Medical Supplies LLC  
+- Education & Telepresence LLC  
+- Carbon & Biodiversity Credits LLC  
+- Robotics & Automation LLC  
+- Consumer Electronics & Appliances LLC  
+- Textiles & Vegan Materials LLC  
+- Furniture & Building Products LLC  
+- Forestry & Timber LLC  
+- Port & Maritime LLC  
+- Transportation Infrastructure LLC  
+- Cultured Meat LLC  
+- Pharma & APIs LLC
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-© 2026 Earth-Star Industries
+© 2026 Genesis Network Project Contributors
