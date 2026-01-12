@@ -30,15 +30,15 @@ Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations in
    ELFM, sewage/plasma vitrification, e-waste recovery  
    *(Inspired by ECLSS resource recovery and closed-loop recycling)*
 
-4. **Housing & Infrastructure LLC**  
+4. **[Housing & Infrastructure LCC](web/housing.md)**  
    Ceramic tiles, smart pipes/roads, modular housing  
    *(Inspired by modular space habitats and ECLSS infrastructure)*
 
-5. **Restoration & DAC LLC**  
+5. **[Restoration & DAC LCC](web/restoration.md}**  
    Blue-green carbon kits, wetlands, DAC  
    *(Inspired by ECLSS CO₂ management and environmental revitalization)*
 
-6. **Industrial Gases LLC**  
+6. **[Industrial Gases LCC](web/industrial.md)**  
    ASUs for LOX/LIN/LAR, rare gases  
    *(Inspired by ECLSS air revitalization and oxygen generation)*
 
