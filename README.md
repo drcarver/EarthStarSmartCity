@@ -26,7 +26,7 @@ Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations in
    Hybrid aquaponics, vertical farming, agroforestry  
    *(Inspired by BLSS controlled-environment agriculture and hydroponics)*
 
-3. **=[ecycling & Circular Economy LCC](web/recycling.md)**  
+3. **[Recycling & Circular Economy LCC](web/recycling.md)**  
    ELFM, sewage/plasma vitrification, e-waste recovery  
    *(Inspired by ECLSS resource recovery and closed-loop recycling)*
 
