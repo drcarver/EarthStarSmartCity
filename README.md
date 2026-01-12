@@ -50,7 +50,7 @@ Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations in
    Lab-grown proteins  
    *(Inspired by BLSS advanced food production concepts for space)*
 
-9. **[Education & Telepresence LCC](web/education.md}**  
+9. **[Education & Telepresence LCC](web/education.md)**  
    VR/AR training, digital twins  
    *(Inspired by ISS teleoperation and simulation training)*
 
