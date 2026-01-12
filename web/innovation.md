@@ -7,7 +7,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 # Genesis Innovation Hub – Detailed Description
 
-The **Genesis Innovation Hub** serves as the central operational and entrepreneurial engine of the Genesis Network. It is a fully regenerative, modular, self-sufficient cluster constructed primarily from waste-derived toughened ceramic tiles and smart infrastructure. The Hub integrates 20 independent LLCs (with parallel spin-offs encouraged), housing, food production, healthcare support, education, telepresence, and high levels of automation.
+The **Genesis Innovation Hub** serves as the central operational and entrepreneurial engine of the Genesis Network. It is a fully [regenerative, modular, self-sufficient cluster](web/regenerative.md) constructed primarily from waste-derived toughened ceramic tiles and smart infrastructure. The Hub integrates 20 independent LLCs (with parallel spin-offs encouraged), housing, food production, healthcare support, education, telepresence, and high levels of automation.
 
 All structures are **off-grid capable** — generating their own power (biogas turbines + agrivoltaics) and water (atmospheric water generation + full recirculation) — while producing surplus resources that can be shared internally or sold externally. The design enforces a **full circular economy** with 95–99% resource closure, traceability through hardware-rooted PUFs and blockchain, and rapid iteration enabled by dense multimodal sensors and ultra-short-cycle experiments.
 
