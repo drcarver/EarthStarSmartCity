@@ -5,17 +5,17 @@ description: Overview of the Genesis Network, including Innovation Hub modules i
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Project README
+# Genesis Network Project Overview
 
 ## Project Overview
 
 The Genesis Network is a scalable, regenerative ecosystem designed to transform distressed lands into self-sustaining hubs for food, energy, water, materials, and community services. It achieves high resource closure (95–99%) through modular technologies, drawing selective inspiration from NASA BLSS/ECLSS principles for closed-loop systems optimized for terrestrial use. The Innovation Hub serves as the core for business experimentation, housing independent LLCs that drive scaling and innovation.
 
-This README provides a reordered list of all Innovation Hub modules (LLCs), prioritizing those inspired by NASA/ISS technologies. Modules are then separated into those essential for the regenerative architecture (core closed-loop sustainability) versus others (supplementary or revenue-focused).
+This overview provides a list of all Innovation Hub modules (LLCs), prioritizing those inspired by NASA/ISS technologies. Modules are then separated into those essential for the regenerative architecture (core closed-loop sustainability) versus others (supplementary or revenue-focused).
 
-## Reordered Innovation Hub Modules
+## Innovation Hub Modules
 
-Modules are reordered with NASA/ISS-inspired ones at the top. NASA inspirations include closed-loop life support (ECLSS for waste/water/air management), bioregenerative systems (BLSS for food/aquaponics), modular habitats, and environmental monitoring/digital twins from space station tech.
+Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations include closed-loop life support (ECLSS for waste/water/air management), bioregenerative systems (BLSS for food/aquaponics), modular habitats, and environmental monitoring/digital twins from space station tech.
 
 ### NASA/ISS-Inspired Modules
 1. **Biorefinery LLC**  
