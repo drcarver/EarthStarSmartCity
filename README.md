@@ -107,19 +107,19 @@ These modules form the core closed-loop sustainability foundation of the Genesis
 
 These modules support advanced manufacturing, revenue generation, specialized products, or expanded services:
 
-- Mini-Fab LLC  
-- Medical Supplies LLC  
+- [Mini-Fab LCC](web/minifab.md)  
+- [Medical Supplies LCC](web/medical.md)  
 - [Education & Telepresence LCC](web/education.md)  
-- Carbon & Biodiversity Credits LLC  
-- Robotics & Automation LLC  
-- Consumer Electronics & Appliances LLC  
-- Textiles & Vegan Materials LLC  
-- Furniture & Building Products LLC  
-- Forestry & Timber LLC  
-- Port & Maritime LLC  
-- Transportation Infrastructure LLC  
+- [Carbon & Biodiversity Credits LCC](web/carbon.md)  
+- [Robotics & Automation LCC](web/robotics.md)  
+- [Consumer Electronics & Appliances LCC](web/consumer.md)  
+- [Textiles & Vegan Materials LCC](web/textiles.md)  
+- [Furniture & Building Products LCC](web/furniture.md)  
+- [Forestry & Timber LCC](web/forestry.md)  
+- [Port & Maritime LCC](web/port.md)  
+- [Transportation Infrastructure LCC](web/transportation.md)  
 - [Cultured Meat LCC](web/cultured.md)  
-- Pharma & APIs LLC
+- [Pharma & APIs LCC](web/pharma.md)
 
 ## License
 
