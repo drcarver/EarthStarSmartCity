@@ -92,16 +92,16 @@ Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations in
 
 These modules form the core closed-loop sustainability foundation of the Genesis Network:
 
-- Biorefinery LLC  
-- Food & Agro LLC  
-- Recycling & Circular Economy LLC  
-- Housing & Infrastructure LLC  
-- Restoration & DAC LLC  
-- Industrial Gases LLC  
-- Direct Air Capture & Mineralization LLC  
-- Microbial Inoculant Production (integrated into Biorefinery)  
-- Agroforestry Expansion (integrated into Food & Agro)  
-- Waste Heat Recovery (integrated into Infrastructure)
+- [Biorefinery LCC](web/biorefinery.md) 
+- [Food & Agro LCC](web/food.md)  
+- [Recycling & Circular Economy LCC](web/recycling.md)  
+- [Housing & Infrastructure LCC](web/housing.md)  
+- [Restoration & DAC LCC](web/restoration.md)  
+- [Industrial Gases LCC](web/industrial.md)  
+- [Direct Air Capture & Mineralization LCC](web/dac.md)  
+- Microbial Inoculant Production (integrated into [Biorefinery](web/biorefinery.md))  
+- Agroforestry Expansion (integrated into [Food & Agro](web/food.md))  
+- Waste Heat Recovery (integrated into [Infrastructure](web/housing.md))
 
 ## Supplementary / Revenue-Focused Modules
 
@@ -109,7 +109,7 @@ These modules support advanced manufacturing, revenue generation, specialized pr
 
 - Mini-Fab LLC  
 - Medical Supplies LLC  
-- Education & Telepresence LLC  
+- [Education & Telepresence LCC](web/education.md)  
 - Carbon & Biodiversity Credits LLC  
 - Robotics & Automation LLC  
 - Consumer Electronics & Appliances LLC  
@@ -118,7 +118,7 @@ These modules support advanced manufacturing, revenue generation, specialized pr
 - Forestry & Timber LLC  
 - Port & Maritime LLC  
 - Transportation Infrastructure LLC  
-- Cultured Meat LLC  
+- [Cultured Meat LCC](web/cultured.md)  
 - Pharma & APIs LLC
 
 ## License
