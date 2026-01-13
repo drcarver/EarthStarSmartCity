@@ -13,7 +13,7 @@ The Genesis Network is a scalable, [regenerative](web/regenerative.md) ecosystem
 
 This overview provides a list of all Innovation Hub modules (LLCs), prioritizing those inspired by NASA/ISS technologies. Modules are then separated into those essential for the regenerative architecture (core closed-loop sustainability) versus others (supplementary or revenue-focused).
 
-The project can be stared with a minimal startup capital.  There is a phased [master plan](web/rmasterplan.md) that achieve positive cash flow in a the first year and then self funds all further expansion.
+The project can be stared with a minimal startup capital.  There is a phased [master plan](web/masterplan.md) that achieve positive cash flow in a the first year and then self funds all further expansion.
 
 ## [Innovation Hub Modules](web/innovation.md)
 
