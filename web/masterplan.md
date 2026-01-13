@@ -57,7 +57,7 @@ The Genesis Network is a scalable, regenerative ecosystem transforming distresse
 - **Net Cash-Flow**: +130–270B/year.
 - **Environmental**: 0.1–0.25 GtCO₂e/year; rewild 100–200M acres.
 
-## Phase 4: Tipping Point & Full Internalization (2041–2045)
+## [Phase 4: Tipping Point & Full Internalization (2041–2045)](phase4.md)
 
 **Focus**: Complete U.S. goods/services; global expansion via kits/partnerships.
 
@@ -74,7 +74,7 @@ The Genesis Network is a scalable, regenerative ecosystem transforming distresse
 - **Net Cash-Flow**: +370–760B/year.
 - **Environmental**: 1.0–3.0 GtCO₂e/year; rewild 200–300M acres.
 
-## Phase 5: Maturity & Global Transformation (2046–2050+)
+##  [Phase 5: Maturity & Global Transformation (2046–2050+)](phase5.md)
 
 **Focus**: Sustain 90–100% U.S. internalization; export model worldwide.
 
