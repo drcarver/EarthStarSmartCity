@@ -22,7 +22,7 @@ The Genesis Network is a scalable, regenerative ecosystem transforming distresse
 - **Net Cash-Flow**: -2 to +5B/year; break-even 2029.
 - **Environmental**: 0.001–0.005 GtCO₂e/year net-negative; rewild 1–5M acres.
 
-## Phase 2: Regional Scale & Diversification (2031–2035)
+## [Phase 2: Regional Scale & Diversification (2031–2035)](phase2.md)
 
 **Focus**: Expand affiliates; internalize manufacturing/pharma; upgrade infrastructure.
 
@@ -40,7 +40,7 @@ The Genesis Network is a scalable, regenerative ecosystem transforming distresse
 - **Net Cash-Flow**: +40–80B/year.
 - **Environmental**: 0.01–0.02 GtCO₂e/year; rewild 20–50M acres; full sewage replacement in regions.
 
-## Phase 3: Acceleration & Infrastructure Integration (2036–2040)
+## [Phase 3: Acceleration & Infrastructure Integration (2036–2040)](phase3.md)
 
 **Focus**: National coverage; advanced services; global smallholder pilots.
 
