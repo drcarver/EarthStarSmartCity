@@ -9,7 +9,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Overview
 
-The **Mini-Fab LLC** is the foundational electronics and semiconductor manufacturing arm of the Genesis Network Innovation Hub. It provides the critical silicon-based intelligence layer that enables automation, sensing, edge AI, robotics control, and digital twin operations across all other modules.
+The **Mini-Fab LLC** is the foundational electronics and semiconductor manufacturing arm of the Genesis Network Innovation Hub. It provides the critical silicon-based intelligence layer that enables automation, sensing, edge AI, robotics control, and [digital twin](twin.md), operations across all other modules.
 
 Mini-Fabs are designed from the ground up for:
 - Extreme automation (lights-out capable with telepresence oversight only)
