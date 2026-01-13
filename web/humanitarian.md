@@ -9,7 +9,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Mission & Core Philosophy
 
-The **[TerraWell FreeCare System](web/TerraWell.md)**  operates as a standalone 501(c)(3) nonprofit under the independent TerraWell Foundation. Its sole purpose is to deliver **100% free humanitarian aid** — with no means testing, ID requirements, co-pays, or eligibility barriers — to the ill, needy, infants, and underserved populations across the United States.
+The **[TerraWell FreeCare System](TerraWell.md)**  operates as a standalone 501(c)(3) nonprofit under the independent TerraWell Foundation. Its sole purpose is to deliver **100% free humanitarian aid** — with no means testing, ID requirements, co-pays, or eligibility barriers — to the ill, needy, infants, and underserved populations across the United States.
 
 All services and goods are provided **at no cost to recipients**. The system exists to alleviate suffering, improve public health, and restore dignity through accessible medical care, durable medical equipment (DME), medications, and nutritious food.
 
