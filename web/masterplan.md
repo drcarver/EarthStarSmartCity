@@ -4,7 +4,7 @@
 
 The Genesis Network is a scalable, regenerative ecosystem transforming distressed lands into closed-loop hubs for food, energy, water, materials, electronics, pharmaceuticals, and community services. Achieving 95–99% resource closure, it emphasizes carbon-negative operations, gigaton sequestration, and smallholder empowerment. The plan is self-funded via bootstrapping (greens, tiles, biogas), with selective short-term grants. Phases build from pilots to national/global maturity, incorporating Innovation Hub LLCs, modular kits, data moat optimization, and viability enhancements (e.g., microbial biosolutions, blockchain credits, agroforestry).
 
-## Phase 1: Bootstrap & Pilots (2027–2030)
+## [Phase 1: Bootstrap & Pilots (2027–2030)](phase1.md) 
 
 **Focus**: Establish financial independence; prove core regenerative architecture; launch initial LLCs via tent-bootstrap.
 
