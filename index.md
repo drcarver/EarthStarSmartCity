@@ -9,7 +9,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Project Overview
 
-The Genesis Network is a scalable, [regenerative](web/regenerative.md) ecosystem designed to transform distressed lands into self-sustaining hubs for food, energy, water, materials, and community services. It achieves high resource closure (95–99%) through modular technologies, drawing selective inspiration from NASA BLSS/ECLSS principles for closed-loop systems optimized for terrestrial use. The Innovation Hub serves as the core for business experimentation, housing independent LLCs that drive scaling and innovation.
+The Genesis Network is a scalable, [regenerative](web/regenerative.md) ecosystem designed to transform distressed lands into self-sustaining hubs for [food](web/food.md), [energy](web/energy.md), [water](web/water.md), [materials](web/materials.md), and [community services](web/community.md). It achieves high resource closure (95–99%) through modular technologies, drawing selective inspiration from NASA BLSS/ECLSS principles for closed-loop systems optimized for terrestrial use. The Innovation Hub serves as the core for business experimentation, housing independent LLCs that drive scaling and innovation.
 
 This overview provides a list of all Innovation Hub modules (LLCs), prioritizing those inspired by NASA/ISS technologies. Modules are then separated into those essential for the regenerative architecture (core closed-loop sustainability) versus others (supplementary or revenue-focused).
 
