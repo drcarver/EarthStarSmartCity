@@ -315,6 +315,8 @@ These enhancements build directly on the existing Genesis Network framework, lev
 
 Make any changes that can increase viability of the entire project as defined in this chat session include all previous prompts in the analysis. Recalculate all costs, revenues and timelines based on data in this chat.
 
+Recalculate all phases timelines and costs as needed
+
 Generate a complete, self-contained GitHub-Markdown executive summary and project plan containing:
 
 1. Executive summary with realistic 2027–2050 schedule
