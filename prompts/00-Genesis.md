@@ -760,6 +760,13 @@ Integrated into housing and community complexes, these restaurants offer free me
 - **Political Alignment**: Co-op/LLC structures for hubs; TerraWell humanitarian layer for goodwill.
 - **Risks Addressed**: Over-scaling avoided via pilots; antitrust via decentralization; climate extremes tested in data moat.
 
+## Strategic Recommendations for Maximum Acceleration
+- 2026–2027 Priority: Secure Caltrans/municipal pilot contracts for waste processing on 2026–2028 projects.
+- Mobile Processing Kits: Deploy relocatable crushers/plasma units with tent factories.
+- Transportation Infrastructure LLC Launch: Advance to 2028 (from 2032) via early smart road prototypes.
+- Affiliate Integration: Subsidized waste access for small contractors → rapid network growth.
+- Data Moat Leverage: Sensor-monitored waste streams → optimize ceramic recipes in real-time.
+
 ---
 
 # Guidelines for Generating a Detailed Response to the Initial Genesis System Prompt
