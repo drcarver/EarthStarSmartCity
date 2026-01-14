@@ -12,6 +12,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 The **Innovation Hub** is a fully regenerative, modular, and self-sufficient cluster built with Genesis tiles and infrastructure. It integrates **standard LLCs**, parallel spin-offs, housing, food, healthcare, education, telepresence, and automation systems. The Hub serves as the nucleus for scalable business experimentation, parallel operations, and competency-driven workforce optimization.  
 
 Key design principles:  
+ All modules start in leased tents ans migrate to permanent dtructures as it makes sense
 - All structures are **off-grid capable**, generating their own **power and water**, with surplus potentially sold back to the Hub or external clients.  
 - Full circular economy integration: recycling, 3D-printed components, and modular construction.  
 - Telepresence and automation operate as **LLCs**, allowing external partners to plug into Hub infrastructure.  
@@ -59,7 +60,7 @@ Each Hub LLC has defined competency sets for workforce and AI integration:
 ## 4. Financial Impact (2027–2050)
 
 **Assumptions**:  
-- Hub self-funding begins 2028; incremental spin-offs contribute revenue.  
+- Hub self-funding begins 2026; incremental spin-offs contribute revenue.  
 - Standard LLCs contribute 60–80% margin on goods and services.  
 - Parallel LLCs contribute 15–30% incremental revenue using Hub infrastructure.  
 
@@ -73,7 +74,7 @@ Each Hub LLC has defined competency sets for workforce and AI integration:
 | IRR | \~28–32% | — | — |
 | Break-even | 2029 | — | — |
 
-**Revenue Sources**: manufacturing, agro/food, DME/medical supplies, recycling, telepresence services, LLC spin-offs, carbon/impact credits.
+**Revenue Sources**: Road construction, manufacturing, agro/food, DME/medical supplies, recycling, telepresence services, LLC spin-offs, carbon/impact credits.
 
 ---
 
@@ -84,7 +85,8 @@ Each Hub LLC has defined competency sets for workforce and AI integration:
 - **Political/Social**: 8/10 — empowerment of smallholders, LLC autonomy, job creation reduces regulatory risk.  
 - **Overall**: 8.7/10 — Innovation Hub increases resilience, accelerates revenue, and expands the data moat for R&D and AI optimization.
 
-**Key Notes**:  
+**Key Notes**: 
+- Road construction provides primary premium tile feed stock.  We can also get feedstock by adding high speed rail and replacing existing power lines
 - Parallel LLCs reduce dependency on public funding.  
 - Competency-based training accelerates workforce adoption and AI self-management.  
 - Modular infrastructure ensures circular economy compliance and rapid scaling.  
@@ -236,7 +238,7 @@ Full list preserved; high-margin/quick-cash priority sequence for tent bootstrap
 
 ### 9. Circular Economy & Regenerative Alignment
 - 95–99% resource closure preserved
-- Waste-derived ceramics (70–95% from farm residues, ELFM slag)
+- Waste-derived ceramics (70–95% from farm residues, road construction slag, ELFM slag)
 - High recyclability/repairability → C2C Circularity certification target
 - Traceability supports secondary raw material markets (EU Circular Economy Act readiness)
 - Modular, upgradable design minimizes waste and extends lifespans
@@ -256,6 +258,7 @@ This architecture balances cutting-edge capability with timeless resilience — 
 
 ## Suggestions to Enhance Viability and Reduce Bottlenecks
 
+- **Road Construction**: Primary feedstck for tiles
 - **Microbial Biosolutions**: Integrate inoculant kits for +10–30% yields; reduces soil dependency bottleneck.
 - **Blockchain Credits**: Platform for credits (+$200–500M/hub/year); monetizes sequestration early.
 - **Agroforestry Expansion**: Kits for diversified outputs; spreads risk across crops.
@@ -267,7 +270,7 @@ This architecture balances cutting-edge capability with timeless resilience — 
 - **Self-Funding Acceleration**:  Prioritize high-margin LLCs (e.g., Electronics + Appliances $2–4B/year by 2035 via trade-ins).
 - **Bottleneck Reduction**: Parallel LLCs in Hub (failure isolation); affiliate farms for resources (power/water +20–30%).
 - **Viability Boosts**: Microbial kits (+yields); credits ($150–250/tCO₂e +15–25% revenues); airlocks/standards for security/codes (offsets risks 10–20%).
-- Recomputed: Costs down 10% via recycling; revenues up 20% to $200B/year by 2050; self-funding 2028.
+- Recomputed: Costs and timelines or phsdrd based on these changes.
 
 
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0). Earth-Star Industries © 2025*
