@@ -35,11 +35,11 @@ The network targets full U.S. internalization for 370–400 million people by 20
 
 | Phase              | Timeline     | Key Milestones                                                                 | Coverage & Scale                              |
 |--------------------|--------------|--------------------------------------------------------------------------------|-----------------------------------------------|
-| Bootstrap          | 2027–2030   | 5–20 hubs, 500–2,000 affiliates; greens/biogas/tiles; TerraWell pilots; early public bids. | 5–20M people; 10–20% essentials.             |
-| Scale              | 2031–2035   | 50–100 hubs, 5K–10K affiliates; TerraFab/pharma; translucent enclosures; aggressive infrastructure contracts. | 50–100M people; 30–50% internalization.      |
-| Acceleration       | 2036–2040   | 200–500 hubs, 20K–50K affiliates; national road/rail/port upgrades; gigaton sequestration ramp. | 150–200M people; 60–80% coverage.            |
-| Tipping Point      | 2041–2045   | 1K–2K hubs; full services; near-zero cost bidding dominance; global kit exports. | 250–300M people; 80–95% internalization.     |
-| Maturity           | 2046–2050   | 3K–5K hubs; complete U.S. regenerative cities; 100% internalization + worldwide partnerships. | 370M+ people; full coverage & exports.       |
+| [Bootstrap](phase1.md)         | 2027–2030   | 5–20 hubs, 500–2,000 affiliates; greens/biogas/tiles; TerraWell pilots; early public bids. | 5–20M people; 10–20% essentials.             |
+| [Scale](phase2.md)             | 2031–2035   | 50–100 hubs, 5K–10K affiliates; TerraFab/pharma; translucent enclosures; aggressive infrastructure contracts. | 50–100M people; 30–50% internalization.      |
+| [Acceleration](phase3.md)        | 2036–2040   | 200–500 hubs, 20K–50K affiliates; national road/rail/port upgrades; gigaton sequestration ramp. | 150–200M people; 60–80% coverage.            |
+| [Tipping Point](phase4.md)       | 2041–2045   | 1K–2K hubs; full services; near-zero cost bidding dominance; global kit exports. | 250–300M people; 80–95% internalization.     |
+| [Maturity](phase5.md)            | 2046–2050   | 3K–5K hubs; complete U.S. regenerative cities; 100% internalization + worldwide partnerships. | 370M+ people; full coverage & exports.       |
 
 ## Financial Summary (Network-Wide, $B)
 
