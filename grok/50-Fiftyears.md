@@ -1,72 +1,36 @@
 ---
 layout: default
-title: Genesis Network – 50-Year Roadmap with NASA/ISS Tech Transfer & Feedback Loops
-description: Explicit 50-year timeline (2026–2076) showing NASA/ISS-derived technologies, bidirectional feedback loops between Earth hubs and space, and progression to lunar/Mars settlements
+title: Genesis Network 50-Year Roadmap with NASA/ISS Tech Integration
+description: Detailed 50-year plan highlighting NASA/ISS-derived technologies, feedback loops from space to Earth hubs to lunar/Mars settlements, including financial projections.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Genesis Network 50-Year Roadmap  
-**NASA/ISS Technology Transfer, Earth–Space Feedback Loops & Lunar/Mars Extension**  
-*January 15, 2026 – 2026–2076 projection*
+**NASA/ISS Tech Integration & Feedback Loops**  
+*Status: January 15, 2026 – Limited Regenerative Architecture Baseline*
 
-The Genesis Network is designed as a **terrestrial regenerative platform** that simultaneously serves as the **technology maturation and supply-chain backbone** for future lunar and Mars settlements.  
+## Executive Summary
 
-NASA/ISS-derived technologies (from ECLSS, BLSS, Veggie, Advanced Plant Habitat, plasma systems, etc.) are explicitly incorporated early, then iteratively improved through Earth hub short-cycle experiments (10–50× faster than ISS constraints), before being hardened and exported back to space.
+This 50-year roadmap (2026–2076) outlines the Genesis Network's evolution, explicitly marking technologies derived from NASA/ISS (e.g., ECLSS for closed-loop life support, Veggie for hydroponics). It highlights feedback loops: Space experiments provide initial optimizations → Earth hubs scale and iterate via data moat → refined tech transfers to lunar/Mars settlements. The plan aligns with self-funding by 2029, minimizing space R&D costs (phased post-2040s, <5% total CAPEX). Financials recomputed for 2026–2076: Cumulative CAPEX $45–130B (Earth-focused); revenues $500–2,000B+ by 2070s; space feedback adds 10–20% efficiency gains without major costs.
 
-### Key Principles of the Roadmap
-- **Phase 1–2** (2026–2035): Import & adapt proven NASA/ISS tech for terrestrial scale  
-- **Phase 3** (2036–2045): Earth hubs become primary R&D engine → rapid iteration & data moat  
-- **Phase 4** (2046–2060): Mature closed-loop systems validated at scale → lunar/Mars transfer  
-- **Phase 5** (2061–2076): Full bidirectional loop → Earth benefits from space-derived enhancements  
+## 1. Roadmap Table (2026–2076)
 
-**Color Legend**  
-- **Blue** = Direct NASA/ISS heritage technology  
-- **Green** = Earth hub innovation / rapid feedback loop  
-- **Orange** = Space application (lunar/Mars)
+| Decade/Phase               | Key Milestones & Activities                                                                 | NASA/ISS-Derived Tech (Marked *)                                   | Feedback Loops (Space → Earth → Lunar/Mars)                        | Financials (Network-Wide, $B Cumulative to Phase End) |
+|----------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------|
+| 2026–2030 (Bootstrap)      | Tent-based hubs (4–14); tiles/greens/biogas; self-funding 2029; first affiliate pilots.     | *ECLSS-inspired water closure (95% recirculation from ISS tech).   | ISS data optimizes Earth AWG/digestate; hub moat refines for Mars. | CAPEX: 1–3; Rev: 3–10; Net: +1–5; Break-even 2029.    |
+| 2031–2040 (Regional Scale) | 20–600 hubs; microbial/agroforestry; brownfield remediation; dense urban ag in towers.      | *Veggie hydroponics for greens; *BioHome microbial air filters.    | Space experiments test inoculants → Earth yields +20%; data to lunar greenhouses. | CAPEX: 10–28; Rev: 18–120; Net: +25–180.              |
+| 2041–2050 (Acceleration)   | 700+ hubs; 10,000–50,000 partners; cities incorporate; rewilding 200M acres; space pilots.  | *Radiation shielding ceramics (ISS materials); *CO2 scrubbers.     | Earth short-cycles (weekly algae) refine *ECLSS → Mars habitats.   | CAPEX: 25–73; Rev: 100–500; Net: +280–620.            |
+| 2051–2060 (Tipping Point)  | Nationwide coverage (370M people); full internalization; lunar tech transfers begin.       | *ISRU (In-Situ Resource Utilization) for plasma/mineralization.    | Hub data moat optimizes *Veggie for Mars farms → feedback to Earth. | CAPEX: 35–100; Rev: 300–1,200; Net: +700–1,500.       |
+| 2061–2070 (Maturity)       | Global smallholder scaling; Mars settlement support; gigaton sequestration achieved.       | *Advanced ECLSS for full closure; *Bio-regenerative life support.  | Lunar experiments → Earth tower efficiencies → Mars colony kits.   | CAPEX: 45–130; Rev: 500–2,000+; Net: +1,100–3,000.    |
+| 2071–2076 (Legacy)         | Planetary restoration; full post-scarcity; ongoing space-Earth feedback.                   | *All integrated: ECLSS, Veggie, ISRU for sustainable colonies.     | Continuous loop: Mars data refines Earth resilience → deep space.  | Maintenance dominant; Rev: 1,000–3,000+ annually.     |
 
-## 50-Year Roadmap Timeline
+**Financial Notes**: Costs/revenues recomputed for space integration (minimal: $2–5B R&D cumulative post-2040s, offset by efficiencies). Self-funding from Earth revenues; no public funds beyond pilots. NPV (7% discount, 2026–2076): $150–300B+; IRR 35–45% with feedback gains.
 
-| Period          | Earth Hub Milestone                                                                 | NASA/ISS-Derived Tech (Blue)                          | Earth Hub Feedback Loop / Innovation (Green)                  | Space Application / Export (Orange)                          | Key Transfer Mechanism                     |
-|-----------------|-------------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|
-| **2026–2029**<br>Bootstrap | Tent → permanent ceramic factories; first greens + aquaponics; 3–12 pilot hubs     | ECLSS water recovery, Veggie hydroponics, CO₂ enrichment | Short-cycle greens/microalgae testing → 30–90 day cycles       | —                                                           | Direct licensing/adaptation from NASA patents |
-| **2030–2035**<br>First Closure | 25–150 hubs; 95%+ water closure; microbial inoculants; early TerraFab              | Advanced Plant Habitat (APH) multi-layer LED spectra, bioregenerative systems | Weekly microalgae/BSFL + parallel tanks → 10–50× experiment rate | First hardened ECLSS modules to ISS follow-on / Gateway     | Data moat → refined NASA ECLSS algorithms  |
-| **2036–2040**<br>Acceleration | 200–1,000 hubs; 80%+ lights-out; full electronics/gas production                   | Plasma arc melters (ISS waste processing heritage), biochar from pyrolysis | Ruthless AI optimization → 20–60% yield gains; custom inoculants | Lunar Gateway → full closed-loop water + air modules        | Earth data refines NASA plasma systems     |
-| **2041–2045**<br>Maturity   | 1,000–3,000 hubs; gigaton sequestration; 95–99% closure network-wide               | NASA vegetable production systems + microbial fuel cells | Dense vertical/rooftop + agroforestry → 30–50% extra capacity   | Artemis lunar base → 100+ person habitat prototypes         | Hub-scale validation → lunar certification |
-| **2046–2055**<br>Tipping Point | Full U.S. essentials internalization; 80–95% coverage; global kit exports          | NASA regenerative life support + radiation shielding (regolith sims) | DAC + enhanced weathering at scale → premium credits            | Mars surface habitat prototypes (100–500 people)            | Earth hubs → Mars ECLSS certification      |
-| **2056–2065**<br>Post-Scarcity | Regenerative cities; 370–400M people; 200–400M acres rewilded                      | Advanced NASA/ESA closed-loop food systems + insect farming | Ultra-short cycles → weekly food restart capability            | Permanent Mars settlement (1,000–10,000 people)             | Mars → Earth improved microbial strains    |
-| **2066–2076**<br>Interplanetary Flywheel | Bidirectional Earth–Mars–Lunar exchange; gigaton-class sequestration               | Full NASA Artemis/Biosphere 2 heritage systems            | Earth hubs → primary R&D for deep-space life support           | Self-sustaining Mars cities (100K+); lunar industrial base | Continuous loop: Earth data moat ↔ space   |
+## 2. Detailed NASA/ISS Tech & Feedback Loops
 
-## Major Bidirectional Feedback Loops
-
-1. **Water Recovery Loop**  
-   - **NASA → Earth** (2026–2030): ISS ECLSS (urine processor, water processor) → 95%+ terrestrial closure  
-   - **Earth → Space** (2035–2045): Short-cycle testing + AI optimization → 98–99.5% recovery modules for Gateway/Mars  
-
-2. **Food Production Loop**  
-   - **NASA → Earth** (2026–2035): Veggie/APH LED spectra, hydroponics, microbial systems  
-   - **Earth → Space** (2036–2050): 10–50× faster yield iteration → optimized cultivars + vertical stacking for Mars greenhouses  
-
-3. **Waste Processing Loop**  
-   - **NASA → Earth** (2027–2035): Plasma arc melters + pyrolysis (ISS heritage)  
-   - **Earth → Space** (2040–2060): Plasma vitrification + biochar → in-situ resource utilization (ISRU) for lunar/Mars construction  
-
-4. **Microbial & Inoculant Loop**  
-   - **NASA → Earth** (2028–2035): ISS microbial fuel cells + plant growth-promoting rhizobacteria  
-   - **Earth → Space** (2040+): Custom consortia from hub data moat → Mars soil remediation strains  
-
-5. **Radiation & Structural Loop**  
-   - **NASA → Earth** (2030–2040): Regolith sims + ceramic composites  
-   - **Earth → Space** (2050+): Toughened ceramics + embedded sensors → Mars habitat shells  
-
-## Summary of Transfer Strength
-
-- **2026–2035**: ~70–80% of core life support from NASA/ISS heritage  
-- **2036–2050**: Earth hubs become primary innovation engine → 60–80% of improvements flow back to space  
-- **2051–2076**: Bidirectional flywheel → Mars/Lunar data refines Earth systems (e.g., extreme-condition crops, radiation-resistant materials)
-
-The Genesis Network is architected as the **missing link** between current ISS capabilities and scalable off-world settlements — using Earth's short-cycle, high-volume experimentation to compress decades of space R&D into 5–10 year cycles.
+- **NASA/ISS Tech Sources**: ECLSS (water/air recycling), Veggie (LED hydroponics), BioHome (microbial filtration), ISRU (resource extraction for plasma), radiation materials (ceramic inspirations).  
+- **Feedback Mechanism**: Space experiments (e.g., ISS microgravity tests) provide baseline data → Earth hubs scale (data moat + short-cycles) for 10–50x iterations → optimized tech (e.g., 20% better yields) transfers to lunar/Mars via kits. Loop closes with Mars data refining Earth resilience (e.g., radiation-hardened ceramics).  
+- **Viability Impact**: Enhances efficiencies (+15–25% yields/closure); minimal costs (space R&D <5% budget, funded by mature revenues).
 
 **License**  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2026 EarthStar Technologies conceptual working group  
-(Attribution appreciated — public domain spirit)
