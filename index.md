@@ -10,6 +10,8 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ## Overview
 This index provides a structured overview of the Genesis Network project, including key components, LLCs, breakdowns for NASA-inspired technologies, LLCs driving the regenerative economy, and an encapsulated project plan with financial details. The project aims for regenerative, closed-loop ecosystems achieving post-scarcity abundance.
 
+For more details, see the [Master Plan](web/masterplan.md).
+
 ## List of LLCs in the Innovation Hub
 
 1. **Biorefinery LLC** - Biochar, microbial inoculants, biogas upgrading, organic waste valorization.
