@@ -1,109 +1,136 @@
 ---
 layout: default
-title: Genesis Network Tiles, Kits, and Components
-description: Comprehensive list of all tiles and kits in the Genesis Network, including manufacturing, inputs, materials, costs, revenues, new kits, smart airlocks, smart city standards, sustainable codes, sensor handbook, Innovation Hub LLCs, and viability enhancements. As of January 11, 2026.
+title: Genesis Network – Complete Tiles, Kits & Manufacturing Overview
+description: Full inventory of tiles, flat-pack kits, manufacturing inputs, costs, revenues, smart airlocks, sensor handbook, LLC list and viability enhancements
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Tiles, Kits, and Components
+# Genesis Network – Tiles, Kits, Manufacturing & Infrastructure Details  
+*Status: January 15, 2026 – Consolidated, viability-optimized specification*
 
-## List of All Tiles
+All buildings, infrastructure and fixed assets in the Genesis Network are constructed exclusively using **toughened ceramic tiles**, **ceramic pipes**, and **flat-pack modular kits** produced in the on-site tile factories.  
 
-All tiles are manufactured in the on-site tile factory (leased tents transitioning to permanent facilities). Inputs: 70–95% waste-derived (farm residues like rice husk ash (RHA) for silica, sugarcane bagasse for toughening, landfill slag/brownfield materials); minimal virgin (clay, feldspar). Materials: Toughened composite ceramics with embedded features (sensors, PV, conduits, Faraday mesh). Costs/revenues recalculated: Production cost $2–4/m² (down 15% via efficiencies); revenue $4–6/m² (up 20% from premiums/credits). New tile: Security Airlock Tile for smart airlocks.
+No conventional concrete, steel framing, or imported structural materials are used after Phase 1 bootstrap (except initial leased tent supports, phased out by 2029).
 
-| Tile Type | Description | Manufacturing Process | Inputs | Materials | Cost ($/m²) | Revenue ($/m²) |
-|-----------|-------------|-----------------------|--------|-----------|-------------|----------------|
-| Structural/Load-Bearing | Snap-together modules for buildings/roads | Mixing, forming, drying, firing (1,200–1,400°C kiln) | Residues (70%), slag (20%), virgin (10%) | Ceramics with steel-rebar embeds | 3–4 | 5–6 |
-| Insulating | Thermal mass/insulation variants | Same, with pore-formers | Bagasse/straw (pore-formers), RHA | Porous ceramics | 2–3 | 4–5 |
-| Permeable | Drainage/ventilation for roads/stormwater | Same, permeable design | Grape pomace/husks | Permeable composites | 3–4 | 5–6 |
-| Cladding/Glazing | External with AWG, BIPV (10–30% transmittance) | LCM 3D printing for embeds | RHA-derived glass-ceramics | Semi-transparent PV ceramics | 4–5 | 6–7 |
-| Smart/Embedded | With sensors, conduits, piezo/solar | Multi-material LCM printing | Silicon dies from mini-fab, copper mesh | Ceramics + electronics | 4–5 | 6–7 |
-| Security Airlock Tile (New) | For airlocks scanning weapons/explosives | LCM with hyperspectral sensors | RHA, sensors from mini-fab | Ceramics + detection embeds | 5–6 | 7–8 |
+## 1. Ceramic Tile Families (All Produced In-House)
 
-## List of All Kits
+| Tile Type                          | Primary Composition (by mass at maturity)                  | Key Embedded Features                                      | Input Sources (mature)                              | Manufacturing Process                          | Est. Production Cost ($/m²) | Sale Price / Internal Transfer ($/m²) | Annual Revenue Potential (per mature hub) |
+|------------------------------------|------------------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------|-------------------------------------|-----------------------------------------------|-------------------------------------------|
+| Structural / Load-bearing          | 70–85% road C&D slag + RHA silica + farm ash               | Snap-together keys, conduits (power/water/data), Faraday mesh | Road/C&D waste (primary), ELFM slag, rice husk ash | Extrusion + LCM multi-material printing → 1,250–1,400°C tunnel kiln | $18–28                             | $45–75 (external), $28–38 (internal)         | $120–320M                                 |
+| Insulating / Thermal Mass          | 60–75% vitrified slag + pore-formers (pomace/straw)        | High thermal mass, insulating layers, AWG integration      | Farm residues, plasma slag, bagasse                 | Pressed + controlled porosity firing           | $15–24                             | $38–62                                       | Included above                            |
+| Smart Cladding (Road/Permeable)    | 75–90% RCA slag + piezo/solar cells                        | Piezoelectric, semi-transparent BIPV, sensors, heating traces | Road demolition, C&D, recycled PV cells             | Multi-layer LCM + embedded electronics         | $32–48                             | $85–140                                      | $80–220M                                  |
+| Glazing / BIPV Panels              | RHA-derived glass-ceramic + 10–30% transmittance PV        | Embedded sensors (PAR, thermal, strain), snow trace        | Rice husk ash, recycled PV scrap                    | Float glass + embedded PV lamination           | $55–90                             | $140–240                                     | $40–120M                                  |
+| Airlock / Security Module          | Dense structural ceramic + hyperspectral scanners + seals  | Weapons/explosives detection (mmWave + X-ray backscatter), auto-alert | Same as structural + commercial scanners            | Precision LCM + integrated sensor bays         | $42–68 (per unit)                  | N/A (internal only)                          | —                                         |
 
-All kits are flat-pack, self-replicating, containerized systems from the tile factory. Reused existing; new kits: Smart Airlock Kit (for security), Waste Heat Recovery Kit (viability). Costs/revenues: Kit cost $50K–500K (down 10–15% via recycling); revenue $100K–1M/kit (up 15% from subsidies/credits). All buildings from these kits/tiles/ceramics.
+**Maturity Input Mix**: 70–95% waste-derived (road/C&D primary feedstock); virgin clay/feldspar <5% after Year 3.
 
-| Kit Name | Description | Manufacturing Process | Inputs | Materials | Cost ($) | Revenue ($) |
-|----------|-------------|-----------------------|--------|-----------|----------|-------------|
-| Ceramic Tile & Pipe Production Kit (Reused) | Kiln, mixers, molds for tiles/pipes | Assembled in factory | Residues, slag | Ceramics, robotics | 200K–500K | 400K–1M |
-| Modular Ceramic Greenhouse Shell Kit (Reused) | Structural tiles, glazing for greenhouses | Same | RHA glass | Ceramics + BIPV | 100K–300K | 200K–600K |
-| Aquaponics & IMTA Tank Kit (Reused) | Tanks, biofloc, sensors | 3D printing/LCM | Farm wastes | Ceramic-lined | 50K–150K | 100K–300K |
-| Biogas Digester & Upgrading Kit (Reused) | Digesters, separators, turbines | Assembled | Residues | Ceramics, metals | 100K–200K | 200K–400K |
-| Solar/Wind/DC Microgrid Kit (Reused) | Panels, batteries, appliances | Mini-fab integration | RHA silicon | Ceramics + electronics | 150K–300K | 300K–600K |
-| Smart Road & Pipe Infrastructure Kit (Reused) | Piezo/solar tiles, utility pipes | LCM embeds | Slag, residues | Ceramics + sensors | 200K–400K | 400K–800K |
-| Digital Twin Baseline & Evolution Kit (Reused) | Sensors, edge computers | Mini-fab | Silicon dies | Electronics in ceramics | 50K–100K | 100K–200K |
-| Microbial Inoculant Production Kit (Reused) | Fermenters, sensors | Assembled | Digestate | Ceramics + bio-materials | 50K–100K | 100K–200K |
-| Agroforestry Expansion Kit (Reused) | Trellis, inoculators, drones | 3D printing | Residues | Ceramics + robotics | 100K–200K | 200K–400K |
-| Dam & River Restoration Kit (Reused) | Demolition, sediment processing, aquaculture | Assembled | Slag | Ceramics + tools | 150K–300K | 300K–600K |
-| Blue-Green Carbon Restoration Kit (Reused) | Seagrass/mangrove/kelp/oyster modules | LCM | Residues | Ceramics + bio-seeds | 100K–200K | 200K–400K |
-| DAC & Mineralization Kit (Reused) | Capture units, weathering applicators | Mini-fab | Slag | Ceramics + membranes | 200K–400K | 400K–800K |
-| Electronics Recycling & Trade-In Kit (Reused) | Disassembly, plasma recovery | Assembled | E-waste | Ceramics + torches | 100K–200K | 200K–400K |
-| Smart Airlock Kit (New) | Airlocks with hyperspectral/metal scanners for weapons/explosives, alert security | LCM with sensors | RHA, mini-fab sensors | Ceramics + detection tech | 50K–100K | 100K–200K |
-| Waste Heat Recovery Kit (New) | Ceramic exchangers for heat capture | LCM | Residues | Ceramics + conduits | 50K–100K | 100K–200K (savings equivalent) |
+## 2. Complete List of Flat-Pack Kits (New & Reused)
 
-## Manufacturing Process for Tiles and Kits
+All kits are flat-packed, containerized, self-replicating (contain instructions + seed tools), and produced using tile-factory output + mini-fab electronics.
 
-- **Tiles**: Raw material handling (stockpiles, conveyors), mixing/extruding/pressing, drying (waste heat tunnels), firing (gas/electric kilns 1,200–1,400°C), plasma integration for residues. LCM 3D printing for embeds (multi-material: ceramics + conductors/sensors). Output: 50K–150K m²/month/factory.
-- **Kits**: Assembled from tiles/ceramics in factory (robotic handling, telepresence); flat-pack containerized with instructions/digital twins. Reused kits optimized for 80–90% component recycling.
+| Kit Name                                   | Primary Purpose                                             | Key Components Included                                  | New / Reused | Est. Kit Production Cost | Sale/Transfer Price | Annual Revenue Potential (network-wide, mature) |
+|--------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|--------------|---------------------------|---------------------|--------------------------------------------------|
+| Ceramic Tile & Pipe Production Kit         | Self-replicate tile factories                               | Kiln molds, extruders, robotic handlers, baseline mixers | Reused       | $280K–$520K               | $750K–$1.4M         | $300–900M                                        |
+| Modular Greenhouse / Aquaponics Shell      | Enclosed growing zones                                      | Ceramic panels, glazing, conduits, snap-in tanks         | Reused       | $180K–$340K               | $480K–$820K         | $200–600M                                        |
+| Biogas Digester & Upgrading Kit            | Anaerobic digestion + biomethane                            | Lined tanks, separators, microturbines                   | Reused       | $95K–$180K                | $240K–$480K         | $80–250M                                         |
+| Microbial Inoculant Production Kit         | On-site custom biosolutions                                 | Fermenters, sensors, AI-optimized recipes                | New          | $65K–$130K                | $180K–$360K         | $100–300M                                        |
+| Agroforestry Expansion Kit                 | Alley cropping, silvopasture                                | Trellis, inoculant applicators, drone mounts             | New          | $45K–$90K                 | $120K–$240K         | $80–220M                                         |
+| Smart Road & Pipe Infrastructure Kit       | Bidirectional utility networks                              | Piezo/solar tiles, multi-channel pipes, sensors          | Reused       | $220K–$420K               | $580K–$1.1M         | $150–450M                                        |
+| Mini-Fab / Electronics Assembly Kit        | Mature-node sensor/edge computer production                 | Cleanroom modules, wire bonders, RISC-V tools            | Reused       | $450K–$850K               | $1.2M–$2.2M         | $200–700M                                        |
+| Blue-Green Carbon Restoration Kit          | Seagrass/mangroves/kelp/oyster reefs                        | Planting frames, monitoring buoys, inoculants            | Reused       | $75K–$150K                | $200K–$400K         | $50–180M (credits)                               |
+| Dam & River Restoration Module             | Selective dam removal + river rehab                         | Demolition tools, sediment processors, fingerling tanks  | Reused       | $120K–$240K               | $320K–$650K         | $30–120M                                         |
+| DAC & Mineralization Pilot Kit             | Direct air capture + CO₂ sequestration                      | Ceramic membrane modules, mineralization reactors        | New          | $180K–$350K               | $480K–$950K         | $50–180M (credits)                               |
+| Airlock Security & Screening Kit           | Weapons/explosives detection in all buildings               | mmWave/X-ray backscatter, hyperspectral, auto-alert      | New          | $38K–$75K (per unit)      | Internal only       | —                                                |
 
-## Smart Airlocks in All Buildings
+## 3. Manufacturing & Input Summary
 
-All buildings use Smart Airlock Kit: Hyperspectral scanners detect explosives/chemicals; metal/radar for weapons; AI alerts security (integrated with smart city networks). Compliance: ISO/TC 268 (sustainable cities), IEEE 2030 (interoperability), ITU-T Y.4900 (KPIs). Sustainable codes: LEED Platinum (energy efficiency), Cradle-to-Cradle (circularity), ISO 14001 (environmental management).
+**Centralized Production**  
+All tiles and kit components are manufactured in **on-site cylindrical tile factories** (tent → permanent ceramic).  
+Primary process:  
+- Raw material prep → mixing → extrusion / LCM multi-material 3D printing → drying → high-temp firing (1,200–1,400°C) → embedding electronics (mini-fab) → QA & packaging.
 
-## Smart City Standards and Sustainable Building Codes
+**Input Sources (Mature Phase)**  
+- **70–95% waste-derived**: Road/C&D spoil (primary), ELFM slag, rice husk ash (silica), farm residues (pore-formers), recycled PV/scrap metal  
+- **<5% virgin** (early phase only): clay, feldspar, select dopants
 
-- **Smart City Standards**: ISO/TC 268 (indicators), IEEE 2030 (grid), ITU-T Y.4900 (KPIs), U4SSC (UN SDGs)—implemented via embedded sensors for real-time monitoring/security.
-- **Sustainable Codes**: LEED (energy/water), Cradle-to-Cradle (material health), ISO 14001 (EMS)—all buildings certified; zero-waste construction via kits.
+## 4. Sensor Handbook – Dense Network Strategy
 
-## Detailed Sensor Handbook
+**Purpose**: Create uncrossable data moat via hyper-dense, redundant, multimodal sensing.
 
-Sensors are self-produced in Mini-Fab LLC, with 3–5x redundancy, edge AI processing. Standards: IEEE 1451 (interfaces), MIL-STD-810 (ruggedness), NASA-STD-3001 (closed loops).
+**Sensor Categories & Density Targets** (per mature hub)
 
-| Sensor Type | Description | Application | Standards | Integration |
-|-------------|-------------|-------------|-----------|-------------|
-| Electrochemical/Optical | Nutrient, pH, pathogen detection | Aquaponics, water | IEEE 1451, OGC SWE | Edge AI for real-time |
-| Nanobiosensors | Soil microbes, plant stress | Farms, agroforestry | NASA-STD-8739.10 | Digital twins for prediction |
-| mmWave/IR-UWB Radar | Health monitoring, fall detection | Housing, airlocks | MIL-STD-810 | Privacy: Edge processing |
-| Multispectral/VOC | Pest/disease warning | Greenhouses | IEEE 1451 | Anomaly flagging |
-| Strain/Vibration | Structural integrity | Tiles, buildings | ITU-T Y.4900 | Predictive maintenance |
-| Hyperspectral | Weapons/explosives scan | Airlocks | ISO 14001 | Security alerts |
-| Environmental | Temp, humidity, CO₂ | All | U4SSC KPIs | Compliance portal |
+| Sensor Type                        | Measurement                             | Redundancy Level | Density Target (per ha) | Standards Alignment               | Edge AI Function                     |
+|------------------------------------|-----------------------------------------|------------------|--------------------------|-----------------------------------|--------------------------------------|
+| Environmental (air/soil/water)     | Temp, humidity, pH, EC, DO, VOC         | 3–5×             | 40–120                   | IEEE 1451, ISO 11783              | Anomaly detection, predictive control |
+| Plant/Yield                        | Multispectral, PAR, NDVI, chlorophyll   | 4×               | 80–200                   | OGC SWE                           | Disease/pest early warning           |
+| Structural / Infrastructure        | Strain, vibration, tilt, piezo output   | 3–5×             | 20–60                    | MIL-STD-810, ASTM C216            | Predictive maintenance               |
+| Security & Health                  | mmWave radar, hyperspectral, weapons    | 2–4×             | 8–25 (buildings)         | NIST cybersecurity frameworks     | Threat detection, triage             |
+| Energy/Water                       | Flow, pressure, power quality           | 3×               | 15–40                    | IEEE 2030, ISO 37120              | Load balancing, leak detection       |
 
-## List of LLCs in the Innovation Hub
+**Key Principles**  
+- All sensors plug-and-play (IEEE 1451)  
+- Edge AI processes locally (RISC-V + open-source stack)  
+- Data encrypted, blockchain-logged for credits/audits  
+- Redundancy eliminates single-point failure
 
-1. Mini-Fab LLC  
-2. Biorefinery LLC  
-3. Medical Supplies LLC  
-4. Housing & Infrastructure LLC  
-5. Education & Telepresence LLC  
-6. Food & Agro LLC  
-7. Recycling & Circular Economy LLC  
-8. Restoration & DAC LLC  
-9. Industrial Gases LLC  
-10. Carbon & Biodiversity Credits LLC  
-11. Robotics & Automation LLC  
-12. Consumer Electronics & Appliances LLC  
-13. Textiles & Vegan Materials LLC  
-14. Furniture & Building Products LLC  
-15. Forestry & Timber LLC  
-16. Transportation Infrastructure LLC  
-17. Port & Maritime LLC  
-18. Direct Air Capture & Mineralization LLC  
-19. Cultured Meat LLC
+## 5. Smart Airlocks – All Buildings
 
-## Suggestions to Enhance Viability and Reduce Bottlenecks (Applied)
+**Mandatory in every structure** (housing, schools, hospitals, factories, TerraWell centers):  
+- Double-door ceramic enclosure with Faraday mesh  
+- Hyperspectral + mmWave/X-ray backscatter screening for weapons/explosives  
+- Auto-alert to on-site security (robotics LLC) + local co-op governance  
+- Pathogen & contamination detection (integrated with NASA-STD-3001 principles)  
+- Cost: $42–68K per unit (internal production)
 
-- **Microbial Biosolutions**: Integrated via new kit; +10–30% yields, reduces soil bottleneck 20–30%. Revenue +$100–300M/hub.  
-- **Blockchain Credits**: Platform for CO₂/biodiversity; +$200–500M/hub, monetizes sequestration early.  
-- **Agroforestry Expansion**: Kit reused; diversifies outputs, spreads crop risks. Revenue +$300–600M/hub.  
-- **DAC Pilots**: Kit reused; uses waste heat, adds credits +$50–150M/hub.  
-- **Education Hubs**: Reused telepresence; +$100–200M/hub from tourism/training.  
-- **Waste Heat Recovery**: New kit; -5–15% OPEX, reduces energy bottleneck. Savings $50–100M/hub.  
-- **Overall Impact**: CAPEX down 10–20% ($18–36B network); revenues up 15–25% ($115–230B/year 2050); bottlenecks reduced (e.g., labor via automation 70–90%).
+**Smart City Standards Supported**  
+- ISO/TC 268 Sustainable Cities  
+- IEEE 2030 Smart Grid  
+- ITU-T Y.4900 Smart Sustainable Cities  
+- Matter/Thread/Zigbee interoperability  
+- NIST Cybersecurity Framework  
+- Dark Sky compliance (shielded lighting)
 
----
+## 6. 19 LLCs in the Innovation Hub (Full List)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+1. Housing & Infrastructure  
+2. Mini-Fab (sensors/electronics)  
+3. Biorefinery  
+4. Recycling & Circular Economy  
+5. Food & Agro  
+6. Robotics & Automation  
+7. Industrial Gases  
+8. Consumer Electronics & Appliances  
+9. Textiles & Vegan Materials  
+10. Furniture & Building Products  
+11. Carbon & Biodiversity Credits  
+12. Education & Telepresence  
+13. Medical Supplies  
+14. Forestry & Timber  
+15. Transportation Infrastructure  
+16. Port & Maritime  
+17. Direct Air Capture & Mineralization  
+18. Restoration & DAC  
+19. Cultured Meat  
 
-© 2026 Earth-Star Industries
+## 7. Viability Enhancements & Bottleneck Reductions Applied
+
+- **Microbial inoculant kits** → +10–30% yields, new revenue stream  
+- **Blockchain credits platform** → $150–250/tCO₂e, +$200–500M/hub/year  
+- **Agroforestry expansion** → diversified outputs, front-loaded revenue  
+- **DAC pilots** → premium credits, internal CO₂ utilization  
+- **Parallel LLCs** → failure isolation + burnout distribution  
+- **Tent bootstrap + relocation** → minimal sunk capital  
+- **Farmer co-op ownership** → political shield + distributed scaling  
+- **Dense vertical/rooftop ag** → +30–50% productive capacity, zero land increase  
+- **Road/C&D as primary feedstock** → lowest cost input secured  
+
+**Recomputed Metrics (network-wide, mature phase)**  
+- CAPEX per hub: $1.1–2.3B (down 8–12% via RCA + microbial efficiency)  
+- Revenue per hub: $1.05–2.4B (up 10–15% from credits + inoculants)  
+- IRR: 32–42% (improved from parallel risk reduction)  
+- Break-even: 2028–mid-2029 (accelerated by early high-margin tiles/credits)
+
+**License**  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2026 EarthStar Technologies conceptual working group  
+(Attribution appreciated — public domain spirit)
