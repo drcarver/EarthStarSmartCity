@@ -27,21 +27,21 @@ For more details, see the [Master Plan](web/masterplan.md).
 
 The Innovation Hub consists of 19 LLCs:
 
-1. **Biorefinery LLC** - Biochar, microbial inoculants, biogas upgrading, organic waste valorization.
+1. **[Biorefinery LLC](web/biorefinery.md)** - Biochar, microbial inoculants, biogas upgrading, organic waste valorization.
 2. **Carbon & Biodiversity Credits LLC** - Blockchain-verified credit generation/sales (CO₂, biodiversity, water recharge).
 3. **Consumer Electronics & Appliances LLC** - Smart TVs, wireless chargers, fitness wearables, kitchen appliances.
 4. **Cultured Meat LLC** - Lab-grown proteins (poultry, pork, beef).
 5. **Direct Air Capture & Mineralization LLC** - Modular DAC units, CO₂ mineralization into aggregates/tiles, enhanced weathering kits.
 6. **Education & Telepresence LLC** - VR/AR training platforms, Genesis Dojo, digital twin management, competency-based education.
-7. **Food & Agro LLC** - Hybrid aquaponics, vertical farming, premium greens/herbs, agroforestry systems.
+7. **[Food & Agro LLC](web/housing.md)** - Hybrid aquaponics, vertical farming, premium greens/herbs, agroforestry systems.
 8. **Forestry & Timber LLC** - Lights-out sustainable forestry with AI/drones, autonomous harvesters, robotic planting/sawmills.
 9. **Furniture & Building Products LLC** - Chairs, tables, bicycles, eyewear frames, toys, insulation panels, geotextiles.
-10. **Housing & Infrastructure LLC** - Ceramic tiles, smart pipes/roads, modular housing kits.
+10. **[Housing & Infrastructure LLC](web/housing.md)** - Ceramic tiles, smart pipes/roads, modular housing kits.
 11. **Industrial Gases LLC** - Air separation units (ASUs) for LOX/LIN/LAR; rare gases (neon, krypton) from retrofits.
 12. **Medical Supplies LLC** - Durable medical equipment (wheelchairs, crutches), hospital consumables, generic OTC/prescription drugs, nurse-aid bots.
 13. **Mini-Fab LLC** - Sensors, edge computers, robotics controllers, mature-node semiconductors, drones (including swarm AI and stealth variants).
 14. **Port & Maritime LLC** - Ceramic-clad docks/terminals, hybrid vessel components, off-grid port kits, maritime waste processing.
-15. **Recycling & Circular Economy LLC** - Enhanced landfill mining (ELFM), sewage/sludge processing, plasma vitrification, e-waste/material recovery.
+15. **[Recycling & Circular Economy LLC](web/recycling.md)** - Enhanced landfill mining (ELFM), sewage/sludge processing, plasma vitrification, e-waste/material recovery.
 16. **Restoration & DAC LLC** - Blue-green carbon kits (seagrass, mangroves, kelp, oysters), wetland/river restoration, direct air capture modules.
 17. **Robotics & Automation LLC** - Autonomous farm/factory bots, drone swarms, robotaxi fleets, nurse-aid bots (lease-to-own models).
 18. **Textiles & Vegan Materials LLC** - Recycled yarn/nonwovens, vegan leather from agricultural wastes (e.g., pineapple/banana leaves).
