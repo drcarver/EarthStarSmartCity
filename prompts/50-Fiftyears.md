@@ -1,1 +1,1 @@
-create a 50-year roadmap to explicitly mark which tech comes from NASA/ISS, showing exact feedback loops from space experiments to Earth hubs and then onward to lunar/Mars settlements.
+create a 50-year roadmap to explicitly mark which tech comes from NASA/ISS, showing exact feedback loops from space experiments to Earth hubs and then onward to lunar/Mars settlements.  prepare a markdown response that encapsulates the response including financials into a markdown segment.  It should be presented in scrollable window suitable for copying and pasting. provide cc copyright
