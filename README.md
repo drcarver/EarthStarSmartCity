@@ -1,95 +1,96 @@
 ---
 layout: default
-title: Genesis Network – Project README & Overview
-description: Comprehensive README for the Genesis Network regenerative ecosystem website
+title: Genesis Network – Project README
+description: Overview, mission, modules, and high-level financials for the Genesis regenerative ecosystem
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network by EarthStar Technologies  
-**Regenerative Closed-Loop Ecosystem for Food, Energy, Materials & Communities**  
-*Current Status: Conceptual Baseline – January 15, 2026*
+# Genesis Network  
+**A Self-Funding, Regenerative, Closed-Loop Ecosystem for Food, Energy, Materials & Communities**
 
-## Project Vision
+**Current Status**: January 15, 2026 – Conceptual baseline, early bootstrap planning phase  
+**License**: Creative Commons Attribution 4.0 International (CC BY 4.0)  
+**Repository**: [github.com/earthstar-technologies/genesis-network](https://github.com/earthstar-technologies/genesis-network) (placeholder)
 
-The **Genesis Network** is a modular, self-replicating, regenerative ecosystem that transforms distressed farmland, brownfields, and landfills into highly productive, near-100% resource-closed hubs.  
+## Mission
 
-It produces premium food, clean energy, water, advanced ceramics, electronics, industrial gases, and community services while achieving gigaton-scale carbon sequestration, rewilding hundreds of millions of acres, and providing free humanitarian care through the independent TerraWell FreeCare nonprofit.
+The Genesis Network is a scalable, modular, self-replicating regenerative platform that transforms distressed farmland, brownfields, and landfills into high-closure production & community hubs.  
 
-The system is **strictly self-funded** through early high-margin revenues (hydroponic greens, toughened ceramic tiles, road/C&D waste tipping, biogas, electronics) and scales via flat-pack kits and empowered smallholder farmer partnerships.
+It achieves **95–99% resource closure**, produces premium food, clean energy, water, advanced ceramics, electronics, industrial gases, and free humanitarian services (via independent TerraWell FreeCare nonprofit), while aggressively rewilding land, sequestering gigatons of carbon, and remediating legacy pollution.
 
-**Core Goals by 2050**  
-- 1,000–3,000 U.S. hubs + 50K–150K smallholder partners  
-- 80–95% U.S. essentials internalized in regenerative communities  
-- 200–400M acres rewilded + gigaton-class sequestration  
-- Full U.S. population coverage (370–400M) targeted by 2060s  
+The system bootstraps on bankrupt orchards/dairies using leased tents, achieves cash-positive operations in 12–24 months, and scales via 19 parallel LLCs in Innovation Hubs + empowered smallholder farmer partnerships.
 
-## Key Features & Innovations
+**Core Goal**: Enable a post-scarcity, carbon-negative civilization capable of sustaining 370–400 million people in the U.S. by the 2060s–2070s, while serving as the technology maturation backbone for lunar and Mars settlements.
 
-- **95–99% resource closure** (water, energy, nutrients)  
-- Toughened waste-derived ceramics (70–95% from road/C&D, ELFM, farm residues)  
+## Key Features
+
+- Distributed, modular hubs built entirely from waste-derived toughened ceramics  
+- 95–99% water, energy, and nutrient closure  
 - Dense vertical/rooftop/balcony agriculture (+30–50% productive capacity)  
-- Distributed 19-LLC Innovation Hubs + parallel risk isolation  
-- Short-cycle data moat (10–50× experiments/year via microalgae/BSFL)  
-- NASA/ISS-derived ECLSS/BLSS adapted for terrestrial scale  
-- Independent TerraWell FreeCare (501(c)(3)) providing 100% free healthcare/food  
-- Disaster-resilient design (Faraday mesh, airlocks, passive-dominant ceramics)  
+- Lights-out automation target: 80–95% by 2035–2040  
+- Farmer empowerment: bridge loans, free training, subsidized kits  
+- Disaster resilience: Faraday mesh, airlocks, passive-dominant systems  
+- NASA/ISS heritage technologies iteratively improved via Earth data moat  
+- Self-funded growth: no equity investors; early revenue from greens, tiles, road feedstock, electronics, credits
 
-## Modules
+## Modules Required for Regenerative Economy (NASA/ISS Roots Included)
 
-| Module Name                              | Primary Function                                                                 | Key Outputs / Benefits                                  |
-|------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------|
-| Advanced Mobility LLC                    | Autonomous powered wheelchairs & mobility devices                                | Biometric integration, modular add-ons                  |
-| Agroforestry Expansion Kit               | Alley cropping, silvopasture, tree integration                                   | Diversified yields, front-loaded revenue, sequestration |
-| Airlock Security & Screening Kit         | Weapons/explosives/pathogen detection in all buildings                           | mmWave + hyperspectral, auto-alert                      |
-| Biogas Digester & Upgrading Kit          | Anaerobic digestion + biomethane production                                      | Energy independence, digestate recovery                 |
-| Blue-Green Carbon Restoration Kit        | Seagrass, mangroves, kelp, oyster reefs                                          | Coastal protection, biodiversity credits                |
-| Carbon & Biodiversity Credits LLC        | Blockchain-verified credit generation & sales                                    | $150–250/tCO₂e equivalent revenue                       |
-| Ceramic Tile & Pipe Production Kit       | Self-replicating tile factories                                                  | Core infrastructure material                            |
-| Consumer Electronics & Appliances LLC    | TVs, chargers, wearables, kitchen appliances                                     | High-margin trade-in & sales                            |
-| Cultured Meat LLC                        | Lab-grown proteins (fowl, goat, sheep, pig, beef)                                | Future protein diversification                          |
-| DAC & Mineralization Pilot Kit           | Direct air capture + CO₂ mineralization                                          | Premium credits, internal CO₂ use                       |
-| Dam & River Restoration Module           | Selective dam removal + river/wetland rehab                                      | Fisheries integration, sediment processing              |
-| Education & Telepresence LLC             | VR/AR training, Genesis Dojo, competency tracking                                | Workforce acceleration, tourism revenue                 |
-| Food & Agro LLC                          | Hybrid aquaponics, vertical farming, premium greens                              | Core revenue engine, MyPlate compliance                 |
-| Forestry & Timber LLC                    | Lights-out sustainable forestry & lumber                                         | Biochar feedstock, construction materials               |
-| Housing & Infrastructure LLC             | Modular ceramic housing, smart roads/pipes                                       | Foundation for communities                              |
-| Industrial Gases LLC                     | ASUs for LOX/LIN/LAR + rare gases (neon/krypton)                                 | Manufacturing & medical supply                          |
-| Medical Supplies LLC                     | DME, consumables, OTC drugs, nurse-aid bots                                      | TerraWell integration, surplus sales                    |
-| Microbial Inoculant Production Kit       | Custom biosolutions (mycorrhizae, nitrogen-fixers)                               | +10–30% yields, soil regeneration                       |
-| Mini-Fab / Electronics Assembly Kit      | Mature-node sensors, edge computers, robotics controllers                       | Data moat enabler, high-margin products                 |
-| Modular Greenhouse / Aquaponics Shell    | Enclosed high/low-density growing zones                                          | Core food production                                    |
-| Port & Maritime LLC                      | Ceramic-clad docks, off-grid terminals, waste processing                         | Coastal hub extension                                   |
-| Recycling & Circular Economy LLC         | ELFM, plasma vitrification, e-waste recovery                                     | Feedstock for ceramics                                  |
-| Restoration & DAC LLC                    | Blue-green carbon + direct air capture                                           | Sequestration leadership                                |
-| Robotics & Automation LLC                | Farm/factory bots, drone swarms, robotaxis                                       | Lights-out scaling enabler                              |
-| Smart Road & Pipe Infrastructure Kit     | Bidirectional utility networks + piezo/solar roads                               | Energy/water/data backbone                              |
-| Textiles & Vegan Materials LLC           | Recycled yarn, vegan leather from ag wastes                                      | Circular consumer products                              |
-| Transportation Infrastructure LLC        | Smart roads, high-speed rail extensions                                          | Connectivity & feedstock contracts                      |
+Sorted alphabetically; includes direct NASA/ISS heritage technologies that form the foundation.
 
-## Financial Snapshot (Network-Wide, Conservative Estimates)
+- **Advanced Plant Habitat (APH) Spectral Optimization** – NASA heritage LED tuning for vertical farming  
+- **Agrivoltaics & Rooftop PV Integration** – Adapted from NASA solar array tech  
+- **Airlock & Pathogen Isolation Systems** – NASA ECLSS-derived positive pressure & filtration  
+- **Aquaponics & Multi-Trophic Systems** – NASA BLSS (Bioregenerative Life Support Systems) heritage  
+- **Biochar & Nutrient Recovery** – NASA pyrolysis & waste processing heritage  
+- **Biogas Digester & Upgrading** – Adapted from NASA anaerobic digestion experiments  
+- **Closed-Loop Water Recovery** – Direct NASA ECLSS (urine processor, water processor)  
+- **CO₂ Enrichment & Capture** – NASA Veggie/APH CO₂ management  
+- **Dense Vertical & Balcony Agriculture** – Scaled from NASA Veggie/APH multi-layer systems  
+- **Faraday Mesh & EMP Protection** – NASA radiation & EMI shielding principles  
+- **Microbial Inoculant Production** – NASA microbial fuel cells & rhizobacteria heritage  
+- **Plasma Vitrification & Waste Processing** – NASA plasma arc melter heritage  
+- **Seed & Fingerling Banks** – NASA genetic preservation for long-duration missions  
+- **Short-Cycle Crop Systems** – NASA Veggie fast-growing crops (microgreens, algae)  
 
-| Period        | CAPEX Outlay ($B) | Annual Revenue (end-period, $B) | Cumulative Net Cash ($B) | Break-even / Self-funding |
-|---------------|-------------------|---------------------------------|---------------------------|---------------------------|
-| 2027–2029     | 1.5–4.0          | 0.8–3.0                        | –1.0 to +0.5             | 2028–mid-2030            |
-| 2030–2035     | 8–18             | 10–40                          | +5 to +25                | —                         |
-| 2036–2045     | 12–25            | 80–300                         | +100 to +400             | —                         |
-| 2046–2050     | 5–10 (maintenance) | 400–1,200                    | Self-sustaining flywheel  | —                         |
+## All Other Modules (Alphabetical)
+
+Sorted alphabetically; non-NASA/ISS origin or heavily Earth-optimized.
+
+- **Agroforestry Expansion**  
+- **Carbon & Biodiversity Credits Platform**  
+- **Ceramic Tile & Pipe Production**  
+- **Consumer Electronics & Appliances**  
+- **Cultured Meat**  
+- **Dam & River Restoration**  
+- **Direct Air Capture & Mineralization**  
+- **Education & Telepresence Hubs**  
+- **Forestry & Timber (lights-out)**  
+- **Furniture & Building Products**  
+- **Industrial Gases (ASUs + rare gases)**  
+- **Microbial Biosolutions & Inoculants**  
+- **Mini-Fab (mature-node semiconductors)**  
+- **Port & Maritime Infrastructure**  
+- **Restoration & Blue-Green Carbon Kits**  
+- **Robotics & Automation**  
+- **Smart Road & Pipe Infrastructure**  
+- **TerraFab / Full-Scale Semiconductor**  
+- **Textiles & Vegan Materials**  
+- **Transportation Infrastructure (HSR extensions)**  
+
+## High-Level Financial Projections (Network-Wide, Conservative)
+
+| Period        | CAPEX ($B) | Annual Revenue (end-period, $B) | Net Cash Flow ($B) | Cumulative Net ($B) | Break-Even / Self-Funding |
+|---------------|------------|----------------------------------|--------------------|----------------------|----------------------------|
+| 2027–2029     | 1.5–4.0   | 0.8–3.0                         | +0.2 to +1.0      | –1.0 to +0.5        | 2028–mid-2030             |
+| 2030–2035     | 8–18      | 10–40                           | +4 to +20         | +5 to +25           | —                         |
+| 2036–2045     | 12–25     | 80–300                          | +50 to +200       | +100 to +400        | —                         |
+| 2046–2050     | 5–10      | 400–1,200                       | +300 to +900      | Self-sustaining     | Flywheel active           |
 
 **Key Metrics**  
-- IRR: 32–42%  
-- NPV (7% discount, 2050 horizon): $80–180B+  
-- Per mature hub revenue: $1.05–2.4B/year (60–80% gross margins)
-
-## Quick Start & Next Steps
-
-1. Secure distressed farmland (Central Valley orchards) via USDA FSA zero-down loans  
-2. Launch tent-based pilots (tiles + greens + road/C&D tipping) for early cash flow  
-3. Build first 3–12 Innovation Hubs (2027–2029)  
-4. Expand via flat-pack kits and farmer partnerships  
-5. Iterate ruthlessly using short-cycle data moat  
-
-**Contributing**  
-This is an open conceptual framework licensed under CC BY 4.0. Fork, adapt, or build upon it — attribution appreciated.
+- **IRR**: 28–38% (base); 45%+ with credits/kits  
+- **NPV (7% discount, 2050 horizon)**: $80–180B+  
+- **Per mature hub revenue**: $950M–$2.4B/year  
+- **Gross margins**: 60–80% (automation + closure)
 
 **License**  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
