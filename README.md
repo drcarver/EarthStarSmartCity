@@ -34,7 +34,7 @@ The system is **strictly self-funded** through early high-margin revenues (hydro
 - Independent TerraWell FreeCare (501(c)(3)) providing 100% free healthcare/food  
 - Disaster-resilient design (Faraday mesh, airlocks, passive-dominant ceramics)  
 
-## Modules (Sorted Alphabetically)
+## Modules
 
 | Module Name                              | Primary Function                                                                 | Key Outputs / Benefits                                  |
 |------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------|
