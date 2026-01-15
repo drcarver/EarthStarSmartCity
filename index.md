@@ -8,10 +8,9 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 # Genesis Network Project Index
 
 ## Overview
-This index provides a structured overview of the Genesis Network project, including key components, LLCs sorted alphabetically, breakdowns for NASA-inspired technologies, LLCs driving the regenerative economy, and an encapsulated project plan with financial details. The project aims for regenerative, closed-loop ecosystems achieving post-scarcity abundance.
+This index provides a structured overview of the Genesis Network project, including key components, LLCs, breakdowns for NASA-inspired technologies, LLCs driving the regenerative economy, and an encapsulated project plan with financial details. The project aims for regenerative, closed-loop ecosystems achieving post-scarcity abundance.
 
-## Sorted List of LLCs in the Innovation Hub
-The 19 LLCs are sorted alphabetically by name:
+## List of LLCs in the Innovation Hub
 
 1. **Biorefinery LLC** - Biochar, microbial inoculants, biogas upgrading, organic waste valorization.
 2. **Carbon & Biodiversity Credits LLC** - Blockchain-verified credit generation/sales (CO₂, biodiversity, water recharge).
@@ -34,6 +33,7 @@ The 19 LLCs are sorted alphabetically by name:
 19. **Transportation Infrastructure LLC** - Smart roads (piezo/solar/inductive charging), rest stops, high-speed rail extensions.
 
 ## LLCs Based on NASA-Inspired Technologies
+
 These LLCs draw from NASA BLSS/ECLSS principles (closed-loop life support, resource recycling, controlled environments):
 
 - **Biorefinery LLC** - Waste valorization and biogas inspired by ECLSS recycling.
@@ -44,6 +44,7 @@ These LLCs draw from NASA BLSS/ECLSS principles (closed-loop life support, resou
 - **Restoration & DAC LLC** - DAC and environmental modules for atmospheric/habitat restoration.
 
 ## LLCs Driving the Regenerative Economy
+
 These LLCs form the core of the circular, regenerative model (waste-to-resource, carbon-negative operations):
 
 - **Biorefinery LLC** - Organic waste to energy/products.
