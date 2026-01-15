@@ -1,130 +1,92 @@
 ---
 layout: default
-title: Genesis Network Project README
-description: Overview of the Genesis Network, including Innovation Hub modules inspired by NASA/ISS technologies and categorized lists.
+title: Genesis Network Project Index by Earth-Star Industries
+description: A detailed website index for the Genesis Network project, including sorted LLCs, NASA-inspired breakdowns, regenerative economy LLCs, and encapsulated project plan with financials.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Project Overview
+# Genesis Network Project Index
 
-## Project Overview
+## Overview
+This index provides a structured overview of the Genesis Network project, including key components, LLCs sorted alphabetically, breakdowns for NASA-inspired technologies, LLCs driving the regenerative economy, and an encapsulated project plan with financial details. The project aims for regenerative, closed-loop ecosystems achieving post-scarcity abundance.
 
-The Genesis Network is a [scalable](web/scalable.md), [resilient](web/resilience..md), [regenerative](web/regenerative.md) and [standards compliant](web/standards.md) ecosystem designed to transform distressed lands into self-sustaining hubs for [food](web/food.md), [energy](web/energy.md), [water](web/water.md), [materials](web/materials.md), [humanitarian aid](web/humanitarian.md) and [community services](web/community.md). It achieves high resource closure (95–99%) through modular technologies, drawing selective inspiration from NASA BLSS/ECLSS principles for closed-loop systems optimized for terrestrial use. The  [Innovation Hub](web/innovation.md) serves as the core for business experimentation, housing independent LLCs that drive scaling and innovation.
+## Sorted List of LLCs in the Innovation Hub
+The 19 LLCs are sorted alphabetically by name:
 
-This overview provides a list of all Innovation Hub modules (LLCs), prioritizing those inspired by NASA/ISS technologies. Modules are then separated into those essential for the regenerative architecture (core closed-loop sustainability) versus others (supplementary or revenue-focused).
+1. **Biorefinery LLC** - Biochar, microbial inoculants, biogas upgrading, organic waste valorization.
+2. **Carbon & Biodiversity Credits LLC** - Blockchain-verified credit generation/sales (CO₂, biodiversity, water recharge).
+3. **Consumer Electronics & Appliances LLC** - Smart TVs, wireless chargers, fitness wearables, Bluetooth speakers, kitchen appliances.
+4. **Cultured Meat LLC** - Lab-grown proteins (poultry, pork, beef).
+5. **Direct Air Capture & Mineralization LLC** - Modular DAC units, CO₂ mineralization into aggregates/tiles, enhanced weathering kits.
+6. **Education & Telepresence LLC** - VR/AR training platforms, Genesis Dojo, digital twin management, competency-based education.
+7. **Food & Agro LLC** - Hybrid aquaponics, vertical farming, premium greens/herbs, agroforestry systems.
+8. **Forestry & Timber LLC** - Lights-out sustainable forestry with AI/drones, autonomous harvesters, robotic planting/sawmills.
+9. **Furniture & Building Products LLC** - Chairs, tables, bicycles, eyewear frames, toys, insulation panels, geotextiles.
+10. **Housing & Infrastructure LLC** - Ceramic tiles, smart pipes/roads, modular housing kits.
+11. **Industrial Gases LLC** - Air separation units (ASUs) for LOX/LIN/LAR; rare gases (neon, krypton) from retrofits.
+12. **Medical Supplies LLC** - Durable medical equipment (wheelchairs, crutches), hospital consumables, generic OTC/prescription drugs, nurse-aid bots.
+13. **Mini-Fab LLC** - Sensors, edge computers, robotics controllers, mature-node semiconductors, drones (including swarm AI and stealth variants).
+14. **Port & Maritime LLC** - Ceramic-clad docks/terminals, hybrid vessel components, off-grid port kits, maritime waste processing.
+15. **Recycling & Circular Economy LLC** - Enhanced landfill mining (ELFM), sewage/sludge processing, plasma vitrification, e-waste/material recovery.
+16. **Restoration & DAC LLC** - Blue-green carbon kits (seagrass, mangroves, kelp, oysters), wetland/river restoration, direct air capture modules.
+17. **Robotics & Automation LLC** - Autonomous farm/factory bots, drone swarms, robotaxi fleets, nurse-aid bots (lease-to-own models).
+18. **Textiles & Vegan Materials LLC** - Recycled yarn/nonwovens, vegan leather from agricultural wastes (e.g., pineapple/banana leaves).
+19. **Transportation Infrastructure LLC** - Smart roads (piezo/solar/inductive charging), rest stops, high-speed rail extensions.
 
-The project can be stared with a minimal startup capital.  There is a phased [master plan](web/masterplan.md) that achieve positive cash flow in a the first year and then self funds all further expansion.
+## LLCs Based on NASA-Inspired Technologies
+These LLCs draw from NASA BLSS/ECLSS principles (closed-loop life support, resource recycling, controlled environments):
 
-## [Innovation Hub Modules](web/innovation.md)
+- **Biorefinery LLC** - Waste valorization and biogas inspired by ECLSS recycling.
+- **Direct Air Capture & Mineralization LLC** - CO₂ management akin to space habitat air revitalization.
+- **Food & Agro LLC** - Hybrid aquaponics and vertical farming for closed-loop food production.
+- **Housing & Infrastructure LLC** - Modular, self-sufficient structures with embedded environmental controls.
+- **Recycling & Circular Economy LLC** - Plasma vitrification and material recovery for near-100% closure.
+- **Restoration & DAC LLC** - DAC and environmental modules for atmospheric/habitat restoration.
 
-Modules are ordered with NASA/ISS-inspired ones at the top. NASA inspirations include closed-loop life support (ECLSS for waste/water/air management), bioregenerative systems (BLSS for food/aquaponics), modular habitats, and environmental monitoring/digital twins from space station tech.
+## LLCs Driving the Regenerative Economy
+These LLCs form the core of the circular, regenerative model (waste-to-resource, carbon-negative operations):
 
-### NASA/ISS-Inspired Modules
-1. **[Biorefinery LCC](web/biorefinery.md)**  
-   Biochar, microbial inoculants, biogas upgrading  
-   *(Inspired by ECLSS waste-to-energy and BLSS microbial processing)*
+- **Biorefinery LLC** - Organic waste to energy/products.
+- **Carbon & Biodiversity Credits LLC** - Monetizing sequestration and restoration.
+- **Cultured Meat LLC** - Sustainable protein production.
+- **Direct Air Capture & Mineralization LLC** - Carbon removal and material reuse.
+- **Food & Agro LLC** - Regenerative agriculture and closed-loop farming.
+- **Forestry & Timber LLC** - Sustainable, automated resource harvesting.
+- **Housing & Infrastructure LLC** - Waste-derived building materials.
+- **Industrial Gases LLC** - Efficient resource extraction from air/waste.
+- **Recycling & Circular Economy LLC** - Full waste transformation.
+- **Restoration & DAC LLC** - Ecosystem regeneration and blue-green carbon.
+- **Textiles & Vegan Materials LLC** - Ag waste to sustainable goods.
 
-2. **[Food & Agro LCC](web/food.md)**  
-   Hybrid aquaponics, vertical farming, agroforestry  
-   *(Inspired by BLSS controlled-environment agriculture and hydroponics)*
+## Encapsulated Project Plan with Financials
 
-3. **[Recycling & Circular Economy LCC](web/recycling.md)**  
-   ELFM, sewage/plasma vitrification, e-waste recovery  
-   *(Inspired by ECLSS resource recovery and closed-loop recycling)*
+### Project Overview
+The Genesis Network deploys modular, regenerative hubs on distressed farmland, brownfields, and landfills, achieving net-positive energy, 95–99% water closure, and carbon negativity. It bootstraps via tents, scales exponentially through affiliates (10K–50K by 2035), and internalizes U.S. economy by 2060s. Key enhancements: Microbial biosolutions, blockchain credits, agroforestry, DAC, waste heat recovery, infrastructure recycling (RCA + ceramics), mining minimization, and co-op/LLC structures.
 
-4. **[Housing & Infrastructure LCC](web/housing.md)**  
-   Ceramic tiles, smart pipes/roads, modular housing  
-   *(Inspired by modular space habitats and ECLSS infrastructure)*
+### Phased Timeline
+- **2027–2030**: Pilots (1–20 hubs); self-funding by 2029.
+- **2031–2035**: Regional (20–100 hubs); waste transformation.
+- **2036–2045**: Acceleration (100–500 hubs); rewilding 100M+ acres.
+- **2046–2050**: Maturity prep (500–1,000 hubs); 80–95% internalization.
 
-5. **[Restoration & DAC LCC](web/restoration.md)**  
-   Blue-green carbon kits, wetlands, DAC  
-   *(Inspired by ECLSS CO₂ management and environmental revitalization)*
+### Financial Summary (Network-Wide, $B)
+- **CAPEX**: 20–30 cumulative (offset 15–25% by grants like USDA REAP, EPA Brownfields, CHIPS, IRA).
+- **Revenue Ramp**: 0.1 (2027) → 72–500 (2050); sources: Food/tiles (40%), electronics/gases (30%), credits/contracts (30%).
+- **Cash Flow**: Negative early (-0.1 to -1.65B 2027–2030); positive ramp to +285B (2050).
+- **NPV (7%)**: 400–700.
+- **IRR**: 28–38%.
+- **Break-Even**: 2032.
 
-6. **[Industrial Gases LCC](web/industrial.md)**  
-   ASUs for LOX/LIN/LAR, rare gases  
-   *(Inspired by ECLSS air revitalization and oxygen generation)*
+### Power/Water/Carbon Balances (Per Hub)
+- Power: +50–100 GWh/year surplus.
+- Water: +200–300M gallons/year recharge.
+- Carbon: -0.4–-1.2 Mt CO₂e/year net negative.
 
-7. **[Direct Air Capture & Mineralization LCC](web/dac.md)**  
-   Modular DAC units, CO₂ mineralization  
-   *(Inspired by ECLSS CO₂ scrubbing and resource utilization)*
+### Feasibility Analysis
+Technical (8.5/10), Economic (8/10), Environmental (9.5/10), Political/Social (7.5/10), Regulatory (8/10). Overall: 8.3/10 (70–80% success).
 
-8. **[Cultured Meat LCC](web/cultured.md)**  
-   Lab-grown proteins  
-   *(Inspired by BLSS advanced food production concepts for space)*
+---
 
-9. **[Education & Telepresence LCC](web/education.md)**  
-   VR/AR training, digital twins  
-   *(Inspired by ISS teleoperation and simulation training)*
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-### Non-NASA/ISS-Inspired Modules
-10. **[Mini-Fab LCC](web/minifab.md)**  
-    Sensors, edge computers, robotics, semiconductors, drones
-
-11. **[Medical Supplies LCC](web/medical.md)**  
-    DME, consumables, OTC drugs, nurse-aid bots
-
-12. **[Carbon & Biodiversity Credits LCC](web/carbon.md)**  
-    Blockchain-verified credits
-
-13. **[Robotics & Automation LCC](web/robotics.md)**  
-    Farm/factory bots, drone swarms, robotaxis
-
-14. **[Consumer Electronics & Appliances LCC](web/consumer.md)**  
-    TVs, chargers, wearables, appliances
-
-15. **[Textiles & Vegan Materials LCC](web/textiles.md)**  
-    Recycled yarn, vegan leather
-
-16. **[Furniture & Building Products LCC](web/furniture.md)**  
-    Chairs, tables, bicycles, eyewear, toys, insulation, geotextiles
-
-17. **[Forestry & Timber LCC](web/forestry.md)**  
-    Lights-out sustainable forestry
-
-18. **[Port & Maritime LCC](web/port.md)**  
-    Ceramic docks, vessel components
-
-19. **[Transportation Infrastructure LCC](web/transportation.md)**  
-    Smart roads, rail extensions
-
-20. **[Pharma & APIs LCC](web/pharma.md)**  
-    Generics, OTC, APIs from crops/biorefinery
-
-## Modules Essential for Regenerative Architecture
-
-These modules form the core closed-loop sustainability foundation of the Genesis Network:
-
-- [Biorefinery LCC](web/biorefinery.md) 
-- [Food & Agro LCC](web/food.md)  
-- [Recycling & Circular Economy LCC](web/recycling.md)  
-- [Housing & Infrastructure LCC](web/housing.md)  
-- [Restoration & DAC LCC](web/restoration.md)  
-- [Industrial Gases LCC](web/industrial.md)  
-- [Direct Air Capture & Mineralization LCC](web/dac.md)  
-- Microbial Inoculant Production (integrated into [Biorefinery](web/biorefinery.md))  
-- Agroforestry Expansion (integrated into [Food & Agro](web/food.md))  
-- Waste Heat Recovery (integrated into [Infrastructure](web/housing.md))
-
-## Supplementary / Revenue-Focused Modules
-
-These modules support advanced manufacturing, revenue generation, specialized products, or expanded services:
-
-- [Mini-Fab LCC](web/minifab.md)  
-- [Medical Supplies LCC](web/medical.md)  
-- [Education & Telepresence LCC](web/education.md)  
-- [Carbon & Biodiversity Credits LCC](web/carbon.md)  
-- [Robotics & Automation LCC](web/robotics.md)  
-- [Consumer Electronics & Appliances LCC](web/consumer.md)  
-- [Textiles & Vegan Materials LCC](web/textiles.md)  
-- [Furniture & Building Products LCC](web/furniture.md)  
-- [Forestry & Timber LCC](web/forestry.md)  
-- [Port & Maritime LCC](web/port.md)  
-- [Transportation Infrastructure LCC](web/transportation.md)  
-- [Cultured Meat LCC](web/cultured.md)  
-- [Pharma & APIs LCC](web/pharma.md)
-
-## License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-© 2026 Genesis Network Project Contributors
+© 2025 Earth-Star Industries
