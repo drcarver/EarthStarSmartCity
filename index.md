@@ -1,95 +1,90 @@
 ---
 layout: default
-title: Genesis Network Project Index by Earth-Star Industries
-description: A detailed website index for the Genesis Network project, including sorted LLCs, NASA-inspired breakdowns, regenerative economy LLCs, and encapsulated project plan with financials.
+title: Genesis Network Index – Project Overview & Structure
+description: Comprehensive index for the Genesis Network regenerative ecosystem, including LLC categorization, key components, and financial summary
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Project Index
+# Genesis Network Index  
+**Comprehensive Project Overview & Documentation Hub**  
+*Status: January 15, 2026 – EarthStar Technologies conceptual working group*
 
-## Overview
-This index provides a structured overview of the Genesis Network project, including key components, LLCs, breakdowns for NASA-inspired technologies, LLCs driving the regenerative economy, and an encapsulated project plan with financial details. The project aims for regenerative, closed-loop ecosystems achieving post-scarcity abundance.
+## Welcome to the Genesis Network
 
-For more details, see the [Master Plan](web/masterplan.md).
+The **Genesis Network** is a scalable, self-replicating regenerative ecosystem designed to transform distressed farmland, brownfields, and landfills into closed-loop production and community hubs. It achieves **95–99% resource closure**, produces premium food, clean energy, water, advanced ceramics, electronics, industrial gases, and free humanitarian services (via the independent TerraWell FreeCare nonprofit), while rewilding land, sequestering gigatons of carbon, and remediating legacy pollution.
 
-## List of LLCs in the Innovation Hub
+All infrastructure is constructed exclusively from **toughened ceramic tiles**, **ceramic pipes**, and **flat-pack modular kits** produced in-house. The network is self-funded through high-margin early revenues (greens, tiles, road/C&D tipping, biogas) and scales via 19 parallel LLCs in Innovation Hubs + empowered smallholder farmer partnerships.
 
-1. **Biorefinery LLC** - Biochar, microbial inoculants, biogas upgrading, organic waste valorization.
-2. **Carbon & Biodiversity Credits LLC** - Blockchain-verified credit generation/sales (CO₂, biodiversity, water recharge).
-3. **Consumer Electronics & Appliances LLC** - Smart TVs, wireless chargers, fitness wearables, Bluetooth speakers, kitchen appliances.
-4. **Cultured Meat LLC** - Lab-grown proteins (poultry, pork, beef).
-5. **Direct Air Capture & Mineralization LLC** - Modular DAC units, CO₂ mineralization into aggregates/tiles, enhanced weathering kits.
-6. **Education & Telepresence LLC** - VR/AR training platforms, Genesis Dojo, digital twin management, competency-based education.
-7. **Food & Agro LLC** - Hybrid aquaponics, vertical farming, premium greens/herbs, agroforestry systems.
-8. **Forestry & Timber LLC** - Lights-out sustainable forestry with AI/drones, autonomous harvesters, robotic planting/sawmills.
-9. **Furniture & Building Products LLC** - Chairs, tables, bicycles, eyewear frames, toys, insulation panels, geotextiles.
-10. **Housing & Infrastructure LLC** - Ceramic tiles, smart pipes/roads, modular housing kits.
-11. **Industrial Gases LLC** - Air separation units (ASUs) for LOX/LIN/LAR; rare gases (neon, krypton) from retrofits.
-12. **Medical Supplies LLC** - Durable medical equipment (wheelchairs, crutches), hospital consumables, generic OTC/prescription drugs, nurse-aid bots.
-13. **Mini-Fab LLC** - Sensors, edge computers, robotics controllers, mature-node semiconductors, drones (including swarm AI and stealth variants).
-14. **Port & Maritime LLC** - Ceramic-clad docks/terminals, hybrid vessel components, off-grid port kits, maritime waste processing.
-15. **Recycling & Circular Economy LLC** - Enhanced landfill mining (ELFM), sewage/sludge processing, plasma vitrification, e-waste/material recovery.
-16. **Restoration & DAC LLC** - Blue-green carbon kits (seagrass, mangroves, kelp, oysters), wetland/river restoration, direct air capture modules.
-17. **Robotics & Automation LLC** - Autonomous farm/factory bots, drone swarms, robotaxi fleets, nurse-aid bots (lease-to-own models).
-18. **Textiles & Vegan Materials LLC** - Recycled yarn/nonwovens, vegan leather from agricultural wastes (e.g., pineapple/banana leaves).
-19. **Transportation Infrastructure LLC** - Smart roads (piezo/solar/inductive charging), rest stops, high-speed rail extensions.
+### Core Project Documentation Sections
 
-## LLCs Based on NASA-Inspired Technologies
+1. Project Overview & Master Plan  
+2. Tiles, Kits & Manufacturing Specifications  
+3. Innovation Hub – 19 LLCs & Parallel Execution  
+4. Financial Projections & Cash Flow (2027–2050)  
+5. Resilience Analysis (Natural & Man-Made Disasters)  
+6. NASA/ISS Technology Transfer & 50-Year Roadmap  
+7. Top Risks, Mitigations & Quick Wins  
+8. Farmer & Smallholder Empowerment Program  
+9. TerraWell FreeCare Nonprofit Layer  
+10. Sensor Handbook & Smart City Standards  
 
-These LLCs draw from NASA BLSS/ECLSS principles (closed-loop life support, resource recycling, controlled environments):
+## LLC Categorization
 
-- **Biorefinery LLC** - Waste valorization and biogas inspired by ECLSS recycling.
-- **Direct Air Capture & Mineralization LLC** - CO₂ management akin to space habitat air revitalization.
-- **Food & Agro LLC** - Hybrid aquaponics and vertical farming for closed-loop food production.
-- **Housing & Infrastructure LLC** - Modular, self-sufficient structures with embedded environmental controls.
-- **Recycling & Circular Economy LLC** - Plasma vitrification and material recovery for near-100% closure.
-- **Restoration & DAC LLC** - DAC and environmental modules for atmospheric/habitat restoration.
+### 1. LLCs Required for Regenerative Economy with NASA Roots  
+(Direct heritage or strong inspiration from NASA/ISS ECLSS, BLSS, Veggie, Advanced Plant Habitat, plasma systems, etc.)
 
-## LLCs Driving the Regenerative Economy
+1. Food & Agro LLC  
+   - Hydroponics/aquaponics, vertical farming, short-cycle crops  
+   - NASA Veggie/APH heritage + Earth rapid iteration  
 
-These LLCs form the core of the circular, regenerative model (waste-to-resource, carbon-negative operations):
+2. Biorefinery LLC  
+   - Biochar, microbial inoculants, biogas upgrading  
+   - NASA pyrolysis/plasma waste processing roots  
 
-- **Biorefinery LLC** - Organic waste to energy/products.
-- **Carbon & Biodiversity Credits LLC** - Monetizing sequestration and restoration.
-- **Cultured Meat LLC** - Sustainable protein production.
-- **Direct Air Capture & Mineralization LLC** - Carbon removal and material reuse.
-- **Food & Agro LLC** - Regenerative agriculture and closed-loop farming.
-- **Forestry & Timber LLC** - Sustainable, automated resource harvesting.
-- **Housing & Infrastructure LLC** - Waste-derived building materials.
-- **Industrial Gases LLC** - Efficient resource extraction from air/waste.
-- **Recycling & Circular Economy LLC** - Full waste transformation.
-- **Restoration & DAC LLC** - Ecosystem regeneration and blue-green carbon.
-- **Textiles & Vegan Materials LLC** - Ag waste to sustainable goods.
+3. Recycling & Circular Economy LLC  
+   - Plasma vitrification, ELFM, waste valorization  
+   - NASA plasma arc melter heritage for in-situ resource use  
 
-## Encapsulated Project Plan with Financials
+4. Direct Air Capture & Mineralization LLC  
+   - CO₂ capture & sequestration  
+   - NASA ECLSS air revitalization + advanced concepts  
 
-### Project Overview
-The Genesis Network deploys modular, regenerative hubs on distressed farmland, brownfields, and landfills, achieving net-positive energy, 95–99% water closure, and carbon negativity. It bootstraps via tents, scales exponentially through affiliates (10K–50K by 2035), and internalizes U.S. economy by 2060s. Key enhancements: Microbial biosolutions, blockchain credits, agroforestry, DAC, waste heat recovery, infrastructure recycling (RCA + ceramics), mining minimization, and co-op/LLC structures.
+5. Restoration & DAC LLC  
+   - Blue-green carbon ecosystems (kelp, oysters, wetlands)  
+   - NASA bioregenerative life support feedback  
 
-### Phased Timeline
-- **2027–2030**: Pilots (1–20 hubs); self-funding by 2029.
-- **2031–2035**: Regional (20–100 hubs); waste transformation.
-- **2036–2045**: Acceleration (100–500 hubs); rewilding 100M+ acres.
-- **2046–2050**: Maturity prep (500–1,000 hubs); 80–95% internalization.
+### 2. All Other LLCs  
+(Supporting the regenerative economy, sorted alphabetically)
 
-### Financial Summary (Network-Wide, $B)
-- **CAPEX**: 20–30 cumulative (offset 15–25% by grants like USDA REAP, EPA Brownfields, CHIPS, IRA).
-- **Revenue Ramp**: 0.1 (2027) → 72–500 (2050); sources: Food/tiles (40%), electronics/gases (30%), credits/contracts (30%).
-- **Cash Flow**: Negative early (-0.1 to -1.65B 2027–2030); positive ramp to +285B (2050).
-- **NPV (7%)**: 400–700.
-- **IRR**: 28–38%.
-- **Break-Even**: 2032.
+1. Carbon & Biodiversity Credits LLC  
+2. Consumer Electronics & Appliances LLC  
+3. Cultured Meat LLC  
+4. Education & Telepresence LLC  
+5. Forestry & Timber LLC  
+6. Housing & Infrastructure LLC  
+7. Industrial Gases LLC  
+8. Medical Supplies LLC  
+9. Mini-Fab LLC (sensors/electronics)  
+10. Port & Maritime LLC  
+11. Robotics & Automation LLC  
+12. Textiles & Vegan Materials LLC  
+13. Transportation Infrastructure LLC  
 
-### Power/Water/Carbon Balances (Per Hub)
-- Power: +50–100 GWh/year surplus.
-- Water: +200–300M gallons/year recharge.
-- Carbon: -0.4–-1.2 Mt CO₂e/year net negative.
+## Financial Summary (Network-Wide, Conservative 2026 Estimates)
 
-### Feasibility Analysis
-Technical (8.5/10), Economic (8/10), Environmental (9.5/10), Political/Social (7.5/10), Regulatory (8/10). Overall: 8.3/10 (70–80% success).
+| Period        | CAPEX Outlay ($B) | Annual Revenue (end of period, $B) | Net Cash Flow ($B) | Cumulative Net ($B) | Break-even Point       |
+|---------------|-------------------|-------------------------------------|---------------------|----------------------|------------------------|
+| 2027–2029     | 1.5–4.0          | 0.8–3.0                            | +0.2 to +1.0       | –1.0 to +0.5        | Late 2028 – mid-2030   |
+| 2030–2035     | 8–18             | 10–40                              | +4 to +20          | +5 to +25           | Self-funding achieved  |
+| 2036–2045     | 12–25            | 80–300                             | +50 to +200        | +100 to +400        | Flywheel momentum      |
+| 2046–2050     | 5–10 (maintenance)| 400–1,200                          | +300 to +900       | Self-sustaining     | —                      |
 
----
+**Key Metrics**  
+- **IRR**: 32–42% (base); 45%+ with credits/kits  
+- **NPV (7% discount, 2050 horizon)**: $80–180B+  
+- **Per Mature Hub Revenue**: $1.05–2.4B/year (60–80% gross margins)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
-© 2025 Earth-Star Industries
+**License**  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2026 EarthStar Technologies conceptual working group  
+(Attribution appreciated — public domain spirit)
