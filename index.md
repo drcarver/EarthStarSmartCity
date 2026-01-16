@@ -17,9 +17,9 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## About the Project
 - **[Core Principles](web/core.md)**: Limited Regenerative Architecture, phased reintroductions, data moat flywheel, farmer empowerment.
-- **[Technologies](web/technologies.md)**: NASA/ISS-inspired (ECLSS, Veggie); smart tiles/kits; plasma vitrification.
-- **Environmental Impact**: Rewilding, blue-green carbon kits, water recharge; carbon balance (-0.9–1.7 MtCO₂e/hub/year).
-- **Social Impact**: TerraWell FreeCare (free healthcare/food); 10,000–50,000 smallholder partners by 2040s.
+- **[Technologies](web/technologies.md)**: NASA/ISS-inspired ([ECLSS](web/ECLSS.md), [Veggie](web/veggie.md)); [smart tiles/kits](web/tileandkit.md); [plasma vitrification](web/plasma.md).
+- **[Environmental Impact](web/environmental.md)**: Rewilding, blue-green carbon kits, water recharge; carbon balance (-0.9–1.7 MtCO₂e/hub/year).
+- **[Social Impact](web/social,md)**: TerraWell FreeCare (free healthcare/food); 10,000–50,000 smallholder partners by 2040s.
 
 ## Roadmap & Timeline
 - **50-Year Plan (2026–2076)**: Bootstrap (2026–2030), Regional Scale (2031–2040), Acceleration (2041–2050), Maturity (2051–2076).
@@ -29,7 +29,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ## Components & Technologies
 - **Tiles & Kits**: List of all modular tiles (structural, insulating, smart variants) and kits (e.g., Microbial Inoculant, Agroforestry Expansion, Security & Airlock).
   - Manufacturing: LCM at tile factory; inputs 70–95% waste; costs $1.80–7.50/m²; revenues $3–12/m².
-- **Innovation Hub LLCs**: 9 LLCs (e.g., Housing & Infrastructure, Biorefinery, Food & Agro).
+- **[Innovation Hub LLCs](web/Innovation.md)**: 9 LLCs (e.g., Housing & Infrastructure, Biorefinery, Food & Agro).
 - **Sensor Handbook**: Types (electrochemical, radar), standards (IEEE 1451, ISO 14001), viability impacts.
 - **Resilience Features**: Smart airlocks for security/pandemics; Faraday mesh for EMP; closed-loops for nuclear winter.
 
