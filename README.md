@@ -1,94 +1,67 @@
 ---
 layout: default
-title: Genesis Network – Project README
-description: Comprehensive overview, mission, structure, and key components of the Genesis Network regenerative ecosystem
+title: Genesis Network Project README
+description: Detailed overview, features, roadmap, financials, and resilience analysis for the Genesis Network regenerative ecosystem.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**A Regenerative, Closed-Loop Ecosystem for Food, Energy, Materials, and Community**
+# Genesis Network Project README  
+**Welcome to the Genesis Network – A Regenerative Ecosystem for a Sustainable Future**  
+*Version 1.0 – January 15, 2026*
 
-Welcome to the Genesis Network — an ambitious, self-funded initiative to transform distressed farmland, brownfields, and landfills into modular, highly resilient, near-100% closed-loop production and living hubs.
+## Introduction
 
-The project bootstraps on bankrupt U.S. farmland (especially Central Valley orchards), uses leased industrial tents for rapid deployment, and scales through 19 parallel LLCs in Innovation Hubs plus empowered smallholder farmer partnerships.
+The Genesis Network is an ambitious, self-replicating regenerative ecosystem developed by Earth-Star Industries. It transforms distressed farmlands, brownfields, and landfills into productive hubs providing food, energy, water, materials, and community services with 95–99% resource closure. Under the Limited Regenerative Architecture, the project prioritizes proven, high-margin modules (e.g., ceramic tiles, hydroponics, biogas) for rapid self-funding by 2028–2029, with phased reintroduction of complex elements via strict triggers.
 
-Core goals:  
-- Achieve 95–99% resource closure (water, energy, nutrients, materials)  
-- Produce premium food, clean energy, advanced ceramics, electronics, industrial gases, and humanitarian services  
-- Sequester gigatons of carbon while rewilding 200–400 million acres  
-- Build disaster-resilient communities capable of surviving extreme events  
-- Create a scalable model for lunar/Mars settlement life support
-
-## Mission
-
-Create a post-scarcity, carbon-negative civilization by internalizing essential goods and services into distributed regenerative hubs — starting in the United States and extending globally via smallholder co-ops — while providing the technological foundation for permanent human presence beyond Earth.
-
-## Project Structure
-
-- **EarthStar Technologies** — For-profit parent entity owning core IP and coordinating network  
-- **Innovation Hubs** — 19 parallel LLCs executing specialized functions with risk isolation  
-- **TerraWell FreeCare** — Independent 501(c)(3) nonprofit delivering free healthcare, food, and DME  
-- **Smallholder Partnerships** — 10,000–50,000+ U.S. affiliates (eventually global) using subsidized kits and loans  
-- **Flat-Pack Kits** — Modular, self-replicating building blocks produced in-house  
-- **Toughened Ceramic Tiles** — Primary construction material (70–95% waste-derived)
+This README provides a comprehensive overview for the project website, including features, roadmap, financials, resilience, and more. The network emphasizes farmer empowerment, environmental restoration, and innovation through modular kits and a data moat flywheel.
 
 ## Key Features
 
-- **Bootstrap**: 2027–2029 on distressed land using tents → cash-positive from greens, tiles, road/C&D waste  
-- **Closure**: 95–99% water/energy/nutrient loops via NASA-inspired ECLSS principles  
-- **Resilience**: Faraday-caged ceramics, airlocks, DC microgrids, short-cycle food production  
-- **Data Moat**: Ultra-short-cycle experiments (weekly microalgae/BSFL) → 10–50× faster iteration  
-- **AI Autonomy**: 80–95% lights-out operations by 2035–2040 via skill transfer  
-- **Disaster Readiness**: Top-tier survivability against earthquakes, pandemics, EMP; moderate for nuclear winter/supervolcano  
-- **Space Extension**: Terrestrial hubs mature NASA/ISS tech → bidirectional loop for lunar/Mars settlements  
+- **Modular Ceramic Tiles & Kits**: Waste-derived (70–95% from C&D/road waste); snap-together for buildings, roads, greenhouses; embedded sensors for smart functionality.
+- **Closed-Loop Agriculture**: Hydroponics/aquaponics for greens/staples; microbial inoculants for 10–30% yield boosts; dense urban integration (+30–50% productivity via rooftops/balconies).
+- **Energy & Water Systems**: Biogas turbines for net-positive power; AWG/digestate recovery for water closure; excess recharged to aquifers.
+- **Environmental Restoration**: Brownfield/landfill remediation; blue-green carbon kits (seagrass, mangroves, etc.); rewilding 200–400M acres.
+- **Innovation Hub**: 9 LLCs for parallel execution (risk isolation, burnout reduction); e.g., Biorefinery LLC, Food & Agro LLC.
+- **TerraWell FreeCare**: Independent nonprofit for free healthcare/food/DME via inventory donations.
+- **Resilience**: Smart airlocks for security/pandemic screening; Faraday mesh for EMP; high ratings against disasters (e.g., 9/10 earthquakes, 8/10 nuclear winter).
+- **Smallholder Partnerships**: 10,000–50,000 global partners with loans/kits; empowers rural communities.
 
-## Financial Summary (Network-Wide, Mature Phase Estimates)
+## 50-Year Roadmap (2026–2076)
 
-| Metric                            | 2027–2029 (Bootstrap) | 2030–2035 (Regional) | 2046–2050 (Maturity) | Notes                              |
-|-----------------------------------|------------------------|-----------------------|-----------------------|------------------------------------|
-| CAPEX ($B)                        | 1.5–4.0               | 8–18                 | 5–10 (maintenance)   | Tents minimize early sunk costs    |
-| Annual Revenue ($B)               | 0.8–3.0               | 10–40                | 400–1,200            | Tiles, electronics, credits, kits  |
-| Net Cash Flow ($B)                | +0.2 to +1.0          | +4 to +20            | +300 to +900         | Self-sustaining flywheel           |
-| Break-even                        | 2028–mid-2030         | —                    | —                    | Accelerated by early high-margin   |
-| IRR                               | —                     | —                    | 32–42%               | Base; 45%+ with credits/kits       |
-| NPV (7% discount, 2050 horizon)   | —                     | —                    | $80–180B+            | Long-term conservative estimate    |
+| Decade              | Milestones & Tech Integration (NASA/ISS-Derived Marked *)                          | Financial Projections ($B Cumulative) |
+|---------------------|------------------------------------------------------------------------------------|---------------------------------------|
+| 2026–2030           | Bootstrap 4–14 hubs; self-funding 2029; *ECLSS water closure pilots.               | CAPEX: 1–3; Rev: 3–10; Net: +1–5     |
+| 2031–2040           | 20–600 hubs; dense ag towers; *Veggie hydroponics scaled.                          | CAPEX: 10–28; Rev: 18–120; Net: +25–180 |
+| 2041–2050           | 700+ hubs; global partners; *ISRU for plasma; space-Earth feedback loops begin.    | CAPEX: 25–73; Rev: 100–500; Net: +280–620 |
+| 2051–2060           | U.S. internalization; lunar transfers; *BioHome microbial filters optimized.       | CAPEX: 35–100; Rev: 300–1,200; Net: +700–1,500 |
+| 2061–2070           | Planetary restoration; Mars support; full *ECLSS closure loops.                    | CAPEX: 45–130; Rev: 500–2,000+; Net: +1,100–3,000 |
+| 2071–2076           | Legacy sustainability; continuous space-Earth refinements.                         | Maintenance; Rev: 1,000–3,000+ annually |
 
-## LLCs in the Innovation Hub (19 Total)
+**Feedback Loops**: NASA/ISS experiments (e.g., *Veggie) optimize Earth hubs via data moat → scaled efficiencies transfer to lunar/Mars kits → off-world data refines Earth resilience.
 
-### 1. LLCs with NASA/ISS Roots (Regenerative Economy Focus)
+## Financial Overview (2026–2076 Projections)
 
-1. Food & Agro LLC — Direct heritage: Veggie, Advanced Plant Habitat, ECLSS nutrient/water loops  
-2. Biorefinery LLC — Pyrolysis, plasma waste processing (ISS heritage)  
-3. Housing & Infrastructure LLC — Ceramic composites inspired by regolith sims & radiation shielding  
-4. Restoration & DAC LLC — Blue-green carbon + DAC (NASA carbon cycle research)  
-5. Direct Air Capture & Mineralization LLC — Mineralization & sequestration tech lineage  
+- **Bootstrap (2026–2030)**: CAPEX $1–3B; Revenues $3–10B (greens/tiles); Net +$1–5B; Break-even 2029.  
+- **Scale-Up (2031–2050)**: CAPEX $25–73B (phased, 15–25% grant offset); Revenues $100–500B/year mature; Net +$280–620B.  
+- **Maturity (2051–2076)**: Maintenance-dominant CAPEX; Revenues $300–3,000B+/year; NPV (7% discount) $150–300B+.  
+- **IRR**: 35–45%; Self-Funding: From 2029 via high margins (60–80%); no external investors.  
+- **Viability Boosts**: Blockchain credits (+15–25% revenues); waste recycling reduces costs 20–30%; LLC parallelism isolates risks.
 
-### 2. All Other LLCs
+## Resilience Highlights
 
-1. Consumer Electronics & Appliances  
-2. Industrial Gases  
-3. Mini-Fab (sensors/electronics)  
-4. Recycling & Circular Economy  
-5. Robotics & Automation  
-6. Textiles & Vegan Materials  
-7. Furniture & Building Products  
-8. Carbon & Biodiversity Credits  
-9. Education & Telepresence  
-10. Medical Supplies  
-11. Forestry & Timber  
-12. Transportation Infrastructure  
-13. Port & Maritime  
-14. Cultured Meat  
+- **Natural Disasters**: 8.5/10 overall (e.g., 9/10 earthquakes via vaulted ceramics; 6/10 asteroids via distribution).  
+- **Man-Made**: 8.5/10 (e.g., 9/10 cyber via edge AI/zero-trust).  
+- **Extremes**: Nuclear war 7.5/10; pandemics 9.5/10 (airlocks/screening).  
+- Standards: All smart city/security (ISO/TC 268, IEEE 2030) integrated.
 
-## Getting Involved
+## Top Risks & Quick Wins
 
-- Follow development on GitHub and X (@GenesisNetwork or related handles)  
-- For partnerships: Focus on distressed farmland owners, smallholder co-ops, or technical contributors  
-- All documentation licensed CC BY 4.0 — fork, adapt, build
+- **Risks**: Execution burnout (mitigate via LLCs); regulatory backlash (farmer co-ops).  
+- **Quick Wins**: Tent bootstraps for cash; microbial kits for yields; grants for brownfields.
 
-This project is an open experiment in regenerative civilization-scale design — ambitious, high-risk, high-reward. Contributions, critique, and honest feedback are welcome.
+## Getting Started
+
+Clone the repo, explore kits/tiles docs, contribute to open-source elements (e.g., sensor handbook). Contact via X @EarthStarTech.
 
 **License**  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2026 EarthStar Technologies conceptual working group  
-(Attribution appreciated — public domain spirit)
