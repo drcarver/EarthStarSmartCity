@@ -5,7 +5,7 @@ description: Detailed site map and index for the Genesis Network project website
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Website Index  
+# Genesis Network
 **Comprehensive Site Map with Integrated Financial Summaries**  
 *Status: January 15, 2026 – Limited Regenerative Architecture Baseline*
 
