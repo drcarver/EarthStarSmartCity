@@ -16,7 +16,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 - **[Financial Snapshot](web/financial.md)**: Self-funding by 2029; IRR 32–42%; NPV $80–140B (7% discount, 2026–2076).
 
 ## About the Project
-- **Core Principles**: Limited Regenerative Architecture, phased reintroductions, data moat flywheel, farmer empowerment.
+- **[Core PrinciplesC](web/core.md)**: Limited Regenerative Architecture, phased reintroductions, data moat flywheel, farmer empowerment.
 - **Technologies**: NASA/ISS-inspired (ECLSS, Veggie); smart tiles/kits; plasma vitrification.
 - **Environmental Impact**: Rewilding, blue-green carbon kits, water recharge; carbon balance (-0.9–1.7 MtCO₂e/hub/year).
 - **Social Impact**: TerraWell FreeCare (free healthcare/food); 10,000–50,000 smallholder partners by 2040s.
