@@ -19,7 +19,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 - **[Core Principles](web/core.md)**: Limited Regenerative Architecture, phased reintroductions, data moat flywheel, farmer empowerment.
 - **[Technologies](web/technologies.md)**: NASA/ISS-inspired ([ECLSS](web/ECLSS.md), [Veggie](web/veggie.md)); [smart tiles/kits](web/tileandkit.md); [plasma vitrification](web/plasma.md).
 - **[Environmental Impact](web/environmental.md)**: Rewilding, blue-green carbon kits, water recharge; carbon balance (-0.9–1.7 MtCO₂e/hub/year).
-- **[Social Impact](web/social,md)**: TerraWell FreeCare (free healthcare/food); 10,000–50,000 smallholder partners by 2040s.
+- **[Social Impact](web/social.md)**: TerraWell FreeCare (free healthcare/food); 10,000–50,000 smallholder partners by 2040s.
 
 ## Roadmap & Timeline
 - **50-Year Plan (2026–2076)**: Bootstrap (2026–2030), Regional Scale (2031–2040), Acceleration (2041–2050), Maturity (2051–2076).
