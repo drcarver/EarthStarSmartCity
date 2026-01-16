@@ -11,8 +11,8 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Home / Overview
 - **[Project Vision](web/vision.md)**: Executive summary of the regenerative ecosystem, mission for post-scarcity, carbon negativity, and rural empowerment.
-- **Key Features**: Closed-loop hubs, modular ceramics, hydroponics/aquaponics, biogas, microbial biosolutions, smallholder partnerships.
-- **Quick Facts**: 700+ hubs by 2040s; rewilding 200–400M acres; gigaton sequestration.
+- **[Key Features](web/features.md)**: Closed-loop hubs, modular ceramics, hydroponics/aquaponics, biogas, microbial biosolutions, smallholder partnerships.
+- **[Quick Facts](web/facts.md)**: 700+ hubs by 2040s; rewilding 200–400M acres; gigaton sequestration.
 - **Financial Snapshot**: Self-funding by 2029; IRR 32–42%; NPV $80–140B (7% discount, 2026–2076).
 
 ## About the Project
