@@ -11,7 +11,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Introduction
 
-The Genesis Network is an ambitious, self-replicating regenerative ecosystem developed by Earth-Star Industries. It transforms distressed farmlands, brownfields, and landfills into productive hubs providing food, energy, water, materials, and community services with 95–99% resource closure. Under the Limited Regenerative Architecture, the project prioritizes proven, high-margin modules (e.g., ceramic tiles, hydroponics, biogas) for rapid self-funding by 2028–2029, with phased reintroduction of complex elements via strict triggers.
+The Genesis Network is an ambitious, self-replicating regenerative ecosystem. It transforms distressed farmlands, brownfields, and landfills into productive hubs providing food, energy, water, materials, and community services with 95–99% resource closure. Under the Limited Regenerative Architecture, the project prioritizes proven, high-margin modules (e.g., ceramic tiles, hydroponics, biogas) for rapid self-funding by 2028–2029, with phased reintroduction of complex elements via strict triggers.
 
 This README provides a comprehensive overview for the project website, including features, roadmap, financials, resilience, and more. The network emphasizes farmer empowerment, environmental restoration, and innovation through modular kits and a data moat flywheel.
 
