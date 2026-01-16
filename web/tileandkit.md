@@ -32,7 +32,7 @@ All tiles manufactured via LCM (Lithography-based Ceramic Manufacturing) at the 
 
 ## 2. Flat-Pack Kits
 
-Kits assembled from tiles/ceramics at factory; flat-pack for shipping (ISO 668 containers); reusable designs reduce bottlenecks (e.g., structural tiles in multiple kits). New kits for viability: Security/airlock, microbial (yield boosts), restoration (sequestration). Process: Robotic snap-assembly + LCM embeds.
+Kits assembled from tiles/ceramics at factory; flat-pack for shipping ([ISO 668 containers](containers.md)); reusable designs reduce bottlenecks (e.g., structural tiles in multiple kits). New kits for viability: Security/airlock, microbial (yield boosts), restoration (sequestration). Process: Robotic snap-assembly + LCM embeds.
 
 | Kit Type                       | Description & Smart Features                                               | Tiles/Inputs Used                          | Cost ($/kit) | Revenue ($/kit) | Viability Enhancements |
 |--------------------------------|----------------------------------------------------------------------------|--------------------------------------------|--------------|-----------------|------------------------|
