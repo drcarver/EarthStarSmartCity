@@ -10,7 +10,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 *Status: January 15, 2026 – Limited Regenerative Architecture Baseline*
 
 ## Home / Overview
-- **Project Vision**: Executive summary of the regenerative ecosystem, mission for post-scarcity, carbon negativity, and rural empowerment.
+- **[Project Vision](web/vision.md)**: Executive summary of the regenerative ecosystem, mission for post-scarcity, carbon negativity, and rural empowerment.
 - **Key Features**: Closed-loop hubs, modular ceramics, hydroponics/aquaponics, biogas, microbial biosolutions, smallholder partnerships.
 - **Quick Facts**: 700+ hubs by 2040s; rewilding 200–400M acres; gigaton sequestration.
 - **Financial Snapshot**: Self-funding by 2029; IRR 32–42%; NPV $80–140B (7% discount, 2026–2076).
