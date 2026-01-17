@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Genesis Network Prompt – Pod-Centric Architecture with Large & Specialty Livestock Pods
-description: Detailed prompt describing the full pod architecture, including specialized pods for large animals and specialty livestock with staggered delivery for continuous production.
+description: Detailed prompt describing the full pod architecture.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt – Pod-Centric Regenerative Architecture: Including Large & Specialty Livestock Pods
+# Prompt – Pod-Centric Regenerative Architecture
 
 ## Objective
 
