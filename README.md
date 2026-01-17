@@ -1,67 +1,93 @@
 ---
 layout: default
-title: Genesis Network Project README
-description: Detailed overview, features, roadmap, financials, and resilience analysis for the Genesis Network regenerative ecosystem.
+title: Genesis Network – GitHub Project README
+description: Official README for the Genesis Network open conceptual repository – regenerative closed-loop ecosystem by Earth-Star Industries
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Project README  
-**Welcome to the Genesis Network – A Regenerative Ecosystem for a Sustainable Future**  
-*Version 1.0 – January 15, 2026*
+# Genesis Network  
+**Regenerative Closed-Loop Ecosystem**  
+**Earth-Star Industries Conceptual Open Repository**  
+*Baseline Version – January 17, 2026*
 
-## Introduction
+## Overview
 
-The Genesis Network is an ambitious, self-replicating regenerative ecosystem. It transforms distressed farmlands, brownfields, and landfills into productive hubs providing food, energy, water, materials, and community services with 95–99% resource closure. Under the Limited Regenerative Architecture, the project prioritizes proven, high-margin modules (e.g., ceramic tiles, hydroponics, biogas) for rapid self-funding by 2028–2029, with phased reintroduction of complex elements via strict triggers.
+The **Genesis Network** is an audacious, modular, self-replicating regenerative ecosystem designed to transform distressed farmland, brownfields, and closed landfills into carbon-negative, near-100% resource-closed hubs that produce food, energy, water, materials, electronics, pharmaceuticals, and community services.
 
-This README provides a comprehensive overview for the project website, including features, roadmap, financials, resilience, and more. The network emphasizes farmer empowerment, environmental restoration, and innovation through modular kits and a data moat flywheel.
+Core architecture:
+- Pod-centric (40 ft high-cube ISO containers)
+- Self-replicating flat-pack kits
+- Toughened ceramic modular construction (70–95% waste-derived)
+- Dense sensor networks + data moat flywheel
+- Cooperative affiliate network of small family farmers/co-ops
+- TerraWell FreeCare nonprofit humanitarian layer
 
-## Key Features
+Mission: Bootstrap a post-scarcity, regenerative civilization capable of feeding/housing ~70–85% of the U.S. population by 2050–2060 while exporting kits globally and achieving gigaton-scale sequestration.
 
-- **Modular Ceramic Tiles & Kits**: Waste-derived (70–95% from C&D/road waste); snap-together for buildings, roads, greenhouses; embedded sensors for smart functionality.
-- **Closed-Loop Agriculture**: Hydroponics/aquaponics for greens/staples; microbial inoculants for 10–30% yield boosts; dense urban integration (+30–50% productivity via rooftops/balconies).
-- **Energy & Water Systems**: Biogas turbines for net-positive power; AWG/digestate recovery for water closure; excess recharged to aquifers.
-- **Environmental Restoration**: Brownfield/landfill remediation; blue-green carbon kits (seagrass, mangroves, etc.); rewilding 200–400M acres.
-- **Innovation Hub**: 9 LLCs for parallel execution (risk isolation, burnout reduction); e.g., Biorefinery LLC, Food & Agro LLC.
-- **TerraWell FreeCare**: Independent nonprofit for free healthcare/food/DME via inventory donations.
-- **Resilience**: Smart airlocks for security/pandemic screening; Faraday mesh for EMP; high ratings against disasters (e.g., 9/10 earthquakes, 8/10 nuclear winter).
-- **Smallholder Partnerships**: 10,000–50,000 global partners with loans/kits; empowers rural communities.
+This GitHub repository serves as the public conceptual home for documentation, roadmaps, specifications, financial models, resilience analyses, and NASA/ISS technology transfer mappings.  
+**All content is licensed under CC BY 4.0** — free to share, adapt, and build upon with attribution.
 
-## 50-Year Roadmap (2026–2076)
+## Key Features & Design Principles
 
-| Decade              | Milestones & Tech Integration (NASA/ISS-Derived Marked *)                          | Financial Projections ($B Cumulative) |
-|---------------------|------------------------------------------------------------------------------------|---------------------------------------|
-| 2026–2030           | Bootstrap 4–14 hubs; self-funding 2029; *ECLSS water closure pilots.               | CAPEX: 1–3; Rev: 3–10; Net: +1–5     |
-| 2031–2040           | 20–600 hubs; dense ag towers; *Veggie hydroponics scaled.                          | CAPEX: 10–28; Rev: 18–120; Net: +25–180 |
-| 2041–2050           | 700+ hubs; global partners; *ISRU for plasma; space-Earth feedback loops begin.    | CAPEX: 25–73; Rev: 100–500; Net: +280–620 |
-| 2051–2060           | U.S. internalization; lunar transfers; *BioHome microbial filters optimized.       | CAPEX: 35–100; Rev: 300–1,200; Net: +700–1,500 |
-| 2061–2070           | Planetary restoration; Mars support; full *ECLSS closure loops.                    | CAPEX: 45–130; Rev: 500–2,000+; Net: +1,100–3,000 |
-| 2071–2076           | Legacy sustainability; continuous space-Earth refinements.                         | Maintenance; Rev: 1,000–3,000+ annually |
+- **95–99% resource closure** at mature hubs (water, nutrients, most materials)
+- **Net-positive energy** (agrivoltaics + biogas + waste heat recovery)
+- **Carbon-negative** (biochar, blue-green carbon, DAC, enhanced weathering)
+- **Pod-first + kit replication** — lowest-risk scaling mechanism
+- **Farmer/smallholder empowerment** — political & social cornerstone
+- **19-LLC Innovation Hub structure** — failure isolation & parallel execution
+- **Dense agriculture integration** — vertical/rooftop/balcony systems (+30–50% capacity)
+- **Mining-minimized circular economy** — ceramics-dominant, plasma vitrification
 
-**Feedback Loops**: NASA/ISS experiments (e.g., *Veggie) optimize Earth hubs via data moat → scaled efficiencies transfer to lunar/Mars kits → off-world data refines Earth resilience.
+## Project Status & Realism Disclaimer
 
-## Financial Overview (2026–2076 Projections)
+This is a **conceptual, speculative, long-term vision** — not a funded startup or operational project (as of January 17, 2026).  
+**Aggressive but honest success probability** for transformative national-scale impact: **~25–35%** (best case).  
+Bootstrap cash-flow within 24–48 months is existential. Regulatory, execution, and political risks are severe.
 
-- **Bootstrap (2026–2030)**: CAPEX $1–3B; Revenues $3–10B (greens/tiles); Net +$1–5B; Break-even 2029.  
-- **Scale-Up (2031–2050)**: CAPEX $25–73B (phased, 15–25% grant offset); Revenues $100–500B/year mature; Net +$280–620B.  
-- **Maturity (2051–2076)**: Maintenance-dominant CAPEX; Revenues $300–3,000B+/year; NPV (7% discount) $150–300B+.  
-- **IRR**: 35–45%; Self-Funding: From 2029 via high margins (60–80%); no external investors.  
-- **Viability Boosts**: Blockchain credits (+15–25% revenues); waste recycling reduces costs 20–30%; LLC parallelism isolates risks.
+## Quick Links (Within This Repository)
 
-## Resilience Highlights
+- [50-Year Roadmap with NASA/ISS Tech Transfer](50-year-roadmap-nasa.md)
+- [Top 10 Risks, Mitigations & Quick Wins](risks-quick-wins.md)
+- [Resilience Analysis – Disasters & Existential Threats](resilience-analysis.md)
+- [Complete Inventory – Tiles, Pods, Kits & Manufacturing](inventory-tiles-pods-kits.md)
+- [City Layout, Balances & Financial Projections](city-layout-financials.md)
+- [Innovation Hub LLC Structure & Sensor Handbook](innovation-hub-llcs-sensors.md)
 
-- **Natural Disasters**: 8.5/10 overall (e.g., 9/10 earthquakes via vaulted ceramics; 6/10 asteroids via distribution).  
-- **Man-Made**: 8.5/10 (e.g., 9/10 cyber via edge AI/zero-trust).  
-- **Extremes**: Nuclear war 7.5/10; pandemics 9.5/10 (airlocks/screening).  
-- Standards: All smart city/security (ISO/TC 268, IEEE 2030) integrated.
+## Financial Snapshot (Network-Wide, Conservative Estimates)
 
-## Top Risks & Quick Wins
+- **Bootstrap CAPEX (2026–2029)**: $3–12B  
+- **Total CAPEX 2026–2076**: $120–350B (phased; 20–35% credits/grants offset)  
+- **Break-even**: 2029–2030  
+- **NPV** (7% discount, 60-year horizon): $1,200–4,500B+  
+- **IRR**: 28–42% (mature phase)  
+- **Revenue Trajectory** ($B/year):  
+  • 2030s: 5–40  
+  • 2040s: 80–400  
+  • 2050s: 600–1,500  
+  • 2060s: 1,500–3,000+  
+  • 2070s: 3,000–10,000+ (lunar/Mars exports dominant)
 
-- **Risks**: Execution burnout (mitigate via LLCs); regulatory backlash (farmer co-ops).  
-- **Quick Wins**: Tent bootstraps for cash; microbial kits for yields; grants for brownfields.
+## Contributing & Usage
 
-## Getting Started
+This repository is **open for discussion, adaptation, and derivative works** under CC BY 4.0.  
+We welcome:
+- Technical critiques
+- Alternative financial models
+- Resilience scenario expansions
+- NASA/ESA technology transfer suggestions
 
-Clone the repo, explore kits/tiles docs, contribute to open-source elements (e.g., sensor handbook). Contact via X @EarthStarTech.
+**No formal contributions accepted at this time** — this is a conceptual living document. Fork freely.
 
-**License**  
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+## License
+
+All content in this repository is licensed under the  
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to share, adapt, remix, and build upon the material for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+© 2026 Earth-Star Industries conceptual framework  
+(Attribution to Darrel Carver / @DarrelCarver appreciated)
+
+---
+*Last updated: January 17, 2026*
