@@ -1,60 +1,53 @@
 ---
 layout: default
-title: Genesis Network Website Index
-description: Detailed site map and index for the Genesis Network project website, including key sections, subsections, and integrated financial summaries.
+title: Genesis Network – Comprehensive Index & Master Summary
+description: Detailed index of all major Genesis Network documents, components, financials, roadmaps, and key analyses (2026–2076 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network
-**Comprehensive Site Map with Integrated Financial Summaries**  
-*Status: January 15, 2026 – Limited Regenerative Architecture Baseline*
+# Genesis Network  
+**Comprehensive Index & Master Summary**  
+**Earth-Star Industries – Full Project Overview**  
+*Conceptual Baseline – January 17, 2026*
 
-## Home / Overview
-- **[Project Vision](web/vision.md)**: Executive summary of the regenerative ecosystem, mission for post-scarcity, carbon negativity, and rural empowerment.
-- **[Key Features](web/features.md)**: Closed-loop hubs, modular ceramics, hydroponics/aquaponics, biogas, microbial biosolutions, smallholder partnerships.
-- **[Quick Facts](web/facts.md)**: 700+ hubs by 2040s; rewilding 200–400M acres; gigaton sequestration.
-- **[Financial Snapshot](web/financial.md)**: Self-funding by 2029; IRR 32–42%; NPV $80–140B (7% discount, 2026–2076).
+## Master Index of Genesis Network Documentation
 
-## About the Project
-- **[Core Principles](web/core.md)**: Limited Regenerative Architecture, phased reintroductions, data moat flywheel, farmer empowerment.
-- **[Technologies](web/technologies.md)**: NASA/ISS-inspired ([ECLSS](web/ECLSS.md), [Veggie](web/veggie.md)); [smart tiles/kits](web/tileandkit.md); [plasma vitrification](web/plasma.md).
-- **[Environmental Impact](web/environmental.md)**: Rewilding, blue-green carbon kits, water recharge; carbon balance (-0.9–1.7 MtCO₂e/hub/year).
-- **[Social Impact](web/social.md)**: TerraWell FreeCare (free healthcare/food); 10,000–50,000 smallholder partners by 2040s.
+| Section / Document Title                                      | Description / Key Content                                                                 | Primary Focus Areas                                      | Includes Financials? | Year / Phase Covered     |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------|---------------------------|
+| Project Overview & Phased Implementation                      | Core system description, bootstrap strategy, 95–99% closure, affiliate model               | Tiles, pods, kits, scaling                               | Yes                   | 2026–2035                 |
+| Pod-Centric Regenerative Architecture                         | Full pod variants (aquaponics, livestock, production, housing)                            | Large/specialty livestock, staggered cycles              | Partial               | 2027–2035+                |
+| Enhanced Aquaponics Pods                                      | Multi-trophic layers (fish, prawns, mussels, BSFL, plants), saltwater pilots              | Protein + greens production                              | Yes                   | 2027–2040                 |
+| TerraWell FreeCare System                                     | Standalone 501(c)(3) nonprofit, free healthcare/food/DME                                  | Humanitarian layer, reputational shield                  | Yes (tax benefits)    | 2027–2050                 |
+| Pod-Based Mini-Fab to Advanced Fab                            | Semiconductor roadmap (65–130 nm → 7–3 nm), niche focus                                    | Sovereign chips, data moat                               | Yes                   | 2029–2037                 |
+| Infrastructure Recycling & Replacement Strategy               | RCA concrete + ceramic cladding, dam removal, river restoration                           | Circular economy, roads/ports                            | Yes                   | 2027–2050                 |
+| Top 10 Risks, Mitigations & Quick Wins                        | Brutal honest risk ranking, cash-flow primacy, political shield                          | Execution survival                                       | No                    | 2027–2035 (critical)      |
+| Resilience Analysis – Disasters & Existential Threats         | Earthquake to nuclear winter, asteroid, pandemic survivability                            | Ceramics, closure, airlocks                              | No                    | All phases                |
+| 50-Year Roadmap with NASA/ISS Tech Transfer                   | Explicit ISS → Earth → Lunar/Mars feedback loops                                          | ECLSS, BLSS, Veggie, MELiSSA lineage                     | Yes                   | 2026–2076                 |
+| Master Plan & Economic Incorporation                          | Full U.S. internalization, smallholder partnerships, global kits                         | Cities, towers, farmer co-ops                            | Yes                   | 2030–2070                 |
+| Tiles • Pods • Kits • Manufacturing • Economics               | Complete catalog, inputs, costs, revenues, smart airlocks                                 | Supply chain, production details                         | Yes                   | 2027–2050+                |
+| Aggressive Feasibility Reality Check                          | 18–32% success odds, cash-flow kill zone, multi-LLC hedge                                 | Honest probability assessment                            | No                    | All phases                |
 
-## Roadmap & Timeline
-- **50-Year Plan (2026–2076)**: Bootstrap (2026–2030), Regional Scale (2031–2040), Acceleration (2041–2050), Maturity (2051–2076).
-- **Phased Milestones**: Self-funding 2028–2029; 140 hubs by 2032; nationwide coverage by 2060s.
-- **Financial Projections**: Cumulative CAPEX $45–130B; revenues $500–2,000B+ by 2070s; break-even 2029.
+## Consolidated Financial Summary (Network-Wide, $B, Conservative Estimates)
 
-## Components & Technologies
-- **Tiles & Kits**: List of all modular tiles (structural, insulating, smart variants) and kits (e.g., Microbial Inoculant, Agroforestry Expansion, Security & Airlock).
-  - Manufacturing: LCM at tile factory; inputs 70–95% waste; costs $1.80–7.50/m²; revenues $3–12/m².
-- **[Innovation Hub LLCs](web/Innovation.md)**: 9 LLCs (e.g., Housing & Infrastructure, Biorefinery, Food & Agro).
-- **Sensor Handbook**: Types (electrochemical, radar), standards (IEEE 1451, ISO 14001), viability impacts.
-- **Resilience Features**: Smart airlocks for security/pandemics; Faraday mesh for EMP; closed-loops for nuclear winter.
+| Period / Phase               | CAPEX Spend | Annual Revenue Range | Cumulative Cash Flow | NPV Contribution (7% discount) | Break-Even / Key Milestone          |
+|------------------------------|-------------|----------------------|-----------------------|---------------------------------|-------------------------------------|
+| Bootstrap (2026–2029)        | 3–12        | 0.1–5                | –2 to +8              | —                               | Positive cash Year 1–2              |
+| Regional Scale (2030–2035)   | 15–40       | 5–40                 | +50–250               | $80–300B                        | Self-funding achieved               |
+| National Acceleration (2036–2045) | 20–50  | 80–400               | +300–1,500            | $400–1,200B                     | 70–85% U.S. goods/services          |
+| Maturity & Lunar Enablement (2046–2055) | 10–30 | 600–1,500            | +1,000–3,000+         | $500–1,500B                     | Lunar cities operational            |
+| Mars Settlement Era (2056–2076) | 20–60   | 1,500–10,000+        | +5,000–30,000+        | $1,200–4,500B+ (total 60-yr)    | Self-sustaining Mars settlements    |
+| **Grand Total (2026–2076)**  | **120–350** | **Peak 3,000–10,000+**| **+6,000–35,000+**    | **$1,200–4,500B+**              | IRR 28–42%                          |
 
-## Financials
-- **Cost Breakdown (Cumulative 2027–2050, $B)**: Land/Remediation 2.5–7.5; Facilities 8–22; Biogas/Plasma 4–12; Kits 3–9; Infra 5–15; TerraWell 0.9–1.9; Loans 2–6; Total 25–73.
-- **Cash-Flow Table (Selected Years, $B)**:
-  | Year | CAPEX | Revenues | OPEX | Net | Cumulative |
-  |------|-------|----------|------|-----|------------|
-  | 2027 | 0.35  | 0.25     | 0.13 | -0.23 | -0.23    |
-  | 2028 | 1.1   | 0.9      | 0.45 | -0.65 | -0.88    |
-  | 2029 | 2.5   | 2.5      | 1.0  | -1.0  | -1.88    |
-  | 2032 | 8.5   | 14       | 3.5  | +2.0  | +2.5     |
-  | 2040 | 32    | 120      | 30   | +58   | +280     |
-  | 2050 | 45    | 220      | 55   | +120  | +1,100   |
-- **Metrics**: NPV $80–140B; IRR 32–42%; grants offset 15–25% (USDA REAP, EPA Brownfields).
-- **Electronics/Appliances (Conditional)**: CAPEX $5–15B (post-2031); revenues $10–40B/year mature.
+## Strategic One-Liner
 
-## Resilience & Feasibility
-- **Disaster Analysis**: Ratings (e.g., Earthquakes 9/10, Nuclear Winter 8/10); mitigations (modularity, decentralization).
-- **Feasibility Assessment**: Technical 8.5/10; Economic 8.5/10; Environmental 9.5/10; Political 8/10; Overall 8.5/10 (70–80% success).
-- **Risks & Wins**: Top risks (burnout, volatility); quick wins (tent cash flow, farmer pilots).
+**"From NASA’s ISS lifeboat to Earth’s regenerative cities to Mars self-sustaining hubs — Genesis is the longest feedback loop in human history."**
 
-## Resources
-- **Downloads**: Roadmaps, financial models, kit specs.
-- **Contact**: Partnership inquiries, smallholder applications.
+---
 
 **License**  
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+This document and all Genesis Network concepts are shared under the  
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
+https://creativecommons.org/licenses/by/4.0/
+
+© 2026 Earth-Star Industries conceptual framework  
+(Attribution to Darrel Carver / @DarrelCarver appreciated)
