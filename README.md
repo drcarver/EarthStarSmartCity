@@ -46,12 +46,12 @@ Bootstrap cash-flow within 24–48 months is existential. Regulatory, execution,
 
 ## Quick Links (Within This Repository)
 
-- [50-Year Roadmap with NASA/ISS Tech Transfer](50-year-roadmap-nasa.md)
-- [Top 10 Risks, Mitigations & Quick Wins](risks-quick-wins.md)
-- [Resilience Analysis – Disasters & Existential Threats](resilience-analysis.md)
-- [Complete Inventory – Tiles, Pods, Kits & Manufacturing](inventory-tiles-pods-kits.md)
-- [City Layout, Balances & Financial Projections](city-layout-financials.md)
-- [Innovation Hub LLC Structure & Sensor Handbook](innovation-hub-llcs-sensors.md)
+- [50-Year Roadmap with NASA/ISS Tech Transfer](grok/50-Fiftyears.md)
+- [Top 10 Risks, Mitigations & Quick Wins](grok/12-Top10Risk.md)
+- [Resilience Analysis – Disasters & Existential Threats](grok/11-resilience.md)
+- [Complete Inventory – Tiles, Pods, Kits & Manufacturing](grok/10-tilesandkits.md)
+- [City Layout, Balances & Financial Projections](web/city-layout-financials.md)
+- [Innovation Hub LLC Structure & Sensor Handbook](web/innovation-hub-llcs-sensors.md)
 
 ## Financial Snapshot (Network-Wide, Conservative Estimates)
 
