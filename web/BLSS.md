@@ -13,7 +13,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Executive Summary
 
-The Genesis Network's **Bioregenerative Life Support System (BLSS)** is a fully closed-loop, multi-trophic ecosystem that achieves **95–99% resource closure** for water, nutrients, oxygen, and food — directly descended from NASA/ISS ECLSS and BLSS research (Veggie, MELiSSA collaboration, advanced water recovery).  
+The Genesis Network's **Bioregenerative Life Support System (BLSS)** is a fully closed-loop, [multi-trophic ecosystem](multi-trophic.md) that achieves **95–99% resource closure** for water, nutrients, oxygen, and food — directly descended from NASA/ISS ECLSS and BLSS research (Veggie, MELiSSA collaboration, advanced water recovery).  
 
 Designed first for terrestrial hubs (rapid iteration, low-cost scaling), the system is intentionally ruggedized and modularized for eventual lunar/Mars deployment.  
 
