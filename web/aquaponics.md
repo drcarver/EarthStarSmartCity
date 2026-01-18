@@ -1,117 +1,90 @@
 ---
 layout: default
-title: Genesis Network – Enhanced Multi-Trophic Aquaponics Pods
-description: Detailed specifications, multi-trophic design, manufacturing inputs, financials, and performance metrics for Enhanced Aquaponics Pods in the Genesis Network.
+title: Genesis Network – Aquaponics & Vertical Farming LLC
+description: Detailed operational, technical, and financial overview of the Aquaponics & Vertical Farming LLC within the Genesis Network Innovation Hub.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Genesis Network  
-**Enhanced Multi-Trophic Aquaponics Pods**  
-**Full Technical & Financial Specification**  
+**Aquaponics & Vertical Farming LLC**  
+**Detailed Operational & Financial Overview**  
 **Earth-Star Industries Conceptual Baseline**  
 *January 17, 2026*
 
-## Executive Overview
+## Executive Summary
 
-The **Enhanced Aquaponics Pod** is the flagship protein + greens production unit of the Genesis Network. Built on a **modified 40 ft high-cube ISO container**, it integrates five trophic layers (fish → crustaceans → mollusks → insects → plants) to achieve **95–99% resource and nutrient closure**, continuous staggered harvests, premium edible outputs, and high revenue density.
+The **Aquaponics & Vertical Farming LLC** is the core food production engine of the Genesis Network, responsible for scalable, high-yield, multi-trophic protein and greens output with **95–99% resource closure**.  
+It operates primarily through **pod-based systems** (40 ft high-cube ISO containers) and integrates vertical racking, rooftop/balcony systems in residential zones, and dense urban agriculture to achieve **+30–50% effective productive capacity** without additional land footprint.
 
-**Key Design Principles**  
-- Multi-trophic synergy for near-zero discharge  
-- Staggered production cycles for year-round output  
-- Hyper-dense sensor array + edge AI for ruthless optimization  
-- Mobility, biosecurity, and lights-out automation  
-- 70–95% waste-derived inputs at maturity
+**Key differentiators**  
+- Multi-trophic layering (fish → crustaceans → mollusks → insects → plants)  
+- Staggered continuous harvest cycles  
+- Hyper-dense sensor arrays + short-cycle iteration (weekly BSFL/microalgae)  
+- NASA/ISS-derived ECLSS/BLSS principles massively optimized on Earth  
+- Premium market focus (restaurant partnerships, direct-to-chef sales)
 
-**Primary Revenue Drivers**  
-- High-value greens/herbs/microgreens  
-- Premium fish (tilapia, catfish, barramundi)  
-- Crustacean tails (prawns, crayfish)  
-- Insect protein (BSFL) for feed & human consumption  
-- Carbon/biodiversity credits from closed-loop efficiency
+**Financial Snapshot** (per mature hub, 2040s baseline)
 
-## Pod Base Specifications
+- **CAPEX** (initial pod cluster + vertical integration): $45–120M  
+- **Annual OPEX** (mature): $15–45M  
+- **Annual Revenue**: $400–1,200M (greens/herbs 40%, fish/protein 45%, insects/byproducts 15%)  
+- **Gross Margin**: 65–82%  
+- **Break-even**: 18–36 months per hub  
+- **IRR** (hub-level): 32–48%
 
-- **Structural base**: 40 ft high-cube ISO container (~67 m³ internal; ~250–350 m² effective production surface with vertical racking)  
-- **Shell evolution**: Recycled steel (bootstrap) → 95–100% toughened ceramic (waste-derived slag/RHA, munitions-rated 8–9/10)  
-- **Roofing**: Semi-transparent BIPV ceramic glazing (10–30% transmittance, 5–15 kW generation)  
-- **Power**: 5–20 kW (BIPV + biogas microturbine); 10–50 kWh sodium-ion batteries  
-- **Water makeup**: 100–400 L/day (AWG + rainwater + digestate recovery); 95–99% recirculation  
-- **Biosecurity**: Dual smart airlocks (mmWave + hyperspectral scanning)  
-- **Automation**: 80–95% lights-out (robotic feeding/harvesting/waste transfer)  
-- **Sensors**: 3–5× redundancy (pH, ammonia, DO, ORP, temp, VOC, multispectral, flow)  
-- **Mobility**: Autonomous wheeled/tracked platform; amphibious variants available
+## Core Technical Specifications
 
-## Multi-Trophic Layers – Species & Roles
+### Pod-Based Systems
 
-1. **Primary Fish Layer** (Protein anchor)  
-   - Freshwater (80–90% pods): Nile/Blue Tilapia hybrids, Channel Catfish, Rainbow Trout (cold zones)  
-   - Saltwater pilots (10–20%, coastal): Barramundi, Red Drum  
-   - Density: 20–60 kg/m³; staggered cohorts for monthly harvests
+| Pod Variant                     | Species Combination                              | Density & Cycle                          | Annual Output (per pod)                  | Est. Build Cost (mature) | Annual Revenue (per pod) |
+|---------------------------------|--------------------------------------------------|------------------------------------------|------------------------------------------|---------------------------|---------------------------|
+| Standard Freshwater             | Tilapia + Prawns + BSFL + Greens                 | 20–60 kg/m³ fish; 8–12 crop cycles/year  | 600–1,500 kg fish; 3–8 t greens          | $180K–320K                | $80K–220K                 |
+| Premium Protein                 | Catfish/Trout + Crayfish + Mussels + Herbs       | 30–70 kg/m³ fish; staggered cohorts      | 800–2,000 kg fish; 4–10 t greens/herbs   | $210K–380K                | $120K–300K                |
+| Saltwater Coastal Pilot         | Barramundi + Kelp/Salicornia + BSFL              | 25–55 kg/m³ fish; halophyte focus        | 700–1,800 kg fish; 2–6 t halophytes      | $280K–480K                | $200K–380K                |
+| Waste Conversion Focus          | BSFL/Mealworms dominant                          | Weekly harvest                           | 200–600 kg insect protein                | $140K–260K                | $100K–250K                |
 
-2. **Crustacean Layer** (Detritus cleaners + premium tails)  
-   - Freshwater Prawns (Macrobrachium rosenbergii), Red Claw Crayfish  
-   - Density: 5–15 juveniles/m² (with hides)  
-   - Role: Consume sludge/algae → reduce solids
+### Vertical & Dense Urban Integration
 
-3. **Mollusk Layer** (Filtration & nutrient polishing)  
-   - Native freshwater mussels/clams or controlled Corbicula  
-   - High density in biofilter zones  
-   - Role: Filter particulates → improve water clarity
+- **Rooftop & Balcony Systems**: Modular ceramic trays + drip irrigation; +30–50% hub productivity  
+- **Vertical Towers**: 6–12 m stacked pods; LED + CO₂ enrichment from biogas  
+- **Residential Zones**: Balcony aquaponic kits + green walls; resident-supported agriculture  
+- **Output Boost**: 25–40 t/ha additional greens/herbs (no extra land)
 
-4. **Insect Layer** (Waste-to-protein converter)  
-   - Primary: Black Soldier Fly Larvae (BSFL – Hermetia illucens)  
-   - Secondary: Mealworms, Crickets  
-   - Weekly harvest → 35–53% protein biomass for feed/human use
+### Sensor & Automation Density
 
-5. **Plant Layer** (Nutrient sink + high-value output)  
-   - Fast-cycle: Greens/herbs/microgreens (8–12 cycles/year)  
-   - Medium-cycle: Staples (rice/potatoes in flooded trays, 3–6 cycles/year)  
-   - Vertical racking + floating rafts; CO₂ from biogas
+- 3–5× redundancy: pH, DO, ammonia, nitrite/nitrate, temperature, ORP, VOC, multispectral  
+- Edge RISC-V compute → real-time anomaly detection & predictive harvest  
+- Lights-out robotics: Feeding, harvesting, waste transfer, water quality adjustment
 
-## Manufacturing Inputs & Process (Mature Phase)
+## Manufacturing & Input Sources
 
-- **Primary inputs** (by volume):  
-  1. Road C&D slag/concrete fines (60–80%)  
-  2. Rice husk ash (silica source)  
-  3. Farm residues (bagasse, straw, pomace)  
-  4. ELFM landfill slag  
-  5. Brownfield vitrified soil
+**All pods & vertical systems built from Genesis tile factory output**  
+- **Shells**: Toughened ceramic (70–95% waste-derived: C&D slag, RHA silica, farm residues)  
+- **Tanks & Trays**: Ceramic-lined or full ceramic (plasma vitrified)  
+- **Inputs**: Biogas CO₂, digestate nutrients, AWG/rainwater makeup  
+- **Energy**: BIPV glazing (10–30% transmittance) + biogas microturbines
 
-- **Process**: Mix → extrude/press → dry → fire (1,200–1,400°C) → plasma toughening  
-- **Energy**: Biogas + waste heat recovery  
-- **Automation**: Lights-out robotic handling  
-- **Output**: 150,000–500,000 m² tiles/month per factory → pods assembled on-site
+## Detailed Financial Projections (Per Mature Hub)
 
-## Financials – Per Pod & Cluster (Mature, 2035+ baseline)
-
-**Single Pod Financials** (annual, 2025–2030 $)
-
-| Variant                        | Build Cost | Annual OPEX | Annual Revenue | Gross Margin | Payback Period |
-|--------------------------------|------------|-------------|----------------|--------------|----------------|
-| Standard Aquaponics            | $180K–320K | $35K–65K    | $80K–220K      | 55–72%       | 2.5–4 years    |
-| Premium Protein                | $210K–380K | $40K–75K    | $120K–300K     | 60–75%       | 2–3.5 years    |
-| Saltwater Coastal Pilot        | $280K–480K | $55K–95K    | $200K–380K     | 65–78%       | 1.8–3 years    |
-| Waste Conversion (BSFL focus)  | $140K–260K | $25K–50K    | $100K–250K     | 60–75%       | 1.5–3 years    |
-
-**Multi-Pod Cluster** (5–10 linked pods, mature hub)
-
-- Total build cost: $1.2M–4.8M  
-- Annual revenue: $500K–1.5M+  
-- Annual OPEX: $200K–600K  
-- Net cash flow: $300K–900K+  
-- ROI: 25–45% (cluster level)
-
-**Network-wide contribution** (mature phase, 2040s):  
-Aquaponics pods → **$15–60B/year** (20–30% of total network revenue)
+| Metric                          | 2030s (Early) | 2040s (Mature) | Notes & Assumptions                                  |
+|---------------------------------|---------------|----------------|-------------------------------------------------------|
+| CAPEX (pods + vertical)         | $45–80M       | $80–120M       | Phased rollout; 20% offset via internal tile credits |
+| Annual OPEX                     | $25–50M       | $15–45M        | Automation reduces labor to <5%                       |
+| Annual Revenue – Greens/Herbs   | $120–350M     | $160–480M      | Premium direct-to-chef + restaurant partnerships     |
+| Annual Revenue – Fish/Protein   | $150–400M     | $200–600M      | Tilapia/catfish/barramundi + prawns/crayfish         |
+| Annual Revenue – Insects/Byproducts | $30–100M   | $50–150M       | BSFL protein + feed sales                            |
+| **Total Annual Revenue**        | **300–850M**  | **400–1,200M** | 65–82% gross margin                                  |
+| Break-even                      | 24–36 months  | 18–24 months   | Faster with urban density integration                |
+| IRR (hub-level)                 | 28–38%        | 32–48%         | Compounding from short-cycle optimization            |
 
 ## Strategic One-Liner
 
-**"One pod. Five trophic levels. Near-zero waste. Premium food from sunlight and sludge — scalable to Mars."**
+**"We didn't just copy NASA's space salad — we turned it into a planet-scale, self-replicating food engine."**
 
 ---
 
 **License**  
-This document and the Genesis Enhanced Aquaponics Pods specification are shared under the  
+This document and the Aquaponics & Vertical Farming LLC overview are shared under the  
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
 https://creativecommons.org/licenses/by/4.0/
 
