@@ -1,58 +1,53 @@
 ---
 layout: default
-title: Genesis-EarthStar Project – Detailed GitHub Website Index (January 2026)
-description: Comprehensive index and site map for the Genesis-EarthStar GitHub Pages site, including all project components, prompts, financial summaries, and navigation links.
+title: Genesis Network – Comprehensive Index & Master Summary
+description: Detailed index of all major Genesis Network documents, components, financials, roadmaps, and key analyses (2026–2076 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis-EarthStar Project Index  
-**GitHub Pages Site Map & Detailed Navigation**  
-*With Integrated Financial Summaries – January 18, 2026*
+# Genesis Network  
+**Comprehensive Index & Master Summary**  
+**Earth-Star Industries – Full Project Overview**  
+*Conceptual Baseline – January 17, 2026*
 
-## Site Overview
+## Master Index of Genesis Network Documentation
 
-This index serves as the central hub for the Genesis-EarthStar Regenerative System GitHub Pages repository. All pages are structured for Jekyll minimal theme compatibility, with raw Markdown files for easy copy-paste and deployment. The site documents the full project: overviews, phased plans, components (tiles/pods/kits), resilience, roadmaps, and financials.  
+| Section / Document Title                                      | Description / Key Content                                                                 | Primary Focus Areas                                      | Includes Financials? | Year / Phase Covered     |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------|---------------------------|
+| [Project Overview & Phased Implementation](web/overview.md)                      | Core system description, bootstrap strategy, 95–99% closure, affiliate model               | Tiles, pods, kits, scaling                               | Yes                   | 2026–2035                 |
+| [Pod-Centric Regenerative Architecture](web/pod.md)                         | Full pod variants (aquaponics, livestock, production, housing)                            | Large/specialty livestock, staggered cycles              | Partial               | 2027–2035+                |
+| [Enhanced Aquaponics Pods](web/aquaponics.md)                                      | Multi-trophic layers (fish, prawns, mussels, BSFL, plants), saltwater pilots              | Protein + greens production                              | Yes                   | 2027–2040                 |
+| [TerraWell FreeCare System](web/TerraWell.md)                                     | Standalone 501(c)(3) nonprofit, free healthcare/food/DME                                  | Humanitarian layer, reputational shield                  | Yes (tax benefits)    | 2027–2050                 |
+| [Pod-Based Mini-Fab to Advanced Fab](web/minifab.md)                            | Semiconductor roadmap (65–130 nm → 7–3 nm), niche focus                                    | Sovereign chips, data moat                               | Yes                   | 2029–2037                 |
+| [Infrastructure Recycling & Replacement Strategy](web/recycling.md)               | RCA concrete + ceramic cladding, dam removal, river restoration                           | Circular economy, roads/ports                            | Yes                   | 2027–2050                 |
+| [Top 10 Risks, Mitigations & Quick Wins](web/12-Top10Risk.md)                        | Brutal honest risk ranking, cash-flow primacy, political shield                          | Execution survival                                       | No                    | 2027–2035 (critical)      |
+| [Resilience Analysis – Disasters & Existential Threats](web/resilience.md)         | Earthquake to nuclear winter, asteroid, pandemic survivability                            | Ceramics, closure, airlocks                              | No                    | All phases                |
+| [50-Year Roadmap with NASA/ISS Tech Transfer](web/50Year.md)                   | Explicit ISS → Earth → Lunar/Mars feedback loops                                          | [ECLSS](web/ECLSS.md), [BLSS](web/BLSS.md), [Veggie](web/veggie.md), [MELiSSA](web/MELiSSA.md) lineage                     | Yes                   | 2026–2076                 |
+| Master Plan & Economic Incorporation                          | Full U.S. internalization, smallholder partnerships, global kits                         | Cities, towers, farmer co-ops                            | Yes                   | 2030–2070                 |
+| [Tiles • Pods • Kits • Manufacturing • Economics](web/tileandkit.md)               | Complete catalog, inputs, costs, revenues, smart airlocks                                 | Supply chain, production details                         | Yes                   | 2027–2050+                |
+| Aggressive Feasibility Reality Check                          | 18–32% success odds, cash-flow kill zone, multi-LLC hedge                                 | Honest probability assessment                            | No                    | All phases                |
 
-**Navigation Structure**: Pages are organized by category; links assume file structure (e.g., /overview.md). Financials integrated per section (recomputed: self-funded focus; IRR 30–45%; pilot $20–60M 2027; network $15–40B by 2050; revenues $1–5M Year 1 → $100–300B/year by 2070).
+## Consolidated Financial Summary (Network-Wide, $B, Conservative Estimates)
 
-## 1. Project Fundamentals
+| Period / Phase               | CAPEX Spend | Annual Revenue Range | Cumulative Cash Flow | NPV Contribution (7% discount) | Break-Even / Key Milestone          |
+|------------------------------|-------------|----------------------|-----------------------|---------------------------------|-------------------------------------|
+| Bootstrap (2026–2029)        | 3–12        | 0.1–5                | –2 to +8              | —                               | Positive cash Year 1–2              |
+| Regional Scale (2030–2035)   | 15–40       | 5–40                 | +50–250               | $80–300B                        | Self-funding achieved               |
+| National Acceleration (2036–2045) | 20–50  | 80–400               | +300–1,500            | $400–1,200B                     | 70–85% U.S. goods/services          |
+| Maturity & Lunar Enablement (2046–2055) | 10–30 | 600–1,500            | +1,000–3,000+         | $500–1,500B                     | Lunar cities operational            |
+| Mars Settlement Era (2056–2076) | 20–60   | 1,500–10,000+        | +5,000–30,000+        | $1,200–4,500B+ (total 60-yr)    | Self-sustaining Mars settlements    |
+| **Grand Total (2026–2076)**  | **120–350** | **Peak 3,000–10,000+**| **+6,000–35,000+**    | **$1,200–4,500B+**              | IRR 28–42%                          |
 
-- **[Overview & Safety Instructions](/overview-safety.md)**: Core guidelines, disallowed activities, key principles. Financials: N/A (foundational).  
-- **[Project Detailed Overview](/detailed-overview.md)**: Modular regenerative system, deployment strategy, performance (95–99% closure). Financials: Bootstrap CAPEX $3–5.5M; Revenue $1–10M early phases.  
-- **[Core Principles & Products](/principles-products.md)**: Phased bootstrapping, key outputs (tiles, greenhouses, kits). Financials: IRR 45–55%; self-funding by Year 3.
+## Strategic One-Liner
 
-## 2. Components Catalog
-
-- **[Tiles, Pods & Kits List](/components-catalog.md)**: Full inventory with manufacturing, inputs, costs ($1.5–4.5/ft² tiles; $40–250k pods/kits), revenues ($4.5–12.5/ft²; $60–1,200k/year). Includes new kits (airlock, compliance). Financials: Margins 60–80%; network revenue $50–150B/year by 2035.  
-- **[Sensor Handbook](/sensor-handbook.md)**: Detailed types, standards, evolution. Financials: Mini-fab revenue $500–1,200k/pod/year.  
-
-## 3. Phased Implementation & Roadmaps
-
-- **[Phased Implementation Plan](/phased-plan.md)**: Bootstrap (2026–2027) to exponential (2030–2035); detailed timelines, CAPEX ($0.3–30B), revenues ($0.1–150B/year).  
-- **[Pod-Centric Architecture](/pod-architecture.md)**: Full pod variants (livestock emphasis), staggered cycles. Financials: Pod revenue $80–1,200k/year; cluster $0.9–140M.  
-- **[50-Year Roadmap](/50-year-roadmap.md)**: NASA/ISS tech integration (*ECLSS/BLSS), feedback loops to lunar/Mars. Financials: Cumulative NPV $400–1,200B; space exports $200–500B by 2070.
-
-## 4. Resilience & Feasibility
-
-- **[Resilience Analysis](/resilience-analysis.md)**: Ratings for disasters (earthquakes 9/10; nuclear winter 7.5/10); mitigations (pods, airlocks). Financials: Resilience branding +10–20% premiums.  
-- **[Feasibility Analysis](/feasibility-analysis.md)**: Overall 7.8/10; rapid self-funding path. Financials: IRR 28–42%; NPV $250–750B by 2050.  
-- **[Risks, Mitigations & Quick Wins](/risks-quickwins.md)**: Top 10 risks; strategies; wins (e.g., greens revenue $1–5M Year 1). Financials: Exponential via cities/towers (growth 30–50% slower without funds but viable).
-
-## 5. Organizational & Humanitarian
-
-- **[Innovation Hub LLCs](/innovation-hub.md)**: List of 19 LLCs (core/deferred); risk spreading. Financials: Distributed revenues ($120–1,200M/LLC/year mature).  
-- **[TerraWell FreeCare System](/terrawell-spec.md)**: 501(c)(3) spec; services, assets (centers $1.8–5.6M/unit). Financials: Tax deductions $0.21–0.38/$1 FMV; humanitarian value $18–42B by 2050.
-
-## Financial Summary (Integrated Across Site)
-
-- **Bootstrap (2026–2030)**: CAPEX $0.02–5B; Revenue $0.001–20B/year; Net +$0.005–50B (greens/biogas drive).  
-- **Scale (2031–2050)**: CAPEX $15–40B; Revenue $50–150B/year; Self-funding; NPV $250–750B.  
-- **Long-Term (2051–2076)**: CAPEX $500–1,500B; Revenue $200–1,500B/year; Space tech adds $200–500B.  
-- **Enhancements**: Premiums +20–30%; credits $150–250/tCO₂e; margins 60–80%.
-
-This index enables easy navigation; deploy as _index.md in GitHub Pages.
+**"From NASA’s ISS lifeboat to Earth’s regenerative cities to Mars self-sustaining hubs — Genesis is the longest feedback loop in human history."**
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2026 EarthStar Technologies conceptual working group (attribution appreciated).
+**License**  
+This document and all Genesis Network concepts are shared under the  
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
+https://creativecommons.org/licenses/by/4.0/
+
+© 2026 Earth-Star Industries conceptual framework  
+(Attribution to Darrel Carver / @DarrelCarver appreciated)
