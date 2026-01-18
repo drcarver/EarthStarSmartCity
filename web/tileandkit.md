@@ -32,9 +32,9 @@ All tiles are manufactured from **70–95% waste-derived inputs** at maturity.
 | [Structural Load-Bearing](structuraltiles.md)                | Foundations, walls, floors           | 80–95% slag/RCA + RHA silica          | 4.80–8.20                    | 18–32                      | $45–120M                               |
 | [Insulating Thermal Mass](insulatingtile.md)                | Housing, greenhouses                 | 70% slag + pore-formers (bagasse)     | 5.50–9.10                    | 22–38                      | $35–95M                                |
 | [Semi-Transparent BIPV Glazing](transparenttile.md)          | Greenhouse roofs, residential        | RHA glass-ceramic + embedded PV       | 28–45                        | 85–150                     | $60–180M                               |
-| Permeable Drainage                     | Roads, stormwater capture            | 75% slag + open porosity              | 6.20–10.50                   | 25–45                      | $25–80M                                |
-| Smart Cladding (sensors + conduits)    | Exterior facades, smart roads        | Structural + embedded Faraday mesh    | 12–22                        | 48–85                      | $50–140M                               |
-| Specialty Patterned/Cultural           | Community buildings, restaurants     | Base + mineral pigments               | 9–16                         | 35–65                      | $15–50M                                |
+| [Permeable Drainage](drainagetile.md)                     | Roads, stormwater capture            | 75% slag + open porosity              | 6.20–10.50                   | 25–45                      | $25–80M                                |
+| [Smart Cladding (sensors + conduits)](claddingtile.md)    | Exterior facades, smart roads        | Structural + embedded Faraday mesh    | 12–22                        | 48–85                      | $50–140M                               |
+| [Specialty Patterned/Cultural](culturaltile.md)            | Community buildings, restaurants     | Base + mineral pigments               | 9–16                         | 35–65                      | $15–50M                                |
 
 **Total tile revenue (mature single factory)**: **$230–665M/year**  
 **Gross margin**: 60–78%
