@@ -1,0 +1,98 @@
+---
+layout: default
+title: Genesis Network – Detailed pH / ORP / Conductivity Sensor Handbook
+description: Comprehensive technical specification, deployment, calibration, and economics for pH, ORP, and Conductivity sensors across Genesis Network aquaponics, water recovery, and monitoring systems.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+---
+
+# Genesis Network  
+**Detailed pH / ORP / Conductivity Sensor Handbook**  
+**Deployment • Calibration • Maintenance • Economics**  
+**Earth-Star Industries Conceptual Baseline**  
+*January 18, 2026*
+
+## 1. Overview & Critical Role
+
+pH, Oxidation-Reduction Potential (ORP), and Conductivity sensors form the **backbone** of water quality monitoring in all closed-loop systems:
+- Aquaponics tanks (fish health, nutrient uptake)
+- Biogas digestate recovery
+- ECLSS-inspired water recycling
+- Drinking water production
+- Wastewater polishing
+
+**Why triple-redundancy?**  
+Any single sensor failure can cascade into fish kills, nutrient lockout, or regulatory violations.  
+Genesis deploys **4–5× redundancy** per critical measurement point with cross-validation via edge AI.
+
+## 2. Sensor Specifications Table
+
+| Parameter       | Sensor Type                     | Measurement Range          | Accuracy (±) | Resolution | Response Time | Lifespan (typical) | Primary Standard       | Deployment Density |
+|-----------------|---------------------------------|----------------------------|--------------|------------|---------------|--------------------|------------------------|--------------------|
+| pH              | Combination glass electrode     | 0–14 pH                    | ±0.01–0.02   | 0.001      | <5 s          | 12–24 months       | ISO 7027, EPA 150.1    | 4–5× per tank      |
+| ORP (Redox)     | Platinum combination electrode  | –2000 to +2000 mV          | ±1–5 mV      | 0.1 mV     | <10 s         | 12–18 months       | ASTM D1498             | 3–5× per system    |
+| Conductivity    | 4-electrode graphite/platinum   | 0–200,000 µS/cm            | ±0.5–1%      | 0.01 µS    | <3 s          | 18–36 months       | ISO 7888, EPA 120.1    | 4–5× per loop      |
+
+**Temperature compensation**: All sensors include integrated NTC thermistor (accuracy ±0.1°C)  
+**Pressure rating**: 0–10 bar (submersible variants)  
+**Material**: PVDF / PEEK body + titanium/platinum electrodes (corrosion resistance)
+
+## 3. Deployment & Redundancy Architecture
+
+- **Per tank/system**: Minimum 4 sensors (pH/ORP/Conductivity + spare)
+- **Critical zones** (fish breeding, drinking water): 5× redundancy
+- **Cross-validation**: Edge AI compares readings → flags drift/outlier (>2σ deviation)
+- **Calibration stations**: Automated robotic calibration pods (buffers 4.01/7.00/10.01; ORP standard 220–468 mV)
+- **Cleaning cycle**: Ultrasonic + acid/base flush every 7–14 days (AI-triggered based on drift)
+
+**Alert thresholds** (configurable per species/system):
+
+- pH: <6.5 or >8.0 → immediate adjustment (CO₂ dosing or base addition)
+- ORP: <150 mV (anaerobic risk) or >450 mV (oxidizer overdose)
+- Conductivity: >5,000 µS/cm (salt stress) or <200 µS/cm (nutrient deficiency)
+
+## 4. Calibration & Maintenance Protocol
+
+**Frequency**:
+- Automated self-check: Daily (temperature + slope verification)
+- Full 3-point calibration: Every 7–14 days (robotic)
+- Electrode replacement: Every 12–24 months (predictive based on slope degradation)
+
+**Calibration solutions**:
+- NIST-traceable buffers (4.01, 7.00, 10.01)
+- ORP standards: Zobell’s solution or quinhydrone
+- Conductivity: 1413 µS/cm KCl standard
+
+**Cost per sensor** (mature production, 2030+):
+
+| Item                          | Unit Cost ($) | Replacement Cycle | Annual Cost per Sensor ($) |
+|-------------------------------|---------------|-------------------|----------------------------|
+| pH electrode + transmitter    | 180–280       | 18 months         | 120–190                    |
+| ORP electrode + transmitter   | 220–340       | 15 months         | 170–270                    |
+| Conductivity electrode + tx   | 150–250       | 24 months         | 75–125                     |
+| **Total per measurement point** | **550–870** | —                 | **365–585**                |
+
+**Network-wide estimate** (mature 2,000-hub network, ~50K measurement points):  
+- Annual sensor maintenance OPEX: **$18–29M**  
+- Replacement CAPEX (every 1.5–2 years): **$27–43M**
+
+## 5. Economic Summary – Sensor Network
+
+- **Total sensor CAPEX** (bootstrap 2027–2030): $8–15M (initial deployment)  
+- **Annual OPEX** (maintenance + calibration): $0.5–1.2M per hub (mature)  
+- **Value created**: Prevents >$5–20M/hub/year in fish kills, nutrient loss, regulatory fines  
+- **ROI**: <6 months payback (prevented losses vs. sensor cost)  
+- **Revenue uplift**: 5–15% higher aquaponics yields from optimized water chemistry
+
+## 6. Strategic One-Liner
+
+**"pH, ORP, and Conductivity aren't just sensors — they are the nervous system that keeps the closed-loop alive. One bad reading can kill a tank. Five good ones keep the network breathing."**
+
+---
+
+**License**  
+This document and the Genesis Network pH/ORP/Conductivity Sensor Handbook are shared under the  
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
+https://creativecommons.org/licenses/by/4.0/
+
+© 2026 Earth-Star Industries conceptual framework  
+(Attribution to Darrel Carver / @DarrelCarver appreciated)
