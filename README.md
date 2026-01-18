@@ -1,93 +1,102 @@
 ---
 layout: default
-title: Genesis Network – GitHub Project README
-description: Official README for the Genesis Network open conceptual repository – regenerative closed-loop ecosystem by Earth-Star Industries
+title: Genesis-EarthStar Regenerative System – Project README
+description: Comprehensive overview, architecture, roadmap, financials, and vision for the Genesis-EarthStar closed-loop regenerative ecosystem.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Regenerative Closed-Loop Ecosystem**  
-**Earth-Star Industries Conceptual Open Repository**  
-*Baseline Version – January 17, 2026*
+# Genesis-EarthStar Regenerative System
 
-## Overview
+**A modular, self-funding, closed-loop regenerative ecosystem**  
+**Bootstrapped on distressed farmland • Scaled via pod-centric architecture • Aiming for 95–99% resource closure**
 
-The **Genesis Network** is an audacious, modular, self-replicating regenerative ecosystem designed to transform distressed farmland, brownfields, and closed landfills into carbon-negative, near-100% resource-closed hubs that produce food, energy, water, materials, electronics, pharmaceuticals, and community services.
+**Current Date Baseline**: January 18, 2026  
+**Project Lead**: Darrel Carver (@DarrelCarver)
 
-Core architecture:
-- Pod-centric (40 ft high-cube ISO containers)
-- Self-replicating flat-pack kits
-- Toughened ceramic modular construction (70–95% waste-derived)
-- Dense sensor networks + data moat flywheel
-- Cooperative affiliate network of small family farmers/co-ops
-- TerraWell FreeCare nonprofit humanitarian layer
+## Project Vision
 
-Mission: Bootstrap a post-scarcity, regenerative civilization capable of feeding/housing ~70–85% of the U.S. population by 2050–2060 while exporting kits globally and achieving gigaton-scale sequestration.
+The Genesis-EarthStar Regenerative System is an ambitious, multi-decade initiative to create highly autonomous, regenerative production hubs that generate food, energy, water, building materials, and high-value byproducts while progressively achieving near-total resource closure.
 
-This GitHub repository serves as the public conceptual home for documentation, roadmaps, specifications, financial models, resilience analyses, and NASA/ISS technology transfer mappings.  
-**All content is licensed under CC BY 4.0** — free to share, adapt, and build upon with attribution.
+Key principles:
+- Start small & modular (40 ft high-cube pods)
+- Bootstrap with premium revenue (greens, eggs, biogas, premium fiber)
+- Self-replicate using waste-derived toughened ceramics
+- Distribute risk across 19 LLC innovation hub
+- Provide humanitarian layer via TerraWell FreeCare 501(c)(3)
+- Build resilience against disasters (natural, nuclear, pandemic)
+- Integrate NASA/ISS-derived ECLSS/BLSS technologies
+- Create feedback loops from Earth → Lunar/Mars settlements
 
-## Key Features & Design Principles
+## Core Architecture
 
-- **95–99% resource closure** at mature hubs (water, nutrients, most materials)
-- **Net-positive energy** (agrivoltaics + biogas + waste heat recovery)
-- **Carbon-negative** (biochar, blue-green carbon, DAC, enhanced weathering)
-- **Pod-first + kit replication** — lowest-risk scaling mechanism
-- **Farmer/smallholder empowerment** — political & social cornerstone
-- **19-LLC Innovation Hub structure** — failure isolation & parallel execution
-- **Dense agriculture integration** — vertical/rooftop/balcony systems (+30–50% capacity)
-- **Mining-minimized circular economy** — ceramics-dominant, plasma vitrification
+- **Pods** — Primary building blocks (modified 40 ft high-cube containers)  
+- **Tiles** — Toughened, waste-derived ceramics (structural, BIPV, permeable, glazing)  
+- **Kits** — Flat-pack self-replicating systems (greenhouse shells, biogas, airlocks, etc.)  
+- **Feedback Loops** — Dense sensor data moat → ruthless AI optimization → continuous iteration  
+- **Resilience Features** — Smart airlocks, Faraday mesh, mobility, closed-loop autonomy  
 
-## Project Status & Realism Disclaimer
+All structures built exclusively from Genesis-produced tiles, ceramics, and kits.
 
-This is a **conceptual, speculative, long-term vision** — not a funded startup or operational project (as of January 17, 2026).  
-**Aggressive but honest success probability** for transformative national-scale impact: **~25–35%** (best case).  
-Bootstrap cash-flow within 24–48 months is existential. Regulatory, execution, and political risks are severe.
+## Top 10 Quick Wins (2026–2029)
 
-## Quick Links (Within This Repository)
+1. Hydroponic greens + transplanted orchards (Year 1 revenue driver)  
+2. Staggered livestock pods (continuous milk/meat/fiber)  
+3. Early C&D waste tipping contracts (feedstock + cash)  
+4. Celebrity chef partnerships (premium branding +20–30%)  
+5. TerraWell FreeCare donations (tax deductions + goodwill)  
+6. Biogas surplus sales (net-positive energy)  
+7. Affiliate kit subsidies (1,000 smallholders by 2029)  
+8. Dense sensor deployment (data moat kickstart)  
+9. USDA FSA loans (minimal down payment land acquisition)  
+10. Carbon credit monetization (blockchain-verified)
 
-- [50-Year Roadmap with NASA/ISS Tech Transfer](grok/50-Fiftyears.md)
-- [Top 10 Risks, Mitigations & Quick Wins](grok/12-Top10Risk.md)
-- [Resilience Analysis – Disasters & Existential Threats](grok/11-resilience.md)
-- [Complete Inventory – Tiles, Pods, Kits & Manufacturing](grok/10-tilesandkits.md)
-- [City Layout, Balances & Financial Projections](web/city-layout-financials.md)
-- [Innovation Hub LLC Structure & Sensor Handbook](web/innovation-hub-llcs-sensors.md)
+## Financial Projections (Aggressive Self-Funded Path)
 
-## Financial Snapshot (Network-Wide, Conservative Estimates)
+| Phase                     | Years          | CAPEX (Cumulative) | Revenue (End of Phase, $/year) | Cumulative Net Cash | Key Drivers                              |
+|---------------------------|----------------|---------------------|--------------------------------|----------------------|------------------------------------------|
+| Bootstrap & Pilots        | 2026–2030      | $20–60 M           | $5–25 M                       | +$5–18 M            | Greens, eggs, biogas, early tiles        |
+| Regional Scale            | 2031–2040      | $1–5 B             | $20–100 M                     | +$50–300 M          | Ceramics, livestock, affiliate network   |
+| National Transformation   | 2041–2050      | $15–40 B           | $50–150 B                     | +$200–800 B         | Cities/towers, space tech licensing      |
+| Global & Lunar Expansion  | 2051–2060      | $100–300 B         | $200–600 B                    | +$1,000–4,000 B     | Lunar outposts, Mars tech exports        |
+| Interplanetary Maturity   | 2061–2076      | $500–1,500 B       | $500–1,500 B                  | +$5,000–15,000 B    | Full space-Earth symbiotic ecosystem     |
 
-- **Bootstrap CAPEX (2026–2029)**: $3–12B  
-- **Total CAPEX 2026–2076**: $120–350B (phased; 20–35% credits/grants offset)  
-- **Break-even**: 2029–2030  
-- **NPV** (7% discount, 60-year horizon): $1,200–4,500B+  
-- **IRR**: 28–42% (mature phase)  
-- **Revenue Trajectory** ($B/year):  
-  • 2030s: 5–40  
-  • 2040s: 80–400  
-  • 2050s: 600–1,500  
-  • 2060s: 1,500–3,000+  
-  • 2070s: 3,000–10,000+ (lunar/Mars exports dominant)
+**Key Assumptions**  
+- Self-funding achieved by 2029–2030 (no public funds reliance post-pilots)  
+- Premium margins (+25–35% via regenerative/space branding)  
+- IRR: 32–48% (risk-adjusted)  
+- NPV (2076): $400–1,200 billion (conservative)
 
-## Contributing & Usage
+## 50-Year Roadmap Highlights
 
-This repository is **open for discussion, adaptation, and derivative works** under CC BY 4.0.  
-We welcome:
-- Technical critiques
-- Alternative financial models
-- Resilience scenario expansions
-- NASA/ESA technology transfer suggestions
+- **2026–2030**: Pilot clusters, self-funding, 95% closure  
+- **2031–2040**: 50–150 hubs, ceramic cities begin, lunar ECLSS prototypes  
+- **2041–2050**: 300–500 hubs, national food/energy transformation  
+- **2051–2060**: 1,000+ hubs, lunar outposts operational  
+- **2061–2076**: Mars settlements, perpetual Earth–space tech feedback loops  
 
-**No formal contributions accepted at this time** — this is a conceptual living document. Fork freely.
+**NASA/ISS Tech Integration**  
+- ECLSS (water/air/waste recovery) → Earth hubs → refined for lunar/Mars  
+- BLSS (bioregenerative food systems) → terrestrial optimization → deep-space habitats  
 
-## License
+## Top Risks & Mitigations
 
-All content in this repository is licensed under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+1. Regulatory delays → Start with low-barrier activities  
+2. Funding shortfalls → Ruthless revenue-first focus  
+3. Technical scaling → Pod-first pilots + fallback kits  
+4. Burnout → Distributed LLCs + free amenities  
+5. Political opposition → TerraWell goodwill + farmer alliances  
 
-You are free to share, adapt, remix, and build upon the material for any purpose, even commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made.
+## What This Project Really Is
 
-© 2026 Earth-Star Industries conceptual framework  
-(Attribution to Darrel Carver / @DarrelCarver appreciated)
+An audacious, pragmatic attempt to build regenerative, disaster-resilient, self-sustaining human habitats on Earth — while creating the technological foundation for permanent lunar and Mars settlements.
+
+It is hard. It is long. It will require discipline, iteration, and luck.
+
+But if executed with focus on quick wins and self-funding, it has a realistic shot at becoming one of the most impactful regenerative initiatives of the 21st century.
+
+Welcome to Genesis-EarthStar.
 
 ---
-*Last updated: January 17, 2026*
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2026 EarthStar Technologies conceptual working group (attribution appreciated).
