@@ -14,7 +14,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 All tiles are manufactured from **70–95% waste-derived inputs** at maturity.  
 **Primary factory input sources** (ranked by volume):  
-1. Road C&D debris (slag, concrete fines, asphalt millings)  
+1. [Road C&D debris (slag, concrete fines, asphalt millings)](roadcandd,md)  
 2. Rice husk ash (silica source)  
 3. Farm residues (bagasse, straw, grape pomace – pore formers/tougheners)  
 4. ELFM mined landfill slag  
@@ -29,7 +29,7 @@ All tiles are manufactured from **70–95% waste-derived inputs** at maturity.
 
 | Tile Type                              | Primary Use                          | Composition (mature)                  | Est. Production Cost ($/m²) | Est. Selling Price ($/m²) | Annual Revenue Potential (per factory) |
 |----------------------------------------|--------------------------------------|---------------------------------------|------------------------------|----------------------------|----------------------------------------|
-| Structural Load-Bearing                | Foundations, walls, floors           | 80–95% slag/RCA + RHA silica          | 4.80–8.20                    | 18–32                      | $45–120M                               |
+| [Structural Load-Bearing](structuraltiles.md)                | Foundations, walls, floors           | 80–95% slag/RCA + RHA silica          | 4.80–8.20                    | 18–32                      | $45–120M                               |
 | Insulating Thermal Mass                | Housing, greenhouses                 | 70% slag + pore-formers (bagasse)     | 5.50–9.10                    | 22–38                      | $35–95M                                |
 | Semi-Transparent BIPV Glazing          | Greenhouse roofs, residential        | RHA glass-ceramic + embedded PV       | 28–45                        | 85–150                     | $60–180M                               |
 | Permeable Drainage                     | Roads, stormwater capture            | 75% slag + open porosity              | 6.20–10.50                   | 25–45                      | $25–80M                                |
@@ -60,8 +60,8 @@ All pods use **toughened ceramic shells** (manufactured from tile factory output
 
 All kits are shipped as components manufactured in tile/pod factories and assembled on-site.
 
-1. Ceramic Tile & Pipe Production Kit  
-2. Modular Greenhouse/Aquaponics Kit  
+1. [Ceramic Tile & Pipe Production Kit](tilekit.md)  
+2. [Modular Greenhouse/Aquaponics Kit](greenhousekit.md)   
 3. Biogas Digester & Upgrading Kit  
 4. Microbial Inoculant Production Kit  
 5. Agroforestry/Silvopasture Expansion Kit  
@@ -95,7 +95,7 @@ All kits are shipped as components manufactured in tile/pod factories and assemb
 
 | Sensor Type                  | Measurement                            | Redundancy | Primary Standards       | Deployment Locations                     | Purpose / Alert Thresholds                  |
 |------------------------------|----------------------------------------|------------|--------------------------|------------------------------------------|---------------------------------------------|
-| pH / ORP / Conductivity      | Water quality                          | 4–5×       | ISO 7027, EPA 150.1      | All aquaponics tanks                     | pH 6.8–7.5; ammonia <0.5 ppm                |
+| [pH / ORP / Conductivity](phqepconductivitysensor.md)      | Water quality                          | 4–5×       | ISO 7027, EPA 150.1      | All aquaponics tanks                     | pH 6.8–7.5; ammonia <0.5 ppm                |
 | DO (Dissolved Oxygen)        | Aquaculture health                     | 3–5×       | ISO 5814                 | Fish/crustacean tanks                    | >5 mg/L (tilapia); >7 mg/L (trout)          |
 | Multispectral Imaging        | Plant stress, pest detection           | 3×         | IEEE 1451                | Greenhouse canopies, agroforestry        | NDVI drop >15% → alert                      |
 | mmWave Radar                 | Non-contact vitals (HR, respiration)   | 3×         | IEEE 802.15.4            | Housing, livestock pens, TerraWell       | Fall detection, abnormal breathing          |
