@@ -1,4 +1,3 @@
-Structural Load-Bearing Tiles
 ---
 layout: default
 title: Genesis Network – Detailed Structural Load-Bearing Ceramic Tiles (Including Sensors)
