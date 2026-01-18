@@ -1,143 +1,141 @@
 ---
 layout: default
 title: TerraWell FreeCare System – Detailed Specification
-description: Comprehensive overview of the TerraWell FreeCare System, a standalone 501(c)(3) nonprofit humanitarian layer providing free medical care, food, and durable medical equipment on brownfield regeneration sites.
+description: Comprehensive executive specification for the TerraWell FreeCare System, a standalone 501(c)(3) humanitarian nonprofit layer supporting underserved communities (December 2025 baseline)
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # TerraWell FreeCare System  
-**Humanitarian Nonprofit Layer**  
-**EarthStar Technologies – Conceptual Specification**  
-*Baseline – December 2025 / January 2026*
+**Detailed Specification Document**  
+*Standalone 501(c)(3) Humanitarian Nonprofit Layer*  
+*Baseline: December 2025 – Realistic U.S. Compliance View*
 
 ## 1. Executive Summary
 
 **Mission**  
-The TerraWell FreeCare System, operated exclusively by the independent **TerraWell Foundation** (501(c)(3)), delivers **100% free** primary medical care, urgent care, basic mental health services, nutritious food, and durable medical equipment (DME) to any person in need — with **no means testing, identification, or co-payment required**.
+The TerraWell FreeCare System, operated by the independent **TerraWell Foundation** (501(c)(3)), delivers **100% free** food, basic medical supplies, durable medical equipment (DME), and limited primary/urgent/mental health services to individuals in need — with **no means testing, identification requirements, or co-pays**.
 
-**Core humanitarian design**  
-- Services provided in safe, welcoming facilities built from Genesis ceramic tiles located on brownfield/MSW-processing sites already undergoing regenerative remediation.  
-- All services and goods are free at point of delivery.  
-- Funding derived **solely** from fair-market-value donations of qualifying tangible inventory from EarthStar Technologies (primarily food, OTC medications, select generics, and 3D-printed DME).  
-- No public/government grants, insurance billing, or individual donations are accepted — preserving complete independence.
+**Core Design**  
+- Completely separate legal, operational, financial, and physical entity from EarthStar Technologies (for-profit) and the Genesis System  
+- Located exclusively on remediated brownfield/MSW-processing sites owned by Genesis-affiliated entities, using standard Genesis ceramic-tile construction kits  
+- Funded **solely** through fair-market-value donations of qualifying tangible inventory from EarthStar Technologies under IRC §170(e)(3)  
+- No public/government funding ever accepted to preserve independence and avoid entanglement
 
-**Scale goals (realistic 2050 targets)**  
-- 120–280 fixed FreeCare Centers (co-located with mature Genesis hubs)  
-- 450–1,200 mobile FreeCare Outreach Units  
-- Annual reach: 1.8–4.5 million unique individuals  
-- Cumulative lives meaningfully impacted (2050): 45–110 million  
-- Total donated inventory value processed (2050 cumulative): $18–45 billion FMV
+**Scale Goals (2050 Realistic Targets)**  
+- 180–340 fixed FreeCare Centers (mostly small-to-medium, 8–40 pods equivalent)  
+- 420–880 mobile FreeCare Units (vans/trailers)  
+- Annual reach: 2.8–6.2 million unique individuals (food + supplies)  
+- ~1.1–2.4 million annual health encounters (primary/urgent/mental health)  
+- Cumulative humanitarian value delivered: $18–42 billion FMV (2025 dollars)
 
-**Net financial impact to EarthStar Technologies**  
-- Tax deductions under IRC §170(e)(3): $9.5–24 billion cumulative (2050) at effective 21–28% corporate rate → **$2.0–6.7 billion** in total tax savings  
-- Extremely high ROI on humanitarian investment (≈3.5–7.8× tax benefit vs. donated cost basis)  
-- Significant reputational & political capital — strongest single mitigation factor against regulatory or community opposition
+**Net Financial Impact to EarthStar Technologies**  
+- Enables enhanced §170(e)(3) charitable contribution deductions on qualifying inventory (primarily food; partial on certain medical/DME items)  
+- Realistic after-tax benefit: $0.21–$0.38 per $1 FMV donated (conservative, after IRS scrutiny & documentation requirements)  
+- Primary value: Reputational goodwill, community license-to-operate, workforce attraction, and political risk mitigation
 
 ## 2. Legal & Tax Structure Description
 
-- **Entity**: TerraWell Foundation — fully independent 501(c)(3) nonprofit corporation (Delaware, IRS determination letter targeted 2027)  
-- **Governance**: Separate board of directors (no overlap with EarthStar Technologies officers/directors); minimum 5 independent directors; strict conflict-of-interest policy  
-- **Facilities**: Physically separate buildings (minimum 30 m buffer from Genesis operational zones); separate utilities, access roads, signage  
-- **Personnel**: No shared employees/contractors; separate HR, payroll, training  
-- **Data**: Zero data sharing; separate IT systems, no shared digital twins or sensor networks  
-- **Transactions**: All donations executed at fair market value per IRS rules; arm’s-length written agreements; annual independent appraisals for high-value items  
-- **Tax benefit claimed only under §170(e)(3)** — enhanced deduction (generally cost basis + 50% of FMV markup, capped at 2× cost) for C-corporation donations of inventory used in care of the ill, needy, or infants  
-- **Prohibited**: No donation of cash, services, professional time, “visit credits,” or intellectual property
+- **Entity**: TerraWell Foundation — independent 501(c)(3) public charity (not private foundation)  
+- **Governance**: Separate board of directors (no overlapping members with EarthStar Technologies or Genesis affiliates); independent officers and compliance officer  
+- **Facilities**: Built on land leased at FMV from Genesis-affiliated entities; arm's-length lease agreements  
+- **Donations**: Exclusively tangible personal property (inventory) donated at FMV; detailed contemporaneous substantiation provided per IRS rules  
+- **Deduction Eligibility**:  
+  - Food inventory: Up to 15% of taxable income (C-corp) under §170(e)(3) enhanced deduction  
+  - Certain OTC medications, generics (if compliant), 3D-printed DME: partial enhanced deduction when used for care of ill/needy  
+  - No deduction for services, labor, professional time, or intangible assets  
+- **Operational Firewall**: No shared personnel, data systems, patient records, or cross-employment; separate IT, HR, accounting, and supply chains
 
 ## 3. Detailed Service Catalogue Table
 
-| Service / Good                              | Description                                                                 | Est. FMV per Unit (2025 $) | Annual Volume (mature hub) | §170(e)(3) Enhanced Deduction Eligible? |
-|---------------------------------------------|-----------------------------------------------------------------------------|----------------------------|-----------------------------|-----------------------------------------|
-| Nutritious Prepared Meals                   | MyPlate-compliant hot & packaged meals                                      | $8–14                      | 1.2–3.8M                    | Yes (food inventory)                    |
-| Fresh & Preserved Produce Boxes             | Seasonal Genesis produce                                                    | $18–35                     | 800K–2.2M                   | Yes (food inventory)                    |
-| OTC Medications & First Aid                 | Pain relief, cold/flu, allergy, wound care                                  | $4–18                      | 2.5–6.8M                    | Partial (care of ill/needy)             |
-| Select Generic Prescription Medications     | Maintenance generics (e.g., metformin, lisinopril, SSRIs) – pharmacist dispensed | $12–120                    | 180K–650K                   | Partial (if used for care of ill)       |
-| 3D-Printed Durable Medical Equipment        | Wheelchairs, walkers, crutches, CPAP accessories, prosthetics interfaces   | $280–2,800                 | 45K–180K                    | Partial (care of ill/needy)             |
-| Primary & Urgent Medical Care               | Licensed physicians, NPs, RNs; acute & chronic management                   | $120–450 (FMV visit)       | 650K–1.9M visits            | No (service, not inventory)             |
-| Basic Mental Health Services                | Licensed counselors, telepsychiatry, crisis intervention                    | $150–380 (FMV session)     | 280K–850K sessions          | No (service)                            |
-| Health Education & Competency Modules       | Chronic disease management, nutrition, hygiene, parenting, addiction recovery | N/A                        | 1.1–3.2M completions        | No (service/education)                  |
+| Category                        | Specific Items/Services Provided (100% Free)                              | Realistic FMV Range (2025 $) | §170(e)(3) Enhanced Deduction Eligible? | Notes / Limitations                                  |
+|---------------------------------|---------------------------------------------------------------------------|-------------------------------|------------------------------------------|-------------------------------------------------------|
+| Food & Nutrition                | Fresh produce, prepared meals, shelf-stable staples, eggs, dairy         | $6–18 per daily ration        | Yes (high)                               | Primary deduction driver; MyPlate-compliant           |
+| OTC Medications & First Aid     | Analgesics, cold/flu, antacids, bandages, antiseptics                    | $4–22 per kit/month           | Partial (case-by-case)                   | Only when donated as inventory                        |
+| Generic Prescription Drugs      | Select maintenance generics (e.g., metformin, lisinopril, statins)       | $8–45 per 30-day supply       | Partial (strict conditions)              | FDA-compliant sourcing only; physician oversight      |
+| Durable Medical Equipment (DME) | 3D-printed/custom wheelchairs, crutches, walkers, CPAP accessories       | $180–1,800 per unit           | Partial                                  | Donated as finished goods; no service component       |
+| Primary & Urgent Care           | Basic exams, wound care, infection treatment, chronic disease monitoring | N/A (service)                 | No                                       | Delivered by licensed TerraWell staff/volunteers      |
+| Mental Health Support           | Crisis counseling, short-term therapy, peer support, referral network    | N/A (service)                 | No                                       | Funded from general operations                        |
+| Health Education & Training     | Competency-based modules (nutrition, chronic disease self-management, first aid, regenerative living basics) | N/A                           | No                                       | Delivered via VR/Dojo pods & in-person                |
 
-## 4. Physical Assets Table
+## 4. Physical Assets Table (Projected 2050 Scale)
 
-| Asset Type                     | Description / Specs                                          | Units per Mature Hub | Total by 2050 (network) | Est. CAPEX per Unit (2025 $) | Total CAPEX (2050)   |
-|--------------------------------|--------------------------------------------------------------|-----------------------|---------------------------|-------------------------------|-----------------------|
-| Fixed FreeCare Center          | 1,800–4,200 m² ceramic tile building; airlocks, triage, pharmacy, 8–16 exam rooms | 1–3                   | 120–280                   | $4.8–12.5M                    | $580M–3.5B            |
-| Mobile FreeCare Outreach Unit  | 40 ft high-cube trailer + Genesis tow vehicle; 2 exam rooms, pharmacy, solar/battery | 3–12                  | 450–1,200                 | $380K–920K                    | $170M–1.1B            |
-| Total Humanitarian Infrastructure CAPEX (TerraWell Foundation) | —                                                    | —                     | —                         | —                             | **$750M–4.6B**        |
+| Asset Type               | Description                                                  | Typical Size/Capacity            | Target Quantity (2050) | Est. CAPEX per Unit (2025 $) | Total Network CAPEX (2050) |
+|--------------------------|--------------------------------------------------------------|----------------------------------|------------------------|-------------------------------|-----------------------------|
+| Fixed FreeCare Center    | 12–40 pod cluster (ceramic shell, airlocks, triage, dispensary) | 1,500–6,000 ft²                 | 180–340                | $1.8M–$5.6M                  | $0.9B–$1.8B                |
+| Mobile FreeCare Unit     | Sprinter van / trailer + solar + deployable awning           | 8–25 people/day                  | 420–880                | $180k–$420k                  | $120M–$320M                |
+| Mobile Specialty Trailer | Dental / eye / women’s health / pediatric focus              | Specialized 1–2 services/day     | 80–160                 | $320k–$680k                  | $40M–$100M                 |
 
-## 5. Rollout Timeline 2027–2075 (Realistic)
+**Funding Source**: All CAPEX funded through accumulated general donations, grants from independent foundations (post-2032), and reinvested operational surpluses — **never** from EarthStar inventory donations.
 
-| Phase                     | Years             | Key Milestones                                                                 | Fixed Centers | Mobile Units | Annual Reach (people) |
-|---------------------------|-------------------|--------------------------------------------------------------------------------|---------------|--------------|------------------------|
-| Legal & Pilot             | 2027–2029         | 501(c)(3) determination; first center + 2 mobile units; IRS §170(e)(3) opinion | 1–3           | 4–12         | 15K–80K                |
-| Early Expansion           | 2030–2035         | 1 center per major hub; mobile fleet growth                                    | 12–35         | 80–220       | 350K–1.2M              |
-| Regional Maturity         | 2036–2045         | Full integration with hub rollout; competency training scaled                  | 60–140        | 300–680      | 1.1M–2.8M              |
-| National Scale            | 2046–2055         | Peak deployment; mobile disaster network mature                                | 120–280       | 450–1,200    | 1.8M–4.5M              |
-| Legacy & Evolution        | 2056–2075         | Maintenance & adaptation; possible international affiliate model              | 120–320       | 500–1,500    | 2M–6M+                 |
+## 5. Rollout Timeline (Realistic 2027–2075)
+
+| Phase                     | Years          | Key Milestones & Scale                                      | Cumulative Centers | Cumulative Mobile Units |
+|---------------------------|----------------|-------------------------------------------------------------|--------------------|--------------------------|
+| Pilot & Proof-of-Concept  | 2027–2030      | 2–6 fixed centers + 8–20 mobile units; basic food + OTC     | 6                  | 20                       |
+| Early Regional            | 2031–2036      | 25–60 centers + 80–180 mobile; add limited generics/DME     | 60                 | 180                      |
+| Mature Network Growth     | 2037–2050      | 180–340 centers + 420–880 mobile; full health education     | 340                | 880                      |
+| Long-Term Saturation      | 2051–2075      | Steady-state replacement & modest growth                    | 300–380            | 800–1,000                |
 
 ## 6. Mobile Unit Detailed Specifications & Disaster Response Protocols
 
-**Mobile FreeCare Outreach Unit**  
-- 40 ft high-cube trailer (Genesis kit) with ceramic shell reinforcement  
-- Autonomous solar + battery (3–5 days off-grid)  
-- 2 exam rooms, small pharmacy, basic lab, telehealth station  
-- Airlock with hyperspectral triage scanner (fever, respiratory distress, open wounds)  
-- Starlink + redundant comms  
-- 2–4 person crew (NP/PA + RN + logistics/tech)  
+**Standard Mobile Unit**  
+- Base: 24–26 ft box truck or 40 ft gooseneck trailer  
+- Power: 8–15 kW rooftop solar + lithium storage + generator backup  
+- Features: Fold-out awning, smart airlock triage, hyperspectral health screening (fever, respiratory, skin anomalies), secure inventory storage, HIPAA-compliant consult rooms  
+- Staff: 2–5 (1–2 licensed providers + support/volunteers)
 
 **Disaster Response Protocols**  
-- Tier 1 activation: 48 hours post-event (wildfire, flood, hurricane)  
-- Pre-positioned units within 250 miles of major hubs  
-- Self-contained 72–96 hour operations  
-- Coordination via FEMA liaison (volunteer only, no funding)  
-- Priority: displaced populations, rural areas, underserved communities  
-- Post-event: transition to fixed centers for continuity of care
+- Tier 1 (local): Deploy within 24–72 hours to Genesis-adjacent regions  
+- Tier 2 (regional): Pre-positioned mutual-aid agreements with other 501(c)(3)s  
+- Tier 3 (national): Activated only via independent board decision; FEMA/state coordination permitted but no funding accepted  
+- Inventory surge: Pre-staged pallets of food/OTC/DME at regional hubs
 
 ## 7. Political & Reputational Risk Mitigation Analysis
 
-| Risk                                      | Severity | Mitigation Strategy                                                                 |
-|-------------------------------------------|----------|--------------------------------------------------------------------------------------|
-| Perceived as corporate tax shelter        | High     | Strict §170(e)(3) compliance, independent board, transparent annual Form 990        |
-| Community suspicion of “corporate charity”| Medium   | No branding tie to EarthStar; “TerraWell FreeCare” signage only; community councils |
-| Regulatory scrutiny on generics/DME       | Medium   | FDA-compliant pharmacy; volunteer pharmacist oversight; no controlled substances    |
-| Political backlash (left/right)           | Medium   | Universal access (no ID); focus on veterans, rural, homeless; bipartisan humanitarian framing |
-| Reputational halo benefit                 | —        | **Extremely strong** – strongest single factor protecting Genesis against opposition |
+| Risk Category               | Level (2025–2035) | Primary Mitigation Strategies                                                                 |
+|-----------------------------|-------------------|------------------------------------------------------------------------------------------------|
+| Perceived corporate influence | High              | Strict legal firewall; independent board; no shared data/personnel; public audit transparency |
+| IRS scrutiny of deductions  | High              | Conservative valuation; contemporaneous FMV documentation; third-party appraisals             |
+| Public perception of “greenwashing” | Medium            | Transparent reporting; focus on underserved communities; no marketing tie-back to EarthStar   |
+| Regulatory entanglement     | Medium–High       | No public funds ever; avoid state/federal contracts; remain purely private charity            |
+| Community backlash          | Low–Medium        | No means testing/ID; hyper-local hiring; cultural tile patterns; free training modules        |
 
 ## 8. Strict Integration Rules with Genesis System / EarthStar Technologies
 
-**Absolute Prohibitions**  
-- No shared personnel, contractors, or volunteers  
-- No shared data, sensors, digital twins, or IT infrastructure  
-- No joint marketing, branding, or co-location signage  
-- No donation of services, labor, professional time, or “visit credits”  
-- No access to Genesis housing, food production, or energy systems  
-- No TerraWell patients treated inside Genesis operational zones  
-- All donations must be arm’s-length, appraised, and documented per IRS rules
+**Explicit Prohibitions**  
+- No shared employees, contractors, or volunteers  
+- No shared IT systems, patient/recipient databases, or communication platforms  
+- No donation of services, labor, professional time, or facility usage credits  
+- No preferential access or priority for Genesis employees/residents  
+- No joint marketing or co-branding  
+- No commingling of funds or inventory  
+- All transactions (land lease, utilities) at documented fair market value  
 
 ## 9. Honest Feasibility & Compliance Assessment
 
 **Strengths**  
-- High humanitarian impact with minimal public-funding risk  
-- Powerful reputational & political shield for Genesis Network  
-- Realistic tax benefit (still substantial even after conservative assumptions)  
-- Pod/tile construction synergy reduces TerraWell CAPEX  
-- Universal access model aligns with strong public support
+- High humanitarian impact potential with relatively low direct cost to EarthStar  
+- Significant reputational & political goodwill  
+- Leverages existing Genesis ceramic construction expertise  
+- Food donations provide strongest §170(e)(3) tax efficiency  
 
-**Risks & Required Safeguards**  
-- **Primary risk**: IRS challenge to §170(e)(3) eligibility — requires top-tier tax counsel, annual appraisals, detailed documentation  
-- **Secondary risk**: FDA/state pharmacy board scrutiny of generics — mitigated by licensed pharmacist control & limited formulary  
-- **Execution risk**: Maintaining strict firewall — requires annual independent compliance audits  
-- **Overall feasibility**: **7.5–8/10** (high if legal/tax execution is flawless; moderate downside if IRS challenge occurs)
+**Major Risks & Required Safeguards**  
+- IRS challenge of enhanced deduction valuations → requires rigorous, third-party substantiation  
+- FDA/state pharmacy board compliance for generics → limits scope to pre-approved, shelf-stable items  
+- Maintaining genuine independence → demands constant vigilance and legal oversight  
+- Volunteer/staff burnout in high-need environments → requires strong training & support programs  
 
-**Strategic One-Liner**  
-**“The most powerful thing EarthStar can give is not technology — it is the freedom from suffering for those who need it most.”**
+**Overall Feasibility Rating (2025 baseline)**  
+7.2/10 — Viable with disciplined execution, conservative tax positions, and robust legal separation.
 
 ---
 
 **License**  
-This document and the TerraWell FreeCare System concept are shared under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+This work is licensed under a **Creative Commons Attribution 4.0 International License** (CC BY 4.0).  
 
-© 2025–2026 EarthStar Technologies conceptual framework  
-(Attribution to Darrel Carver / @DarrelCarver appreciated)
+You are free to share and adapt this material for any purpose, even commercially, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Full license: https://creativecommons.org/licenses/by/4.0/
+
+© 2025 EarthStar Technologies conceptual working group  
+(Attribution appreciated)
