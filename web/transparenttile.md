@@ -1,91 +1,101 @@
 ---
 layout: default
-title: Genesis Network – Semi-Transparent BIPV Glazing with Embedded Sensors
-description: Detailed technical specification, manufacturing, performance, cost/revenue model, and integration details for Genesis semi-transparent Building-Integrated Photovoltaic (BIPV) glazing tiles.
+title: Genesis Network – Detailed Semi-Transparent BIPV Glazing with Embedded Sensors
+description: Comprehensive technical and economic specification for the Semi-Transparent Building-Integrated Photovoltaic (BIPV) Glazing tiles used in Genesis Network greenhouses, housing, and community structures.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Genesis Network  
-**Semi-Transparent BIPV Glazing with Embedded Sensors**  
-**Technical Specification • Manufacturing • Economics • Integration**  
+**Semi-Transparent BIPV Glazing Tile – Detailed Specification**  
+**With Embedded Sensors • Manufacturing • Economics**  
 **Earth-Star Industries Conceptual Baseline**  
 *January 18, 2026*
 
-## Executive Summary
+## Overview
 
-The **Semi-Transparent BIPV Glazing Tile** is a core structural and energy-generating component of Genesis greenhouses, residential towers, community buildings, and agrivoltaic canopies.  
-It combines **10–30% optical transmittance** (maximizing natural light for plants/residents) with **embedded thin-film photovoltaic cells** (5–15 W/m² output) and **dense sensor array** for real-time environmental monitoring and predictive maintenance.
+The **Semi-Transparent BIPV Glazing** is a core structural and energy-generating component of the Genesis Network.  
+It serves as roofing and wall glazing for greenhouses, residential modules, community buildings, and education centers.  
+Key features:
+- 10–30% light transmittance (optimizes plant growth while generating power)
+- Fully waste-derived glass-ceramic matrix (RHA silica + slag)
+- Embedded silicon-based thin-film PV cells + integrated sensors
+- Snap-together modular design with conduits for power/data/water
+- Munitions-grade durability (8–9/10 rating) with Faraday mesh EMP protection
 
-**Key Performance (mature production)**  
-- Transmittance: 10–30% (tunable per application)  
-- Power density: 80–150 Wp/m² (bifacial gain +15–25%)  
-- Sensor density: 4–8 sensors/m² (PAR, temperature, humidity, strain, soiling)  
-- Lifespan: 30–50 years (ceramic substrate)  
-- Annual revenue per 10,000 m² installed: $0.85–2.2M (power + sensor data + premium sales)
+**Primary applications**:
+- Greenhouse roofs → natural light + power + CO₂ enrichment
+- Residential vaulted ceilings → daylighting + BIPV generation
+- Community & TerraWell buildings → aesthetic + energy autonomy
 
-## Detailed Technical Specification
+## Detailed Specifications Table
 
-| Parameter                              | Specification                                      | Notes / Standards Compliance                          |
-|----------------------------------------|----------------------------------------------------|-------------------------------------------------------|
-| Substrate                              | RHA-derived glass-ceramic (rice husk ash silica)   | 70–95% waste-derived; ASTM C1405, ISO 13006           |
-| PV Layer                               | Thin-film amorphous silicon / CIGS hybrid          | Semi-transparent; IEC 61215 / IEC 61730               |
-| Transmittance                          | 10–30% (selectable at production)                  | Tunable for greenhouse vs. residential use            |
-| Power Output                           | 80–150 Wp/m² (STC); +15–25% bifacial gain          | Agrivoltaic roof/canopy optimization                  |
-| Embedded Sensors                       | PAR, multispectral, temperature, humidity, strain, soiling | IEEE 1451 plug-and-play; 4–8 sensors/m²               |
-| Structural Strength                    | Compressive 60–100 MPa; impact EN 12600 Class 2(B)2| Load-bearing roof/wall capability                     |
-| Thermal Performance                    | U-value 0.8–1.2 W/m²K; snow/ice heating traces     | Passive + DC resistive (AI-triggered)                 |
-| Integration                            | Snap-together modular; embedded conduits           | Power, data, water routing; Matter/Thread/Zigbee      |
-| Durability                             | 30–50 year warranty; MIL-STD-810 environmental     | Dust, hail, thermal cycling resistance                |
+| Parameter                              | Specification                                                                 | Notes / Standards Compliance                          |
+|----------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------|
+| Light Transmittance                    | 10–30% (tunable via PV density)                                               | Adjustable per crop zone (PAR optimization)           |
+| Power Conversion Efficiency            | 8–14% (thin-film silicon)                                                     | Mature-node Genesis-produced cells                    |
+| Power Output                           | 80–140 W/m² (peak)                                                            | Dependent on transmittance & insolation               |
+| Dimensions (standard module)           | 1.0 × 1.0 m or 1.2 × 0.8 m                                                    | Snap-together interlocking edges                      |
+| Thickness                              | 8–15 mm                                                                       | Structural load-bearing variants up to 25 mm          |
+| Compressive Strength                   | 80–120 MPa                                                                    | ASTM C1405 (glazed ceramic units)                     |
+| Impact Resistance                      | EN 12600 (Class 2(B)2 or better)                                              | Suitable for hail & debris                            |
+| Embedded PV Technology                 | Amorphous/microcrystalline silicon thin-film                                  | Produced in TerraFab mini-fab                         |
+| Embedded Sensors                       | PAR, multispectral, temperature, humidity, strain, soiling, power metering   | 3–5× redundancy; IEEE 1451 compliant                  |
+| Additional Features                    | Faraday mesh (EMP/RFI), integrated conduits (power/data/water), snow-melt traces | MIL-STD-810 ruggedness; DC-powered                    |
+| Lifespan (warranted)                   | 30–40 years                                                                   | Degradation <0.7%/year                                |
+| Fire Rating                            | Non-combustible (A1 EN 13501-1)                                               | Zero flame spread                                     |
 
-## Manufacturing Process & Inputs
+## Embedded Sensors – Detailed Table
 
-**Primary Factory Inputs** (mature phase)  
-1. Rice husk ash (silica source) – 40–60%  
-2. Road C&D slag/fines – 20–35%  
-3. Farm residues (bagasse/straw) – pore formers  
-4. Thin-film PV precursor layers (licensed)  
-5. Sensor dies (in-house TerraFab 65–130 nm)
+| Sensor Type                  | Measured Parameter(s)                     | Redundancy | Calibration / Standards          | Primary Function / Alert Thresholds                     |
+|------------------------------|-------------------------------------------|------------|----------------------------------|----------------------------------------------------------|
+| PAR (Photosynthetically Active Radiation) | 400–700 nm light intensity                | 3×         | ISO 9060                         | 200–800 µmol/m²/s optimal; low PAR → LED supplement      |
+| Multispectral Imaging        | Plant stress (chlorophyll, water content) | 3×         | IEEE 1451                        | NDVI drop >15% → pest/disease alert                      |
+| Temperature / Humidity       | Surface & air temp, relative humidity     | 5×         | ISO 7726                         | 18–28°C / 50–80% RH; extremes trigger HVAC               |
+| Strain / Vibration           | Structural deflection & seismic activity  | 4×         | ISO 8041                         | >0.3 mm deflection → predictive maintenance alert       |
+| Soiling / Dust Detection     | Surface dust accumulation                 | 3×         | IEC 61730                        | >20% power loss → auto-cleaning trigger                  |
+| Power Metering               | Real-time PV output & efficiency          | 3×         | IEEE 2030                        | <85% expected output → fault detection                   |
+
+## Manufacturing & Input Sources
+
+**Primary Inputs (mature phase – 70–95% waste-derived)**  
+- Rice husk ash (RHA) → silica source for glass-ceramic matrix  
+- Landfill slag & road C&D fines → structural toughening agents  
+- Farm residues (bagasse/straw) → pore formers & carbon additives  
+- Thin-film silicon → produced in-house TerraFab (65–130 nm)  
 
 **Process Flow**  
-1. Mix & melt → glass-ceramic base  
-2. Deposit semi-transparent PV thin-film  
-3. Embed sensor array + conduits  
-4. Press/form → fire (1,200–1,350°C)  
-5. Plasma toughening + quality scan  
-6. Snap-connector assembly
+1. Raw material mixing & melting (1,400–1,600°C)  
+2. Float glass forming + thin-film PV deposition  
+3. Sensor & conduit embedding during lamination  
+4. Cutting + edge finishing + snap-joint forming  
+5. Quality control (optical transmission, electrical testing)  
 
-**Energy Use**: Biogas + waste heat recovery → net-positive factory
+**Factory Output Capacity** (mature): 50,000–150,000 m²/month
 
-## Cost & Revenue Model (Mature Production)
+## Economic Summary Table
 
-| Metric                                 | Value (per m²)       | Annual (10,000 m² factory output) | Notes                                          |
-|----------------------------------------|----------------------|------------------------------------|------------------------------------------------|
-| Production Cost                        | $28–45               | $280K–450K                         | 70–95% waste-derived; energy from biogas       |
-| Selling Price (internal hub)           | $85–120              | $850K–1.2M                         | Transfer pricing                               |
-| Selling Price (external/affiliates)    | $120–180             | $1.2M–1.8M                         | Premium for smart features                     |
-| Power Revenue (export/savings)         | $8–18/year           | $80K–180K                          | At $0.10–0.15/kWh; 100–150 kWh/m²/year         |
-| Sensor Data Value                      | $2–5/year            | $20K–50K                           | Predictive maintenance + credits               |
-| **Total Annual Revenue (10,000 m²)**   | —                    | **$0.95–2.03M**                    | Gross margin 60–78%                            |
+| Metric                                 | Value (mature phase)                  | Notes / Assumptions                               |
+|----------------------------------------|---------------------------------------|---------------------------------------------------|
+| Production Cost per m²                 | $28–45                                | Includes waste-derived inputs + in-house PV       |
+| Selling Price per m² (internal)        | $65–95                                | Transfer pricing to Genesis hubs                  |
+| Selling Price per m² (external)        | $85–150                               | Premium smart glazing market                      |
+| Gross Margin                           | 58–72%                                | High due to waste-derived materials               |
+| Annual Production Revenue (single factory) | $60–180M                          | 50,000–150,000 m²/month at average price          |
+| Payback Period (factory investment)    | 18–30 months                          | Assumes $80–150M factory CAPEX                    |
+| Energy Payback Time (EPBT)             | 1.8–3.2 years                         | Depending on location & transmittance             |
 
-**Payback Period** (installed system): 6–12 years  
-**Lifecycle Value** (30 years): $2,500–5,000/m² (power + data + durability premium)
+**Network-wide BIPV glazing contribution**  
+- Installed capacity (2050 estimate): 50–150 million m²  
+- Annual power generation: 4–18 TWh (network-wide)  
+- Revenue contribution: $3–12B/year (mature phase)
 
-## Integration & Smart City Compliance
-
-- **Structural**: Snap-together modules with embedded conduits (power/data/water)  
-- **Smart Features**: IEEE 1451 sensor interface, Matter/Thread/Zigbee, ISO/TC 268 smart city alignment  
-- **Security**: Dual smart airlocks (mmWave + hyperspectral) at building entries  
-- **Building Codes**: Supports LEED v4.1, ISO 37120, EN 12600 impact resistance, MIL-STD-810 ruggedness  
-- **Applications**: Greenhouse roofs, residential towers, community centers, agrivoltaic canopies, rest stops
-
-## Strategic One-Liner
-
-**"Semi-transparent BIPV glazing turns sunlight into power, data, and life — while letting plants and people thrive underneath."**
+**Strategic One-Liner**  
+**"Semi-transparent BIPV glazing turns every greenhouse roof into a power plant, sensor array, and climate-controlled ecosystem — all from waste."**
 
 ---
 
 **License**  
-This document and the Genesis Semi-Transparent BIPV Glazing specification are shared under the  
+This document and the Genesis Network Semi-Transparent BIPV Glazing specification are shared under the  
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
 https://creativecommons.org/licenses/by/4.0/
 
