@@ -1,98 +1,53 @@
 ---
 layout: default
-title: Genesis Network – Pod-Based Mini-Fab to Advanced Fab Construction & Financials
-description: Detailed phased plan for building Mini-Fabs and milestones to advanced fabs, including recalculated financials and viability impact.
+title: Earth-Star Industries Prompt 04 – TerraWell FreeCare System Detailed Specification
+description: Prompt to generate a comprehensive, accurate, and compliant description of the TerraWell FreeCare System as a standalone humanitarian nonprofit layer.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+theme: minimal
 ---
 
-# Genesis Network: Pod-Based Mini-Fab to Advanced Fab Construction & Financials
+# Prompt 03 – Generate Detailed TerraWell FreeCare System Description (December 2025)
 
-## Overview
+**Objective**  
+Generate a complete, self-contained executive specification document for the **TerraWell FreeCare System**, a fully private, standalone 501(c)(3) nonprofit operated by the independent TerraWell Foundation. The document must reflect realistic U.S. tax law (IRC §§170, 501(c)(3)), FDA regulations, and operational constraints as of December 2025, while preserving maximum humanitarian impact and tax efficiency.
 
-The Genesis Network builds **pod-based Mini-Fabs** (mature-node 65–130 nm for sensors, edge AI, robotics) starting late 2029, then upgrades to **advanced pod-cluster fabs** (7 nm → 3 nm) only after strict triggers are met. All construction is modular (40 ft high-cube pods), regenerative (70–95% waste-derived), lights-out capable (80–95% by 2035), and self-funded. Focus: sovereign niche chips for the Network (AI/robotics/digital twins), not mass-market volume.
+**Core Context**  
+- The regenerative closed-loop ecosystem is named the **Genesis System**, developed and owned by **EarthStar Technologies** (for-profit entity).  
+- TerraWell FreeCare is **completely separate** from the Genesis System, TerraFab, farms, and any residential/commercial developments.  
+- Facilities are located exclusively on Genesis MSW-processing brownfield sites using standard Genesis ceramic tiles and kits.  
+- All services and distributed goods are **100% free** to recipients (no co-pays, means testing, or ID required).  
+- Funding comes solely from fair-market-value donations of qualifying tangible inventory from EarthStar Technologies; no public funds ever accepted.
+- Provide traing trough education modules and competency sets
 
-Key principles: Phased triggers prevent overreach; in-house production scales from 65–85% to 90–95%; cleanroom levels iterate from ISO 7–8 → ISO 5 (no below ISO 5 needed); data moat drives 20–60% yield gains.
+**Mandatory Design Principles**  
+1. Strict legal firewall: Independent board, separate facilities, no data/personnel sharing, arm's-length transactions.  
+2. Donations limited to **tangible goods only** (food, OTC medications, generic drugs where compliant, 3D-printed durable medical equipment such as wheelchairs/crutches/walkers/CPAP accessories).  
+3. No donation of services, "visit credits," or professional time.  
+4. Medical care (urgent/primary/mental health) provided by paid or volunteer licensed staff employed directly by the 501(c)(3), funded through charity's general operations (not tied to specific corporate donations).  
+5. Enhanced corporate tax deductions claimed only for qualifying inventory under §170(e)(3) (primarily food; partial for certain medical supplies used for care of the ill/needy).  
+6. All facilities feature smart airlocks with hyperspectral screening for basic health triage and security.
 
-## Phase 1 – Mini-Fab Construction (Mature-Node 65–130 nm)
+--
 
-**Trigger**: Late 2029 – Early 2030  
-- Sustained positive cash flow ≥6 months  
-- ≥8–15 operational hubs  
-- Stable road/C&D feedstock contracts  
+Make any changes that can increase viability of the entire project as defined in this chat session include all previous prompts in the analysis. Recalculate all costs, revenues and timelines based on data in this chat.
 
-**Construction Process (3–6 Months)**  
-- Site: Co-located with brownfield/hub (EPA grants offset remediation).  
-- Bootstrap: Lease tents (5,000–15,000 m²) → deploy 5–10 pods (recycled steel shells early).  
-- Cleanroom: Modular ISO 7–8 (HEPA filtration, $10–20M).  
-- Tools: Licensed DUV lithography ($50–100M royalties); in-house LCM 3D-printed fixtures (20–30%).  
-- Power/Water: Biogas microturbine + BIPV solar + batteries (2–5 days autonomy); AWG + digestate recovery.  
-- Automation: 50–70% lights-out (robotic handling + telepresence).  
+**Required Sections in Output Document**  
+1. Executive Summary with mission, scale goals (2050 targets), and net financial impact to EarthStar Technologies.  
+2. Legal & Tax Structure Description (text only – no diagrams).  
+3. Detailed Service Catalogue Table (all free services/goods; realistic FMV ranges based on 2025 benchmarks; note deduction eligibility).  
+4. Physical Assets Table (fixed centers and mobile units – specs, quantities by 2050, capex).  
+5. Rollout Timeline 2027–2075 (phased, realistic).  
+6. Mobile Unit Detailed Specifications and Disaster Response Protocols.  
+7. Political & Reputational Risk Mitigation Analysis.  
+8. Strict Integration Rules with Genesis System / EarthStar Technologies (explicit prohibitions).  
+9. Honest Feasibility & Compliance Assessment (highlight strengths, risks, required safeguards).
 
-**Initial Output & Financials**  
-- Capacity: 10K–100K units/year/hub (sensors/edge AI).  
-- Yields: 50–70% start → 80% target.  
-- CAPEX: $100–300M/hub (15–25% CHIPS Act offset).  
-- OPEX: $20–50M/year (50–80% reduction via automation).  
-- Revenue: $200–500M/hub/year (60–80% margins + trade-ins).  
-- Break-even: 18–30 months post-launch.
+**Tone & Style**  
+Professional, transparent, optimistic but grounded. Emphasize humanitarian impact while clearly stating legal/regulatory boundaries. Avoid overclaiming tax benefits or regulatory immunity.
 
-## Phase 2 – Scale & Optimization (2030–2032)
-
-**Milestones Achieved**  
-- Mini-Fab yields ≥80%  
-- Cumulative cash ≥$100M+  
-- Excess biogas/syngas available  
-
-**Expansion**  
-- Add 10–20 pods → 85–95% ceramic shells (in-house from tile pods).  
-- Cleanroom upgrade: ISO 6 in critical zones ($50–100M).  
-- In-House: 65–75% tools (plasma refining, RISC-V SoCs).  
-- Automation: 80–85% lights-out (AI skill transfer).  
-
-**Financials**  
-- Capacity: 50K–200K units/year/hub.  
-- CAPEX Addition: $200–500M.  
-- Revenue Uplift: +$300–700M/year.  
-- IRR Contribution: +10–15% network-wide.
-
-## Phase 3 – Advanced Fab Upgrade (7 nm → 3 nm, Pod-Cluster Model)
-
-**Trigger**: 2032–2035  
-- All prior milestones stable  
-- Cumulative cash ≥$200M+  
-- Proven execution track record  
-
-**Construction Process (9–18 Months per Phase)**  
-- **7 nm Pilot (2032–2033)**: Add 10–20 specialized pods (EUV/ALD); ISO 5 critical zones ($2–4M upgrade).  
-- **3 nm Scale-Up (2033–2035)**: 50–100 pod cluster; full ISO 5 cleanrooms ($3–8M).  
-- In-House: 80–90% (LCM ceramics, plasma for advanced materials).  
-- Automation: 90–95% lights-out (predictive AI maintenance).  
-- Power/Resilience: Biogas/solar + waste heat; ceramic shells (munitions 8–9/10).  
-
-**Financials (Recalculated)**  
-- Total CAPEX (Advanced Cluster): $3–8B (phased; 25% ITC via CHIPS Act).  
-- Network-Wide CAPEX (2032–2035): $15–30B cumulative.  
-- OPEX: $2–5B/year (50–80% offset via regeneration).  
-- Capacity: 500–3,000 wafers/month (niche AI chips).  
-- Revenue: $500M–$1B+/hub/year (specialty premiums).  
-- Break-even: 18–30 months per phase.  
-- IRR/NPV Impact: +5–10% (network IRR 43–65%; NPV $150–350B+ at 7% discount).  
-
-**Cleanroom Iteration (No Below ISO 5)**  
-- Start: ISO 7–8 (Mini-Fab).  
-- Upgrade: ISO 6 → ISO 5 in critical zones (6–12 months, $50–100M/pod-cluster).  
-- Why No ISO 4 or Below? Marginal yield gain (1–3%) vs. 6–30× cost/energy penalty. Data moat + AI more effective for 20–60% yield improvements.
-
-## Overall Viability & Strategic Notes
-
-- **Advantages**: Modular pods enable low-risk scaling, extreme resilience (mobile, munitions-resistant), and regenerative closure (95–99%).  
-- **Risks Mitigated**: Strict triggers prevent premature complexity; CHIPS/IRA grants offset 15–25%; data moat accelerates yields.  
-- **Feasibility**: 8.5/10 (niche focus avoids traditional fab pitfalls).  
-- **Long-Term**: Sovereign chips power Network AI/robotics/digital twins; revenues compound to $5–20B/year network-wide post-upgrade.
-
-This plan ensures a practical, self-funded path from Mini-Fabs to advanced capabilities while preserving the Network's core regenerative vision.
+**Output Format**  
+Raw Markdown suitable for direct copy-paste into GitHub Pages (Jekyll minimal theme). Include page frontmatter with title, description, and license. End with CC-BY-4.0 footer and © 2025 EarthStar Technologies.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2026 EarthStar Technologies conceptual working group (attribution appreciated).
+*Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). EarthStar Technologies © 2025*
