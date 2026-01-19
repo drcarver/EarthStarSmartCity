@@ -25,7 +25,7 @@ The **Structural Load-Bearing Tile** is a core modular component of the Genesis 
 - **Integrated Features**:  
   - **Solar Tie-In**: Embedded BIPV elements (5–15 Wp/ft²) connect directly to DC-dominant smart grid; surplus exports bidirectional via smart pipes; AI-optimized for load balancing (IEEE 2030 compliance).  
   - **AWG System**: Outdoor/indoor humidity capture (2–5 liters/day/ft² in humid climates); water first fills internal bladders (embedded polymer/resin, 1–5 gallons/ft² capacity for radiation shielding/thermal mass) before overflowing to central potable/greywater systems; enhances 95–99% closure.  
-- **Standards Compliance**: ASTM C216/C1405 (structural), EN 14411 (tiles), ISO 14001 (environmental), ISO/TC 268 (smart cities), MIL-STD-810 (ruggedness); sustainable codes via waste-derived composition.  
+- **Standards Compliance**: [ASTM C216/C1405 (structura)l](ASTMC216.md), EN 14411 (tiles), ISO 14001 (environmental), ISO/TC 268 (smart cities), MIL-STD-810 (ruggedness); sustainable codes via waste-derived composition.  
 - **Security Integration**: Compatible with smart airlocks (mmWave scanning for weapons/explosives; AI alerts).  
 
 ## 3. Sensors Table (Separate Modular Section)
