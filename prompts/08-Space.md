@@ -1,1 +1,1 @@
-At some point earth-based expansion stalls.  We should look at going to luna and mars.  with lunar factories with mass drivers
+At some point earth-based expansion stalls.  We should look at going to luna and mars.  with lunar factories with mass drivers.  expand ro asteroid mininf onrill vylsnders von nueman probes using our replication trchniques
