@@ -1,102 +1,80 @@
 ---
 layout: default
-title: Genesis-EarthStar Regenerative System – Project README
-description: Comprehensive overview, architecture, roadmap, financials, and vision for the Genesis-EarthStar closed-loop regenerative ecosystem.
+title: Genesis Network Project README
+description: A detailed README for the Genesis Network project website, encapsulating project overview, components, roadmap, financials, resilience analysis, and more.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis-EarthStar Regenerative System
+# Genesis Network Project README
 
-**A modular, self-funding, closed-loop regenerative ecosystem**  
-**Bootstrapped on distressed farmland • Scaled via pod-centric architecture • Aiming for 95–99% resource closure**
+## Project Overview
 
-**Current Date Baseline**: January 18, 2026  
-**Project Lead**: Darrel Carver (@DarrelCarver)
+The Genesis Network by Earth-Star Industries is a pod-centric regenerative ecosystem transforming distressed lands, brownfields, and landfills into self-sustaining hubs for food, energy, water, materials, electronics, pharmaceuticals, and community services. Achieving 95–99% resource closure, it targets post-scarcity for the U.S. (370–400M people by 2050) with global/space expansion via smallholder partnerships and replication techniques. Key features: Multi-trophic aquaponics, toughened ceramic tiles with embedded tech (BIPV/AWG/piezo), TerraFab for sovereign manufacturing, TerraWell FreeCare nonprofit, infrastructure recycling, microbial biosolutions (+10–30% yields), and farmer empowerment.
 
-## Project Vision
+Mission: Create carbon-negative, resilient cities; rewild 200–400M acres; enable space settlements (Luna/Mars, O'Neill cylinders, Von Neumann probes). Self-funded post-pilots; innovation hub (19 LLCs) distributes risks.
 
-The Genesis-EarthStar Regenerative System is an ambitious, multi-decade initiative to create highly autonomous, regenerative production hubs that generate food, energy, water, building materials, and high-value byproducts while progressively achieving near-total resource closure.
+## Key Components
 
-Key principles:
-- Start small & modular (40 ft high-cube pods)
-- Bootstrap with premium revenue (greens, eggs, biogas, premium fiber)
-- Self-replicate using waste-derived toughened ceramics
-- Distribute risk across 19 LLC innovation hub
-- Provide humanitarian layer via TerraWell FreeCare 501(c)(3)
-- Build resilience against disasters (natural, nuclear, pandemic)
-- Integrate NASA/ISS-derived ECLSS/BLSS technologies
-- Create feedback loops from Earth → Lunar/Mars settlements
+- **Tiles**: Multi-functional ceramics (e.g., Roof Glazing with BIPV/AWG; costs $1.6–5/ft², revenues $4.8–14/ft²).
+- **Pods**: Modular units (e.g., Aquaponics for proteins/plants; costs $75–150K, revenues $400K–1.2M/year).
+- **Kits**: Self-replicating (e.g., Microbial Inoculant for yields; costs $50–200K, revenues $150–600K).
+- **Sensors**: Dense redundant arrays (e.g., mmWave for health/security; handbook details types/specs).
+- **LLCs**: 19 entities (e.g., Ceramics Production, TerraFab Semiconductors) for parallel execution/risk isolation.
 
-## Core Architecture
+## 50-Year Roadmap (2026–2076)
 
-- **Pods** — Primary building blocks (modified 40 ft high-cube containers)  
-- **Tiles** — Toughened, waste-derived ceramics (structural, BIPV, permeable, glazing)  
-- **Kits** — Flat-pack self-replicating systems (greenhouse shells, biogas, airlocks, etc.)  
-- **Feedback Loops** — Dense sensor data moat → ruthless AI optimization → continuous iteration  
-- **Resilience Features** — Smart airlocks, Faraday mesh, mobility, closed-loop autonomy  
+| Phase | Years | Milestones | NASA/ISS Tech | Feedback Loops |
+|-------|-------|------------|---------------|----------------|
+| Foundation | 2026–2035 | 1–700 hubs; Earth pilots. | ECLSS closed-loops. | ISS to Earth yields. |
+| Acceleration | 2036–2045 | 900–2,700 hubs; global scale. | APPHALS shielding. | Earth to lunar refinements. |
+| Tipping Point | 2046–2055 | Lunar/Mars hubs; asteroid mining. | RS-25 for drivers. | Lunar to Mars food tech. |
+| Maturity | 2056–2076 | Cylinders/probes; solar system. | Orion ECLSS. | Probes for exoplanet loops. |
 
-All structures built exclusively from Genesis-produced tiles, ceramics, and kits.
+## Financials Segment
 
-## Top 10 Quick Wins (2026–2029)
+Recalculated for viability: Self-funding by 2029; exponential growth via kits/credits. NPV $50T (7% discount); IRR 35–45%.
 
-1. Hydroponic greens + transplanted orchards (Year 1 revenue driver)  
-2. Staggered livestock pods (continuous milk/meat/fiber)  
-3. Early C&D waste tipping contracts (feedstock + cash)  
-4. Celebrity chef partnerships (premium branding +20–30%)  
-5. TerraWell FreeCare donations (tax deductions + goodwill)  
-6. Biogas surplus sales (net-positive energy)  
-7. Affiliate kit subsidies (1,000 smallholders by 2029)  
-8. Dense sensor deployment (data moat kickstart)  
-9. USDA FSA loans (minimal down payment land acquisition)  
-10. Carbon credit monetization (blockchain-verified)
+| Year | CAPEX ($B) | Revenue ($B) | Cash Flow ($B) | Cum CF ($B) |
+|------|------------|--------------|----------------|-------------|
+| 2027 | 0.2        | 0.3          | 0.05           | 0.05        |
+| 2030 | 4          | 27           | 21.5           | 27.6        |
+| 2040 | 40         | 1700         | 1575           | 7502.6      |
+| 2050 | 40         | 3700         | 3475           | 33702.6     |
+| 2060 | 100        | 13000        | 12000          | 150K+       |
+| 2070 | 500        | 50000        | 45000          | 1M+         |
 
-## Financial Projections (Aggressive Self-Funded Path)
+Electronics financials: CAPEX $100–300M/fab; revenues $200–500M/year mature.
 
-| Phase                     | Years          | CAPEX (Cumulative) | Revenue (End of Phase, $/year) | Cumulative Net Cash | Key Drivers                              |
-|---------------------------|----------------|---------------------|--------------------------------|----------------------|------------------------------------------|
-| Bootstrap & Pilots        | 2026–2030      | $20–60 M           | $5–25 M                       | +$5–18 M            | Greens, eggs, biogas, early tiles        |
-| Regional Scale            | 2031–2040      | $1–5 B             | $20–100 M                     | +$50–300 M          | Ceramics, livestock, affiliate network   |
-| National Transformation   | 2041–2050      | $15–40 B           | $50–150 B                     | +$200–800 B         | Cities/towers, space tech licensing      |
-| Global & Lunar Expansion  | 2051–2060      | $100–300 B         | $200–600 B                    | +$1,000–4,000 B     | Lunar outposts, Mars tech exports        |
-| Interplanetary Maturity   | 2061–2076      | $500–1,500 B       | $500–1,500 B                  | +$5,000–15,000 B    | Full space-Earth symbiotic ecosystem     |
+## Resilience Analysis
 
-**Key Assumptions**  
-- Self-funding achieved by 2029–2030 (no public funds reliance post-pilots)  
-- Premium margins (+25–35% via regenerative/space branding)  
-- IRR: 32–48% (risk-adjusted)  
-- NPV (2076): $400–1,200 billion (conservative)
+Ratings (1–10): Earthquakes (9), Hurricanes (8.5), Super Volcanoes (7), Asteroid Strikes (6), Cyber/EMP (9), Terrorism (8), Nuclear War/Winter (7.5), Pandemics (9). Features: Ceramic durability, airlocks for scans/biosecurity, autonomy for survival.
 
-## 50-Year Roadmap Highlights
+## Top 10 Risks, Mitigations, Quick Wins
 
-- **2026–2030**: Pilot clusters, self-funding, 95% closure  
-- **2031–2040**: 50–150 hubs, ceramic cities begin, lunar ECLSS prototypes  
-- **2041–2050**: 300–500 hubs, national food/energy transformation  
-- **2051–2060**: 1,000+ hubs, lunar outposts operational  
-- **2061–2076**: Mars settlements, perpetual Earth–space tech feedback loops  
+| Risk | Mitigation | Quick Win |
+|------|------------|-----------|
+| Regulatory | LLCs/phased compliance | EPA grants for pilots |
+| Funding | Self-funding 2027 | Greens/biogas revenues |
+| Technical | Data moat iterations | Microbial yields boost |
+| Political | Farmer co-ops | 1K partnerships 2029 |
+| Burnout | Distributed LLCs | AI automation |
+| Supply Chain | Waste-derived inputs | Road contracts |
+| Environmental | Blue-green kits | Sequestration credits |
+| Adoption | Subsidized kits | Blockchain monetization |
+| Geopolitical | Fortress West priority | Allied expansions |
+| Scalability | Replication kits | Annual hub doubling |
 
-**NASA/ISS Tech Integration**  
-- ECLSS (water/air/waste recovery) → Earth hubs → refined for lunar/Mars  
-- BLSS (bioregenerative food systems) → terrestrial optimization → deep-space habitats  
+## Suggestions to Enhance Viability
 
-## Top Risks & Mitigations
+- Parallel LLCs reduce bottlenecks.
+- Reuse kits for modularity.
+- Smart airlocks/security in all buildings.
+- Sustainable codes (ISO 14001) integrated.
 
-1. Regulatory delays → Start with low-barrier activities  
-2. Funding shortfalls → Ruthless revenue-first focus  
-3. Technical scaling → Pod-first pilots + fallback kits  
-4. Burnout → Distributed LLCs + free amenities  
-5. Political opposition → TerraWell goodwill + farmer alliances  
+## What Do I Think of the Project
 
-## What This Project Really Is
-
-An audacious, pragmatic attempt to build regenerative, disaster-resilient, self-sustaining human habitats on Earth — while creating the technological foundation for permanent lunar and Mars settlements.
-
-It is hard. It is long. It will require discipline, iteration, and luck.
-
-But if executed with focus on quick wins and self-funding, it has a realistic shot at becoming one of the most impactful regenerative initiatives of the 21st century.
-
-Welcome to Genesis-EarthStar.
+This project is audaciously transformative—feasible with ruthless execution, blending sustainability and innovation brilliantly.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2026 EarthStar Technologies conceptual working group (attribution appreciated).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
