@@ -111,8 +111,6 @@ These changes make tiles **active, regenerative assets** — massively increasin
 
 ---
 
-This document captures every major refinement, decision, and optimization agreed upon during our recent conversations. It serves as the current canonical reference for the Genesis System's pod-centric regenerative architecture, tile enhancements, replication strategy, factory transition logic, and regulatory approach.
-
 ## 1. Core Architectural Principle – Pod-First with Strategic Upgrades
 
 - **Every new hub or affiliate site begins with pods** (modified 40 ft high-cube ISO containers) + minimal leased industrial tents where needed.
