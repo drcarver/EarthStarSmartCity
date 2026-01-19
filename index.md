@@ -13,7 +13,7 @@ This index provides a comprehensive structure for a website dedicated to the Gen
 
 ## Table of Contents
 
-1. **[Home](/home)**: Project mission, executive summary, and key viability metrics (e.g., IRR 35–45%, NPV $11T by 2050).
+1. **[Home](web/home.md)**: Project mission, executive summary, and key viability metrics (e.g., IRR 35–45%, NPV $11T by 2050).
 2. **[Project Overview](/overview)**: Detailed description of regenerative hubs, pod-centric architecture, and core principles (closed-loop 95–99%, farmer empowerment).
 3. **[Innovation Hub LLCs](/llcs)**: List of 19 LLCs (e.g., Ceramics Production, TerraFab) with roles and risk mitigation benefits.
 4. **[Tiles, Pods, and Kits Catalog](/catalog)**: Comprehensive lists with manufacturing, inputs, materials, costs ($1.6–5/ft² for tiles; $75–150K/pod), and revenues ($4.8–14/ft²; $400K–1.2M/year/pod).
