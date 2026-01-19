@@ -68,7 +68,48 @@ All Genesis toughened ceramic tiles (structural, cladding, permeable, roofing) a
 - **Cost offset**: Self-powering sensors/AWG reduces wiring/maintenance; surplus power/water feeds grid/recovery loops
 - **Scalability**: Starts in pods (high-traffic interiors first), extends to roads/foundations as tile production matures
 
-This consolidated tile specification transforms Genesis surfaces from passive structure into **active, intelligent, regenerative assets** — maximizing energy/water independence, resilience, cultural resonance, and data-driven optimization across the entire network.
+## Executive Summary of Changes
+
+All tiles now integrate **active features** where strategically viable:  
+- **AWG** (Atmospheric Water Generation) embedded in surfaces for condensate capture  
+- **Solar** (semi-transparent BIPV on roofs/cladding; supplementary on verticals)  
+- **Piezoelectric** vibration harvesting (especially load-bearing & roads)  
+- **Embedded sensors** (strain, thermal, humidity, etc.) with 3–5× redundancy  
+- **Phased rollout** protects early cash flow: roof glazing & cladding first, load-bearing gets piezo + sensors only initially  
+
+**Manufacturing**: 70–95% waste-derived (C&D slag, RHA silica, residues, ELFM); toughened ceramics (60–100+ MPa compressive); produced in tent → permanent factories.  
+**Financial Impact**: +15–35% premium pricing; production cost +20–40% on enhanced tiles; network revenue uplift $2–8B/year by 2035.
+
+## Consolidated Tiles Table (Updated)
+
+| Tile Type                  | Primary Applications                   | Key Active Features (Post-Changes)                          | Input Sources                  | Materials & Composition                  | Production Cost ($/ft²) | Selling Price ($/ft²) | Phase Rollout Priority | Notes & Rationale |
+|----------------------------|----------------------------------------|-------------------------------------------------------------|--------------------------------|------------------------------------------|--------------------------|------------------------|--------------------------|-------------------|
+| **Roof Glazing (Semi-Trans)** | Greenhouse roofs, housing/community roofs | Semi-transparent BIPV (10–30% transmittance) + full AWG condensers + thermal/humidity sensors | RHA silica (80%), farm residues | Glass-ceramic + thin-film PV + micro-condensers | 2.8–5.0                 | 8.5–14.0              | Phase 1 (2027–2028)     | Highest ROI: daylight + power + water; primary for growing pods |
+| **Exterior Cladding**      | Vertical facades, pod shells           | Supplementary BIPV (8–15% opaque / 15–22% semi-trans) + AWG (humidity capture) + strain/vibration sensors | C&D slag (60%), residues       | Ceramic composite + PV layers + AWG channels | 2.5–4.5                 | 7.5–12.5              | Phase 2 (2029–2031)     | Significant power/water; cultural patterns possible |
+| **Structural Load-Bearing**| Foundations, walls, floors, heavy roads | Piezoelectric vibration harvesting (20–60 elements/m²) + strain/vibration/thermal sensors; **no AWG/PV** (cost/weight) | ELFM slag (70%), brownfield    | Toughened ceramic + PZT layers + conduits | 1.8–3.2                 | 5.5–8.5               | Phase 1 (basic) → Phase 3 (sensors) | Core strength; piezo powers local sensors; avoids early cost spike |
+| **Insulating**             | Thermal mass walls, partitions         | Indoor AWG (humidity recapture) + micro-piezo (occupancy motion) + thermal sensors | Bagasse pore-formers, residues | Aerated ceramic + internal channels      | 1.7–3.0                 | 5.0–8.5               | Phase 2                 | Passive climate + indoor water loop |
+| **Permeable (Roads/Paths)**| Internal roads, drainage               | Piezoelectric (traffic) + stormwater capture + acoustic/strain sensors | C&D slag (75%)                 | Porous ceramic + piezo embeds            | 2.2–3.8                 | 6.5–10.5              | Phase 1                 | Self-powering; drainage + security |
+| **Foundation/Base**        | Under pods/structures                  | Piezoelectric (structural vibration) + strain/pressure sensors | Brownfield slag (65%)          | Dense ceramic + embeds                   | 1.6–2.7                 | 4.8–7.8               | Phase 1                 | Stability + predictive monitoring |
+
+## Phased Rollout Strategy (Cash-Flow Protected)
+
+| Phase                     | Years          | Tiles Enhanced                                      | Rationale & Financial Protection Strategy                                      |
+|---------------------------|----------------|-----------------------------------------------------|--------------------------------------------------------------------------------|
+| Phase 1 – Bootstrap       | 2027–2028      | Roof Glazing (full AWG + BIPV) + Load-Bearing (piezo + basic sensors) | Highest-margin applications first (greenhouses/housing); protects early cash |
+| Phase 2 – Early Scale     | 2029–2031      | Exterior Cladding (AWG + supplementary BIPV) + Insulating (indoor AWG) | Proven revenue from Phase 1 funds added complexity; premium pricing ramps    |
+| Phase 3 – Mature Network  | 2032+          | Full integration across all types + advanced sensors | Factory scale + data moat validation; +30–50% margin on “Active Resilience” tier |
+
+## Financial Projections (Post-Changes)
+
+- **Early Cost Increase**: +20–40% on enhanced tiles (AWG/BIPV layers); offset by 15–25% reuse (recycled containers, shared pipes).  
+- **Revenue Uplift**: Premium “Active Tiles” +15–35% ($1–3/ft² extra); affiliate sales + carbon/water credits add $50–200M/year by 2035.  
+- **Pilot Cluster (2027–2029)**: CAPEX $2.5–6M (tent factory + enhancements); revenue $5–15M/year (tiles + water/power sales); net +$1.5–6M cumulative.  
+- **Network Scale (2035+)**: Tiles revenue $12–35B/year (40–50% of total); margins 65–82% (automation + premiums).  
+- **Self-Funding Timeline**: Still Month 8–12 (greens/orchards/biogas lead); tile enhancements accelerate to full self-funding by 2029–2030.
+
+These changes make tiles **active, regenerative assets** — massively increasing resilience, autonomy, and market differentiation while preserving rapid cash flow.
+
+---
 
 ## Core Principles
 
