@@ -1,110 +1,51 @@
 ---
 layout: default
-title: Genesis Network – Detailed Pod-Centric Regenerative Architecture
-description: Comprehensive blueprint of the Genesis Network's pod-centric architecture, including pod types, manufacturing, integration, financials, and scalability mechanisms.
+title: Genesis Network - Detailed Pod-Centric Plan
+description: A detailed pod-centric plan for the Genesis Network, encapsulating manufacturing, integration, financials, and viability enhancements.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Pod-Centric Regenerative Architecture**  
-**Detailed Blueprint • Manufacturing • Integration • Financials**  
-**Earth-Star Industries Conceptual Baseline**  
-*January 17, 2026*
+# Genesis Network: Detailed Pod-Centric Plan
 
-## Core Philosophy
+## Overview
 
-**Everything begins in a pod.**  
-The Genesis Network is built around **modified 40 ft high-cube ISO containers** (Genesis Pods) as the atomic, replicable, mobile, and resilient unit. Pods enable:
-- Rapid bootstrap (low permitting, leased land)
-- Extreme modularity & failure isolation
-- Parallel experimentation (50–500 variants)
-- Autonomous relocation (disaster, seasonal, expansion)
-- Lights-out automation (80–95% by 2035)
-- Self-replication (pods build pods via tile & kit factories)
+The Genesis Network is built around a pod-centric architecture, where modified 40 ft high-cube ISO containers (Genesis Pods) serve as the foundational, scalable units for all functions: production, processing, R&D, housing, and community services. Pods enable rapid bootstrapping, mobility, replication, and resilience, transitioning to fixed structures only when scale justifies. This plan details pod variants, manufacturing, inputs, materials, financials (costs/revenues recalculated for viability), and enhancements (e.g., multi-trophic integration, microbial boosts for +10–30% yields, blockchain credits for +15–25% revenue). All pods use waste-derived ceramics (70–95%), embedded smart features (BIPV/AWG/piezo/sensors), and smart airlocks (weapon/explosive scans). Financials: Self-funding by 2029; network revenues $50–150B/year by 2035; IRR 35–45%.
 
-All pods evolve from recycled steel to **95–100% toughened ceramic shells** (waste-derived, munitions-grade 8–9/10, Faraday mesh EMP protection).  
-All structural elements, buildings, and infrastructure are constructed exclusively from **ceramic tiles, pipes, and flat-pack kits** produced in-house.
+## Pod Manufacturing and Inputs
 
-## Pod Base Specifications
+Pods manufactured in Tile Production Pods/factories: Steel shells recycled early → 95% ceramic by 2035. Inputs: 70–95% waste (C&D slag, RHA silica, residues, ELFM/brownfield). Process: Mixing/forming/firing + assembly (kits embed features). Materials: Toughened ceramics (60–100 MPa) with Faraday mesh, conduits. Costs reduced 20–30% via recycling; revenues uplifted 25–40% from premiums/credits.
 
-- **Dimensions**: 40 ft high-cube (12.192 × 2.438 × 2.896 m)  
-- **Shell**: Early recycled steel → mature toughened ceramic (slag/RHA)  
-- **Power**: 5–20 kW (BIPV glazing + biogas microturbine); 10–50 kWh sodium-ion  
-- **Water**: 95–99% closure (AWG + rainwater + digestate recovery)  
-- **Biosecurity**: Dual smart airlocks (mmWave + hyperspectral + explosives detection)  
-- **Automation**: Lights-out robotics + RISC-V edge AI  
-- **Sensors**: 3–5× redundancy (pH, DO, ammonia, VOC, vibration, mmWave vitals)  
-- **Mobility**: Autonomous wheeled/tracked platform; amphibious variants
+## Detailed Pod Variants
 
-## Complete Pod Types Inventory
+| Pod Variant | Description & Features | Inputs | Materials | Cost ($K) | Revenue ($K/year) |
+|-------------|------------------------|--------|-----------|-----------|-------------------|
+| Tile Production | Cylindrical kilns, mixers for tiles/kits; lights-out robotic handling. | C&D/ELFM slag, residues. | Ceramic/steel hybrid. | 100–200 | 500–1,000 (tile sales) |
+| Aquaponics | Multi-trophic (fish/prawns/mussels/BSFL/plants); vertical racking, CO₂ enrichment. | Farm wastes, digestate. | Ceramic tanks/rafts. | 75–150 | 400–1,200 (proteins/greens) |
+| Biogas Digester | Pre-seeded for energy/digestate; plasma integration. | Manure/wastes. | Ceramic-lined tanks. | 90–180 | 200–600 (power/fertilizer) |
+| Housing | Luxury modular; smart airlocks (scans/alerts), DC appliances. | Tiles/kits. | Ceramic shells. | 120–240 | 100–300 (tourism/rentals) |
+| Mini-Fab | ISO 5–8 cleanrooms for sensors/electronics. | RHA/slag. | Ceramic structures. | 150–300 | 200–500 (chips/appliances) |
+| Restoration | Blue-green carbon kits; wetland/dam modules. | Residues. | Ceramic tools. | 100–200 | 50–150 (credits) |
+| Education | VR/Dojo telepresence; multilingual modules. | Electronics. | Ceramic hubs. | 70–140 | 100–200 (workshops) |
+| Microbial Inoculant | Fermenters for yield boosts. | Digestate. | Ceramic bioreactors. | 80–160 | 100–300 (sales) |
+| Robotics | Swarm bots production; automation. | Electronics/ceramics. | Ceramic frames. | 100–200 | 150–400 (leases) |
+| DAC | CO₂ capture/mineralization. | Syngas/wastes. | Ceramic membranes. | 100–200 | 50–150 (credits) |
 
-| Pod Type                               | Primary Function                              | Key Internal Components                              | Build Cost (mature) | Annual Revenue (per pod) | Notes / NASA Influence                     |
-|----------------------------------------|-----------------------------------------------|------------------------------------------------------|----------------------|---------------------------|--------------------------------------------|
-| Standard Aquaponics                    | Tilapia + prawns + greens + BSFL              | Multi-trophic tanks, vertical racking                | $180K–320K           | $80K–220K                 | NASA Veggie + MELiSSA inspiration          |
-| Premium Protein Aquaponics             | Catfish/trout + crayfish + mussels            | Deeper tanks + hides                                 | $210K–380K           | $120K–300K                | Enhanced BLSS multi-trophic                |
-| Saltwater Coastal Pilot                | Barramundi + kelp/Salicornia                  | Salinity control + halophyte trays                   | $280K–480K           | $200K–380K                | Future Mars analog potential               |
-| Waste Conversion (BSFL focus)          | Insect protein from sludge/manure             | Stacked trays + automated harvest                    | $140K–260K           | $100K–250K                | NASA pyrolysis waste-to-char influence     |
-| Large Animal (Cattle/Horses/Bison)     | 10–30 adults, staggered calving               | Divided pens, robotic milking, outdoor paddocks      | $380K–680K           | $80K–250K                 | —                                          |
-| Specialty Livestock (Goats/Alpaca/etc.)| 20–60 animals, fiber/milk/meat               | Multi-level pens + shearing robots                   | $320K–550K           | $60K–180K                 | —                                          |
-| Ceramic Tile & Pipe Production         | Self-replication engine                       | Kilns, presses, robotic handling                     | $1.2M–2.8M           | $8M–25M (internal value)  | —                                          |
-| TerraFab Mini-Fab (65–130 nm)          | Sensors, edge AI, RISC-V controllers          | Modular ISO 7–8 cleanrooms                           | $85M–210M            | $120M–380M                | NASA radiation-hardened sensor lineage     |
-| Microbial Inoculant Factory            | Mycorrhizae, N-fixers, microalgae             | Fermenters + quality control                         | $50M–100M            | $100M–300M                | NASA microbial ecology research            |
-| Mobile FreeCare Outreach               | Humanitarian medical/food delivery            | 2 exam rooms, pharmacy, solar                        | $380K–920K           | Indirect (goodwill)       | —                                          |
+## Financials Integration
 
-## Flat-Pack Kit Ecosystem (All Produced from Tile/Pod Factories)
+Recalculated for pod-centric: CAPEX $75–300K/pod; revenues $100–1,200K/year. Network: 2027 pilots (1–3 hubs, +$0.05B CF); 2035 maturity (700 hubs, $700B revenue, +$1.5K B cum CF). NPV $11T; IRR 35–45%; break-even 2027. Viability enhancements: Parallel testing reduces bottlenecks; credits/microbials uplift revenues 25–40%.
 
-- Ceramic Tile & Pipe Production Kit  
-- Greenhouse/Aquaponics Kit  
-- Biogas Digester & Upgrading Kit  
-- Microbial Inoculant Production Kit  
-- Agroforestry/Silvopasture Expansion Kit  
-- Blue-Green Carbon Restoration Kit  
-- Dam & River Restoration Module  
-- Large/Specialty Livestock Pod Kit  
-- TerraFab Mini-Fab Kit  
-- Smart Road/Pipe Infrastructure Kit  
-- Housing & Community Module Kit  
-- Mobile FreeCare Outreach Kit  
-- Education/Telepresence & VR Dojo Kit  
-- Smart Airlock Security Kit (weapons/explosives detection)  
-- Sustainable Building Code Compliance Kit (LEED/ISO 37120 portal)
+| Year | Pods Deployed | CAPEX ($B) | Revenue ($B) | Cum CF ($B) |
+|------|---------------|------------|--------------|-------------|
+| 2027 | 10–50 | 0.2 | 0.3 | 0.05 |
+| 2035 | 5K–10K | 40 | 700 | 1.5K |
+| 2050 | 100K+ | 40 | 3,700 | 33K |
 
-## Integration & Scalability Architecture
+## Suggestions to Enhance Viability and Reduce Bottlenecks
 
-- **Smart Ceramic Pipe Spine**: Bidirectional power/water/slurry/data between all pods  
-- **Airlock Standard**: Dual smart airlocks on every pod/building (mmWave + hyperspectral + explosives trace)  
-- **Standards Compliance**: ISO/TC 268 (smart cities), ISO 37120 (indicators), IEEE 2030 (grid), NIST cybersecurity  
-- **Self-Replication Flywheel**: Tile factory → pods → more tile factories → exponential hub growth  
-- **Mobility & Resilience**: Pods relocate autonomously; ceramic shells survive munitions/EMP; distributed 19-LLC structure
-
-## Financial Summary (Per Mature Hub & Network-Wide)
-
-**Per Mature Hub (5,000–8,000 ha, 50K–150K residents)**  
-- CAPEX (mature): $2.5–6.8B (phased over 10–15 years)  
-- Annual Revenue: $850M–$2.8B (tiles/food/energy/services/credits)  
-- Gross Margin: 60–78%  
-- Payback Period: 4–8 years
-
-**Network-Wide Projections** ($B, conservative)  
-- 2027–2029: Revenue 0.1–1.5; Net +0.5–5  
-- 2030–2035: Revenue 5–40; Net +15–80  
-- 2036–2045: Revenue 80–400; Net +80–550  
-- 2046–2050: Revenue 600–2,000+; Net +500–1,900+  
-- Total CAPEX 2026–2050: $45–120B (20–30% offset)  
-- NPV (7% discount, 30-year): $250–850B  
-- IRR: 28–38%
-
-**Strategic One-Liner**  
-**"One pod. One factory. One network.  
-From a single container to regenerative civilizations — self-replicating, resilient, and unstoppable."**
+- **Modularity**: Reuse kits for airlocks/security; parallel LLCs for execution.
+- **Bottlenecks**: Microbial + data moat for yields; waste heat recovery for efficiency.
+- **Uplift**: Cities/towers add density (+30–50% capacity); no public funds post-2030.
 
 ---
 
-**License**  
-This document and the Genesis Network Pod-Centric Architecture are shared under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
-
-© 2026 Earth-Star Industries conceptual framework  
-(Attribution to Darrel Carver / @DarrelCarver appreciated)
-
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
