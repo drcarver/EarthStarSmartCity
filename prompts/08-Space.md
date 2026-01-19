@@ -1,1 +1,1 @@
-At some point earth based epansion dtslld.  We shoulg likr at going to luns snd matse.  poddibl lonar factoties with mass droverts
+At some point earth-based expansion stalls.  We should look at going to luna and mars.  with lunar factories with mass drivers
