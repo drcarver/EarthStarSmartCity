@@ -94,6 +94,8 @@ Recalculated timelines: With full pre-supply (pods, greenhouses, livestock, proc
 
 This prompt fully captures and implements every rapid-hub creation strategy discussed: mature/staging hubs + commercial greenhouse nodes + comprehensive pre-supply (including all additional pod types for staging and new automated processing pods) + interconnects/stacking + site/affiliate adaptations.
 
+
+recompute all timelines and costs, affilites can produce pods when able and expand farms by purchasimg more and dyfferent starter pods  `
 ---
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
