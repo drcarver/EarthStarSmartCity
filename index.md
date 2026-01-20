@@ -14,15 +14,15 @@ This index provides a comprehensive structure for a website dedicated to the Gen
 ## Table of Contents
 
 1. **[Home](web/home.md)**: Project mission, executive summary, and key viability metrics (e.g., IRR 35–45%, NPV $11T by 2050).
-2. **[Project Overview](/overview)**: Detailed description of regenerative hubs, pod-centric architecture, and core principles (closed-loop 95–99%, farmer empowerment).
-3. **[Innovation Hub LLCs](/llcs)**: List of 19 LLCs (e.g., Ceramics Production, TerraFab) with roles and risk mitigation benefits.
-4. **[Tiles, Pods, and Kits Catalog](/catalog)**: Comprehensive lists with manufacturing, inputs, materials, costs ($1.6–5/ft² for tiles; $75–150K/pod), and revenues ($4.8–14/ft²; $400K–1.2M/year/pod).
-5. **[Sensor Handbook](/sensors)**: Detailed guide to sensor types, applications, specs, and costs ($30–300/unit), with redundancy and AI integration.
-6. **[Resilience Analysis](/resilience)**: Evaluation of disaster resilience (natural/man-made, nuclear/pandemic; ratings 6–9/10).
-7. **[50-Year Roadmap](/roadmap)**: Phased timeline (2026–2076) with NASA/ISS tech integrations, feedback loops, and financials (cumulative cash flow +$1M+ by 2076).
-8. **[Feasibility Analyses](/feasibility)**: Aggressive assessments (overall 8.5/10), top 10 risks/mitigations/quick wins, and space expansion viability.
-9. **[Expansion Plans](/expansion)**: Western Hemisphere ("Fortress West"), global rollout, and space pivot (Luna/Mars/asteroids/cylinders/probes) with LLC estimates by region/country.
-10. **[Financial Summaries](/financials)**: Encapsulated markdown segments below, including recalculated costs, revenues, timelines, NPV, IRR, and break-even.
+2. **[Project Overview](web/overview.md)**: Detailed description of regenerative hubs, pod-centric architecture, and core principles (closed-loop 95–99%, farmer empowerment).
+3. **[Innovation Hub LLCs](web/llcs.md)**: List of 19 LLCs (e.g., Ceramics Production, TerraFab) with roles and risk mitigation benefits.
+4. **[Tiles, Pods, and Kits Catalog](web/catalog.md)**: Comprehensive lists with manufacturing, inputs, materials, costs ($1.6–5/ft² for tiles; $75–150K/pod), and revenues ($4.8–14/ft²; $400K–1.2M/year/pod).
+5. **[Sensor Handbook](web/sensors.md)**: Detailed guide to sensor types, applications, specs, and costs ($30–300/unit), with redundancy and AI integration.
+6. **[Resilience Analysis](web/resilience.md)**: Evaluation of disaster resilience (natural/man-made, nuclear/pandemic; ratings 6–9/10).
+7. **[50-Year Roadmap](web/roadmap.md)**: Phased timeline (2026–2076) with NASA/ISS tech integrations, feedback loops, and financials (cumulative cash flow +$1M+ by 2076).
+8. **[Feasibility Analyses](web/feasibility.md)**: Aggressive assessments (overall 8.5/10), top 10 risks/mitigations/quick wins, and space expansion viability.
+9. **[Expansion Plans](web/expansion.md)**: Western Hemisphere ("Fortress West"), global rollout, and space pivot (Luna/Mars/asteroids/cylinders/probes) with LLC estimates by region/country.
+10. **[Financial Summaries](web/financials.md)**: Encapsulated markdown segments below, including recalculated costs, revenues, timelines, NPV, IRR, and break-even.
 
 ## Financial Summaries
 
