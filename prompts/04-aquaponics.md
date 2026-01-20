@@ -81,6 +81,8 @@ Pods prioritize hardiness, fast cycles, premium market value, and compatibility 
 
 This enhanced aquaponics pod design maximizes protein diversity, nutrient closure, and revenue while remaining modular, resilient, and fully regenerative.
 
+recompute all timelines and codtd
+
 ---
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
