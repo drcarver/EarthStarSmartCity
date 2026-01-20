@@ -92,6 +92,8 @@ Key principles: Phased triggers prevent overreach; in-house production scales fr
 
 This plan ensures a practical, self-funded path from Mini-Fabs to advanced capabilities while preserving the Network's core regenerative vision.
 
+recompute all timelines and codtd
+
 ---
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
