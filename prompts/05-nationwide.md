@@ -312,6 +312,8 @@ These enhancements build directly on the existing Genesis Network framework, lev
 
 - **Notes**: Residential-integrated dense ag adds ~20–30% effective productive capacity (vertical/rooftop) with zero additional land; enhances livability/greenspace ratio to 45–50%.
 
+- recompute all timelines and codtd
+
 
 Make any changes that can increase viability of the entire project as defined in this chat session include all previous prompts in the analysis. Recalculate all costs, revenues and timelines based on data in this chat.
 
