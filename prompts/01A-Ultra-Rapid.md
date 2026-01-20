@@ -5,7 +5,7 @@ description: The definitive, all-encompassing prompt synthesizing every discussi
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt – Ultra-Rapid Hub Bootstrap & Staging Strategy for Genesis Network (Updated with Processing Pods)
+# Prompt – Ultra-Rapid Hub Bootstrap & Staging Strategy
 
 ## Objective
 
