@@ -25,9 +25,9 @@ Hubs prioritize brownfields/landfills for remediation, using plasma vitrificatio
 
 ## Pod-Centric Architecture
 
-The architecture revolves around modified [40 ft high-cube ISO containers](web/containers.md) ([pods](web/pod.md)) as bootstrap/scaling units:
-- **Modularity**: [Snap-together](web/snap-together.md) ceramics with embedded features (BIPV, AWG, piezo, sensors, bladders for shielding/thermal).
-- **[Multi-Trophic Integration](web/multi-trophic.md)**: Layers (fish → crustaceans/mollusks → insects → plants) for efficiency; freshwater dominant, saltwater pilots coastal.
+The architecture revolves around modified [40 ft high-cube ISO containers](containers.md) ([pods](pod.md)) as bootstrap/scaling units:
+- **Modularity**: [Snap-together](snap-together.md) ceramics with embedded features (BIPV, AWG, piezo, sensors, bladders for shielding/thermal).
+- **[Multi-Trophic Integration](multi-trophic.md)**: Layers (fish → crustaceans/mollusks → insects → plants) for efficiency; freshwater dominant, saltwater pilots coastal.
 - **Automation/Resilience**: Lights-out capable (80–95% by 2035); smart airlocks scan weapons/explosives; mobility for relocation.
 - **Replication**: Self-replicating kits enable exponential growth; clusters retrofit to permanent structures.
 - **Smart City Standards**: ISO/TC 268, IEEE 2030, ITU-T Y.4900 compliance; sustainable codes (ISO 14001, Cradle-to-Cradle) via circular materials.
