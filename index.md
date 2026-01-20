@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Genesis Network Website Index
+title: Genesis Network Website
 description: A detailed index for the Genesis Network project website, organizing key sections, analyses, and financial summaries into a structured overview.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Website Index
+# Genesis Network
 
 ## Introduction
 
