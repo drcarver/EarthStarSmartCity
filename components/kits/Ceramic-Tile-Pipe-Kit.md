@@ -75,9 +75,9 @@ This kit is manufactured in dedicated **Tile Production Pods** and forms the phy
 
 ## Related Components
 
-- **[Smart Airlock Kit](components/smart-airlock-security.md)** — integrated into every building  
-- **[Smart Infrastructure Kit](components/smart-infrastructure.md)** — roads/pipes built from this kit  
-- **[Tile Production Pod](components/pods-catalog.md)** — manufactures this kit  
+- **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)** — integrated into every building  
+- **[Smart Infrastructure Kit](components/kits/smart-infrastructure-kit.md)** — roads/pipes built from this kit  
+- **[Tile Production Pod](components/pods/tile-production-pod.md)** — manufactures this kit  
 
 ---
 
