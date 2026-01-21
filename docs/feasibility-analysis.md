@@ -58,7 +58,7 @@ But let's be clear: Multidecade private self-funding at this scope is **historic
 
 **Verdict**: Worth pursuing aggressively if execution discipline is flawless early on. The upside justifies the risk, but prepare for adaptation.
 
-See related: **[Executive Summary](docs/executive-summary.md)**, **[Top Risks & Quick Wins](strategy/top-risks-quick-wins.md)**, **[Resilience Analysis](docs/resilience-analysis.md)**, **[Financial Projections](financials/cash-flow-summary.md)**.
+See related: **[Executive Summary](/docs/executive-summary.md)**, **[Top Risks & Quick Wins](/strategy/top-risks-quick-wins.md)**, **[Resilience Analysis](/docs/resilience-analysis.md)**, **[Financial Projections](/financials/cash-flow-summary.md)**.
 
 ---
 
