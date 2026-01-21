@@ -71,7 +71,7 @@ This guide provides detailed, step-by-step instructions for deploying the **Agro
 - Comply with **ISO 14001** (environmental management) and local sustainable agriculture codes.  
 - Document all installations via **digital twin baseline** for carbon credit verification.
 
-For full component specs see **[Agroforestry Expansion Kit](components/kits/agroforestry-expansion.md)** and **[Microbial Inoculant Production](components/pods/microbial-inoculant.md)**.
+For full component specs see **[Agroforestry Expansion Kit](/components/kits/agroforestry-expansion.md)** and **[Microbial Inoculant Production](/components/pods/microbial-inoculant.md)**.
 
 ---
 
