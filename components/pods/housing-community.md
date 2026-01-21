@@ -73,7 +73,7 @@ Every pod includes balcony/rooftop/vertical growing systems:
 - **Economic**: Residents contribute labor/innovation; surplus produce feeds hub revenue  
 - **Resilience**: Pods movable in disasters; airlocks + closed loops enable quarantine/pandemic isolation  
 
-Detailed specs: **[Smart Airlock & Security Kit](components/smart-airlock-security.md)**, **[Dense Agriculture Integration](components/dense-agriculture.md)** (new), **[Smart Infrastructure Pipes & Roads](components/smart-infrastructure.md)**.
+Detailed specs: **[Smart Airlock & Security Kit](/omponents/smart-airlock-security.md)**, **[Dense Agriculture Integration](/components/dense-agriculture.md)** (new), **[Smart Infrastructure Pipes & Roads](/components/smart-infrastructure.md)**.
 
 ---
 
