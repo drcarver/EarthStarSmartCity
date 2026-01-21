@@ -93,9 +93,9 @@ All methodologies are selected or adapted to be **double-counting proof** and al
 - **2035+**: Network-wide issuance; smallholder revenue sharing scaled globally  
 
 **Related Documents**  
-- **[Data Moat & Digital Twins](docs/viability-enhancements.md)** – core verification engine  
-- **[Blockchain Credits Quick Wins](strategy/top-risks-quick-wins.md)** – early monetization tactics  
-- **[50-Year Roadmap](roadmaps/50-year-roadmap.md)** – long-term credit scaling  
+- **[Data Moat & Digital Twins](/docs/viability-enhancements.md)** – core verification engine  
+- **[Blockchain Credits Quick Wins](/strategy/top-risks-quick-wins.md)** – early monetization tactics  
+- **[50-Year Roadmap](/roadmaps/50-year-roadmap.md)** – long-term credit scaling  
 
 ---
 
