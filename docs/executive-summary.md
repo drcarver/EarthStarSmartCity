@@ -15,7 +15,7 @@ The **Genesis Network** is a transformative, self-funded regenerative ecosystem 
 
 ## Vision
 
-To build a decentralized, regenerative civilization capable of sustainably feeding, housing, and empowering the projected U.S. population of **370–400 million** by 2050–2060 within self-sustaining **[regenerative cities](docs/regenerative-cities-overview.md)**. These cities will rewild **200–300 million acres**, achieve gigaton-scale carbon sequestration through **[blue-green carbon kits](/components/kits-catalog.md)** and biochar, minimize virgin mining via circular **[toughened ceramics](/components/tiles-catalog.md)**, and extend human resilience to lunar and Mars settlements through **[NASA/ISS feedback loops](/roadmaps/nasa-iss-integration.md)**.
+To build a decentralized, regenerative civilization capable of sustainably feeding, housing, and empowering the projected U.S. population of **370–400 million** by 2050–2060 within self-sustaining **[regenerative cities](/docs/regenerative-cities-overview.md)**. These cities will rewild **200–300 million acres**, achieve gigaton-scale carbon sequestration through **[blue-green carbon kits](/components/kits-catalog.md)** and biochar, minimize virgin mining via circular **[toughened ceramics](/components/tiles-catalog.md)**, and extend human resilience to lunar and Mars settlements through **[NASA/ISS feedback loops](/roadmaps/nasa-iss-integration.md)**.
 
 Globally, the Network evolves into a voluntary standard for sovereign nations, starting with **[Fortress West](/roadmaps/fortress-west-expansion.md)** (NATO-aligned + Western Hemisphere) and opening to any country post-2045 via culturally adapted **[smallholder partnerships](/strategy/smallholder-partnerships.md)**.
 
@@ -39,7 +39,7 @@ The Network operates through **Innovation Hub LLCs** for risk isolation and dist
    **[Dense integrated agriculture](/docs/dense-ag-integration.md)** (vertical/rooftop/balcony systems) adds 30–50% capacity; cities/towers create internal demand loops for kit replication.
 
 3. **Resilience & Sovereignty**  
-   **[Smart city standards](/components/smart-airlock-security.md)** (ISO/TC 268, IEEE 2030) with **[Faraday mesh](/components/tiles-catalog.md)** EMP protection; **[nuclear winter resilience](docs/resilience-analysis.md)** via closed-loop ECLSS.
+   **[Smart city standards](/components/smart-airlock-security.md)** (ISO/TC 268, IEEE 2030) with **[Faraday mesh](/components/tiles-catalog.md)** EMP protection; **[nuclear winter resilience](/docs/resilience-analysis.md)** via closed-loop ECLSS.
 
 4. **Humanitarian & Political Alignment**  
    **[TerraWell FreeCare](/docs/terrawell-freecare.md)** builds goodwill; farmer co-ops defuse backlash.
