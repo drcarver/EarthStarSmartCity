@@ -90,9 +90,9 @@ All components are manufactured in **tile factory pods** using waste-derived tou
 - **Political Appeal**: Defensive posture aligns with NATO/Fortress West priorities  
 
 See also:  
-- **[Smart Infrastructure Kit](components/smart-infrastructure-kit.md)**  
-- **[Resilience Analysis](docs/resilience-analysis.md)**  
-- **[Innovation Hub LLC Structure](docs/llc-structure.md)**  
+- **[Smart Infrastructure Kit](/components/smart-infrastructure-kit.md)**  
+- **[Resilience Analysis](/docs/resilience-analysis.md)**  
+- **[Innovation Hub LLC Structure](/docs/llc-structure.md)**  
 
 ---
 
