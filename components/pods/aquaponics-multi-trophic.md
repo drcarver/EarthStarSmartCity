@@ -79,8 +79,8 @@ The system is deliberately layered to mimic natural trophic cascades:
 - **Sensors**: IEEE 1451, OGC SWE  
 - **Smart Buildings**: ISO/TC 268, ITU-T Y.4900  
 
-For full pod catalog see **[Pods Catalog](components/pods-catalog.md)**.  
-For related kits see **[Kits Catalog](components/kits-catalog.md)**.
+For full pod catalog see **[Pods Catalog](/components/pods-catalog.md)**.  
+For related kits see **[Kits Catalog](/components/kits-catalog.md)**.
 
 ---
 
