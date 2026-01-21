@@ -62,7 +62,7 @@ This roadmap outlines the Genesis Network's evolution from 2027 to 2077, explici
 | Space-Derived Premiums/Exports | —                     | +20–50                           | +3–8%     |
 | **Totals**                     | –5–15                 | +30–80                           | +8–18%    |
 
-Detailed financials in **[Cash Flow Summary](financials/cash-flow-summary.md)** and **[Space Economy Uplift](financials/space-economy-uplift.md)**.
+Detailed financials in **[Cash Flow Summary](/financials/cash-flow-summary.md)** and **[Space Economy Uplift](/financials/space-economy-uplift.md)**.
 
 ---
 
