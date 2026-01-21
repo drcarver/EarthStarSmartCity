@@ -55,8 +55,8 @@ All tiles meet or exceed:
 All tiles support **sustainable building codes** (e.g., low embodied carbon, circular materials) and integrate with **smart airlocks** and **security & smart city** systems.
 
 See also:  
-- **[Smart Airlock Kit](components/smart-airlock-kit.md)** – Weapons/explosives scanning  
-- **[Security & Smart City Kit](components/security-smart-city-kit.md)** – Full ISO/TC 268 compliance  
+- **[Smart Airlock Kit](/components/smart-airlock-kit.md)** – Weapons/explosives scanning  
+- **[Security & Smart City Kit](/components/security-smart-city-kit.md)** – Full ISO/TC 268 compliance  
 
 ---
 
