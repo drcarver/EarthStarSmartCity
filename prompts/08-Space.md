@@ -1,1 +1,6 @@
-At some point earth-based expansion stalls.  We should look at going to luna and mars.  with lunar factories with mass drivers.  expand ro asteroid mining Oneill cylinders von Neuman probes using our replication techniques
+At some point earth-based expansion stalls.  We should look at going to luna and mars.  with lunar factories with mass drivers.  expand ro asteroid mining Oneill cylinders von Neuman probes using our replication 
+techniques
+
+recompute all timelines and costs
+
+
