@@ -85,12 +85,12 @@ All components are manufactured in **tile factory pods** using waste-derived tou
 - Supports smart city compliance → qualifies for additional grants/credits  
 
 See also:  
-- **[Smart Infrastructure Kit](components/smart-infrastructure-kit.md)**  
-- **[Security & Smart City Standards](components/security-smart-city-kit.md)**  
+- **[Smart Infrastructure Kit](components/kits/smart-infrastructure-kit.md)**  
+- **[Security & Smart City Standards](components/kits/security-smart-city-kit.md)**  
 - **[Resilience Analysis](docs/resilience-analysis.md)**  
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](/LICENSE.md).  
 
 © 2025 Earth-Star Industries
