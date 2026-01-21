@@ -28,7 +28,7 @@ Every pod includes:
 - **Outputs**: All Genesis tiles (roof glazing, exterior cladding, load-bearing, insulating, permeable)  
 - **Cost**: $150–250K (initial setup)  
 - **Revenue**: $500K–$1M/year per pod (premium smart tiles)  
-- **File**: [Tile Production Details](components/tiles-catalog.md)  
+- **File**: [Tile Production Details](/components/tiles-catalog.md)  
 
 ### 2. **Enhanced Aquaponics Pod** (Multi-Trophic)
 - **Purpose**: High-density protein + greens production with full trophic layering  
@@ -39,7 +39,7 @@ Every pod includes:
 - **Outputs**: Fish, prawns/crayfish, mussels (optional), microgreens/herbs  
 - **Cost**: $100–200K  
 - **Revenue**: $300–800K/year (freshwater); $400K–$1.5M (saltwater)  
-- **File**: [Multi-Trophic Aquaponics](components/pods/aquaponics-multi-trophic.md)  
+- **File**: [Multi-Trophic Aquaponics](/components/pods/aquaponics-multi-trophic.md)  
 
 ### 3. **Livestock Pod** (Large & Specialty)
 - **Purpose**: Continuous milk/meat/fiber/offspring production with animal welfare  
@@ -49,7 +49,7 @@ Every pod includes:
 - **Outputs**: Milk, meat, fiber, offspring, manure (biogas feedstock)  
 - **Cost**: $150–300K  
 - **Revenue**: $400–$1,200K/year (staggered output stability)  
-- **File**: [Livestock Pods](components/pods/livestock-staggered.md)  
+- **File**: [Livestock Pods](/components/pods/livestock-staggered.md)  
 
 ### 4. **Biogas Digester Pod**
 - **Purpose**: Energy + nutrient recovery from organic waste  
@@ -66,7 +66,7 @@ Every pod includes:
 - **Capacity**: 4–20 residents per pod cluster  
 - **Cost**: $200–400K  
 - **Revenue**: $400–800K/year (amenities, tourism, resident productivity)  
-- **File**: [Housing & Community Pods](components/pods/housing-community.md)  
+- **File**: [Housing & Community Pods](/components/pods/housing-community.md)  
 
 ### 6. **Processing Pods** (Value-Add Cluster)
 - **Variants**: Bakery, Brewery, Butcher, Confectionary, Dairy  
@@ -74,7 +74,7 @@ Every pod includes:
 - **Features**: Robotic lines, halal/kosher modes, packaging from hub byproducts  
 - **Cost**: $80–150K per pod  
 - **Revenue**: $200–500K/year per pod  
-- **File**: [Processing Pods](components/pods/processing-value-add.md)  
+- **File**: [Processing Pods](/components/pods/processing-value-add.md)  
 
 ### 7. **Microbial Inoculant Production Pod**
 - **Purpose**: Customized microbial consortia for yield boosts and soil regeneration  
@@ -112,7 +112,7 @@ Every pod includes:
 - **Cost**: $20–40K (standalone kit)  
 - **Revenue**: $50–100K/year (upgrades/security contracts)  
 
-All pods are interconnected via **smart infrastructure** and produced in **ceramic tile production** facilities. Detailed specs in **[Pods Catalog](components/pods-catalog.md)** and **[Tiles, Pods & Kits](docs/tiles-pods-kits.md)**.
+All pods are interconnected via **smart infrastructure** and produced in **ceramic tile production** facilities. Detailed specs in **[Pods Catalog](/components/pods-catalog.md)** and **[Tiles, Pods & Kits](/docs/tiles-pods-kits.md)**.
 
 ---
 
