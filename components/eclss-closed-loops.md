@@ -61,7 +61,7 @@ In the **Genesis Network**, **ECLSS** principles are adapted and massively scale
 - **Tech export premium**: +$2–8B/year from lunar/Mars licensing.  
 - **IRR boost**: +5–8% from dual-use efficiencies.  
 
-See also: **[50-Year Roadmap](roadmaps/50-year-roadmap.md)** | **[NASA/ISS Integration](roadmaps/nasa-iss-integration.md)** | **[Multi-Trophic Aquaponics](components/pods/aquaponics-multi-trophic.md)**
+See also: **[50-Year Roadmap](/roadmaps/50-year-roadmap.md)** | **[NASA/ISS Integration](/roadmaps/nasa-iss-integration.md)** | **[Multi-Trophic Aquaponics](/components/pods/aquaponics-multi-trophic.md)**
 
 ---
 
