@@ -11,14 +11,14 @@ theme: minimal
 **Repository: earth-star-industries/genesis-network-master-plan**  
 **Last Updated: January 21, 2026**
 
-## Repository Overview
+## Overview
 
-This repository serves as the central documentation hub for the Genesis Network — a self-funded, regenerative, closed-loop ecosystem developed by Earth-Star Industries. It includes detailed plans, financials, roadmaps, resilience analyses, component catalogs, and strategic expansions.
+This aite serves as the central documentation hub for the Genesis Network — a self-funded, regenerative, closed-loop ecosystem developed by Earth-Star Industries. It includes detailed plans, financials, roadmaps, resilience analyses, component catalogs, and strategic expansions.
 
 **License**: All content licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 **Purpose**: Open-source transparency, community reference, and collaborative development of regenerative systems.
 
-## Folder Structure & Index]]
+## Site Structure & Index
 
 ## Root Level Files
 
@@ -27,9 +27,9 @@ This repository serves as the central documentation hub for the Genesis Network 
 - **[LICENSE](LICENSE)**  
   Full Creative Commons Attribution 4.0 International license text  
 
-## Main Folders & Hyperlinked Contents
+## Contents
 
-### /docs/ – Core Documentation & Analyses
+### Core Documentation & Analyses
 
 - **[executive-summary](docs/executive-summary.md)**  
   High-level vision, mission, strategic overview, and project goals  
@@ -46,7 +46,7 @@ This repository serves as the central documentation hub for the Genesis Network 
 - **[viability-enhancements](docs/viability-enhancements.md)**  
   Microbial inoculants, blockchain credits, dense agriculture, waste heat recovery, etc.  
 
-### /roadmaps/ – Timelines & Space Integration
+### Timelines & Space Integration
 
 - **[50-year-roadmap](roadmaps/50-year-roadmap.md)**  
   Full 2027–2077 timeline with NASA/ISS technology integration and feedback loops  
@@ -55,7 +55,7 @@ This repository serves as the central documentation hub for the Genesis Network 
 - **[fortress-west-expansion](roadmaps/fortress-west-expansion.md)**  
   NATO-aligned and Western Hemisphere rollout strategy  
 
-### /financials/ – Cost, Revenue, and Projection Data
+### Cost, Revenue, and Projection Data
 
 - **[cash-flow-summary](financials/cash-flow-summary.md)**  
   Year-by-year cash flow tables (2027–2077)  
@@ -66,7 +66,7 @@ This repository serves as the central documentation hub for the Genesis Network 
 - **[space-economy-uplift](financials/space-economy-uplift.md)**  
   Revenue and cost impacts from NASA/ISS-derived technologies and space synergies  
 
-### /components/ – Detailed Component Specifications
+### Detailed Component Specifications
 
 - **[tiles-catalog](components/tiles-catalog.md)**  
   All tile types: manufacturing, inputs, materials, costs, revenues  
@@ -77,7 +77,7 @@ This repository serves as the central documentation hub for the Genesis Network 
 - **[smart-airlock-security](components/smart-airlock-security.md)**  
   Airlock specifications, scanning tech, alerts, smart city standards compliance  
 
-### /strategy/ – Expansion & Geopolitical Plans
+### Expansion & Geopolitical Plans
 
 - **[smallholder-partnerships](strategy/smallholder-partnerships.md)**  
   Farmer and smallholder empowerment program details  
