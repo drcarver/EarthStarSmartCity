@@ -76,9 +76,9 @@ The **Agroforestry Expansion Kit** is a modular, flat-pack system that enables r
 - Verifiable sequestration under **VCS/Plan Vivo** methodologies via blockchain credits  
 
 See also:  
-- **[Agroforestry Expansion Kit Installation Guide](components/kits/agroforestry-installation.md)** (forthcoming)  
-- **[Sequestration Credit Platform](strategy/blockchain-credits.md)**  
-- **[Silvopasture Integration with Livestock Pods](components/pods/livestock-silvopasture.md)**  
+- **[Agroforestry Expansion Kit Installation Guide](/components/kits/agroforestry-installation.md)** 
+- **[Sequestration Credit Platform](/strategy/blockchain-credits.md)**  
+- **[Silvopasture Integration with Livestock Pods](/components/pods/livestock-silvopasture.md)**  
 
 ---
 
