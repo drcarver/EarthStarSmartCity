@@ -31,7 +31,7 @@ This uplift is recalculated based on phased adoption (2027–2077), with conserv
 | **Radiation Shielding** | ISS habitat studies (water walls) | Ceramic + water bladders for brownfield hubs | –5–10% structural CAPEX | +$50–150M/hub/year (resilience premiums) |
 | **LED Spectra Optimization** | Advanced Plant Habitat | Tunable lighting in dense ag towers | –10% energy for indoor farming | +$100–200M/hub/year (yield boosts) |
 
-Detailed specs: **[ECLSS Integration](components/eclss-closed-loops.md)**, **[BLSS Multi-Trophic Systems](components/blss-multi-trophic.md)**.
+Detailed specs: **[ECLSS Integration](/components/eclss-closed-loops.md)**, **[BLSS Multi-Trophic Systems](/components/blss-multi-trophic.md)**.
 
 ## Feedback Loops & Space Synergies
 
@@ -39,7 +39,7 @@ Detailed specs: **[ECLSS Integration](components/eclss-closed-loops.md)**, **[BL
 2. **Space to Earth**: Lunar regolith tests inform Earth ceramic enhancements; Mars CO₂ data improves hub **DAC pilots**.  
 3. **Interplanetary Revenue**: Mature Earth kits exported for **lunar habitats** and **Mars settlements** (2050+).  
 
-See **[NASA/ISS Feedback Loops](roadmaps/nasa-iss-integration.md)** and **[Lunar/Mars Extension Roadmap](roadmaps/lunar-mars-extension.md)**.
+See **[NASA/ISS Feedback Loops](/roadmaps/nasa-iss-integration.md)** and **[Lunar/Mars Extension Roadmap](/roadmaps/lunar-mars-extension.md)**.
 
 ## Recalculated Financial Uplift (Network-Wide)
 
@@ -59,7 +59,7 @@ See **[NASA/ISS Feedback Loops](roadmaps/nasa-iss-integration.md)** and **[Lunar
 - **NASA Partnership Risk**: Delays if contracts slow → mitigated by Earth-first scaling.  
 - **Tech Transfer Controls**: Export restrictions on advanced systems → revenue capped until global invitation phase.  
 
-Detailed projections: **[Cash Flow Summary](financials/cash-flow-summary.md)** and **[NPV/IRR Calculations](financials/npv-irr-calculations.md)**.
+Detailed projections: **[Cash Flow Summary]/(/financials/cash-flow-summary.md)** and **[NPV/IRR Calculations](/financials/npv-irr-calculations.md)**.
 
 ---
 
