@@ -24,7 +24,7 @@ This aite serves as the central documentation hub for the Genesis Network — a 
 
 - **[README.md](README.md)**  
   Main landing page: project overview, purpose, navigation guide  
-- **[LICENSE](LICENSE)**  
+- **[LICENSE](LICENSE.md)**  
   Full Creative Commons Attribution 4.0 International license text  
 
 ## Contents
