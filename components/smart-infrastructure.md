@@ -91,9 +91,9 @@ All smart infrastructure is built using only **ceramic tiles**, **ceramic pipes*
 - **Resilience**: Ceramics withstand EMP (Faraday mesh), radiation (bladders), and extreme weather  
 
 See also:  
-- **[Smart Airlock Kit](components/smart-airlock-security.md)**  
-- **[Security & Smart City Kit](components/smart-airlock-security.md)**  
-- **[Infrastructure Recycling Strategy](strategy/infrastructure-recycling.md)**  
+- **[Smart Airlock Kit](/components/smart-airlock-security.md)**  
+- **[Security & Smart City Kit](/components/smart-airlock-security.md)**  
+- **[Infrastructure Recycling Strategy](/strategy/infrastructure-recycling.md)**  
 
 ---
 
