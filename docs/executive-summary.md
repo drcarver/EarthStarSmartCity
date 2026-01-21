@@ -11,7 +11,7 @@ theme: minimal
 **by Earth-Star Industries**  
 **January 21, 2026**
 
-The **Genesis Network** is a transformative, self-funded regenerative ecosystem designed to convert degraded lands—distressed farmland, brownfields, and closed landfills—into resilient, closed-loop hubs delivering food, energy, water, materials, sovereign electronics, pharmaceuticals, and essential services at **95–99% resource closure**. Led by **Earth-Star Industries**, it integrates **[pod-centric architecture](components/pods-catalog.md)**, advanced manufacturing, humanitarian outreach, and global smallholder empowerment to create a post-scarcity, carbon-negative future.
+The **Genesis Network** is a transformative, self-funded regenerative ecosystem designed to convert degraded lands—distressed farmland, brownfields, and closed landfills—into resilient, closed-loop hubs delivering food, energy, water, materials, sovereign electronics, pharmaceuticals, and essential services at **95–99% resource closure**. Led by **Earth-Star Industries**, it integrates **[pod-centric architecture](/components/pods-catalog.md)**, advanced manufacturing, humanitarian outreach, and global smallholder empowerment to create a post-scarcity, carbon-negative future.
 
 ## Vision
 
