@@ -25,7 +25,7 @@ Globally, the Network evolves into a voluntary standard for sovereign nations, s
 - Empower **[small family farmers](strategy/smallholder-partnerships.md)** and global smallholders with low/zero-interest loans, **[flat-pack kits](/components/kits-catalog.md)**, robotics, and revenue-sharing co-ops  
 - Internalize all essential goods and services into **[regenerative hubs](/docs/regenerative-hubs.md)** by the 2060s–2070s  
 - Deliver free humanitarian aid via the independent **[TerraWell FreeCare](/docs/terrawell-freecare.md)** 501(c)(3) nonprofit, generating $500M–$1.5B annual tax offsets  
-- Ensure defensive resilience through **[multi-trophic aquaponics](c/omponents/pods/aquaponics-multi-trophic.md)**, **[large/specialty livestock pods](/components/pods/livestock-large-specialty.md)**, and **[smart airlock security](/components/smart-airlock-security.md)**  
+- Ensure defensive resilience through **[multi-trophic aquaponics](/components/pods/aquaponics-multi-trophic.md)**, **[large/specialty livestock pods](/components/pods/livestock-large-specialty.md)**, and **[smart airlock security](/components/smart-airlock-security.md)**  
 - Pioneer interplanetary extension by leveraging **[NASA/ISS-derived technologies](/roadmaps/50-year-roadmap.md)** for Earth-to-space feedback loops  
 
 ## Strategic Overview
