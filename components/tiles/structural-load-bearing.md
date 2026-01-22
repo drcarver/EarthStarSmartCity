@@ -88,7 +88,7 @@ All production lights-out capable with telepresence oversight.
 - **[Roof Glazing (Semi-Transparent)](/components/tiles/roof-glazing.md)**  
 - **[Exterior Cladding](/components/tiles/exterior-cladding.md)**  
 - **[Permeable Road Tiles](/components/tiles/permeable-roads.md)**  
-- **[Smart Infrastructure Kit](/components/kits/smart-infrastructure.md)**  
+- **[Smart Infrastructure Kit](/components/kits/smart-infrastructure-kit.md)**  
 
 ---
 
