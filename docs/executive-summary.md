@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Executive Summary – Genesis Network Master Plan
-description: Detailed high-level vision, mission, strategic overview, and project goals for the Genesis Network by Earth-Star Industries.
+description: High-level vision, mission, strategic overview, and project goals for the Genesis Network by Earth-Star Industries.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
@@ -11,60 +11,61 @@ theme: minimal
 **by Earth-Star Industries**  
 **January 21, 2026**
 
-The **Genesis Network** is a transformative, self-funded regenerative ecosystem designed to convert degraded lands—distressed farmland, brownfields, and closed landfills—into resilient, closed-loop hubs delivering food, energy, water, materials, sovereign electronics, pharmaceuticals, and essential services at **95–99% resource closure**. Led by **Earth-Star Industries**, it integrates **[pod-centric architecture](/components/pods-catalog.md)**, advanced manufacturing, humanitarian outreach, and global smallholder empowerment to create a post-scarcity, carbon-negative future.
+The **Genesis Network** is a self-funded, regenerative, closed-loop ecosystem designed to transform degraded lands into productive, resilient hubs that deliver food, energy, water, materials, sovereign electronics, pharmaceuticals, and community services at **95–99% resource closure**. Developed by **Earth-Star Industries**, it combines **[pod-centric architecture](components/pods-catalog.md)** with advanced manufacturing, humanitarian outreach, and global smallholder empowerment to achieve post-scarcity, carbon-negative society.
 
-## Vision
+## Vision & Mission
 
-To build a decentralized, regenerative civilization capable of sustainably feeding, housing, and empowering the projected U.S. population of **370–400 million** by 2050–2060 within self-sustaining **[regenerative cities](/docs/regenerative-cities-overview.md)**. These cities will rewild **200–300 million acres**, achieve gigaton-scale carbon sequestration through **[blue-green carbon kits](/components/kits-catalog.md)** and biochar, minimize virgin mining via circular **[toughened ceramics](/components/tiles-catalog.md)**, and extend human resilience to lunar and Mars settlements through **[NASA/ISS feedback loops](/roadmaps/nasa-iss-integration.md)**.
+**Vision**  
+Create a decentralized, regenerative civilization capable of feeding and housing the projected U.S. population of **370–400 million** by 2050–2060 within self-sustaining cities, while rewilding **200–300 million acres**, achieving gigaton-scale carbon sequestration, and minimizing virgin mining through circular materials. Extend this model globally through voluntary sovereign adoption post-2045.
 
-Globally, the Network evolves into a voluntary standard for sovereign nations, starting with **[Fortress West](/roadmaps/fortress-west-expansion.md)** (NATO-aligned + Western Hemisphere) and opening to any country post-2045 via culturally adapted **[smallholder partnerships](/strategy/smallholder-partnerships.md)**.
+**Mission**  
+- Bootstrap rapid, profitable hubs that self-fund expansion without long-term public reliance  
+- Empower small family farmers and global smallholders via loans, kits, training, and revenue-sharing  
+- Internalize essential goods and services into regenerative urban systems by the 2060s–2070s  
+- Provide free humanitarian aid through the independent **[TerraWell FreeCare](docs/terrawell-freecare.md)** nonprofit  
+- Build defensive resilience (**[Fortress West](roadmaps/fortress-west-expansion.md)**) aligned with NATO and Western Hemisphere partners  
+- Enable interplanetary extension via **[NASA/ISS-derived technologies](roadmaps/nasa-iss-integration.md)** and feedback loops  
 
-## Mission
+## Core Strategic Pillars
 
-- Achieve rapid **self-funding** (network-wide positive cash by 2028–2029) through high-margin outputs (food, tiles, biogas, chips) without long-term public reliance  
-- Empower **[small family farmers](/strategy/smallholder-partnerships.md)** and global smallholders with low/zero-interest loans, **[flat-pack kits](/components/kits-catalog.md)**, robotics, and revenue-sharing co-ops  
-- Internalize all essential goods and services into **[regenerative hubs](/docs/regenerative-hubs.md)** by the 2060s–2070s  
-- Deliver free humanitarian aid via the independent **[TerraWell FreeCare](/docs/terrawell-freecare.md)** 501(c)(3) nonprofit, generating $500M–$1.5B annual tax offsets  
-- Ensure defensive resilience through **[multi-trophic aquaponics](/components/pods/aquaponics-multi-trophic.md)**, **[large/specialty livestock pods](/components/pods/livestock-large-specialty.md)**, and **[smart airlock security](/components/smart-airlock-security.md)**  
-- Pioneer interplanetary extension by leveraging **[NASA/ISS-derived technologies](/roadmaps/50-year-roadmap.md)** for Earth-to-space feedback loops  
+1. **[Pod-Centric Architecture](components/pods-catalog.md)**  
+   All functions begin in modular 40 ft high-cube pods (evolving to waste-derived ceramics). Enables rapid bootstrap (cash-positive Month 1–3), risk isolation, mobility, and exponential replication. See also **[Tiles, Pods & Kits Catalog](docs/tiles-pods-kits.md)**.
 
-## Strategic Overview
+2. **Self-Funding & Exponential Growth**  
+   Early revenue from high-margin outputs (greens, biogas, tiles, chips) funds scaling. Dense integrated agriculture (vertical/rooftop/balcony systems) adds **30–50%** productive capacity without land. Cities/towers create internal demand loops for self-reinforcing growth. Network doubling every **18–24 months** post-2030.
 
-The Network operates through **Innovation Hub LLCs** for risk isolation and distributed oversight (see **[LLC Structure](/docs/llc-structure.md)**). Core strategies include:
+3. **[Innovation Hub](docs/llc-structure.md)** & Risk Isolation  
+   Separate LLCs (Regenerative Hubs, TerraFab, Robotics, etc.) spread oversight, reduce burnout, and contain failures.
 
-1. **Rapid Bootstrap**  
-   **[Pre-supply staging](/docs/pre-supply-staging.md)** delivers nearly mature pods → cash-positive Month 1–3; network self-funding by 2028–2029.
+4. **Humanitarian & Political Shield**  
+   Independent **[TerraWell FreeCare](docs/terrawell-freecare.md)** 501(c)(3) provides free healthcare, DME, and education via surplus donations → **$500M–$1.5B/year** tax offsets. Farmer empowerment via loans/kits/co-ops builds rural alliances.
 
-2. **Exponential Scaling**  
-   **[Dense integrated agriculture](/docs/dense-ag-integration.md)** (vertical/rooftop/balcony systems) adds 30–50% capacity; cities/towers create internal demand loops for kit replication.
+5. **[NASA/ISS Integration & Space Feedback Loops](roadmaps/nasa-iss-integration.md)**  
+   ECLSS/BLSS-derived closed loops inform Earth hubs; Earth data moat refines space tech; mature systems extend to lunar/Mars settlements. See **[50-Year Roadmap](roadmaps/50-year-roadmap.md)**.
 
-3. **Resilience & Sovereignty**  
-   **[Smart city standards](/components/smart-airlock-security.md)** (ISO/TC 268, IEEE 2030) with **[Faraday mesh](/components/tiles-catalog.md)** EMP protection; **[nuclear winter resilience](/docs/resilience-analysis.md)** via closed-loop ECLSS.
+6. **Defensive & Global Expansion**  
+   **[Fortress West](roadmaps/fortress-west-expansion.md)** (NATO + Americas) matures 2040–2045; voluntary global invitation post-2045 with sovereign controls and cultural/religious adaptations. See **[Global Open Invitation](strategy/global-open-invitation.md)**.
 
-4. **Humanitarian & Political Alignment**  
-   **[TerraWell FreeCare](/docs/terrawell-freecare.md)** builds goodwill; farmer co-ops defuse backlash.
+## Financial Snapshot (Recalculated Mature Phase, 2035+)
 
-5. **Space Synergies**  
-   **[50-Year Roadmap](/roadmaps/50-year-roadmap.md)** integrates NASA/ISS tech for Earth yields and lunar/Mars habitats.
+- **Total CAPEX (2027–2077)**: **$55–110B** (reduced 10% via space efficiencies and waste-derived inputs)  
+- **Annual Revenue (2035+)**: **$35–135B** (uplifted 10% from NASA-derived premiums/tech exports)  
+- **Annual Net Cash Flow**: **+$20–80B**  
+- **Cumulative Cash (2077)**: **+$10,000–40,000B+**  
+- **NPV (7% discount, 2077 horizon)**: **$900B–$2.5T**  
+- **IRR**: **55–82%** (boosted 5–10% from dual-use space synergies)  
+- **Break-Even**: **2028–2029** (network-wide self-funding)  
 
-## Project Goals
+Detailed financials: **[Cash Flow Summary](financials/cash-flow-summary.md)**, **[CAPEX/Revenue Breakdown](financials/capex-revenue-breakdown.md)**, **[NPV/IRR Calculations](financials/npv-irr-calculations.md)**.
 
-- **2035**: 300–500 U.S. hubs; 10K–50K smallholder partners; Mini-Fabs operational  
-- **2050**: Full U.S. essentials internalization; Fortress West maturity; gigaton sequestration milestone  
-- **2070+**: Global regenerative standard; lunar/Mars settlements enabled; post-scarcity achieved  
+## Why This Matters
 
-## Financial Snapshot
+The Genesis Network is not just infrastructure—it is a pathway to regenerative abundance, planetary healing, and resilient human civilization. By leveraging **pod modularity**, **data-driven iteration**, **farmer alliances**, and **space-Earth feedback loops**, it offers a credible path to post-scarcity while remaining grounded in realistic execution.
 
-- **Total CAPEX (2027–2077)**: $55–110B  
-- **Annual Revenue (2035+)**: $35–135B  
-- **IRR**: 55–82%  
-- **NPV (7% discount)**: $900B–$2.5T  
-- Detailed projections: **[Financials Overview](/financials/cash-flow-summary.md)**  
-
-All repository content is licensed under the **[LICENSE](/LICENSE)** (Creative Commons Attribution 4.0 International).
+All content in this repository is licensed under the **[LICENSE](../LICENSE)** file (Creative Commons Attribution 4.0 International).
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE).  
 
 © 2025 Earth-Star Industries
