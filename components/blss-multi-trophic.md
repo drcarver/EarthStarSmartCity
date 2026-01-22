@@ -13,7 +13,7 @@ theme: minimal
 
 ## 1. Core Principles of BLSS (NASA Heritage)
 
-- **Closed ecological loops** — Inspired by **[NASA-STD-3001](../ducs/standards/nasa-std-3001.md)** (Human Spaceflight Environmental Control and Life Support)  
+- **Closed ecological loops** — Inspired by **[NASA-STD-3001](../docs/standards/nasa-std-3001.md)** (Human Spaceflight Environmental Control and Life Support)  
 - **Multi-trophic integration** — Producers (plants/algae), consumers (fish/crustaceans/insects), decomposers (microbes/BSFL)  
 - **Mass & energy balance** — All waste from one level becomes input for another  
 - **Resilience & redundancy** — Multiple species and parallel subsystems to survive shocks  
@@ -32,8 +32,8 @@ Genesis extends these principles beyond space constraints to terrestrial abundan
 
 ## 3. Feedback Loops & Optimization
 
-- **NASA/ISS → Earth**: **[BLSS microbial consortia](../ducs/standards/nasa-std-3001.md)** tested in microgravity → optimized strains for Earth inoculants  
-- **Earth → Space**: Hub-scale parallel testing (50–500 variants) refines species combinations, densities, LED spectra → improved **[ECLSS](nasa-std-3001.md)** reliability for lunar/Mars  
+- **NASA/ISS → Earth**: **[BLSS microbial consortia](../docs/standards/nasa-std-3001.md)** tested in microgravity → optimized strains for Earth inoculants  
+- **Earth → Space**: Hub-scale parallel testing (50–500 variants) refines species combinations, densities, LED spectra → improved **[ECLSS](../docs/standards/nasa-std-3001.md)** reliability for lunar/Mars  
 - **Data Moat**: Hyper-dense sensors (pH, ammonia, DO, VOC) + AI edge processing → ruthless iteration of trophic parameters  
 
 ## 4. Resilience & Redundancy Features
@@ -55,11 +55,11 @@ Genesis extends these principles beyond space constraints to terrestrial abundan
 
 ## 6. Extension to Lunar & Mars Settlements
 
-- **Lunar**: **[BLSS](nasa-std-3001.md)** pods adapted for regolith-derived nutrients; ceramics for radiation shielding  
+- **Lunar**: **[BLSS](../docs/standards/nasa-std-3001.md)** pods adapted for regolith-derived nutrients; ceramics for radiation shielding  
 - **Mars**: Multi-trophic greenhouses with **DAC**-integrated CO₂; feedback from Mars microbial tests → Earth extreme-environment inoculants  
 
 **Related Documents**  
-- **[NASA-STD-3001 – ECLSS/BLSS Standards](../ducs/standards/nasa-std-3001.md)**  
+- **[NASA-STD-3001 – ECLSS/BLSS Standards](../docs/standards/nasa-std-3001.md)**  
 - **[Enhanced Aquaponics Pods](../components/pods-catalog.md)**  
 - **[Microbial Inoculant Production](../components/pods/microbial-inoculant.md)**  
 - **[50-Year Roadmap – Space Feedback Loops](../roadmaps/50-year-roadmap.md)**  
