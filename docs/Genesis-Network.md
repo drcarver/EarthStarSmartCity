@@ -48,13 +48,13 @@ The network relies on a hyper-dense, redundant sensor array embedded in tiles, p
 
 | Sensor Type                        | Primary Applications                              | Standards Compliance          | Approx. Cost per Unit |
 |------------------------------------|---------------------------------------------------|-------------------------------|-----------------------|
-| Electrochemical / Optical           | Nutrient, pH, pathogen detection in water/soil   | IEEE 1451                     | $10–20               |
-| Nanobiosensors / Microbial         | Soil microbial activity, plant stress             | OGC SWE                       | $15–30               |
-| mmWave / IR-UWB Radar              | Health monitoring, weapons/explosives scanning    | MIL-STD-810                   | $20–40               |
-| Multispectral / VOC                | Pest/disease early warning, air quality           | NASA-STD-3001                 | $15–25               |
-| Strain / Vibration / Thermal       | Structural integrity, road/pipe monitoring        | ITU-T Y.4900                  | $10–20               |
-| Flow / Pressure / Acoustic         | Leak detection, water/pneumatic flow              | IEEE 2030                     | $12–25               |
-| PAR / Humidity / Soiling           | Greenhouse optimization, PV efficiency            | ISO/TC 268                    | $8–15                |
+| Electrochemical / Optical           | Nutrient, pH, pathogen detection in water/soil   | [IEEE 1451](/docs/standards/IEEE-1451.md)                     | $10–20               |
+| Nanobiosensors / Microbial         | Soil microbial activity, plant stress             | [OGC SWE](/docs/standards/OGC-SWE.md)                        | $15–30               |
+| mmWave / IR-UWB Radar              | Health monitoring, weapons/explosives scanning    | [MIL-STD-810](/docs/standards/MIL-STD-810.md)                   | $20–40               |
+| Multispectral / VOC                | Pest/disease early warning, air quality           | [NASA-STD-3001](/docs/standards/NASA-STD-3001.md)                 | $15–25               |
+| Strain / Vibration / Thermal       | Structural integrity, road/pipe monitoring        | [ITU-T Y.4900](/docs/standards/ITU-T-Y.4900.md)                  | $10–20               |
+| Flow / Pressure / Acoustic         | Leak detection, water/pneumatic flow              | [IEEE 2030](/docs/standards/IEEE-2030.md)                     | $12–25               |
+| PAR / Humidity / Soiling           | Greenhouse optimization, PV efficiency            | [ISO/TC 268](/docs/standards/ISO-TC-268.md)                    | $8–15                |
 
 ## Financial Snapshot (Mature Phase, 2035+)
 
