@@ -39,14 +39,14 @@ The **Housing/Community Kit** is a flat-pack, self-replicating modular system th
 
 | Component                          | Quantity (Standard Kit) | Description                                      | Source File Link |
 |------------------------------------|-------------------------|--------------------------------------------------|------------------|
-| Roof Glazing Tiles                 | 800–1,200 m²            | Semi-transparent BIPV + AWG                      | [Roof Glazing](components/tiles/roof-glazing.md) |
-| Exterior Cladding Tiles            | 600–900 m²              | Supplementary BIPV + cultural patterns           | [Exterior Cladding](components/tiles/exterior-cladding.md) |
-| Structural Load-Bearing Tiles      | 1,000–1,500 m²          | Piezo embeds for vibration energy                | [Structural Tiles](components/tiles/structural-load-bearing.md) |
-| Insulating Tiles                   | 400–700 m²              | Indoor AWG + thermal mass                        | [Insulating Tiles](components/tiles/insulating.md) |
-| Smart Airlock Modules              | 4–8 units               | mmWave/multispectral scanning + alerts           | [Smart Airlock Kit](components/kits/smart-airlock.md) |
-| Security & Smart City Sensors      | Full array              | ISO/TC 268 & ITU-T Y.4900 compliance             | [Security & Smart City Kit](components/kits/security-smart-city.md) |
-| Vertical Agriculture Frames        | 50–100 m² coverage      | Rooftop/balcony trays + irrigation               | [Agroforestry Expansion Kit](components/kits/agroforestry-expansion.md) |
-| Conduits & Piping                  | 500–800 m               | Bidirectional power/water/data                   | [Smart Infrastructure Kit](components/kits/smart-infrastructure.md) |
+| Roof Glazing Tiles                 | 800–1,200 m²            | Semi-transparent BIPV + AWG                      | [Roof Glazing](/components/tiles/roof-glazing.md) |
+| Exterior Cladding Tiles            | 600–900 m²              | Supplementary BIPV + cultural patterns           | [Exterior Cladding](/components/tiles/exterior-cladding.md) |
+| Structural Load-Bearing Tiles      | 1,000–1,500 m²          | Piezo embeds for vibration energy                | [Structural Tiles](/components/tiles/structural-load-bearing.md) |
+| Insulating Tiles                   | 400–700 m²              | Indoor AWG + thermal mass                        | [Insulating Tiles](/components/tiles/insulating.md) |
+| Smart Airlock Modules              | 4–8 units               | mmWave/multispectral scanning + alerts           | [Smart Airlock Kit](/components/kits/smart-airlock-kit.md) |
+| Security & Smart City Sensors      | Full array              | ISO/TC 268 & ITU-T Y.4900 compliance             | [Security & Smart City Kit](/components/kits/smart-infrastructure-kit.md) |
+| Vertical Agriculture Frames        | 50–100 m² coverage      | Rooftop/balcony trays + irrigation               | [Agroforestry Expansion Kit](/components/kits/agroforestry-expansion-kit.md) |
+| Conduits & Piping                  | 500–800 m               | Bidirectional power/water/data                   | [Smart Infrastructure Kit](/components/kits/smart-infrastructure-kit.md) |
 
 ## Manufacturing & Assembly
 
