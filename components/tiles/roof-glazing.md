@@ -1,57 +1,74 @@
 ---
 layout: default
-title: Housing/Community Kit – Genesis Network
-description: Detailed specification for the Housing/Community Kit used in Genesis Network residential and community zones.
+title: Roof Glazing Tile – Genesis Network Components
+description: Detailed specification of the semi-transparent roof glazing tile used in Genesis Network greenhouses, housing, and community structures.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Housing/Community Kit
+# Roof Glazing Tile  
+**Semi-Transparent BIPV Glazing (10–30% Transmittance)**
 
-**Description**  
-The **Housing/Community Kit** provides a complete, modular, snap-together building system for constructing luxurious, resilient, and regenerative residential units, community centers, schools, **TerraWell FreeCare** centers, and related facilities within **Genesis Network** hubs and smallholder mini-hubs. All structures are built exclusively from **toughened ceramic tiles**, **ceramic panels**, and integrated **flat-pack kits** — no conventional concrete, steel framing, or imported materials are required after the initial bootstrap phase.
+The **roof glazing tile** is the primary solar and daylighting component in the Genesis Network. It serves as the roof surface for **greenhouse pods**, **housing modules**, **community buildings**, and **vertical farming towers**, combining high natural light transmission with embedded power generation and water harvesting.
 
-## Key Features
+## Key Specifications
 
-- **Modular Snap-Together Design**  
-  Uses **structural load-bearing tiles** and **insulating tiles** with interlocking edges and embedded conduits for power, water, data, pneumatic delivery, and slurry piping. Allows rapid assembly (days to weeks) and disassembly/relocation if needed.
+- **Dimensions**: Standard 600 × 600 mm (modular, snap-together); custom sizes available  
+- **Transmittance**: 10–30% visible light (adjustable per application)  
+- **Power Output**: 100–300 Wp/m² peak (bifacial thin-film PV layers)  
+- **Water Harvesting**: Integrated AWG condensers + sloped channels → 40–70% of daily water needs in arid zones  
+- **Thermal Performance**: Low-E coating + ceramic thermal mass → U-value 0.8–1.2 W/m²·K  
+- **Durability**: 60–100+ MPa compressive strength; wind/snow load rating EN 12600 Class 2B2  
+- **Sensors Embedded**: PAR, thermal, humidity, soiling, strain (3–5× redundancy)  
+- **Weight**: 18–25 kg/m² (lightweight glass-ceramic composite)  
+- **Lifespan**: 40+ years (minimal degradation <0.5%/year)  
 
-- **Material Composition**  
-  - 70–95% waste-derived: **C&D slag**, **rice husk ash (RHA) silica**, farm residues, **ELFM slag**, brownfield materials  
-  - Toughened ceramic matrix (60–100+ MPa compressive strength)  
-  - Embedded features: **BIPV glazing** (10–30% transmittance), **AWG channels**, **piezoelectric vibration harvesting**, **Faraday mesh** (EMP/RFI protection), **water bladders** (radiation shielding + thermal mass), cultural/patterned variants  
+## Manufacturing Process
 
-- **Smart Airlocks (Standard in All Units)**  
-  - Dual airlocks at every entry  
-  - **mmWave** + **multispectral scanning** for weapons, explosives, pathogens, contraband  
-  - AI-triggered alerts to local security + network-wide monitoring  
-  - HEPA/UV sterilization + pressure differential for biosecurity  
-  - Complies with **NASA-STD-3001** (closed-loop environmental control) adapted for terrestrial use  
+1. **Substrate**: Rice husk ash (RHA) silica (80%) + farm residues as pore-formers  
+2. **PV Integration**: Thin-film deposition (CIGS or perovskite) on semi-transparent glass-ceramic base  
+3. **AWG Channels**: Micro-condensers and capillary channels molded during pressing  
+4. **Firing**: Tunnel kiln 1,200–1,400°C with plasma vitrification for toughening  
+5. **Sensor Embedding**: IEEE 1451-compliant transducers inserted pre-firing  
+6. **Final Assembly**: Robotic handling + vision-guided quality control  
 
-- **Integrated Dense Agriculture**  
-  - Rooftop, balcony, and vertical wall systems for **greens**, **herbs**, **microgreens**, and small fruiting plants  
-  - Adds **30–50%** effective productive capacity without additional land footprint  
-  - Uses **semi-transparent BIPV glazing** for natural light + supplemental power  
+**Factory Location**: Produced exclusively in **tile production pods** or permanent ceramic factories (self-replicating kits).
 
-- **DC-Dominant Appliances & Electronics**  
-  - Full suite of in-house **DC-native appliances** (refrigerators, ovens, washers, lighting) powered by hub microgrid  
-  - Self-produced edge AI computers and sensors from **Mini-Fab**  
+## Input Sources (70–95% Waste-Derived)
 
-- **Climate & Resilience Features**  
-  - Passive-dominant: solar chimneys, earth tubes, windcatchers, ceramic thermal mass  
-  - Active supplements: tunable LEDs, waste heat recovery, AI-triggered resistive traces for de-icing  
-  - Vaulted ceramic designs rated for high wind/earthquake loads; munitions resistance 8–9/10  
+- **Primary**: Rice husk ash (silica source), sugarcane bagasse, grape pomace (pore-formers/toughening)  
+- **Secondary**: C&D slag, ELFM vitrified slag, brownfield residues  
+- **Minimal Virgin**: Trace feldspar/quartz (early bootstrap only)  
 
-## Manufacturing & Supply
+## Cost & Revenue (Recalculated Mature Phase)
 
-- **Produced in**: **Ceramic Tile Production Pod** and **Modular Ceramic Greenhouse Shell Kit** assembly lines  
-- **Input Sources**: 70–95% waste-derived (C&D slag, RHA silica, farm residues, ELFM/brownfield slag)  
-- **Assembly**: Flat-pack delivery → robotic or manual snap-together construction; telepresence training via **Education/Telepresence Kit**  
+| Metric                  | Value                  | Notes / Enhancements |
+|-------------------------|------------------------|----------------------|
+| Production Cost         | $2.5–4.5 / m²          | Down 20% from waste inputs + automation |
+| Selling Price (Internal) | $8.5–14.0 / m²        | Premium for BIPV + AWG features |
+| Selling Price (External/Affiliates) | $10–18 / m²     | +25% uplift from smart features/credits |
+| Annual Revenue / Hub    | $8–20M (roof coverage) | Assumes 10,000–20,000 m²/hub |
+| Payback Period          | 4–7 years              | Via power generation + water savings |
 
-## Cost & Revenue Estimates (Mature Phase, per Kit)
+## Integrated Features & Standards Compliance
 
-| Metric                  | Value (2025–2030 USD) | Notes |
-|-------------------------|-----------------------|-------|
-| **Kit Cost**            | $150,000 – $300,000   | Includes tiles, conduits, airlocks, basic appliances; 20–25% reduction via waste inputs |
-| **Assembly Labor**      | $20,000 – $50,000     | Robotic majority; telepresence oversight |
-| **Total Build Cost**    | $170,000 – $350,000   | For 100–200 m² unit (1–2 family home or small community module
+- **BIPV**: Semi-transparent thin-film layers (IEC 61215 / IEC 61730)  
+- **AWG**: Passive atmospheric water generation channels  
+- **Sensors**: PAR/thermal/humidity/soiling/strain (IEEE 1451, OGC SWE)  
+- **Smart City Alignment**: ISO/TC 268 KPIs, ITU-T Y.4900, IEEE 2030 grid interop  
+- **Sustainability**: ISO 14001, Cradle-to-Cradle principles  
+- **Impact Resistance**: EN 12600 (glazing safety)  
+
+## Related Components
+
+- **[Exterior Cladding Tile](components/tiles/exterior-cladding.md)** – Vertical supplementary power  
+- **[Permeable Road Tile](components/tiles/permeable-road.md)** – Stormwater + traffic energy  
+- **[Smart Airlock System](components/smart-airlock-security.md)** – Building entry security  
+- **[Greenhouse/Aquaponics Pod](components/pods/greenhouse-aquaponics.md)** – Primary application  
+- **[50-Year Roadmap](roadmaps/50-year-roadmap.md)** – Long-term evolution  
+
+---
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+
+© 2025 Earth-Star Industries
