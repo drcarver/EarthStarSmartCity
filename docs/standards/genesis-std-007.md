@@ -69,7 +69,7 @@ The goal is to accelerate mutual advancement: space data improves Earth resilien
 
 - **[NASA-STD-3001](NASA-STD-3001.md)** – Human spaceflight environmental control  
 - **[ISO 37123](ISO-37123.md)** – City resilience maturity model  
-- **[50-Year Roadmap](../roadmaps/50-year-roadmap.md)** – Overall space-Earth timeline  
+- **[50-Year Roadmap](../../roadmaps/50-year-roadmap.md)** – Overall space-Earth timeline  
 
 ---
 
