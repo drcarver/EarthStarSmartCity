@@ -85,13 +85,13 @@ All production lights-out capable with telepresence oversight.
 
 ## Related Components
 
-- **[Roof Glazing (Semi-Transparent)](components/tiles/roof-glazing.md)**  
-- **[Exterior Cladding](components/tiles/exterior-cladding.md)**  
-- **[Permeable Road Tiles](components/tiles/permeable-roads.md)**  
-- **[Smart Infrastructure Kit](components/kits/smart-infrastructure.md)**  
+- **[Roof Glazing (Semi-Transparent)](/components/tiles/roof-glazing.md)**  
+- **[Exterior Cladding](c/omponents/tiles/exterior-cladding.md)**  
+- **[Permeable Road Tiles](/components/tiles/permeable-roads.md)**  
+- **[Smart Infrastructure Kit](c/omponents/kits/smart-infrastructure.md)**  
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](/LICENSE.md).  
 
 © 2025 Earth-Star Industries
