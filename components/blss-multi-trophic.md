@@ -13,7 +13,7 @@ theme: minimal
 
 ## 1. Core Principles of BLSS (NASA Heritage)
 
-- **Closed ecological loops** — Inspired by **[NASA-STD-3001](../standards/nasa-std-3001.md)** (Human Spaceflight Environmental Control and Life Support)  
+- **Closed ecological loops** — Inspired by **[NASA-STD-3001](standards/nasa-std-3001.md)** (Human Spaceflight Environmental Control and Life Support)  
 - **Multi-trophic integration** — Producers (plants/algae), consumers (fish/crustaceans/insects), decomposers (microbes/BSFL)  
 - **Mass & energy balance** — All waste from one level becomes input for another  
 - **Resilience & redundancy** — Multiple species and parallel subsystems to survive shocks  
