@@ -1,4 +1,4 @@
-doc---
+---
 layout: default
 title: ITU-T Y.4900 – Smart Sustainable Cities – Overview
 description: Summary of ITU-T Y.4900 series and application to Genesis Network smart infrastructure.
