@@ -13,7 +13,7 @@ theme: minimal
 
 ## Overview
 
-This aite serves as the central documentation hub for the Genesis Network — a self-funded, regenerative, closed-loop ecosystem developed by Earth-Star Industries. It includes detailed plans, financials, roadmaps, resilience analyses, component catalogs, and strategic expansions.
+This aite serves as the central documentation hub for the [Genesis Network](docs/Genesis-Network.md) — a self-funded, regenerative, closed-loop ecosystem developed by Earth-Star Industries. It includes detailed plans, financials, roadmaps, resilience analyses, component catalogs, and strategic expansions.
 
 **License**: All content licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 **Purpose**: Open-source transparency, community reference, and collaborative development of regenerative systems.
