@@ -61,14 +61,14 @@ The **roof glazing tile** is the primary solar and daylighting component in the 
 
 ## Related Components
 
-- **[Exterior Cladding Tile](components/tiles/exterior-cladding.md)** – Vertical supplementary power  
-- **[Permeable Road Tile](components/tiles/permeable-road.md)** – Stormwater + traffic energy  
-- **[Smart Airlock System](components/smart-airlock-security.md)** – Building entry security  
-- **[Greenhouse/Aquaponics Pod](components/pods/greenhouse-aquaponics.md)** – Primary application  
-- **[50-Year Roadmap](roadmaps/50-year-roadmap.md)** – Long-term evolution  
+- **[Exterior Cladding Tile](/components/tiles/exterior-cladding.md)** – Vertical supplementary power  
+- **[Permeable Road Tile](/components/tiles/permeable-road.md)** – Stormwater + traffic energy  
+- **[Smart Airlock System](/components/smart-airlock-security.md)** – Building entry security  
+- **[Greenhouse/Aquaponics Pod](/components/pods/greenhouse-aquaponics.md)** – Primary application  
+- **[50-Year Roadmap](/roadmaps/50-year-roadmap.md)** – Long-term evolution  
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](/LICENSE.md).  
 
 © 2025 Earth-Star Industries
