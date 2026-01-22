@@ -54,7 +54,7 @@ The goal is to accelerate mutual advancement: space data improves Earth resilien
 
 - All **Genesis-STD-007** loops must be logged in blockchain-verified format  
 - Minimum data sharing cadence: quarterly reports to NASA partners  
-- Earth hubs must maintain **Level 4** **[ISO 37123](../iso-37123.md)** maturity for space-relevant indicators  
+- Earth hubs must maintain **Level 4** **[ISO 37123](ISO-37123.md)** maturity for space-relevant indicators  
 - New space-derived tech must be tested in **parallel pods** before network-wide rollout  
 - Annual third-party audit of loop efficacy and mutual benefit  
 
@@ -67,8 +67,8 @@ The goal is to accelerate mutual advancement: space data improves Earth resilien
 
 ## 7. References
 
-- **[NASA-STD-3001](nasa-std-3001.md)** – Human spaceflight environmental control  
-- **[ISO 37123](iso-37123.md)** – City resilience maturity model  
+- **[NASA-STD-3001](NASA-STD-3001.md)** – Human spaceflight environmental control  
+- **[ISO 37123](ISO-37123.md)** – City resilience maturity model  
 - **[50-Year Roadmap](../roadmaps/50-year-roadmap.md)** – Overall space-Earth timeline  
 
 ---
