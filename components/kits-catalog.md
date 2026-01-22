@@ -14,7 +14,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
 
 ## Standard & Reused Kits
 
-- **[Ceramic Tile & Pipe Kit](tiles-catalog.md)**  
+- **[Ceramic Tile & Pipe Kit](/components/kits/Ceramic-Tile-Pipe-Kit.md)**  
   - **Description**: Core structural and utility kit (tiles, pipes, conduits)  
   - **Inputs**: C&D/ELFM slag, RHA silica, residues  
   - **Materials**: Toughened ceramics + embedded piezo/sensors  
@@ -22,7 +22,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $150–300K/year (sales + upgrades)  
   - **Notes**: Foundation for all builds; highest volume production  
 
-- **[Enhanced Aquaponics Kit](pods-catalog.md)**  
+- **[Enhanced Aquaponics Kit](/components/kits/Enhanced-Aquaponics-Kit.md)**  
   - **Description**: Multi-trophic system (fish + crustaceans + mollusks + insects + plants)  
   - **Inputs**: Farm residues, microbial starters  
   - **Materials**: Ceramic tanks + glazing + sensors  
@@ -30,7 +30,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $250–600K/year (protein + greens sales)  
   - **Notes**: Includes saltwater pilot variant; staggered cycles  
 
-- **[Biogas Digester Kit](pods-catalog.md)**  
+- **[Biogas Digester Kit](/components/kits/Biogas-Digester-Kit.md)**  
   - **Description**: Anaerobic digestion + syngas output  
   - **Inputs**: Manure, waste, pre-inoculant  
   - **Materials**: Ceramic-lined tanks + separators  
@@ -38,7 +38,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $200–400K/year (energy + digestate)  
   - **Notes**: Pre-seeded for 1–2 week stability  
 
-- **[Housing/Community Kit](pods-catalog.md)**  
+- **[Housing/Community Kit](/components/kits/Housing-Community-Kit.md)**  
   - **Description**: Snap-together ceramic modules for homes, schools, TerraWell centers  
   - **Inputs**: Slag/residues  
   - **Materials**: Ceramics + BIPV glazing + airlocks  
@@ -46,7 +46,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $300–600K/year (amenities/tourism)  
   - **Notes**: Includes dense balcony/rooftop ag integration  
 
-- **[Microbial Inoculant Production Kit](viability-enhancements.md)**  
+- **[Microbial Inoculant Production Kit](/components/kits/microbial-inoculant-kit.md)**  
   - **Description**: Fermenters for custom soil/plant inoculants  
   - **Inputs**: Digestate, cultures  
   - **Materials**: Ceramics + sensors  
@@ -54,7 +54,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $100–250K/year (sales + yield uplift)  
   - **Notes**: +10–30% yield boost across systems  
 
-- **[Agroforestry Expansion Kit](viability-enhancements.md)**  
+- **[Agroforestry Expansion Kit](/components/kits/agroforestry-expansion-kit.md)**  
   - **Description**: Trellis, planters, dwarf tree pots for silvopasture  
   - **Inputs**: Residues, biochar  
   - **Materials**: Ceramics + sensors  
@@ -70,7 +70,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $200–400K/year (credits + fisheries)  
   - **Notes**: Includes dam/river restoration variant  
 
-- **[Mini-Fab Kit](financials/space-economy-uplift.md)**  
+- **[Mini-Fab Kit](/components/kits/space-economy-uplift.md)**  
   - **Description**: 65–130 nm sensor/edge AI production  
   - **Inputs**: Slag/silica  
   - **Materials**: Ceramics + cleanroom modules  
@@ -78,7 +78,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $500–1,000K/year (chips + yield uplift)  
   - **Notes**: Enables sovereign tech independence  
 
-- **[DAC Pilot Kit](viability-enhancements.md)**  
+- **[DAC Pilot Kit](/components/kits/DAC-Pilot-Kit.md)**  
   - **Description**: Modular direct air capture with mineralization  
   - **Inputs**: Syngas/waste  
   - **Materials**: Ceramic membranes  
@@ -86,7 +86,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $150–300K/year (credits)  
   - **Notes**: CO₂ for beverages/aggregates  
 
-- **[Smart Infrastructure Kit](components/smart-airlock-security.md)**  
+- **[Smart Infrastructure Kit](/components/kits/smart-infrastructure-kit.md)**  
   - **Description**: Road/pipe sections with piezo/solar/inductive charging  
   - **Inputs**: C&D/slag  
   - **Materials**: Ceramics + embeds  
@@ -94,7 +94,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $300–600K/year (utilities + contracts)  
   - **Notes**: Includes security & smart city compliance  
 
-- **[Education/Telepresence Kit](viability-enhancements.md)**  
+- **[Education/Telepresence Kit](/components/kits/viability-enhancements.md)**  
   - **Description**: VR/AR stations for training and remote ops  
   - **Inputs**: Residues  
   - **Materials**: Ceramics + electronics  
@@ -104,7 +104,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
 
 ## New Kits (Introduced for Viability & Standards)
 
-- **[Smart Airlock Kit](components/smart-airlock-security.md)**  
+- **[Smart Airlock Kit](/components/kits/Smart-Airlock-Kit.md)**  
   - **Description**: mmWave/multispectral scanning doors (weapons/explosives/pathogens)  
   - **Inputs**: Slag/residues  
   - **Materials**: Ceramics + sensors + UV/HEPA  
@@ -112,7 +112,7 @@ All kits are manufactured in **tile factory pods** using **waste-derived toughen
   - **Revenue**: $50–100K/year (upgrades/security contracts)  
   - **Notes**: Standard in all buildings; alerts AI/security  
 
-- **[Security & Smart City Kit](components/smart-airlock-security.md)**  
+- **[Security Smart City Kit](components/kits/Security-Smart-City-Kit.md)**  
   - **Description**: Sensor arrays + compliance modules (ISO/TC 268, ITU-T Y.4900, IEEE 2030)  
   - **Inputs**: Waste/silica  
   - **Materials**: Ceramics + embeds  
@@ -129,6 +129,6 @@ All kits are received from **tile factory pods** and are fully compatible with *
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](/LICENSE.md).  
 
 © 2025 Earth-Star Industries
