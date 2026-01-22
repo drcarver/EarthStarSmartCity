@@ -95,12 +95,12 @@ theme: minimal
   - Robotic tile-laying bots reduce labor by 70–90%  
 
 **See also**:  
-- **[Toughened Ceramic Tiles Overview](components/tiles-catalog.md)**  
-- **[Smart Infrastructure Kit](components/kits-catalog.md)**  
-- **[Sensor Handbook](docs/sensor-handbook.md)**  
+- **[Toughened Ceramic Tiles Overview](/components/tiles-catalog.md)**  
+- **[Smart Infrastructure Kit](/components/kits-catalog.md)**  
+- **[Sensor Handbook](/docs/sensor-handbook.md)**  
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](/LICENSE).  
 
 © 2025 Earth-Star Industries
