@@ -11,7 +11,7 @@ theme: minimal
 **by Earth-Star Industries**  
 **January 21, 2026**
 
-The **Genesis Network** is a self-funded, regenerative, closed-loop ecosystem designed to transform degraded lands into productive, resilient hubs that deliver food, energy, water, materials, sovereign electronics, pharmaceuticals, and community services at **95–99% resource closure**. Developed by **Earth-Star Industries**, it combines **[pod-centric architecture](/components/pods-catalog.md)** with advanced manufacturing, humanitarian outreach, and global smallholder empowerment to achieve post-scarcity, carbon-negative society.
+The **Genesis Network** is a self-funded, regenerative, closed-loop ecosystem designed to transform degraded lands into productive, resilient hubs that deliver food, energy, water, materials, sovereign electronics, pharmaceuticals, and community services at **95–99% resource closure**. Developed by **Earth-Star Industries**, it combines **pod-centric architecture** with advanced manufacturing, humanitarian outreach, and global smallholder empowerment to achieve post-scarcity, carbon-negative society.
 
 ## Vision & Mission
 
@@ -22,29 +22,29 @@ Create a decentralized, regenerative civilization capable of feeding and housing
 - Bootstrap rapid, profitable hubs that self-fund expansion without long-term public reliance  
 - Empower small family farmers and global smallholders via loans, kits, training, and revenue-sharing  
 - Internalize essential goods and services into regenerative urban systems by the 2060s–2070s  
-- Provide free humanitarian aid through the independent **[TerraWell FreeCare](/docs/terrawell-freecare.md)** nonprofit  
-- Build defensive resilience (**[Fortress West](/roadmaps/fortress-west-expansion.md)**) aligned with NATO and Western Hemisphere partners  
+- Provide free humanitarian aid through the independent **TerraWell FreeCare** nonprofit  
+- Build defensive resilience (**Fortress West**) aligned with NATO and Western Hemisphere partners  
 - Enable interplanetary extension via NASA/ISS-derived technologies and feedback loops  
 
 ## Core Strategic Pillars
 
-1. **[Pod-Centric Architecture](/components/pods-catalog.md)**  
-   All functions begin in modular 40 ft high-cube pods (evolving to waste-derived ceramics). Enables rapid bootstrap (cash-positive Month 1–3), risk isolation, mobility, and exponential replication. See also **[Tiles, Pods & Kits Catalog](/docs/tiles-pods-kits.md)**.
+1. **Pod-Centric Architecture**  
+   All functions begin in modular 40 ft high-cube pods (evolving to waste-derived ceramics). Enables rapid bootstrap (cash-positive Month 1–3), risk isolation, mobility, and exponential replication. See **[Pod-Centric Architecture](components/pods-catalog.md)** and **[Tiles, Pods & Kits Catalog](docs/tiles-pods-kits.md)**.
 
 2. **Self-Funding & Exponential Growth**  
-   Early revenue from high-margin outputs (greens, biogas, tiles, chips) funds scaling. Dense integrated agriculture (vertical/rooftop/balcony systems) adds **30–50%** productive capacity without land, boosting revenues 20–40% and enabling tower-based cities to self-finance expansion. Network doubling every **18–24 months** post-2030.
+   Early revenue from high-margin outputs (greens, biogas, tiles, chips) funds scaling. Dense integrated agriculture (vertical/rooftop/balcony systems) adds **30–50%** productive capacity without land, boosting revenues 20–40% and enabling tower-based cities to self-finance expansion. Network doubling every **18–24 months** post-2030. See **[Cash Flow Summary](financials/cash-flow-summary.md)**.
 
-3. **[Innovation Hub LLC Structure](/docs/llc-structure.md)** & Risk Isolation  
-   Separate LLCs (Regenerative Hubs, TerraFab, Robotics, etc.) spread oversight, reduce burnout, and contain failures.
+3. **Innovation Hub & Risk Isolation**  
+   Separate LLCs (Regenerative Hubs, TerraFab, Robotics, etc.) spread oversight, reduce burnout, and contain failures. Detailed in **[Innovation Hub LLC Structure](docs/llc-structure.md)**.
 
 4. **Humanitarian & Political Shield**  
-   Independent **[TerraWell FreeCare](/docs/terrawell-freecare.md)** 501(c)(3) provides free healthcare, DME, and education via surplus donations → **$500M–$1.5B/year** tax offsets. Farmer empowerment via loans/kits/co-ops builds rural alliances.
+   Independent **TerraWell FreeCare** 501(c)(3) provides free healthcare, DME, and education via surplus donations → **$500M–$1.5B/year** tax offsets. Farmer empowerment via loans/kits/co-ops builds rural alliances. See **[TerraWell FreeCare Overview](docs/terrawell-freecare.md)** (planned file).
 
 5. **NASA/ISS Integration & Space Feedback Loops**  
-   ECLSS/BLSS-derived closed loops inform Earth hubs; Earth data moat refines space tech; mature systems extend to lunar/Mars settlements. See **[50-Year Roadmap](/roadmaps/50-year-roadmap.md)** and **[NASA/ISS Integration](/roadmaps/nasa-iss-integration.md)**.
+   ECLSS/BLSS-derived closed loops inform Earth hubs; Earth data moat refines space tech; mature systems extend to lunar/Mars settlements. See **[50-Year Roadmap](roadmaps/50-year-roadmap.md)** and **[NASA/ISS Integration](roadmaps/nasa-iss-integration.md)**.
 
 6. **Defensive & Global Expansion**  
-   **[Fortress West](/roadmaps/fortress-west-expansion.md)** (NATO + Americas) matures 2040–2045; voluntary global invitation post-2045 with sovereign controls and cultural/religious adaptations. See **[Global Open Invitation](/strategy/global-open-invitation.md)**.
+   **Fortress West** (NATO + Americas) matures 2040–2045; voluntary global invitation post-2045 with sovereign controls and cultural/religious adaptations. See **[Fortress West Expansion](roadmaps/fortress-west-expansion.md)** and **[Global Open Invitation](strategy/global-open-invitation.md)**.
 
 ## Financial Snapshot (Recalculated Mature Phase, 2035+)
 
@@ -56,19 +56,16 @@ Create a decentralized, regenerative civilization capable of feeding and housing
 - **IRR**: **55–82%** (boosted 5–10% from dual-use space synergies)  
 - **Break-Even**: **2028–2029** (network-wide self-funding)  
 
-Detailed financials:  
-- **[Cash Flow Summary](/financials/cash-flow-summary.md)**  
-- **[CAPEX/Revenue Breakdown](/financials/capex-revenue-breakdown.md)**  
-- **[NPV/IRR Calculations](/financials/npv-irr-calculations.md)**  
+Detailed financials: **[Cash Flow Summary](financials/cash-flow-summary.md)**, **[CAPEX/Revenue Breakdown](financials/capex-revenue-breakdown.md)**, **[NPV/IRR Calculations](financials/npv-irr-calculations.md)**.
 
 ## Why This Matters
 
 The Genesis Network is not just infrastructure—it is a pathway to regenerative abundance, planetary healing, and resilient human civilization. By leveraging **pod modularity**, **data-driven iteration**, **farmer alliances**, and **space-Earth feedback loops**, it offers a credible path to post-scarcity while remaining grounded in realistic execution.
 
-All content in this repository is licensed under the **[LICENSE](/LICENSE)** file (Creative Commons Attribution 4.0 International).
+All content in this repository is licensed under the **[LICENSE](LICENSE)** file (Creative Commons Attribution 4.0 International).
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](/LICENSE).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).  
 
 © 2025 Earth-Star Industries
