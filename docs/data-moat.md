@@ -12,7 +12,7 @@ The **Genesis Network** employs **edge AI** to perform real-time analysis and op
 
 ## Core Concept
 
-**Edge AI** refers to localized, on-device or on-node machine learning inference that runs directly within tiles, pods, and infrastructure components rather than relying on centralized cloud processing. When combined with the **[data moat](../docs/data-moat.md)**, it enables:
+**Edge AI** refers to localized, on-device or on-node machine learning inference that runs directly within tiles, pods, and infrastructure components rather than relying on centralized cloud processing. When combined with the **data moat**, it enables:
 
 - Instantaneous detection of strain anomalies  
 - Predictive maintenance before visible failure  
@@ -23,7 +23,7 @@ This closed-loop system minimizes downtime, extends asset lifespan, and enhances
 
 ## How the Data Moat Enables Edge AI
 
-The **[data moat](../docs/data-moat.md)** is built from:
+The **data moat** is built from:
 - 3–5× redundant **[strain/vibration sensors](../docs/sensor-handbook.md)** embedded in every structural tile  
 - Short-cycle feedback from parallel test structures (50–500 variants per hub)  
 - Continuous operational data from thousands of hubs (PB-scale by 2035)  
@@ -36,7 +36,7 @@ This massive, high-velocity dataset trains highly accurate, site-specific models
    Embedded **[strain/vibration sensors](../docs/sensor-handbook.md)** measure micro-deformations continuously (sampling rate 10–100 Hz).  
 
 2. **Local Inference**  
-   Edge AI model classifies anomaly type (fatigue, overload, crack initiation) and severity using **[data moat](../docs/data-moat.md)**-trained weights.  
+   Edge AI model classifies anomaly type (fatigue, overload, crack initiation) and severity using **data moat**-trained weights.  
 
 3. **Decision & Action**  
    - Low severity → log & continue monitoring  
@@ -44,7 +44,7 @@ This massive, high-velocity dataset trains highly accurate, site-specific models
    - High → alert central AI, isolate zone, dispatch robotic repair swarm  
 
 4. **Feedback Loop**  
-   All events are logged and anonymized → re-uploaded to **[data moat](../docs/data-moat.md)** → retrain models quarterly → push updated weights to edge devices.
+   All events are logged and anonymized → re-uploaded to **data moat** → retrain models quarterly → push updated weights to edge devices.
 
 ## Benefits to the Genesis Network
 
@@ -67,7 +67,6 @@ This massive, high-velocity dataset trains highly accurate, site-specific models
 These sensors feed directly into the **[edge AI](../components/edge-ai.md)** layer, ensuring real-time, autonomous decision-making.
 
 **Related Documents**  
-- **[Data Moat](../docs/data-moat.md)**  
 - **[Sensor Handbook](../docs/sensor-handbook.md)**  
 - **[Resilience Analysis](../docs/resilience-analysis.md)**  
 - **[Pod-Centric Architecture](../components/pods-catalog.md)**  
