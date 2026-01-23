@@ -1,99 +1,107 @@
 ---
 layout: default
 title: Insulating Tiles – Genesis Network Component Specification
-description: Detailed technical specification for insulating tiles used in the Genesis Network, including manufacturing, materials, performance, costs, and integration details.
+description: Detailed specification for insulating tiles used in the Genesis Network, including manufacturing, materials, performance, cost, revenue, and integration.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
 # Insulating Tiles  
-**Genesis Network – Component Specification**  
-**Version: 1.0 | Date: January 21, 2026**
+**Genesis Network Component Specification**
 
-## Overview
+**Insulating Tiles** are a core structural and thermal component in the **Genesis Network**'s **[pod-centric architecture](../pods-catalog.md)** and regenerative city design. They provide high thermal mass, indoor humidity recapture, passive climate control, and embedded smart features while being manufactured from **70–95% waste-derived materials**.
 
-**Insulating tiles** are a core structural and thermal component in the Genesis Network. They provide high thermal mass, passive climate control, indoor humidity recapture via embedded **AWG channels**, and micro-power generation through occupancy motion. These tiles are used extensively in walls, partitions, and non-load-bearing interior surfaces of housing, community buildings, schools, and TerraWell centers.
+## 1. Purpose & Applications
 
-They complement **structural load-bearing tiles** and **roof glazing** to create fully ceramic, waste-derived buildings with integrated smart features.
+- Primary use: Thermal insulation and mass in walls, partitions, and internal structural elements  
+- Key functions:  
+  - Passive heating/cooling via high thermal inertia  
+  - Indoor **AWG** (atmospheric water generation) for humidity recapture  
+  - Micro-power generation from occupancy motion via piezoelectric elements  
+  - Embedded sensors for indoor environmental monitoring  
+  - Aesthetic and cultural patterning options  
 
-## Key Features
+Common applications:  
+- Internal walls and partitions in housing/community pods  
+- Vaulted ceilings in **[greenhouse/aquaponics pods](../pods-catalog.md)**  
+- Thermal mass layers in **[livestock pods](../pods-catalog.md)** and processing facilities  
+- Retrofitting existing structures during brownfield remediation  
 
-- **Thermal mass & insulation**: High R-value equivalent via aerated ceramic matrix  
-- **Indoor AWG**: Embedded channels recapture humidity from respiration, cooking, and evapotranspiration  
-- **Micro-piezoelectric generation**: Converts occupancy motion into low-power for sensors/lighting  
-- **Embedded sensors**: Temperature, humidity, strain, and microbial activity monitoring  
-- **Cultural/patterned variants**: Aesthetic designs for residential/community zones  
-- **Snap-together integration**: Compatible with **smart ceramic pipes** and **airlock modules**  
+## 2. Manufacturing Process
 
-## Manufacturing Process
+All **insulating tiles** are produced exclusively in **[tile factory pods](../tiles-catalog.md)** using the following steps:
 
-All **insulating tiles** are produced in **tile production pods** within the Genesis hubs:
+1. **Raw Material Preparation**  
+   - Primary inputs: sugarcane bagasse and rice straw as pore-forming agents, rice husk ash (RHA) for silica, minor clay/feldspar (early phase)  
+   - Waste-derived share: **80–95%** (mature phase)  
 
-1. **Raw material mixing**: Aerated ceramic base (bagasse pore-formers + rice husk ash silica + fly ash)  
-2. **Forming**: High-pressure extrusion or pressing into standard sizes (e.g., 600×600 mm, 300×600 mm)  
-3. **Drying**: Tunnel dryers using waste heat recovery  
-4. **Firing**: Tunnel kilns at 1,100–1,300°C (biogas or syngas fueled)  
-5. **Embedding**: Post-firing insertion of AWG micro-channels, piezo layers, and sensor arrays  
-6. **Quality control**: Multispectral scanning + strain testing  
+2. **Mixing & Aeration**  
+   - High-shear mixers combine materials with controlled foaming agents  
+   - Porosity engineered for insulation (thermal conductivity 0.08–0.15 W/m·K)  
 
-**Production rate (mature hub)**: 200,000–500,000 m²/year  
-**Waste-derived content**: 75–90% (bagasse, RHA, fly ash, recycled ceramic fines)
+3. **Forming**  
+   - Hydraulic presses or extrusion for flat or contoured shapes  
+   - Sizes: standard 600×600 mm, 300×600 mm; custom modular cuts  
 
-## Input Sources & Materials
+4. **Drying & Firing**  
+   - Tunnel dryers using waste heat recovery  
+   - High-temperature shuttle/tunnel kilns (1,100–1,250°C)  
+   - Embedded features (piezo layers, AWG channels, sensor conduits) inserted pre-firing  
 
-| Material                          | Source                              | Percentage | Purpose                              |
-|-----------------------------------|-------------------------------------|------------|--------------------------------------|
-| Bagasse / straw pore-formers      | Farm residues (sugarcane, rice)     | 20–30%     | Creates aerated structure            |
-| Rice husk ash (RHA) silica        | Rice milling waste                  | 30–40%     | Primary silica source                |
-| Fly ash / slag                    | Coal / ELFM / C&D waste             | 15–25%     | Binder & strength enhancer           |
-| Recycled ceramic fines            | Internal production waste           | 10–15%     | Circular feedstock                   |
-| Piezoelectric layers (PZT)        | Licensed thin-film deposition       | <5%        | Motion-to-energy conversion          |
-| AWG micro-condensers              | Embedded during finishing           | <5%        | Indoor humidity recapture            |
+5. **Post-Processing**  
+   - Surface treatments (glazing optional for aesthetics)  
+   - Quality control via embedded strain/thermal sensors  
+   - Packaging as flat-pack kits  
 
-## Performance Specifications
+## 3. Materials Composition
 
-| Property                          | Value / Range                       | Standard / Test Method              |
-|-----------------------------------|-------------------------------------|-------------------------------------|
-| Compressive strength              | 25–45 MPa                           | ASTM C109                           |
-| Thermal conductivity              | 0.08–0.15 W/m·K                     | ASTM C518                           |
-| R-value (per 100 mm thickness)    | 4.5–8.0                             | Calculated                          |
-| Indoor AWG yield                  | 0.5–2.0 L/m²/day (at 60% RH)        | Lab-tested                          |
-| Piezo power output                | 5–40 mW/m² (occupancy motion)       | Internal testing                    |
-| Sensor density                    | 1 per 0.5–1 m² (temp/humidity/strain) | IEEE 1451 compliant                 |
-| Fire resistance                   | Class A1 (non-combustible)          | EN 13501-1                          |
-| Lifespan                          | 50–100+ years                       | Accelerated aging tests             |
+| Component                          | Percentage (Mature Phase) | Source / Origin                          | Purpose |
+|------------------------------------|---------------------------|------------------------------------------|---------|
+| Rice Husk Ash (RHA) Silica         | 40–60%                    | Farm residues (rice milling waste)       | Structural matrix, low thermal conductivity |
+| Sugarcane Bagasse / Straw          | 20–35%                    | Agricultural waste                       | Pore formation, insulation |
+| Feldspar / Minor Clay              | 5–15%                     | Early bootstrap (virgin), later recycled | Fluxing agent, binding |
+| Piezoelectric Elements (PZT)       | 2–5%                      | In-house Mini-Fab (post-2029)            | Motion-to-power harvesting |
+| AWG Micro-Channels                 | Integrated                | Ceramic forming process                  | Indoor humidity condensate capture |
+| Embedded Sensors                   | 1–3%                      | Mini-Fab production                      | Thermal, humidity, occupancy monitoring |
 
-## Cost & Revenue (Mature Phase, 2035+)
+## 4. Performance Specifications
 
-| Metric                            | Value                               | Notes                               |
-|-----------------------------------|-------------------------------------|-------------------------------------|
-| Production cost                   | $1.50–$2.80 / m²                    | Reduced 20% via waste inputs & automation |
-| Selling price (internal/external) | $4.50–$8.00 / m²                    | Premium for smart features          |
-| Annual revenue per mature hub     | $90–400M (from tile sales + upgrades) | 200,000–500,000 m²/year output      |
-| Payback period                    | 1.5–3 years                         | Via energy savings + sensor power   |
-| Carbon credit uplift              | +$20–50M/hub/year                   | Enhanced sequestration via thermal mass |
+- **Thermal Conductivity**: 0.08–0.15 W/m·K (superior to conventional brick ~0.6–1.0 W/m·K)  
+- **Compressive Strength**: 15–35 MPa (load-bearing capable in partitions)  
+- **Water Absorption**: <8% (frost-resistant)  
+- **Fire Resistance**: Class A1 (non-combustible)  
+- **Piezoelectric Output**: 5–40 mW/m² from occupancy motion (powers local sensors/AWG nodes)  
+- **AWG Capacity**: 0.5–2 L/day/m² (indoor humidity recapture)  
+- **Sensor Integration**: Thermal (±0.5°C), humidity (±3% RH), occupancy (mmWave)  
+- **Lifespan**: 50–100+ years (ceramic durability)  
+- **Cultural Options**: Patterned surfaces (regional/heritage designs)  
 
-## Integration & Smart City Standards
+## 5. Cost & Revenue
 
-- **Building use**: Interior walls, partitions, non-load-bearing facades  
-- **Compatibility**: Snap-fits with **structural load-bearing tiles**, **roof glazing**, and **smart ceramic pipes**  
-- **Smart airlocks**: Required in all buildings; mmWave/multispectral scanning for weapons/explosives/pathogens; alerts to hub security AI  
-- **Standards compliance**:  
-  - ISO 14001 (environmental management)  
-  - Cradle-to-Cradle (circular economy)  
-  - ISO/TC 268 (smart city KPIs)  
-  - ITU-T Y.4900 (sustainable cities indicators)  
-  - IEEE 2030 (smart grid interoperability)  
+| Metric                             | Value (2026–2030) | Value (2035+ Mature) | Notes |
+|------------------------------------|-------------------|----------------------|-------|
+| Production Cost                    | $1.7–3.0 / ft²    | $1.4–2.5 / ft²       | 20% reduction via waste inputs & automation |
+| Selling Price (external/affiliate) | $5.0–8.5 / ft²    | $4.5–8.0 / ft²       | Premium for smart features |
+| Annual Revenue per 10,000 ft² installed | $50–85K           | $45–80K              | Sales + upgrades |
+| Network-Wide Revenue Contribution (2035+) | —                 | $3–8B/year           | 15–20% of total tile revenue |
 
-## References & Related Components
+**Cost Reduction Drivers**: Waste-derived inputs (bagasse/RHA), waste heat drying, **[Mini-Fab](../mini-fab.md)** sensor integration.  
+**Revenue Uplift Drivers**: Smart features (piezo/AWG), cultural patterns, **[blockchain credits](../../docs/viability-enhancements.md)** for sequestration.
 
-- **[Structural Load-Bearing Tiles](components/tiles/structural-load-bearing.md)** – Complementary primary structure  
-- **[Roof Glazing (Semi-Transparent)](components/tiles/roof-glazing.md)** – Daylighting and primary power  
-- **[Smart Airlock Kit](components/kits/smart-airlock.md)** – Biosecurity and scanning  
-- **[Sensor Handbook](docs/sensor-handbook.md)** – Full sensor integration details  
+## 6. Integration & Standards Compliance
+
+- **Smart City Alignment**: **[ISO/TC 268](../../docs/standards/iso-tc-268.md)**, **[ITU-T Y.4900](../../docs/standards/itu-t-y4900.md)**  
+- **Environmental**: **[ISO 14001](../../docs/standards/iso-14001.md)**, Cradle-to-Cradle principles  
+- **Sensor Interface**: **[IEEE 1451](../../docs/standards/ieee-1451.md)** compliant  
+- **Durability**: **[MIL-STD-810](../../docs/standards/mil-std-810.md)** ruggedness testing  
+
+**Related Specifications**  
+- **[Roof Glazing Tiles](roof-glazing.md)**  
+- **[Structural Load-Bearing Tiles](structural-load-bearing.md)**  
+- **[Smart Infrastructure Kit](../kits/smart-infrastructure.md)**  
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
 
 © 2025 Earth-Star Industries
