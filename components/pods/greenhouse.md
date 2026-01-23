@@ -27,11 +27,11 @@ The **Greenhouse Pod Suite** is the primary food and biomass production platform
 
 | Variant                            | Primary Crops / Species                          | Density & Yield Target                  | Special Features                                   | Revenue Range ($K/year/pod) |
 |------------------------------------|--------------------------------------------------|-----------------------------------------|----------------------------------------------------|-----------------------------|
-| **Standard Greenhouse Pod**        | Greens, herbs, microgreens, strawberries         | 8–12 cycles/year                        | Vertical towers, floating rafts, CO₂ enrichment    | 200–500                     |
-| **Multi-Trophic Aquaponics Pod**   | Tilapia + prawns + mussels + BSFL + greens       | 5–15 tons edible protein/year           | Full trophic layering, microbial inoculants        | 300–800                     |
-| **Dense Staples Pod**              | Rice, potatoes, wheat (flooded trays)            | 3–6 cycles/year                         | Flooded beds, vertical stacking                    | 250–600                     |
-| **Premium Protein Pod**            | Catfish/Trout + crayfish + mussels + herbs       | 8–20 tons protein/year                  | Cold-water optimization, premium market focus      | 400–1,000                   |
-| **Saltwater Pilot Pod**            | Barramundi/Red Drum + kelp/Salicornia            | 6–18 tons seafood/year                  | Salinity control, coastal amphibious design        | 500–1,500                   |
+| **[Standard Greenhouse Pod](standard-greenhouse.md)**        | Greens, herbs, microgreens, strawberries         | 8–12 cycles/year                        | Vertical towers, floating rafts, CO₂ enrichment    | 200–500                     |
+| **[Multi-Trophic Aquaponics Pod](aquaponics-multi-trophic.md)**   | Tilapia + prawns + mussels + BSFL + greens       | 5–15 tons edible protein/year           | Full trophic layering, microbial inoculants        | 300–800                     |
+| **[Dense Staples Pod](staples.md)**              | Rice, potatoes, wheat (flooded trays)            | 3–6 cycles/year                         | Flooded beds, vertical stacking                    | 250–600                     |
+| **[Premium Protein Pod](premium-protein-pod.md)**            | Catfish/Trout + crayfish + mussels + herbs       | 8–20 tons protein/year                  | Cold-water optimization, premium market focus      | 400–1,000                   |
+| **[Saltwater Pilot Pod](saltwater-pilot-pod.md)**            | Barramundi/Red Drum + kelp/Salicornia            | 6–18 tons seafood/year                  | Salinity control, coastal amphibious design        | 500–1,500                   |
 | **Vertical Tower Pod**             | High-density greens, berries, medicinal herbs    | +40–60% yield vs. horizontal            | Tower racking, LED tuning, automated harvesting    | 350–700                     |
 | **Rooftop/Balcony Integration Kit**| Urban/residential dense ag                       | 30–50% capacity boost per building      | Modular trays, drip irrigation, BIPV glazing       | 150–400 (per building)      |
 
@@ -55,17 +55,17 @@ The **Greenhouse Pod Suite** is the primary food and biomass production platform
 
 ## 5. Integration with Network Systems
 
-- **Feedstock**: Waste from **[livestock pods](../components/pods-catalog.md)** and processing pods → BSFL/insect feed  
-- **Energy**: Surplus from **[smart infrastructure](../components/smart-infrastructure.md)** and biogas  
-- **Water**: Digestate recovery + AWG from **[water management](../components/water-management.md)**  
-- **Data**: Hyper-dense inputs to **[data moat](../docs/viability-enhancements.md)** for ruthless iteration  
-- **Resilience**: **[Smart airlocks](../components/smart-airlock-security.md)** + **[resilience framework](../docs/resilience-analysis.md)** for disaster/pandemic isolation  
+- **Feedstock**: Waste from **[livestock pods](livestock.md)** and processing pods → BSFL/insect feed  
+- **Energy**: Surplus from **[smart infrastructure](../smart-infrastructure.md)** and biogas  
+- **Water**: Digestate recovery + AWG from **[water management](../water-management.md)**  
+- **Data**: Hyper-dense inputs to **[data moat](../../docs/data-moat.md)** for ruthless iteration  
+- **Resilience**: **[Smart airlocks](../smart-airlock-security.md)** + **[resilience framework](../../docs/resilience-analysis.md)** for disaster/pandemic isolation  
 
 ## 6. Revenue & Viability Impact
 
 - **Per Pod Revenue (Mature)**: $200–1,500K/year (variant-dependent)  
 - **Network Uplift**: +$10–25B/year by 2035 from dense ag and premium outputs  
-- **Cost Reduction**: 20–30% via **[waste-derived inputs](../docs/tiles-pods-kits.md)** and pre-supply  
+- **Cost Reduction**: 20–30% via **[waste-derived inputs](../../docs/tiles-pods-kits.md)** and pre-supply  
 - **Yield Boost**: +10–30% from microbial inoculants; +30–50% from vertical/dense integration  
 
 The **Greenhouse Pod Suite** is the beating heart of the Genesis Network's food sovereignty, driving early cash flow, long-term resilience, and interplanetary applicability.
