@@ -80,7 +80,7 @@ theme: minimal
 **Related Pages**  
 - **[Roof Glazing](../tiles/roof-glazing.md)** – primary power generation companion  
 - **[Permeable Road Tiles](../tiles/permeable-road-tiles.md)** – horizontal counterpart  
-- **[Smart Infrastructure Kit](../../components/smart-infrastructure-kit.md)** – facade-to-grid integration  
+- **[Smart Infrastructure Kit](../../components/kits/smart-infrastructure-kit.md)** – facade-to-grid integration  
 - **[Sensor Handbook](../../docs/sensor-handbook.md)** – strain/vibration sensor details  
 
 All **exterior cladding** installations include **smart airlocks** at entry points for biosecurity and security compliance.
