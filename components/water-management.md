@@ -17,8 +17,8 @@ The system is designed to function in arid, temperate, and coastal environments,
 1. **Digestate Recovery**  
    - **Process**: Anaerobic digestion of manure, food waste, and aquaponics sludge produces biogas and nutrient-rich digestate. Liquid fraction is separated via ceramic membrane filtration and treated for reuse.  
    - **Recovery Rate**: 15–25% of input water reclaimed as irrigation-grade; solids composted or fed to **[BSFL pods](../components/pods-catalog.md)**.  
-   - **Integration**: Slurry piped directly from **[livestock pods](../components/pods-catalog.md)** and **[aquaponics pods](../components/pods-catalog.md)** to **[biogas digester pods](../components/pods-catalog.md)**.  
-   - **Benefits**: Eliminates external fertilizer need; reduces methane emissions 70–90%; supports **[microbial inoculant production](../components/microbial-inoculant.md)**.
+   - **Integration**: Slurry piped directly from **[livestock pods](../components/pods/livestock.md)** and **[aquaponics pods](../components/pods/aquaponics-multi-trophic.md)** to **[biogas digester pods](../components/pods/biogas-digester.md)**.  
+   - **Benefits**: Eliminates external fertilizer need; reduces methane emissions 70–90livestock.md%; supports **[microbial inoculant production](../components/microbial-inoculant-production.md)**.
 
 2. **Atmospheric Water Generation (AWG)**  
    - **Technology**: Embedded AWG channels in **[roof glazing](../components/tiles-catalog.md)** and **[exterior cladding](../components/tiles-catalog.md)** tiles condense humidity from air. Indoor AWG in **[insulating tiles](../components/tiles-catalog.md)** recaptures evapotranspiration and respiration.  
