@@ -1,117 +1,88 @@
 ---
 layout: default
-title: Large & Specialty Livestock Pods – Genesis Network
-description: Detailed specifications, design, integration, and viability impact of large and specialty livestock pods in the Genesis Network.
+title: Livestock Pod (Large/Specialty) – Genesis Network
+description: Detailed specification of large and specialty livestock pods, including design, staggered delivery, integration, costs, revenues, and welfare features.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Large & Specialty Livestock Pods  
-**Genesis Network Component Specification**  
-**Last Updated: January 21, 2026**
+# Livestock Pod (Large/Specialty)  
+**Genesis Network Component Specification**
 
-## Overview
+**Livestock Pods** are a core element of the **[pod-centric architecture](../pods-catalog.md)**, designed to produce milk, meat, fiber, eggs, and offspring in continuous, year-round cycles while maintaining high animal welfare, biosecurity, and full integration into the closed-loop regenerative system.
 
-**Large and specialty livestock pods** are modular, self-contained units built on the **40 ft high-cube ISO container** platform, designed for high-welfare, continuous-output production of milk, meat, fiber, and breeding stock. They are a core element of the **pod-centric architecture**, enabling rapid deployment, mobility, biosecurity, and integration with the broader regenerative system.
+These pods support both **large animals** (cattle, horses, bison) and **specialty livestock** (goats, sheep, alpaca, llamas, emu/ostrich) with species-specific layouts, robotic automation, and **[staggered delivery](#staggered-delivery)** to eliminate seasonal revenue dips and balance nutrient flows to **[biogas digesters](../pods-catalog.md#biogas-digester-pod)**.
 
-These pods support **staggered delivery** (AI-managed, natural-cycle breeding in overlapping phases) to ensure year-round output, balanced nutrient flows to **biogas digesters**, and steady workload for **lights-out robotic systems**. They transition from pod-based to fixed barns only when herd sizes exceed ~100 animals (post-2035 scale trigger).
+## 1. Pod Base Specifications
 
-## Pod Variants
+- **Form Factor**: 40 ft high-cube ISO container (12.192 m × 2.438 m × 2.896 m internal)  
+- **Shell Evolution**: Recycled steel → 95–100% waste-derived toughened ceramic (60–100+ MPa compressive, munitions-resistant 8–9/10, embedded **[Faraday mesh](../smart-airlock-security.md)** for EMP protection)  
+- **Power**: 5–20 kW (BIPV glazing 10–30% + biogas microturbine + piezo floors); sodium-ion batteries (2–5 days autonomy)  
+- **Water**: 95–99% closure via AWG, rainwater, digestate recovery; slurry piping to digesters  
+- **Biosecurity**: Dual smart airlocks with mmWave/multispectral scanning (pathogen, weapons, explosives detection) + UV/HEPA sterilization  
+- **Automation**: Lights-out robotics (feeding, milking, shearing, health monitoring, manure removal); RISC-V edge AI  
+- **Sensors**: Hyper-dense (3–5× redundancy): mmWave vitals, VOC disease detection, temperature/humidity, ammonia, strain  
+- **Mobility**: Autonomous wheeled/tracked movers; amphibious variants for coastal zones  
+- **Connectivity**: Smart ceramic pipes (bidirectional power/water/slurry/data/manure)
 
-### 1. Large Animal Pods  
-Target species: **beef/dairy cattle**, **draft horses**, **plains bison**
+## 2. Large Animal Pod Variants
 
-- **Capacity**: 10–30 adult animals per pod  
-- **Design Features**  
-  - Divided pens with robotic rotary milking/parlors  
-  - Climate control via earth tubes + ceramic thermal mass  
-  - Airlocked outdoor paddock access for rotational grazing  
-  - Embedded **strain/vibration sensors** for health/structural monitoring  
-- **Staggered Delivery**  
-  - 4–6 breeding phases/year → continuous calving/foaling  
-  - Daily milk, quarterly meat/offspring, continuous manure output  
-- **Outputs**  
-  - Milk (robotic collection)  
-  - Meat & hides  
-  - Manure slurry piped to **biogas digesters**  
-  - Leather/byproducts  
-- **Integration**  
-  - Grazing under **agrivoltaics** and **orchard pods**  
-  - Slurry feed to **biorefinery** for biogas/biochar  
-  - Manure waste → **microbial inoculant** production  
+| Variant                  | Capacity (Adults) | Primary Outputs                     | Robotic Systems                          | Integration Points                          |
+|--------------------------|-------------------|-------------------------------------|------------------------------------------|---------------------------------------------|
+| **Beef/Dairy Cattle**    | 10–30             | Milk (daily), meat/offspring (quarterly), manure | Rotary milking parlor, automated feeding, manure scraper | Slurry → biogas; grazing under **[agroforestry](../agroforestry-expansion-kit.md)** |
+| **Draft Horses**         | 10–25             | Work/offspring, manure, hides       | Feeders, grooming, health monitoring     | Manure → inoculants; traction in early hubs |
+| **Bison (Plains)**       | 10–20             | Meat/offspring, hides, manure       | Reinforced pens, automated feeding       | Regenerative grazing; high sequestration    |
 
-### 2. Specialty Livestock Pods  
-Target species: **goats**, **sheep**, **alpaca**, **llamas**, **emu/ostrich**
+## 3. Specialty Livestock Pod Variants
 
-- **Capacity**: 20–60 animals (higher density due to smaller size)  
-- **Design Features**  
-  - Multi-level pens (climbing structures for goats)  
-  - Automated shearing/fiber collection (alpaca/llama)  
-  - Egg collection trays (ratites)  
-  - Robotic feeding, health monitoring, and enrichment  
-- **Staggered Delivery**  
-  - 6–8 breeding phases/year → year-round lambing/kidding/crias/hatching  
-  - Continuous milk/cheese (goats), fiber, meat, eggs/feathers  
-- **Outputs**  
-  - Milk/cheese (goats)  
-  - Premium fiber (alpaca/llama wool)  
-  - Meat  
-  - Eggs/feathers (emu/ostrich)  
-- **Integration**  
-  - Grazing under **fruit/nut trees** in **agroforestry pods**  
-  - Waste to **inoculant** and **BSFL** production  
-  - Fiber/hides to **processing pods** (value-added textiles)  
+| Variant                  | Capacity         | Primary Outputs                     | Robotic Systems                          | Integration Points                          |
+|--------------------------|------------------|-------------------------------------|------------------------------------------|---------------------------------------------|
+| **Goats**                | 20–60            | Milk/cheese (daily), meat, manure   | Milking stations, climbing structures    | Milk → **[dairy processing pod](../pods-catalog.md#dairy-pod)**; manure → BSFL |
+| **Sheep**                | 20–60            | Wool, meat/lambs, milk (some breeds)| Automated shearing, lambing monitoring   | Wool → textile kits; grazing under trees    |
+| **Alpaca / Llama**       | 15–40            | Fiber (wool), manure, guard animals | Shearing arms, fiber sorting             | Premium fiber sales; highland adaptation    |
+| **Emu / Ostrich**        | 10–30            | Meat, eggs, feathers, leather       | Egg collection trays, automated feeding  | Meat → butcher pod; feathers for insulation |
 
-## Universal Livestock Pod Features
+## 4. Staggered Delivery System
 
-- **Welfare**  
-  - Biophilic design: natural light via **semi-transparent glazing**, enrichment robotics  
-  - Continuous **mmWave vitals** and **VOC disease detection**  
-- **Biosecurity**  
-  - Dual **smart airlocks** with pathogen scanning  
-  - Isolated quarantine zones  
-- **Automation**  
-  - **Lights-out** robotic feeding, milking, shearing, cleaning  
-  - Edge AI for breeding cycle management and anomaly alerts  
-- **Mobility & Resilience**  
-  - Autonomous relocation platform  
-  - Ceramic shell (munitions-resistant 8–9/10, Faraday mesh)  
-- **Self-Replication Tie-In**  
-  - Manure/fiber waste → biogas, biochar, ceramics for new pods  
+**Staggered delivery** is AI-managed, natural-cycle breeding (hormone-free) in 4–8 overlapping phases per year.
 
-## Manufacturing & Inputs
+- **Benefits**:
+  - Continuous daily/weekly output (milk, eggs, fiber, offspring)  
+  - No seasonal revenue gaps  
+  - Balanced manure/nutrient load for digesters  
+  - Steady robotic workload  
+- **Implementation**: Sensor-tracked fertility cycles, automated breeding gates, phased calving/lambing/kidding  
+- **Welfare**: Biophilic design (natural light via glazing, enrichment robotics), continuous health monitoring (mmWave vitals, VOC disease detection)
 
-- **Production**: Tile factory pods (kilns, extruders, presses) + robotic assembly  
-- **Inputs (70–95% waste-derived)**: C&D slag, rice husk ash (RHA), farm residues, ELFM/brownfield slag  
-- **Materials**: Toughened ceramic composites + embedded sensors/piezo  
-- **Cost per Pod**: $150–300K (mature phase, down 20% via pre-supply)  
-- **Revenue per Pod/year**: $400–1,200K (milk/meat/fiber + credits)  
-- **Margins**: 65–85% (continuous output + value-add processing)
+## 5. Welfare & Biosecurity Features
 
-## Integration & Standards
+- **Welfare**: Natural light, enrichment (toys, social zones), non-invasive monitoring, stress reduction via AI behavioral analysis  
+- **Biosecurity**: Isolated zones, quarantine sections, airlock scanning, UV/HEPA air treatment, wastewater sterilization  
+- **Standards Alignment**: ISO 11784/11785 (livestock RFID), GlobalG.A.P. equivalents, **[Genesis-STD-005 – Resilience Framework](../standards/genesis-std-005.md)**
 
-- **Links to Other Systems**  
-  - **Aquaponics pods**: Manure slurry → BSFL feed → insect protein back to fish  
-  - **Processing pods**: Fresh milk/meat/fiber → cheese, sausages, textiles  
-  - **Biorefinery**: Continuous manure input → stable biogas  
-  - **Agroforestry**: Rotational grazing under trees → soil regeneration  
-  - **TerraWell FreeCare**: Surplus milk/meat/cheese/fiber donated → tax offsets  
-- **Standards Compliance**  
-  - Animal welfare: GlobalG.A.P., ISO 11783 (ISOBUS)  
-  - Smart city: ISO/TC 268 KPIs, IEEE 2030 grid interop  
-  - Security: Smart airlocks with weapons/explosives scanning  
+## 6. Integration with Other Systems
 
-## Viability Impact
+- **Feed**: From **[staples pods](../pods-catalog.md#staples-pod)** and **[agroforestry](../agroforestry-expansion-kit.md)**  
+- **Waste**: Manure slurry piped to **[biogas digesters](../pods-catalog.md#biogas-digester-pod)**; solids to **[BSFL conversion pods](../pods-catalog.md#waste-conversion-pod)**  
+- **Outputs**: Milk/meat/fiber to **[processing pods](../pods-catalog.md#processing-pods)**; surplus to **TerraWell FreeCare**  
+- **Energy**: Waste heat recovery to greenhouses; biogas power loop  
 
-- **Revenue Stability**: Staggered delivery eliminates seasonal dips → +10–20% financial predictability  
-- **Regenerative Synergy**: Grazing + manure cycling → enhanced sequestration and soil health  
-- **Risk Reduction**: Pod isolation prevents disease spread; mobility enables rapid relocation  
-- **Political Appeal**: Diversified proteins/fiber strengthen **smallholder partnerships** narrative  
+## 7. Cost & Revenue (Mature Phase)
 
-**Overall Rating**: 8.5–9/10 — high-margin, resilient, and fully aligned with the regenerative mission.
+| Pod Type                  | CAPEX per Pod ($K) | Annual Revenue per Pod ($K) | Gross Margin | Payback Period |
+|---------------------------|--------------------|-----------------------------|--------------|----------------|
+| Large Animal (Cattle/Horse/Bison) | 150–300           | 400–1,200                   | 65–80%       | 1.5–3 years    |
+| Specialty (Goats/Sheep/Alpaca/Emu) | 120–250           | 300–1,000                   | 60–85%       | 1.8–3.5 years  |
+
+**Network-Wide Uplift**: +$20–50B/year by 2035 from continuous output, premium fiber/meat, and sequestration credits.
+
+**Related Documents**  
+- **[Pods Catalog](../pods-catalog.md)**  
+- **[Livestock Staggered Delivery Protocol](../standards/genesis-std-livestock-staggered.md)** (new)  
+- **[Smart Airlock & Biosecurity](smart-airlock-security.md)**  
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
 
 © 2025 Earth-Star Industries
