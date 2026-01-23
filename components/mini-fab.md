@@ -9,7 +9,7 @@ theme: minimal
 # Mini-Fab  
 **Sovereign Chip & Sensor Manufacturing in the Genesis Network**
 
-The **[Mini-Fab](../components/mini-fab.md)** is the Genesis Network’s modular, pod-cluster-based semiconductor and sensor fabrication facility. It produces mature-node (65–130 nm) sensors, edge AI chips, and robotics controllers in-house starting late 2029, with phased upgrades to advanced nodes (7 nm → 3 nm) after strict triggers. The system is designed for **lights-out** operation (80–95% automation by 2035), **regenerative closure** (70–95% waste-derived inputs), and **sovereign control** — ensuring the network remains independent of external semiconductor supply chains.
+The **Mini-Fab** is the Genesis Network’s modular, pod-cluster-based semiconductor and sensor fabrication facility. It produces mature-node (65–130 nm) sensors, edge AI chips, and robotics controllers in-house starting late 2029, with phased upgrades to advanced nodes (7 nm → 3 nm) after strict triggers. The system is designed for **lights-out** operation (80–95% automation by 2035), **regenerative closure** (70–95% waste-derived inputs), and **sovereign control** — ensuring the network remains independent of external semiconductor supply chains.
 
 ## 1. Purpose & Strategic Role
 
@@ -44,7 +44,7 @@ The **[Mini-Fab](../components/mini-fab.md)** is the Genesis Network’s modular
 
 ## 4. Sensor Integration & Data Moat
 
-The **[Mini-Fab](../components/mini-fab.md)** produces hyper-dense sensors for the **[data moat](../docs/data-moat.md)**:
+The **Mini-Fab** produces hyper-dense sensors for the **[data moat](../docs/data-moat.md)**:
 
 | Sensor Type                        | Node Requirement | Primary Application                           | Cost per Unit ($) | Annual Production (Units/hub) |
 |------------------------------------|------------------|-----------------------------------------------|-------------------|-------------------------------|
