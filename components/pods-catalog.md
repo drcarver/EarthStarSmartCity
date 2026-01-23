@@ -1,121 +1,55 @@
 ---
 layout: default
-title: Pods Catalog – Genesis Network
-description: Complete catalog of all pod variants in the Genesis Network, including aquaponics, livestock, biogas, housing, processing, and more.
+title: Pods Catalog – Genesis Network Components
+description: Comprehensive catalog of all pod types in the Genesis Network, including specifications, manufacturing, inputs, costs, revenues, and integration details.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
 # Pods Catalog  
-**Genesis Network Component Specifications**
+**Genesis Network – Core Modular Components**
 
-All pods in the Genesis Network follow the **pod-centric architecture** — standardized 40 ft high-cube ISO container bases (evolving to waste-derived toughened ceramics), modular, mobile, lights-out capable, and interconnected via **smart infrastructure** pipes. Pods are manufactured in **ceramic tile production** facilities using 70–95% waste-derived inputs (C&D slag, rice husk ash, farm residues, ELFM/brownfield slag).  
+All **pods** in the Genesis Network are based on modified **40 ft high-cube ISO containers**, designed for rapid bootstrap, mobility, resilience, lights-out automation, and **95–99% resource closure**. Early versions use recycled steel; mature versions transition to **95–100% waste-derived toughened ceramics** (from **C&D slag**, **rice husk ash**, **farm residues**, **ELFM slag**). Pods interconnect via **smart ceramic pipes** (bidirectional power/water/waste/data/slurry/bee transit).
 
-Every pod includes:  
-- BIPV glazing (10–30% transmittance)  
-- Embedded sensors (3–5× redundancy)  
-- Dual **smart airlocks** (mmWave/multispectral scanning for biosecurity/pathogens/weapons)  
-- Edge RISC-V compute for local AI processing  
-- 95–99% resource closure (water, nutrients, energy)  
+Pods are manufactured in **tile factory pods** (self-replicating kilns, extruders, robotic assembly) and delivered pre-seeded/pre-stocked from staging hubs or partnered greenhouses.
 
-## Pod Variants Catalog
+## Pods Catalog Table
 
-### 1. **Ceramic Tile Production Pod**
-- **Purpose**: Self-replicating factory for structural, cladding, glazing, and permeable tiles  
-- **Capacity**: 50,000–150,000 m²/month (mature)  
-- **Key Equipment**: Tunnel kilns, plasma vitrification unit, robotic handling  
-- **Inputs**: C&D slag, RHA silica, farm residues, ELFM slag  
-- **Outputs**: All Genesis tiles (roof glazing, exterior cladding, load-bearing, insulating, permeable)  
-- **Cost**: $150–250K (initial setup)  
-- **Revenue**: $500K–$1M/year per pod (premium smart tiles)  
-- **File**: [Tile Production Details](/components/tiles-catalog.md)  
+| Pod Type                              | Primary Function                              | Manufacturing Method                  | Input Sources                     | Materials                          | Cost ($K/unit) | Revenue ($K/year/unit) | Key Features & Integration |
+|---------------------------------------|-----------------------------------------------|---------------------------------------|-----------------------------------|------------------------------------|----------------|-------------------------|----------------------------|
+| **Ceramic Tile Production Pod**       | Produces all tiles & pipes                    | Tunnel kilns, plasma vitrification    | C&D slag, RHA silica, residues    | Toughened ceramics composites      | 150–250        | 500–1,000               | Self-replicating; waste-derived inputs |
+| **Enhanced Aquaponics Pod**           | Multi-trophic protein & greens production     | Bio-assembly + tile lining            | Farm residues, digestate          | Ceramics + glazing + tanks         | 100–200        | 300–800                 | Fish/crustaceans/mollusks/insects/plants; staggered cycles; see **Multi-Trophic Aquaponics** |
+| **Biogas Digester Pod**               | Waste-to-energy & nutrient recovery           | Ceramic-lined tanks + separators      | Manure, organic waste             | Ceramics + embeds                  | 80–150         | 200–500                 | Pre-inoculated; syngas + digestate output |
+| **Housing/Community Pod**             | Residential & community modules               | Tile snap-together modules            | Slag/residues                     | Ceramics + BIPV + airlocks         | 200–400        | 400–800 (amenities)     | **Smart airlocks**; dense balcony ag; free utilities |
+| **Staples Pod**                       | Rice/potatoes/wheat production                | Flooded trays + vertical racking      | RHA/slag                          | Ceramics + sensors                 | 90–180         | 250–600                 | Microbial boosts; continuous cycles |
+| **Orchard Pod**                       | Dwarf fruit/nut tree cultivation              | Trellised + dwarf tree pots           | Residues                          | Ceramics + glazing                 | 120–220        | 300–700                 | Pre-transplanted; agroforestry links |
+| **Livestock Pod (Large/Specialty)**   | Cattle/horses/bison/goats/sheep/alpaca/etc.   | Pens + robotic milking/shearing       | Waste/manure                      | Ceramics + embeds                  | 150–300        | 400–1,200               | **Staggered delivery**; grazing integration |
+| **Beehive Pod**                       | Pollination & honey production                | Modular hives + screened transit      | Residues                          | Ceramics + sensors                 | 50–100         | 100–300                 | Bee-safe; pollination boost |
+| **Recycling & Circular Pod**          | ELFM, plasma vitrification, waste processing  | Crushers/plasma torches               | C&D/brownfield                    | Ceramics + plasma                  | 100–200        | 300–600                 | Slag to tiles; nutrient recovery |
+| **Microbial Inoculant Pod**           | Custom inoculant production                   | Fermenters + cultures                 | Digestate                         | Ceramics + sensors                 | 50–100         | 100–300 (sales)         | +10–30% yield boosts; short-cycle testing |
+| **Restoration & DAC Pilot Pod**       | Blue-green carbon & direct air capture        | Wetland kits + CO₂ modules            | Waste/syngas                      | Ceramics + membranes               | 80–150         | 200–500 (credits)       | Sequestration; enhanced weathering |
+| **Smart Infrastructure Pod**          | Roads, pipes, charging networks               | Road/pipe assembly                    | C&D/slag                          | Ceramics + piezo/solar             | 100–200        | 300–700                 | Inductive charging; security standards |
+| **Education/Telepresence Pod**        | VR/AR training & remote ops                   | VR stations + edge compute            | Residues                          | Ceramics + electronics             | 60–120         | 100–200 (tourism)       | Competency modules; burnout reduction |
+| **Robotics & Automation Pod**         | Swarm bots & lights-out systems               | Assembly + RISC-V chips               | Waste/slag                        | Ceramics + sensors                 | 150–250        | 400–800                 | Oversight distribution; automation scale |
+| **Processing Pod Suite**              | Bakery, brewery, butcher, confectionary, dairy | Robotic lines + ovens/mixers          | Farm outputs                      | Ceramics + embeds                  | 80–150 each    | 200–500 each            | Value-add; halal/kosher modes |
 
-### 2. **Enhanced Aquaponics Pod** (Multi-Trophic)
-- **Purpose**: High-density protein + greens production with full trophic layering  
-- **Variants**: Standard (Tilapia + prawns + BSFL + greens), Premium Protein (Catfish/Trout + crayfish + mussels), Saltwater Pilot (Barramundi + kelp)  
-- **Capacity**: 5–15 tons edible protein/year + 8–12 cycles greens  
-- **Key Features**: Vertical racking, CO₂ enrichment, staggered cycles, microbial inoculants  
-- **Inputs**: Fish feed from BSFL, nutrients from waste/manure  
-- **Outputs**: Fish, prawns/crayfish, mussels (optional), microgreens/herbs  
-- **Cost**: $100–200K  
-- **Revenue**: $300–800K/year (freshwater); $400K–$1.5M (saltwater)  
-- **File**: [Multi-Trophic Aquaponics](/components/pods/aquaponics-multi-trophic.md)  
+## Sensor List (Separate Table)
 
-### 3. **Livestock Pod** (Large & Specialty)
-- **Purpose**: Continuous milk/meat/fiber/offspring production with animal welfare  
-- **Variants**: Large (cattle/horses/bison, 10–30 adults), Specialty (goats/sheep/alpaca/emu, 20–60 animals)  
-- **Key Features**: Robotic milking/shearing, staggered delivery (4–8 phases/year), biophilic design, health monitoring  
-- **Inputs**: Feed from staples/agroforestry, manure piped to biogas  
-- **Outputs**: Milk, meat, fiber, offspring, manure (biogas feedstock)  
-- **Cost**: $150–300K  
-- **Revenue**: $400–$1,200K/year (staggered output stability)  
-- **File**: [Livestock Pods](/components/pods/livestock-staggered.md)  
+All pods use **hyper-dense sensors** (3–5× redundancy) compliant with **[IEEE 1451](../docs/standards/ieee-1451.md)** and **[OGC SWE](../docs/standards/ogc-swe.md)**. Edge AI processes locally for privacy.
 
-### 4. **Biogas Digester Pod**
-- **Purpose**: Energy + nutrient recovery from organic waste  
-- **Capacity**: 50–200 tons/year feedstock → stable methane in 1–2 weeks  
-- **Key Features**: Pre-inoculated, ceramic-lined tanks, separators, microturbines  
-- **Inputs**: Manure, food waste, aquaponics sludge, crop residues  
-- **Outputs**: Biomethane, digestate (fertilizer/water recovery)  
-- **Cost**: $80–150K  
-- **Revenue**: $200–500K/year (energy sales + tipping fees)  
+| Sensor Type                        | Primary Pod Applications                      | Specs & Range                              | Standards Compliance               | Cost ($/unit) | Notes |
+|------------------------------------|-----------------------------------------------|--------------------------------------------|------------------------------------|---------------|-------|
+| Electrochemical/Optical            | Aquaponics, water quality                     | pH ±0.1; nutrients ppm                     | IEEE 1451                          | 10–20         | Real-time closure |
+| Nanobiosensors/Microbial           | Soil health, plant stress                     | Microbial activity 1–10 ppm                | OGC SWE                            | 15–30         | Inoculant optimization |
+| mmWave/IR-UWB Radar                | Health monitoring, security (airlocks)        | Vitals/fall detection 10–50m               | MIL-STD-810                        | 20–40         | Weapons/explosives scan |
+| Multispectral/VOC                  | Pest/disease detection, air quality           | 5–20 bands; VOC ppm                        | NASA-STD-3001                      | 15–25         | Early warning |
+| Strain/Vibration/Thermal           | Structural integrity, roads                   | Strain ±0.1%; –50–150°C                    | ITU-T Y.4900                       | 10–20         | Predictive alerts |
+| Flow/Pressure/Acoustic             | Pipes, leak detection                         | 0.1–100 L/min; dB sensitivity              | IEEE 2030                          | 12–25         | Anomaly detection |
+| PAR/Humidity/Soiling               | Greenhouse optimization                       | 400–700 nm; ±5% RH                         | ISO/TC 268                         | 8–15          | Yield tuning |
 
-### 5. **Housing / Community Pod**
-- **Purpose**: Luxury, resilient living with integrated amenities  
-- **Features**: Snap-together ceramic modules, DC appliances, balcony/rooftop dense ag, **smart airlocks**, telepresence stations  
-- **Capacity**: 4–20 residents per pod cluster  
-- **Cost**: $200–400K  
-- **Revenue**: $400–800K/year (amenities, tourism, resident productivity)  
-- **File**: [Housing & Community Pods](/components/pods/housing-community.md)  
+All pods integrate **[smart airlocks](../components/smart-airlock-security.md)** with mmWave/multispectral scanning for weapons/explosives/pathogens and AI alerts.
 
-### 6. **Processing Pods** (Value-Add Cluster)
-- **Variants**: Bakery, Brewery, Butcher, Confectionary, Dairy  
-- **Purpose**: Transform raw outputs into premium products (bread, cheese, beer, candies, yogurt)  
-- **Features**: Robotic lines, halal/kosher modes, packaging from hub byproducts  
-- **Cost**: $80–150K per pod  
-- **Revenue**: $200–500K/year per pod  
-- **File**: [Processing Pods](/components/pods/processing-value-add.md)  
+## Pod Manufacturing & Integration Notes
 
-### 7. **Microbial Inoculant Production Pod**
-- **Purpose**: Customized microbial consortia for yield boosts and soil regeneration  
-- **Features**: Fermenters, cultures, short-cycle testing  
-- **Cost**: $50–100K  
-- **Revenue**: $100–300K/year (kit sales + sequestration credits)  
-
-### 8. **Restoration & DAC Pilot Pod**
-- **Purpose**: Blue-green carbon restoration + direct air capture pilots  
-- **Features**: Wetland kits, CO₂ mineralization modules  
-- **Cost**: $80–150K  
-- **Revenue**: $200–500K/year (credits)  
-
-### 9. **Smart Infrastructure Pod**
-- **Purpose**: Roads, pipes, charging, security integration  
-- **Features**: Piezo/solar tiles, inductive charging, **smart city** compliance  
-- **Cost**: $100–200K  
-- **Revenue**: $300–700K/year (utilities export)  
-
-### 10. **Education / Telepresence Pod**
-- **Purpose**: VR/AR training, remote oversight, tourism  
-- **Features**: Dojo platform, competency modules  
-- **Cost**: $60–120K  
-- **Revenue**: $100–200K/year (training/tourism)  
-
-### 11. **Robotics & Automation Pod**
-- **Purpose**: Swarm bots, lights-out manufacturing, maintenance  
-- **Features**: RISC-V edge compute, self-replication  
-- **Cost**: $150–250K  
-- **Revenue**: $400–800K/year  
-
-### 12. **Smart Airlock Pod / Module** (Integrated in All)
-- **Purpose**: Biosecurity, pathogen/weapons scanning  
-- **Features**: mmWave/multispectral, UV/HEPA, AI alerts  
-- **Cost**: $20–40K (standalone kit)  
-- **Revenue**: $50–100K/year (upgrades/security contracts)  
-
-All pods are interconnected via **smart infrastructure** and produced in **ceramic tile production** facilities. Detailed specs in **[Pods Catalog](/components/pods-catalog.md)** and **[Tiles, Pods & Kits](/docs/tiles-pods-kits.md)**.
-
----
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
-
-© 2025 Earth-Star Industries
+- All pods built from **tile factory pods** (self-replicating kilns/extruders/robotic handling)  
+- Input sources: **70–95% waste-derived** (C&D slag, rice husk ash, farm residues, ELFM/brownfield slag)
