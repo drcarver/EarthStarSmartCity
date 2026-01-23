@@ -1,80 +1,95 @@
+---
+layout: default
+title: CAPEX and Revenue Breakdown – Genesis Network Financial Analysis
+description: Detailed breakdown of capital expenditures (CAPEX) and revenue projections per tile, pod, kit, and major component in the Genesis Network.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+theme: minimal
+---
+
 # CAPEX and Revenue Breakdown  
-**Detailed Financial Analysis per Tile, Pod, Kit, and Component**  
-**Genesis Network Master Plan**  
+**Genesis Network Financial Analysis**  
+**by Earth-Star Industries**  
 **January 21, 2026**
 
-This document provides a comprehensive breakdown of **Capital Expenditures (CAPEX)** and **revenue projections** for all major components of the Genesis Network, including **tiles**, **pods**, and **kits**. All figures are recalculated based on mature-phase efficiencies (2035+), incorporating waste-derived inputs (70–95%), automation gains, microbial yield boosts (+10–30%), and premium pricing from regenerative/carbon-negative attributes. Costs reflect 20–25% reductions from pre-supply and data moat optimizations; revenues uplifted 25–35% from blockchain credits ($150–250/tCO₂e) and defensive/space synergies.
+This document provides a granular, recalculated financial breakdown for the core components of the **Genesis Network**. All figures are network-wide mature phase (2035+) unless otherwise noted, assuming self-funding post-2028–2029 and incorporating efficiencies from **waste-derived inputs**, **data moat** optimization, **microbial inoculants**, and **NASA/ISS-derived** closed-loop enhancements.
 
-See related catalogs: **[Tiles Catalog](components/tiles-catalog.md)**, **[Pods Catalog](components/pods-catalog.md)**, **[Kits Catalog](components/kits-catalog.md)**.
+Costs reflect production from **tile factory pods**; revenues include premium pricing, **blockchain credits** ($150–250/tCO₂e), and internal utilization offsets.
 
 ## 1. Tiles – CAPEX & Revenue Breakdown
 
-Tiles are manufactured in **Tile Production Pods** using C&D slag, RHA silica, and farm residues. Production: 1–5M m²/year per mature hub.
+| Tile Type                          | CAPEX per m² (Production) | Annual Production Cost per m² | Selling Price per m² | Annual Revenue per m² (Sales + Premiums) | Notes |
+|------------------------------------|---------------------------|-------------------------------|----------------------|------------------------------------------|-------|
+| **Roof Glazing (Semi-Transparent)** | $2.5–4.5                 | $1.8–3.2                      | $8–13                | $10–18 (incl. BIPV/AWG credits)          | Highest margin; 10–30% transmittance |
+| **Exterior Cladding**              | $2.2–4.0                 | $1.6–2.9                      | $7–12                | $9–16                                    | Cultural patterns uplift |
+| **Structural Load-Bearing**        | $1.6–3.0                 | $1.2–2.1                      | $5–8                 | $6–11                                    | Piezo energy harvest |
+| **Insulating**                     | $1.5–2.8                 | $1.1–2.0                      | $4.5–8               | $5.5–10                                  | Indoor AWG recapture |
+| **Permeable (Roads/Paths)**        | $2.0–3.5                 | $1.4–2.5                      | $6–10                | $8–14                                    | Stormwater + traffic energy |
+| **Foundation/Base**                | $1.4–2.5                 | $1.0–1.8                      | $4–7.5               | $5–9                                     | Structural monitoring |
 
-| Tile Type                          | CAPEX ($/m², Production Cost) | Revenue ($/m²/year, Sales/Premiums) | Key Drivers & Notes |
-|------------------------------------|-------------------------------|-------------------------------------|---------------------|
-| **Roof Glazing** (Semi-Transparent) | 2.5–4.5                      | 8–13                                | **BIPV** + AWG; highest ROI from power/water generation |
-| **Exterior Cladding**              | 2.2–4.0                      | 7–12                                | Supplementary **BIPV**; cultural patterns add premium |
-| **Structural Load-Bearing**        | 1.6–3.0                      | 5–8                                 | **Piezoelectric** harvesting powers sensors |
-| **Insulating**                     | 1.5–2.8                      | 4.5–8                               | Indoor **AWG** + thermal mass |
-| **Permeable Roads**                | 2.0–3.5                      | 6–10                                | Stormwater + traffic energy |
-| **Foundation/Base**                | 1.4–2.5                      | 4–7.5                               | Structural monitoring sensors |
-
-**Aggregate Tiles Financials (Mature Hub)**:  
-- CAPEX: $10–20M/year  
-- Revenue: $50–100M/year  
-- Margins: 65–85% (waste inputs + automation)
+**Tile Totals (Mature Hub)**:  
+- Production: 1–5M m²/year  
+- CAPEX (factory setup amortized): $50–150M/hub  
+- Revenue: $8–45M/hub/year (25% uplift from smart features/credits)
 
 ## 2. Pods – CAPEX & Revenue Breakdown
 
-Pods are assembled from tiles/kits; pre-supplied for rapid ramp-up.
+| Pod Type                           | CAPEX per Unit | Annual OPEX per Unit | Revenue per Unit/Year | Notes |
+|------------------------------------|----------------|----------------------|-----------------------|-------|
+| **Ceramic Tile Production**        | $150–250K     | $30–60K             | $500–1,000K           | Core replication engine |
+| **Greenhouse/Aquaponics (Multi-Trophic)** | $100–200K | $20–40K             | $300–800K             | Fish/crustaceans/insects/plants |
+| **Biogas Digester**                | $80–150K      | $15–30K             | $200–500K             | Pre-inoculated stability |
+| **Housing/Community**              | $200–400K     | $40–80K             | $400–800K (amenities) | Dense balcony ag integration |
+| **Livestock (Large/Specialty)**    | $150–300K     | $30–60K             | $400–1,200K           | Staggered delivery |
+| **Beehive**                        | $50–100K      | $10–20K             | $100–300K             | Pollination + honey |
+| **Microbial Inoculant**            | $50–100K      | $10–20K             | $100–300K (sales)     | Yield booster |
+| **Restoration & DAC Pilot**        | $80–150K      | $15–30K             | $200–500K (credits)   | Blue-green + CO₂ mineralization |
+| **Smart Infrastructure**           | $100–200K     | $20–40K             | $300–700K             | Roads/pipes/charging |
 
-| Pod Type                           | CAPEX ($K/unit) | Revenue ($K/year/unit) | Key Drivers & Notes |
-|------------------------------------|-----------------|-------------------------|---------------------|
-| **Tile Production Pod**            | 150–250        | 500–1,000               | Core replication engine; plasma vitrification |
-| **Enhanced Aquaponics Pod**        | 100–200        | 300–800                 | **Multi-Trophic** layers; staggered fish/prawns |
-| **Biogas Digester Pod**            | 80–150         | 200–500                 | Pre-inoculated; syngas surplus |
-| **Housing/Community Pod**          | 200–400        | 400–800 (amenities/tourism) | Dense **balcony agriculture** integration |
-| **Livestock Pod** (Large/Specialty)| 150–300        | 400–1,200               | **Staggered Delivery** for continuous milk/meat |
-| **Processing Pod** (Bakery/Dairy/etc.) | 80–150 each  | 200–500 each            | Value-added premiums; halal/kosher modes |
-| **Microbial Inoculant Pod**        | 50–100         | 100–300 (kit sales)     | Yield boosts; short-cycle testing |
-| **Robotics & Automation Pod**      | 150–250        | 400–800                 | Lights-out efficiency |
-
-**Aggregate Pods Financials (Mature Hub, 50–100 pods)**:  
-- CAPEX: $10–30M/year  
-- Revenue: $20–80M/year  
-- Margins: 60–80%
+**Pod Totals (Mature Hub)**: 50–100 pods; CAPEX $5–15M/hub; Revenue $10–50M/hub/year.
 
 ## 3. Kits – CAPEX & Revenue Breakdown
 
-Kits are flat-pack for replication/affiliates.
+| Kit Type                           | CAPEX per Kit | Selling Price per Kit | Revenue per Kit/Year (Sales) | Notes |
+|------------------------------------|---------------|-----------------------|------------------------------|-------|
+| **Ceramic Tile & Pipe**            | $50–100K     | $150–300K            | $150–300K                    | Base replication |
+| **Enhanced Aquaponics**            | $80–150K     | $250–600K            | $250–600K                    | Multi-trophic variants |
+| **Livestock Pod**                  | $150–300K    | $400–1,200K          | $400–1,200K                  | Large/specialty |
+| **Microbial Inoculant Production** | $40–80K      | $100–250K            | $100–250K                    | Yield enhancer |
+| **Agroforestry Expansion**         | $50–100K     | $150–350K            | $150–350K                    | Dwarf trees |
+| **Restoration & Blue-Green Carbon**| $60–120K     | $200–400K            | $200–400K (credits)          | Wetland/dam kits |
+| **Mini-Fab**                       | $200–400K    | $500–1,000K          | $500–1,000K                  | Sensors/AI |
+| **DAC Pilot**                      | $80–150K     | $150–300K            | $150–300K (credits)          | CO₂ capture |
+| **Smart Airlock**                  | $20–40K      | $50–100K             | $50–100K (upgrades)          | Weapons/pathogen scan |
+| **Security & Smart City**          | $30–60K      | $100–200K            | $100–200K                    | ISO/TC 268 compliance |
 
-| Kit Type                           | CAPEX ($K/kit) | Revenue ($K/year/kit, Sales) | Key Drivers & Notes |
-|------------------------------------|----------------|------------------------------|---------------------|
-| **Ceramic Tile & Pipe Kit**        | 50–100        | 150–300                      | Base for all construction |
-| **Enhanced Aquaponics Kit**        | 80–150        | 250–600                      | Includes multi-trophic starters |
-| **Smart Airlock Kit** (New)        | 20–40         | 50–100                       | Weapons/explosives scanning |
-| **Microbial Inoculant Kit**        | 40–80         | 100–250                      | +10–30% yield enhancer |
-| **Restoration & DAC Kit**          | 60–120        | 200–400 (credits)            | Blue-green carbon sequestration |
-| **Mini-Fab Kit**                   | 200–400       | 500–1,000                    | Sovereign sensors/AI |
+**Kit Totals**: 20–50 types; CAPEX $2–8M/hub (amortized); Revenue $5–30M/hub/year from sales.
 
-**Aggregate Kits Financials (Network-Wide Sales)**:  
-- CAPEX: $5–15M/year (production)  
-- Revenue: $20–60M/year (affiliate/export)  
-- Margins: 70–85%
+## 4. Sensor List Table (Used Across Tiles/Pods/Kits)
 
-## 4. Network-Wide Financial Summary (2035+ Mature Phase)
+| Sensor Type                        | Primary Applications                          | Specs / Accuracy              | Standards Compliance                  | Cost per Unit | Notes |
+|------------------------------------|-----------------------------------------------|-------------------------------|---------------------------------------|---------------|-------|
+| **Electrochemical/Optical**        | Nutrient/pH/pathogen in water/aquaponics      | ±0.1 pH; 0–14 range           | **[IEEE 1451](../docs/standards/ieee-1451.md)** | $10–20       | Real-time closure |
+| **Nanobiosensors/Microbial**       | Soil microbial activity, plant stress         | 1–10 ppm sensitivity          | **[OGC SWE](../docs/standards/ogc-swe.md)**     | $15–30       | Inoculant efficacy |
+| **mmWave/IR-UWB Radar**            | Health monitoring, weapons/explosives scan    | 10–50m range; privacy mode    | **[MIL-STD-810](../docs/standards/mil-std-810.md)** | $20–40       | Airlock security |
+| **Multispectral/VOC**              | Pest/disease early warning, emissions         | 5–20 bands; ppm detection     | **[NASA-STD-3001](../docs/standards/nasa-std-3001.md)** | $15–25       | Data moat driver |
+| **Strain/Vibration/Thermal**       | Structural/road integrity, canopy stability   | ±0.1% strain; –50–150°C       | **[ITU-T Y.4900](../docs/standards/itu-t-y4900.md)** | $10–20       | Predictive alerts |
+| **Flow/Pressure/Acoustic**         | Pipe leaks, water flow, methane recapture     | 0.1–100 L/min; dB sensitivity | **[IEEE 2030](../docs/standards/ieee-2030.md)** | $12–25       | Anomaly detection |
+| **PAR/Humidity/Soiling**           | Greenhouse optimization, PV efficiency        | 400–700 nm; ±5% RH            | **[ISO/TC 268](../docs/standards/iso-tc-268.md)** | $8–15        | Yield tuning |
 
-- **Total Annual CAPEX**: $10–30B  
-- **Total Annual Revenue**: $35–135B  
-- **Net Cash Flow**: +$20–80B/year  
-- **IRR**: 55–82%  
-- **Key Uplifts**: Space synergies (+5–10%), dense ag (+20–40%), credits (+15–25%)
+**Sensor Totals (Mature Hub)**: 10,000–50,000 units; CAPEX $150–500K/hub; enables 15–25% yield uplift via **data moat**.
 
-Detailed projections: **[Cash Flow Summary](financials/cash-flow-summary.md)**, **[NPV/IRR Calculations](financials/npv-irr-calculations.md)**.
+## Financial Summary (Mature Hub, 2035+)
+
+- **CAPEX per Hub**: $5–15M (tiles/pods/kits amortized)  
+- **Annual OPEX**: $2–6M (automation reduces labor/energy)  
+- **Annual Revenue**: $20–80M (tiles $8–45M, pods $10–50M, kits $5–30M)  
+- **Net Cash Flow per Hub**: +$15–60M/year  
+- **Network-Wide (300–500 hubs)**: Revenue $6–40B/year; Net +$4.5–30B/year  
+
+All figures recalculated with **waste-derived** inputs (70–95%), **microbial boosts**, and **space-derived** efficiencies.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
 
 © 2025 Earth-Star Industries
