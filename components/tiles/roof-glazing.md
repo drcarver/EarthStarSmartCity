@@ -1,74 +1,50 @@
----
-layout: default
-title: Roof Glazing Tile – Genesis Network Components
-description: Detailed specification of the semi-transparent roof glazing tile used in Genesis Network greenhouses, housing, and community structures.
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
----
+# Roof Glazing Tiles
 
-# Roof Glazing Tile  
-**Semi-Transparent BIPV Glazing (10–30% Transmittance)**
-
-The **roof glazing tile** is the primary solar and daylighting component in the Genesis Network. It serves as the roof surface for **greenhouse pods**, **housing modules**, **community buildings**, and **vertical farming towers**, combining high natural light transmission with embedded power generation and water harvesting.
+**Roof glazing tiles** are semi-transparent, multifunctional glazing panels designed as the primary roofing element for **[greenhouse pods](../components/pods/greenhouse-aquaponics.md)**, **housing/community modules**, and other light-requiring structures in the **Genesis Network**. They combine solar power generation, atmospheric water harvesting, thermal/humidity monitoring, and cultural/patterned aesthetics while maintaining 10–30% light transmittance for optimal plant growth.
 
 ## Key Specifications
 
-- **Dimensions**: Standard 600 × 600 mm (modular, snap-together); custom sizes available  
-- **Transmittance**: 10–30% visible light (adjustable per application)  
-- **Power Output**: 100–300 Wp/m² peak (bifacial thin-film PV layers)  
-- **Water Harvesting**: Integrated AWG condensers + sloped channels → 40–70% of daily water needs in arid zones  
-- **Thermal Performance**: Low-E coating + ceramic thermal mass → U-value 0.8–1.2 W/m²·K  
-- **Durability**: 60–100+ MPa compressive strength; wind/snow load rating EN 12600 Class 2B2  
-- **Sensors Embedded**: PAR, thermal, humidity, soiling, strain (3–5× redundancy)  
-- **Weight**: 18–25 kg/m² (lightweight glass-ceramic composite)  
-- **Lifespan**: 40+ years (minimal degradation <0.5%/year)  
+- **Transmittance**: 10–30% (adjustable via thin-film PV layering)  
+- **Power Generation**: 100–300 Wp/m² peak; 5–40 kWh/day per standard pod roof  
+- **Water Harvesting**: Integrated AWG condensers + sloped gutters routed to structural conduits  
+- **Sensors**: Embedded PAR, thermal, humidity, soiling, strain (3–5× redundancy)  
+- **Materials**: RHA-derived glass-ceramic matrix + thin-film PV + micro-condensers  
+- **Input Sources**: Rice husk ash silica (80%), farm residues (pore-formers), C&D slag (toughening)  
+- **Manufacturing**: Tunnel kilns, plasma vitrification, robotic handling in **[tile production pods](../components/pods/tile-production.md)**  
+- **Cost**: $2.8–5.0/m² (mature scale)  
+- **Revenue**: $8.5–14.0/m²/year (premium sales, energy/water credits)  
 
-## Manufacturing Process
+## Integration & Benefits
 
-1. **Substrate**: Rice husk ash (RHA) silica (80%) + farm residues as pore-formers  
-2. **PV Integration**: Thin-film deposition (CIGS or perovskite) on semi-transparent glass-ceramic base  
-3. **AWG Channels**: Micro-condensers and capillary channels molded during pressing  
-4. **Firing**: Tunnel kiln 1,200–1,400°C with plasma vitrification for toughening  
-5. **Sensor Embedding**: IEEE 1451-compliant transducers inserted pre-firing  
-6. **Final Assembly**: Robotic handling + vision-guided quality control  
+- **Greenhouse Pods**: Maximizes natural daylight for **[multi-trophic aquaponics](../components/pods/aquaponics-multi-trophic.md)** while generating supplementary power and capturing condensate for recirculation.  
+- **Housing/Community**: Provides semi-transparent BIPV roofs for off-grid energy + indoor AWG humidity recapture.  
+- **Cultural Patterns**: Light-permeable designs allow heritage/regional motifs, enhancing biophilic appeal.  
+- **Resilience**: Impact-resistant (EN 12600); snow/ice heating traces (DC-powered, AI-triggered); Faraday mesh for EMP protection.  
 
-**Factory Location**: Produced exclusively in **tile production pods** or permanent ceramic factories (self-replicating kits).
+## Sensor Table for Roof Glazing Monitoring
 
-## Input Sources (70–95% Waste-Derived)
+| Sensor Type                        | Measurement                  | Specs                          | Standards Compliance                  | Cost ($/unit) | Purpose in Roof Glazing |
+|------------------------------------|------------------------------|--------------------------------|---------------------------------------|---------------|-------------------------|
+| PAR (Photosynthetically Active Radiation) | Light for photosynthesis     | 400–700 nm, ±5% accuracy       | **[IEEE 1451](../docs/standards/ieee-1451.md)** | 8–15         | Optimize plant growth   |
+| Thermal                            | Surface & ambient temperature | –50–150°C, ±0.5°C              | **[MIL-STD-810](../docs/standards/mil-std-810.md)** | 10–20        | Heat harvest trigger    |
+| Humidity                           | Indoor/outdoor moisture      | 0–100% RH, ±3%                 | **[ITU-T Y.4900](../docs/standards/itu-t-y4900.md)** | 8–15         | AWG efficiency          |
+| Soiling                            | Dust/pollution accumulation  | % reduction in transmittance   | **[OGC SWE](../docs/standards/ogc-swe.md)** | 12–25        | Cleaning schedule       |
+| Strain/Vibration                   | Structural integrity         | ±0.1% strain                   | **[NASA-STD-3001](../docs/standards/nasa-std-3001.md)** | 10–20        | Predictive maintenance  |
 
-- **Primary**: Rice husk ash (silica source), sugarcane bagasse, grape pomace (pore-formers/toughening)  
-- **Secondary**: C&D slag, ELFM vitrified slag, brownfield residues  
-- **Minimal Virgin**: Trace feldspar/quartz (early bootstrap only)  
+## Effects on System Performance
 
-## Cost & Revenue (Recalculated Mature Phase)
+- **Energy**: Primary generation source (highest yield due to optimal angle); supplements **BIPV cladding** by 60–80%.  
+- **Water**: Captures 40–70% of hub needs via outdoor AWG; indoor recapture from evapotranspiration.  
+- **Yield Boost**: Consistent light + CO₂ enrichment from biogas → +15–25% greenhouse output.  
+- **Viability**: Reduces external energy/water dependence; qualifies for **blockchain credits** ($150–250/tCO₂e).  
 
-| Metric                  | Value                  | Notes / Enhancements |
-|-------------------------|------------------------|----------------------|
-| Production Cost         | $2.5–4.5 / m²          | Down 20% from waste inputs + automation |
-| Selling Price (Internal) | $8.5–14.0 / m²        | Premium for BIPV + AWG features |
-| Selling Price (External/Affiliates) | $10–18 / m²     | +25% uplift from smart features/credits |
-| Annual Revenue / Hub    | $8–20M (roof coverage) | Assumes 10,000–20,000 m²/hub |
-| Payback Period          | 4–7 years              | Via power generation + water savings |
-
-## Integrated Features & Standards Compliance
-
-- **BIPV**: Semi-transparent thin-film layers (IEC 61215 / IEC 61730)  
-- **AWG**: Passive atmospheric water generation channels  
-- **Sensors**: PAR/thermal/humidity/soiling/strain (IEEE 1451, OGC SWE)  
-- **Smart City Alignment**: ISO/TC 268 KPIs, ITU-T Y.4900, IEEE 2030 grid interop  
-- **Sustainability**: ISO 14001, Cradle-to-Cradle principles  
-- **Impact Resistance**: EN 12600 (glazing safety)  
-
-## Related Components
-
-- **[Exterior Cladding Tile](/components/tiles/exterior-cladding.md)** – Vertical supplementary power  
-- **[Permeable Road Tile](/components/tiles/permeable-road.md)** – Stormwater + traffic energy  
-- **[Smart Airlock System](/components/smart-airlock-security.md)** – Building entry security  
-- **[Greenhouse/Aquaponics Pod](/components/pods/greenhouse-aquaponics.md)** – Primary application  
-- **[50-Year Roadmap](/roadmaps/50-year-roadmap.md)** – Long-term evolution  
+See also:  
+- **[Tiles Catalog](../components/tiles-catalog.md)**  
+- **[Smart Infrastructure Kit](../components/kits/smart-infrastructure.md)**  
+- **[Sensor Handbook](../docs/sensor-handbook.md)**  
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](/LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
 
 © 2025 Earth-Star Industries
