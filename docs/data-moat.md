@@ -8,7 +8,7 @@ theme: minimal
 
 # Edge AI for Real-Time Strain Optimization via **Data Moat**
 
-The **Genesis Network** employs **edge AI** to perform real-time analysis and optimization of structural strain across tiles, pods, roads, and buildings. This capability is powered by the **[data moat](../docs/data-moat.md)** — the continuously compounding, petabyte-scale dataset generated from hyper-dense sensors, short-cycle experiments, and parallel testing across the entire network.
+The **Genesis Network** employs **edge AI** to perform real-time analysis and optimization of structural strain across tiles, pods, roads, and buildings. This capability is powered by the **data moat** — the continuously compounding, petabyte-scale dataset generated from hyper-dense sensors, short-cycle experiments, and parallel testing across the entire network.
 
 ## Core Concept
 
