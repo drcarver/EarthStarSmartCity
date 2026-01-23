@@ -16,7 +16,7 @@ The system is designed to function in arid, temperate, and coastal environments,
 
 1. **Digestate Recovery**  
    - **Process**: Anaerobic digestion of manure, food waste, and aquaponics sludge produces biogas and nutrient-rich digestate. Liquid fraction is separated via ceramic membrane filtration and treated for reuse.  
-   - **Recovery Rate**: 15–25% of input water reclaimed as irrigation-grade; solids composted or fed to **[BSFL pods](../components/pods-catalog.md)**.  
+   - **Recovery Rate**: 15–25% of input water reclaimed as irrigation-grade; solids composted or fed to **[BSFL pods](pods/BSFL.md)**.  
    - **Integration**: Slurry piped directly from **[livestock pods](pods/livestock.md)** and **[aquaponics pods](pods/aquaponics-multi-trophic.md)** to **[biogas digester pods](pods/biogas-digester.md)**.  
    - **Benefits**: Eliminates external fertilizer need; reduces methane emissions 70–90livestock.md%; supports **[microbial inoculant production](../components/microbial-inoculant-production.md)**.
 
