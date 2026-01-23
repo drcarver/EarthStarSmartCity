@@ -10,21 +10,21 @@ theme: minimal
 
 **Water management** is a foundational pillar of the **Genesis Network**, achieving **95–99% resource closure** through a multi-layered, regenerative approach. All hubs operate near-complete water autonomy, with excess production used for aquifer recharge, export to affiliates, or support of **TerraWell FreeCare** humanitarian operations.
 
-The system is designed to function in arid, temperate, and coastal environments, with modular adaptations for space (lunar/Mars) applications tested via **[analog testing pods](../components/analog-testing.md)**.
+The system is designed to function in arid, temperate, and coastal environments, with modular adaptations for space (lunar/Mars) applications tested via **[analog testing pods](pods/analog-testing.md)**.
 
 ## Core Components of Water Management
 
 1. **Digestate Recovery**  
    - **Process**: Anaerobic digestion of manure, food waste, and aquaponics sludge produces biogas and nutrient-rich digestate. Liquid fraction is separated via ceramic membrane filtration and treated for reuse.  
    - **Recovery Rate**: 15–25% of input water reclaimed as irrigation-grade; solids composted or fed to **[BSFL pods](../components/pods-catalog.md)**.  
-   - **Integration**: Slurry piped directly from **[livestock pods](../components/pods/livestock.md)** and **[aquaponics pods](../components/pods/aquaponics-multi-trophic.md)** to **[biogas digester pods](../components/pods/biogas-digester.md)**.  
+   - **Integration**: Slurry piped directly from **[livestock pods](pods/livestock.md)** and **[aquaponics pods](pods/aquaponics-multi-trophic.md)** to **[biogas digester pods](pods/biogas-digester.md)**.  
    - **Benefits**: Eliminates external fertilizer need; reduces methane emissions 70–90livestock.md%; supports **[microbial inoculant production](../components/microbial-inoculant-production.md)**.
 
 2. **Atmospheric Water Generation (AWG)**  
-   - **Technology**: Embedded AWG channels in **[roof glazing](../components/tiles-catalog.md)** and **[exterior cladding](../components/tiles-catalog.md)** tiles condense humidity from air. Indoor AWG in **[insulating tiles](../components/tiles-catalog.md)** recaptures evapotranspiration and respiration.  
+   - **Technology**: Embedded AWG channels in **[roof glazing](tiles/roof-glazing.md)** and **[exterior cladding](tiles/exterior-cladding.md)** tiles condense humidity from air. Indoor AWG in **[insulating tiles](tiles//insulating.md)** recaptures evapotranspiration and respiration.  
    - **Capacity**: 40–70% of total water from tile-integrated AWG; supplementary compact units for arid peaks.  
    - **Efficiency**: +20–30% yield from heat recovery (waste heat from kilns/fabs); AI-triggered operation based on humidity forecasts.  
-   - **Space Adaptation**: Low-gravity condensate collection tested in **[analog testing pods](../components/analog-testing.md)** for lunar/Mars habitats.
+   - **Space Adaptation**: Low-gravity condensate collection tested in **[analog testing pods](pods/analog-testing.md)** for lunar/Mars habitats.
 
 3. **Rainwater & Stormwater Harvesting**  
    - **Design**: Sloped canopies and permeable **[road tiles](../components/tiles-catalog.md)** direct water to ceramic-lined cisterns; gutters pipe directly into structural supports.  
