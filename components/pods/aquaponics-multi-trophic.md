@@ -1,89 +1,82 @@
 ---
 layout: default
-title: Multi-Trophic Aquaponics Pods – Genesis Network
-description: Detailed specification of multi-trophic aquaponics pods, including species layering, system design, performance, and integration within the Genesis Network.
+title: Enhanced Aquaponics Pod – Genesis Network
+description: Detailed specification of the Enhanced Multi-Trophic Aquaponics Pod, including layers, variants, integration, manufacturing, costs, and revenues.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Multi-Trophic Aquaponics Pods  
-**Genesis Network Component Specification**
+# Enhanced Aquaponics Pod  
+**Genesis Network Core Component**
 
-**Multi-Trophic Aquaponics** pods form the protein and nutrient-cycling core of every **regenerative hub**. Each pod is a self-contained, closed-loop ecosystem built inside a modified **40 ft high-cube ISO container**, achieving **95–99% water and nutrient closure** while producing continuous, staggered harvests of fish, crustaceans, mollusks, insects, and plants.
+The **Enhanced Aquaponics Pod** is the primary protein and nutrient production module in the Genesis Network. Built inside a modified **40 ft high-cube ISO container**, it integrates **multi-trophic layers** (fish → crustaceans → mollusks → insects → plants) to achieve **95–99% resource closure**, continuous staggered harvests, and high-value edible outputs (greens, premium seafood, insect protein).
 
-## Pod Base Specifications
+## 1. Pod Base Specifications
 
-- **Physical Envelope**: 40 ft high-cube ISO container (~67 m³ internal volume)  
-- **Shell Evolution**: Recycled steel (early) → **95–100% waste-derived toughened ceramic** (mature, munitions-resistant 8–9/10 rating)  
-- **Cladding & Glazing**: Snap-on **ceramic tiles** with **semi-transparent BIPV glazing** (10–30% transmittance) + embedded **AWG channels**  
-- **Power**: 5–20 kW (BIPV roof + biogas microturbine + piezoelectric floor harvest)  
-- **Energy Storage**: Sodium-ion batteries (10–50 kWh, 2–5 days autonomy)  
-- **Water Management**: 100–400 L/day makeup (AWG + rainwater + digestate recovery); **95–99% recirculation**  
-- **Airlocks**: Dual smart **airlocks** with mmWave/multispectral scanning for biosecurity  
-- **Automation**: Lights-out robotics (feeding, harvesting, waste transfer); RISC-V edge AI  
-- **Sensors**: Hyper-dense array (3–5× redundancy): pH, ammonia, DO, temperature, VOC, multispectral imaging  
+- **Physical Dimensions**: 40 ft × 8 ft × 9.5 ft high-cube (internal ~300 m² effective volume with vertical racking)  
+- **Shell Evolution**: Recycled steel (early) → **95–100% toughened ceramic** (waste-derived, munitions-resistant 8–9/10) by 2035  
+- **Cladding**: Snap-on **ceramic tiles** (BIPV glazing 10–30%, embedded **sensors** and Faraday mesh)  
+- **Power**: 5–20 kW (BIPV roof + biogas microturbine + piezo floors); 10–50 kWh sodium-ion batteries  
+- **Water**: 100–400 L/day makeup (AWG + rainwater + digestate recovery); **95–99% recirculation**  
+- **Airlocks**: Dual smart airlocks with mmWave/multispectral scanning for biosecurity  
+- **Automation**: Lights-out robotics (feeding, harvesting, waste transfer); edge RISC-V compute  
+- **Monitoring**: Hyper-dense **sensors** (3–5× redundancy: pH, ammonia, DO, temperature, VOC, multispectral)  
+- **Mobility**: Autonomous relocation platform; amphibious variants for coastal/saltwater pilots  
 
-## Multi-Trophic Layering (Closed-Loop Synergy)
+## 2. Multi-Trophic Layers
 
-The system is deliberately layered to mimic natural trophic cascades:
+| Layer              | Primary Species                              | Role / Function                              | Density / Cycle                     | Edible Output                     | Integration Notes                     |
+|--------------------|----------------------------------------------|----------------------------------------------|-------------------------------------|-----------------------------------|---------------------------------------|
+| **Fish** (Primary Protein) | Tilapia (Nile/Blue hybrids), Catfish, Trout (freshwater); Barramundi, Red Drum (saltwater pilots) | Nutrient cycling, main protein source        | 500–5,000 fish/cluster; staggered stocking | 5–12 tons/year                    | Feeds crustaceans/insects via waste   |
+| **Crustaceans**    | Freshwater prawns (Macrobrachium), Red Claw crayfish | Detritus/algae cleaning, secondary protein   | 5–15 juveniles/m²; monthly harvest  | 1–3 tons/year                     | Hides (ceramic/PVC) to reduce cannibalism |
+| **Mollusks**       | Freshwater mussels/clams (native or controlled) | Filtration, nutrient polishing               | High density in beds/bottom tanks   | Optional edible (0.5–1 ton/year)  | Improves water clarity for fish/plants |
+| **Insects**        | Black Soldier Fly Larvae (**BSFL**), mealworms, crickets | Waste conversion, high-protein feed          | Weekly harvest (BSFL); continuous   | 2–5 tons/year (feed + human-grade) | Fed fish sludge, plant trimmings, manure |
+| **Plants**         | Greens/herbs/microgreens, staples (rice/potatoes in flooded trays) | Nitrate uptake, main edible biomass          | 8–12 cycles/year (greens); 3–6 (staples) | 10–30 tons/year                   | Vertical rafts + CO₂ from biogas      |
 
-1. **Primary Fish Layer** (Protein & Nutrient Engine)  
-   - Freshwater dominant (80–90% of pods): **Nile/Blue Tilapia hybrids**, **Channel Catfish**, **Rainbow Trout** (cold zones)  
-   - Saltwater/brackish pilots (coastal 10–20%): **Barramundi**, **Red Drum**, **Atlantic Salmon** (niche cold coastal)  
-   - Stocking: 500–5,000 fish per pod cluster; staggered cohorts for continuous harvest (every 6–12 months)  
+## 3. Pod Variants
 
-2. **Crustacean Layer** (Detritus & Algae Control)  
-   - **Freshwater prawns** (Macrobrachium rosenbergii) or **Red Claw Crayfish**  
-   - Density: 5–15 juveniles/m² with ceramic/PVC hides  
-   - Role: Consume uneaten feed, fish waste, algae → premium edible output  
+- **Standard Aquaponics Pod** → Tilapia + prawns + BSFL + greens (baseline high-yield)  
+- **Premium Protein Pod** → Catfish/Trout + crayfish + mussels + herbs (cold-climate/high-value)  
+- **Saltwater Pilot Pod** → Barramundi/Red Drum + kelp/Salicornia + BSFL (coastal only)  
+- **Waste Conversion Pod** → BSFL/mealworm focus (feedstock from livestock/processing)  
+- **Multi-Trophic Cluster** → 5–10 linked pods for full layering and redundancy  
 
-3. **Mollusk Layer** (Biofiltration & Nutrient Polishing)  
-   - Native freshwater mussels or controlled **Corbicula** clams  
-   - High density in grow beds and bottom tanks  
-   - Role: Filter particulates and excess nutrients; optional harvest (edible in some regions)  
+## 4. Manufacturing & Inputs
 
-4. **Insect Layer** (Waste Conversion to Feed)  
-   - Primary: **Black Soldier Fly Larvae** (BSFL – Hermetia illucens)  
-   - Secondary: **Mealworms**, **Crickets** (premium human/edible insect market)  
-   - Setup: Dedicated trays fed fish sludge, plant trimmings, livestock manure  
-   - Cycle: Weekly harvest → high-protein feed loop back to fish/poultry  
+- **Manufactured in**: **Ceramic Tile Production Pod** + assembly line (self-replicating kilns, extruders, robotic handling)  
+- **Primary Inputs**:  
+  - **C&D slag**, **ELFM slag**, **rice husk ash** (silica), farm residues (pore-formers)  
+  - Bio-seeding: pre-loaded fingerlings, juveniles, BSFL colonies, microbial inoculants  
+- **Materials**: **Toughened ceramic composites** (60–100 MPa), glass-ceramic glazing, embedded sensors/piezo  
+- **Cost per Pod**: $100–200K (early steel) → $80–150K (mature ceramic)  
+- **Revenue per Pod/Year**: $300–800K (freshwater) → $400K–1.5M (premium saltwater)  
 
-5. **Plant Layer** (Nitrate Uptake & Primary Edible Output)  
-   - Greens/herbs/microgreens (8–12 cycles/year)  
-   - Staples in flooded trays (rice/potatoes, 3–6 cycles/year)  
-   - Vertical racking + floating rafts; CO₂ enrichment from biogas digesters  
+## 5. Integration & Viability Enhancements
 
-## Performance & Economics (Mature Hub, 2035+)
+- **With Livestock Pods** → Manure slurry feeds BSFL → insect protein back to fish  
+- **With Processing Pods** → Fish/prawns → automated butcher/dairy lines → value-added goods  
+- **With TerraWell FreeCare** → Surplus seafood/greens donated → enhanced tax deductions  
+- **With Data Moat** → 50–500 parallel test tanks → ruthless yield optimization  
+- **Microbial Inoculants** → +10–30% across all trophic levels  
+- **Smart Airlocks** → Biosecurity for pandemic resilience  
 
-| Metric                             | Value per Pod (Annual)       | Value per Hub (50–100 pods) | Notes |
-|------------------------------------|------------------------------|-----------------------------|-------|
-| Edible Protein Output              | 5–15 tons                    | 250–1,500 tons              | Fish + prawns/crayfish + insects + optional mussels |
-| Revenue (Freshwater)               | $300–800K                    | $15–80M                     | Tilapia/catfish/prawns + greens |
-| Revenue (Saltwater Pilot)          | $400K–1.5M                   | $20–150M (coastal hubs)     | Barramundi + premium seafood |
-| Water Closure                      | 95–99%                       | Network-wide near 100%      | AWG + digestate + recirculation |
-| Yield Boost from Microbial Inoculants | +10–30%                    | +$50–200M/hub               | Tailored strains from data moat |
-| CAPEX per Pod (Mature)             | $100–200K                    | $5–20M per hub              | Reduced 25% via pre-supply & waste inputs |
+## 6. Sensor List (Aquaponics Pod-Specific)
 
-## Integration with Genesis Network
+| Sensor Type                        | Location / Purpose                           | Specs / Accuracy                     | Redundancy | Cost ($/unit) | Notes |
+|------------------------------------|----------------------------------------------|--------------------------------------|------------|---------------|-------|
+| pH / ORP                           | Water column, biofilter                      | ±0.05 pH; ±10 mV ORP                 | 3–5×       | 10–20         | Critical stability |
+| Ammonia / Nitrite / Nitrate        | Multiple zones                               | ±0.1 mg/L                            | 3×         | 15–30         | Nutrient cycling |
+| Dissolved Oxygen (DO)              | Fish tanks, root zones                       | ±0.1 mg/L                            | 5×         | 12–25         | Aeration control |
+| Temperature / Thermal Gradient     | All layers                                   | ±0.2°C                               | 4×         | 8–15          | Species-specific ranges |
+| VOC / Gas (CO₂, NH₃, H₂S)          | Air and water interface                      | ppm level                            | 3×         | 15–25         | Disease/pest early warning |
+| Multispectral Imaging              | Plant health, algae growth                   | 5–20 bands                           | 2–3×       | 20–40         | Yield prediction |
+| Flow / Pressure                    | Recirculation pumps, pipes                   | 0.1–100 L/min                        | 3×         | 12–20         | Leak/anomaly detection |
+| mmWave Radar                       | Fish behavior, biomass estimation            | Non-contact, 1–10 cm resolution      | 2×         | 25–50         | Welfare monitoring |
 
-- **Pre-Supply**: Delivered pre-seeded (fingerlings, juveniles, BSFL colonies, microbial cultures) from **staging hubs** or partnered greenhouses → first harvest Week 2–4  
-- **Waste Loops**: Fish sludge → BSFL → feed; manure from **livestock pods** → digesters → CO₂ for plants  
-- **Data Moat**: 50–500 parallel test tanks per hub → ruthless optimization of densities, feeds, temperatures  
-- **TerraWell Synergy**: Surplus protein/greens donated → enhanced §170(e)(3) deductions  
-- **Resilience**: Airlocks + closed loops enable pandemic/nuclear winter survivability  
-
-## Standards & Compliance
-
-- **Agriculture**: GlobalG.A.P., USDA organic equivalents  
-- **Closed-Loop Systems**: NASA-STD-3001 ECLSS principles  
-- **Sensors**: IEEE 1451, OGC SWE  
-- **Smart Buildings**: ISO/TC 268, ITU-T Y.4900  
-
-For full pod catalog see **[Pods Catalog](/components/pods-catalog.md)**.  
-For related kits see **[Kits Catalog](/components/kits-catalog.md)**.
+All sensors integrate with **hyper-dense sensor** standard (IEEE 1451, OGC SWE) and feed the **data moat** for real-time optimization.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
 
 © 2025 Earth-Star Industries
