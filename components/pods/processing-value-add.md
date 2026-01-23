@@ -9,15 +9,15 @@ theme: minimal
 # Processing Pod Suite  
 **Value-Added Production Modules in the Genesis Network**
 
-The **[Processing Pod Suite](../components/pods-catalog.md)** transforms raw agricultural, aquaponic, and livestock outputs into high-margin, shelf-stable, premium, and culturally adapted products. All pods are 40 ft high-cube ISO-based, constructed from **[waste-derived toughened ceramics](../docs/tiles-pods-kits.md)**, fully automated (lights-out capable), and integrated with **[smart airlocks](../components/smart-airlock-security.md)** for biosecurity and **[hyper-dense sensor arrays](../docs/sensor-handbook.md)** for quality control.
+The **Processing Pod Suite** transforms raw agricultural, aquaponic, and livestock outputs into high-margin, shelf-stable, premium, and culturally adapted products. All pods are 40 ft high-cube ISO-based, constructed from **[waste-derived toughened ceramics](../../docs/tiles-pods-kits.md)**, fully automated (lights-out capable), and integrated with **[smart airlocks](../components/smart-airlock-security.md)** for biosecurity and **[hyper-dense sensor arrays](../../docs/sensor-handbook.md)** for quality control.
 
 ## Core Objectives
 
 - Maximize revenue from primary production (e.g., grains, fruits, milk, meat, fish)  
-- Enable **[MyPlate-compliant](../docs/food-production.md)** gourmet and shelf-stable goods  
-- Support **[TerraWell FreeCare](../docs/terrawell-freecare.md)** with nutritious donations  
+- Enable **[MyPlate-compliant](../../docs/food-production.md)** gourmet and shelf-stable goods  
+- Support **[TerraWell FreeCare](../../docs/terrawell-freecare.md)** with nutritious donations  
 - Accommodate cultural/religious needs (halal, kosher, vegan options)  
-- Achieve **zero-waste** loop: trimmings → **[biogas digesters](../components/pods-catalog.md)** or **[BSFL waste conversion](../components/pods/aquaponics-multi-trophic.md)**  
+- Achieve **zero-waste** loop: trimmings → **[biogas digesters](biogas-digester.md)** or **[BSFL waste conversion](aquaponics-multi-trophic.md)**  
 
 ## Pod Variants & Specifications
 
@@ -45,8 +45,8 @@ All Processing Pods use **[hyper-dense sensors](../docs/sensor-handbook.md)** wi
 
 ## Manufacturing & Inputs
 
-- **Shell**: Waste-derived toughened ceramics from **[tile factory pods](../docs/tiles-pods-kits.md)**  
-- **Equipment**: Robotic arms, stainless internals (recycled where possible), embedded **[sensors](../docs/sensor-handbook.md)**  
+- **Shell**: Waste-derived toughened ceramics from **[tile factory pods](tile-production-pod.md)**  
+- **Equipment**: Robotic arms, stainless internals (recycled where possible), embedded **[sensors](../../docs/sensor-handbook.md)**  
 - **Inputs**: Primary from Genesis production (grains, milk, meat, fruits, honey); minimal external (spices, cultures)  
 - **Energy**: Biogas + BIPV; waste heat recovery from ovens to adjacent **[greenhouses](../components/pods-catalog.md)**  
 
