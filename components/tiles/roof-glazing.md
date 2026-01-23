@@ -1,6 +1,6 @@
 # Roof Glazing Tiles
 
-**Roof glazing tiles** are semi-transparent, multifunctional glazing panels designed as the primary roofing element for **[greenhouse pods](../components/pods/greenhouse.md)**, **housing/community modules**, and other light-requiring structures in the **Genesis Network**. They combine solar power generation, atmospheric water harvesting, thermal/humidity monitoring, and cultural/patterned aesthetics while maintaining 10–30% light transmittance for optimal plant growth.
+**Roof glazing tiles** are semi-transparent, multifunctional glazing panels designed as the primary roofing element for **[greenhouse pods](../pods/greenhouse.md)**, **[housing/community modules](../pods/housing-community.md)**, and other light-requiring structures in the **Genesis Network**. They combine solar power generation, atmospheric water harvesting, thermal/humidity monitoring, and cultural/patterned aesthetics while maintaining 10–30% light transmittance for optimal plant growth.
 
 ## Key Specifications
 
