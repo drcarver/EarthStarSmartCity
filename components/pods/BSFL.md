@@ -50,12 +50,12 @@ theme: minimal
 
 | Sensor Type                        | Applications                              | Specs                          | Standards Compliance                  | Cost ($/unit) |
 |------------------------------------|-------------------------------------------|--------------------------------|---------------------------------------|---------------|
-| Temperature & Humidity             | Optimal rearing conditions                | ±0.5°C, ±3% RH                 | **[IEEE 1451](../docs/standards/ieee-1451.md)** | 8–15         |
-| VOC / Ammonia                      | Odor & gas buildup detection              | 1–50 ppm sensitivity           | **[ITU-T Y.4900](../docs/standards/itu-t-y4900.md)** | 20–40        |
-| Multispectral Imaging              | Larval health, density, maturity staging  | 5–20 bands                     | **[OGC SWE](../docs/standards/ogc-swe.md)** | 25–50        |
-| CO₂ & Methane                      | Recapture tube monitoring, emissions      | 400–5,000 ppm                  | **[NASA-STD-3001](../docs/standards/nasa-std-3001.md)** | 15–30        |
-| Weight / Tray Load                 | Biomass accumulation, harvest timing      | ±0.1 kg accuracy               | **[MIL-STD-810](../docs/standards/mil-std-810.md)** | 10–20        |
-| Airflow / Pressure                 | Ventilation & screened intake monitoring  | 0.1–10 m/s                     | **[ISO/TC 268](../docs/standards/iso-tc-268.md)** | 12–25        |
+| Temperature & Humidity             | Optimal rearing conditions                | ±0.5°C, ±3% RH                 | **[IEEE 1451](../../docs/standards/ieee-1451.md)** | 8–15         |
+| VOC / Ammonia                      | Odor & gas buildup detection              | 1–50 ppm sensitivity           | **[ITU-T Y.4900](../../docs/standards/itu-t-y4900.md)** | 20–40        |
+| Multispectral Imaging              | Larval health, density, maturity staging  | 5–20 bands                     | **[OGC SWE](../../docs/standards/ogc-swe.md)** | 25–50        |
+| CO₂ & Methane                      | Recapture tube monitoring, emissions      | 400–5,000 ppm                  | **[NASA-STD-3001](../../docs/standards/nasa-std-3001.md)** | 15–30        |
+| Weight / Tray Load                 | Biomass accumulation, harvest timing      | ±0.1 kg accuracy               | **[MIL-STD-810](../../docs/standards/mil-std-810.md)** | 10–20        |
+| Airflow / Pressure                 | Ventilation & screened intake monitoring  | 0.1–10 m/s                     | **[ISO/TC 268](../../docs/standards/iso-tc-268.md)** | 12–25        |
 
 ## Effects on Timelines & Financials
 
