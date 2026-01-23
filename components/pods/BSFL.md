@@ -9,7 +9,7 @@ theme: minimal
 # BSFL Pods  
 **Black Soldier Fly Larvae (Hermetia illucens) Pods in the Genesis Network**
 
-**BSFL pods** are dedicated modular units optimized for rapid, high-throughput conversion of organic waste into high-protein insect biomass (larvae) and frass (nutrient-rich residue). They form a critical waste-to-feed node in the **[multi-trophic aquaponics](../components/pods-catalog.md)** and **[livestock pods](../components/pods-catalog.md)** systems, closing nutrient loops and generating revenue from feed sales and frass as soil amendment.
+**BSFL pods** are dedicated modular units optimized for rapid, high-throughput conversion of organic waste into high-protein insect biomass (larvae) and frass (nutrient-rich residue). They form a critical waste-to-feed node in the **[multi-trophic aquaponics](aquaponics-multi-trophic.md)** and **[livestock pods](livestock.md)** systems, closing nutrient loops and generating revenue from feed sales and frass as soil amendment.
 
 ## Core Design Specifications
 
@@ -39,11 +39,11 @@ theme: minimal
 - **Waste Inputs**: Livestock manure, aquaponics sludge, kitchen/processing scraps, garden trimmings  
 - **Outputs**:  
   - Larvae → high-protein feed for fish, poultry, specialty livestock  
-  - Frass → microbial inoculant production and soil amendment in **[agroforestry expansion](../components/agroforestry-expansion-kit.md)**  
+  - Frass → microbial inoculant production and soil amendment in **[agroforestry expansion](../kits/agroforestry-expansion-kit.md)**  
   - Heat → waste heat recovery to greenhouses/canopies  
 - **Synergies**:  
   - Methane recapture tubes vent CO₂ safely for bee-safe processing  
-  - Frass boosts **[silvopasture](../components/silvopasture-integration.md)** soil health  
+  - Frass boosts **[silvopasture](livestock-silvopasture.md)** soil health  
   - Larvae reduce external feed costs 30–50% in closed loops  
 
 ## Sensor Table for BSFL Pod Monitoring
@@ -67,10 +67,10 @@ theme: minimal
   - Overall IRR boost: +3–7% (feed cost savings + sequestration credits)  
 
 **Related Documents**  
-- **[Livestock Pods](../components/pods-catalog.md)**  
-- **[Multi-Trophic Aquaponics](../components/pods/aquaponics-multi-trophic.md)**  
-- **[Agroforestry Expansion Kit](../components/agroforestry-expansion-kit.md)**  
-- **[Sensor Handbook](../docs/sensor-handbook.md)**  
+- **[Livestock Pods](livestock.md)**  
+- **[Multi-Trophic Aquaponics](aquaponics-multi-trophic.md)**  
+- **[Agroforestry Expansion Kit](../kits/agroforestry-expansion-kit.md)**  
+- **[Sensor Handbook](../../docs/sensor-handbook.md)**  
 
 ---
 
