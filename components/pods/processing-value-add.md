@@ -1,63 +1,70 @@
 ---
 layout: default
 title: Processing Pods – Value-Add & Food Transformation
-description: Detailed specification of Processing Pods in the Genesis Network, including bakery, brewery, butcher, confectionary, dairy, and other value-add modules.
+description: Detailed specification of all processing pods in the Genesis Network, including bakery, brewery, butcher, confectionary, dairy, and emerging value-add variants.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Processing Pods – Value-Add & Food Transformation
+# Processing Pods – Value-Add & Food Transformation  
+**Genesis Network Component Series**
 
-Processing Pods are a critical component of the **Genesis Network**’s closed-loop regenerative ecosystem. These specialized 40 ft high-cube ISO container-based modules transform raw outputs from **enhanced multi-trophic aquaponics**, **large/specialty livestock pods**, and **staples/agroforestry zones** into high-value, shelf-stable, culturally appropriate, and premium food products. They enable revenue diversification, reduce waste, increase nutritional access, and provide donation streams for **TerraWell FreeCare**.
+**Processing pods** are a critical layer in the **Genesis Network** that transform raw outputs from **[enhanced aquaponics pods](aquaponics-multi-trophic.md)**, **[livestock pods](livestock-large-specialty.md)**, and **[staples pods](../components/pods-catalog.md)** into high-value, shelf-stable, culturally appropriate, and market-ready food products. These pods enable **premium revenue streams**, **zero-waste loops**, **food sovereignty**, and **humanitarian donations** to **TerraWell FreeCare**.
 
-All Processing Pods are constructed using **toughened ceramic tiles** and **flat-pack kits** from the central tile factory, feature **smart airlocks** for biosecurity, and integrate with **smart infrastructure** (bidirectional pipes for slurry/power/data). They operate in **lights-out** mode with robotic handling, supported by edge **RISC-V** compute and hyper-dense sensors.
+All processing pods are constructed exclusively from **toughened ceramics**, **snap-together tiles**, and **flat-pack kits** manufactured in **tile production pods**. They feature **lights-out automation**, **embedded sensors**, **smart airlocks** for biosecurity, and **waste heat recovery** from kilns/fabs.
 
-## Core Design Principles
+## 1. Core Processing Pod Specifications
 
-- **Modular & Scalable**: Snap-together ceramic shells; stackable vertically/horizontally  
-- **Closed-Loop Integration**: Inputs from aquaponics/livestock/staples; outputs feed community, markets, and **TerraWell** donations  
-- **Cultural & Religious Compliance**: Halal, kosher, vegetarian/vegan modes; configurable for regional needs  
-- **Automation & Traceability**: Robotic processing lines, blockchain-verified batch tracking  
-- **Waste Minimization**: All trimmings/sludge piped to **biogas digesters** or **microbial inoculant** production  
+| Specification                     | Description                                                                 | Materials & Tech                  | Cost ($K/unit) | Annual Revenue ($K/unit) |
+|-----------------------------------|-----------------------------------------------------------------------------|-----------------------------------|----------------|--------------------------|
+| **Base Structure**                | 40 ft high-cube ISO → ceramic shell upgrade                                 | Waste-derived toughened ceramics  | 80–150         | —                        |
+| **Power**                         | 5–15 kW (BIPV glazing + biogas microturbine)                                | Piezo floors + sodium-ion batteries | Included       | —                        |
+| **Automation**                    | Robotic arms, conveyor lines, vision-guided sorting                         | RISC-V edge AI + **[hyper-dense sensors](../docs/sensor-handbook.md)** | Included       | —                        |
+| **Biosecurity**                   | Dual **smart airlocks** (mmWave/multispectral + UV/HEPA)                    | Pathogen/weapons scanning         | Included       | —                        |
+| **Waste Loop**                    | Trimmings/sludge piped to **biogas digesters** or **BSFL pods**             | 95–99% closure                    | —              | —                        |
+| **Compliance**                    | Halal/kosher modes, GMP-ready surfaces, blockchain traceability            | ISO 22000 food safety alignment   | —              | —                        |
 
-## Processing Pod Variants
+## 2. List of All Processing Pods
 
-| Pod Type          | Primary Inputs                          | Key Outputs                              | Annual Revenue Estimate ($K/unit) | CAPEX ($K/unit) | Notes |
-|-------------------|-----------------------------------------|------------------------------------------|-----------------------------------|-----------------|-------|
-| **Bakery Pod**    | Grains (rice, wheat), fruits, honey     | Bread, pastries, flatbreads, tortillas   | 200–500                           | 80–150          | Wood-fired or electric ovens; gluten-free options |
-| **Brewery Pod**   | Grains, fruits, hops, honey             | Beer, cider, mead, kvass, non-alcoholic  | 250–600                           | 100–180         | Fermentation tanks; CO₂ capture for reuse |
-| **Butcher Pod**   | Livestock (cattle, goats, poultry)      | Fresh cuts, sausages, jerky, smoked meat | 300–700                           | 120–200         | Halal/kosher modes; automated deboning |
-| **Confectionary Pod** | Fruits, nuts, honey, chocolate precursors | Jams, candies, chocolates, dried snacks  | 250–550                           | 90–160          | Low-sugar variants; shelf-stable packaging |
-| **Dairy Pod**     | Milk (goat, cow, camel)                 | Cheese, yogurt, butter, ice cream        | 300–650                           | 110–190         | Robotic milking integration; lactose-free |
+| Pod Name                          | Primary Function & Outputs                                          | Key Equipment                     | Input Sources                          | Cost ($K/unit) | Revenue ($K/year/unit) | Notes / Cultural Adaptations |
+|-----------------------------------|---------------------------------------------------------------------|-----------------------------------|----------------------------------------|----------------|-------------------------|------------------------------|
+| **Bakery Pod**                    | Bread, pastries, flatbreads from grains/fruits/honey                | Ovens, mixers, proofers           | Staples, orchard fruits, honey         | 80–140         | 200–500                 | Halal/kosher options; gluten-free lines |
+| **Brewery Pod**                   | Beer, cider, kvass, kombucha from grains/fruits/honey               | Fermenters, filtration, bottling  | Staples, orchard fruits, honey         | 90–160         | 250–600                 | Low-alcohol/non-alcoholic variants |
+| **Butcher Pod**                   | Automated deboning, sausage, jerky, portioning from livestock/fish  | Deboners, grinders, vacuum sealers| Livestock, aquaponics fish             | 100–180        | 300–700                 | Halal/kosher ritual modes |
+| **Confectionary Pod**             | Candies, jams, chocolates, dried fruit snacks                       | Dryers, molders, tempering units  | Orchard fruits, honey, nuts            | 80–150         | 250–550                 | Sugar-reduced; traditional sweets |
+| **Dairy Pod**                     | Milk, cheese, yogurt, butter from goats/cows                        | Robotic milking, pasteurizers, churners | Livestock (goat/cow milk)              | 100–170        | 300–650                 | Lactose-free & fermented options |
+| **Value-Add Emerging Pod** (new)  | Sauces, powders, freeze-dried meals, ready-to-eat kits              | Freeze-dryers, blenders, packaging| Mixed outputs + herbs                  | 120–200        | 400–800                 | MRE-style emergency rations |
 
-## Technical Specifications (Common to All)
+## 3. Integration & Value Chain
 
-- **Shell**: 95–100% waste-derived toughened ceramics (C&D slag, RHA silica, farm residues)  
-- **Power**: 5–15 kW (BIPV glazing + biogas microturbine + piezo floors)  
-- **Water**: 95–99% recirculation via **AWG** + digestate recovery  
-- **Automation**: Robotic arms, vision-guided cutting/packaging, **RISC-V** edge AI  
-- **Biosecurity**: Dual **smart airlocks** with mmWave/multispectral scanning (pathogens, contraband)  
-- **Traceability**: Blockchain batch logging; QR codes on packaging  
-- **Compliance**: ISO 22000 (food safety), FDA GMP, halal/kosher certification modules  
+- **Inputs**: Continuous from **[enhanced aquaponics pods](../components/pods-catalog.md)** (fish/prawns/greens), **[livestock pods](../components/pods-catalog.md)** (milk/meat), **[staples pods](../components/pods-catalog.md)** (grains), **[orchard pods](../components/pods-catalog.md)** (fruits/nuts), **[beehive pods](../components/pods-catalog.md)** (honey).  
+- **Outputs**: Shelf-stable premium products → direct sales, **TerraWell FreeCare** donations, export kits.  
+- **Waste Loop**: Trimmings → **biogas digesters** or **BSFL pods** → insect protein back to fish/livestock.  
+- **Revenue Model**: 60–85% gross margins; blockchain traceability adds **$150–250/tCO₂e** credit premiums.
 
-## Integration with Genesis Network
+## 4. Sensor Integration (from Sensor Handbook)
 
-- **Inputs**: Direct piping from **livestock pods** (milk/meat), **aquaponics pods** (fish/prawns), **staples pods** (grains), **orchard pods** (fruits/nuts)  
-- **Outputs**: Community consumption, premium market sales, **TerraWell FreeCare** donations (tax-deductible under IRC §170(e)(3))  
-- **Waste**: Trimmings/sludge → **biogas digesters** → energy + digestate → **microbial inoculant** production  
-- **Revenue Streams**: Direct sales, branded premium products, donation offsets ($150–400M/year network-wide)  
+| Sensor Type                        | Application in Processing Pods                     | Purpose                                   |
+|------------------------------------|----------------------------------------------------|-------------------------------------------|
+| **Temperature & Humidity**         | Oven/fermenter control, storage conditions         | Product quality & safety                  |
+| **VOC & Gas**                      | Detect spoilage, off-gassing in fermentation       | Early spoilage warning                    |
+| **Vision/Multispectral**           | Quality inspection, portioning accuracy            | Automated sorting & defect detection      |
+| **Flow & Pressure**                | Liquid transfer (milk, wort, sauces)               | Leak detection & process consistency      |
+| **mmWave Pathogen Scanner**        | **Smart airlock** entry/exit                       | Biosecurity & contamination prevention    |
 
-## Viability Enhancements
+All sensors comply with **[hyper-dense sensor standard](../docs/sensor-handbook.md)** (3–5× redundancy, edge AI, blockchain logging).
 
-- **Short-cycle testing**: Parallel processing variants (e.g., different fermentation strains) feed data moat for ruthless optimization  
-- **Cultural adaptability**: Modular recipe libraries for halal, kosher, vegan, gluten-free, and regional preferences  
-- **Waste heat recovery**: Ovens/dryers capture heat → greenhouse pre-heating or district heating  
-- **Blockchain credits**: Verifiable sustainable processing → additional $50–150/tCO₂e equivalent  
+## 5. Viability Enhancements
 
-Processing Pods transform raw abundance into culturally resonant, high-margin products while closing nutrient loops and supporting humanitarian outreach.
+- **Cultural/Religious Modes**: Halal/kosher ritual slaughter lines, non-alcoholic brewing, gluten/lactose-free variants → global adoption  
+- **Automation**: Lights-out operation reduces labor (80–95% by 2035)  
+- **Donation Uplift**: Surplus → **TerraWell FreeCare** → **$100–300M/year** enhanced tax deductions  
+- **Data Moat**: Short-cycle testing (e.g., fermentation batches) feeds **[digital twins](../docs/viability-enhancements.md)** for rapid recipe optimization  
+
+See also: **[Processing Pod Integration](components/pods-catalog.md)**, **[Value-Add Revenue Model](../financials/capex-revenue-breakdown.md)**.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
 
 © 2025 Earth-Star Industries
