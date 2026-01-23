@@ -15,7 +15,7 @@ The **Greenhouse Pod Suite** is the primary food and biomass production platform
 
 - **Form Factor**: 40 ft high-cube ISO container (~300 m² effective growing/holding volume with vertical racking)  
 - **Shell Evolution**: Recycled steel → waste-derived toughened ceramics (60–100+ MPa) by 2035  
-- **Cladding & Glazing**: Snap-on **[ceramic tiles](../components/tiles-catalog.md)** with **semi-transparent BIPV glazing** (10–30% transmittance) for natural light + power  
+- **Cladding & Glazing**: Snap-on **[ceramic tiles](../tiles-catalog.md)** with **semi-transparent BIPV glazing** (10–30% transmittance) for natural light + power  
 - **Power**: 5–20 kW (BIPV + biogas microturbine + piezo floors); sodium-ion batteries (2–5 days autonomy)  
 - **Water**: 100–400 L/day input (AWG + rainwater + digestate recovery); 95–99% recirculation  
 - **Airlocks**: Dual smart airlocks with mmWave/multispectral scanning (biosecurity, pathogen detection)  
@@ -40,7 +40,7 @@ The **Greenhouse Pod Suite** is the primary food and biomass production platform
 - **Passive Features**: Solar chimneys, earth tubes, windcatchers, ceramic thermal mass  
 - **Active Supplements**: Tunable multi-spectrum LEDs (AI-optimized spectra), CO₂ enrichment from biogas digesters  
 - **Blackout & Pollution Control**: Retractable hemp/flax curtains; air filtration for external contaminants  
-- **Data-Driven Optimization**: **[Sensor Handbook](../docs/sensor-handbook.md)** integration (PAR, thermal, humidity, soiling sensors) → edge AI adjusts light, nutrients, airflow in real time  
+- **Data-Driven Optimization**: **[Sensor Handbook](../../docs/sensor-handbook.md)** integration (PAR, thermal, humidity, soiling sensors) → edge AI adjusts light, nutrients, airflow in real time  
 
 ## 4. Sensor Integration Table (Greenhouse-Specific)
 
