@@ -90,7 +90,7 @@ This pod is designed for **lights-out automation**, rapid self-replication, and 
 See also:  
 - **[Tiles Catalog](../tiles-catalog.md)**  
 - **[Smart Airlock & Security Kit](../smart-airlock-security.md)**  
-- **[Innovation Hub LLC Structure](../llc-structure.md)**  
+- **[Innovation Hub LLC Structure](../../docs/llc-structure.md)**  
 
 ---
 
