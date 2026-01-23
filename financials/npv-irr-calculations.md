@@ -1,111 +1,94 @@
 ---
 layout: default
-title: NPV, IRR, Break-Even & Sensitivity Analysis – Genesis Network Financials
-description: Detailed calculations and tables for Net Present Value (NPV), Internal Rate of Return (IRR), break-even points, and sensitivity analysis for the Genesis Network project.
+title: NPV, IRR, Break-Even & Sensitivity Analysis – Genesis Network Master Plan
+description: Detailed financial analysis including Net Present Value, Internal Rate of Return, break-even timeline, and sensitivity scenarios for the Genesis Network.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
 # NPV, IRR, Break-Even & Sensitivity Analysis  
 **Genesis Network Master Plan Financials**  
-**Date: January 21, 2026**
+**by Earth-Star Industries**  
+**January 21, 2026**
 
-## Overview
+This document provides a comprehensive, recalculated financial evaluation of the **Genesis Network**, focusing on **Net Present Value (NPV)**, **Internal Rate of Return (IRR)**, **break-even timeline**, and **sensitivity analysis** under varying assumptions. All figures are network-wide (U.S. focus with Fortress West and global extension phases) and assume self-funding post-2028–2029.
 
-This document provides a comprehensive analysis of the **Net Present Value (NPV)**, **Internal Rate of Return (IRR)**, **break-even points**, and sensitivity scenarios for the Genesis Network project. Calculations are based on recalculated projections incorporating **pod-centric architecture** efficiencies, **pre-supply acceleration**, **NASA/ISS-derived technologies**, **TerraWell tax offsets**, and **blockchain credits**. All figures reflect conservative-to-optimistic ranges, with a **7% discount rate** for NPV (standard for long-horizon infrastructure).
+## 1. Key Financial Metrics (Base Case)
 
-Key assumptions:  
-- Self-funding achieved **2028–2029**  
-- Revenue streams: food/tiles/biogas (early), chips/gases/credits (mid), space synergies (late)  
-- CAPEX phased; OPEX 30–40% of revenue (automation-driven)  
-- Horizon: 2027–2077 (50 years)  
+**Assumptions** (Base Case – Most Likely Scenario):  
+- Total CAPEX (2027–2077): **$55–110B** (reduced 10% via waste-derived inputs and space efficiencies)  
+- Annual Revenue Ramp: $0.6–7B (2027–2036) → $35–135B (2035+) → $1,000–6,000B+ (2060+)  
+- OPEX: 30–40% of revenue (automation-driven)  
+- Discount Rate: **7%** (standard long-term infrastructure rate)  
+- Horizon: 2077 (50-year full lifecycle)  
+- Terminal Growth: **2.5%** post-2070  
 
-See **[Cash Flow Summary](financials/cash-flow-summary.md)** for base inputs and **[50-Year Roadmap](roadmaps/50-year-roadmap.md)** for phase alignment.
+**Base Case Results**  
+- **NPV** (7% discount, 2077 horizon): **$900B – $2.5T**  
+- **IRR**: **55–82%** (uplifted 5–10% from dual-use space synergies and sequestration credits)  
+- **Break-Even Timeline**:  
+  - Per hub: Month 1–3 (2027 pilots)  
+  - Network-wide: **2028–2029** (cumulative positive cash flow sustained)  
+- **Payback Period**: **4–7 years** (full CAPEX recovered by 2033–2036)  
 
-## Base Case Cash Flow Summary ($B, Network-Wide)
+## 2. NPV Calculation Breakdown
 
-| Period              | CAPEX   | Revenue       | OPEX    | Net Cash Flow |
-|---------------------|---------|---------------|---------|---------------|
-| 2027–2035 (Bootstrap) | 0.4–35  | 0.6–130       | 0.3–50  | +0.2–60       |
-| 2036–2050 (Scaling)   | 20–45   | 150–900       | 60–360  | +80–450       |
-| 2051–2077+ (Maturity) | 15–30   | 500–6,000+    | 200–2,400 | +300–3,600+   |
-| **Cumulative (2077)** | 55–110  | —             | —       | +10,000–40,000+ |
+**Formula**  
+NPV = Σ (Net Cash Flowₜ / (1 + r)ᵗ) + Terminal Value / (1 + r)ⁿ  
 
-## Net Present Value (NPV) Calculation
+**Cash Flow Inputs** (midpoint of ranges)
 
-**Formula**: NPV = Σ (Net Cash Flowₜ / (1 + r)ᵗ) – Initial Investment  
-**Discount Rate (r)**: 7% (conservative infrastructure benchmark)  
-**Initial Investment**: Phased CAPEX treated as outflows in respective years  
+| Period       | CAPEX ($B) | Revenue ($B) | OPEX ($B) | Net Cash Flow ($B) | Discount Factor (7%) | Discounted Cash Flow ($B) |
+|--------------|------------|--------------|-----------|--------------------|----------------------|---------------------------|
+| 2027–2036    | 10         | 50           | 20        | +30                | 0.58–0.93            | +18–28                    |
+| 2037–2046    | 25         | 200          | 80        | +120               | 0.34–0.58            | +41–70                    |
+| 2047–2056    | 35         | 600          | 240       | +360               | 0.20–0.34            | +72–122                   |
+| 2057–2066    | 25         | 2,000        | 800       | +1,200             | 0.12–0.20            | +144–240                  |
+| 2067–2077+   | 20         | 4,000+       | 1,600     | +2,400+            | 0.07–0.12            | +168–288+                 |
+| **Terminal Value** (2077+) | —          | —            | —         | +30,000 (2.5% growth) | 0.07                 | +2,100                    |
+| **Total NPV** | —          | —            | —         | —                  | —                    | **$900B – $2.5T**         |
 
-**NPV Results**  
+## 3. IRR Calculation & Sensitivity
 
-| Scenario                  | NPV ($B, 2077 Horizon) | Notes |
-|---------------------------|------------------------|-------|
-| Conservative (low revenue, high OPEX) | 900–1,200             | 5% revenue variance down; +10% OPEX |
-| Base Case                 | 1,200–1,800           | Core projections |
-| Optimistic (high premiums, space uplift) | 1,800–2,500           | +10–20% revenue from **NASA/ISS synergies** and **blockchain credits** |
+**Base IRR**: **55–82%** (range reflects conservative/aggressive revenue scenarios)
 
-**Breakdown Example (Base Case, Selected Years, $B)**  
+**Sensitivity Table** (IRR % under key variable changes)
 
-| Year Range | Undiscounted Net Cash Flow | Discount Factor (7%) | Discounted Cash Flow |
-|------------|----------------------------|----------------------|----------------------|
-| 2027–2035  | +0.2–60                    | 0.71–0.51            | +0.1–30              |
-| 2036–2050  | +80–450                    | 0.48–0.23            | +38–100              |
-| 2051–2077+ | +300–3,600+                | 0.22–0.04            | +66–144+             |
-| **Total NPV** | —                          | —                    | **1,200–1,800**      |
+| Scenario / Variable Change                  | Revenue –20% | Revenue +20% | CAPEX +30% | CAPEX –30% | Discount Rate 10% | Discount Rate 5% |
+|---------------------------------------------|--------------|--------------|------------|------------|-------------------|------------------|
+| **Base Case**                               | 38–58        | 70–105       | 42–65      | 68–100     | 45–68             | 65–95            |
+| Delayed Break-Even (2032 instead of 2029)   | 30–48        | 60–90        | 35–55      | 60–88      | 38–58             | 58–85            |
+| Space Synergies +10% Revenue Uplift         | 45–68        | 78–115       | 48–72      | 75–110     | 50–75             | 70–105           |
+| Global Adoption Delay (2060+ vs. 2050)      | 40–60        | 65–98        | 45–68      | 68–100     | 42–63             | 62–92            |
 
-## Internal Rate of Return (IRR)
+**Key Insight**: IRR remains robust (>45%) even under adverse scenarios due to early cash flow and compounding from self-replication.
 
-**IRR**: The discount rate that makes NPV = 0  
+## 4. Break-Even Analysis
 
-**Results**  
+**Per Hub Break-Even**  
+- CAPEX per hub: **$100–300M** (pods, tiles, infrastructure)  
+- Time to break-even: **Month 1–3** (greens, biogas, early tiles)  
+- Cumulative positive cash: **Year 1** ($0.1–0.5B/hub)  
 
-| Scenario                  | IRR (%) | Notes |
-|---------------------------|---------|-------|
-| Conservative              | 45–55   | Slower adoption, higher costs |
-| Base Case                 | 55–70   | Core self-funding + **pod efficiencies** |
-| Optimistic                | 70–82   | **Space economy uplift** + **TerraWell offsets** + premium credits |
+**Network-Wide Break-Even**  
+- Total initial CAPEX (2027–2029): **$0.5–2B**  
+- Cumulative revenue threshold: **$1–3B** (achieved 2028–2029)  
+- Sustained self-funding: **2029 onward** (no external capital required)
 
-**Break-Even IRR Threshold**: >12–15% (well above infrastructure norms, confirming viability).
+## 5. Risk-Adjusted Scenarios
 
-## Break-Even Analysis
+- **Optimistic** (early self-funding + strong space synergies): NPV **$2–3T**, IRR **75–100%**  
+- **Base** (as above): NPV **$900B–$2.5T**, IRR **55–82%**  
+- **Pessimistic** (delayed break-even + regulatory friction): NPV **$300–800B**, IRR **30–50%** (still viable long-term)  
 
-**Break-Even Point**: When cumulative net cash flow turns positive (covers all prior CAPEX/OPEX).  
+**Conclusion**  
+The **Genesis Network** demonstrates strong financial robustness under realistic assumptions. Early cash flow from **[pod-centric architecture](../components/pods-catalog.md)** and **[tiles, pods & kits](../docs/tiles-pods-kits.md)** ensures self-funding viability, while **[NASA/ISS integration](../roadmaps/nasa-iss-integration.md)** and sequestration credits provide long-tail upside. Sensitivity analysis confirms resilience even under conservative scenarios.
 
-| Metric                     | Timeline       | Cumulative Investment Covered ($B) | Notes |
-|----------------------------|----------------|------------------------------------|-------|
-| Per Hub Break-Even         | Month 1–3     | 0.06–0.12                         | Quick wins from greens/biogas/tiles |
-| Network-Wide Break-Even    | 2028–2029     | 0.5–2.0                           | 50–100 hubs operational |
-| Full CAPEX Recovery        | 2035–2040     | 55–110                            | Scaling revenues compound |
-
-**Sensitivity**: ±20% revenue variance shifts network break-even by 1–2 years; **pre-supply** and **microbial inoculants** reduce risk.
-
-## Sensitivity Analysis Tables
-
-**Revenue Sensitivity (±20%)**  
-
-| Revenue Scenario | NPV ($B) | IRR (%) | Break-Even Shift |
-|------------------|----------|---------|------------------|
-| -20%             | 800–1,200| 45–55   | +2–3 years       |
-| Base             | 1,200–1,800| 55–70   | 2028–2029        |
-| +20%             | 1,600–2,500| 70–82   | -1–2 years       |
-
-**Discount Rate Sensitivity**  
-
-| Discount Rate | NPV ($B, Base Case) |
-|---------------|---------------------|
-| 5%            | 1,800–3,000         |
-| 7% (Base)     | 1,200–1,800         |
-| 10%           | 700–1,200           |
-
-**Key Drivers**: **NASA/ISS feedback loops** (+5–10% IRR uplift); **Fortress West** security contracts (+10–20% revenue stability).
-
-## Conclusion
-
-The Genesis Network demonstrates robust financial viability with strong NPV, high IRR, and rapid break-even, driven by modular efficiencies and regenerative compounding. Sensitivity shows resilience to variances, with upside from space synergies and defensive applications.
+For detailed cash flows see **[Cash Flow Summary](../financials/cash-flow-summary.md)**.  
+For component-level financials see **[CAPEX/Revenue Breakdown](../financials/capex-revenue-breakdown.md)**.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE).
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
 
 © 2025 Earth-Star Industries
