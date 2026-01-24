@@ -9,12 +9,12 @@ theme: minimal
 # Saltwater Pilot Pod  
 **Genesis Network Component Specification**
 
-The **[Saltwater Pilot Pod](saltwater-pilot-pod.md)** is a specialized coastal variant of the **[enhanced aquaponics pod](../components/pods-catalog.md)** designed to test and demonstrate marine/brackish multi-trophic systems. It enables premium seafood production while contributing to coastal restoration, nutrient cycling, and future space-relevant closed-loop adaptations (e.g., high-salinity ISRU water systems).
+The **Saltwater Pilot Pod** is a specialized coastal variant of the **[enhanced aquaponics pod](aquaponics-multi-trophic.md)** designed to test and demonstrate marine/brackish multi-trophic systems. It enables premium seafood production while contributing to coastal restoration, nutrient cycling, and future space-relevant closed-loop adaptations (e.g., high-salinity ISRU water systems).
 
 ## 1. Core Design & Purpose
 
 - **Base Unit**: 40 ft high-cube ISO container (~300 m² effective volume with vertical racking)  
-- **Shell**: Recycled steel early → 95–100% **[toughened ceramics](../components/tiles-catalog.md)** (waste-derived, corrosion-resistant)  
+- **Shell**: Recycled steel early → 95–100% **[toughened ceramics](../tiles-catalog.md)** (waste-derived, corrosion-resistant)  
 - **Amphibious Design**: Watertight ceramic lining, flotation modules, autonomous relocation platform for tidal/coastal mobility  
 - **Power**: 5–20 kW (BIPV glazing 10–30% + biogas microturbine + piezo floors)  
 - **Water**: 95–99% recirculation with salinity control (RO + AWG + digestate recovery); 100–400 L/day makeup  
@@ -22,7 +22,7 @@ The **[Saltwater Pilot Pod](saltwater-pilot-pod.md)** is a specialized coastal v
 - **Automation**: Lights-out robotics for feeding/harvesting/monitoring; edge RISC-V compute  
 - **Monitoring**: Hyper-dense sensors (3–5× redundancy: salinity, pH, DO, ammonia, VOC, multispectral)  
 
-**Primary Goal**: Prove commercial viability of saltwater/brackish aquaculture in a closed-loop pod; generate data for **[NASA/ISS integration](../roadmaps/nasa-iss-integration.md)** (e.g., brine-derived O₂ production, marine microbial resilience).
+**Primary Goal**: Prove commercial viability of saltwater/brackish aquaculture in a closed-loop pod; generate data for **[NASA/ISS integration](../../roadmaps/nasa-iss-integration.md)** (e.g., brine-derived O₂ production, marine microbial resilience).
 
 ## 2. Multi-Trophic Species & Outputs
 
@@ -46,10 +46,10 @@ The **[Saltwater Pilot Pod](saltwater-pilot-pod.md)** is a specialized coastal v
 
 ## 4. Integration with Silvopasture & Other Pods
 
-- **Linkage**: Manure slurry from **[livestock pods](../components/pods-catalog.md)** → BSFL → insect protein back to fish  
+- **Linkage**: Manure slurry from **[livestock pods](livestock.md)** → BSFL → insect protein back to fish  
 - **Canopy Synergy**: Transparent tiles over grazing zones → heat/water harvest → drip to halophytes  
-- **Bee Hives**: Optional **[beehive pods](../components/pods-catalog.md)** with screened tubes to canopy flowers for pollination  
-- **Space Relevance**: Soil beds + salinity tolerance trials → Mars brine ISRU analogs; **[data moat](../docs/data-moat.md)** refines ECLSS* for extreme environments  
+- **Bee Hives**: Optional **[beehive pods](beehive.md)** with screened tubes to canopy flowers for pollination  
+- **Space Relevance**: Soil beds + salinity tolerance trials → Mars brine ISRU analogs; **[data moat](../../docs/data-moat.md)** refines ECLSS* for extreme environments  
 
 ## 5. Sensor Table for Saltwater Pilot Pod
 
@@ -72,10 +72,10 @@ The **[Saltwater Pilot Pod](saltwater-pilot-pod.md)** is a specialized coastal v
   - Net Uplift: +$200–600K/year per pod  
   - Network-wide: +$5–15B/year by 2035 (coastal hubs)  
 
-See also: **[50-Year Roadmap](../roadmaps/50-year-roadmap.md)** for space feedback integration.
+See also: **[50-Year Roadmap](../../roadmaps/50-year-roadmap.md)** for space feedback integration.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
 
 © 2025 Earth-Star Industries
