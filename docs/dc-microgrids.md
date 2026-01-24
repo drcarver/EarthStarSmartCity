@@ -48,13 +48,13 @@ Additional alignment: **NIST Smart Grid Framework** for cybersecurity; **Matter/
 
 | Sensor Type                        | Applications | Specs | Standards Compliance | Cost ($/unit) |
 |------------------------------------|--------------|-------|----------------------|---------------|
-| **Power Metering (DC)**            | Real-time flow, export/import tracking | ±0.5% accuracy; bidirectional | **[IEEE 2030](../docs/standards/ieee-2030.md)** | 20–50         |
-| **Voltage/Current Monitoring**     | Grid stability, islanding detection | 0–1000V DC; ±0.1% | **[IEC SyC Smart Cities](../docs/standards/iec-syc-smart-cities.md)** | 15–30         |
-| **Battery State-of-Charge**        | Sodium-ion health, black-start readiness | SoC/SoH ±1% | **[NIST Smart Grid](../docs/standards/nist-smart-grid.md)** | 10–25         |
-| **Fault/Arc Detection**            | Safety, anomaly flagging | Microsecond response | **[IEEE 2030.1](../docs/standards/ieee-2030-1.md)** | 25–60         |
-| **Environmental (Thermal/Humidity)** | Efficiency optimization | –40–85°C; ±2% RH | **[ISO/TC 268](../docs/standards/iso-tc-268.md)** | 8–20          |
+| **Power Metering (DC)**            | Real-time flow, export/import tracking | ±0.5% accuracy; bidirectional | **[IEEE 2030](standards/ieee-2030.md)** | 20–50         |
+| **Voltage/Current Monitoring**     | Grid stability, islanding detection | 0–1000V DC; ±0.1% | **[IEC SyC Smart Cities](standards/iec-syc-smart-cities.md)** | 15–30         |
+| **Battery State-of-Charge**        | Sodium-ion health, black-start readiness | SoC/SoH ±1% | **[NIST Smart Grid](standards/nist-smart-grid.md)** | 10–25         |
+| **Fault/Arc Detection**            | Safety, anomaly flagging | Microsecond response | **[IEEE 2030.1](standards/ieee-2030-1.md)** | 25–60         |
+| **Environmental (Thermal/Humidity)** | Efficiency optimization | –40–85°C; ±2% RH | **[ISO/TC 268](standards/iso-tc-268.md)** | 8–20          |
 
-Sensors feature 3–5× redundancy, edge AI processing, and integration with **[data moat](../docs/data-moat.md)** for predictive maintenance.
+Sensors feature 3–5× redundancy, edge AI processing, and integration with **[data moat](data-moat.md)** for predictive maintenance.
 
 ## Benefits & Viability Impact
 
