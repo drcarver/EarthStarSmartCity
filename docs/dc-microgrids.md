@@ -10,7 +10,7 @@ theme: minimal
 
 **DC Microgrids** form the backbone of the Genesis Network's energy distribution system, enabling efficient, resilient, and regenerative power management across hubs, pods, and affiliate sites. By prioritizing direct current (DC) over traditional alternating current (AC) grids, the Network minimizes conversion losses (most loads—LEDs, electronics, motors, appliances—are DC-native), achieves **net-positive energy**, and supports **bidirectional power flow** for surplus sharing.
 
-This document details compliance, features, integration with **[Smart Infrastructure Kit](../components/smart-infrastructure-kit.md)**, and dedicated sensor monitoring.
+This document details compliance, features, integration with **[Smart Infrastructure Kit](../components/kits/smart-infrastructure-kit.md)**, and dedicated sensor monitoring.
 
 ## Standards Compliance
 
