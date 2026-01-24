@@ -8,7 +8,7 @@ theme: minimal
 
 # Piezoelectric Harvesting in the Genesis Network
 
-**Piezoelectric harvesting** converts mechanical stress and vibration into electrical energy using piezoelectric materials embedded in **toughened ceramic tiles**. This technology is a core feature of the Genesis Network's **smart infrastructure**, providing distributed, resilient micro-generation to reduce grid dependency and power **[dense sensor nets](../dense-sensor-nets.md)** and **[AWG channels](../awg-channels.md)** autonomously.
+**Piezoelectric harvesting** converts mechanical stress and vibration into electrical energy using piezoelectric materials embedded in **toughened ceramic tiles**. This technology is a core feature of the Genesis Network's **smart infrastructure**, providing distributed, resilient micro-generation to reduce grid dependency and power **[dense sensor nets](dense-sensor-nets.md)** and **[AWG channels](awg-channels.md)** autonomously.
 
 ## Integration Overview
 
