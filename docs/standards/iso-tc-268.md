@@ -20,20 +20,20 @@ In the Genesis Network, **ISO/TC 268** serves as the primary reference for smart
 
 | Standard                          | Title / Focus                                      | Genesis Network Application                          | Hyperlink |
 |-----------------------------------|----------------------------------------------------|------------------------------------------------------|-----------|
-| **ISO 37120**                     | Sustainable cities and communities — Indicators for city services and quality of life | Core KPIs tracked in real-time via dense sensor arrays (energy, water, waste, transport, safety, health) | [ISO 37120](docs/standards/ISO-37120.md) |
-| **ISO 37122**                     | Sustainable cities and communities — Indicators for smart cities | Smart infrastructure metrics (BIPV generation, piezo harvest, water recirculation, traffic flow) | [ISO 37122](docs/standards/ISO-37122.md) |
-| **ISO 37123**                     | Sustainable cities and communities — Indicators for resilient cities | Disaster resilience KPIs (airlock uptime, off-grid days, structural integrity, food/water closure rate) | [ISO 37123](docs/standards/ISO-37123.md) |
-| **ISO 37101**                     | Sustainable development in communities — Management system for sustainable development | Environmental management system (EMS) implemented across hubs; annual audits for ISO 14001 alignment | [ISO 37101](docs/standards/ISO-37101.md) |
-| **ISO 37104**                     | Sustainable cities and communities — Framework for integrating city systems | Interconnection of pods, smart pipes, microgrids, and restoration zones via bidirectional ceramic infrastructure | [ISO 37104](docs/standards/ISO-37104.md) |
-| **ISO 37106**                     | Sustainable cities and communities — Guidance on establishing smart city operating models | AI-driven governance, digital twins, and telepresence decision-making loops | [ISO 37106](docs/standards/ISO-37106.md) |
+| **ISO 37120**                     | Sustainable cities and communities — Indicators for city services and quality of life | Core KPIs tracked in real-time via dense sensor arrays (energy, water, waste, transport, safety, health) | [ISO 37120](iso-37120.md) |
+| **ISO 37122**                     | Sustainable cities and communities — Indicators for smart cities | Smart infrastructure metrics (BIPV generation, piezo harvest, water recirculation, traffic flow) | [ISO 37122](iso-37122.md) |
+| **ISO 37123**                     | Sustainable cities and communities — Indicators for resilient cities | Disaster resilience KPIs (airlock uptime, off-grid days, structural integrity, food/water closure rate) | [ISO 37123](iso-37123.md) |
+| **ISO 37101**                     | Sustainable development in communities — Management system for sustainable development | Environmental management system (EMS) implemented across hubs; annual audits for ISO 14001 alignment | [ISO 37101](iso-37101.md) |
+| **ISO 37104**                     | Sustainable cities and communities — Framework for integrating city systems | Interconnection of pods, smart pipes, microgrids, and restoration zones via bidirectional ceramic infrastructure | [ISO 37104](iso-37104.md) |
+| **ISO 37106**                     | Sustainable cities and communities — Guidance on establishing smart city operating models | AI-driven governance, digital twins, and telepresence decision-making loops | [ISO 37106](ISO-37106.md) |
 | **ISO 37110**                     | Sustainable cities and communities — Vocabulary | Standardized terminology across all documentation and stakeholder communications | [ISO 37110](docs/standards/ISO-37110.md) |
 
 ## Compliance & Monitoring Mechanisms
 
-- **Real-time KPI Dashboard**: Edge AI aggregates **hyper-dense sensor** data into **ISO 37120/37122** indicators; blockchain-verified logs for audits and credits.  
+- **Real-time KPI Dashboard**: Edge AI aggregates **hyper-dense sensor** data into **ISO [37120](iso-37120.md)/[37122](iso-37122.md)** indicators; blockchain-verified logs for audits and credits.  
 - **Annual Reporting**: Automated portal generates ISO-compliant sustainability reports for regulators, investors, and carbon markets.  
-- **Certification Pathway**: Phased alignment with **ISO 37101** EMS; third-party audits targeted 2030–2035.  
-- **Integration with Other Standards**: Cross-referenced with **IEEE 2030** (smart grid), **ITU-T Y.4900** (sustainable cities performance), and **ISO 14001** (environmental management).  
+- **Certification Pathway**: Phased alignment with **[ISO 37101](iso-37101.md)** EMS; third-party audits targeted 2030–2035.  
+- **Integration with Other Standards**: Cross-referenced with **[IEEE 2030](ieee-37101.md)** (smart grid), **[ITU-T Y.4900](itu-t-y4900.md)** (sustainable cities performance), and **[ISO 14001](iso-14001.md)** (environmental management).  
 
 ## Sensor Integration for ISO/TC 268 Compliance
 
@@ -41,14 +41,15 @@ The following table lists sensors that directly support **ISO/TC 268** KPIs, wit
 
 | Sensor Type                        | Primary ISO/TC 268 KPIs Supported                  | Location in Network                                  | Hyperlink |
 |------------------------------------|----------------------------------------------------|------------------------------------------------------|-----------|
-| **Flow/Pressure/Acoustic**         | Water consumption, leakage, stormwater management (ISO 37120) | Smart pipes, permeable tiles                         | [Flow/Pressure/Acoustic Sensors](docs/sensor-handbook.md#flow-pressure-acoustic) |
+| **Flow/Pressure/Acoustic**         | Water consumption, leakage, stormwater management (ISO 37120) | Smart pipes, permeable tiles                         | [Flow/Pressure/Acoustic Sensors](../sensors/
+flow-pressure-acoustictic.md) |
 | **PAR/Humidity/Soiling**           | Energy efficiency, air quality, urban heat island (ISO 37122) | Greenhouse glazing, BIPV roofs                       | [PAR/Humidity/Soiling Sensors](docs/sensor-handbook.md#par-humidity-soiling) |
 | **Strain/Vibration/Thermal**       | Infrastructure resilience, structural health (ISO 37123) | Foundations, roads, buildings                        | [Strain/Vibration/Thermal Sensors](docs/sensor-handbook.md#strain-vibration-thermal) |
 | **mmWave/IR-UWB Radar**            | Public safety, health monitoring, security (ISO 37122) | Smart airlocks, community zones                      | [mmWave/IR-UWB Radar](docs/sensor-handbook.md#mmwave-ir-uwb-radar) |
 | **Multispectral/VOC**              | Biodiversity, air quality, pollution (ISO 37120)   | Restoration corridors, aquaponics pods               | [Multispectral/VOC Sensors](docs/sensor-handbook.md#multispectral-voc) |
 | **Electrochemical/Optical**        | Water quality, nutrient cycling (ISO 37120)        | Aquaponics, water systems                            | [Electrochemical/Optical Sensors](docs/sensor-handbook.md#electrochemical-optical) |
 
-Full sensor handbook: **[Sensor Handbook](docs/sensor-handbook.md)**.
+Full sensor handbook: **[Sensor Handbook](../sensor-handbook.md)**.
 
 ## Strategic Value in the Genesis Network
 
@@ -59,11 +60,11 @@ Compliance with **ISO/TC 268** enables:
 - Enhanced resilience reporting for **Fortress West** defense alignment  
 - Transparent performance metrics for **smallholder partnerships** and **TerraWell FreeCare** impact measurement  
 
-For governance and management systems: **[ISO 37101](docs/standards/ISO-37101.md)**.  
-For smart city operating models: **[ISO 37106](docs/standards/ISO-37106.md)**.
+For governance and management systems: **[ISO 37101](iso-37101.md)**.  
+For smart city operating models: **[ISO 37106](iso-37106.md)**.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
 
 © 2025 Earth-Star Industries
