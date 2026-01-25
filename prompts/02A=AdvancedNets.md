@@ -49,6 +49,8 @@ title: Genesis Network – Consolidated Evolution & Key Changes (Post-Prompt 03 
 - Self-powered (piezo + small BIPV); 10–20+ year life.
 - Global rollout: degraded lands, brownfields, rewilding corridors, Arctic permafrost zones.
 - Planetary extension: Mars/Luna surface seeding (radiation-hardened variants).
+- The land based sensor net will have to deal with legal and national issuses.  Probably leading to local twins that choose what data will be exported
+- Provide a staelink equipped node for rural internet
 
 ## 6. Ocean PlaceNet – All-Oceans, Shoreline-to-Abyssal & Arctic Variant
 
