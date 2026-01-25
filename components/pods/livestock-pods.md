@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Silvopasture Integration with Livestock Pods
-description: Detailed specification for silvopasture systems integrated with livestock pods in the Genesis Network, including accelerated startup, transparent tile canopies, beehive integration, space-application enhancements, and impacts on timelines and financials.
+description: Detailed specification for livestock pods in the Genesis Network, including accelerated startup, transparent tile canopies, beehive integration, space-application enhancements, and impacts on timelines and financials.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Silvopasture Integration with Livestock Pods
+# Livestock Pods
 
 **Silvopasture**, the intentional combination of trees, forage plants, and livestock in a mutually beneficial system, is a foundational practice in the **Genesis Network** for enhancing carbon sequestration, biodiversity, soil health, and revenue diversity. This document details the integration of silvopasture with **livestock pods**, incorporating accelerated startup strategies, closed-loop enhancements for eventual space applications, and overall impacts on timelines and financials.
 
