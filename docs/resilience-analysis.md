@@ -1,92 +1,69 @@
 ---
 layout: default
-title: Resilience Analysis – Genesis Network Master Plan
-description: Detailed analysis of the Genesis Network's resilience to natural disasters, man-made threats, and pandemics.
+title: Resilience Analysis – Genesis Network Structures and Cities
+description: Detailed assessment of resilience against natural disasters, asteroid strikes, supervolcanoes, nuclear war/nuclear winter, pandemics, and other man-made/catastrophic threats.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
 # Resilience Analysis  
-**Genesis Network Master Plan**  
-**Detailed Resilience to Natural and Man-Made Disasters**  
-**January 21, 2026**
+**Genesis Network Cities, Hubs, Pods, Tiles & Infrastructure**
 
-The **Genesis Network** is engineered for exceptional resilience through its **pod-centric architecture**, **closed-loop systems**, toughened waste-derived **ceramic materials**, distributed redundancy, and AI-driven predictive monitoring. This analysis evaluates resilience to major threats on a 1–10 scale, emphasizing how decentralization, self-sufficiency, and modular design enable survival and rapid recovery. Overall resilience rating: **7.5–8.5/10** — significantly superior to conventional urban infrastructure, though not impervious to global existential events.
+**Version**: January 2026  
+**Core Design Principle**: The entire network uses distributed, modular, self-replicating, waste-derived toughened ceramic pods and tiles with 95–99% internal resource closure, lights-out automation, hyper-redundant sensors, local digital twins, and off-world seed-factory backups. This creates orders-of-magnitude higher baseline resilience than conventional centralized cities.
 
-## 1. Resilience to Natural Disasters (Overall Rating: 8–9/10)
+## 1. Natural Disaster Resilience Matrix
 
-### Earthquakes & Seismic Events  
-**Rating: 8–9/10**  
-- **Structures**: **Vaulted ceramic designs** (60–100+ MPa compressive strength) with embedded **strain sensors** absorb and detect shocks in real time. **Snap-together modules** flex without catastrophic failure.  
-- **Cities**: Non-contiguous **distributed hubs** prevent cascading collapse; **smart pipes** with acoustic monitoring reroute utilities instantly.  
-- **Mitigation**: AI/**digital twins** simulate quakes for preemptive reinforcement; optional **underground pod variants** for critical functions.  
+| Threat Category                  | Specific Threat                  | Expected Impact Level | Key Protective Features                                                                                  | Estimated Hub / City Structural Survivability | Recovery Time (Post-Event) | Long-Term Network Impact Probability |
+|----------------------------------|----------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------|--------------------------------------|
+| **Seismic**                      | Earthquake M 7–9                 | Low–Moderate          | Flexible ceramic tile joints, seismic-damping base tiles, distributed low-mass pods                       | 85–95%                                        | Days to weeks               | Very Low                             |
+| **Cyclonic**                     | Hurricane / Typhoon Cat 5        | Low                   | Vaulted ceramic shells (8–9/10 munitions rating), low-profile design, permeable stormwater roads         | 90–98%                                        | Weeks                       | Very Low                             |
+| **Tornadic**                     | Tornado EF5                      | Low–Moderate          | Buried/underground pod variants, aerodynamic ceramic exteriors                                          | 80–95%                                        | Days to months              | Low                                  |
+| **Hydrologic**                   | Flooding / Storm Surge           | Low                   | Permeable roads + AWG stormwater capture, elevated pods, river/dam restoration kits                      | 90–98%                                        | Weeks                       | Very Low                             |
+| **Fire**                         | Wildfire                         | Very Low              | Non-combustible ceramic construction, firebreaks via agroforestry, sensor early warning                  | 95–99%                                        | Days                        | Negligible                           |
+| **Volcanic**                     | Ashfall (moderate)               | Moderate              | Sealed airlocks, self-cleaning BIPV surfaces, robust filtration                                          | 80–95%                                        | Weeks to months             | Low                                  |
+| **Supervolcano (VEI 8)**         | Global ash + cooling             | High (systemic)       | 2–5 year food/energy/water closure per hub, geothermal/biogas independence, seed vaults                 | 40–70% (initial survival)                     | Years to decades            | Moderate                             |
 
-### Floods, Hurricanes & Storms  
-**Rating: 8–9/10**  
-- **Structures**: Elevated foundations and **permeable tiles** enable rapid drainage; **amphibious pods** can relocate during events.  
-- **Cities**: **Blue-green restoration kits** (wetlands, mangroves) buffer coasts; off-grid autonomy (biogas + BIPV) sustains 2–5+ days.  
-- **Mitigation**: **Stormwater capture** via AWG-integrated tiles; drone swarms for post-event repairs.  
+## 2. Extraterrestrial & Impact Threat Resilience
 
-### Wildfires  
-**Rating: 8/10**  
-- **Structures**: Non-combustible **ceramic shells** resist ignition; thermal mass delays heat transfer.  
-- **Cities**: Firebreaks via rewilding corridors; AI sensors detect smoke/VOC early.  
-- **Mitigation**: Robotic suppression systems; closed water loops prevent external dependency.  
+| Threat                           | Probability (per century) | Direct Impact Radius | Key Protective Features                                                                                  | Estimated Hub Survival (Earth Surface) | City-Scale Survival | Long-Term Network Outcome |
+|----------------------------------|----------------------------|----------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------|---------------------|---------------------------|
+| Small Asteroid (10–50 m)         | ~1 in 100–1,000            | <10 km               | Distributed hubs (>100 km spacing), ceramic blast resistance                                             | 95–99%                                 | 90–98%              | Negligible                |
+| Medium Asteroid (100–300 m)      | ~1 in 10,000–50,000        | 20–100 km            | Regional redundancy, underground pod variants, rapid replication                                         | 70–90% (local)                         | 50–80%              | Low–Moderate              |
+| Large Asteroid (1 km+)           | ~1 in 500,000–1M           | 100–1,000+ km        | Global network distribution, lunar seed factories, seed vaults                                           | 20–50% (regional)                      | 5–30%               | Moderate                  |
+| Dinosaur-killer (10 km+)         | ~1 in 50–100M              | Global               | Lunar/Martian footholds, von Neumann probes, 10–50 year seed vaults                                      | <5% (Earth surface)                    | <1%                 | High (off-world survival) |
 
-### Asteroid Strikes  
-**Rating: 4–6/10**  
-- **Structures**: **Ceramic shielding** + **water bladders** (hydrogen-rich) protect against small fragments and radiation.  
-- **Cities**: Decentralized layout limits local damage; **Faraday mesh** safeguards electronics from EMP-like effects.  
-- **Mitigation**: Integration with early warning systems; **underground variants** for seed banks/fabs. Limitations: Large impacts (>1km) cause global effects (dust winter) beyond full mitigation.  
+## 3. Man-Made & Extreme Systemic Threat Resilience
 
-### Super Volcanoes (e.g., Yellowstone-Scale)  
-**Rating: 5–7/10**  
-- **Structures**: Sealed **smart airlocks** with HEPA/multispectral filtration block ash; ceramic abrasion resistance.  
-- **Cities**: Indoor **multi-trophic aquaponics** + LED/CO₂ enrichment sustain food during dimming; distributed hubs avoid burial.  
-- **Mitigation**: **Digestate recovery** + AWG for water; biogas less affected by ash. Limitations: Prolonged cooling reduces yields 20–50%; requires robotic cleaning of PV surfaces.  
+| Threat                           | Expected Impact Level | Key Protective Features                                                                                  | Estimated Hub / City Survivability | Recovery Time       | Primary Remaining Vulnerability |
+|----------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------|------------------------------------|---------------------|---------------------------------|
+| **Nuclear War (limited regional)** | Moderate–High         | Faraday mesh in every tile/pod, EMP hardening, distributed closure (2–5 years food/energy/water)          | 70–90%                             | Months–years        | Supply-chain shock              |
+| **Full Nuclear Exchange**        | Very High             | Same + seed vaults, geothermal/biogas independence, radiation-hardened ceramics                          | 30–60% (initial)                   | Decades             | Nuclear winter                  |
+| **Nuclear Winter**               | Very High             | LED/aquaponics under ceramic domes, stored seeds, methane/CO₂ from biogas, geothermal backup              | 40–70% (multi-year)                | 5–20 years          | Photosynthesis collapse         |
+| **High-CFR Pandemic**            | Moderate–High         | Smart airlocks (pathogen scanning), sealed pods, internal medical/food production, TerraWell stockpiles   | 80–95%                             | Months–years        | Human operator infection        |
+| **Cyber / EMP Attack**           | Low–Moderate          | RISC-V native (no legacy x86), air-gapped critical systems, Faraday shielding everywhere                  | 85–98%                             | Days–weeks          | Initial comms disruption        |
+| **Global Supply-Chain Collapse** | Moderate              | 95–99% internal closure, self-replication, no external critical inputs                                    | 90–98%                             | Weeks–months        | Rare-element bottlenecks        |
 
-## 2. Resilience to Man-Made Disasters (Overall Rating: 7–9/10)
+## 4. Overall Network Resilience Ranking (Mature State, 2050+)
 
-### Nuclear War & EMP Attacks  
-**Rating: 7–9/10**  
-- **Structures**: **Ceramic composites** + water bladders provide fallout shielding; vaulted forms withstand overpressure.  
-- **Cities**: No centralized targets; **Faraday mesh** (embedded in tiles) protects electronics (NASA-STD-8739.10 compliance).  
-- **Mitigation**: **Sodium-ion batteries** resilient to surges; decentralized microgrids. Limitations: Direct hits destroy local hubs, but network redundancy ensures continuity.  
+| Threat Category                  | Survivability Score (0–10) | Primary Reason for Score                                                                 | Long-Term Network Outcome Probability |
+|----------------------------------|-----------------------------|------------------------------------------------------------------------------------------|----------------------------------------|
+| Conventional Natural Disasters   | 9.0–9.5                     | Ceramic construction + distributed pods + internal closure                                | Very High                              |
+| Supervolcano / Nuclear Winter    | 5.0–7.0                     | Multi-year stores + geothermal + LED farming                                              | Moderate                               |
+| Large Asteroid Strike            | 4.0–6.5                     | Global spacing + lunar/Martian backups + seed vaults                                      | Low–Moderate                           |
+| Full Nuclear Exchange            | 4.5–6.5                     | Distributed autonomy + shielding + replication                                            | Low–Moderate                           |
+| Extreme Pandemic                 | 8.5–9.5                     | Sealed airlocks + internal medical/food production                                        | High                                   |
+| Cyber / EMP / Infrastructure War | 9.0–9.8                     | Faraday + RISC-V native + no legacy dependencies                                          | Very High                              |
 
-### Nuclear Winter  
-**Rating: 7–9/10**  
-- **Structures**: Thermal mass ceramics + waste heat recovery maintain temperatures; sealed environments.  
-- **Cities**: **Closed-loop ECLSS**-derived systems sustain indoor production during multi-year dimming.  
-- **Mitigation**: **Staggered cycles** + microbial inoculants preserve yields; stockpiled seeds/embryos.  
+**Ultimate Limit**: No Earth-surface system survives Chicxulub-scale asteroid or gamma-ray burst. Long-term multi-planetary replication (Luna → Mars → asteroids → cylinders → probes) is required for species-level continuity.
 
-### Chemical/Biological Attacks  
-**Rating: 8–9/10**  
-- **Structures**: **Smart airlocks** with multispectral scanning + UV sterilization isolate threats.  
-- **Cities**: On-site **TerraWell clinics** with generics production; self-contained supply chains.  
-
-## 3. Resilience to Pandemics & Biological Threats (Rating: 8–10/10)
-
-- **Structures**: **Smart airlocks** with mmWave/multispectral pathogen detection + automated quarantine zones.  
-- **Cities**: Decentralized pods limit spread; telepresence/VR eliminates physical contact needs.  
-- **Mitigation**: **TerraWell FreeCare** on-site testing/treatment; closed food/medicine loops; AI VOC anomaly detection for early alerts. Limitations: Highly novel pathogens may require rapid microbial kit development, but containment is near-total with protocols.
-
-## 4. Summary Resilience Table
-
-| Threat Type                        | Rating (1–10) | Primary Strengths                          | Primary Limitations                       |
-|------------------------------------|---------------|--------------------------------------------|-------------------------------------------|
-| Earthquakes/Floods/Hurricanes      | 8–9           | Modular ceramics, permeable drainage       | Extreme intensity local damage            |
-| Wildfires                          | 8             | Non-combustible materials                  | Spread in rewilding zones                 |
-| Asteroid Strikes                   | 4–6           | Distributed redundancy                     | Global-scale events                       |
-| Super Volcanoes                    | 5–7           | Filtration + indoor production             | Prolonged dimming/yield reduction         |
-| Nuclear War/EMP                    | 7–9           | Faraday shielding, decentralization        | Direct hits                               |
-| Nuclear Winter                     | 7–9           | Closed-loop food/water                     | Multi-year resource strain                |
-| Pandemics                          | 8–10          | Airlock isolation, self-sufficiency        | Novel pathogen adaptation time            |
-| **Overall**                        | **7.5–8.5**   | Decentralization + regenerative closure    | Existential global catastrophes           |
-
-This resilience profile positions the Genesis Network as a leading model for secure, sustainable urban development.
+**Key Resilience Advantages**  
+- Extreme distribution: Loss of 90% of hubs still leaves thousands viable  
+- Multi-year internal closure per hub  
+- Non-combustible, non-corrosive, radiation-resistant ceramics  
+- Off-world seed factories as ultimate backup  
+- PlaceNet sensor net + local digital twins for predictive reconfiguration
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE).
-
-© 2025 Earth-Star Industries
+*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*  
+© 2026 Earth-Star Industries conceptual working group (attribution appreciated).
