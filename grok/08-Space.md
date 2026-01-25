@@ -1,83 +1,90 @@
 ---
 layout: default
-title: Genesis Network – Phase 8 Extraterrestrial & Space Expansion Plan
-description: Long-term roadmap for extending the Genesis Network beyond Earth to Luna, Mars, asteroid mining, O'Neill cylinders, and von Neumann probes using replication techniques.
+title: Genesis Network – Phase 8 Extraterrestrial & Space Expansion
+description: Long-term roadmap for extending the Genesis Network beyond Earth to Luna, Mars, asteroid belt, and eventual O'Neill cylinders / von Neumann probes, leveraging replication, mass drivers, and sensor-net planning.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Phase 8 – Extraterrestrial & Space Expansion Plan**  
-**Earth-Star Industries – Post-2050 Horizon (2055–2100+)**
+# Genesis Network – Phase 8 Extraterrestrial & Space Expansion
 
-## Executive Summary
+## Executive Overview
 
-Earth-based expansion of the Genesis Network is projected to reach practical saturation around 2060–2075 (4,000–8,000 terrestrial hubs + 500,000–2M global mini-hubs covering most willing sovereign territories). At that point, further meaningful growth on Earth becomes constrained by available suitable land, political boundaries, and diminishing marginal returns on rewilding/closure.
+Earth-based expansion of the Genesis Network is projected to reach practical saturation across willing terrestrial nations by ~2060–2075 (4,000–15,000 hubs + tens of millions of smallholder/co-op nodes). Beyond this point, growth stalls due to land constraints, geopolitical limits, and diminishing marginal returns on terrestrial brownfield/rewilding sites.
 
-**Phase 8 initiates the off-world extension** using proven replication, closed-loop, and ceramic-dominant technologies:
+**Phase 8** initiates a multi-decade off-world expansion strategy using the Network’s proven replication architecture (pod-centric, self-replicating kits, ceramic-dominant construction, data-moat optimization, lights-out automation). Key elements:
 
-- **Luna**: Industrial factories + mass drivers for exporting regolith-derived materials (silicon, aluminum, oxygen, ceramics) to orbital construction and Mars.
-- **Mars**: Surface hubs for in-situ resource utilization (ISRU), closed-loop habitats, and eventual self-replicating settlements.
-- **Asteroid Mining**: Robotic precursor missions → von Neumann-style replicators harvesting water, metals, volatiles.
-- **O'Neill Cylinders**: Large rotating habitats constructed in Earth-Moon L4/L5 using lunar/asteroid materials.
-- **Von Neumann Probes**: Self-replicating interstellar precursors using Genesis replication techniques (pods → ceramic factories → resource processing → new replicators).
+- **Luna**: Industrial factories + mass drivers for low-gravity/high-vacuum manufacturing and material export.
+- **Mars**: Regenerative surface hubs (domed/underground pods) for food, water, oxygen, and propellant production.
+- **Asteroid Belt**: Robotic mining outposts feeding lunar/Martian industry.
+- **O’Neill Cylinders**: Long-term rotating habitats (post-2100 horizon) built from asteroid materials.
+- **Von Neumann Probes**: Self-replicating interstellar explorers seeded with Genesis replication techniques (post-2150+ speculative).
 
-**Enabling Technology**:  
-- Dense planetary sensor nets (PlaceNet land/ocean + orbital constellations) provide real-time resource mapping, site selection, hazard detection, and mission planning.  
-- Replication flywheel: Pods self-replicate using local regolith/ice → ceramic shells → full factories → exponential growth with minimal Earth launches.
+**Planning & Intelligence Foundation**: Global + ocean PlaceNet sensor nets (billions of nodes) + digital twins provide unprecedented planetary baseline data → extrapolated to cislunar, Martian, and asteroid environments for site selection, resource mapping, risk modeling, and replication optimization.
 
-**Strategic Posture**:  
-- Defensive/offensive resilience: Redundant off-world industrial base protects against Earth-side disruption.  
-- Long-term survival: Multi-planetary/regenerative civilization.  
-- Revenue model: Lunar/asteroid exports (helium-3, rare metals, water ice), orbital manufacturing licensing, space tourism/habitat pre-sales.
+All expansion remains 100% self-financed from mature terrestrial cash flows; no external capital or government dependency.
 
-## Non-Transfer & Sovereign Control Rules (Extended to Space)
+## Core Strategic Elements
 
-- All core replication IP, von Neumann algorithms, mass-driver designs, and closed-loop life-support remain **U.S./Five Eyes/NATO-core sovereign control** (never licensed to non-aligned actors).  
-- International partners may build under strict licensing (same model as Phase 7 sovereign adoption) with mandatory interoperability and security clauses.  
-- Space-based LLCs (e.g., Lunar Mass Driver Operations, Asteroid Resource Processing) remain under Earth-Star or allied consortium governance.
+1. **Lunar Factories & Mass Drivers**  
+   - Surface ceramic factories (plasma vitrification, 3D-printed regolith structures) producing tiles, pipes, solar arrays, sodium-ion batteries.  
+   - Electromagnetic mass drivers launch refined regolith, oxygen, metals, and finished goods to L1/L2 depots or Mars transfer orbits.  
+   - Initial scale: 10–50 small factories (2035–2050 pilots); mature network 500–2,000 units (2070+).  
+   - Primary output: Construction materials for orbital habitats, propellant (LOX from ilmenite reduction), solar power satellites.
 
-## Recomputed Timelines & Costs (Phase 8 – Extraterrestrial)
+2. **Mars Surface Hubs**  
+   - Sealed/regolithic-covered pod clusters using in-situ resource utilization (ISRU): water from permafrost, CO₂ → methane/oxygen, regolith → ceramics.  
+   - Multi-trophic aquaponics under LED/transparent ceramic domes; staggered livestock pods (radiation-shielded).  
+   - Initial footholds: 5–20 hubs (2045–2060); mature 500–5,000 hubs (2100+ horizon).  
+   - Goal: Self-sustaining population support + propellant export.
 
-**Key Assumptions**  
-- Earth maturity: 2060–2075 (baseline revenue $1–4T/year sustains space investment)  
-- Launch costs: $200–500/kg to LEO (Starship-class), $1,000–2,000/kg to Luna/Mars surface (2040s–2060s) → drops to $50–200/kg by 2070s  
-- Replication multiplier: 2–4× per generation (2–5 years per cycle after initial seed)  
-- Sensor net density: 10⁶–10⁸ nodes (Earth + cislunar) by 2050 enables precise planning
+3. **Asteroid Mining Outposts**  
+   - Robotic swarms + von Neumann seed factories (self-replicating miners/processors) targeting near-Earth and main-belt asteroids (water-rich C-types, metal-rich M-types).  
+   - Output: Volatiles (water → H₂/O₂), metals (Fe, Ni, Pt-group), rare elements for TerraFab.  
+   - Initial robotic missions: 2035–2050 (prospecting); first self-replicating seeds: 2060–2080.
 
-**Revised Extraterrestrial Timeline & Costs ($B USD, 2026 base, inflation-adjusted)**
+4. **O’Neill Cylinders**  
+   - Post-2100 goal: Kilometer-scale rotating habitats constructed from asteroid materials at Earth-Moon L4/L5 or Mars orbit.  
+   - Internal Genesis ecosystems (aquaponics, agroforestry, livestock) under 1g simulation.  
+   - Initial prototypes: 1–5 small cylinders (2100–2150); mature fleets (2200+ speculative).
 
-| Sub-Phase / Target                     | Timeline             | Key Milestones & Scale                          | Initial Seed Mass to Orbit (t) | CAPEX (Cumulative $B) | Annual Operating Cost ($B) | Revenue Potential (End of Phase $B/yr) | Cumulative Net Cash (End of Phase $B) |
-|----------------------------------------|----------------------|--------------------------------------------------|--------------------------------|------------------------|-----------------------------|-----------------------------------------|----------------------------------------|
-| **Cislunar Sensor Net & Precursor Probes** | 2055–2065            | 10⁶–10⁷ orbital/Lunar nodes; 5–10 precursor landers | 500–2,000                      | 80–250                 | 5–15                        | 10–50 (data + helium-3 prospecting)     | –150 to –50 (investment phase)         |
-| **Lunar Industrial Outpost**           | 2065–2075            | 1–3 factories + mass driver; 10–50 t/day output  | 5,000–15,000                   | 300–800                | 20–60                       | 100–400 (materials export to orbit)     | +50–300                                |
-| **Mars Surface Hubs (First Generation)** | 2070–2085          | 5–20 initial hubs; self-replication begins       | 10,000–30,000                  | 500–1,500              | 30–100                      | 200–800 (ISRU + habitat leasing)        | +100–600                               |
-| **Asteroid Mining & Von Neumann Seed** | 2075–2090            | 10–50 precursor replicators; 100–500 t/yr harvest | 2,000–10,000                   | 400–1,200              | 25–80                       | 300–1,200 (metals/volatiles)            | +200–900                               |
-| **O'Neill Cylinder Construction**      | 2080–2100+           | 1–5 initial cylinders (10⁴–10⁵ residents each)   | 50,000–200,000 (lunar/asteroid) | 1,000–4,000            | 50–200                      | 500–2,000+ (habitat + industry)         | +400–1,500+                            |
-| **Full Solar System Saturation**       | 2090–2150+           | 100–1,000 hubs/cylinders; self-replicating probes | Self-replicated                | 2,000–10,000+          | 100–500+                    | 2,000–10,000+                           | +1,000–5,000+                          |
+5. **Von Neumann Probes**  
+   - Interstellar self-replicators seeded with Genesis replication blueprint (ceramic fabs, ISRU, AI-driven evolution).  
+   - Launch via laser-propelled sails or mass-driver swarms (post-2150 speculative).  
+   - Mission: Survey, mine, and seed habitable zones with regenerative seed factories.
 
-**Overall Phase 8 Metrics (2100 Horizon)**:
-- **Total CAPEX**: $2.3T – $8T (spread over 50+ years; largely self-funded from lunar/asteroid revenue after 2075)
-- **IRR**: 25–55% (long horizon; high risk/reward)
-- **NPV (7% discount, 2100 horizon)**: $5T – $18T+
-- **Break-even (Phase 8)**: ~2078–2085 (lunar mass driver exports turn positive)
-- **Self-Funding Trigger**: Lunar industrial revenue exceeds Earth-side investment by 2075–2080
+## Sensor-Net Enabled Planning
 
-## Key Enablers & Risk Mitigations
+- **Terrestrial → Cislunar Bridge**: PlaceNet data (land + ocean) calibrates models for lunar regolith behavior, radiation shielding, vacuum outgassing.  
+- **Mars Analog Sites**: Brownfield/permian-basin hubs serve as testbeds for Martian soil simulants, dust mitigation, radiation-resistant pods.  
+- **Asteroid Prospecting**: Orbital sensor constellations + swarm-deployed PlaceNet tiles map resource concentrations.  
+- **Digital Twins**: Federated twins simulate full replication chains (Earth → Luna → Mars → asteroids → cylinders/probes) with 10⁶–10⁹ scenario runs.
 
-- **Sensor Nets**: Earth + cislunar constellation (10⁷–10⁹ nodes by 2060) provides real-time resource mapping, seismic/hazard prediction, and optimal landing/site selection → reduces mission risk 50–80%.
-- **Replication Flywheel**: Proven terrestrial pod replication scales to vacuum/low-g (ceramic shells from regolith, solar sintering, robotic assembly) → exponential growth with minimal continued Earth launches.
-- **Mass Drivers**: Lunar electromagnetic launchers export material at $10–50/kg to LEO/orbit → undercuts current launch costs by 1–2 orders of magnitude.
-- **Risks & Mitigations**:
-  - Radiation/thermal extremes → ceramic shielding + buried/insulated habitats
-  - Launch failures → redundant seed shipments + in-situ replication priority
-  - Geopolitical exclusion → open licensing to aligned partners; defensive redundancy
-  - Biological/psychological isolation → TerraWell-style telepresence + VR training; staggered crew rotations
+## Recalculated Timelines & Costs (Full Network Including Phase 8)
 
-## Summary
+**Timeline (Terrestrial + Extraterrestrial)**
+- **2027–2029**: U.S. domestic maturity; self-funding.
+- **2030–2045**: Fortress West + Phase 7 global terrestrial saturation.
+- **2046–2060**: Lunar pilot factories (5–50 units); Mars robotic precursor missions; asteroid prospecting swarms.
+- **2061–2080**: Lunar mass-driver scale-up (500+ factories); first Mars surface hubs (20–100); initial asteroid seed factories.
+- **2081–2100**: Mature lunar industrial base; Mars self-sustaining colonies (1,000+ hubs); O’Neill cylinder prototypes.
+- **2101–2200+**: Cylinder fleets; von Neumann interstellar probes.
 
-Phase 8 transforms the Genesis Network from a planetary regenerative civilization into a multi-world, self-replicating industrial civilization. Lunar factories and mass drivers provide the industrial bridge; Mars hubs and asteroid mining establish permanence; O'Neill cylinders and von Neumann probes extend humanity’s reach indefinitely. The dense sensor net enables precise, low-risk planning while the proven replication flywheel minimizes Earth dependency. This phase secures long-term species survival and opens trillion-scale economic frontiers—all while remaining self-funded from mature terrestrial and early lunar revenues.
+**Financial Recalculation (Network-Wide, 2026 USD, Constant Dollars)**
+- **Terrestrial Mature Baseline (2050–2070)**: Revenue $500B–$2T+/year; cumulative cash generation $10T–$30T+ by 2070.
+- **Phase 8 Space Addition (2046–2100+)**:
+  - Cumulative CAPEX: $0.5T–$2.5T (lunar factories $100–500B, Mars hubs $200–800B, asteroid ops $100–600B, cylinders/probes $100–600B)
+  - Offset: 70–90% by terrestrial cash flow + early space revenue (LOX/metal export, orbital power, asteroid volatiles)
+  - Revenue uplift (mature, 2100+): +$1T–$5T+/year (space manufacturing, materials export, habitat leasing, interstellar data/insurance)
+  - IRR impact: Maintained 50–75% long-term (space high-risk/high-reward offset by terrestrial base)
+  - NPV uplift (7% discount, 2200 horizon): +$5T–$20T (total network NPV $10T–$35T+)
+
+**Self-Funding Status**: Terrestrial profits fully fund space ramp; no external capital required.
+
+## Summary & Strategic Rationale
+
+Phase 8 extends the Genesis replication architecture beyond Earth’s limits, using lunar factories and mass drivers as the industrial bridge to Mars, asteroids, rotating habitats, and eventual interstellar seeding. Global PlaceNet sensor nets and digital twins provide the intelligence foundation for safe, optimized expansion. The model preserves self-financing, regenerative closure, and humanitarian principles while opening a pathway to multi-planetary, post-scarcity civilization.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*  
 © 2026 Earth-Star Industries conceptual working group (attribution appreciated).
