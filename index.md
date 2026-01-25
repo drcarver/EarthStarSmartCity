@@ -1,115 +1,70 @@
 ---
 layout: default
-title: Genesis Network Master Plan – GitHub Repository Index
-description: Detailed index and folder structure for the Genesis Network GitHub repository, including navigation to all key documents and resources.
+title: Genesis Network Master Index
+description: Central hub and navigation page for the complete Genesis Network documentation, including all components, strategies, financials, roadmaps, and supporting materials.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
-# Genesis Network Master Plan  
-**GitHub Repository Index & Folder Structure**  
-**Repository: earth-star-industries/genesis-network-master-plan**  
-**Last Updated: January 21, 2026**
+# Genesis Network Master Index  
+**Earth-Star Industries – Regenerative Closed-Loop Ecosystem**  
+**Last Updated**: January 2026
 
-## Overview
+The **Genesis Network** is a modular, self-replicating, regenerative civilization-scale project that transforms distressed lands, brownfields, and landfills into closed-loop hubs producing food, energy, water, materials, electronics, pharmaceuticals, and community services. The system achieves 95–99% resource closure through pod-centric architecture, waste-derived toughened ceramics, multi-trophic aquaponics, staggered livestock cycles, and lights-out automation.
 
-This aite serves as the central documentation hub for the [Genesis Network](docs/Genesis-Network.md) — a self-funded, regenerative, closed-loop ecosystem developed by Earth-Star Industries. It includes detailed plans, financials, roadmaps, resilience analyses, component catalogs, and strategic expansions.
+This index serves as the primary navigation hub for all project documentation.
 
-**License**: All content licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-**Purpose**: Open-source transparency, community reference, and collaborative development of regenerative systems.
+## Core Project Components
 
-## Site Structure & Index
+- **[Toughened Ceramic Tiles](components/toughened-ceramic-tiles.md)** – Structural, cladding, glazing, permeable, display, and foundation variants with embedded BIPV, AWG, piezoelectric, sensors, and water bladders.  
+- **[Aquaponics Pods](components/aquaponics-pods.md)** – Multi-trophic freshwater and saltwater pilot variants integrating fish, crustaceans, mollusks, insects, and plants.  
+- **[Livestock Pods](components/livestock-pods.md)** – Large animal (cattle/horses/bison) and specialty (goats/sheep/alpaca/emu) pods with staggered delivery for continuous output.  
+- **[Biogas & Energy Systems](components/biogas-energy-systems.md)** – Digester pods, microturbines, and waste-heat recovery for net-positive power.  
+- **[TerraFab Manufacturing](components/terrafab-manufacturing.md)** – Mini-Fab (65–130 nm) to advanced (7–3 nm) sovereign chip production.  
+- **[Smart Infrastructure](components/smart-infrastructure.md)** – Roads, pipes, utilities with piezo/solar generation and bidirectional flow.  
+- **[Restoration & Blue-Green Carbon](components/restoration-blue-green-carbon.md)** – Wetland, mangrove, kelp, oyster, and river/dam restoration kits.  
+- **[TerraWell FreeCare System](components/terrawell-freecare-system.md)** – Independent 501(c)(3) nonprofit providing free healthcare, food, and DME.
 
-## Root Level Files
+## Strategic & Planning Documents
 
-- **[README.md](README.md)**  
-  Main landing page: project overview, purpose, navigation guide  
-- **[LICENSE](LICENSE.md)**  
-  Full Creative Commons Attribution 4.0 International license text  
+- **[50-Year Roadmap with NASA/ISS Feedback Loops](roadmaps/50-year-roadmap-nasa-feedback.md)** – Phased integration from ISS tech to Earth hubs to lunar/Mars settlements.  
+- **[Defensive NATO-Aligned Expansion](strategy/defensive-nato-aligned-expansion.md)** – Fortress West framework and localization for willing nations.  
+- **[Extraterrestrial Phase 8 Expansion](roadmaps/phase-8-extraterrestrial-expansion.md)** – Lunar factories, mass drivers, Mars hubs, asteroid mining, O'Neill cylinders, von Neumann probes.  
+- **[Resilience Analysis](strategy/resilience-analysis.md)** – Assessment against earthquakes, supervolcanoes, nuclear war/winter, pandemics, asteroid strikes.  
+- **[Top 10 Risks, Mitigations & Quick Wins](strategy/top-10-risks-mitigations.md)** – Brutally honest risk profile and self-funded growth levers.
 
-## Contents
+## Financial & Economic Documents
 
-### Core Documentation & Analyses
+- **[Mature Hub Economics & Network Financials](financials/mature-hub-economics.md)** – Per-hub and network-wide CAPEX, revenue, IRR, NPV, cash-flow projections.  
+- **[Electronics & Appliances Financials](financials/electronics-appliances.md)** – Mini-Fab and advanced fab revenue models.  
+- **[Self-Funding & Cash-Flow Model](financials/self-funding-cash-flow.md)** – Month 1–3 positive cash target and long-term reinvestment flywheel.
 
-- **[executive-summary](docs/executive-summary.md)**  
-  High-level vision, mission, strategic overview, and project goals  
-- **[feasibility-analysis](docs/feasibility-analysis.md)**  
-  Aggressive, honest risk assessment and overall viability scoring  
-- **[resilience-analysis](docs/resilience-analysis.md)**  
-  Detailed resilience to natural disasters, nuclear events, pandemics, etc.  
-- **[sensor-handbook](docs/sensor-handbook.md)**  
-  Comprehensive sensor types, specifications, standards, and applications  
-- **[tiles-pods-kits](docs/tiles-pods-kits.md)**  
-  Full catalog of all tiles, pods, and kits (manufacturing, inputs, costs, revenues)  
-- **[llc-structure](docs/llc-structure.md)**  
-  Innovation Hub LLCs, risk isolation, governance, and burnout mitigation  
-- **[viability-enhancements](docs/viability-enhancements.md)**  
-  Microbial inoculants, blockchain credits, dense agriculture, waste heat recovery, etc.  
+## Sensor & Security Reference
 
-### Timelines & Space Integration
+- **[Detailed Sensor Handbook](docs/sensor-handbook.md)** – Full inventory of electrochemical, multispectral, mmWave, strain, thermal, acoustic, and other sensors with deployment, redundancy, and standards.
 
-- **[50-year-roadmap](roadmaps/50-year-roadmap.md)**  
-  Full 2027–2077 timeline with NASA/ISS technology integration and feedback loops  
-- **[nasa-iss-integration](roadmaps/nasa-iss-integration.md)**  
-  Detailed bidirectional feedback loops from space experiments to Earth hubs and lunar/Mars  
-- **[fortress-west-expansion](roadmaps/fortress-west-expansion.md)**  
-  NATO-aligned and Western Hemisphere rollout strategy  
+## Innovation Hub LLC Structure
 
-### Cost, Revenue, and Projection Data
+The project is executed through independent LLCs for risk isolation and burnout distribution:
 
-- **[cash-flow-summary](financials/cash-flow-summary.md)**  
-  Year-by-year cash flow tables (2027–2077)  
-- **[capex-revenue-breakdown](financials/capex-revenue-breakdown.md)**  
-  Detailed CAPEX and revenue per tile, pod, kit, and component  
-- **[npv-irr-calculations](financials/npv-irr-calculations.md)**  
-  NPV, IRR, break-even analysis, and sensitivity tables  
-- **[space-economy-uplift](financials/space-economy-uplift.md)**  
-  Revenue and cost impacts from NASA/ISS-derived technologies and space synergies  
+1. Regenerative Agriculture & Permaculture LLC  
+2. TerraFab Electronics & Semiconductor Manufacturing LLC  
+3. Industrial Gases & Biorefinery LLC  
+4. Infrastructure Recycling & Smart Roads LLC  
+5. Blue-Green Carbon Restoration LLC  
+6. Robotics & Lights-Out Automation LLC  
+7. TerraWell FreeCare Foundation (separate 501(c)(3))  
+8. Smallholder Partnership & Kit Distribution LLC  
+9. Community Services, Housing & Education LLC  
+10. Microbial Biosolutions & Inoculant Production LLC  
+11. Smart City Standards & Compliance LLC
 
-### Detailed Component Specifications
+## Additional Resources
 
-- **[tiles-catalog](components/tiles-catalog.md)**  
-  All tile types: manufacturing, inputs, materials, costs, revenues  
-- **[pods-catalog](components/pods-catalog.md)**  
-  All pod variants: aquaponics, livestock, biogas, housing, etc.  
-- **[kits-catalog](components/kits-catalog.md)**  
-  All flat-pack kits: standard, new (Smart Airlock, Security & Smart City), and reused  
-- **[smart-airlock-security](components/smart-airlock-security.md)**  
-  Airlock specifications, scanning tech, alerts, smart city standards compliance  
-
-### Expansion & Geopolitical Plans
-
-- **[smallholder-partnerships](strategy/smallholder-partnerships.md)**  
-  Farmer and smallholder empowerment program details  
-- **[global-open-invitation](strategy/global-open-invitation.md)**  
-  Post-2045 voluntary global adoption framework  
-- **[top-risks-quick-wins](strategy/top-risks-quick-wins.md)**  
-  Top 10 risks, mitigation strategies, and quick wins (2027–2030 focus)  
-
-## Quick Navigation Links
-
-- [Start Here – README](README.md)  
-- [Project Vision & Executive Summary](docs/executive-summary.md)  
-- [Full Financial Projections](financials/cash-flow-summary.md)  
-- [50-Year Roadmap](roadmaps/50-year-roadmap.md)  
-- [Resilience to Disasters](docs/resilience-analysis.md)  
-- [All Tiles, Pods & Kits](docs/tiles-pods-kits.md)  
-- [Innovation Hub LLC Structure](docs/llc-structure.md)  
-
-## Financial Snapshot (Recalculated Mature Phase, 2035+)
-
-| Metric                     | Value (Network-Wide)          | Notes |
-|----------------------------|-------------------------------|-------|
-| Total CAPEX (2027–2077)    | $55–110B                      | Reduced 10% via space efficiencies |
-| Annual Revenue (2035+)     | $35–135B                      | Uplifted 10% from NASA-derived premiums |
-| Annual Net Cash Flow       | +$20–80B                      | Self-funding post-2029 |
-| Cumulative Cash (2077)     | +$10,000–40,000B+             | Long-tail compounding |
-| NPV (7% discount, 2077)    | $900B–$2.5T                   | Space synergies add $200–500B |
-| IRR                        | 55–82%                        | Boosted 5–10% from dual-use tech |
+- **[Complete Inventory of Tiles, Pods & Kits](docs/complete-inventory-tiles-pods-kits.md)** – Manufacturing, inputs, materials, costs, revenues.  
+- **[Very Aggressive Feasibility Analysis](docs/aggressive-feasibility-analysis.md)** – Honest probability assessment (0.5–2% full vision; 8–15% major U.S. success).  
+- **[License & Attribution](LICENSE.md)** – Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-
-© 2025 Earth-Star Industries
-
+*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*  
+© 2026 Earth-Star Industries conceptual working group (attribution appreciated).
