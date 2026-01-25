@@ -1,95 +1,75 @@
-# Genesis Network Master Plan Repository
-
-## Overview
-
-Welcome to the official GitHub repository for the Genesis Network Master Plan by Earth-Star Industries. This repository contains the comprehensive documentation, roadmaps, financial projections, resilience analyses, and strategic frameworks for the Genesis-EarthStar Regenerative System—a modular, self-replicating ecosystem aimed at achieving post-scarcity, carbon-negative society through regenerative hubs, sovereign technology, and global smallholder empowerment.
-
-The project integrates pod-centric architecture, enhanced multi-trophic aquaponics, large/specialty livestock, microbial inoculants, TerraFab manufacturing, TerraWell FreeCare, infrastructure recycling, and defensive NATO/Western Hemisphere expansion evolving to voluntary global adoption. All designs prioritize 95–99% resource closure, resilience to disasters, and self-funding without long-term public reliance.
-
-**Repository Structure**:  
-- `/docs`: Detailed analyses (resilience, feasibility, sensor handbook)  
-- `/roadmaps`: 50-year timelines, feedback loops with NASA/ISS  
-- `/financials`: Cost breakdowns, cash flows, NPV/IRR  
-- `/components`: Lists of tiles, pods, kits, LLCs  
-
-## Executive Summary
-
-The Genesis Network transforms degraded lands into regenerative cities feeding/housing the U.S. population (370–400M by 2050–2060), with gigaton sequestration and mining minimization. Key features:  
-- Pod-first bootstrap for rapid self-funding (Month 1–3 cash-positive per hub)  
-- Innovation Hub LLCs for risk isolation and burnout reduction  
-- TerraWell FreeCare for humanitarian goodwill and tax offsets ($500M–$1.5B/year)  
-- Defensive Fortress West (NATO + Americas) → voluntary global invitation post-2045  
-
-**Realistic Schedule**: 2027 pilots → 2035 U.S. scaling → 2050 global maturity. IRR 55–82%; NPV $900B–$2.5T.
-
-## Core Components
-
-| Component | Description | Key Tech |
-|-----------|-------------|----------|
-| Regenerative Hubs | Closed-loop food/energy/water production | Enhanced aquaponics/livestock pods |
-| TerraFab | Sovereign chip/appliance manufacturing | Mini-Fabs (65–130 nm) → advanced (7–3 nm) |
-| TerraWell FreeCare | Free healthcare/education (independent 501(c)(3)) | Surplus donations for tax efficiency |
-| Smallholder Partnerships | Bridge loans/kits for mini-hubs | Farmer empowerment for political viability |
-| Infrastructure Recycling | RCA concrete + ceramic cladding | Smart roads/pipes; dam/river restoration kits |
-
-## Financial Overview
-
-**Total CAPEX (2027–2077)**: $55–110B  
-**Revenue (2035+)**: $35–135B/year  
-**Cash Flow Summary ($B/year)**  
-
-| Period | CAPEX | Revenue | OPEX | Net |
-|--------|-------|---------|------|-----|
-| 2027–2035 | 0.4–35 | 0.6–130 | 0.3–50 | +0.2–60 |
-| 2036–2050 | 20–45 | 150–900 | 60–360 | +80–450 |
-| 2051–2077+ | 15–30 | 500–6,000+ | 200–2,400 | +300–3,600+ |
-
-**NPV (7% discount)**: $900B–$2.5T; **IRR**: 55–82%; Break-even: 2028–2029.
-
-## 50-Year Roadmap (NASA/ISS Integration Marked with *)
-
-| Decade | Milestones | Feedback Loops | Financials ($B/year) |
-|--------|------------|----------------|----------------------|
-| 2027–2036 | Hubs + Mini-Fabs*; ECLSS* water closure | Space microbial data* → Earth yields | CAPEX 0.4–35; Net +0.2–60 |
-| 2037–2046 | Advanced fabs*; BLSS* aquaponics | Earth data → NASA upgrades | CAPEX 10–35; Net +10–60 |
-| 2047–2056 | Lunar pilots*; ECLSS* habitats | Lunar tests → Earth resilience | CAPEX 20–45; Net +80–450 |
-| 2057–2066 | Mars settlements*; full loops | Interplanetary microbial feedback | CAPEX 15–30; Net +300–1,800 |
-| 2067–2077+ | Mature space colonies | Global regenerative standard | CAPEX 10–20; Net +600–3,600+ |
-
-## Resilience Analysis Summary
-
-| Disaster | Rating (1–10) | Key Features |
-|----------|---------------|--------------|
-| Natural (Quakes/Floods) | 8–9 | Vaulted ceramics, permeable tiles |
-| Asteroid/Volcano | 4–7 | Distributed redundancy, air filtration |
-| Nuclear War/Winter | 7–9 | Faraday mesh, closed-loop ECLSS* |
-| Pandemics | 8–10 | Smart airlocks, self-contained production |
-
-## Top 10 Risks & Mitigations
-
-| Risk | Mitigation | Quick Win (2027–2030) |
-|------|------------|-----------------------|
-| Funding Delay | Pod bootstrap | Month 1–3 cash-positive |
-| Regulatory | LLC isolation | Brownfield grants |
-| Technical | Data moat | Short-cycle pilots |
-| Political | Farmer loans | 100 mini-hubs |
-| Geopolitical | Fortress West | NATO pilots |
-| Burnout | Distributed LLCs | Telepresence training |
-| Supply Chain | Waste-derived | Pre-supply staging |
-| Adoption | Premium branding | Blockchain credits |
-| Disasters | Airlocks/resilience | Pandemic sims |
-| Drift | Co-op governance | 2030 self-funding lock |
-
-## Exponential Growth Analysis Without Public Funds
-
-Cities/towers enable self-funded exponential growth via density ( +30–50% capacity from vertical ag), internal demand loops, and kit replication—though slower (U.S. coverage 2070s+ vs. 2060s with funds). Probability 40–60%; IRR 45–70%.
-
-## Honest Project Assessment
-
-This is a visionary, potentially world-altering project (impact 8/10), but viability 5–6/10 without flawless execution. Strengths: Modularity de-risks; goodwill builds alliances. Weaknesses: Ambitious timeline risks drift. Worth pursuing if bootstrap succeeds.
-
+---
+layout: default
+title: Genesis Network – README
+description: Master overview and central documentation hub for the Genesis Network by Earth-Star Industries – a self-replicating, regenerative, closed-loop ecosystem for food, energy, water, materials, compute, and civilization-scale resilience.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+# Genesis Network  
+**A Self-Replicating Regenerative Civilization Architecture**  
+**by Earth-Star Industries**  
+**Current Version**: Consolidated Master Plan – January 2026
 
-© 2025 Earth-Star Industries
+## Mission & Vision
+
+The **Genesis Network** is a modular, pod-centric, ceramic-dominant, closed-loop regenerative ecosystem designed to transform distressed lands, brownfields, and landfills into autonomous hubs that produce food, energy, water, materials, electronics, pharmaceuticals, and community services with 95–99% resource closure.
+
+**Ultimate Goal**: Achieve post-scarcity coverage for the U.S. population (370–400 million by 2050–2060) through regenerative cities, while empowering global smallholders, rewilding hundreds of millions of acres, achieving gigaton-scale carbon negativity, and extending replication to Luna, Mars, asteroids, O'Neill cylinders, and von Neumann probes.
+
+## Core Architectural Principles
+
+- **Pod-First Everything**: All functions start in 40 ft high-cube ISO-derived pods (evolving to 95–100% waste-derived toughened ceramic shells)  
+- **Tile-Centric Construction**: Every building, road, pipe, and surface is made exclusively from Genesis ceramic tiles (70–95% waste-derived)  
+- **Self-Replication Flywheel**: Hubs produce kits → new hubs → exponential growth  
+- **Data Moat & Ruthless Optimization**: Hyper-dense sensors (3–5× redundancy) + short-cycle testing (weekly BSFL/algae) + parallel variants → 10–50× faster iteration than conventional systems  
+- **Farmer/Smallholder Empowerment**: Bridge loans, free training, subsidized kits, co-op ownership → political shield & distributed scaling  
+- **Strict Self-Funding**: Month 1–3 cash-positive lock; no external capital post-2028  
+- **Defensive & Humanitarian Layers**: NATO-aligned civil resilience + independent **TerraWell FreeCare** nonprofit
+
+## Quick Navigation Links
+
+- [**Tile Families**](components/tile-families.md) – All structural, glazing, display, and smart tiles  
+- [**Pod Families**](components/pod-families.md) – Aquaponics, livestock, manufacturing, TerraFab, TerraWell, and more  
+- [**Flat-Pack Kits**](components/flat-pack-kits.md) – Self-replicating bootstrap and expansion kits  
+- [**Sensor Handbook**](docs/sensor-handbook.md) – Complete list of sensor types, deployment, redundancy, and standards  
+- [**Innovation Hub LLC Structure**](docs/innovation-hub-llcs.md) – List of all 11 core LLCs and their roles  
+- [**50-Year Roadmap with NASA/ISS Feedback Loops**](roadmaps/50-year-roadmap-nasa-feedback.md) – Phased Earth → Luna → Mars → space expansion  
+- [**Resilience Analysis**](docs/resilience-analysis.md) – Natural disasters, nuclear winter, pandemics, asteroid strikes, supervolcanoes  
+- [**Top 10 Risks & Mitigations**](docs/top-10-risks-mitigations.md) – Honest failure modes and countermeasures  
+- [**Financial Projections & Self-Funding Path**](financials/financial-projections.md) – Cash flow, IRR, NPV, break-even  
+- [**Viability Enhancements Summary**](strategy/viability-enhancements.md) – All implemented bottleneck reductions
+
+## High-Level Component Ecosystem
+
+| Category               | Primary Outputs / Functions                              | Waste-Derived % | Closure Rate | Revenue Driver Strength |
+|------------------------|------------------------------------------------------------------|------------------|--------------|--------------------------|
+| **Ceramic Tiles**      | Structural, glazing, display, roads, smart surfaces              | 70–95%          | 95–99%       | ★★★★★ (highest)         |
+| **Aquaponics Pods**    | Multi-trophic protein + greens                                   | 80–90%          | 95–99%       | ★★★★☆                   |
+| **Livestock Pods**     | Staggered milk/meat/fiber/eggs                                   | 85–95%          | 95–98%       | ★★★★☆                   |
+| **TerraFab**           | Sensors, edge AI, sovereign chips                                | 65–90%          | 90–95%       | ★★★★★ (long-term)       |
+| **Biogas & Energy**    | Power, digestate, CO₂                                            | 90–98%          | 95–99%       | ★★★★☆                   |
+| **Restoration Kits**   | Blue-green carbon, rewilding                                     | 80–95%          | N/A          | ★★★☆☆ (credits)         |
+| **TerraWell**          | Free healthcare, DME (non-profit layer)                          | 70–90%          | N/A          | Reputational / goodwill  |
+
+## Key Resilience Features
+
+- **Smart Airlocks Everywhere** → mmWave + hyperspectral scanning for weapons/explosives/pathogens  
+- **Faraday Mesh & EMP Hardening** → Every tile/pod  
+- **95–99% Internal Closure** → Multi-year food/energy/water autonomy per hub  
+- **Distributed Network** → Thousands of hubs spaced >100 km → no single-point failure  
+- **Lunar/Mars Backup** → Off-world seed factories survive Earth catastrophe  
+- **Local Digital Twins** → Sovereignty-compliant data export; privacy preserved
+
+## Honest Feasibility Snapshot
+
+- **Short-term (2027–2035)**: 8–15% chance of significant U.S. scale (100–1,000 hubs)  
+- **Medium-term (2036–2055)**: 3–8% chance of transformative U.S./Western coverage  
+- **Long-term (2056–2077+)**: 0.5–2% chance of full Earth post-scarcity + lunar/Mars footholds  
+- **Space extension (2078+)**: <0.5% for O'Neill cylinders / von Neumann probes
+
+The project is audacious, technically coherent, and potentially world-changing — but remains extraordinarily fragile to human, regulatory, and execution risks.
+
+## License & Attribution
+
+*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*  
+© 2026 Earth-Star Industries conceptual working group (attribution appreciated).
