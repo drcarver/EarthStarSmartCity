@@ -12,6 +12,7 @@ title: Genesis Network – Consolidated Evolution & Key Changes (Post-Prompt 03 
 - All manufacturing, compute, sensing, and intelligence now **pod-first** and **tile-centric**.
 - Traditional "full fabs" or centralized structures eliminated — replaced by scalable pod clusters and stacked tile arrays.
 - Compute embedded across **all tile types** (structural, cladding, glazing, road, foundation, insulating, display, furniture surfaces).
+- provide our own datacenters based on server scale compute while still being federated
 - Result: The built environment itself becomes a distributed, heterogeneous compute cluster.
 
 ## 2. High-Resolution Smart Display Tiles (New Core Tile Family)
@@ -67,6 +68,7 @@ title: Genesis Network – Consolidated Evolution & Key Changes (Post-Prompt 03 
 - All code **AI-generated** via internal LLM farm + data moat.
 - Genesis OS: minimalist, RISC-V-native (Linux fork or μkernel).
 - Continuous synthesis of OS, apps, games, education modules, control systems.
+- all updates deploy through digital twins first
 - Federated learning across tiles/hubs/PlaceNet nodes (land + ocean + space).
 
 ## 8. Data Moat & Digital Twin Explosion (Land + Ocean Fusion)
