@@ -1,113 +1,118 @@
 ---
 layout: default
-title: Genesis Network – Comprehensive List of Tiles, Pods, Kits, Sensor Handbook, and LLCs
-description: Detailed catalog of all tiles, pods, and kits in the Genesis Network, including manufacturing, inputs, materials, costs, revenues, smart airlocks, smart city standards, and viability enhancements.
+title: Genesis Network – Complete Inventory of Tiles, Pods, Kits, Manufacturing, Economics, Sensors & LLC Structure
+description: Master consolidated reference listing every tile, pod and kit in the Genesis Network, including production details, inputs, materials, costs/revenues, smart airlocks/security, sensor handbook, LLCs, and viability enhancements.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
-# Genesis Network: Comprehensive List of Tiles, Pods, Kits, Sensor Handbook, and LLCs
+# Genesis Network – Complete Inventory of Tiles, Pods, Kits, Manufacturing, Economics, Sensors & LLC Structure
 
-## Executive Summary
+**Version**: Master Consolidated Inventory – January 2026  
+**Core Manufacturing Rule**: All tiles, pods, kits and building components are produced exclusively within the Tile & Pipe Production Pod → permanent ceramic factories. All buildings and fixed infrastructure are constructed **only** from Genesis toughened ceramic tiles, ceramic modules and self-replicating flat-pack kits. No virgin concrete, steel, asphalt or non-recycled aggregates are permitted beyond minimal RCA bases where structurally unavoidable.
 
-This document provides a complete list of all tiles, pods, and kits in the Genesis Network, with details on manufacturing (all from tile factory pods), input sources (70–95% waste-derived: C&D slag, RHA silica, farm residues, ELFM/brownfield slag), materials (toughened ceramics composites), recalculated costs ($/unit, reduced 15–25% via automation/pre-supply), and revenues ($/year/unit, uplifted 20–30% from premiums/credits). New kits created: Smart Airlock Kit, Security & Smart City Kit. All buildings constructed solely from tiles, ceramics, and kits; smart airlocks standard in all (scan for weapons/explosives via mmWave/multispectral, alert AI/security). Implements ISO/TC 268 smart city standards (KPIs for energy/water/transport), ITU-T Y.4900, IEEE 2030 (grid), and sustainable codes (ISO 14001, Cradle-to-Cradle). Viability enhancements: microbial inoculants (+10–30% yields), blockchain credits ($150–250/tCO₂e), waste heat recovery, parallel testing (reduce bottlenecks by 40–50%). LLCs listed for Innovation Hub risk isolation.
+**Security & Standards Compliance**  
+- **Smart Airlocks**: Every building, pod cluster and fixed facility includes dual smart airlocks with mmWave radar + multispectral imaging + metal/explosive trace detection. Alerts route to local security AI → human response teams. Faraday mesh + EMP hardening standard.  
+- **Smart City Standards**: Full alignment with ISO/TC 268 (sustainable cities), ISO 37120 (city indicators), IEEE 2030 (smart grid), ITU-T Y.4900 (smart sustainable cities), NIST cybersecurity framework.  
+- **Sustainable Building Codes**: Cradle-to-Cradle certified materials, net-zero energy/water, 95–99% resource closure, passive-dominant design, LEED Platinum / Living Building Challenge equivalent targets.
 
-Recalculated totals (network-wide, mature phase 2035+): CAPEX down 20% to $60–120B (efficiency gains); revenue up 25% to $30–125B/year; IRR 55–80%; break-even Month 1–3 per hub.
+## 1. All Tile Families – Master List
 
-## 1. List of All Tiles
+| Tile Type                      | Primary Applications                          | Key Embedded Features                                      | Input Sources                          | Materials & Composition                  | Prod. Cost ($/ft²) | Selling Price ($/ft²) | Annual Revenue Potential (mature hub) |
+|--------------------------------|-----------------------------------------------|------------------------------------------------------------|----------------------------------------|------------------------------------------|---------------------|------------------------|----------------------------------------|
+| Roof Glazing (Semi-Trans)      | Greenhouses, housing/community roofs          | BIPV 10–30%, full AWG condensers, PAR/thermal/humidity sensors | RHA silica 80%, farm residues          | Glass-ceramic + thin-film PV + micro-condensers | 2.8–5.0            | 8.5–14.0              | $300–800M                             |
+| Exterior Cladding              | Vertical facades, pod shells                  | Supplementary BIPV 8–22%, AWG humidity, strain/vibration sensors | C&D slag 60%, residues                 | Ceramic composite + PV layers + AWG channels | 2.5–4.5            | 7.5–12.5              | $200–600M                             |
+| Structural Load-Bearing        | Foundations, walls, floors, heavy roads       | Piezoelectric 20–60/m², strain/vibration/thermal sensors   | ELFM slag 70%, brownfield              | Toughened ceramic + PZT + conduits       | 1.8–3.2            | 5.5–8.5               | $150–400M                             |
+| Insulating / Thermal Mass      | Interior partitions, passive climate walls    | Indoor AWG, micro-piezo occupancy, thermal sensors         | Bagasse pore-formers, residues         | Aerated ceramic + internal channels      | 1.7–3.0            | 5.0–8.5               | $100–250M                             |
+| Permeable (Roads/Paths)        | Internal roads, drainage, walkways            | Piezoelectric traffic, stormwater capture, acoustic/strain | C&D slag 75%                           | Porous ceramic + piezo embeds            | 2.2–3.8            | 6.5–10.5              | $120–350M                             |
+| High-Resolution Smart Display  | Walls, furniture, counters, public screens    | MicroLED/OLED/QD-OLED, full RISC-V compute stack, haptics/speakers | RHA silica + recycled electronics      | Glass-ceramic + display + compute layers | 8.0–18.0           | 25–60                 | $400–1,200M                           |
+| Smart Foundation/Base          | Under pods/structures, seismic damping        | Piezoelectric vibration, strain/pressure sensors           | Brownfield slag 65%                    | Dense ceramic + embeds                   | 1.6–2.7            | 4.8–7.8               | $80–200M                              |
 
-| Tile Type                          | Manufacturing (Tile Factory Pods) | Input Sources | Materials | Cost ($/m²) | Revenue ($/m²/year, Premium Sales) | Notes / Viability Enhancements |
-|------------------------------------|-----------------------------------|---------------|-----------|-------------|------------------------------------|--------------------------------|
-| Roof Glazing (Semi-Transparent)    | Tunnel kilns, plasma vitrification | RHA silica (80%), residues | Glass-ceramic + thin-film PV + condensers | 2.5–4.5    | 8–13                               | BIPV + AWG; 10–30% transmittance |
-| Exterior Cladding                  | Extruders, presses, firing        | C&D slag (60%), residues | Ceramic composite + PV/AWG layers | 2.2–4.0    | 7–12                               | Supplementary BIPV; cultural patterns |
-| Structural Load-Bearing            | High-pressure forming, firing     | ELFM slag (70%), brownfield | Toughened ceramic + piezo embeds | 1.6–3.0    | 5–8                                | Piezo vibration harvesting |
-| Insulating                         | Aerated mixing, tunnel dryers     | Bagasse pore-formers | Aerated ceramic + indoor AWG channels | 1.5–2.8    | 4.5–8                              | Thermal mass + humidity recapture |
-| Permeable (Roads/Paths)            | Porous extrusion, firing          | C&D slag (75%) | Porous ceramic + piezo/sensors | 2.0–3.5    | 6–10                               | Stormwater + traffic energy harvest |
-| Foundation/Base                    | Dense pressing, firing            | Brownfield slag (65%) | Dense ceramic + strain sensors | 1.4–2.5    | 4–7.5                              | Structural monitoring |
+**Total Tile Revenue (mature single hub)**: $1.35–3.8B/year  
+**Network-wide (8,000 hubs mature)**: $10–30T/year potential (tiles only)
 
-**Total Tile Production (Mature Hub)**: 1–5M m²/year; Cost Reduction: 20% via waste inputs; Revenue Uplift: 25% from smart features/credits.
+## 2. All Pod Families – Master List
 
-## 2. List of All Pods
+| Pod Type                               | Primary Function                                      | Key Systems & Features                                      | Input Sources                          | Output / Revenue Stream                     | CAPEX per Pod ($M) | Annual Revenue per Pod ($M) |
+|----------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|----------------------------------------|---------------------------------------------|---------------------|------------------------------|
+| Tile & Pipe Production                 | Core manufacturing                                    | Kilns, presses, robotic handling, plasma vitrification     | Waste slag/residues                    | Tiles/pipes for replication & sale          | 0.8–2.0            | 15–50                       |
+| Aquaponics (Multi-Trophic)             | Protein + produce production                          | Fish/crustacean/mollusk/insect/plant layers, LED/BIPV       | Water, feed, CO₂                       | Fish, prawns, greens, insect protein        | 0.15–0.4           | 0.3–1.5                     |
+| Livestock – Large Animal                | Cattle/horses/bison                                   | Robotic milking, staggered calving, climate control         | Feed, water                            | Milk, meat, manure, leather                 | 0.18–0.45          | 0.25–0.7                    |
+| Livestock – Specialty                  | Goats/sheep/alpaca/emu                                | Automated shearing/egg collection, multi-level pens         | Feed, water                            | Milk/fiber/meat/eggs                        | 0.12–0.35          | 0.2–0.6                     |
+| Biogas Digester & Upgrading            | Energy & nutrient recovery                            | Anaerobic digestion, biomethane upgrading                   | Manure, food/plant waste               | Power, digestate, CO₂                       | 0.1–0.3            | 0.2–0.8                     |
+| Microbial Inoculant Production         | Yield & soil enhancement                              | Fermenters, culture optimization                            | Digestate, residues                    | Custom inoculants (sale & internal)         | 0.05–0.15          | 0.1–0.4                     |
+| TerraFab Mini-Fab (65–130 nm)          | Sensors, edge AI, robotics compute                    | Modular cleanroom, DUV lithography                          | Recycled silicon, gases                | Chips/sensors (internal + sale)             | 50–150 (per hub)   | 150–400                     |
+| TerraFab Advanced (7–3 nm)             | Sovereign high-performance compute                    | EUV/ALD pods, ISO 5 zones                                   | High-purity recycled materials         | Advanced chips (sovereign + export)         | 2–5B (cluster)     | 400–800                     |
+| Smart Infrastructure                   | Roads, pipes, utilities                               | Piezo/solar tiles, bidirectional pipes                      | C&D slag, recycled aggregates          | Smart roads/pipes, energy/water export      | 0.2–0.6            | 0.5–2.0                     |
+| Education / Telepresence               | Training & community learning                         | VR/AR stations, Dojo platform                               | Power, data                            | Competency completions, tourism revenue     | 0.08–0.25          | 0.1–0.4                     |
+| TerraWell Fixed Center                 | Free healthcare & DME                                 | Exam bays, pharmacy, 3D-printed DME fab                     | Donations, power                       | Humanitarian impact + goodwill              | 2–8                | N/A (non-profit)            |
+| TerraWell Mobile Unit                  | Disaster & outreach response                          | Truck/trailer, solar/BIPV, airlock                          | Donations, fuel backup                 | Rapid care delivery                         | 0.5–1.5            | N/A (non-profit)            |
+| Restoration (Blue-Green Carbon)        | Wetland/mangrove/kelp/oyster deployment               | Modular planters, sensor buoys                              | Native stock, biochar                  | Carbon/biodiversity credits                 | 0.05–0.2           | 0.1–0.5                     |
+| Dam & River Restoration Module         | Dam removal, river recontouring                       | Demolition tools, sediment processors                       | Recycled concrete                      | River health + fisheries                    | 0.1–0.4            | 0.05–0.3                    |
 
-| Pod Type                           | Manufacturing (Tile Factory + Assembly Pods) | Input Sources | Materials | Cost ($K/unit) | Revenue ($K/year/unit) | Notes / Viability Enhancements |
-|------------------------------------|----------------------------------------------|---------------|-----------|----------------|------------------------|--------------------------------|
-| Ceramic Tile Production            | Self-replicating kilns/mixers                | C&D/ELFM slag | Ceramics composites | 150–250       | 500–1,000              | Plasma vitrification; waste-derived |
-| Greenhouse/Aquaponics (Multi-Trophic) | Tile assembly + bio-seeding                  | Farm residues | Ceramics + glazing | 100–200       | 300–800                | Fish/crustaceans/mollusks/insects/plants; staggered cycles |
-| Biogas Digester                    | Ceramic-lined tanks + separators             | Manure/waste  | Ceramics + embeds | 80–150        | 200–500                | Pre-inoculated; syngas output |
-| Housing/Community                  | Tile snap-together modules                   | Residues/slag | Ceramics + BIPV   | 200–400       | 400–800 (amenities)    | Smart airlocks; dense balcony ag |
-| Staples                            | Flooded trays + vertical racking             | RHA/slag      | Ceramics + sensors| 90–180        | 250–600                | Rice/potatoes; microbial boosts |
-| Orchard                            | Trellised + dwarf tree pots                  | Residues      | Ceramics + glazing| 120–220       | 300–700                | Pre-transplanted; agroforestry integration |
-| Livestock (Large/Specialty)        | Pens + robotic milking/shearing              | Waste/manure  | Ceramics + embeds | 150–300       | 400–1,200              | Staggered delivery; grazing links |
-| Beehive                            | Modular hives + transit pipes                | Residues      | Ceramics + sensors| 50–100        | 100–300                | Pollination + honey; bee-safe design |
-| Recycling & Circular               | Crushers/plasma torches                      | C&D/brownfield| Ceramics + plasma | 100–200       | 300–600                | ELFM/slag to tiles |
-| Microbial Inoculant                | Fermenters + cultures                        | Digestate     | Ceramics + sensors| 50–100        | 100–300 (sales)        | Yield boosts; short-cycle testing |
-| Restoration & DAC Pilot            | Kits + CO₂ modules                           | Waste/syngas  | Ceramics + membranes| 80–150       | 200–500 (credits)      | Blue-green carbon; enhanced weathering |
-| Smart Infrastructure               | Road/pipe assembly                           | Slag/residues | Ceramics + piezo/solar| 100–200     | 300–700                | Inductive charging; security standards |
-| Education/Telepresence             | VR stations + edge compute                   | Residues      | Ceramics + electronics| 60–120      | 100–200 (tourism)      | Competency training; burnout mitigation |
-| Robotics & Automation              | Assembly + RISC-V chips                      | Waste/slag    | Ceramics + sensors| 150–250      | 400–800                | Lights-out; oversight distribution |
-| Processing (Bakery/Brewery/Butcher/Confectionary/Dairy) | Robotic lines + ovens/mixers                 | Farm outputs  | Ceramics + embeds | 80–150 each   | 200–500 each           | Value-add; halal/kosher modes |
+## 3. All Flat-Pack Self-Replicating Kits – Master List
 
-**Total Pods/Hub (Mature)**: 50–100; Cost Reduction: 25% via pre-supply; Revenue Uplift: 30% from continuous output/credits.
+All kits are containerized, include instructions, digital twins, initial materials, and are produced in Tile & Pipe Production Pods.
 
-## 3. List of All Flat-Pack Kits
-
-| Kit Type                           | Manufacturing (Tile Factory + Pods) | Input Sources | Materials | Cost ($K/kit) | Revenue ($K/year/kit, Sales) | Notes / Viability Enhancements |
-|------------------------------------|-------------------------------------|---------------|-----------|---------------|------------------------------|--------------------------------|
-| Ceramic Tile & Pipe                | Kilns/extruders                     | C&D/slag      | Ceramics  | 50–100       | 150–300                      | Base for all builds |
-| Enhanced Aquaponics                | Bio-assembly                        | Residues      | Ceramics + tanks | 80–150      | 250–600                      | Multi-trophic; new Saltwater Pilot Kit |
-| Biogas Digester                    | Lined tanks                         | Waste         | Ceramics  | 60–120       | 200–400                      | Pre-inoculated |
-| Housing/Community                  | Modular tiles                       | Slag/residues | Ceramics + BIPV | 150–300     | 300–600                      | Dense ag integration |
-| Microbial Inoculant Production     | Fermenters                          | Digestate     | Ceramics  | 40–80        | 100–250                      | Yield enhancer |
-| Agroforestry Expansion             | Trellis/planters                    | Residues      | Ceramics  | 50–100       | 150–350                      | Dwarf trees; sequestration |
-| Restoration & Blue-Green Carbon    | Wetland kits                        | Waste/slag    | Ceramics + plants | 60–120      | 200–400 (credits)            | Dam/river modules |
-| Mini-Fab                           | Cleanroom modules                   | Slag/silica   | Ceramics + embeds | 200–400     | 500–1,000                    | Sensors/AI |
-| DAC Pilot                          | Membrane assemblies                 | Syngas/waste  | Ceramics  | 80–150       | 150–300 (credits)            | CO₂ mineralization |
-| Smart Infrastructure               | Road/pipe sections                  | C&D/slag      | Ceramics + piezo | 100–200     | 300–600                      | Charging/security |
-| Education/Telepresence             | VR stations                         | Residues      | Ceramics + electronics | 50–100     | 100–200                      | Burnout reduction |
-| Smart Airlock (New)                | Sensor-embedded doors               | Slag/residues | Ceramics + mmWave | 20–40        | 50–100 (upgrades)            | Weapons/explosives scan; alert AI/security |
-| Security & Smart City (New)        | Sensor arrays + compliance modules  | Waste/silica  | Ceramics + embeds | 30–60        | 100–200                      | ISO/TC 268, ITU-T Y.4900, IEEE 2030 standards |
-| Dam & River Restoration            | Demolition/planting tools           | Waste         | Ceramics  | 40–80        | 100–250 (credits)            | Fisheries integration |
-
-**Total Kits/Network (Mature)**: 20–50 types; Cost Reduction: 20% via recycling; Revenue Uplift: 30% from standards/credits.
+| Kit Name                               | Primary Purpose                                       | Key Components Included                                     | Output / Use Case                           | CAPEX per Kit ($K) | Selling Price ($K) | Annual Revenue Potential (mature hub) |
+|----------------------------------------|-------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------|---------------------|---------------------|----------------------------------------|
+| Ceramic Tile & Pipe Production         | Bootstrap manufacturing                               | Kilns, mixers, molds, robotic handlers                      | Self-replication + tile sales               | 800–2,000          | 2,500–6,000        | $15–50M                               |
+| Aquaponics & Multi-Trophic             | Food/protein production                               | Tanks, biofilters, LED/BIPV glazing                         | Fish, prawns, greens, insects               | 150–400            | 500–1,200          | $0.3–1.5M                             |
+| Livestock – Large Animal               | Cattle/horses/bison pods                              | Robotic milking, climate systems, staggered breeding AI     | Milk/meat/manure                            | 180–450            | 600–1,500          | $0.25–0.7M                            |
+| Livestock – Specialty                  | Goats/sheep/alpaca/emu                                | Automated shearing/egg collection, multi-level pens         | Milk/fiber/meat/eggs                        | 120–350            | 400–1,000          | $0.2–0.6M                             |
+| Biogas Digester & Upgrading            | Energy & nutrient recovery                            | Digesters, separators, microturbines                        | Power, digestate                            | 100–300            | 300–800            | $0.2–0.8M                             |
+| Microbial Inoculant Production         | Soil/yield enhancement                                | Fermenters, sensors, culture starters                       | Custom inoculants                           | 50–150             | 150–500            | $0.1–0.4M                             |
+| Smart Infrastructure                   | Roads/pipes/utilities                                 | Piezo/solar tiles, bidirectional pipes                      | Smart roads/pipes                           | 200–600            | 600–1,800          | $0.5–2.0M                             |
+| Education / Telepresence               | Training & community learning                         | VR/AR stations, Dojo tablets                                | Competency programs                         | 80–250             | 200–600            | $0.1–0.4M                             |
+| Restoration (Blue-Green Carbon)        | Wetland/mangrove/kelp deployment                      | Planters, buoys, native stock                               | Carbon/biodiversity credits                 | 50–200             | 150–500            | $0.1–0.5M                             |
+| Dam & River Restoration Module         | Dam removal, river recontouring                       | Demolition tools, sediment processors                       | River health + fisheries                     | 100–400            | 300–1,000          | $0.05–0.3M                            |
+| TerraWell Mobile Clinic                | Disaster & outreach healthcare                        | Airlock, exam bays, pharmacy, solar/BIPV                    | Free care delivery                          | 500–1,500          | N/A (non-profit)   | N/A                                   |
 
 ## 4. Detailed Sensor Handbook
 
-**Overview**: Sensors are hyper-dense (3–5x redundancy), embedded in tiles/pods/kits, compliant with IEEE 1451 (transducers), OGC SWE (web enablement), NASA-STD-3001 (closed loops), MIL-STD-810 (ruggedness). AI edge processing for anomaly detection, predictive maintenance, privacy (local/anon data). Standards: ISO/TC 268 KPIs, ITU-T Y.4900 (sustainable cities), IEEE 2030 (grid interop). Sustainable codes: ISO 14001 (env management), Cradle-to-Cradle (circular).
+**Sensor Strategy**: 3–5× redundancy per critical point; edge AI for drift/failure detection; federated learning across network.
 
-| Sensor Type                        | Applications | Specs | Standards Compliance | Cost ($/unit) | Notes / Viability Enhancements |
-|------------------------------------|--------------|-------|----------------------|---------------|--------------------------------|
-| Electrochemical/Optical            | Nutrient/pH/pathogen in aquaponics/water | Accuracy ±0.1 pH; range 0–14 | IEEE 1451            | 10–20        | Real-time closure monitoring |
-| Nanobiosensors/Microbial           | Soil activity/plant stress | Sensitivity 1–10 ppm | OGC SWE              | 15–30        | Microbial boosts integration |
-| mmWave/IR-UWB Radar                | Resident health (vitals/fall), security (weapons/explosives) | Range 10–50m; privacy mode | MIL-STD-810          | 20–40        | Airlock/alert; burnout detection |
-| Multispectral/VOC                  | Pest/disease early warning | 5–20 bands; ppm detection | NASA-STD-3001        | 15–25        | Data moat for iterations |
-| Strain/Vibration/Thermal           | Structural/road monitoring | ±0.1% strain; –50–150°C | ITU-T Y.4900         | 10–20        | Predictive maintenance |
-| Flow/Pressure/Acoustic             | Pipes/water/leak detection | 0.1–100 L/min; dB sensitivity | IEEE 2030            | 12–25        | Security/anomaly alerts |
-| PAR/Humidity/Soiling               | Greenhouse/glazing optimization | 400–700 nm; ±5% RH | ISO/TC 268           | 8–15         | Yield optimization |
+| Sensor Type                    | Measured Parameters                                   | Deployment Locations                                | Redundancy | Power Source                  | Standards Alignment                  | Notes & Viability Role |
+|--------------------------------|-------------------------------------------------------|-----------------------------------------------------|------------|-------------------------------|--------------------------------------|------------------------|
+| Electrochemical / Optical      | pH, ammonia, DO, nitrates, VOCs, pathogens            | Aquaponics tanks, soil, air                         | 3–5×       | BIPV/piezo                    | IEEE 1451, OGC SWE                   | Early disease/yield warning |
+| Multispectral / PAR            | Light quality/intensity, plant stress, soiling        | Greenhouses, display tiles, restoration sites       | 4–5×       | BIPV                          | IEEE 1451, NASA-STD-3001             | CO₂/light optimization |
+| mmWave / IR-UWB Radar          | Heart rate, respiration, fall detection, occupancy    | Housing, TerraWell centers, livestock pods          | 3–5×       | Piezo/micro-BIPV              | MIL-STD-810                          | Non-intrusive health/security |
+| Strain / Vibration / Piezo     | Structural integrity, traffic, seismic, occupancy     | Foundations, roads, cladding                        | 3–5×       | Piezo self-powered            | IEEE 1451, ISO/TC 268                | Predictive maintenance |
+| Thermal / Humidity             | Temperature gradients, evapotranspiration, AWG yield  | All tiles, airlocks, greenhouses                    | 4–5×       | BIPV/piezo                    | ISO 14001                            | Climate control loop closure |
+| Acoustic / Flow                | Leak detection, traffic noise, animal behavior        | Pipes, roads, livestock pods                        | 3–5×       | Piezo                         | ITU-T Y.4900                         | Biosecurity/anomaly detection |
 
-**Handbook Guidelines**: 3–5x redundancy per point; AI cross-validation; blockchain logs for audits; sustainable (silicon from RHA, low-power).
+## 5. LLCs in the Innovation Hub (Master List)
 
-## 5. List of LLCs in the Innovation Hub
+1. Regenerative Agriculture & Permaculture LLC  
+2. TerraFab Electronics & Semiconductor Manufacturing LLC  
+3. Industrial Gases & Biorefinery LLC  
+4. Infrastructure Recycling & Smart Roads LLC  
+5. Blue-Green Carbon Restoration LLC  
+6. Robotics & Lights-Out Automation LLC  
+7. TerraWell FreeCare Foundation (independent 501(c)(3))  
+8. Smallholder Partnership & Kit Distribution LLC  
+9. Community Services, Housing & Education LLC  
+10. Microbial Biosolutions & Inoculant Production LLC  
 
-1. Regenerative Hubs LLC  
-2. TerraFab Manufacturing LLC  
-3. Industrial Gases LLC  
-4. Robotics & Automation LLC  
-5. Infrastructure Upgrades LLC  
-6. Restoration & Blue Carbon LLC  
-7. TerraWell FreeCare Foundation (501(c)(3))  
-8. Smallholder Partnership Co-op LLCs (regional)  
+## 6. Viability Enhancements & Bottleneck Reductions Implemented
 
-## 6. Suggestions to Enhance Viability & Reduce Bottlenecks (Implemented)
+- **Smart Airlocks Everywhere** → Weapons/explosives scanning + security alerts reduce insider/external threats.  
+- **Local Digital Twins + Selective Export** → National sovereignty respected; privacy laws satisfied.  
+- **LLC Fragmentation** → Failure in one domain (e.g., TerraFab) does not doom others.  
+- **Farmer Empowerment First** → Political shield; distributed scaling; rural buy-in.  
+- **Short-Cycle Testing Flywheel** → Weekly BSFL/algae + parallel tanks → ruthless optimization.  
+- **Brownfield/Landfill Priority** → Low-cost land + EPA offsets + remediation credits.  
+- **Self-Funding Lock** → Month 1–3 positive cash flow enforced; no dilution post-2028.  
+- **Cultural/Religious Modularity** → Halal/kosher pods, prayer spaces, gender accommodations → global acceptability.
 
-- **Bottleneck Reduction**: Pre-supply + parallel testing (50–500 variants) → 40–50% faster ramp-up; microbial inoculants reduce bio-startup 30–50%.  
-- **Viability Boosts**: Blockchain credits monetize sequestration early (+$150–250/tCO₂e); waste heat recovery cuts OPEX 10–20%; dense ag adds capacity without land.  
-- **Risk Spread**: LLC isolation prevents single failure; employee distribution reduces burnout.  
-- **Standards/Security**: All buildings with airlocks; smart city KPIs for funding/compliance; sustainable codes for grants.  
-
-**Recalculated Impacts**: CAPEX $60–120B (down 20%); Revenue $30–125B/year (up 25%); Timeline: 10K+ nodes by 2032–2033 (accelerated 1 year).
+**Recalculated Mature Hub Economics (single 5,000 ha hub, 2035+)**  
+- Total CAPEX amortized/year: $0.8–1.8B  
+- OPEX (lights-out dominant): $0.4–0.9B  
+- Gross Revenue: $2.5–6.5B  
+- Net Cash Flow: $1.3–4.0B/year  
+- IRR (network-wide): 55–80%  
+- Break-even: Month 1–3 (2027–2028)
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-
-© 2025 Earth-Star Industries
+*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*  
+© 2026 Earth-Star Industries conceptual working group (attribution appreciated).
