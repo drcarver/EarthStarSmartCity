@@ -1,72 +1,74 @@
 ---
 layout: default
 title: Sensor Handbook – Genesis Network
-description: Comprehensive guide to sensor types, specifications, standards, and applications in the Genesis Network's pod-centric regenerative architecture.
+description: Complete reference for all sensor types, deployment strategies, redundancy levels, power sources, standards compliance, and integration across the Genesis Network.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
 # Sensor Handbook  
-**Genesis Network Embedded Sensor Systems**  
-**Version: January 21, 2026**
+**Genesis Network – Complete Sensor Reference**  
+**Version**: January 2026  
+**Purpose**: This document catalogs every sensor class used across tiles, pods, hubs, PlaceNet (land/ocean), livestock, airlocks, infrastructure, and off-world extensions. It details deployment, redundancy, power, standards, and how sensors feed the data moat for ruthless optimization.
 
-## Overview
+## Core Sensor Strategy Principles
 
-Sensors form the foundational **data moat** of the Genesis Network, enabling ruthless AI-driven optimization, predictive maintenance, anomaly detection, and compliance across all **pods**, **tiles**, and infrastructure. The system employs **hyper-dense sensor arrays** with **3–5× redundancy** per critical measurement point to ensure fault tolerance, drift detection, and ground-truth accuracy.
+- **Redundancy**: 3–5× minimum per critical measurement point; cross-validation detects drift/failure.  
+- **Power**: Self-powered where possible (BIPV, piezo, micro-thermoelectric); sodium-ion batteries for high-demand nodes.  
+- **Data Handling**: Edge RISC-V processing → local digital twins decide export (sovereignty/privacy compliance).  
+- **Security**: Faraday mesh in every tile/pod; air-gapped critical systems; encrypted federated learning.  
+- **Standards Alignment**: IEEE 1451 (transducers), ISO/TC 268 (smart cities), ISO 14001 (environmental), NASA-STD-3001 (closed-loop), MIL-STD-810 (ruggedness), OGC SWE (sensor web enablement).
 
-All sensors are:
-- Embedded directly in **toughened ceramic tiles** and pod components during manufacturing  
-- Self-powered where possible (piezoelectric harvesting, micro-BIPV)  
-- Compliant with international standards (IEEE 1451 transducers, OGC SWE, NASA-STD-3001 ECLSS monitoring, MIL-STD-810 ruggedness)  
-- Processed via edge AI (RISC-V compute) for real-time noise reduction, pattern recognition, and privacy-preserving local analytics  
+## Master Sensor List Table
 
-The handbook covers sensor categories, specifications, applications, standards alignment, and integration with the broader **data moat flywheel**.
+| Sensor Type                          | Measured Parameters                                                                 | Primary Deployment Locations                                      | Redundancy Level | Power Source                     | Standards Alignment                          | Data Moat Role / Optimization Impact                              | Notes & Special Features |
+|--------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------|----------------------------------|----------------------------------------------|-------------------------------------------------------------------|---------------------------|
+| **Electrochemical / Optical**        | pH, ammonia, DO, nitrates, nitrites, VOCs, pathogens, CO₂                          | Aquaponics tanks, soil probes, air quality, bioreactors           | 4–5×             | BIPV / piezo                     | IEEE 1451, OGC SWE                           | Nutrient/yield prediction; early disease detection                | Bio-fouling resistant coatings |
+| **Multispectral / PAR**              | Photosynthetically Active Radiation, plant stress, chlorophyll, soiling, NDVI      | Greenhouses, vertical farms, restoration sites, display tiles     | 4–5×             | BIPV                             | IEEE 1451, NASA-STD-3001                     | CO₂/light spectrum optimization; 10–30% yield gains               | AI-driven tunable LED feedback |
+| **mmWave / IR-UWB Radar**            | Heart rate, respiration, fall detection, occupancy, gesture, structural vibration  | Housing, TerraWell centers, livestock pods, airlocks              | 3–5×             | Piezo / micro-BIPV               | MIL-STD-810                                  | Non-intrusive health monitoring; security anomaly detection       | Privacy-first (no cameras) |
+| **Strain / Vibration / Piezo**       | Structural integrity, traffic load, seismic activity, occupancy motion             | Foundations, roads, cladding, load-bearing tiles                  | 3–5×             | Self-powered (piezo)             | IEEE 1451, ISO/TC 268                        | Predictive maintenance; energy harvesting                         | Millions of cycles durability |
+| **Thermal / Humidity Array**         | Temperature gradients, evapotranspiration, AWG yield, microclimate zones           | All tiles, greenhouses, airlocks, livestock pods                  | 4–5×             | BIPV / piezo                     | ISO 14001                                    | Passive climate control loop closure; 5–15% energy savings        | Distributed thermal mass feedback |
+| **Acoustic / Flow**                  | Leak detection, traffic noise, animal vocalization/behavior, water flow            | Pipes, roads, livestock pods, ocean PlaceNet buoys                | 3–5×             | Piezo                            | ITU-T Y.4900                                 | Biosecurity alerts; anomaly/fluid dynamics optimization           | Gunshot/explosion classification |
+| **Chemical / Gas Trace**             | Explosives, narcotics, CO, methane, radon, VOC signatures                          | Smart airlocks, bioreactors, brownfield sites                     | 3–5×             | BIPV                             | MIL-STD-810                                  | Security screening; air quality / pathogen early warning          | Hyperspectral integration |
+| **Soil / Geochemical Probes**        | Moisture, EC, redox, macro/micro-nutrients, heavy metals                           | Agroforestry, restoration sites, PlaceNet land tiles              | 3–5×             | Piezo / small BIPV               | ISO 14001                                    | Precision agriculture; remediation progress tracking              | Long-life (10–20 years) |
+| **eDNA / Microbial Samplers**        | Environmental DNA, microbial consortia diversity                                   | Restoration, aquaponics, ocean PlaceNet                           | 3×               | Piezo                            | OGC SWE                                      | Biodiversity credits; inoculant optimization                      | Autonomous sampling intervals |
+| **Seismic / Infrasound**             | Micro-tremors, distant explosions, volcanic activity                               | Foundations, PlaceNet land/ocean nodes                            | 3–4×             | Piezo                            | MIL-STD-810                                  | Early warning for earthquakes/volcanoes                           | Global network correlation |
 
-## Key Design Principles
+## Sensor Deployment Density Guidelines
 
-- **Redundancy & Fault Tolerance**: 3–5× per point; AI cross-validation flags drift/failure  
-- **Self-Sufficiency**: Micro-power from piezo/BIPV; wireless where possible to minimize conduits  
-- **Privacy & Ethics**: Non-intrusive (mmWave radar preferred over cameras); edge processing for sensitive data  
-- **Short-Cycle Advantage**: Ultra-fast iterations (weekly for microalgae/BSFL) generate PB-scale proprietary data  
-- **Standards Leadership**: Baseline compliance + selective enhancements fed back to bodies (ISO, IEEE, NIST)  
+- **Every Tile / Pod Surface**: Temperature, humidity, strain, vibration, power metering (baseline 3–5×)  
+- **Biological / Agricultural Zones**: + pH, ammonia, DO, PAR, multispectral (4–5×)  
+- **Security / Airlock Zones**: + mmWave radar, chemical trace, acoustic (5×)  
+- **Livestock Pods**: + mmWave vitals, behavior tracking, VOC disease (4–5×)  
+- **PlaceNet Land/Ocean**: + soil probes, acoustic, eDNA, geochemical (3–4×)  
+- **Compute / Display Tiles**: + touch/haptic, occupancy, eye-tracking (opt-in only, 3×)
 
-## Comprehensive Sensor Types Table
+## Data Moat & Feedback Integration
 
-| Sensor Category                    | Primary Types & Examples                          | Key Specifications                                      | Applications in Genesis Network                          | Standards Compliance                          | Integration Notes / Viability Enhancements |
-|------------------------------------|---------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------|--------------------------------------------|
-| **Electrochemical & Optical**      | Nutrient (NO₃, PO₄), pH, ammonia, DO, pathogen   | Accuracy ±0.1 pH / ±1% nutrients; response <30s         | **Aquaponics pods** water quality; soil microbial monitoring | IEEE 1451, NASA-STD-3001                      | Real-time closure optimization; +10–20% yields via AI feedback |
-| **Nanobiosensors & Microbial**     | Whole-cell biosensors, enzyme electrodes          | Sensitivity 0.1–10 ppm; selective to stressors          | Plant stress detection; **microbial inoculant** efficacy | OGC SWE, ISO 14001                            | Data moat for ruthless strain selection; +15–30% regenerative boosts |
-| **mmWave & IR-UWB Radar**          | Passive health/vitals, fall detection, security   | Range 10–50m; heart/respiration ±1 bpm; privacy-first   | Resident monitoring in **housing pods**; **smart airlocks** (weapons/explosives scan) | MIL-STD-810, ITU-T Y.4900                     | Non-intrusive security; burnout/fall alerts |
-| **Multispectral & VOC**            | PAR, thermal imaging, volatile organic compounds  | 5–20 spectral bands; ppm-level VOC detection             | Pest/disease early warning in **greenhouse pods**; air quality | NASA-STD-3001, ISO/TC 268                     | Predictive pest control; anomaly flagging |
-| **Strain, Vibration & Thermal**    | Piezo/resistive strain gauges, thermocouples      | ±0.1% strain; –50 to +150°C; vibration 0.01–100 Hz      | Structural health in **tiles**; road/pipe monitoring     | IEEE 2030, ISO/TC 204                         | Predictive maintenance; energy harvesting synergy |
-| **Flow, Pressure & Acoustic**      | Ultrasonic/electromagnetic flow, acoustic emission| 0.1–100 L/min accuracy; pressure ±0.5%                  | Water/pipe leak detection; biogas flow                   | IEEE 2030, ISO 37120                          | Real-time closure; security anomaly alerts |
-| **Environmental & Soiling**        | Humidity, particulate, soiling detectors          | ±2% RH; PM2.5/PM10; soiling % on glazing                | AWG optimization; PV tile cleaning triggers             | ISO 14001, ITU-T Y.4900                        | Maximizes water/energy recovery |
+- **Local Digital Twins**: Each hub / pod cluster runs on-site twin; decides export policy (GDPR/sovereignty compliant).  
+- **Federated Learning**: Billions of nodes → global convergence in days; privacy via differential privacy + secure aggregation.  
+- **Short-Cycle Optimization**: Weekly BSFL/algae + 50–500 parallel test tanks → 10–50× more experiments/year than conventional ag.  
+- **Off-World Extension**: Lunar/Mars sensor data feeds Earth twins → improves radiation, low-g, ISRU models.
 
-## Sensor Integration & Applications
+## Standards & Compliance Summary
 
-- **Hyper-Dense Arrays**: Every critical point (e.g., aquaponics tank, structural tile joint, airlock) has 3–5 sensors for cross-validation  
-- **Edge AI Processing**: Local RISC-V nodes handle noise reduction, anomaly flagging, and predictive modeling → reduces bandwidth to central digital twins  
-- **Data Moat Flywheel**: Short-cycle experiments (weekly microalgae/BSFL) + parallel variants generate 10–50× more data/year than conventional systems → ruthless optimization  
-- **Smart City Compliance**: Real-time KPIs for ISO/TC 268 (sustainable cities), ITU-T Y.4900 (performance indicators), IEEE 2030 (grid interoperability)  
-- **Security Applications**: **mmWave radar** in airlocks scans for weapons/explosives; acoustic sensors detect structural threats  
+- **IEEE 1451** – Plug-and-play transducer interfaces  
+- **ISO/TC 268 & ISO 37120** – Smart city indicators & metrics  
+- **ISO 14001** – Environmental management logging  
+- **NASA-STD-3001** – Closed-loop monitoring principles  
+- **MIL-STD-810** – Ruggedness & environmental testing  
+- **OGC SWE** – Sensor web enablement & interoperability  
+- **ITU-T Y.4900** – Smart sustainable cities performance KPIs
 
-## Standards Alignment Summary
+## Viability Notes
 
-- **IEEE 1451**: Plug-and-play transducer interfaces  
-- **OGC SWE**: Interoperable sensor web enablement  
-- **NASA-STD-3001**: Closed-loop environmental monitoring (air/water/vitals)  
-- **MIL-STD-810**: Environmental ruggedness  
-- **ISO/TC 268 & ITU-T Y.4900**: Smart sustainable cities KPIs  
-- **IEEE 2030**: Smart grid and infrastructure interoperability  
+- **Redundancy + Edge AI** → drift/failure detection → near-zero downtime  
+- **Self-Powered Nodes** → eliminates wiring bottlenecks  
+- **Local Twins** → sovereignty/privacy compliance → enables global deployment  
+- **Data Moat Flywheel** → uncrossable intelligence advantage
 
-Proactive mechanism: Blockchain-verified logs for audits; selective aggregate sharing influences future standards.
-
-## Conclusion
-
-The Genesis sensor ecosystem transforms passive infrastructure into an intelligent, self-optimizing platform with an uncrossable data moat, built-in regulatory resilience, and direct contributions to sustainability goals.
+This handbook serves as the canonical reference for all sensor-related design, deployment, and optimization across the Genesis Network.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE).
-
-© 2025 Earth-Star Industries
+*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*  
+© 2026 Earth-Star Industries conceptual working group (attribution appreciated).
