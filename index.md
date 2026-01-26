@@ -30,8 +30,8 @@ This index serves as the primary navigation hub for all project documentation.
 - **[50-Year Roadmap with NASA/ISS Feedback Loops](roadmaps/50-year-roadmap-nasa-feedback.md)** – Phased integration from ISS tech to Earth hubs to lunar/Mars settlements.  
 - **[Defensive NATO-Aligned Expansion](strategy/defensive-nato-aligned-expansion.md)** – Fortress West framework and localization for willing nations.  
 - **[Extraterrestrial Phase 8 Expansion](roadmaps/phase-8-extraterrestrial-expansion.md)** – Lunar factories, mass drivers, Mars hubs, asteroid mining, O'Neill cylinders, von Neumann probes.  
-- **[Resilience Analysis](strategy/resilience-analysis.md)** – Assessment against earthquakes, supervolcanoes, nuclear war/winter, pandemics, asteroid strikes.  
-- **[Top 10 Risks, Mitigations & Quick Wins](strategy/top-10-risks-mitigations.md)** – Brutally honest risk profile and self-funded growth levers.
+- **[Resilience Analysis](docs/resilience-analysis.md)** – Assessment against earthquakes, supervolcanoes, nuclear war/winter, pandemics, asteroid strikes.  
+- **[Top 10 Risks, Mitigations & Quick Wins](docs/top-10-risks-mitigations.md)** – Brutally honest risk profile and self-funded growth levers.
 
 ## Financial & Economic Documents
 
@@ -47,8 +47,8 @@ This index serves as the primary navigation hub for all project documentation.
 
 The project is executed through independent LLCs for risk isolation and burnout distribution:
 
-1. Regenerative Agriculture & Permaculture LLC  
-2. TerraFab Electronics & Semiconductor Manufacturing LLC  
+1. [Regenerative Agriculture & Permaculture LLC](docs/regenerative-agriculture-llc.md)  
+2. [TerraFab Electronics & Semiconductor Manufacturing LLC](docs/electronics-llc.md)  
 3. Industrial Gases & Biorefinery LLC  
 4. Infrastructure Recycling & Smart Roads LLC  
 5. Blue-Green Carbon Restoration LLC  
