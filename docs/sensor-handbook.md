@@ -6,9 +6,11 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Sensor Handbook  
-**Genesis Network – Complete Sensor Reference**  
+**Genesis Network – Complete Sensor Reference**
+
 **Version**: January 2026  
-**Purpose**: This document catalogs every sensor class used across tiles, pods, hubs, PlaceNet (land/ocean), livestock, airlocks, infrastructure, and off-world extensions. It details deployment, redundancy, power, standards, and how sensors feed the data moat for ruthless optimization.
+**Purpose**: This document catalogs every sensor class used across tiles, pods, hubs, PlaceNet (land/ocean), livestock, airlocks, infrastructure, and off-world extensions. 
+It details deployment, redundancy, power, standards, and how sensors feed the data moat for ruthless optimization.
 
 ## Core Sensor Strategy Principles
 
