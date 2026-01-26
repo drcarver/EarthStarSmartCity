@@ -5,19 +5,20 @@ description: Central hub and navigation page for the complete Genesis Network do
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Master Index  
+# Genesis Network 
 **Earth-Star Industries – Regenerative Closed-Loop Ecosystem**  
 **Last Updated**: January 2026
 
-The **Genesis Network** is a modular, self-replicating, regenerative civilization-scale project that transforms distressed lands, brownfields, and landfills into closed-loop hubs producing food, energy, water, materials, electronics, pharmaceuticals, and community services. The system achieves 95–99% resource closure through pod-centric architecture, waste-derived toughened ceramics, multi-trophic aquaponics, staggered livestock cycles, and lights-out automation.
+The **[Genesis Network](docs/Genesis-Network.md)** is a modular, self-replicating, regenerative civilization-scale project that transforms distressed lands, brownfields, and landfills into closed-loop hubs producing food, energy, water, materials, electronics, pharmaceuticals, and community services. The system achieves 95–99% resource closure through pod-centric architecture, waste-derived toughened ceramics, multi-trophic aquaponics, staggered livestock cycles, and lights-out automation.
 
 This index serves as the primary navigation hub for all project documentation.
 
 ## Core Project Components
 
 - **[Toughened Ceramic Tiles](components/toughened-ceramic-tiles.md)** – Structural, cladding, glazing, permeable, display, and foundation variants with embedded BIPV, AWG, piezoelectric, sensors, and water bladders.  
-- **[Aquaponics Pods](components/aquaponics-pods.md)** – Multi-trophic freshwater and saltwater pilot variants integrating fish, crustaceans, mollusks, insects, and plants.  
-- **[Livestock Pods](components/livestock-pods.md)** – Large animal (cattle/horses/bison) and specialty (goats/sheep/alpaca/emu) pods with staggered delivery for continuous output.  
+- **[Aquaponics Pods](components/pods/aquaponics-pods.md)** – Multi-trophic freshwater and saltwater pilot variants integrating fish, crustaceans, mollusks, insects, and plants.  
+- **[Livestock Pods](components/pods/livestock-pods.md)** – Large animal (cattle/horses/bison) and specialty (goats/sheep/alpaca/emu) pods with staggered delivery for continuous output.  
+- **[Poultry and Pork Pods](components/pods/poultry-pods.md)** – Poultry and Pork pods with staggered delivery for continuous output.  
 - **[Biogas & Energy Systems](components/biogas-energy-systems.md)** – Digester pods, microturbines, and waste-heat recovery for net-positive power.  
 - **[TerraFab Manufacturing](components/terrafab-manufacturing.md)** – Mini-Fab (65–130 nm) to advanced (7–3 nm) sovereign chip production.  
 - **[Smart Infrastructure](components/smart-infrastructure.md)** – Roads, pipes, utilities with piezo/solar generation and bidirectional flow.  
