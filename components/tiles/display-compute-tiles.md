@@ -48,9 +48,9 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 | Variant                        | Size Range       | Production Cost ($/ft²) | Selling Price ($/ft²) | Annual Revenue Potential (mature hub) | Margin |
 |--------------------------------|------------------|--------------------------|------------------------|----------------------------------------|--------|
-| Small Furniture/Counter Tiles  | 10–50 cm         | 8.0–12.0                | 25–40                 | $100–300M                             | 60–70% |
-| Medium Wall Panels             | 0.5–2 m          | 10.0–15.0               | 35–50                 | $200–500M                             | 65–75% |
-| Large Building-Scale Arrays    | 2–10 m+          | 12.0–18.0               | 45–60                 | $400–1,200M                           | 65–75% |
+| [Small Furniture/Counter Tiles](small-furniture-counter-tiles.md)  | 10–50 cm         | 8.0–12.0                | 25–40                 | $100–300M                             | 60–70% |
+| [Medium Wall Panels](medium-wall-panels.md)             | 0.5–2 m          | 10.0–15.0               | 35–50                 | $200–500M                             | 65–75% |
+| [Large Building-Scale Arrays](large-building-scale-arrays.md)     | 2–10 m+          | 12.0–18.0               | 45–60                 | $400–1,200M                           | 65–75% |
 
 **Total Display/Compute Tile Revenue (mature single hub)**: **$700–2,000M/year**  
 **Network-wide (8,000 hubs, 2050+)**: **$5.6–16T/year** potential (tiles only)
