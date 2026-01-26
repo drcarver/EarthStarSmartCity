@@ -51,18 +51,18 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## Standards & Compliance Summary
 
-- **IEEE 1451** – Plug-and-play transducer interfaces  
-- **ISO/TC 268 & ISO 37120** – Smart city indicators & metrics  
-- **ISO 14001** – Environmental management logging  
-- **NASA-STD-3001** – Closed-loop monitoring principles  
-- **MIL-STD-810** – Ruggedness & environmental testing  
-- **OGC SWE** – Sensor web enablement & interoperability  
-- **ITU-T Y.4900** – Smart sustainable cities performance KPIs
+- **[IEEE 1451](standards/ieee-1451.md)** – Plug-and-play transducer interfaces  
+- **[ISO/TC 268](standards/iso-tc-268.md) & [ISO 37120](standards/iso-37120.md)** – Smart city indicators & metrics  
+- **[ISO 14001](standards/iso-14001.md)** – Environmental management logging  
+- **[NASA-STD-3001](standards/nasa-std-3001.md)** – Closed-loop monitoring principles  
+- **[MIL-STD-810](standards/mil-std-810.md)** – Ruggedness & environmental testing  
+- **[OGC SWE](standards/ogc-swe.md)** – Sensor web enablement & interoperability  
+- **[ITU-T Y.4900](standards/itu-t-y4900.md)** – Smart sustainable cities performance KPIs
 
 ## Viability Notes
 
-- **Redundancy + Edge AI** → drift/failure detection → near-zero downtime  
-- **Self-Powered Nodes** → eliminates wiring bottlenecks  
+- **[Redundancy + Edge AI](edge-ai.md)** → drift/failure detection → near-zero downtime  
+- **[Self-Powered Nodes](self-powered-nodes.md)** → eliminates wiring bottlenecks  
 - **Local Twins** → sovereignty/privacy compliance → enables global deployment  
 - **Data Moat Flywheel** → uncrossable intelligence advantage
 
