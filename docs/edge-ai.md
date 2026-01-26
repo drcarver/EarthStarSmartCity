@@ -38,7 +38,7 @@ The **Genesis Network** achieves **near-zero downtime** through a combination of
 | **Power Grid (DC Microgrid)**   | Voltage, current, frequency, battery SoC              | 4–5×             | State estimation + drift forecasting                  | Automatic rerouting + redundant sources                     | <100 ms                  |
 | **Water Recovery (AWG/Digestate)** | Flow, purity, pH, turbidity, contaminants           | 3–5×             | Multi-sensor fusion + quality scoring                 | Parallel treatment paths; auto-backflush                    | <5 minutes               |
 | **Airlocks / Biosecurity**      | Pathogens, explosives, weapons, pressure              | 5×               | Hyperspectral + mmWave voting                         | Dual-chamber lockout; security alert                        | <10 seconds              |
-| **Display / Compute Tiles**     | Thermal, power draw, compute load, display integrity  | 3–4×             | Neighbor tile comparison + self-diagnostic            | Cluster reconfiguration; podlet hot-swap                    | <1 second (visual)       |
+| **[Display/Compute Tiles](standards/display-compute-tiles.md)**     | Thermal, power draw, compute load, display integrity  | 3–4×             | Neighbor tile comparison + self-diagnostic            | Cluster reconfiguration; podlet hot-swap                    | <1 second (visual)       |
 | **PlaceNet Land/Ocean Nodes**   | Soil/air/water parameters, acoustics, eDNA            | 3–5×             | Federated anomaly detection + local twin validation   | Swarm reconfiguration; seed-factory resupply                | <1 day                   |
 
 ## Edge AI Algorithms & Models
