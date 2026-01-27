@@ -58,7 +58,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Self-funding remains core; early phases fund all later growth.
 
-Provide a very aggressive feasibility analysis of the entire project. Let's be real the change of a multidecade project like this being able to get public funding for this long is unlikely, so we need to get to the point where we are self-funding as soon as possible.  Include the innovstion hubd as  way to reduce overall failure rid because failure of one aspect does not doom them all.  In ddition we are sprading out the risk of employee burnout and oversight across companies in the innovation hub.  The land based sensor net will have to deal with legal and national issuses.  Probably leading to local twins that choose what data will be exported
+Provide a very aggressive feasibility analysis of the entire project. Let's be real the change of a multidecade project like this being able to get public funding for this long is unlikely, so we need to get to the point where we are self-funding as soon as possible.  Include the innovation hub as way to reduce overall failure rid because failure of one aspect does not doom them all.  In addition, we are spreading out the risk of employee burnout and oversight across companies in the innovation hub.  Provide a detailed phased plan for the project.  Include yearly financials'
 
 What do you think of the project defined in this chat
 
