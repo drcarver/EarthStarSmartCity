@@ -39,10 +39,10 @@ The **Genesis Network** is a self-replicating, closed-loop regenerative civiliza
 | **Affiliate Partnerships** | Bridge loans, kits, training for smallholders                               | Distributed scaling & political shield |
 
 See detailed catalogs:
-- [Tiles Catalog](components/tiles-catalog.md)
-- [pods-catalog.md](components/pods-catalog.md)
-- [kits-catalog.md](components/kits-catalog.md)
-- [sensor-handbook.md](components/sensor-handbook.md)
+- [Tiles Catalog](../components/tiles-catalog.md)
+- [Pods Catalog](../components/pods-catalog.md)
+- [Kits Catalog](../components/kits-catalog.md)
+- [Sensor Handbook](../components/sensor-handbook.md)
 
 ## 3. Phased Roadmap (2026–2076)
 
@@ -101,15 +101,15 @@ Detailed projections: [detailed-projections.md](financials/detailed-projections.
 18. Recycling & Plasma Processing  
 19. Security & Airlock Systems
 
-See full list & rationale: [innovation-hub-llcs.md](docs/innovation-hub-llcs.md)
+See full list & rationale: [innovation-hub-llcs.md](../docs/innovation-hub-llcs.md)
 
 ## 7. Next Steps & Documentation Index
 
 - Start with **Master Plan** (this document)  
-- Dive into components: [tiles-catalog.md](components/tiles-catalog.md), [pods-catalog.md](components/pods-catalog.md), [kits-catalog.md](components/kits-catalog.md)  
-- Review financials: [detailed-projections.md](financials/detailed-projections.md)  
-- Explore strategy: [expansion-western-hemisphere.md](strategy/expansion-western-hemisphere.md), [global-sovereign-partnerships.md](strategy/global-sovereign-partnerships.md)  
-- Long-term vision: [50-year-roadmap-nasa-integration.md](roadmaps/50-year-roadmap-nasa-integration.md)
+- Dive into components: [Tiles Catalog](../components/tiles-catalog.md), [Pods Catalog](../components/pods-catalog.md), [Kits Catalog](../components/kits-catalog.md)  
+- Review financials: [detailed-projections.md](../financials/detailed-projections.md)  
+- Explore strategy: [expansion-western-hemisphere.md](../strategy/expansion-western-hemisphere.md), [global-sovereign-partnerships.md](../strategy/global-sovereign-partnerships.md)  
+- Long-term vision: [50-year-roadmap-nasa-integration.md](../roadmaps/50-year-roadmap-nasa-integration.md)
 
 The Genesis Network is designed for iterative, self-funded growth with distributed risk. Early execution in the **bootstrap phase** will determine long-term success.
 
