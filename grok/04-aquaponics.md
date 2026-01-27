@@ -1,120 +1,89 @@
 ---
 layout: default
-title: Genesis Network – Enhanced Aquaponics Pods - Executive Summary and Project Plan
+title: Genesis Network Prompt – Enhanced Aquaponics Pods
+description: Comprehensive prompt defining the enhanced aquaponics pod variants, including multi-trophic integration, crustaceans, mollusks, insects, and saltwater pilots for the Genesis Network.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network: Enhanced Aquaponics Pods - Executive Summary and Project Plan
+# Prompt – Genesis Network: Enhanced Aquaponics Pods
 
-## Executive Summary
+## Objective
 
-The **Genesis Network** incorporates **enhanced aquaponics pods** as modular, scalable 40 ft high-cube ISO container units delivering multi-trophic, closed-loop protein and produce production. Pods integrate fish (primary Tilapia/Catfish/Trout; saltwater pilots Barramundi/Red Drum), crustaceans (prawns/crayfish), mollusks (mussels/clams), insects (BSFL/mealworms), and plants (greens/staples/herbs) for 95–99% resource closure, staggered continuous harvests, and premium outputs. Freshwater dominates (80–90%); coastal saltwater pilots add high-value seafood.
+This prompt defines the **enhanced aquaponics pods** as a core, scalable component of the Genesis Network's pod-centric regenerative architecture. Aquaponics pods (based on 40 ft high-cube ISO containers) integrate fish, plants, crustaceans, mollusks, and insects into a multi-trophic, closed-loop system achieving 95–99% resource closure, continuous staggered production, and high-value edible outputs (greens, proteins, premium seafood).
 
-Enhancements: Microbial inoculants (+10–30% yields), hyper-dense sensors/data moat (parallel variants), lights-out robotics, biogas/BIPV power, smart airlocks, mobility. Pods self-replicate via kits; integrate with processing/husbandry for full-loop synergy.
+Enhancements include:
+- Multi-trophic layering (fish → crustaceans/mollusks → insects → plants)
+- Freshwater primary focus with region-specific saltwater/brackish pilots
+- Integration of insects (BSFL, mealworms) for waste conversion and feed
+- Microbial inoculant boosts (+10–30% yields)
+- Data moat optimization (parallel test tanks, hyper-dense sensors)
+- Pod self-replication and mobility for exponential scaling
 
-**Recalculated Financials (Network-Wide, Conservative 2026 USD, Enhanced Pods Integrated)**:
-- **Aquaponics Pod CAPEX**: $0.15–0.4M/unit (ceramic shell, systems); cluster (5–10 pods) $0.8–3M.
-- **Revenue per Pod**: $300–800K/year (freshwater protein/greens); $400K–1.5M (saltwater premium).
-- **Network Contribution**: +15–25% total food/protein revenue; $10–40B/year mature (2035+).
-- **Overall Network IRR**: 50–75% (up from prior; faster cycles/premiums boost).
-- **Self-Funding**: Month 1–3 maintained; aquaponics cash-positive Month 2–4.
+Pods prioritize hardiness, fast cycles, premium market value, and compatibility with the Network's regenerative goals (waste-derived inputs, biogas power, lights-out automation).
 
-**Feasibility Assessment**: Technical 8.5/10 (proven multi-trophic; pilots key); Economic 8.5/10 (high margins); Environmental 9.5/10; Overall: 8.8/10 (80–90% success, boosted by data moat/automation).
+## Aquaponics Pod Base Specifications
 
-## Project Overview
+- **Base Unit**: 40 ft high-cube ISO container (internal ~300 m² equivalent with vertical racking)
+- **Shell**: Recycled steel early → 95–100% toughened ceramic (waste-derived) by 2035
+- **Cladding**: Snap-on ceramic tiles/panels (BIPV glazing 10–30%, embedded sensors/Faraday mesh)
+- **Power**: 5–20 kW (BIPV solar + biogas microturbine); 10–50 kWh sodium-ion batteries
+- **Water**: 100–400 L/day (AWG + rainwater + digestate recovery); 95–99% recirculation
+- **Airlocks**: Dual smart airlocks (mmWave/multispectral scanning for biosecurity)
+- **Automation**: Lights-out robotics (feeding/harvesting/monitoring); edge RISC-V compute
+- **Monitoring**: Hyper-dense sensors (3–5× redundancy: pH, ammonia, DO, temperature, VOC, multispectral)
+- **Mobility**: Autonomous relocation platform; amphibious variants for coastal
 
-Enhanced aquaponics pods form core regenerative protein hubs on clustered sites. Multi-trophic design maximizes nutrient cycling: fish waste → crustaceans/insects → mollusks filtration → plants uptake → clean water recycle.
+## Enhanced Multi-Trophic Layers
 
-**Performance Characteristics**:
-- **Closure**: 95–99% water/nutrients.
-- **Output**: Continuous (weekly insects, monthly crustaceans, 6–12 month fish; 8–12 plant cycles).
-- **Revenue**: Protein sales, insect feed, premium seafood.
-- **Integration**: Links to biogas (CO₂/sludge), processing pods (value-add), livestock (manure feed).
+1. **Primary Fish Layer** (Dominant Protein Source)
+   - Freshwater: Tilapia (Nile/Blue hybrids), Catfish (Channel), Trout (Rainbow, cold zones)
+   - Saltwater/Brackish Pilots (coastal only): Barramundi (primary), Red Drum, Salmon (cold coastal niche)
+   - Density: 500–5,000 fish/cluster; staggered stocking for continuous harvest
 
-## Core Principles
+2. **Crustacean Layer** (Bottom Cleaners + Protein)
+   - Primary: Freshwater Prawns (Macrobrachium rosenbergii) or Red Claw Crayfish
+   - Density: 5–15 juveniles/m²; hides (PVC/ceramic) to prevent cannibalism
+   - Role: Detritus/algae eaters; premium edible output
 
-- Pod-First: Multi-trophic variants prove in 1–10 pods.
-- Freshwater Dominance: 80–90%; saltwater pilots 10–20% coastal.
-- Staggered Cycles: Continuous harvest/resilience.
-- Data Moat: 50–500 parallel test tanks; ruthless optimization.
-- Regenerative: Waste-derived inputs; microbial boosts.
-- Mobility: Autonomous relocation; amphibious coastal.
+3. **Mollusk Layer** (Filtration + Nutrient Stripping)
+   - Primary: Freshwater Mussels/Clams (native species or controlled Corbicula)
+   - Density: High in grow beds/bottom tanks
+   - Role: Filter particulates/nutrients; ecological boost (optional edible)
 
-## Key Products and Outputs
+4. **Insect Layer** (Waste Conversion + Feed)
+   - Primary: Black Soldier Fly Larvae (BSFL – Hermetia illucens)
+   - Secondary: Mealworms (Tenebrio molitor), Crickets (premium human food)
+   - Setup: Dedicated bins/trays; feed from fish sludge, plant trimmings, manure
+   - Cycle: Weekly harvest (BSFL); continuous protein supply for fish/poultry
 
-1. **Toughened Ceramic Tiles**: Enhanced cladding/BIPV.
-2. **Aquaponics Pods**: Multi-trophic variants (standard/premium/saltwater).
-3. **Self-Replicating Kits**: Aquaponics + processing.
-4. **Smart Infrastructure**: Pipes for water/nutrient flow.
-5. **Husbandry Pods**: Complementary proteins.
-6. **Biorefinery Pods**: Waste to feed/inoculants.
-7. **Energy Pods**: Biogas for CO₂/power.
-8. **Water Management**: AWG/recovery.
-9. **Automation/AI**: Edge RISC-V; sensor arrays.
-10. **Processing Pods**: Value-add from outputs.
-11. **Display/Smart Surfaces**: Monitoring dashboards.
+5. **Plant Layer** (Nutrient Uptake + Edible Output)
+   - Greens/herbs/microgreens (8–12 cycles/year)
+   - Staples (rice/potatoes in flooded trays, 3–6 cycles/year)
+   - Vertical racking + floating rafts; CO₂ enrichment from biogas
 
-## Enhanced Aquaponics Pod Specifications
+## Implementation Guidelines
 
-- **Base**: 40 ft high-cube; ceramic shell; BIPV glazing; 5–20 kW power; 100–400 L/day water.
-- **Layers**:
-  - Fish: Tilapia/Catfish/Trout (fresh); Barramundi/Red Drum (salt pilots).
-  - Crustaceans: Prawns/Crayfish (detritus).
-  - Mollusks: Mussels/Clams (filtration).
-  - Insects: BSFL/Mealworms (waste → feed).
-  - Plants: Greens/staples/herbs (vertical/rafts).
-- **Automation**: Lights-out feeding/harvest; redundant sensors.
-- **Variants**: Standard (Tilapia/prawns/BSFL/greens); Premium (Catfish/crayfish/mussels/herbs); Saltwater (Barramundi/kelp); Waste Conversion (BSFL focus).
+- **Freshwater Dominance**: 80–90% of aquaponics pods remain freshwater (Tilapia/Catfish + prawns/crayfish + BSFL + mussels)
+- **Saltwater Pilots**: 10–20% in coastal hubs only (Barramundi/Red Drum + saltwater plants like Salicornia/kelp)
+- **Multi-Trophic Synergy**: Bottom feeders (prawns/crayfish/insects) clean waste → filter feeders (mussels) polish water → plants uptake nitrates → fish thrive
+- **Staggered Cycles**: Continuous harvest (weekly BSFL, monthly prawns, 6–12 month fish)
+- **Data Moat**: Parallel test tanks (50–500 variants) optimize densities, temperatures, feeds
+- **Region-Specific**: Coastal → saltwater pilots; northern → cold-water Trout + mussels; rural → high-density Tilapia + BSFL
+- **Revenue Streams**: Fish/protein sales ($300–$800K/pod/year), insect feed ($100–$300K), premium seafood (saltwater pilots $400K–$1.5M)
 
-## Sensors and Digital Twins
+## Pod Variants & Enhancements
 
-Hyper-dense (3–5×); pH/ammonia/DO/VOC/multispectral; parallel optimization; federated twins.
+- **Standard Aquaponics Pod**: Tilapia + prawns + BSFL + greens
+- **Premium Protein Pod**: Catfish/Trout + crayfish + mussels + herbs
+- **Saltwater Pilot Pod**: Barramundi + kelp/Salicornia + BSFL
+- **Waste Conversion Pod**: BSFL/mealworm focus (feed from processing/livestock pods)
+- **Multi-Trophic Cluster**: 5–10 linked pods for full layering
 
-## Education and Training System
+This enhanced aquaponics pod design maximizes protein diversity, nutrient closure, and revenue while remaining modular, resilient, and fully regenerative.
 
-Modules on aquaponics operations; competency sets; VR/Dojo.
-
-## Housing, Schools, and Hospitals
-
-Integrated monitoring; TerraWell synergy for nutrition.
-
-## Land Acquisition Strategy
-
-Coastal for saltwater pilots; distressed for brownfields.
-
-## Detailed Phased Implementation Plan
-
-**Recalculated Timelines (Compressed; Enhanced Pods Accelerate Protein Ramp)**:
-
-### Phase 1: Ultra-Rapid Bootstrap (2027–2028)
-- Pre-supply aquaponics pods; freshwater standard + pilots.
-- CAPEX: $0.04–0.12B (incl. pods). Revenue: $0.25–0.75B/year (incl. +15% protein). Net: +$0.15–0.45B.
-
-### Phase 2: Expansion & Optimization (2028–2030)
-- Multi-trophic clusters; saltwater scale-up; data moat yields.
-- CAPEX: $0.08–0.3B. Revenue: $3–9B/year (incl. premiums). Net: +$1.5–4.5B.
-
-### Phase 3: Exponential/Global (2030–2033)
-- Billions m² equivalent; full variants; 10,000+ nodes.
-- CAPEX: $1.5–6B. Revenue: $100–300B/year. Net: +$50–150B.
-
-**Milestones**: First harvests Month 1–2; continuous production Month 3–4; premium seafood 2029.
-
-## Deployment Strategy and Scaling
-
-Pre-supply multi-trophic pods; regional variants; affiliates adopt.
-
-## Infrastructure and Community
-
-Pod clusters; smart pipes; biosecurity airlocks.
-
-## Resident/Affiliate Benefits
-
-Free premium nutrition; training; subsidies.
-
-## Summary
-
-Enhanced aquaponics pods boost protein diversity/resilience, accelerate timelines, raise IRR to 50–75% via premiums/multi-trophic efficiency.
+recompute all timelines and codtd
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2026 EarthStar Technologies conceptual working group (attribution appreciated).
