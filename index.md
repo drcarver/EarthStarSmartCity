@@ -1,71 +1,53 @@
 ---
 layout: default
-title: Genesis Network Master Index
-description: Central hub and navigation page for the complete Genesis Network documentation, including all components, strategies, financials, roadmaps, and supporting materials.
+title: Genesis Network – Project Index
+description: Central index and navigation hub for the Genesis Network documentation repository.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network 
-**Earth-Star Industries – Regenerative Closed-Loop Ecosystem**  
-**Last Updated**: January 2026
+# Genesis Network Project Index
 
-The **[Genesis Network](docs/Genesis-Network.md)** is a modular, self-replicating, regenerative civilization-scale project that transforms distressed lands, brownfields, and landfills into closed-loop hubs producing food, energy, water, materials, electronics, pharmaceuticals, and community services. The system achieves 95–99% resource closure through pod-centric architecture, waste-derived toughened ceramics, multi-trophic aquaponics, staggered livestock cycles, and lights-out automation.
+**Welcome to the Genesis Network documentation repository.**
 
-This index serves as the primary navigation hub for all project documentation.
+This is the central hub for all project materials — a comprehensive, modular, self-replicating regenerative civilization initiative developed by **Earth-Star Industries**.
 
-## Core Project Components
+The **Genesis Network** transforms distressed lands into closed-loop hubs producing food, energy, water, materials, electronics, healthcare, and community services with **95–99% resource closure**, scaling from pod clusters to regenerative cities, sovereign partnerships, and eventual space expansion.
 
-- **[Toughened Ceramic Tiles](components/toughened-ceramic-tiles.md)** – Structural, cladding, glazing, permeable, display, and foundation variants with embedded BIPV, AWG, piezoelectric, sensors, and water bladders.  
-- **[Aquaponics Pods](components/pods/aquaponics-pods.md)** – Multi-trophic freshwater and saltwater pilot variants integrating fish, crustaceans, mollusks, insects, and plants.  
-- **[Livestock Pods](components/pods/livestock-pods.md)** – Large animal (cattle/horses/bison) and specialty (goats/sheep/alpaca/emu) pods with staggered delivery for continuous output.  
-- **[Poultry and Pork Pods](components/pods/poultry-pods.md)** – Poultry and Pork pods with staggered delivery for continuous output.  
-- **[Biogas & Energy Systems](components/biogas-energy-systems.md)** – Digester pods, microturbines, and waste-heat recovery for net-positive power.  
-- **[TerraFab Manufacturing](components/terrafab-manufacturing.md)** – Mini-Fab (65–130 nm) to advanced (7–3 nm) sovereign chip production.  
-- **[Smart Infrastructure](components/smart-infrastructure.md)** – Roads, pipes, utilities with piezo/solar generation and bidirectional flow.  
-- **[Restoration & Blue-Green Carbon](components/restoration-blue-green-carbon.md)** – Wetland, mangrove, kelp, oyster, and river/dam restoration kits.  
-- **[TerraWell FreeCare System](components/terrawell-freecare-system.md)** – Independent 501(c)(3) nonprofit providing free healthcare, food, and DME.
+## Quick Navigation
 
-## Strategic & Planning Documents
+- [**Master Plan**](./strategy/master-plan.md) — overall vision, phases, and strategy  
+- [**Detailed Financial Projections**](./financials/detailed-projections.md) — phase-by-phase revenue, CAPEX, cash flow, IRR, NPV  
+- [**50-Year Roadmap**](./roadmaps/50-year-roadmap-nasa-integration.md) — timeline with NASA/ISS feedback loops  
+- [**Feasibility Analysis**](./docs/feasibility-analysis.md) — aggressive risk assessment and probability estimates  
+- [**Top Risks, Mitigations & Quick Wins**](./docs/top-risks-quick-wins.md) — prioritized risks and early high-impact actions  
+- [**Disaster Resilience Analysis**](./strategy/disaster-resilience.md) — rating for earthquakes, nuclear war, pandemics, asteroid strikes, supervolcanoes  
+- [**Tiles, Pods & Kits Catalog**](./components/tiles-pods-kits-catalog.md) — complete list, manufacturing, costs, revenues  
+- [**Sensor Handbook**](./components/sensor-handbook.md) — detailed sensor types, redundancy, standards, data moat  
+- [**Innovation Hub LLCs**](./docs/innovation-hub-llcs.md) — list of 19 independent companies and risk isolation benefits  
+- [**Western Hemisphere Expansion**](./strategy/expansion-western-hemisphere.md) — NATO-aligned rollout and adapted LLCs  
+- [**Global Sovereign Partnerships**](./strategy/global-sovereign-partnerships.md) — post-Fortress-West open expansion model  
+- [**Space Expansion**](./strategy/space-expansion.md) — lunar factories, mass drivers, Mars, O'Neill cylinders, von Neumann probes  
 
-- **[50-Year Roadmap with NASA/ISS Feedback Loops](roadmaps/50-year-roadmap-nasa-feedback.md)** – Phased integration from ISS tech to Earth hubs to lunar/Mars settlements.  
-- **[Defensive NATO-Aligned Expansion](strategy/defensive-nato-aligned-expansion.md)** – Fortress West framework and localization for willing nations.  
-- **[Extraterrestrial Phase 8 Expansion](roadmaps/phase-8-extraterrestrial-expansion.md)** – Lunar factories, mass drivers, Mars hubs, asteroid mining, O'Neill cylinders, von Neumann probes.  
-- **[Resilience Analysis](docs/resilience-analysis.md)** – Assessment against earthquakes, supervolcanoes, nuclear war/winter, pandemics, asteroid strikes.  
-- **[Top 10 Risks, Mitigations & Quick Wins](docs/top-10-risks-mitigations.md)** – Brutally honest risk profile and self-funded growth levers.
+## Core Project Elements Summary
 
-## Financial & Economic Documents
+| Element                  | Description                                                                 | Primary Document |
+|--------------------------|-----------------------------------------------------------------------------|------------------|
+| **Pod-Centric Architecture** | All functions begin in 40 ft high-cube containers → ceramic shells          | [components/pods-catalog.md](components/pods-catalog.md) |
+| **Toughened Ceramic Tiles** | Waste-derived structural, glazing, cladding, airlock panels                | [components/tiles-catalog.md](components/tiles-catalog.md) |
+| **Flat-Pack Kits**       | Self-replicating deployment systems for rapid scaling                      | [components/kits-catalog.md](components/kits-catalog.md) |
+| **Dense Sensor Net**     | 3–5× redundant arrays powering the data moat; local twins for sovereignty  | [components/sensor-handbook.md](components/sensor-handbook.md) |
+| **Smart Airlocks**       | Mandatory in all buildings; mmWave/hyperspectral weapons/explosives scanning | [components/smart-airlock-spec.md](components/smart-airlock-spec.md) |
+| **Innovation Hub**       | 19 LLCs distribute risk, oversight, and burnout                            | [docs/innovation-hub-llcs.md](docs/innovation-hub-llcs.md) |
+| **TerraWell FreeCare**   | Independent 501(c)(3) nonprofit providing free healthcare and food          | [strategy/terra-well-freecare-spec.md](strategy/terra-well-freecare-spec.md) |
+| **Farmer & Affiliate Program** | Bridge loans, kits, training, co-ops for distributed scaling               | [strategy/master-plan.md](strategy/master-plan.md) |
 
-- **[Mature Hub Economics & Network Financials](financials/mature-hub-economics.md)** – Per-hub and network-wide CAPEX, revenue, IRR, NPV, cash-flow projections.  
-- **[Electronics & Appliances Financials](financials/electronics-appliances.md)** – Mini-Fab and advanced fab revenue models.  
-- **[Self-Funding & Cash-Flow Model](financials/self-funding-cash-flow.md)** – Month 1–3 positive cash target and long-term reinvestment flywheel.
+## Project Status (January 2026)
 
-## Sensor & Security Reference
+- **Bootstrap Phase** — underway; targeting self-funding by 2029–2030  
+- **Core Revenue Engines** — greens/microgreens, tiles, biogas, carbon credits  
+- **Risk Profile** — high but mitigated by modular design and distributed LLCs  
+- **Long-Term Vision** — regenerative cities → global partnerships → lunar/Mars → interstellar seeding  
 
-- **[Detailed Sensor Handbook](docs/sensor-handbook.md)** – Full inventory of electrochemical, multispectral, mmWave, strain, thermal, acoustic, and other sensors with deployment, redundancy, and standards.
+All documentation is structured for easy navigation and continuous updates.
 
-## Innovation Hub LLC Structure
-
-The project is executed through independent LLCs for risk isolation and burnout distribution:
-
-1. [Regenerative Agriculture & Permaculture LLC](docs/regenerative-agriculture-llc.md)  
-2. [TerraFab Electronics & Semiconductor Manufacturing LLC](docs/electronics-llc.md)  
-3. Industrial Gases & Biorefinery LLC  
-4. Infrastructure Recycling & Smart Roads LLC  
-5. Blue-Green Carbon Restoration LLC  
-6. Robotics & Lights-Out Automation LLC  
-7. TerraWell FreeCare Foundation (separate 501(c)(3))  
-8. Smallholder Partnership & Kit Distribution LLC  
-9. Community Services, Housing & Education LLC  
-10. Microbial Biosolutions & Inoculant Production LLC  
-11. Smart City Standards & Compliance LLC
-
-## Additional Resources
-
-- **[Complete Inventory of Tiles, Pods & Kits](docs/complete-inventory-tiles-pods-kits.md)** – Manufacturing, inputs, materials, costs, revenues.  
-- **[Very Aggressive Feasibility Analysis](docs/aggressive-feasibility-analysis.md)** – Honest probability assessment (0.5–2% full vision; 8–15% major U.S. success).  
-- **[License & Attribution](LICENSE.md)** – Creative Commons Attribution 4.0 International (CC BY 4.0)
-
----
-
-*This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).*  
-© 2026 Earth-Star Industries conceptual working group (attribution appreciated).
+&copy; 2025 Earth-Star Industries. Licensed under CC-BY-4.0.
