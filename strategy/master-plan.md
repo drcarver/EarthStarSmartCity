@@ -39,7 +39,7 @@ The **Genesis Network** is a self-replicating, closed-loop regenerative civiliza
 | **Affiliate Partnerships** | Bridge loans, kits, training for smallholders                               | Distributed scaling & political shield |
 
 See detailed catalogs:
-- [tiles-catalog.md](components/tiles-catalog.md)
+- [Tiles Catalog](components/tiles-catalog.md)
 - [pods-catalog.md](components/pods-catalog.md)
 - [kits-catalog.md](components/kits-catalog.md)
 - [sensor-handbook.md](components/sensor-handbook.md)
@@ -105,7 +105,7 @@ See full list & rationale: [innovation-hub-llcs.md](docs/innovation-hub-llcs.md)
 
 ## 7. Next Steps & Documentation Index
 
-- Start with [master-plan.md](strategy/master-plan.md) (this document)  
+- Start with **Master Plan** (this document)  
 - Dive into components: [tiles-catalog.md](components/tiles-catalog.md), [pods-catalog.md](components/pods-catalog.md), [kits-catalog.md](components/kits-catalog.md)  
 - Review financials: [detailed-projections.md](financials/detailed-projections.md)  
 - Explore strategy: [expansion-western-hemisphere.md](strategy/expansion-western-hemisphere.md), [global-sovereign-partnerships.md](strategy/global-sovereign-partnerships.md)  
