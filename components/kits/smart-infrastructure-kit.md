@@ -1,100 +1,71 @@
 ---
 layout: default
-title: Smart Infrastructure Kit – Genesis Network
-description: Detailed specification of the Smart Infrastructure Kit, including manufacturing, inputs, features, standards compliance, and integration into the Genesis Network.
+title: Smart Infrastructure Kits – Genesis Network
+description: Detailed specification for the Smart Infrastructure Kits, including roads, pipes, power distribution, and integration with the Genesis Network's pod-centric architecture.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
-# Smart Infrastructure Kit
+# Smart Infrastructure Kits
 
-The **Smart Infrastructure Kit** is a flat-pack, self-replicating modular system that enables rapid deployment of intelligent roads, utility pipes, and supporting infrastructure within **Genesis Network** hubs and affiliate mini-hubs. All components are manufactured exclusively in **Tile Factory Pods** using waste-derived toughened ceramics, ensuring **95–99%** material closure and compatibility with the Network’s circular economy principles.
+The **Smart Infrastructure Kits** provide modular, self-contained packages for deploying **smart roads**, **smart pipes**, **DC microgrids**, and **utility distribution networks** within Genesis Network hubs and affiliate sites. All components are manufactured from **waste-derived toughened ceramics** (70–95% recycled inputs) and integrate seamlessly with the Network's closed-loop systems, enabling bidirectional flow of power, water, data, and slurry while achieving high resilience and low maintenance.
 
-## Kit Components & Variants
+## 1. Kit Components & Specifications
 
-| Component                          | Description                                                                 | Primary Function                              | Variants / Options                     |
-|------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------|----------------------------------------|
-| **Permeable Road Tiles**           | Porous ceramic pavers with embedded piezo elements and sensors              | Traffic energy harvesting, stormwater capture | Standard, Piezo-Enhanced, Sensor-Array |
-| **Smart Utility Pipes**            | Multi-channel ceramic conduits (potable, grey/blackwater, biogas, DC power, data/fiber) | Bidirectional resource flow & monitoring      | 4-channel, 6-channel, Pneumatic-ready  |
-| **Inductive Charging Strips**      | Embedded DC inductive coils in road tiles                                   | Wireless EV/robotaxi charging                 | 5–20 kW segments                       |
-| **Resistive Heating Traces**       | AI-triggered DC heating elements in tiles                                   | De-icing, snow melt                           | Zone-controlled                         |
-| **Embedded Sensor Array**          | Strain, vibration, temperature, flow, acoustic, mmWave radar                | Real-time monitoring & security               | Basic, Advanced (mmWave + VOC)         |
-| **Piezoelectric Harvesting Layer** | PZT elements embedded in load-bearing tiles                                 | Vibration-to-power conversion                 | High-density (20–60 elements/m²)       |
-| **BIPV Cladding Strips**           | Semi-transparent photovoltaic ceramic strips                                | Supplementary solar generation                | 10–30% transmittance                   |
+| Component                  | Description & Key Features                                                                 | Primary Materials                              | Manufacturing Inputs                  | Production Cost ($/kit) | Selling Price ($/kit) | Deployment Scale (per hub) |
+|----------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------|--------------------------|------------------------|----------------------------|
+| **Smart Road Tile Kit**    | Piezoelectric energy harvesting, semi-transparent BIPV surfaces, embedded sensors (strain, vibration, traffic), full-cutoff DC LEDs | Toughened ceramic + PZT layers + PV elements   | C&D slag (75%), residues              | $0.5–1.5M               | $1.2–3.5M             | 10,000–50,000 m²           |
+| **Smart Pipe Infrastructure Kit** | Multi-channel ceramic pipes (potable/grey/blackwater, biogas, DC power, fiber, pneumatic) | Toughened ceramic + conduits                   | ELFM slag (70%), brownfield           | $0.4–1.2M               | $1.0–2.8M             | 5–20 km per hub            |
+| **DC Microgrid Integration Kit** | Panels, trackers, batteries, microgrid controllers, bidirectional inverters | Ceramic shells + sodium-ion batteries          | Waste-derived + recycled electronics  | $0.8–2.0M               | $1.8–4.5M             | 1–5 kits per hub           |
+| **Utility Conduit & Sensor Kit** | Embedded fiber/sensor nets, PoE injectors, mmWave repeaters                              | Ceramic conduits + sensors                     | RHA silica + residues                 | $0.3–0.8M               | $0.8–2.0M             | 1 kit per 1,000 m²         |
 
-## Manufacturing Process
+## 2. Manufacturing Process
 
-All elements produced in **Tile Factory Pods** (cylindrical kilns, extruders, robotic handling):
+- **Primary Source**: All tiles and kit components produced in **Tile Production Pods** → permanent ceramic factories (tent kilns first, retrofitted clusters)  
+- **Inputs**: 70–95% waste-derived (C&D slag, rice husk ash silica, farm residues, ELFM slag, brownfield materials)  
+- **Process**: Forming → drying → firing (1,200–1,400°C) → embedding (PZT, PV, sensors) → assembly into kits  
+- **Automation**: 70–95% lights-out (robotic handling, vision-guided stacking)  
+- **Standards Compliance**: ISO/TC 268 (smart cities), IEEE 2030 (grid), ITU-T Y.4900, Matter/Thread/Zigbee  
 
-1. Raw material intake → **C&D slag** (60–75%), **rice husk ash silica** (RHA), farm residues, **ELFM slag**
-2. Mixing & forming → high-pressure presses/extruders for tiles/pipes
-3. Embedding → piezo layers, PV thin-film, sensor dies, conduits inserted during forming
-4. Drying → tunnel dryers with waste heat recovery
-5. Firing → 1,200–1,400°C tunnel kilns (biogas or electric)
-6. Plasma vitrification (optional) → for high-strength or slag-heavy batches
-7. Quality check → vision-guided robotics + sensor calibration
-8. Packaging → flat-pack containers for kit shipping
+## 3. Smart Airlocks & Security Integration
 
-**Manufacturing Cost per Kit (40 ft equivalent load)**: $100–200K (reduced 20% via waste inputs and lights-out automation)
+All buildings constructed from **tiles** and **kits** include **dual smart airlocks**:
+- mmWave + hyperspectral scanning for weapons/explosives/pathogens  
+- Alerts to on-site security (robotic or human)  
+- Integration with **local digital twins** for anomaly logging and response  
 
-## Input Sources & Materials
+**Smart City Standards Implemented**:
+- ISO/TC 268 (sustainable cities)  
+- IEEE 2030 (smart grid)  
+- ITU-T Y.4900 (performance metrics)  
+- Matter/Thread/Zigbee (interoperability)  
 
-- **Primary Inputs** (70–95% waste-derived):
-  - Construction & Demolition (C&D) waste slag
-  - Rice husk ash (silica source)
-  - Farm residues (pore-formers, carbon additives)
-  - Enhanced Landfill Mining (ELFM) slag
-  - Brownfield remediation tailings
-- **Secondary Inputs**:
-  - Piezoelectric ceramics (PZT) – small quantities, recycled where possible
-  - Thin-film PV layers – silicon from RHA-derived metallurgical grade
-  - Sensor dies – mature-node silicon from **Mini-Fab Pods**
-- **Final Material Composition**: Toughened ceramic composites (60–100+ MPa), embedded piezo/PV/sensors, conduits for utilities
+**Sustainable Building Codes**:
+- Passive-dominant design (solar chimneys, earth tubes, thermal mass)  
+- Net-zero energy/water via BIPV, AWG, biogas  
+- Waste-derived materials (Cradle-to-Cradle)  
+- LEED-equivalent via sensor-verified performance  
 
-## Key Features & Standards Compliance
+## 4. Detailed Sensor Handbook (Infrastructure-Specific)
 
-- **Energy Harvesting**: Piezo (traffic vibration) + BIPV (solar) → 20–100 kWh/day per 100 m² road segment
-- **Water Management**: Permeable tiles + integrated gutters → 70–90% stormwater capture and recharge
-- **Smart Monitoring**: 3–5× redundant sensors (strain, vibration, flow, mmWave radar) for anomaly detection
-- **Security**: mmWave/multispectral scanning in airlocks; acoustic/vibration sensors for intrusion
-- **Standards**:
-  - ISO/TC 268 (Sustainable Cities & Communities KPIs)
-  - ITU-T Y.4900 (Smart Sustainable Cities performance metrics)
-  - IEEE 2030 (Smart Grid interoperability)
-  - IEEE 1451 (Smart transducer interfaces)
-  - MIL-STD-810 (Environmental ruggedness)
-  - Cradle-to-Cradle principles (circular material flows)
+| Sensor Type                  | Measured Parameters                            | Deployment Location                              | Redundancy | Power Source | Standards Alignment |
+|------------------------------|------------------------------------------------|--------------------------------------------------|------------|--------------|---------------------|
+| Strain / Vibration           | Structural integrity, traffic load             | Road tiles, pipe foundations                     | 5×         | Piezo        | IEEE 1451           |
+| Piezoelectric                | Energy harvesting, motion detection            | Roads, floors, pipes                             | 4×         | Self-powered | IEC 62830           |
+| Thermal / Humidity           | Climate, AWG efficiency                        | Pipes, conduits, airlocks                        | 4×         | BIPV         | ISO 14001           |
+| mmWave / Hyperspectral       | Security (weapons/explosives/pathogens)        | Smart airlocks                                   | 4×         | BIPV         | MIL-STD-810         |
+| Flow / Pressure              | Water/biogas flow, leak detection              | Pipes, conduits                                  | 5×         | Piezo        | ASTM C76 analogs    |
+| Acoustic                     | Traffic, structural anomalies                  | Roads, pipes                                     | 3×         | Piezo        | ITU-T Y.4900        |
 
-## Integration & Deployment
+**Notes**: All data feeds local twins; edge AI for real-time alerts; blockchain-verified for audits.
 
-- **Connection**: Snap-in to existing **Smart Utility Pipes** and **Permeable Road Tiles** networks
-- **Airlock Compatibility**: All fixed infrastructure includes **Smart Airlock Kit** for biosecurity and weapons/explosives scanning
-- **Deployment Speed**: Flat-pack delivery → autonomous robotic assembly → operational within 1–2 weeks
-- **Scalability**: One kit supports ~500–1,000 m of road/pipeline; self-replication via **Tile Factory Pods**
+## 5. Cost & Revenue Recomputed Summary
 
-## Cost & Revenue Summary (Mature Hub)
+- **Production Cost per Kit**: $0.3–2.5M (varies by type)  
+- **Selling Price per Kit**: $0.8–6.0M (60–85% margins)  
+- **Network-wide Revenue (mature, 2040s+)**: $15–45B/year from kit sales + infrastructure contracts  
+- **Viability Boost**: Modular kits enable rapid deployment; airlocks/security add premium value; sustainable codes qualify for credits/grants  
 
-- **Kit Cost**: $100–200K (production)  
-- **Installation Cost**: $50–100K (robotic labor minimal)  
-- **Annual Revenue per Kit**:
-  - Energy sales/harvesting: $50–150K  
-  - Water recharge credits: $20–80K  
-  - Security/compliance contracts: $30–100K  
-  - Carbon/biodiversity credits: $50–200K  
-  - **Total**: $150–530K/year per kit  
-- **Payback Period**: 1–3 years (depending on traffic/energy prices)
-
-**Network-wide Uplift (2035+)**: +$5–15B/year from smart infrastructure licensing, contracts, and credits.
-
-## Viability Enhancements
-
-- **Waste Heat Recovery** integration → reduces OPEX 10–20%  
-- **Blockchain-verified credits** → early monetization of sequestration  
-- **Parallel testing** in hubs → 40–50% faster optimization of piezo/PV efficiency  
-- **LLC isolation** → failure of one infrastructure LLC does not impact core production
-
----
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
-
-© 2025 Earth-Star Industries
+**CC-BY-4.0 License Notice**  
+This work is licensed under Creative Commons Attribution 4.0 International.  
+https://creativecommons.org/licenses/by/4.0/  
+**© 2025–2026 EarthStar Technologies** – All rights reserved under applicable law.
