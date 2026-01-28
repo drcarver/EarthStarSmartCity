@@ -1,60 +1,61 @@
 ---
 layout: default
-title: Toughened Ceramic Tiles
-description: Detailed specification for **Toughened Ceramic Tiles** in the Genesis Network – waste-derived, multi-functional modules with embedded BIPV, AWG, piezoelectric elements, sensors, and smart features.
+title: Smart Pipe Kit
+description: Detailed specification for the Genesis Network Smart Pipe Kit, including bidirectional slurry/power/data capabilities, manufacturing, sensors, costs/revenues, and integration standards.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# **Toughened Ceramic Tiles**
+# Smart Pipe Kit  
+**Bidirectional Slurry/Power/Data Pipes**
 
-**Toughened Ceramic Tiles** are the foundational building blocks of the Genesis Network. Manufactured from **70–95% waste-derived materials**, these snap-together modules provide structural integrity, embedded intelligence, energy harvesting, water generation, and cultural/aesthetic value. They evolve from early recycled steel shells to full ceramic composites, enabling **near-total closed-loop construction** across hubs, pods, and regenerative cities.
+**© 2025–2026 EarthStar Technologies – Licensed under CC BY 4.0**  
+https://creativecommons.org/licenses/by/4.0/
 
-## 1. Core Specifications
+## Overview
 
-- **Standard Sizes**: 600 × 600 mm (structural/cladding); 1200 × 1200 mm (large-format); custom variants for roads/pipes  
-- **Thickness**: 20–50 mm (structural) + 5–15 mm (embedded feature layers)  
-- **Compressive Strength**: 60–100+ MPa  
-- **Composition**: 70–95% waste-derived (C&D slag, rice husk ash silica, farm residues, ELFM slag, brownfield materials) + binders (kaolin/feldspar early)  
-- **Durability**: 50–100+ year lifespan; munitions-resistant (8–9/10 rating); EMP-protected via **Faraday mesh**  
-- **Manufacturing**: Tile Production Pods → temporary kilns → permanent factories (retrofit 50–70% cheaper)  
-- **Input Sources**: C&D waste (primary), rice husk ash (silica), sugarcane bagasse/straw/grape pomace (pore-formers), mined landfill slag  
-- **Production Cost**: $1.6–$5.0/ft² (varies by enhancement)  
-- **Selling Price**: $4.8–$14.0/ft² (premium for active features)  
-- **Revenue Model**: Internal use (zero-cost to Network); external sales (60–85% margins); affiliate kits; premium upgrades  
+The **Smart Pipe Kit** provides modular, bidirectional infrastructure for the Genesis Network, enabling efficient transport of slurry (waste/feedstock), DC power, data (fiber/sensor nets), and optional pneumatic/robotic delivery. Pipes are produced in the **Tile & Pipe Production Pod** and integrated into all hubs, roads, and buildings.
 
-## 2. Embedded Features Matrix
+## Key Features
 
-| Feature                          | Description                                                                 | Tile Types Involved                     | Power Source | Standards Alignment |
-|----------------------------------|-----------------------------------------------------------------------------|-----------------------------------------|--------------|---------------------|
-| **BIPV** (Building-Integrated Photovoltaics) | Semi-transparent (10–30% transmittance) or opaque solar layers             | Roof glazing, exterior cladding         | Solar        | IEC 61215 / IEC 61730 |
-| **AWG** (Atmospheric Water Generation) | Condensers for outdoor/indoor humidity capture                             | Roof, exterior, interior walls          | BIPV/piezo   | NASA-STD-3001       |
-| **Piezoelectric Elements**       | Vibration/motion harvesting (20–60 elements/m² in high-traffic)            | Floors, roads, foundations              | Motion       | IEC 62830 (emerging) |
-| **Embedded Sensors**             | Strain, thermal, humidity, PAR, VOC, microbial (3–5× redundancy)            | All types                               | BIPV/piezo   | IEEE 1451           |
-| **Faraday Mesh**                 | EMP/RFI protection                                                         | All structural tiles                    | N/A          | MIL-STD-810         |
-| **Water Bladders**               | Radiation shielding, thermal mass, storage                                 | Roof glazing, cladding                  | N/A          | NASA-STD-3001       |
-| **Cultural/Patterned Variants**  | Region/heritage-specific designs for identity/well-being                   | Interior/exterior                       | N/A          | ISO 14001           |
+- **Bidirectional Flow**: Supports import/export of slurry, power, water, biogas, data  
+- **Modular Design**: Snap-together ceramic segments (1–5 m lengths); hot-swappable  
+- **Embedded Intelligence**: Sensors for flow, pressure, leak detection; RISC-V edge compute  
+- **Power Distribution**: DC-dominant (802.3bt PoE++ compatible)  
+- **Data Integration**: Fiber conduits + mmWave inductive short-range  
+- **Materials**: 70–95% waste-derived toughened ceramics (C&D slag, RHA silica)  
+- **Standards Compliance**: ISO/TC 268 (smart cities), IEEE 2030 (smart grid), ITU-T Y.4900, ASTM C76 analogs  
 
-## 3. Sensor List Table (Detailed Handbook Excerpt)
+## Manufacturing & Inputs
 
-| Sensor Type                  | Measured Parameter(s)                          | Location / Application                           | Redundancy | Power Source | Resolution / Accuracy | Standards Alignment |
-|------------------------------|------------------------------------------------|--------------------------------------------------|------------|--------------|------------------------|---------------------|
-| pH / Ammonia / Nitrite       | Water quality                                  | Aquaponics tanks, digesters                      | 5×         | Piezo        | ±0.1 pH / ±0.01 mg/L   | ISO 11783           |
-| Dissolved Oxygen (DO)        | Oxygen levels                                  | All water systems                                | 4×         | BIPV         | ±0.1 mg/L              | NASA-STD-3001       |
-| ORP / Redox                  | Oxidation-reduction potential                  | Bioreactors, water loops                         | 4×         | BIPV         | ±5 mV                  | IEEE 1451           |
-| Multispectral / PAR          | Photosynthetic active radiation, plant health  | Greenhouses, agroforestry                        | 3×         | BIPV         | ±5 µmol/m²/s           | OGC SWE             |
-| mmWave / Hyperspectral       | Weapons/explosives/pathogens                   | Smart airlocks                                   | 4×         | Piezo        | Detection <1 cm³       | MIL-STD-810         |
-| Strain / Vibration           | Structural integrity, traffic load             | Foundations, roads                               | 5×         | Piezo        | ±0.1 µε                | ASTM C216           |
-| VOC / Microbial              | Air quality, early disease warning             | Livestock, housing, biorefinery                  | 3×         | BIPV         | ±10 ppb                | ISO 14001           |
-| Thermal / Humidity           | Climate control, AWG efficiency                | All tiles                                        | 4×         | BIPV         | ±0.5°C / ±2% RH        | ISO 37120           |
-| Radar / Seismic              | Ground mapping, reclamation tracking           | Brownfields, landfills                           | 3×         | BIPV         | ±1 cm resolution       | ITU-T Y.4900        |
+- **Production**: **Tile & Pipe Production Pod** → permanent factories  
+- **Inputs**: C&D slag (65–75%), rice husk ash silica, farm residues, ELFM slag  
+- **Process**: Extrusion/molding → firing (1,200–1,400°C) → sensor embed → snap joints  
+- **Cost**: $8–$18 per linear meter (production); $20–$45 per meter (selling/affiliate)  
+- **Revenue**: $2–$8B/year network-wide (external sales + internal efficiency gains)  
 
-## 4. Viability Enhancements & Bottleneck Reductions
+## Sensors in Smart Pipes (Detailed Handbook Table)
 
-- **Innovation Hub Decentralization**: 19 LLCs isolate failure; distributed oversight reduces burnout  
-- **Farmer Empowerment**: Bridge loans, revenue-share co-ops, free training → political shield  
-- **Dense Sensor Net**: Ground radar + Starlink on properties → reclamation tracking, rural internet  
-- **Space Extension Readiness**: Sensor nets scalable to Luna/Mars  
-- **Bottleneck Reductions**: Pre-supply from staging hubs; parallel testing; affiliate flywheel; modular upgrades  
+| Sensor Type              | Measured Parameter(s)                  | Location in Pipe                          | Redundancy | Power Source | Standards Alignment | Purpose & Alerts |
+|--------------------------|----------------------------------------|-------------------------------------------|------------|--------------|---------------------|------------------|
+| Flow / Pressure          | Slurry/water flow rate, pressure drops | Internal channel                          | 3–5×       | Piezo        | IEEE 1451           | Leak detection, blockages; security alert |
+| Acoustic / Vibration     | Anomalous sounds, structural strain    | Pipe wall                                 | 4×         | Piezo        | MIL-STD-810         | Intrusion/tampering; explosive detection |
+| mmWave / Hyperspectral   | Pathogen/explosive scanning            | Airlock-integrated junctions              | 4×         | BIPV         | NASA-STD-3001       | Weapons/explosives/pathogens; security alert |
+| Temperature / Humidity   | Thermal anomalies, condensation        | External/internal surfaces                | 3×         | BIPV         | ISO 14001           | Overheating, corrosion risk |
+| Strain / Displacement    | Pipe integrity, ground movement        | Wall embeds                               | 5×         | Piezo        | ASTM C76 analogs    | Earthquake/flood warning |
+| Chemical / VOC           | Slurry composition, gas leaks          | Internal lining                           | 3×         | Piezo        | ISO 11783           | Contamination detection; biogas safety |
+
+## Integration & Standards
+
+- **Smart City Standards**: ISO/TC 268 (indicators), IEEE 2030 (grid), ITU-T Y.4900 (cities), Matter/Thread (automation)  
+- **Security**: Faraday mesh, capability-based access, blockchain-verified logs  
+- **Sustainable Codes**: Passive design, net-zero energy/water, waste-derived materials, LEED-equivalent via sensors  
+- **Smart Airlocks**: Mandatory at all pipe junctions/building entries; mmWave + hyperspectral scan for weapons/explosives/pathogens; instant security alert  
+
+## Viability Enhancements
+
+- **Bottleneck Reduction**: Pre-supply from staging hubs; parallel testing  
+- **Revenue Boost**: Affiliate sales + premium smart features (+15–35% pricing)  
+- **Risk Mitigation**: Modular swaps; distributed sensors; offline-capable twins  
 
 **CC-BY-4.0 License Notice**  
 This work is licensed under Creative Commons Attribution 4.0 International.  
