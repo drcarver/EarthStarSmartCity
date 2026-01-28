@@ -1,116 +1,80 @@
 ---
 layout: default
-title: Genesis Network – Master Plan
-description: Comprehensive vision, phased strategy, core components, and roadmap for the Genesis Network regenerative civilization project.
+title: Genesis Network Master Plan
+description: Comprehensive, self-contained master plan for the regenerative Genesis Network, including U.S. economic incorporation, global smallholder expansion, and full regenerative transformation by 2070s.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Master Plan
+# Genesis Network Master Plan  
+**Earth-Star Industries – Synthesized & Recomputed 2026 Baseline**
 
-**Version Date:** January 2026  
-**Prepared by:** EarthStar Technologies Conceptual Framework  
-**License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+## Overall Vision
 
-## 1. Vision & Mission
+The **Genesis Network** is a self-replicating, regenerative ecosystem developed by [EarthStar Technologies](./docs/earthstar-technologies.md) that transforms degraded lands (brownfields, closed landfills, distressed farmland) into productive hubs providing food, energy, water, materials, electronics, pharmaceuticals, and community services in near-total resource closure (95–99%). The vision is a post-scarcity, carbon-negative society—internalizing all goods/services into regenerative cities while empowering smallholders via co-ops, loans, and kits. U.S. focus achieves national coverage by 2060s; global expansion via sovereign adaptations post-2050.
 
-The **Genesis Network** is a self-replicating, closed-loop regenerative civilization designed to transform degraded lands into productive, resilient hubs that internalize food, energy, water, materials, manufacturing, electronics, healthcare, and community services with **95–99% resource closure**.
+Key pillars: Pod-centric bootstrap, data moat flywheel, farmer empowerment, TerraWell humanitarian layer, infrastructure recycling (RCA concrete + ceramic cladding), mining minimization, and space extension (Luna factories, Mars settlements, asteroid mining, O'Neill cylinders, Von Neumann probes).
 
-**Mission**: Create a post-scarcity, carbon-negative society capable of sustaining and expanding human civilization on Earth and eventually beyond, while empowering smallholders, revitalizing rural areas, and providing humanitarian relief through the independent **TerraWell FreeCare** nonprofit.
+## Phases & Strategy
 
-**Core Principles**:
-- **Pod-centric bootstrap** — every function starts in modular 40 ft high-cube pods for rapid deployment and resilience.
-- **Waste-derived toughened ceramics** — 70–95% from C&D slag, rice husk ash, farm residues, ELFM/brownfield materials.
-- **Data moat flywheel** — dense sensor nets + short-cycle iteration → ruthless optimization.
-- **Innovation Hub** — 19 independent LLCs distribute risk and prevent single-point failure.
-- **Self-funding mandate** — cash-positive Month 2–6; full network self-funding by 2029–2030.
-- **Farmer & smallholder empowerment** — bridge loans, kits, training, co-ops for political alignment.
-- **Humanitarian layer** — free healthcare/food/DME via **TerraWell FreeCare**.
+### Phase 1: Bootstrap & U.S. Pilots (2026–2029)  
+- Deploy 10–50 hubs + 500–2,000 affiliates; cash-positive Month 3–6 via greens/tiles/biogas.  
+- Strategy: Pre-supply pods/kits from staging hubs; farmer loans for mini-hubs; TerraWell pilots.  
+- Tech: [Ceramic Tiles](./components/tiles/ceramic-tiles.md), [Aquaponics Pods](./components/pods/aquaponics-pods.md), [Biogas Digester Kits](./components/kits/biogas-digester-kits.md).  
 
-## 2. Core Components
+### Phase 2: Regional Scale (2030–2035)  
+- 100–500 hubs + 5,000–20,000 affiliates; national food/energy coverage.  
+- Strategy: Affiliate flywheel (revenue-share); infrastructure contracts (roads/landfills); microbial boosts (+10–30% yields).  
+- Tech: [TerraFab LLC](./innovation-hub/terrafab-llc.md) mini-fabs online; [Microbial Inoculant Kits](./components/kits/microbial-inoculant-kits.md).  
 
-| Component                  | Description                                                                 | Primary Role & Integration |
-|----------------------------|-----------------------------------------------------------------------------|-----------------------------|
-| **Pod-Centric Architecture** | All functions start in modified 40 ft high-cube pods → ceramic shells       | Rapid bootstrap, mobility, resilience |
-| **Toughened Ceramic Tiles** | Structural, glazing, cladding, permeable, airlock panels                    | 100% of construction; waste-derived |
-| **Flat-Pack Kits**         | Self-replicating systems for replication & affiliates                       | Enable exponential scaling |
-| **Dense Sensor Net**       | 3–5× redundant multispectral/mmWave/radar; local twins for privacy          | Data moat, predictive optimization |
-| **Innovation Hub**         | 19 independent LLCs                                                         | Risk isolation, distributed oversight |
-| **TerraWell FreeCare**     | Independent 501(c)(3) nonprofit                                             | Free healthcare, food, DME on brownfields |
-| **Affiliate Partnerships** | Bridge loans, kits, training for smallholders                               | Distributed scaling & political shield |
+### Phase 3: National Maturity (2036–2045)  
+- 1,000–3,000 hubs + 50,000–150,000 affiliates; 50–80% U.S. essentials internalized.  
+- Strategy: Regenerative cities emerge (dense vertical ag); selective dam removals with [River Restoration Kits](./components/kits/river-restoration-kits.md).  
+- Tech: Advanced [DAC Pilot Kits](./components/kits/dac-pilot-kits.md); full [Smart City Standards](./docs/standards/smart-city-standards.md) compliance.  
 
-See detailed catalogs:
-- [Tiles Catalog](../components/tiles-catalog.md)
-- [Pods Catalog](../components/pods-catalog.md)
-- [Kits Catalog](../components/kits-catalog.md)
-- [Sensor Handbook](../components/sensor-handbook.md)
+### Phase 4: Hemisphere/Global (2046–2070)  
+- 3,000–8,000 hubs; global smallholder dominance; space precursors.  
+- Strategy: Sovereign adaptations (region-specific LLCs with cultural accommodations, e.g., halal processing).  
+- Tech: [Sensor Nets](./docs/sensors/sensor-nets.md) for Earth/space planning; lunar factories with mass drivers.  
 
-## 3. Phased Roadmap (2026–2076)
+### Phase 5: Solar System & Beyond (2071+)  
+- Mars settlements, asteroid mining, O'Neill cylinders, Von Neumann probes.  
+- Strategy: Replication kits for off-world; feedback loops from space experiments to Earth hubs.  
 
-| Phase                      | Timeline     | Key Milestones                                      | Coverage & Impact |
-|----------------------------|--------------|-----------------------------------------------------|-------------------|
-| **Bootstrap**              | 2026–2030    | 5–50 hubs, 1,000–5,000 affiliates; self-funding achieved | 1–10M served; cash-positive Month 2–6 |
-| **Early Scale**            | 2031–2035    | 100–500 hubs, 10,000–50,000 affiliates; Mini-Fabs online | 50–150M served; national internalization begins |
-| **National Maturity**      | 2036–2045    | 1,000–3,000 hubs; dense regenerative cities         | 200–300M served; 80–95% goods/services |
-| **Hemisphere Expansion**   | 2046–2060    | 4,000–10,000 hubs; sovereign partnerships           | 370–400M U.S. + hemisphere; global kits |
-| **Global Maturity**        | 2061–2076    | 20,000+ hubs; lunar/Mars/space phase pilots         | Global regenerative civilization; interstellar precursors |
+## Financial Projections (Recomputed)
 
-See detailed roadmap with **NASA/ISS** feedback loops: [50-year-roadmap-nasa-integration.md](roadmaps/50-year-roadmap-nasa-integration.md)
+- Total CAPEX (2026–2070): $18–$35 trillion  
+- Total Revenue: $120–$250 trillion  
+- NPV (7%): $8–$18 trillion  
+- IRR: 38–52%  
+- Break-even: 2029  
 
-## 4. Financial Projections Summary (Base Scenario)
+**Annual Revenue Breakdown (Mature 2050s, $B)**  
+- Food/Processing: 40% ($800–$2,400)  
+- Tiles/Infrastructure: 25% ($500–$1,500)  
+- Energy/Biogas: 15% ($300–$900)  
+- Credits/Finance: 10% ($200–$600)  
+- Kits/Electronics: 10% ($200–$600)  
 
-| Decade     | Revenue ($B/year) | CAPEX Cumulative ($B) | Net Cash Flow ($B/year) | Cumulative Net ($B) |
-|------------|-------------------|-----------------------|--------------------------|---------------------|
-| 2026–2030  | 0.1–50            | 20–60                 | -10 to +30               | -20 to +50          |
-| 2031–2040  | 100–2,000         | 80–250                | +50 to +1,200            | 300–6,000           |
-| 2041–2050  | 2,000–10,000      | 200–600               | +1,200 to +6,000         | 10,000–40,000       |
-| 2051–2060  | 8,000–20,000      | 500–1,500             | +5,000 to +12,000        | 50,000–100,000      |
-| 2061–2076  | 15,000–80,000+    | 2,000–10,000+         | +10,000 to +50,000+      | 150,000–500,000+    |
+## Environmental & Social Impact
 
-**Key Metrics**:
-- Break-even: 2029–2030
-- IRR: 35–55%
-- NPV (7% discount, to 2076): $800B–$2.5T
+- Sequestration: Gigaton-scale via biochar, blue-green carbon, DAC  
+- Rewilding: 200–400M acres U.S. + global  
+- Humanitarian: TerraWell reaches 22–42M annually  
+- Social: Farmer co-ops preserve rural life; training modules for competency  
 
-Detailed projections: [detailed-projections.md](financials/detailed-projections.md)
+## List of Sensors (Separate Table)
 
-## 5. Risk & Resilience Summary
+| Sensor Type                  | Measured Parameters                            | Applications                                     | Redundancy | Power Source | Standards |
+|------------------------------|------------------------------------------------|--------------------------------------------------|------------|--------------|-----------|
+| Electrochemical/Optical      | pH, ammonia, nitrite, DO                       | Aquaponics, digesters                            | 3–5×      | Piezo/BIPV   | ISO 11783 |
+| Nanobiosensors               | Soil microbes, plant stress                    | Agroforestry, restoration                        | 3–5×      | BIPV         | IEEE 1451 |
+| mmWave/IR-UWB Radar          | Health monitoring (vitals, falls)              | Housing, airlocks                                | 4×        | Piezo        | MIL-STD-810 |
+| Multispectral/PAR            | Pest/disease, light quality                    | Greenhouses, vertical ag                         | 3×        | BIPV         | OGC SWE   |
+| Strain/Vibration             | Structural integrity, traffic                  | Roads, foundations                               | 5×        | Piezo        | ASTM C216 |
+| VOC/Microbial                | Air quality, disease warning                   | Livestock, biorefinery                           | 3×        | BIPV         | ISO 14001 |
+| Radar/Seismic                | Ground mapping, reclamation                    | Brownfields, landfills                           | 3×        | BIPV         | ITU-T Y.4900 |
 
-**Top Risks & Mitigations** — see [risk-mitigation.md](strategy/risk-mitigation.md)
-
-**Disaster Resilience** — rating 7–9/10 for most scenarios; distributed, closed-loop design excels — see [disaster-resilience.md](strategy/disaster-resilience.md)
-
-## 6. Innovation Hub – 19 LLCs
-
-1. Ceramic Tiles & Infrastructure  
-2. Hybrid Aquaponics & Permaculture  
-3. Biorefinery & Waste-to-Energy  
-4. TerraFab (Semiconductors/Electronics)  
-5. Industrial Gases  
-6. Robotics & Automation  
-7. Microbial Biosolutions  
-8. Restoration & DAC  
-9. Education & Telepresence  
-10. Medical Supplies & Pharma  
-11. Food Processing  
-12. Energy & Water Systems  
-13. Housing & Community  
-14. Transportation Infrastructure  
-15. Affiliate Partnerships  
-16. Carbon Credit Platform  
-17. Agroforestry & Livestock  
-18. Recycling & Plasma Processing  
-19. Security & Airlock Systems
-
-See full list & rationale: [innovation-hub-llcs.md](../docs/innovation-hub-llcs.md)
-
-## 7. Next Steps & Documentation Index
-
-- Start with **Master Plan** (this document)  
-- Dive into components: [Tiles Catalog](../components/tiles-catalog.md), [Pods Catalog](../components/pods-catalog.md), [Kits Catalog](../components/kits-catalog.md)  
-- Review financials: [detailed-projections.md](../financials/detailed-projections.md)  
-- Explore strategy: [expansion-western-hemisphere.md](../strategy/expansion-western-hemisphere.md), [global-sovereign-partnerships.md](../strategy/global-sovereign-partnerships.md)  
-- Long-term vision: [50-year-roadmap-nasa-integration.md](../roadmaps/50-year-roadmap-nasa-integration.md)
-
-The Genesis Network is designed for iterative, self-funded growth with distributed risk. Early execution in the **bootstrap phase** will determine long-term success.
-
-&copy; 2025 Earth-Star Industries. Licensed under CC-BY-4.0.
+**CC-BY-4.0 License Notice**  
+This work is licensed under Creative Commons Attribution 4.0 International.  
+https://creativecommons.org/licenses/by/4.0/  
+**© 2025–2026 EarthStar Technologies** – All rights reserved under applicable law.
