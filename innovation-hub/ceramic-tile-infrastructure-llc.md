@@ -17,7 +17,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## 1. Overview & Mission
 
-**Ceramic Tile & Infrastructure LLC** is the cornerstone entity of the Genesis Network Innovation Hub. It owns and operates all **[tile production facilities](components/tile-production-facilities.md)**, develops and manufactures the full range of **[toughened ceramic tiles](components/tiles/)**, produces **[smart infrastructure kits](components/kits/smart-infrastructure-kit.md)** (pipes, roads, conduits), and drives the Network's circular materials economy.
+**Ceramic Tile & Infrastructure LLC** is the cornerstone entity of the Genesis Network Innovation Hub. It owns and operates all **[tile production facilities](../components/tile-production-facilities.md)**, develops and manufactures the full range of **[toughened ceramic tiles](../components/toughened-ceramic-tiles.md)**, produces **[smart infrastructure kits](../components/kits/smart-infrastructure-kit.md)** (pipes, roads, conduits), and drives the Network's circular materials economy.
 
 **Mission**  
 To produce high-performance, waste-derived toughened ceramic tiles and infrastructure systems that enable 95–99% resource closure, net-positive energy, and resilient, regenerative cities—while generating early, high-margin revenue to self-fund the entire Genesis Network.
