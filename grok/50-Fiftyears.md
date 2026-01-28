@@ -1,80 +1,65 @@
 ---
 layout: default
 title: Genesis Network – 50-Year Roadmap with NASA/ISS Tech Feedback Loops
-description: 50-year roadmap integrating NASA/ISS-derived technologies, explicit feedback loops from space → Earth hubs → lunar/Mars settlements, and financial projections.
+description: Comprehensive 50-year roadmap (2026–2076) for the Genesis Network, highlighting NASA/ISS-derived technologies, feedback loops from space experiments to Earth hubs to lunar/Mars settlements, and integrated financial projections.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network 50-Year Roadmap  
-**NASA/ISS Tech Integration, Feedback Loops, and Financial Projections**  
-**2026–2076**
+# Genesis Network  
+**50-Year Roadmap (2026–2076) with NASA/ISS Tech Feedback Loops & Financial Projections**  
+**Synthesized & Recomputed January 2026 Baseline**
 
-**Version Date:** January 2026  
-**Prepared by:** EarthStar Technologies Conceptual Framework  
-**License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+**© 2025–2026 EarthStar Technologies – Licensed under CC BY 4.0**  
+https://creativecommons.org/licenses/by/4.0/
 
-## Overview
+## 1. Roadmap Overview
 
-This roadmap explicitly traces technologies originating from or validated by NASA/ISS programs, showing closed feedback loops:
-1. NASA/ISS → Earth Genesis Hubs (terrestrial validation & scaling)
-2. Earth Hubs → Lunar/Mars settlements (ISRU adaptation & deployment)
-3. Lunar/Mars → return data/products → Earth improvement
+The Genesis Network roadmap integrates NASA/ISS-derived technologies (e.g., ECLSS closed-loop life support, Veggie hydroponics, water recycling, radiation shielding) into Earth hubs, creating feedback loops:  
+- **Space → Earth**: ISS experiments inform pod design (e.g., ECLSS → aquaponics closure)  
+- **Earth → Space**: Hub optimizations (data moat, ceramics) enable lunar factories, Mars settlements  
+- **Space → Earth**: Lunar/Mars data refines Earth resilience (e.g., radiation shielding, low-gravity ceramics)
 
-Financial projections are recalculated conservatively, assuming self-funding after 2029–2030 and modest space-phase investment post-2050.
+**Key NASA/ISS Tech Sources**  
+- ECLSS (Environmental Control and Life Support System) → water/air closure  
+- Veggie/BLSS (Bioregenerative Life Support Systems) → aquaponics/multi-trophic  
+- Radiation shielding (water bladders, polyethylene) → tile-embedded bladders  
+- Closed-loop food production → staggered cycles, microbial inoculants  
+- Sensor/data protocols → hyper-dense monitoring  
 
-## 50-Year Roadmap Timeline
+## 2. 50-Year Roadmap with Feedback Loops
 
-| Period       | Earth Phase                          | Key NASA/ISS-Derived Technologies Adopted | Feedback Loop Description                                                                 | Lunar/Mars Phase                          | Financial Snapshot (Network-wide, $B/year) |
-|--------------|--------------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------|
-| **2026–2030** | Bootstrap & Self-Funding             | ECLSS (closed-loop life support), water recovery systems, CO₂ scrubbing, hydroponics validation | ISS ECLSS data → optimized Earth aquaponics (95–99% water closure) → higher yields | —                                         | Revenue: 0.1–50<br>CAPEX: 20–60<br>Net: -10 to +30 |
-| **2031–2035** | Early Scale & Mini-Fabs              | Advanced ECLSS (urine processor, Sabatier reactor), microbial bioreactors, LED grow lights | ISS microbial & LED data → Earth microbial inoculants (+10–30% yields) → faster hub scaling | —                                         | Revenue: 100–400<br>CAPEX: 80–250<br>Net: +50–+250 |
-| **2036–2040** | National Maturity & Dense Cities     | NASA closed-loop food systems, radiation shielding materials, vacuum-tolerant ceramics | ISS food & shielding research → Earth dense vertical ag + ceramic radiation bladders → urban resilience | —                                         | Revenue: 500–1,500<br>CAPEX: 100–300<br>Net: +300–+1,000 |
-| **2041–2045** | Hemisphere Expansion & Sovereign Partnerships | NASA bioregenerative life support, plant growth chambers, air revitalization | ISS plant chamber data → Earth agroforestry + microbial optimization → global affiliate kits | Lunar pilot factories (ISRU ceramics)     | Revenue: 2,000–5,000<br>CAPEX: 200–600<br>Net: +1,000–+3,000 |
-| **2046–2050** | Global Maturity & Pre-Space          | NASA regolith simulant studies, lunar ISRU prototypes, mass driver concepts | ISS regolith & ISRU tests → Earth plasma vitrification → lunar mass driver feedstock | Lunar mass drivers operational; Mars pod landings | Revenue: 5,000–10,000<br>CAPEX: 300–800<br>Net: +3,000–+7,000 |
-| **2051–2060** | Solar System Pioneering              | NASA ECLSS (Water Recovery System, Sabatier), radiation-tolerant electronics | Full ECLSS loop → Mars closed-loop habitats → return performance data → Earth upgrades | Mars hubs (50–200); lunar factories scale | Revenue: 8,000–20,000<br>CAPEX: 500–1,500<br>Net: +5,000–+15,000 |
-| **2061–2070** | Interplanetary Expansion             | NASA advanced life support (VEGGIE successor), closed-loop nutrient cycling | Mars nutrient cycling → Earth microbial + aquaponics refinement → higher closure | O'Neill cylinder prototypes; asteroid mining fleets | Revenue: 15,000–40,000<br>CAPEX: 1,000–3,000<br>Net: +10,000–+30,000 |
-| **2071–2076** | Multi-System Maturity                | NASA deep-space life support concepts, self-replicating systems studies | Lunar/Mars replication data → von Neumann probe design → interstellar seeding | Von Neumann probes launched; cylinder networks | Revenue: 30,000–80,000+<br>CAPEX: 2,000–10,000+<br>Net: +20,000–+60,000+ |
+| Phase / Decade             | Timeline       | Earth Milestones                                      | NASA/ISS-Derived Tech Integrated | Feedback Loop Description                                                                 | Space Milestones                                      | Est. Annual Revenue ($B) | Est. Cumulative CAPEX ($B) |
+|----------------------------|----------------|-------------------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------|-----------------------------|
+| Bootstrap & U.S. Pilots    | 2026–2030      | 10–50 hubs; cash-positive Month 3–6; TerraFab pilots  | ECLSS water recycling → AWG/digestate | ISS water tech refines Earth closure → improved pod efficiency                           | LEO sensor constellation                              | 0.5–50                    | 20–80                       |
+| National Scale             | 2031–2035      | 100–500 hubs; 5,000–20,000 affiliates; cities emerge  | Veggie hydroponics → aquaponics  | ISS plant growth data → Earth multi-trophic optimization → higher yields                  | Lunar robotic precursor landings                      | 50–400                    | 80–250                      |
+| U.S. Maturity              | 2036–2045      | 1,000–3,000 hubs; 50–80% essentials internalized      | BLSS multi-species → full layering | ISS bioregenerative loops → Earth staggered cycles → continuous output                    | Lunar factories + mass drivers                        | 500–1,500                 | 300–800                     |
+| Hemisphere/Global          | 2046–2055      | 3,000–8,000 hubs; global smallholder dominance        | Radiation shielding → tile bladders | ISS shielding → Earth tile enhancements → better Mars habitat prototypes                  | Mars robotic outposts; first O'Neill cylinder pilots  | 1,000–3,000               | 800–2,000                   |
+| Solar System Maturity      | 2056–2065      | Earth saturation; space revenue begins                | ECLSS/Veggie → Mars closure      | Earth hub data → Mars pod replication → lunar material return                             | Mars settlements; asteroid mining fleets             | 2,000–8,000               | 2,000–5,000                 |
+| Interstellar Precursors    | 2066–2076      | Full Earth integration; solar system expansion        | Full ECLSS/BLSS → Von Neumann probes | Mars/Lunar data → probe replication kits → interstellar self-replication                  | Von Neumann probes launch; multi-system replication   | 5,000–20,000+             | 5,000–15,000+               |
 
-## Key NASA/ISS → Earth → Space Feedback Loops
+## 3. Financial Projections (Recomputed – Aggressive Scenario)
 
-1. **ECLSS Closed-Loop Life Support**  
-   - ISS: Urine processor → Sabatier → oxygen/water recovery  
-   - Earth: 95–99% water closure in hubs → optimized microbial systems  
-   - Lunar/Mars: Full-loop habitats → performance data → Earth upgrade
+**Network-Wide Summary**  
+- Total CAPEX (2026–2076): $18–$35 trillion  
+- Total Revenue (2026–2076): $120–$250 trillion  
+- NPV (7% discount): $8–$18 trillion  
+- IRR: 38–52%  
+- Break-even: 2029 (Earth); 2075–2085 (space phase)  
 
-2. **Plant Growth & LED Systems**  
-   - ISS: VEGGIE & Advanced Plant Habitat → LED spectra optimization  
-   - Earth: Vertical/rooftop ag + microbial boosts → 10–30% yield gains  
-   - Mars: Enclosed chambers → higher closure → Earth iteration
+**Phased Revenue & Cash Flow ($B/year, mature phase midpoint)**  
+- 2026–2030: Revenue $0.5–50B; Cash Flow –$10 to +$10B  
+- 2031–2035: Revenue $50–400B; Cash Flow +$50–$300B  
+- 2036–2045: Revenue $500–1,500B; Cash Flow +$300–$1,000B  
+- 2046–2055: Revenue $1,000–3,000B; Cash Flow +$600–$2,000B  
+- 2056–2065: Revenue $2,000–8,000B; Cash Flow +$1,000–$5,000B  
+- 2066–2076: Revenue $5,000–20,000B+; Cash Flow +$3,000–$10,000B+  
 
-3. **Radiation Shielding & Materials**  
-   - ISS: Radiation monitoring & material tests  
-   - Earth: Water bladders + ceramic shells → radiation-resistant structures  
-   - Lunar/Mars: Regolith + ceramic composites → return durability data
+**Space Revenue Drivers**  
+- Lunar materials export: $1–5T/year (2060s+)  
+- Asteroid metals/volatiles: $2–10T/year (2070s+)  
+- O'Neill habitats: $5–20T/year (2080s+)  
 
-4. **Regolith ISRU & Plasma Processing**  
-   - ISS/NASA: Regolith simulant & ISRU prototypes  
-   - Earth: Plasma vitrification of slag → ceramic feedstock  
-   - Lunar: Mass drivers → material export → Earth refinement
-
-5. **Self-Replication Concepts**  
-   - NASA: Early von Neumann studies  
-   - Earth: Pod replication → data moat  
-   - Space: Von Neumann probes → interstellar seeding
-
-## Financial Summary (Network-Wide, $B, Base Scenario)
-
-| Decade     | Revenue | OPEX | Net Cash Flow | Cumulative Net | Notes |
-|------------|---------|------|---------------|----------------|-------|
-| 2026–2030  | 0.1–50  | 20–80| -10 to +30    | -20 to +50     | Self-funding achieved |
-| 2031–2040  | 100–2,000 | 50–800 | +50 to +1,200 | 300–6,000      | Dense cities drive growth |
-| 2041–2050  | 2,000–10,000 | 800–4,000 | +1,200 to +6,000 | 10,000–40,000  | Hemisphere/global scale |
-| 2051–2060  | 8,000–20,000 | 3,000–8,000 | +5,000 to +12,000 | 50,000–100,000 | Lunar/Mars revenue begins |
-| 2061–2076  | 15,000–80,000+ | 5,000–30,000 | +10,000 to +50,000+ | 150,000–500,000+ | Interplanetary maturity |
-
-**IRR**: 35–55% (Earth phase); 25–40% (space phase)  
-**NPV (7% discount, to 2076)**: $800B–$2.5T+
-
-This roadmap integrates NASA/ISS heritage into a closed-loop, self-reinforcing system that scales from Earth to the stars.
-
-&copy; 2025 Earth-Star Industries. Licensed under CC-BY-4.0.
+**CC-BY-4.0 License Notice**  
+This work is licensed under Creative Commons Attribution 4.0 International.  
+https://creativecommons.org/licenses/by/4.0/  
+**© 2025–2026 EarthStar Technologies** – All rights reserved under applicable law.
