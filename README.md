@@ -28,13 +28,13 @@ Core principles:
 
 - **[Pod-Centric Architecture](components/pod-centric-architecture.md)** – Modular, mobile 40 ft pods evolve to ceramic shells  
 - **[Toughened Ceramic Tiles](components/toughened-ceramic-tiles.md)** – Waste-derived, embedded BIPV/AWG/piezo/sensors  
-- **[Enhanced Aquaponics Pods](components/enhanced-aquaponics-pods.md)** – Multi-trophic (fish, prawns, mussels, BSFL, plants)  
-- **[Livestock Pods](components/livestock-pods.md)** – Large/specialty animals with staggered delivery  
-- **[TerraFab Electronics & Appliances](components/terrafab-electronics.md)** – Mini-fab to advanced (65–3 nm)  
-- **[TerraWell FreeCare System](docs/terrawell-freecare-system.md)** – Standalone 501(c)(3) humanitarian layer  
+- **[Enhanced Aquaponics Pods](components/pods/enhanced-aquaponics-pods.md)** – Multi-trophic (fish, prawns, mussels, BSFL, plants)  
+- **[Livestock Pods](components/pods/livestock-pods.md)** – Large/specialty animals with staggered delivery  
+- **[TerraFab Electronics & Appliances](innovation-hub/terrafab-electronics-appliances-llc.md)** – Mini-fab to advanced (65–3 nm)  
+- **[TerraWell FreeCare System](innovation-hub/terrawell-free-care-llc.md)** – Standalone 501(c)(3) humanitarian layer  
 - **[Farmer & Smallholder Partnerships](strategy/farmer-partnerships.md)** – Loans, kits, co-ops  
-- **[Restoration & Blue-Green Carbon Kits](components/restoration-kits.md)** – Wetlands, mangroves, kelp, oysters  
-- **[DAC & Enhanced Weathering](components/dac-weathering.md)** – Modular pilots for sequestration  
+- **[Restoration & Blue-Green Carbon Kits](components/kits/restoration-kits.md)** – Wetlands, mangroves, kelp, oysters  
+- **[DAC & Enhanced Weathering](innovation-hub/DAC-enhanced-weathering-llc.md)** – Modular pilots for sequestration  
 
 ## Key Systems
 
@@ -87,20 +87,20 @@ Core principles:
 3. [Livestock & Permaculture Extensions LLC](innovation-hub/livestock-permaculture-extensions-llc.md)   
 4. [Automated Biorefinery & Processing LLC](innovation-hub/automated-biorefinery-processing-llc.md)  
 5. [TerraFab (Electronics & Appliances) LLC](innovation-hub/terrafab-electronics-appliances-llc.md)  
-6. [Industrial Gases (ASU/Rare) LLC]()  
-7. [Robotics & Automation LLC]()  
-8. [Microbial Inoculant & Biosolutions LLC]()  
-9. [Restoration & Blue-Green Carbon LLC]()  
-10. [Direct Air Capture & Mineralization LLC]()  
-11. [TerraWell FreeCare (nonprofit) LLC]()  
-12. [Farmer Partnership & Affiliate Support LLC]()  
-13. [Education & Telepresence LLC]()  
-14. Smart Grid & Infrastructure LLC  
-15. Data Moat & Digital Twin LLC  
-16. Recycling & Plasma Vitrification LLC  
-17. DAC & Enhanced Weathering LLC  
-18. Consumer Goods & Furniture LLC  
-19. Global Smallholder Export LLC  
+6. [Industrial Gases (ASU/Rare) LLC](innovation-hub/industrial-gases-asu-rare-llc.md)  
+7. [Robotics & Automation LLC](innovation-hub/robotics-automation-llc.md)  
+8. [Microbial Inoculant & Biosolutions LLC](innovation-hub/microbial-inoculant-biosolutions-llc.md)  
+9. [Restoration & Blue-Green Carbon LLC](innovation-hub/restoration-blue-green-carbon-llc.md)  
+10. [Direct Air Capture & Mineralization LLC](innovation-hub/direct-air-capture-mineralization-llc.md)  
+11. [TerraWell FreeCare (nonprofit) LLC](innovation-hub/terrawell-free-care-llc.md)  
+12. [Farmer Partnership & Affiliate Support LLC](innovation-hub/farmer-partnership-affiliate-support-llc.md)  
+13. [Education & Telepresence LLC](innovation-hub/education-telepresence-llc.md)  
+14. [Smart Grid & Infrastructure LLC](innovation-hub/smart-grid-infrastructure-llc.md)  
+15. [Data Moat & Digital Twin LLC](innovation-hub/data-moat-digital-twin-llc.md)  
+16. [Recycling & Plasma Vitrification LLC](innovation-hub/recycling-plasma-vitrification-llc.md)  
+17. [DAC & Enhanced Weathering LLC](innovation-hub/DAC-enhanced-weathering-llc.md)  
+18. [Consumer Goods & Furniture LLC](innovation-hub/consumer-goods-furniture-llc.md)   
+19. [Global Smallholder Export LLC](innovation-hub/global-smallholder-export-llc.md)  
 
 **CC-BY-4.0 License Notice**  
 This work is licensed under Creative Commons Attribution 4.0 International.  
