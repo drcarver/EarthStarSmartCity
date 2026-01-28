@@ -82,19 +82,19 @@ Core principles:
 
 ## Innovation Hub LLCs (19 Total)
 
-1. Ceramic Tile & Infrastructure LLC  
-2. Hybrid Aquaponics & Multi-Trophic LLC  
-3. Livestock & Permaculture Extensions LLC  
-4. Automated Biorefinery & Processing LLC  
-5. TerraFab (Electronics & Appliances) LLC  
-6. Industrial Gases (ASU/Rare) LLC  
-7. Robotics & Automation LLC  
-8. Microbial Inoculant & Biosolutions LLC  
-9. Restoration & Blue-Green Carbon LLC  
-10. Direct Air Capture & Mineralization LLC  
-11. TerraWell FreeCare (nonprofit) LLC  
-12. Farmer Partnership & Affiliate Support LLC  
-13. Education & Telepresence LLC  
+1. [Ceramic Tile & Infrastructure LLC](innovation-hub/ceramic-tile-infrastructure-llc.md)  
+2. [Hybrid Aquaponics & Multi-Trophic LLC](innovation-hub/hybrid-aquaponics-multi-trophic-llc.md)  
+3. [Livestock & Permaculture Extensions LLC](innovation-hub/livestock-permaculture-extensions-llc.md)   
+4. [Automated Biorefinery & Processing LLC](innovation-hub/automated-biorefinery-processing-llc.md)  
+5. [TerraFab (Electronics & Appliances) LLC](innovation-hub/terrafab-electronics-appliances-llc.md)  
+6. [Industrial Gases (ASU/Rare) LLC]()  
+7. [Robotics & Automation LLC]()  
+8. [Microbial Inoculant & Biosolutions LLC]()  
+9. [Restoration & Blue-Green Carbon LLC]()  
+10. [Direct Air Capture & Mineralization LLC]()  
+11. [TerraWell FreeCare (nonprofit) LLC]()  
+12. [Farmer Partnership & Affiliate Support LLC]()  
+13. [Education & Telepresence LLC]()  
 14. Smart Grid & Infrastructure LLC  
 15. Data Moat & Digital Twin LLC  
 16. Recycling & Plasma Vitrification LLC  
