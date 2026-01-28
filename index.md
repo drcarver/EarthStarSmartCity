@@ -41,13 +41,6 @@ The **Genesis Network** transforms distressed lands into closed-loop hubs produc
 | **TerraWell FreeCare**   | Independent 501(c)(3) nonprofit providing free healthcare and food          | [strategy/terra-well-freecare-spec.md](strategy/terra-well-freecare-spec.md) |
 | **Farmer & Affiliate Program** | Bridge loans, kits, training, co-ops for distributed scaling               | [strategy/master-plan.md](strategy/master-plan.md) |
 
-## Project Status (January 2026)
-
-- **Bootstrap Phase** — underway; targeting self-funding by 2029–2030  
-- **Core Revenue Engines** — greens/microgreens, tiles, biogas, carbon credits  
-- **Risk Profile** — high but mitigated by modular design and distributed LLCs  
-- **Long-Term Vision** — regenerative cities → global partnerships → lunar/Mars → interstellar seeding  
-
 All documentation is structured for easy navigation and continuous updates.
 
 &copy; 2025 Earth-Star Industries. Licensed under CC-BY-4.0.
