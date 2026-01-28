@@ -21,7 +21,7 @@ The **Utility Conduit & Sensor Kit** is a modular, flat-pack system for embeddin
 
 ## Kit Components & Features
 
-- **Utility Conduits**: Modular ceramic pipes (multi-channel: potable/grey/black water, DC power, fiber data, compressed air/slurry).  
+- [**Utility Conduits Specification**](../components/utility-conduits.md): Modular ceramic pipes (multi-channel: potable/grey/black water, DC power, fiber data, compressed air/slurry).  
 - **Sensor Integration**: Hyper-dense embeds (3–5× redundancy) for real-time monitoring.  
 - **Smart Airlocks**: Included modules for all buildings – dual-entry with mmWave/hyperspectral scanning for weapons/explosives/pathogens; auto-alert to security (edge AI processing).  
 - **Smart City & Security Standards**: ITU-T Y.4900 KPIs, Matter/Thread/Zigbee interoperability; ISO 14001 environmental logging; MIL-STD-810 ruggedness.  
