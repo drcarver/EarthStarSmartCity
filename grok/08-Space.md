@@ -1,83 +1,99 @@
 ---
 layout: default
-title: Genesis Network Space Expansion – Lunar, Mars, and Beyond
-description: Executive summary and project plan for space phase expansion of the Genesis Network, integrating lunar factories, mass drivers, asteroid mining, O'Neill cylinders, and von Neumann probes.
+title: Genesis Network – Space Expansion Phase
+description: Extension of the Genesis Network Master Plan into space: Luna factories with mass drivers, Mars colonization, asteroid mining, O'Neill cylinders, and Von Neumann probes using replication techniques.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Space Expansion: Lunar, Mars, and Beyond
+# Genesis Network – Space Expansion Phase  
+**Luna, Mars, Asteroids, O'Neill Cylinders, Von Neumann Probes**  
+**Recomputed 2026–2150 Baseline (All Prior Enhancements Integrated)**
 
-**Version Date:** January 2026  
-**Prepared by:** EarthStar Technologies Conceptual Framework  
-**License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+**© 2025–2026 EarthStar Technologies – Licensed under CC BY 4.0**  
+https://creativecommons.org/licenses/by/4.0/
 
-## 1. Executive Summary with Realistic 2027–2100+ Schedule
+## 1. Strategic Vision – Space Expansion Rationale
 
-The Genesis Network achieves Earth-based maturity by mid-century (regenerative cities, global partnerships, gigaton sequestration), then transitions to space expansion using proven pod-centric replication, sensor nets for planning, and self-replicating techniques. This phase focuses on resource independence, off-world expansion, and long-term species resilience.
+Earth-based expansion reaches practical limits by the 2070s–2080s: land saturation, political fragmentation, resource constraints, and population stabilization (~10–12 billion global peak). The Genesis replication model (pod-centric, self-replicating, closed-loop ceramics) enables extension to space:
 
-**Core Elements**:
-- **Lunar Factories & Mass Drivers**: Export regolith-derived materials (ceramics, oxygen, metals) via electromagnetic mass drivers.  
-- **Asteroid Mining**: Robotic harvesting of near-Earth/ belt asteroids for volatiles/metals.  
-- **Mars Colonization**: Pod-based habitats, closed-loop hubs.  
-- **O'Neill Cylinders**: Large rotating habitats from lunar/asteroid materials.  
-- **Von Neumann Probes**: Self-replicating interstellar explorers using replication tech.  
-- **Sensor Nets**: Dense orbital/planetary arrays for real-time planning/resource mapping.  
+- **Luna**: Low-gravity factories + mass drivers for orbital construction materials  
+- **Mars**: Terraforming pilots + regenerative cities using Genesis pods  
+- **Asteroid Mining**: Resource extraction (metals, volatiles) via robotic probes  
+- **O'Neill Cylinders**: Orbital habitats (rotating for gravity, closed-loop ecosystems)  
+- **Von Neumann Probes**: Self-replicating robotic explorers using Genesis techniques (ceramic shells, replication kits) for interstellar expansion  
 
-**Key Realities**:
-- Highly speculative; builds on Earth maturity (post-2050).  
-- Costs: Trillions (public-private, potential NASA/SpaceX synergies).  
-- Timelines: Decades post-Earth scale; physics/economics constrain.  
-- Replication: Pod techniques scale to space (ceramic fabs, ISRU).  
+**Sensor Nets Role**  
+Hyper-dense Earth-based sensor arrays (tiles, hubs, restoration sites) + orbital constellations provide real-time data for trajectory planning, resource mapping, radiation monitoring, and simulation of space environments → ruthless optimization of off-world replication.
 
-**Recalculated Schedule (Post-Earth Maturity)**:
-- **2027–2050 (Earth Maturity)**: 4,000–8,000 hubs; full internalization; sensor nets orbital pilots.  
-- **2051–2070 (Lunar/Mars Pioneering)**: Lunar factories/mass drivers (2060s); Mars hubs (2065+); asteroid mining ops (2060s).  
-- **2071–2100 (Solar System Expansion)**: O'Neill cylinders (2080s+); von Neumann probes launch (2090s+).  
-- **2100+ (Interstellar)**: Probe swarms; multi-system colonization.
+**Core Principles**  
+- Self-funded via Earth revenues (tiles, gases, credits, royalties)  
+- Sovereign control: U.S./NATO-aligned initially; open to partners under bilateral agreements  
+- Replication-first: Pods + kits bootstrap off-world factories  
+- No human risk early: Robotic precursors + telepresence  
 
-**Financial Impact**: Space CAPEX +$5–$50T (2070–2100); Revenue from space resources (metals, volatiles, habitats) +$1–$10T/year long-term; IRR 20–40% (high risk); NPV $1–$5T (7% discount, conservative).
+## 2. Recomputed Timelines (Earth + Space Integrated)
 
-## 2. Phased Space Expansion Table
+| Phase                          | Years              | Earth Milestones                                | Space Milestones                                | Est. Cumulative CAPEX ($T) | Est. Annual Revenue Uplift ($B) |
+|--------------------------------|--------------------|-------------------------------------------------|-------------------------------------------------|-----------------------------|---------------------------------|
+| U.S./WH Maturity               | 2046–2050          | 3,000–8,000 hubs; full U.S. incorporation       | Sensor net orbital constellation (LEO)          | 0.4–0.7                     | Baseline                        |
+| Early Space Precursors         | 2051–2065          | Global Earth saturation; 30–60 nations          | Lunar robotic outposts; mass driver prototypes  | +0.8–2.5                    | +500–2,000                      |
+| Lunar Factory & Asteroid Mining| 2066–2085          | Legacy Earth systems phased; 1–3B served        | Lunar ceramic factories + mass drivers; asteroid robotic miners | +3–10                       | +5,000–20,000                   |
+| Mars & O'Neill Pilots          | 2086–2110          | Planetary Earth dominance                       | Mars regenerative cities; first O'Neill cylinder| +10–30                      | +20,000–100,000+                |
+| Von Neumann & Interstellar     | 2111–2150+         | Earth + solar system integration                | Self-replicating probes; multi-system expansion | +20–100+                    | Exponential (off-world)         |
 
-| Phase                      | Timeline     | Key Milestones                                      | Estimated CAPEX ($T) | Revenue Potential ($T/year) |
-|----------------------------|--------------|-----------------------------------------------------|----------------------|-----------------------------|
-| Lunar Pioneering           | 2051–2065    | Lunar factories; mass drivers; ISRU ceramics/oxygen | 1–5                  | 0.1–0.5 (exports)           |
-| Mars & Asteroid            | 2060–2080    | Mars hubs; asteroid mining fleets; sensor nets     | 2–15                 | 0.5–2 (metals/volatiles)    |
-| O'Neill Habitats           | 2075–2100    | Cylinder construction from lunar/asteroid materials | 5–20                 | 1–5 (habitat leasing)       |
-| Von Neumann Probes         | 2090+        | Self-replicating interstellar probes                | 10–50+               | Long-term (new systems)     |
+**Confidence Range (70%)**: Lunar operational 2060s; Mars viable 2080s; O'Neill cylinders 2090s; Von Neumann probes post-2100.
 
-## 3. Recalculated Financials & Costs (Space Phase Impact)
+## 3. Recomputed Costs & Financials (Space Phase)
 
-**Cost Breakdown (Cumulative $T, 2051–2100)**
+**Total Space CAPEX (2050–2150)**: $35–150 trillion (phased; Earth revenues fund 70–90%)  
+- **2051–2065**: $0.8–2.5T (sensor nets, lunar precursors, mass driver R&D)  
+- **2066–2085**: $3–10T (lunar factories, asteroid mining fleets)  
+- **2086–2110**: $10–30T (Mars cities, first O'Neill cylinder)  
+- **2111–2150**: $20–100T+ (Von Neumann probes, multi-system replication)  
 
-| Category                   | 2051–2070 | 2071–2100 | Total |
-|----------------------------|-----------|-----------|-------|
-| Lunar/Mass Drivers         | 1–5       | 0.5–2     | 1.5–7 |
-| Mars Colonization          | 1–8       | 2–10      | 3–18  |
-| Asteroid Mining            | 0.5–3     | 1–5       | 1.5–8 |
-| O'Neill Cylinders          | –         | 5–20      | 5–20  |
-| Von Neumann Probes         | –         | 10–50+    | 10–50+|
-| **Total Space CAPEX**      | 2.5–16    | 18.5–87+  | 21–103+|
+**Revenue Projections (Space-Enabled)**  
+- **2050s**: Baseline Earth $500–2,000B/year  
+- **2060s–2080s**: +$5–20T/year (lunar materials export, asteroid metals, orbital manufacturing)  
+- **2090s–2150**: Exponential (O'Neill habitats, interstellar resources) – $50T–$1Q/year potential  
 
-**Cash-Flow Adjustment ($T/year, Net, Mature Phase)**
+**Updated Network Metrics**  
+- NPV (7% discount, 2050–2200): $15–$45 trillion (original $4T + space synergies)  
+- IRR: 35–45% (dilution from space CAPEX offset by material abundance)  
+- Break-even (space phase): 2075–2085 (lunar mass drivers online)  
 
-- 2051–2070: -0.5–-5 (investment) → +0.1–1 (early returns).  
-- 2071–2100: +1–10 (resource exports/habitats).  
-- IRR: 20–40% (high risk/uncertainty).  
-- NPV: $1–$5T (7% discount, conservative; assumes synergies).
+## 4. Key Space Components & Adaptations
 
-## 4. Feasibility & Risk Analysis
+**Lunar Factories + Mass Drivers**  
+- Ceramic shells from Earth-sourced waste (initial) → lunar regolith sintering  
+- Mass drivers: Electromagnetic launch of ceramic tiles/raw materials to orbit  
+- Outputs: Construction materials for O'Neill cylinders, Mars habitats  
 
-**Strengths**:
-- Builds on Earth replication (pods → ISRU fabs).  
-- Sensor nets enable precise planning.  
-- Defensive/resilient (redundancy beyond Earth).  
+**Asteroid Mining**  
+- Robotic swarms using Genesis replication (pods self-replicate on-site)  
+- Resources: Platinum-group metals, volatiles (water/oxygen), rare earths  
+- Return: Mass-driver delivery to lunar orbit  
 
-**Risks**:
-- Technical: ISRU/mass drivers unproven at scale.  
-- Economic: Trillions; requires public-private (NASA/ESA/SpaceX).  
-- Timeline: Decades delay possible (physics/regulations).  
+**O'Neill Cylinders**  
+- Rotating habitats (10–100 km scale) with Genesis closed-loop ecosystems  
+- Gravity via rotation; agriculture in cylindrical interior  
+- Power: Solar + beamed energy from lunar factories  
 
-**Overall**: 5–6/10 (speculative; dependent on Earth success + breakthroughs); transformative if achieved.
+**Von Neumann Probes**  
+- Self-replicating robotic explorers using ceramic pods + replication kits  
+- Interstellar travel via laser-propelled sails or nuclear propulsion  
+- Replication at destination: Mine resources, build factories, send new probes  
 
-&copy; 2025 Earth-Star Industries. Licensed under CC-BY-4.0.
+**Sensor Nets for Planning**  
+- Earth: Hyper-dense tile/hub sensors → baseline data  
+- Orbital: Constellations for resource mapping, radiation, trajectory simulation  
+- Feedback: AI/digital twins optimize space replication paths  
+
+**Viability Impact**  
+- Technical: 7/10 (lunar feasible 2060s; interstellar speculative)  
+- Economic: 7.5/10 (Earth revenues fund; material abundance unlocks trillions)  
+- Overall: 7.5/10 – Transformative long-term; grounded in Earth bootstrap  
+
+**CC-BY-4.0 License Notice**  
+This work is licensed under Creative Commons Attribution 4.0 International.  
+https://creativecommons.org/licenses/by/4.0/  
+**© 2026 EarthStar Technologies** – All rights reserved under applicable law.
