@@ -1,76 +1,86 @@
 ---
 layout: default
-title: Ceramic Tile & Infrastructure LLC – Detailed Specification
-description: Comprehensive overview of the Ceramic Tile & Infrastructure LLC within the Genesis Network innovation hub, including production, materials, costs, revenues, smart airlocks, sensor integration, and compliance with smart city and sustainable building standards.
+title: Genesis Network – Ceramic Tile & Infrastructure LLC Detailed Specification
+description: Comprehensive specification for the Ceramic Tile & Infrastructure LLC, including core production roles, components, financials, and integration with the broader Genesis Network (January 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Ceramic Tile & Infrastructure LLC  
-**Detailed Specification – January 2026 Baseline**
+# Genesis Network  
+**Ceramic Tile & Infrastructure LLC** Detailed Specification  
+**Core Structural & Smart Infrastructure Production – January 2026 Baseline**
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+The [**Ceramic Tile & Infrastructure LLC**](innovation-hub/ceramic-tile-infrastructure-llc.md) serves as the foundational production entity in the Genesis Network, enabling all physical replication through modular, waste-derived toughened ceramics. It handles core structural elements, [**smart roads**](components/tiles/permeable-road-tiles.md), pipes, conduits, and related kits — bootstrapping in 2026–2027 (Phase 1) with 10–30 initial sites. Manufacturing uses 70–95% waste inputs (C&D slag, RHA silica, residues) via pod-based factories, generating early revenue from tile sales while supporting hub expansion.
 
-## Executive Summary
+## Tiles Table (Produced by LLC)
 
-The **Ceramic Tile & Infrastructure LLC** serves as the foundational production entity in the Genesis Network innovation hub, enabling all physical replication through **toughened ceramic tiles**, pipes, smart roads, and conduits. It focuses on core structural and smart infrastructure, manufactured from 70–95% waste-derived materials in pod-based factories. All buildings in the Network are constructed exclusively using these **tiles**, ceramics, and kits, incorporating **smart airlocks** for security scanning (weapons/explosives detection) and dense sensor nets for real-time monitoring.
+| Tile Type                     | Primary Application                                | Key Features                                       | Materials (70–95% Waste-Derived) | Manufacturing Cost ($/ft²) | Selling Price ($/ft²) | Gross Margin |
+|-------------------------------|----------------------------------------------------|----------------------------------------------------|-----------------------------------|-----------------------------|------------------------|--------------|
+| [**Roof Glazing**](components/tiles/roof-glazing.md) | Greenhouses, roofs                                 | Semi-transparent BIPV (10–30%), AWG condensers     | RHA silica, residues              | 2.8–5.0                     | 8.5–14.5               | 62–78%       |
+| [**Exterior Cladding**](components/tiles/exterior-cladding.md) | Facades, pod shells                                | Supplementary BIPV, AWG, sensors                   | C&D slag, residues                | 2.5–4.5                     | 7.5–13.0               | 58–75%       |
+| [**Structural Load-Bearing**](components/tiles/structural-load-bearing.md) | Foundations, floors, heavy roads                   | Piezoelectric, strain sensors                      | ELFM slag, brownfield             | 1.8–3.2                     | 5.5–8.5                | 60–78%       |
+| [**Insulating Partitions**](components/tiles/insulating-partitions.md) | Walls, internal divisions                          | Indoor AWG, micro-piezo                            | Bagasse pore-formers, residues    | 1.7–3.0                     | 5.5–9.5                | 65–82%       |
+| [**Permeable Roads**](components/tiles/permeable-road-tiles.md) | Paths, drainage                                    | Piezoelectric, stormwater capture                  | C&D slag                          | 2.2–3.8                     | 6.8–11.5               | 60–79%       |
+| [**Compute Server Tile**](components/tiles/compute-server-tile.md) | Embedded computing                                 | RISC-V pocket, cooling channels                    | Ceramic + electronics             | 12–28                       | 35–90                  | 68–82%       |
+| [**Networking Snap Tile**](components/tiles/networking-snap-tile.md) | Inter-tile bridging                                | Inductive power, mmWave waveguide                  | Ceramic + waveguide layers        | 8–18                        | 25–60                  | 65–80%       |
+| [**Smart Furniture Surface**](components/tiles/smart-furniture-surface.md) | Tables, counters                                   | MicroLED touch, haptics                            | Ceramic + display layers          | 15–35                       | 40–100                 | 68–85%       |
 
-**Role in Hub**: Enables rapid, resilient build-out; generates early revenue (cash-positive Month 2–4 per hub).  
-**Timeline**: 2026–2027 (Bootstrap Phase); scales to 10–30 factories by 2030.  
-**Financial Snapshot**: CAPEX $18–$45M per factory; Revenue $80–$300M/month mature site; IRR Contribution +18–32%.
+## Pods Table (Produced by LLC)
 
-## 1. Manufacturing Process
+| Pod Type                              | Primary Function                                           | Key Components                                             | Materials / Inputs                     | Cost ($M) | Revenue / Value ($M) |
+|---------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------|-----------|-----------------------|
+| [**Tile & Pipe Production Pod**](components/pods/tile-pipe-production-pod.md) | Core manufacturing                                         | Kilns, presses, robotic handling                           | Waste slag/RHA/residues                | 4–12      | 8–25                  |
+| [**Smart Infrastructure Pod**](components/pods/smart-infrastructure-pod.md) | Roads/pipes/conduits installation                          | Piezo/solar tiles, PoE injectors                          | Ceramic + electronics                  | 0.6–2.0   | 1.5–6                 |
 
-- **Facilities**: Pod-first (5–10 **production pods**) with temporary kilns; transition to permanent ceramic clusters (Months 6–18). All factories self-powered via **BIPV** and **biogas**.  
-- **Inputs**: 70–95% waste-derived (**C&D slag** priority, **RHA silica**, farm residues, **ELFM slag**, brownfield materials).  
-- **Steps**: 1. Feedstock slurrying/mixing; 2. Extrusion/pressing into molds; 3. Drying (waste heat recovery); 4. Firing (1,200–1,400°C in biogas/electric kilns); 5. Embedding (**sensors**, piezo, **BIPV**, **AWG** channels); 6. Quality control via AI/sensor scans.  
-- **Output Capacity**: 5–10k tiles/week initial → 500k+/month mature.  
-- **Automation**: 50–70% lights-out Day 1 → 85–95% by Year 2 (robotics from **[Robotics & Automation LLC](robotics-automation-llc.md)**).  
-- **New Kit Addition**: Smart Airlock Kit (modular ceramic panels with mmWave/hyperspectral scanners; integrates into all buildings for weapons/explosives alerts to security). Cost: $0.05–$0.15M/kit; Revenue: $0.15–$0.5M (internal + affiliate sales).
+## Kits Table (Produced by LLC)
 
-## 2. Materials & Composition
+| Kit Name                              | Primary Purpose                                            | Key Components                                             | Materials / Inputs                     | Cost ($M) | Revenue / Value ($M) |
+|---------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------|-----------|-----------------------|
+| [**Tile & Pipe Production Kit**](components/kits/tile-pipe-production-kit.md) | Bootstrap factory                                          | Mixers, presses, portable kilns, molds                     | Waste slag/RHA                         | 4–12      | 8–25                  |
+| [**Smart Infrastructure Kit**](components/kits/smart-infrastructure-kit.md) | Roads/pipes/conduits                                       | Piezo/solar tiles, PoE injectors, waveguide extensions     | Ceramic + electronics                  | 0.6–2.0   | 1.5–6                 |
 
-- **Primary Materials**: Waste slag/RHA (silica source), residues (pore-formers), minimal virgin clay/feldspar early (phased out by 2030).  
-- **Composition Breakdown**: 70–95% recycled; toughened for 60–100+ MPa strength.  
-- **Sustainability**: Cradle-to-Cradle certified; all buildings comply with **[sustainable building codes](../docs/standards/sustainable-building-codes.md)** (ISO 14001, passive-dominant design).  
+## Sensors Table (Integrated into LLC Products)
 
-## 3. Costs & Revenues (Recalculated 2026 Baseline)
+| Sensor Category               | Types                                              | Integration (Tiles/Pods/Kits) | Purpose                                        | Cost per Unit ($) |
+|-------------------------------|----------------------------------------------------|--------------------------------|------------------------------------------------|-------------------|
+| [**Environmental Sensors**](docs/sensors/environmental-sensors.md) | Temperature, humidity, PAR, VOC, CO₂               | All tiles & pods               | Climate control, stress detection              | 5–15              |
+| [**Structural Sensors**](docs/sensors/structural-sensors.md) | Strain, vibration, tilt                            | Load-bearing tiles             | Predictive maintenance, seismic monitoring     | 8–20              |
+| [**Power Sensors**](docs/sensors/power-sensors.md) | Voltage, current, piezo output                     | BIPV/piezo tiles               | Energy optimization, fault detection           | 6–18              |
+| [**Water Sensors**](docs/sensors/water-sensors.md) | Flow, pH, EC, turbidity                            | AWG tiles                      | Closure monitoring, quality assurance          | 7–22              |
+| [**Security Sensors**](docs/sensors/security-sensors.md) | mmWave radar, hyperspectral                        | Airlocks & perimeters          | Threat/pathogen detection                      | 10–30             |
+| [**Biological Sensors**](docs/sensors/biological-sensors.md) | Microbial activity, nutrient levels                | Aquaponics pods                | Yield optimization, health monitoring          | 12–35             |
 
-- **Manufacturing Cost per Tile**: $1.6–$5.0/ft² (feedstock 40–60% savings via waste).  
-- **Selling Price**: $4.8–$14.5/ft² (premium for smart features).  
-- **Gross Margin**: 58–85% (automation + waste inputs).  
-- **Annual Revenue per Factory Site (2040s mature)**: $960–$3,600M (external sales + internal Network supply).  
-- **Network-Wide Tile Revenue (2050)**: $43–$140B/year (45–60% of total).  
-- **Viability Boost**: +15–25% from smart airlock integration (security compliance) and sensor embedding (data moat acceleration).
+## Standards Table (Implemented by LLC)
 
-## 4. Smart Airlocks in All Buildings
+| Standard Category             | Specific Standards                                 | Application in LLC Products                       | Compliance Level |
+|-------------------------------|----------------------------------------------------|---------------------------------------------------|------------------|
+| [**Structural Standards**](docs/standards/structural-standards.md) | ASTM C216, EN 14411                                | Tiles strength & durability                       | Full             |
+| [**Environmental Standards**](docs/standards/environmental-standards.md) | ISO 14001, Cradle-to-Cradle                        | Waste-derived materials, closure                  | Full             |
+| [**Smart City Standards**](docs/standards/smart-city-standards.md) | ISO/TC 268, IEEE 2030, ITU-T Y.4900                | Sensors, networking, sustainability               | Full             |
+| [**Sustainable Building Codes**](docs/standards/sustainable-building-codes.md) | LEED, BREEAM equivalents                           | All constructions (tiles/kits only)               | Exceeds          |
 
-- **Design**: Dual-chamber ceramic panels with embedded mmWave radar + hyperspectral scanners.  
-- **Functions**: Detects weapons, explosives, contraband; alerts on-site security/AI; integrates pathogen scanning for biosecurity.  
-- **Compliance**: MIL-STD-810 ruggedness; ties into **[smart city standards](../docs/standards/smart-cities-standards.md)** (ISO/TC 268, IEEE 2030).  
-- **Implementation**: Mandatory in all Network buildings (hubs, housing, factories); retrofittable via kits.  
-- **Cost/Revenue**: Included in tile kits; adds $0.02–$0.05/ft² cost, +5–10% premium pricing for security features.
+## Other LLCs Required (Interdependent with This LLC)
 
-## 5. Detailed Sensor List Table (Handbook Summary)
+| LLC Name                              | Role in Innovation Hub                             | Dependency on This LLC                            | Cost Impact ($M/year) | Revenue Contribution ($M/year) |
+|---------------------------------------|----------------------------------------------------|---------------------------------------------------|-----------------------|--------------------------------|
+| [**Sustainable Mining LLC**](innovation-hub/sustainable-mining-llc.md) | Feedstock supply (slag)                            | Provides inputs for tiles                         | 80–200                | 200–600                        |
+| [**Advanced Recycling LLC**](innovation-hub/advanced-recycling-llc.md) | Waste valorization                                 | Recycles materials for tiles                      | 100–250               | 200–500                        |
+| [**Smart Infrastructure LLC**](innovation-hub/smart-infrastructure-llc.md) | Roads/pipes integration                            | Uses tiles for smart features                     | 150–350               | 300–800                        |
 
-| Sensor Category         | Specific Types                                      | Primary Functions                                  | Integration (Tiles/Pods/Buildings) | Calibration / Lifespan | Viability Enhancement |
-|-------------------------|-----------------------------------------------------|----------------------------------------------------|-------------------------------------|-------------------------|-----------------------|
-| Environmental           | Temperature, humidity, PAR, VOC, CO₂, ammonia       | Climate optimization, stress detection             | All tiles & pods                    | Annual / 10–15 years   | +10–20% yields        |
-| Structural              | Strain, vibration, tilt, crack detection            | Predictive maintenance, earthquake monitoring      | Load-bearing & roads                | 15–25 years            | +15–30% longevity     |
-| Power / Energy          | Voltage, current, piezo output, BIPV soiling        | Harvest efficiency, fault isolation                | BIPV/piezo tiles                    | 10–20 years            | +5–15% energy output  |
-| Water                   | Flow, pH, EC, turbidity, AWG quality                | Closure monitoring, potable safety                 | AWG & plumbing tiles                | 8–12 years             | +10–25% water savings |
-| Security / Biosecurity  | mmWave radar (vitals/motion), hyperspectral (weapons/explosives/pathogens), acoustic | Threat/triage detection, airlock alerts            | All airlocks & perimeters           | 10–15 years            | +20–40% risk reduction|
-| Biological / Soil       | Microbial activity, nutrient levels, root density   | Inoculant/yield optimization                       | Aquaponics & agroforestry           | 5–10 years             | +15–35% productivity  |
+## Smart Airlocks (All Buildings)
 
-**Sensor Handbook Notes**: 3–5× redundancy standard; AI edge processing; federated data moat. Compliance: IEEE 1451 (transducers), OGC SWE (sensor web).
+- **Design**: Dual-chamber [**ceramic tile**](components/tiles/ceramic-tiles.md) construction with mmWave radar + hyperspectral scanning  
+- **Function**: Detects weapons, explosives, pathogens; alerts security AI  
+- **Integration**: Embedded in all structures (housing, pods, factories); supports [**sustainable building codes**](docs/standards/sustainable-building-codes.md)  
+- **Cost**: $10K–$25K per unit; revenue neutral (safety feature)  
 
-## 7. Final Viability Enhancements & Suggestions
+## Viability Enhancements Implemented
 
-- **New Kit**: Sensor Net Deployment Kit (ground radar, mmWave arrays, Starlink nodes for rural internet; $0.05–$0.2M/kit; Revenue $0.15–$0.6M from broadband leasing + compliance data).  
-- **New Pod**: Security & Airlock Pod (integrates hyperspectral scanning; $0.2–$0.6M; mandatory for all buildings).  
-- **Viability Boosts**: Sensor nets → +15–30% data moat speed; smart airlocks → +20–40% security compliance; reuse existing kits (e.g., **Restoration Kit** for blue-green) for all remediations.  
-- **Cost/Revenue Adjustments**: Sensor integration adds $0.1–$0.3/ft² to tile cost, +10–20% premium pricing; network revenue uplift $5–$20B/year (2040s).  
+- **Aggressive sensor net** in all products → +20–40% data moat value  
+- **Full [**smart city standards**](docs/standards/smart-city-standards.md) compliance** → faster permitting/adoption  
+- **Reused kits/tiles** for all construction → 15–30% CAPEX reduction  
+- **New Kit Suggestion**: [**Airlock Security Kit**](components/kits/airlock-security-kit.md) — modular scanners + AI alert system  
+
+**Suggested File Path**: innovation-hub/ceramic-tile-infrastructure-llc.md
 
 **License Notice**  
 This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
