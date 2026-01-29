@@ -33,7 +33,7 @@ The **Automated Biorefinery & Processing LLC** is a core entity in the Genesis N
 
 The LLC operates via specialized **processing pods** (bakery, brewery, butcher, confectionary, dairy) that snap into hub clusters. Inputs from **aquaponics pods** (fish/prawns/greens), **livestock pods** (dairy/meat), and **dwarf orchard kits** (fruits/nuts) are processed autonomously using **robotics & automation LLC** tech. Outputs feed gourmet restaurants, affiliate sales, and TerraWell distributions.
 
-## Tiles Table (with Hyperlinks)
+## Tiles Table
 
 | Tile Type | Description | Link |
 |-----------|-------------|------|
@@ -46,7 +46,7 @@ The LLC operates via specialized **processing pods** (bakery, brewery, butcher, 
 | **Networking Snap Tile** | Inter-pod data/power bridging | [Networking Snap Tile](components/tiles/networking-snap-tile.md) |
 | **Smart Furniture Surface** | Integrated workspaces in processing areas | [Smart Furniture Surface](components/tiles/smart-furniture-surface.md) |
 
-## Pods Table (with Hyperlinks)
+## Pods Table
 
 | Pod Type | Description | Link |
 |----------|-------------|------|
@@ -58,7 +58,7 @@ The LLC operates via specialized **processing pods** (bakery, brewery, butcher, 
 | **Aquaponics Pod** | Input source for fish/proteins/greens | [Aquaponics Pod](components/pods/aquaponics-pod.md) |
 | **Livestock Pod** | Input source for dairy/meat | [Livestock Pod](components/pods/livestock-pod.md) |
 
-## Kits Table (with Hyperlinks)
+## Kits Table
 
 | Kit Name | Description | Link |
 |----------|-------------|------|
@@ -69,7 +69,7 @@ The LLC operates via specialized **processing pods** (bakery, brewery, butcher, 
 | **Smart Infrastructure & Networking Kit** | Pod interconnects | [Smart Infrastructure & Networking Kit](components/kits/smart-infrastructure-networking-kit.md) |
 | **3D-Printed DME Printer Cluster Kit** | Support for TerraWell | [3D-Printed DME Printer Cluster Kit](components/kits/3d-printed-dme-printer-cluster-kit.md) |
 
-## Sensors Table (with Hyperlinks)
+## Sensors Table
 
 | Sensor Type | Description | Link |
 |-------------|-------------|------|
@@ -80,7 +80,7 @@ The LLC operates via specialized **processing pods** (bakery, brewery, butcher, 
 | **Security / Biosecurity Sensors** | mmWave radar, hyperspectral scanning | [Security / Biosecurity Sensors](docs/sensors/security-biosecurity-sensors.md) |
 | **Biological / Soil Sensors** | Microbial activity, nutrient levels | [Biological / Soil Sensors](docs/sensors/biological-soil-sensors.md) |
 
-## Standards Table (with Hyperlinks)
+## Standards Table
 
 | Standard | Description | Link |
 |----------|-------------|------|
@@ -91,7 +91,7 @@ The LLC operates via specialized **processing pods** (bakery, brewery, butcher, 
 | **Cradle-to-Cradle** | Sustainable materials | [Cradle-to-Cradle](docs/standards/cradle-to-cradle.md) |
 | **MIL-STD-810** | Environmental ruggedness | [MIL-STD-810](docs/standards/mil-std-810.md) |
 
-## Other LLCs Table (with Hyperlinks)
+## Other LLCs Table
 
 | LLC Name | Description | Link |
 |----------|-------------|------|
