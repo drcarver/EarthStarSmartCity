@@ -55,7 +55,7 @@ https://creativecommons.org/licenses/by/4.0/
 ## Modular AI Upgrade Pathways
 
 - **Base Tile**: Ships with minimal RISC-V compute (sensor aggregation, basic UI)  
-- **Upgrade Slot**: Standardized blind-mate interface for **[AI Upgrade Modules](ai-upgrade-modules.md)**  
+- **Upgrade Slot**: Standardized blind-mate interface for **[AI Upgrade Modules](../ai-upgrade-modules.md)**  
 - **Tiers**: Basic inference ($150–$400), cluster intelligence ($600–$1,200), server-class ($2,000–$5,000)  
 - **Deployment**: Field-installed; over-the-air federated updates  
 
