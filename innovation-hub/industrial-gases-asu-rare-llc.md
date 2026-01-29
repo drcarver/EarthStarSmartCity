@@ -1,77 +1,67 @@
 ---
 layout: default
-title: Industrial Gases (ASU/Rare) LLC – Genesis Network Specification
-description: Detailed specification for the Industrial Gases (ASU/Rare) LLC within the Genesis Network Innovation Hub, covering Air Separation Units, rare gas retrofits, manufacturing, integration, financials, and supporting systems.
+title: Industrial Gases (ASU/Rare) LLC – Detailed Specification
+description: Executive overview, core components, and financial integration for the Industrial Gases LLC within the Genesis Network Innovation Hub (January 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# **Industrial Gases (ASU/Rare) LLC** – Genesis Network Specification
+# Industrial Gases (ASU/Rare) LLC  
+**Detailed Specification – January 2026 Baseline**
 
-**© 2025–2026 EarthStar Technologies – Licensed under CC BY 4.0**  
-https://creativecommons.org/licenses/by/4.0/
+The Industrial Gases (ASU/Rare) LLC develops and deploys modular air separation units (ASUs) for high-purity gases (oxygen, nitrogen, argon) and retrofits for rare gases (neon, krypton, xenon) using cryogenic distillation and plasma-enhanced recovery. Mission is to internalize gas production for manufacturing, healthcare, and energy while generating export revenue. Core rollout begins in Phase 2 (2030–2032) with pilots at mature hubs; full scale by 2035. Revenue role: $280–950M/hub/year from sales/internal use, contributing 10–15% to network totals with 65–80% margins.
 
-## 1. Overview & Mission
+## Tiles Used or Produced
 
-The **Industrial Gases (ASU/Rare) LLC** operates as one of the 19 specialized entities in the Genesis Network Innovation Hub. Its mission is to produce high-purity industrial gases (LOX, LIN, LAR) via **Air Separation Units** (ASUs) and retrofit systems for rare gases (neon, krypton, xenon, helium-3 where feasible), supporting internal Network needs (welding, cryogenics, medical, manufacturing) and generating external revenue through sales and licensing.
+| Name (Hyperlinked)                          | Description & Key Features                                                                 | Inputs/Materials                        | Manufacturing Process                   | Cost ($/ft²) | Revenue/Value ($/ft²) |
+|---------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|--------------|------------------------|
+| [Structural Load-Bearing](components/tiles/structural-load-bearing.md) | High-strength foundations/walls for ASU plants; piezo + sensors for vibration monitoring | ELFM slag (70%), brownfield            | Extrusion, firing, embedding            | 1.8–3.2      | 5.5–8.5                |
+| [Insulating / Partitions](components/tiles/insulating-partitions.md) | Thermal mass for cryogenic insulation; indoor AWG + micro-piezo                    | Bagasse pore-formers, residues          | Aerated forming, firing                 | 1.7–3.0      | 5.5–9.5                |
 
-- **Primary Outputs**: Liquid oxygen (LOX), nitrogen (LIN), argon (LAR); rare gases for semiconductors/lighting  
-- **Integration**: Gases power plasma torches, biorefineries, TerraFab; surplus sold to affiliates/markets  
-- **Sustainability**: Waste-derived ceramic components; energy from biogas/BIPV; CO₂ capture tie-in  
+## Pods Used or Produced
 
-## 2. Technology & Manufacturing
+| Name (Hyperlinked)                          | Description & Key Features                                                                 | Inputs/Materials                        | Manufacturing Process                   | Cost ($M) | Revenue/Value ($M) |
+|---------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------|--------------------|
+| [Biogas Digester & Upgrading](components/pods/biogas-digester-upgrading.md) | Surplus biogas/syngas for ASU power/heat recovery                                 | Ceramic lining, pre-inoculum            | Assembly, firing                        | 0.8–2.5   | 1.5–5.0            |
+| [Mini-Fab (65–130 nm)](components/pods/mini-fab.md) | Produces sensors/controllers for ASU automation                                    | Ceramic shells                          | Cleanroom assembly                      | 120–280   | 180–480            |
 
-### Core Technologies
-- **Cryogenic ASUs**: Distillation columns for air separation (N₂ 78%, O₂ 21%, Ar 0.93%)  
-- **Rare Gas Retrofits**: Membrane/PSA + cryogenic enrichment for neon/krypton/xenon  
-- **Materials**: 70–95% waste-derived toughened ceramics (slag/RHA) for vessels/insulation  
-- **Automation**: 80–95% lights-out; edge RISC-V control; predictive maintenance via sensor net  
+## Kits Used or Produced
 
-### Manufacturing Process
-- **Inputs**: Ambient air (compressor intake); waste-derived ceramics from tile factories  
-- **Process**: Compression → cooling → distillation → liquefaction → storage  
-- **Facilities**: Modular ASU pods (40 ft high-cube) → clustered permanent plants  
-- **Cost Breakdown**: Pod CAPEX $1.2–$3.5M; mature plant $50–150M  
-- **Revenue Model**: Internal use (zero-cost); external sales $0.5–$2/kg (LOX/LIN); rare gases $500–$5,000/m³  
+| Name (Hyperlinked)                          | Description & Key Features                                                                 | Inputs/Materials                        | Manufacturing Process                   | Cost ($M) | Revenue/Value ($M) |
+|---------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------|--------------------|
+| [Industrial Gases Production Kit](components/kits/industrial-gases-production-kit.md) | Modular ASU cryogenics + rare gas retrofits; plasma integration                   | Ceramic vessels, sensors                | Kit assembly, embedding                 | 0.5–1.5   | 1.2–4.0            |
+| [Advanced Recycling & Waste Valorization Kit](components/kits/advanced-recycling-waste-valorization-kit.md) | Plasma torches for feedstock preparation/gas recovery                              | Ceramic components                      | Assembly                                | 0.4–1.2   | 0.8–3.0            |
 
-## 3. Integration & Standards Compliance
+## Sensors Used or Produced
 
-- **Network Tie-Ins**: Gases feed plasma vitrification, biorefinery cooling, medical (TerraWell), semiconductor (TerraFab)  
-- **Smart City Standards**: ISO/TC 268, IEEE 2030, ITU-T Y.4900, Matter/Thread  
-- **Sustainable Codes**: ISO 14001, Cradle-to-Cradle; zero-emission operation via biogas  
-- **Security**: Faraday mesh vessels; capability-based microkernel controls  
+| Name (Hyperlinked)                          | Description & Key Features                                                                 | Inputs/Materials                        | Manufacturing Process                   | Cost ($/unit) | Revenue/Value ($/unit) |
+|---------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|---------------|-------------------------|
+| [Environmental Sensors](docs/sensors/environmental-sensors.md) | CO₂, O₂, pressure, leak detection for ASU safety                                  | Ceramic embeds                          | Mini-Fab production                     | 15–80         | 35–180                  |
+| [Security / Biosecurity Sensors](docs/sensors/security-biosecurity-sensors.md) | mmWave for facility monitoring, hyperspectral for gas purity                      | Ceramic integrates                      | Mini-Fab                                | 50–150        | 120–350                 |
 
-## 4. Sensor Handbook – Industrial Gases Specific
+## Standards & Compliance
 
-| Sensor Type                  | Measured Parameter(s)                          | Location / Application                           | Redundancy | Power Source | Standards Alignment |
-|------------------------------|------------------------------------------------|--------------------------------------------------|------------|--------------|---------------------|
-| Pressure/Temperature         | Cryogenic column stability                     | Distillation towers, storage tanks               | 5×         | BIPV         | IEEE 1451           |
-| Gas Purity / Composition     | O₂/N₂/Ar/impurities (ppm)                      | Output streams, quality control                  | 4×         | Piezo        | ISO 14001           |
-| Leak Detection (VOC)         | Gas leaks, fugitive emissions                  | Compressor rooms, piping                         | 3×         | BIPV         | MIL-STD-810         |
-| Flow / Level                 | Cryogenic liquid levels, flow rates            | Tanks, transfer lines                            | 5×         | Piezo        | ISO 11783           |
-| Radiation/Monitoring         | Rare gas enrichment (helium-3)                 | Retrofit modules                                 | 3×         | BIPV         | NASA-STD-3001       |
+| Name (Hyperlinked)                          | Description & Key Features                                                                 | Inputs/Materials                        | Manufacturing Process                   | Cost ($M) | Revenue/Value ($M) |
+|---------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------|-----------------------------------------|-----------|--------------------|
+| [ISO 14001 (Environmental Management)](docs/standards/iso-14001.md) | Waste minimization, emissions control for ASU ops                                 | N/A                                     | Compliance integration                  | 0.1–0.3   | Indirect (credits)      |
+| [ISO/TC 268 (Sustainable Cities)](docs/standards/iso-tc-268.md) | Gas infrastructure integration into smart hubs                                    | N/A                                     | System design                           | 0.05–0.15 | Indirect (contracts)    |
 
-All sensors feed local twins → predictive maintenance; blockchain-verified logs for compliance.
+## Related / Supporting LLCs in the Innovation Hub
 
-## 5. Financial Projections (Recomputed – Mature Phase)
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)  
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)  
+- [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md)  
+- [Mini-Fab LLC](innovation-hub/mini-fab-llc.md)  
+- [Direct Air Capture & Mineralization LLC](innovation-hub/direct-air-capture-mineralization-llc.md)
 
-- **CAPEX**: Pod $1.2–$3.5M; full plant $50–150M/hub  
-- **OPEX**: $10–30M/year (energy/labor minimized by automation)  
-- **Revenue**: $200–$800M/year/hub (internal + external sales)  
-- **Margins**: 65–85% (high-value rare gases)  
-- **Network-wide (2035+)**: $5–$20B/year incremental  
-- **ROI**: 18–36 months per plant  
+## Viability & Integration Notes
 
-## 6. Viability Enhancements
+The Industrial Gases LLC integrates seamlessly with the Genesis biorefinery and waste loops, using syngas for energy and plasma for rare gas recovery. Viability is high (8.5/10) due to internal demand (pharma, electronics, energy) and external sales potential. Revenue scales with hub maturity, providing 10–15% of network totals at 65–80% margins. Strict compliance with ISO standards ensures safe, sustainable operations.
 
-- **Modular Pods**: Rapid deployment; failure isolation  
-- **Waste-Derived Ceramics**: Reduces virgin material costs 40–60%  
-- **Sensor Net**: Predictive leak detection → 20–30% OPEX savings  
-- **Rare Gas Focus**: Premium pricing ($500–$5,000/m³)  
-- **Licensing**: Sovereign nation JVs for global revenue  
+**License Notice**  
+This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+You may share and adapt provided appropriate credit is given.
 
-**Suggested File Path**: components/industrial-gases/asu-rare-llc.md
-
-**CC-BY-4.0 License Notice**  
-This work is licensed under Creative Commons Attribution 4.0 International.  
 https://creativecommons.org/licenses/by/4.0/  
-**© 2025–2026 EarthStar Technologies** – All rights reserved under applicable law.
+
+**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
+(Attribution appreciated when sharing or building upon this framework)
