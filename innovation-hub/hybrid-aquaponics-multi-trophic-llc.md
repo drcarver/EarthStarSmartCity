@@ -40,7 +40,7 @@ The **Hybrid Aquaponics & Multi-Trophic LLC** is the cornerstone of the Genesis 
 - **IRR for LLC**: 35–55%  
 - **Break-Even per Hub**: Month 4–8  
 
-## Tiles Required (Hyperlinked)
+## Tiles Required
 
 | Tile Type | Use in LLC | File Path Suggestion |
 |-----------|------------|----------------------|
@@ -50,7 +50,7 @@ The **Hybrid Aquaponics & Multi-Trophic LLC** is the cornerstone of the Genesis 
 | **[Insulating / Partitions](components/tiles/insulating-partitions.md)** | Thermal control in grow zones | components/tiles/insulating-partitions.md |
 | **[Permeable Roads / Paths](components/tiles/permeable-roads-paths.md)** | Internal circulation around pods | components/tiles/permeable-roads-paths.md |
 
-## Pods Required (Hyperlinked)
+## Pods Required
 
 | Pod Type | Use in LLC | File Path Suggestion |
 |----------|------------|----------------------|
@@ -60,7 +60,7 @@ The **Hybrid Aquaponics & Multi-Trophic LLC** is the cornerstone of the Genesis 
 | **[Microbial Inoculant Production Pod](components/pods/microbial-inoculant-production-pod.md)** | Yield enhancement | components/pods/microbial-inoculant-production-pod.md |
 | **[Automated Processing Pod](components/pods/automated-processing-pod.md)** | Value-add for proteins/greens | components/pods/automated-processing-pod.md |
 
-## Kits Required (Hyperlinked)
+## Kits Required
 
 | Kit Name | Use in LLC | File Path Suggestion |
 |----------|------------|----------------------|
@@ -89,7 +89,7 @@ The **Hybrid Aquaponics & Multi-Trophic LLC** relies on a dense, 3–5× redunda
 - **[Smart City Standards](docs/standards/smart-city-standards.md)**: ISO/TC 268, IEEE 2030, ITU-T Y.4900  
 - **[Sustainable Building Codes](docs/standards/sustainable-building-codes.md)**: ISO 14001, Cradle-to-Cradle, MIL-STD-810  
 
-## Other LLCs Required (Hyperlinked)
+## Other LLCs Required
 
 | LLC Name | Role in Integration | File Path Suggestion |
 |----------|---------------------|----------------------|
