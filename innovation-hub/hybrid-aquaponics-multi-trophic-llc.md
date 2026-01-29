@@ -86,10 +86,6 @@ This LLC drives early cash flow through efficient, closed-loop production. Prima
 - **Regenerative Pharmaceuticals LLC** (nutraceutical synergies)  
 - **Advanced Recycling LLC** (feedstock from waste)  
 
-## 8. File Path Suggestion
-
-Suggested path: innovation-hub/hybrid-aquaponics-multi-trophic-llc.md
-
 **License Notice**  
 This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
 You may share and adapt provided appropriate credit is given.
