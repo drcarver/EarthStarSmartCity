@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Overview
 
-All **[flat-pack kits](components/kits/kits-catalog.md)** are self-replicating, modular systems enabling rapid deployment of Genesis Network components. Kits are manufactured in **[tile production pods](components/pods/tile-production-pods.md)** using 70–95% waste-derived inputs, evolving from recycled steel to toughened ceramic composites. They support **[sustainable building codes](docs/standards/sustainable-building-codes.md)** (net-zero, passive design) and include **[smart airlocks](components/tiles/smart-airlock-tiles.md)** for security scanning (weapons/explosives). Reused kits minimize redundancy; new kits added for viability (e.g., sensor net deployment). Costs/revenues recomputed: Production $0.2–$5M/kit; selling $0.5–$12M/kit; margins 60–85%.
+All **flat-pack kits** are self-replicating, modular systems enabling rapid deployment of Genesis Network components. Kits are manufactured in **[tile production pods](components/pods/tile-production-pods.md)** using 70–95% waste-derived inputs, evolving from recycled steel to toughened ceramic composites. They support **[sustainable building codes](docs/standards/sustainable-building-codes.md)** (net-zero, passive design) and include **[smart airlocks](components/tiles/smart-airlock-tiles.md)** for security scanning (weapons/explosives). Reused kits minimize redundancy; new kits added for viability (e.g., sensor net deployment). Costs/revenues recomputed: Production $0.2–$5M/kit; selling $0.5–$12M/kit; margins 60–85%.
 
 ## Complete List of Flat-Pack Kits
 
