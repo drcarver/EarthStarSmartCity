@@ -21,8 +21,8 @@ https://creativecommons.org/licenses/by/4.0/
 - Immediate marketability to external customers (construction, agriculture, smart cities, residential)  
 - Minimal onboard compute (RISC-V micro-node + basic UI) for reliability and low cost  
 - **Modular AI upgrade slots** for deferred high-margin intelligence (predictive maintenance, energy optimization, federated learning)  
-- All tiles support **[Smart Airlocks](components/smart-airlocks.md)** and **[Dense Sensor Net](docs/sensors/dense-sensor-net.md)** integration  
-- Compliance: **[ISO/TC 268 Smart Cities](docs/standards/smart-cities-standards.md)**, **[IEEE 2030 Smart Grid](docs/standards/smart-grid-standards.md)**, **[ISO 14001 Environmental](docs/standards/environmental-standards.md)**, Cradle-to-Cradle
+- All tiles support **[Smart Airlocks](../smart-airlocks.md)** and **[Dense Sensor Net](../../docs/sensors/dense-sensor-net.md)** integration  
+- Compliance: **[ISO/TC 268 Smart Cities](../../docs/standards/smart-cities-standards.md)**, **[IEEE 2030 Smart Grid](../../docs/standards/smart-grid-standards.md)**, **[ISO 14001 Environmental](../../docs/standards/environmental-standards.md)**, Cradle-to-Cradle
 
 **File Path Suggestion for New Documents**  
 - This document: `components/tiles/market-ready-tiles.md`  
@@ -33,20 +33,20 @@ https://creativecommons.org/licenses/by/4.0/
 
 | Tile Type                              | Primary Applications                                      | Key Day-1 Features (Functional at Launch)                          | Materials (70–95% Waste-Derived)              | Manufacturing Cost ($/ft²) | Selling Price ($/ft²) | Gross Margin | Annual Revenue Potential (Network, 2040s, $B) |
 |----------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------|----------------------------|------------------------|--------------|------------------------------------------------|
-| **[Roof Glazing Tile](components/tiles/roof-glazing-tile.md)** | Greenhouses, housing roofs                                | Semi-transparent BIPV (10–30%), full AWG condensers, PAR/thermal sensors | RHA silica (80%), residues                   | 2.8–5.0                    | 8.5–14.5               | 62–78%       | 8–22                                           |
-| **[Exterior Cladding Tile](components/tiles/exterior-cladding-tile.md)** | Vertical facades, pod shells                              | Supplementary BIPV (8–22%), AWG channels, strain/vibration sensors | C&D slag (60%), residues                     | 2.5–4.5                    | 7.5–13.0               | 58–75%       | 6–18                                           |
-| **[Structural Load-Bearing Tile](components/tiles/structural-load-bearing-tile.md)** | Foundations, floors, heavy roads                          | Piezoelectric (20–60/m²), strain/thermal sensors                   | ELFM slag (70%), brownfield                  | 1.8–3.2                    | 5.5–8.5                | 60–78%       | 5–15                                           |
-| **[Insulating Partition Tile](components/tiles/insulating-partition-tile.md)** | Thermal mass walls, internal partitions                   | Indoor AWG recapture, micro-piezo, thermal/humidity sensors        | Bagasse pore-formers, residues               | 1.7–3.0                    | 5.5–9.5                | 65–82%       | 4–12                                           |
-| **[Permeable Road Tile](components/tiles/permeable-road-tile.md)** | Internal roads, paths, drainage                           | Piezoelectric (traffic), stormwater capture, acoustic sensors     | C&D slag (75%)                               | 2.2–3.8                    | 6.8–11.5               | 60–79%       | 5–16                                           |
-| **[Compute Server Tile](components/tiles/compute-server-tile.md)** | Embedded distributed computing                            | RISC-V module pocket, cooling microchannels, basic local inference | Ceramic + embedded electronics               | 12–28                      | 35–90                  | 68–82%       | 10–35                                          |
-| **[Networking Snap Tile](components/tiles/networking-snap-tile.md)** | Inter-tile bridging                                       | Inductive power (50–120 W), mmWave/waveguide data (10–120 Gbps)    | Ceramic + waveguide layers                   | 8–18                       | 25–60                  | 65–80%       | 3–12                                           |
-| **[Smart Furniture Surface Tile](components/tiles/smart-furniture-surface-tile.md)** | Tables, counters, interactive surfaces                    | MicroLED touch, speakers, haptics, environmental sensors           | Ceramic + display layers                     | 15–35 (unit equiv.)        | 40–100 (unit)          | 68–85%       | 2–10                                           |
+| **[Roof Glazing Tile](roof-glazing-tile.md)** | Greenhouses, housing roofs                                | Semi-transparent BIPV (10–30%), full AWG condensers, PAR/thermal sensors | RHA silica (80%), residues                   | 2.8–5.0                    | 8.5–14.5               | 62–78%       | 8–22                                           |
+| **[Exterior Cladding Tile](exterior-cladding-tile.md)** | Vertical facades, pod shells                              | Supplementary BIPV (8–22%), AWG channels, strain/vibration sensors | C&D slag (60%), residues                     | 2.5–4.5                    | 7.5–13.0               | 58–75%       | 6–18                                           |
+| **[Structural Load-Bearing Tile](structural-load-bearing-tile.md)** | Foundations, floors, heavy roads                          | Piezoelectric (20–60/m²), strain/thermal sensors                   | ELFM slag (70%), brownfield                  | 1.8–3.2                    | 5.5–8.5                | 60–78%       | 5–15                                           |
+| **[Insulating Partition Tile](insulating-partition-tile.md)** | Thermal mass walls, internal partitions                   | Indoor AWG recapture, micro-piezo, thermal/humidity sensors        | Bagasse pore-formers, residues               | 1.7–3.0                    | 5.5–9.5                | 65–82%       | 4–12                                           |
+| **[Permeable Road Tile](permeable-road-tile.md)** | Internal roads, paths, drainage                           | Piezoelectric (traffic), stormwater capture, acoustic sensors     | C&D slag (75%)                               | 2.2–3.8                    | 6.8–11.5               | 60–79%       | 5–16                                           |
+| **[Compute Server Tile](compute-server-tile.md)** | Embedded distributed computing                            | RISC-V module pocket, cooling microchannels, basic local inference | Ceramic + embedded electronics               | 12–28                      | 35–90                  | 68–82%       | 10–35                                          |
+| **[Networking Snap Tile](networking-snap-tile.md)** | Inter-tile bridging                                       | Inductive power (50–120 W), mmWave/waveguide data (10–120 Gbps)    | Ceramic + waveguide layers                   | 8–18                       | 25–60                  | 65–80%       | 3–12                                           |
+| **[Smart Furniture Surface Tile](smart-furniture-surface-tile.md)** | Tables, counters, interactive surfaces                    | MicroLED touch, speakers, haptics, environmental sensors           | Ceramic + display layers                     | 15–35 (unit equiv.)        | 40–100 (unit)          | 68–85%       | 2–10                                           |
 
 **Total Network Tile Revenue (mature 2040s)**: **$43–$140B/year**
 
 ## Manufacturing Process
 
-- **Factory**: **[Tile & Pipe Production Pod](components/pods/tile-production-pod.md)** → permanent cluster retrofit  
+- **Factory**: **[Tile & Pipe Production Pod](../pods/tile-production-pod.md)** → permanent cluster retrofit  
 - **Inputs**: 70–95% waste-derived feedstock (pre-loaded 50–250 tons per site)  
 - **Steps**: Mixing → extrusion/pressing → drying → firing (1,200–1,400°C) → embedding (sensors, piezo, BIPV, AWG) → QC  
 - **Automation**: 50–70% lights-out Day 1 → 85–95% by Year 2  
@@ -55,7 +55,7 @@ https://creativecommons.org/licenses/by/4.0/
 ## Modular AI Upgrade Pathways
 
 - **Base Tile**: Ships with minimal RISC-V compute (sensor aggregation, basic UI)  
-- **Upgrade Slot**: Standardized blind-mate interface for **[AI Upgrade Modules](components/tiles/ai-upgrade-modules.md)**  
+- **Upgrade Slot**: Standardized blind-mate interface for **[AI Upgrade Modules](ai-upgrade-modules.md)**  
 - **Tiers**: Basic inference ($150–$400), cluster intelligence ($600–$1,200), server-class ($2,000–$5,000)  
 - **Deployment**: Field-installed; over-the-air federated updates  
 
