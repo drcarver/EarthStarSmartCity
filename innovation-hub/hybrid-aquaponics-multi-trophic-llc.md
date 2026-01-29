@@ -1,74 +1,100 @@
 ---
 layout: default
-title: Hybrid Aquaponics & Multi-Trophic LLC
-description: Detailed specification for the Hybrid Aquaponics & Multi-Trophic LLC, a core component of the Genesis Network innovation hub responsible for advanced closed-loop food production systems.
+title: Hybrid Aquaponics & Multi-Trophic LLC – Detailed Specification
+description: Comprehensive specification for the Hybrid Aquaponics & Multi-Trophic LLC within the Genesis Network innovation hub – closed-loop protein/greens production as the highest early revenue driver, with integrated aquaponics pods, fish/prawns/BSFL/greens systems (January 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Hybrid Aquaponics & Multi-Trophic LLC  
-**Genesis Network Innovation Hub – Component Specification**
+**Detailed Specification – January 2026 Baseline**
 
-**Suggested File Path**: `components/hybrid-aquaponics-multi-trophic-llc.md`
-
-**© 2025–2026 EarthStar Technologies – Licensed under CC BY 4.0**  
+**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
+Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
 https://creativecommons.org/licenses/by/4.0/
 
-## Overview
+## Executive Summary
 
-The **Hybrid Aquaponics & Multi-Trophic LLC** is one of the 19 independent limited liability companies within the Genesis Network's innovation hub. It is responsible for the design, optimization, production, and continuous improvement of **[hybrid aquaponics pods](components/pods/hybrid-aquaponics-pod.md)** and associated **[multi-trophic kits](components/kits/multi-trophic-aquaponics-kit.md)**. These systems integrate fish, crustaceans, mollusks, insects, and plants into highly efficient, closed-loop food production modules achieving 95–99% resource closure.
+The **Hybrid Aquaponics & Multi-Trophic LLC** is a core component of the Genesis Network's **innovation hub**, focused on closed-loop production of proteins and greens. As the highest early revenue driver, it leverages **aquaponics pods** to integrate fish, prawns, BSFL (black soldier fly larvae), mussels, and greens for 95–99% resource closure. Launching in 2027–2028, it scales to 5–15 hubs initially, generating premium revenues from high-value outputs while accelerating overall Network self-funding.
 
-The LLC leverages the Network's **[data moat](docs/data-moat-digital-twin.md)** through parallel test tanks (50–500 variants per hub) and hyper-dense sensors to ruthlessly optimize yields, nutrient flows, and species interactions. Primary focus: high-value proteins (tilapia, prawns, crayfish, catfish, trout) with freshwater dominance and limited coastal saltwater pilots.
-
-## Core Responsibilities
-
-- Development and scaling of **[hybrid aquaponics pods](components/pods/hybrid-aquaponics-pod.md)** (freshwater primary; saltwater pilots)  
+**Key Features**  
 - Multi-trophic layering: Fish → crustaceans/mollusks → insects → plants  
-- Integration of **[black soldier fly larvae (BSFL)](components/pods/bsfl-waste-conversion-pod.md)** and other insects for waste-to-feed conversion  
-- Region-specific adaptations (e.g., cold-water trout in northern hubs, barramundi in coastal saltwater pilots)  
-- Staggered production cycles for continuous harvest (weekly BSFL, monthly prawns, quarterly fish)  
-- Revenue streams: Direct protein sales, insect feed to **[livestock pods](components/pods/large-animal-pod.md)**, premium seafood branding  
-- Collaboration with **[microbial inoculant LLC](components/microbial-inoculant-biosolutions-llc.md)** for +10–30% yield boosts  
+- Freshwater dominant (80–90%); saltwater pilots (10–20%)  
+- Staggered cycles for continuous harvest  
+- Integration with **microbial biosolutions** for +10–30% yields  
+- Data moat optimization via parallel tanks (50–500 variants)  
 
-## Key Technologies & Integrations
+**Financial Snapshot (Recalculated)**  
+- Initial CAPEX per hub: $120–$280M (2027–2028)  
+- Annual revenue per mature hub: $180–$550M (greens 50%, proteins 40%, byproducts 10%)  
+- Gross margins: 60–82%  
+- Break-even: 16–28 months  
 
-- **Pods**: **[Standard aquaponics pod](components/pods/standard-aquaponics-pod.md)** (tilapia + prawns + BSFL + greens); **[premium protein pod](components/pods/premium-protein-pod.md)** (trout/crayfish); **[saltwater pilot pod](components/pods/saltwater-pilot-pod.md)** (barramundi/kelp)  
-- **Tiles**: **[Roof glazing tiles](components/tiles/roof-glazing-semi-trans.md)** for natural light + BIPV; **[structural load-bearing tiles](components/tiles/structural-load-bearing.md)** for tanks  
-- **Kits**: **[Multi-trophic aquaponics kit](components/kits/multi-trophic-aquaponics-kit.md)**; **[BSFL waste conversion kit](components/kits/bsfl-waste-conversion-kit.md)**  
-- **Sensors**: Hyper-dense monitoring (see handbook below) integrated via **[compute tiles](components/tiles/compute-server-tile.md)**  
-- **Automation**: Lights-out robotics from **[robotics LLC](components/robotics-automation-llc.md)**  
+## 1. Operational Overview
 
-## Production & Revenue Model
+This LLC drives early cash flow through efficient, closed-loop production. Primary species: Tilapia/catfish (fish), Macrobrachium prawns/crayfish (crustaceans), freshwater mussels (mollusks), BSFL/mealworms (insects), and leafy greens/herbs/staples (plants). Outputs feed directly into **automated processing pods** for value-add (e.g., packaged meals, premium proteins).
 
-- **Manufacturing**: All components produced in **[tile & pipe production pods](components/pods/tile-pipe-production-pod.md)** → permanent factories  
-- **Inputs**: 70–95% waste-derived (slag, residues, RHA silica)  
-- **Cost per Pod**: $0.8–$2.0M (mature)  
-- **Revenue per Pod (mature)**: $650k–$2.1M/year (fish/protein dominant)  
-- **Network-wide (mature, 20,000+ pods)**: $12–$45B/year  
+**Timeline**: 2027–2028 launch (pilots in 5–15 hubs); full integration by 2030.  
 
-## Detailed Sensor Handbook (Aquaponics-Specific)
+## 2. Required Tiles Table
 
-| Sensor Type                  | Measured Parameter(s)                          | Location / Application                           | Redundancy | Power Source | Standards Alignment |
-|------------------------------|------------------------------------------------|--------------------------------------------------|------------|--------------|---------------------|
-| pH / Ammonia / Nitrite / Nitrate | Water chemistry balance                        | Tanks, grow beds, recirculation loops            | 5×         | Piezo/BIPV   | ISO 11783, NASA-STD-3001 |
-| Dissolved Oxygen (DO) / ORP  | Aeration & redox potential                     | Fish tanks, root zones                           | 4×         | BIPV         | IEEE 1451           |
-| Temperature / PAR            | Thermal & light optimization                   | All zones; glazing-integrated                    | 3×         | BIPV         | OGC SWE             |
-| Multispectral Imaging        | Plant health, algae, disease early warning     | Vertical racks, floating rafts                   | 3×         | BIPV         | MIL-STD-810         |
-| VOC / Pathogen               | Air quality, biosecurity                       | Airlocks, livestock-adjacent zones               | 4×         | Piezo        | ISO 14001           |
-| Flow / Pressure              | Recirculation efficiency                       | Pipes, pumps                                     | 3×         | Piezo        | IEEE 2030           |
+| Tile Type                     | Use in LLC                                         | Key Features                                               | Materials (70–95% Waste-Derived) | Cost ($/ft²) | Revenue Contribution (Indirect) |
+|-------------------------------|----------------------------------------------------|------------------------------------------------------------|-----------------------------------|--------------|---------------------------------|
+| **Roof Glazing (Semi-Trans)** | Pod/greenhouse roofs                               | BIPV 10–30%, AWG condensers, PAR sensors                   | RHA silica                        | 2.8–5.0      | Energy/water savings +$20–$60M/year per hub |
+| **Exterior Cladding**         | Pod shells/facades                                 | BIPV 8–22%, AWG channels, vibration sensors                | C&D slag                          | 2.5–4.5      | Structural resilience; +$10–$40M/year |
+| **Structural Load-Bearing**   | Foundations/floors                                 | Piezo 20–60/m², strain sensors                             | ELFM slag                         | 1.8–3.2      | Stability for tanks; +$5–$20M/year |
+| **Insulating / Partitions**   | Thermal mass walls                                 | Indoor AWG, micro-piezo                                    | Bagasse residues                  | 1.7–3.0      | Climate control; +$8–$30M/year |
+| **Permeable Roads / Paths**   | Internal access/drainage                           | Piezo traffic, stormwater capture                          | C&D slag                          | 2.2–3.8      | Waste management; +$5–$15M/year |
 
-**Handbook Notes**  
-- Data feeds local digital twins → federated learning for ruthless optimization  
-- Edge AI for real-time anomaly detection (e.g., ammonia spikes)  
-- Integration with **[smart airlocks](docs/smart-airlocks-security.md)** for pathogen alerts  
+## 3. Required Pods Table
 
-## Viability Enhancements Specific to This LLC
+| Pod Type                              | Function in LLC                                    | Key Components                                             | Materials / Inputs                | Cost ($M) | Revenue Contribution ($M/year per hub) |
+|---------------------------------------|----------------------------------------------------|------------------------------------------------------------|-----------------------------------|-----------|----------------------------------------|
+| **Aquaponics Pod**                    | Core protein/greens production                     | Tanks, rafts, biofilters, BSFL bins                        | Ceramic lining, sensors           | 0.18–0.32 | 120–350                                |
+| **Automated Processing Pods**         | Value-add (bakery/brewery/butcher/confectionary/dairy) | Robotic lines, ovens, mixers                               | Ceramic shells                    | 2–6       | 60–180                                 |
 
-- Parallel test tanks (50–500 variants) → 10–50× experiments/year  
-- Microbial inoculants → +10–30% yields  
-- Staggered cycles → revenue stability  
-- Integration with **[livestock pods](components/pods/large-animal-pod.md)** (BSFL feed loop)  
+## 4. Required Kits Table
 
-**CC-BY-4.0 License Notice**  
-This work is licensed under Creative Commons Attribution 4.0 International.  
+| Kit Name                              | Purpose in LLC                                     | Key Components                                             | Inputs / Materials                | Cost ($M) | Revenue Contribution ($M/year per hub) |
+|---------------------------------------|----------------------------------------------------|------------------------------------------------------------|-----------------------------------|-----------|----------------------------------------|
+| **Aquaponics & Multi-Trophic Kit**    | Bootstrap closed-loop system                       | Tanks, biofloc, sensors                                    | Ceramic, pre-inoculum             | 0.18–0.32 | 150–400                                |
+| **Microbial Inoculant Production Kit**| Yield enhancement                                  | Fermenters, cultures                                       | Ceramic vessels                   | 0.05–0.15 | 30–100                                 |
+| **Beehive & Pollination Kit**         | Pollination boost                                  | Hives, screened tubes                                      | Ceramic housing                   | 0.08–0.25 | 20–60                                  |
+| **Dam & River Restoration Module**    | Water sourcing/remediation (reused)                | Demolition tools, bioreactors                              | Ceramic components                | 0.4–1.5   | 10–40 (indirect)                       |
+
+## 5. Required Sensors Table (From Sensor Handbook)
+
+| Sensor Category               | Use in LLC                                         | Redundancy | Primary Data Output                                | Integration                      | Cost ($/unit) |
+|-------------------------------|----------------------------------------------------|------------|----------------------------------------------------|----------------------------------|---------------|
+| **Environmental**             | Water quality, air, nutrient monitoring            | 3–5×       | pH, DO, ammonia, CO₂                               | All pods & tanks                 | 0.01–0.05     |
+| **Biological / Soil**         | Microbial activity, plant stress                   | 3×         | Nutrient levels, root density                      | Aquaponics & inoculant kits      | 0.02–0.08     |
+| **Security / Biosecurity**    | Pathogen detection, anomaly alert                  | 3–5×       | mmWave vitals, hyperspectral                       | **Smart airlocks** in all buildings | 0.05–0.15     |
+
+## 6. Required Standards Table
+
+| Standard Domain               | Specific Standards                                 | Compliance Role                                    | Implementation in LLC            |
+|-------------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------------|
+| **Agriculture / Food Safety** | ISO 11783 (ISOBUS), GlobalG.A.P., USDA equivalents | Yield tracking, safety certification               | Aquaponics monitoring            |
+| **Smart Cities**              | ISO/TC 268, IEEE 2030, ITU-T Y.4900                | Infrastructure integration                         | Networking & sensors             |
+| **Sustainable Building Codes** | ISO 14001, Cradle-to-Cradle, MIL-STD-810           | Environmental management, ruggedness               | All tiles & pods                 |
+| **Security**                  | Capability-based (seL4), post-quantum crypto       | Data sovereignty, attack resistance                | **Smart airlocks** & software    |
+
+## 7. Other Required LLCs in Innovation Hub (For Integration)
+
+- **Microbial Biosolutions LLC** (inoculants for yields)  
+- **Automated Biorefinery LLC** (waste conversion to feed)  
+- **Sustainable Energy LLC** (power for pods)  
+- **Regenerative Pharmaceuticals LLC** (nutraceutical synergies)  
+- **Advanced Recycling LLC** (feedstock from waste)  
+
+## 8. File Path Suggestion
+
+Suggested path: innovation-hub/hybrid-aquaponics-multi-trophic-llc.md
+
+**License Notice**  
+This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+You may share and adapt provided appropriate credit is given.
+
 https://creativecommons.org/licenses/by/4.0/  
-**© 2025–2026 EarthStar Technologies** – All rights reserved under applicable law.
+
+**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
+(Attribution appreciated when sharing or building upon this framework)
