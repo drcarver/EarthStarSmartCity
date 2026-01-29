@@ -1,152 +1,59 @@
 ---
 layout: default
-title: Genesis Network – Automated Biorefinery & Processing LLC Specification
-description: Detailed specification for the Automated Biorefinery & Processing LLC, focusing on value-add food processing, premium revenue from early output, and integration with bakery, brewery, butcher, and dairy pods (January 2026 baseline).
+title: Automated Biorefinery & Processing LLC – Detailed Specification
+description: Executive overview, relevant components (tiles, pods, kits, sensors, standards), related LLCs, and financials for the Automated Biorefinery & Processing LLC in the Genesis Network Innovation Hub (January 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Automated Biorefinery & Processing LLC Specification**  
-**January 2026 Baseline**
+# Automated Biorefinery & Processing LLC – Detailed Specification
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+The Automated Biorefinery & Processing LLC develops and operates lights-out biorefineries for waste valorization and value-added food processing in the Genesis Network. Its mission is to achieve 95–99% material closure by converting farm wastes, digestate, and external streams (C&D, ELFM, sewage) into biogas, biochar, industrial gases, and processed goods (bread, beer, meats, sweets, dairy). Launching in Phase 2 (2028–2029), it reaches maturity by 2032–2035, contributing $200–600M/hub/year in revenues from byproducts, gases, and premium processed foods—playing a key role in network self-funding and circular economy acceleration.
 
-## Overview
+## Tiles
 
-The **Automated Biorefinery & Processing LLC** is a core entity in the Genesis Network innovation hub, dedicated to value-added food processing that transforms raw hub outputs (greens, staples, proteins, fruits/nuts) into premium, market-ready products. This LLC accelerates early revenue through high-margin items like artisanal breads, craft beers, gourmet meats, confections, and dairy goods — achieving cash-positive operations in 2028–2030 while supporting MyPlate-compliant nutrition and cultural adaptations (e.g., halal/kosher options).
+| Name (Hyperlinked)                  | Description & Key Features                                 | Inputs/Materials                 | Manufacturing Process            | Cost ($/ft²) | Revenue/Value ($/ft²) |
+|-------------------------------------|-----------------------------------------------------------|----------------------------------|----------------------------------|--------------|-----------------------|
+| [Structural Load-Bearing](components/tiles/structural-load-bearing.md) | Foundations, walls, tanks; piezo + strain sensors         | ELFM slag (70%), brownfield      | Mixing, pressing, firing         | 1.8–3.2      | 5.5–8.5               |
+| [Insulating / Partitions](components/tiles/insulating-partitions.md) | Thermal mass walls; indoor AWG + micro-piezo              | Bagasse pore-formers, residues   | Aerated forming, firing          | 1.7–3.0      | 5.5–9.5               |
 
-**Key Objectives**  
-- Generate premium revenue from hub surpluses (40–60% margins)  
-- Enhance food diversity and value (e.g., jams from fruits, cheeses from dairy)  
-- Integrate automation for lights-out efficiency (80–95% by maturity)  
-- Support TerraWell FreeCare distributions and affiliate exports  
+## Pods
 
-**Timeline & Financial Snapshot**  
-- Launch: 2028–2030 (post-bootstrap)  
-- CAPEX: $4–$12 million per hub (phased, self-funded from tiles/food)  
-- Revenue: $6–$25 million/hub/year mature (2040s network total: $6–$25B/year)  
-- IRR Contribution: +5–10% to network  
+| Name (Hyperlinked)                  | Description & Key Features                                 | Inputs/Materials                 | Manufacturing Process            | Cost ($M) | Revenue/Value ($M) |
+|-------------------------------------|-----------------------------------------------------------|----------------------------------|----------------------------------|-----------|--------------------|
+| [Automated Biorefinery Pod](components/pods/automated-biorefinery-pod.md) | Waste slurrying, plasma vitrification, gas separation     | Ceramic lining, sensors          | Pod assembly, embedding          | 0.8–2.5   | 1.5–5.0            |
+| [Automated Processing Pods](components/pods/automated-processing-pods.md) | Bakery/brewery/butcher/confectionary/dairy; robotic lines | Ceramic shells, mixers           | Pod integration, automation      | 2–6       | 4–15               |
 
-## Integration with Genesis Ecosystem
+## Kits
 
-The LLC operates via specialized **processing pods** (bakery, brewery, butcher, confectionary, dairy) that snap into hub clusters. Inputs from **aquaponics pods** (fish/prawns/greens), **livestock pods** (dairy/meat), and **dwarf orchard kits** (fruits/nuts) are processed autonomously using **robotics & automation LLC** tech. Outputs feed gourmet restaurants, affiliate sales, and TerraWell distributions.
+| Name (Hyperlinked)                  | Description & Key Features                                 | Inputs/Materials                 | Manufacturing Process            | Cost ($M) | Revenue/Value ($M) |
+|-------------------------------------|-----------------------------------------------------------|----------------------------------|----------------------------------|-----------|--------------------|
+| [Microbial Inoculant Production Kit](components/kits/microbial-inoculant-production-kits.md) | Fermenters for yield-boosting inoculants                  | Ceramic vessels, cultures        | Kit assembly, sterilization      | 0.05–0.15 | 0.15–0.5           |
+| [Automated Processing Cluster Kit](components/kits/automated-processing-cluster-kits.md) | Modular ovens, lines for value-add food                   | Ceramic components, robotics     | Flat-pack fabrication            | 2–6       | 4–15               |
 
-## Tiles Table
+## Sensors
 
-| Tile Type | Description | Link |
-|-----------|-------------|------|
-| **Roof Glazing** | Semi-transparent BIPV for energy + light | [Roof Glazing](components/tiles/roof-glazing.md) |
-| **Exterior Cladding** | Structural protection with sensors | [Exterior Cladding](components/tiles/exterior-cladding.md) |
-| **Structural Load-Bearing** | Foundations and heavy-duty supports | [Structural Load-Bearing](components/tiles/structural-load-bearing.md) |
-| **Insulating / Partitions** | Thermal efficiency for controlled environments | [Insulating / Partitions](components/tiles/insulating-partitions.md) |
-| **Permeable Roads / Paths** | Drainage and access within processing zones | [Permeable Roads / Paths](components/tiles/permeable-roads-paths.md) |
-| **Compute / Server Tile** | Embedded AI for process optimization | [Compute / Server Tile](components/tiles/compute-server-tile.md) |
-| **Networking Snap Tile** | Inter-pod data/power bridging | [Networking Snap Tile](components/tiles/networking-snap-tile.md) |
-| **Smart Furniture Surface** | Integrated workspaces in processing areas | [Smart Furniture Surface](components/tiles/smart-furniture-surface.md) |
+| Name (Hyperlinked)                  | Description & Key Features                                 | Inputs/Materials                 | Manufacturing Process            | Cost ($) | Revenue/Value ($) |
+|-------------------------------------|-----------------------------------------------------------|----------------------------------|----------------------------------|----------|-------------------|
+| [Electrochemical & Optical Sensors](docs/sensors/electrochemical-optical-sensors.md) | Nutrient, pH, pathogen detection in waste streams         | Silicon + ceramic embeds         | Mini-Fab integration             | 5–15     | 15–45             |
+| [Nanobiosensors & Microbial](docs/sensors/nanobiosensors-microbial.md) | Soil activity, plant stress in biorefinery                | Ceramic + bio-materials          | Mini-Fab + inoculant hybrid      | 8–20     | 25–60             |
 
-## Pods Table
+## Standards & Compliance
 
-| Pod Type | Description | Link |
-|----------|-------------|------|
-| **Bakery Pod** | Automated ovens/mixers for breads/pastries | [Bakery Pod](components/pods/bakery-pod.md) |
-| **Brewery Pod** | Fermentation and bottling for beers/ciders | [Brewery Pod](components/pods/brewery-pod.md) |
-| **Butcher Pod** | Deboning/sausage lines with halal/kosher modes | [Butcher Pod](components/pods/butcher-pod.md) |
-| **Confectionary Pod** | Dryers/molders for candies/jams | [Confectionary Pod](components/pods/confectionary-pod.md) |
-| **Dairy Pod** | Robotic milking/processing for cheeses/yogurt | [Dairy Pod](components/pods/dairy-pod.md) |
-| **Aquaponics Pod** | Input source for fish/proteins/greens | [Aquaponics Pod](components/pods/aquaponics-pod.md) |
-| **Livestock Pod** | Input source for dairy/meat | [Livestock Pod](components/pods/livestock-pod.md) |
+| Name (Hyperlinked)                  | Description & Key Features                                 | Inputs/Materials                 | Manufacturing Process            | Cost ($) | Revenue/Value ($) |
+|-------------------------------------|-----------------------------------------------------------|----------------------------------|----------------------------------|----------|-------------------|
+| [ISO 14001 – Environmental Management](docs/standards/iso-14001.md) | Waste tracking, emissions compliance                      | N/A (certification)              | Audited processes                | 10K–50K  | Credits uplift    |
+| [NASA-STD-3001 – ECLSS Principles](docs/standards/nasa-std-3001.md) | Closed-loop air/water/vitals for biorefinery              | N/A (compliance)                 | Design integration               | 20K–80K  | Efficiency gains  |
 
-## Kits Table
+## Related / Supporting LLCs in the Innovation Hub
 
-| Kit Name | Description | Link |
-|----------|-------------|------|
-| **Automated Processing Cluster Kit** | Full set for bakery/brewery/butcher/confectionary/dairy pods | [Automated Processing Cluster Kit](components/kits/automated-processing-cluster-kit.md) |
-| **Dwarf Orchard Transplant Kit** | Fruit/nut inputs for confectionary/dairy | [Dwarf Orchard Transplant Kit](components/kits/dwarf-orchard-transplant-kit.md) |
-| **Microbial Inoculant Production Kit** | Boosts for fermentation/processing | [Microbial Inoculant Production Kit](components/kits/microbial-inoculant-production-kit.md) |
-| **Restoration & Blue/Green Carbon Kit** | Environmental integration | [Restoration & Blue/Green Carbon Kit](components/kits/restoration-blue-green-carbon-kit.md) |
-| **Smart Infrastructure & Networking Kit** | Pod interconnects | [Smart Infrastructure & Networking Kit](components/kits/smart-infrastructure-networking-kit.md) |
-| **3D-Printed DME Printer Cluster Kit** | Support for TerraWell | [3D-Printed DME Printer Cluster Kit](components/kits/3d-printed-dme-printer-cluster-kit.md) |
+| Name (Hyperlinked)                  | Description & Key Features                                 | Inputs/Materials                 | Manufacturing Process            | Cost ($M) | Revenue/Value ($M) |
+|-------------------------------------|-----------------------------------------------------------|----------------------------------|----------------------------------|-----------|--------------------|
+| [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) | Plasma e-waste processing; criticals recovery             | Waste streams                    | Plasma vitrification             | 100–250   | 200–500            |
+| [Sustainable Mining LLC](innovation-hub/sustainable-mining-llc.md) | Plasma for clean ore; slag to tiles                       | Ore wastes                       | Plasma refining                  | 80–200    | 200–600            |
 
-## Sensors Table
+## Viability & Integration Notes
 
-| Sensor Type | Description | Link |
-|-------------|-------------|------|
-| **Environmental Sensors** | Temperature, humidity, CO₂ monitoring | [Environmental Sensors](docs/sensors/environmental-sensors.md) |
-| **Structural Sensors** | Strain, vibration detection | [Structural Sensors](docs/sensors/structural-sensors.md) |
-| **Power / Energy Sensors** | Voltage, piezo output tracking | [Power / Energy Sensors](docs/sensors/power-energy-sensors.md) |
-| **Water Sensors** | pH, flow, quality analysis | [Water Sensors](docs/sensors/water-sensors.md) |
-| **Security / Biosecurity Sensors** | mmWave radar, hyperspectral scanning | [Security / Biosecurity Sensors](docs/sensors/security-biosecurity-sensors.md) |
-| **Biological / Soil Sensors** | Microbial activity, nutrient levels | [Biological / Soil Sensors](docs/sensors/biological-soil-sensors.md) |
-
-## Standards Table
-
-| Standard | Description | Link |
-|----------|-------------|------|
-| **ISO 14001** | Environmental management | [ISO 14001](docs/standards/iso-14001.md) |
-| **ISO/TC 268** | Sustainable cities | [ISO/TC 268](docs/standards/iso-tc-268.md) |
-| **IEEE 2030** | Smart grid interoperability | [IEEE 2030](docs/standards/ieee-2030.md) |
-| **ITU-T Y.4900** | Smart sustainable cities | [ITU-T Y.4900](docs/standards/itu-t-y-4900.md) |
-| **Cradle-to-Cradle** | Sustainable materials | [Cradle-to-Cradle](docs/standards/cradle-to-cradle.md) |
-| **MIL-STD-810** | Environmental ruggedness | [MIL-STD-810](docs/standards/mil-std-810.md) |
-
-## Other LLCs Table
-
-| LLC Name | Description | Link |
-|----------|-------------|------|
-| **Regenerative Pharmaceuticals LLC** | Botanical APIs & supplements | [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) |
-| **Sustainable Energy LLC** | Biogas & renewables | [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) |
-| **Robotics & Automation LLC** | Swarm bots for processing | [Robotics & Automation LLC](innovation-hub/robotics-automation-llc.md) |
-| **Microbial Biosolutions LLC** | Inoculants for fermentation | [Microbial Biosolutions LLC](innovation-hub/microbial-biosolutions-llc.md) |
-| **TerraWell FreeCare Support LLC** | Nonprofit integration | [TerraWell FreeCare Support LLC](innovation-hub/terrawell-freecare-support-llc.md) |
-| **Carbon / Biodiversity Credit Platform LLC** | Verifiable credits | [Carbon / Biodiversity Credit Platform LLC](innovation-hub/carbon-biodiversity-credit-platform-llc.md) |
-
-## Smart Airlocks in All Buildings
-
-All Genesis buildings (hubs, pods, housing, factories) incorporate **smart airlocks** with hyperspectral/mmWave scanning:  
-- Detect weapons, explosives, pathogens, contraband  
-- Alert on-site security + hub AI  
-- Integration: MIL-STD-810 rugged, ISO/TC 268 compliant  
-- Cost: +5–10% per building; viability boost: +15–25% security/resilience  
-
-## Smart City & Sustainable Building Compliance
-
-- Full alignment with **ISO/TC 268** (sustainable cities), **IEEE 2030** (smart grid), **ITU-T Y.4900** (indicators), **ISO 14001** (environmental management)  
-- Passive-dominant design, waste heat recovery, Cradle-to-Cradle materials  
-
-## Detailed Sensor Handbook
-
-### Introduction
-The Genesis sensor net is hyper-dense (3–5× redundancy) across all tiles/pods/buildings — enabling the data moat for ruthless optimization, predictive maintenance, compliance, security, and off-world planning. All sensors are self-powered (piezo/BIPV) and embedded during manufacturing.
-
-### Sensor Categories & Specifications
-
-| Category                | Types & Metrics                                        | Functions & Data Outputs                               | Integration & Calibration | Lifespan & Cost ($/unit) |
-|-------------------------|--------------------------------------------------------|--------------------------------------------------------|---------------------------|---------------------------|
-| **Environmental**       | Temp (±0.1°C), Humidity (±2%), PAR (400–700 nm), VOC (ppm), CO₂ (ppm), Ammonia (ppm) | Climate control, stress detection, air quality monitoring | All tiles/pods; auto-calibrate | 10–15 years; $2–8       |
-| **Structural**          | Strain (microstrain), Vibration (Hz/g), Tilt (±0.01°), Crack (μm) | Predictive maintenance, seismic/impact warning         | Load-bearing tiles; quarterly check | 15–25 years; $5–15      |
-| **Power / Energy**      | Voltage (mV), Current (mA), Piezo output (μW), BIPV soiling (%) | Energy optimization, fault detection                   | BIPV/piezo tiles; real-time | 10–20 years; $3–10      |
-| **Water**               | Flow (L/min), pH (±0.1), EC (μS/cm), Turbidity (NTU), Quality (multispectral) | Closure monitoring, potable safety                     | AWG/plumbing tiles; weekly | 8–12 years; $4–12       |
-| **Security / Biosecurity** | mmWave radar (vitals/motion), Hyperspectral (weapons/explosives/pathogens), Acoustic (dB) | Threat/anomaly detection, airlock triage               | Airlocks/perimeters; daily | 10–15 years; $10–30     |
-| **Biological / Soil**   | Microbial activity (ATP), Nutrients (N/P/K ppm), Root density (imaging) | Inoculant/yield optimization                           | Aquaponics/agroforestry; monthly | 5–10 years; $6–18       |
-| **Off-World Specific**  | Radiation (rad/h), Regolith composition (spectroscopy), Seismic (Hz) | ISRU planning, habitat integrity                       | Lunar/Mars pods; quarterly | 20–30 years; $15–50     |
-
-**Handbook Guidelines**  
-- **Deployment**: 3–5× redundancy per measurement; AI cross-validation for drift/failure  
-- **Data Moat**: PB-scale aggregation → 10–50× iterations/year  
-- **Standards**: IEEE 1451 (transducers), OGC SWE (web enablement), ITU-T Y.4900  
-- **Viability Boost**: +20–40% (early warning, optimization, compliance)  
-
-## Final Viability Enhancements Implemented
-
-- **Innovation Hub Risk Spread**: 32 LLCs → single failure impact <5–10%  
-- **Burnout Mitigation**: Distributed oversight across LLCs/co-ops  
-- **Sensor Net**: Earth/off-world deployment → 40–70% risk reduction  
-- **Cities/Towers Growth**: Exponential without funds (delayed 10–15 years)  
-- **Cultural Kits**: Plug-in for global viability (+15–25%)  
-
-**Overall Feasibility**: **7.5–8.5/10** (70–85% long-term success)
+The Automated Biorefinery & Processing LLC is highly viable (8.5/10), integrating seamlessly with waste streams from recycling/mining LLCs to boost network closure and revenues ($200–600M/hub/year mature). Early focus on biogas and processed foods accelerates self-funding; microbial kits enhance yields +10–30%. Risks mitigated by modular pods and parallel testing; supports overall IRR 32–58%.
 
 **License Notice**  
 This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
