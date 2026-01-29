@@ -82,4 +82,68 @@ All **kits** are flat-pack, self-replicating, manufactured in **Tile & Pipe Prod
 | **[Water](docs/sensors/water.md)** | Flow, pH, EC, turbidity, AWG condensate quality     | 3–5×       | Closure monitoring, potable safety               | AWG & plumbing            | 8–12 years             | +15–35% closure       |
 | **[Security / Biosecurity](docs/sensors/security-biosecurity.md)** | mmWave radar (vitals/motion), hyperspectral (weapons/explosives), acoustic | 3–5×       | Threat detection, airlock triage                 | Airlocks & perimeters     | 10–15 years            | +25–50% safety        |
 | **[Biological / Soil](docs/sensors/biological-soil.md)** | Microbial activity, nutrient levels, root density   | 3×         | Inoculant optimization, yield prediction         | Aquaponics & agroforestry | 5–10 years             | +10–30% boosts        |
-| **[Off-World Specific](docs/sensors/off-world-specific.md)** | Radiation, regolith composition, seismic (lunar/Mars) | 4–6×       | ISRU planning, habitat integrity                 | Lunar/Mars pods           | 20–30 years            | +30–60% mission
+| **[Off-World Specific](docs/sensors/off-world-specific.md)** | Radiation, regolith composition, seismic (lunar/Mars) | 4–6×       | ISRU planning, habitat integrity                 | Lunar/Mars pods           | 20–30 years            | +30–60% mission safety |
+
+## Standards Table
+
+All **tiles**, **pods**, and **kits** comply with **smart city standards** and sustainable building codes. **Smart airlocks** in all buildings for weapons/explosives scanning.
+
+| Standard Category             | Specific Standards                                      | Application in Genesis                                   | Viability Enhancement |
+|-------------------------------|---------------------------------------------------------|----------------------------------------------------------|-----------------------|
+| **[Smart City](docs/standards/smart-city.md)** | ISO/TC 268, IEEE 2030, ITU-T Y.4900, Matter/Thread      | Sensor interoperability, grid, home automation           | +20–40% efficiency    |
+| **[Sustainable Building Codes](docs/standards/sustainable-building-codes.md)** | ISO 14001, Cradle-to-Cradle, MIL-STD-810                | Environmental management, ruggedness, circular materials | +15–35% sequestration |
+
+## LLCs Table in the Innovation Hub (32 Total)
+
+| #    | LLC Name                                                                 | Primary Focus & Outputs                                   | Launch Timeline | Revenue Potential ($B/year mature) | Suggested File Path |
+|------|--------------------------------------------------------------------------|-----------------------------------------------------------|-----------------|-------------------------------------|---------------------|
+| 1    | **[Hydrogen Production LLC](innovation-hub/hydrogen-production-llc.md)** | Green H₂ from surplus power                               | 2027–2029       | 2–8                                 | innovation-hub/hydrogen-production-llc.md |
+| 2    | **[Battery & Energy Storage LLC](innovation-hub/battery-energy-storage-llc.md)** | Sodium-ion from waste                                     | 2028–2030       | 1.5–6                               | innovation-hub/battery-energy-storage-llc.md |
+| 3    | **[Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md)** | Bio-fibers/plastics from algae/fungi                      | 2029–2031       | 1–4                                 | innovation-hub/bio-materials-textiles-llc.md |
+| 4    | **[Vertical Urban Farming LLC](innovation-hub/vertical-urban-farming-llc.md)** | Rooftop/balcony systems                                   | 2028–2030       | 1.5–5                               | innovation-hub/vertical-urban-farming-llc.md |
+| 5    | **[Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md)** | Robotaxi fleets                                           | 2030–2032       | 2–7                                 | innovation-hub/autonomous-mobility-llc.md |
+| 6    | **[Water Purification & Desalination LLC](innovation-hub/water-purification-desalination-llc.md)** | Beyond AWG: Brine processing                              | 2029–2031       | 1–4                                 | innovation-hub/water-purification-desalination-llc.md |
+| 7    | **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** | Waste heat recovery                                       | 2027–2029       | 1.5–6                               | innovation-hub/sustainable-energy-llc.md |
+| 8    | **[Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md)** | Plant/algae/fungal APIs                                   | 2030–2032       | 2–8                                 | innovation-hub/regenerative-pharmaceuticals-llc.md |
+| 9    | **[Sustainable Mining LLC](innovation-hub/sustainable-mining-llc.md)** | Plasma for clean ore                                      | 2031–2033       | 2–6                                 | innovation-hub/sustainable-mining-llc.md |
+| 10   | **[Lights-Out Sustainable Forestry LLC](innovation-hub/lights-out-sustainable-forestry-llc.md)** | AI selective logging                                      | 2030–2032       | 1.5–4.5                             | innovation-hub/lights-out-sustainable-forestry-llc.md |
+| 11   | **[Maritime & Ports Infrastructure LLC](innovation-hub/maritime-ports-infrastructure-llc.md)** | Ceramic ship cladding                                     | 2032–2034       | 2.5–7                               | innovation-hub/maritime-ports-infrastructure-llc.md |
+| 12   | **[High-Speed Rail & Transport Extensions LLC](innovation-hub/high-speed-rail-transport-llc.md)** | Ceramic tracks                                            | 2033–2035       | 3–8                                 | innovation-hub/high-speed-rail-transport-llc.md |
+| 13   | **[Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-waste-valorization-llc.md)** | Plasma e-waste                                            | 2028–2030       | 2–5                                 | innovation-hub/advanced-recycling-waste-valorization-llc.md |
+| 14   | **[Industrial Gases LLC](innovation-hub/industrial-gases-llc.md)** | ASUs for LOX/LIN/LAR                                      | 2029–2031       | 2.5–7                               | innovation-hub/industrial-gases-llc.md |
+| 15   | **[Mini-Fab & Advanced Fab LLC](innovation-hub/mini-fab-advanced-fab-llc.md)** | Sensors/edge AI                                           | 2029–2031       | 18–81                               | innovation-hub/mini-fab-advanced-fab-llc.md |
+| 16   | **[Robotics & Automation LLC](innovation-hub/robotics-automation-llc.md)** | Swarm bots production                                     | 2030–2032       | 3–10                                | innovation-hub/robotics-automation-llc.md |
+| 17   | **[Consumer Electronics & Appliances LLC](innovation-hub/consumer-electronics-appliances-llc.md)** | DC appliances                                             | 2031–2033       | 3–14                                | innovation-hub/consumer-electronics-appliances-llc.md |
+| 18   | **[Cultured Meat LLC](innovation-hub/cultured-meat-llc.md)** | Bioreactors for proteins                                  | 2032–2034       | 2–8                                 | innovation-hub/cultured-meat-llc.md |
+| 19   | **[Direct Air Capture & Mineralization LLC](innovation-hub/direct-air-capture-mineralization-llc.md)** | DAC with waste heat                                       | 2033–2035       | 0.5–2                               | innovation-hub/direct-air-capture-mineralization-llc.md |
+| 20   | **[Microbial Biosolutions LLC](innovation-hub/microbial-biosolutions-llc.md)** | Inoculants & soil boosts                                  | 2028–2030       | 2–8                                 | innovation-hub/microbial-biosolutions-llc.md |
+| 21   | **[Restoration & Blue-Green Carbon LLC](innovation-hub/restoration-blue-green-carbon-llc.md)** | Wetland/mangrove kits                                     | 2029–2031       | 3–12                                | innovation-hub/restoration-blue-green-carbon-llc.md |
+| 22   | **[Education / Telepresence LLC](innovation-hub/education-telepresence-llc.md)** | VR/Dojo training                                          | 2027–2029       | 1–6                                 | innovation-hub/education-telepresence-llc.md |
+| 23   | **[TerraWell FreeCare Support LLC](innovation-hub/terrawell-freecare-support-llc.md)** | Nonprofit healthcare kits                                 | 2027–2029       | Indirect                    | innovation-hub/terrawell-freecare-support-llc.md |
+| 24   | **[Agroforestry & Silvopasture LLC](innovation-hub/agroforestry-silvopasture-llc.md)** | Perennial polycultures                                    | 2030–2032       | 2–10                                | innovation-hub/agroforestry-silvopasture-llc.md |
+| 25   | **[Dam & River Restoration LLC](innovation-hub/dam-river-restoration-llc.md)** | Dam removal + wetland kits                                | 2031–2033       | 2–8                                 | innovation-hub/dam-river-restoration-llc.md |
+| 26   | **[Smart Infrastructure & Networking LLC](innovation-hub/smart-infrastructure-networking-llc.md)** | Roads/pipes/data kits                                     | 2028–2030       | 5–18                                | innovation-hub/smart-infrastructure-networking-llc.md |
+| 27   | **[Carbon / Biodiversity Credit Platform LLC](innovation-hub/carbon-biodiversity-credit-platform-llc.md)** | Blockchain-verified credits                               | 2030–2032       | 3–12                                | innovation-hub/carbon-biodiversity-credit-platform-llc.md |
+| 28   | **[3D-Printed DME Manufacturing LLC](innovation-hub/3d-printed-dme-manufacturing-llc.md)** | Wheelchairs/crutches/CPAP                                 | 2029–2031       | 1–5                                 | innovation-hub/3d-printed-dme-manufacturing-llc.md |
+| 29   | **[Plasma Vitrification & Recycling LLC](innovation-hub/plasma-vitrification-recycling-llc.md)** | Waste/ore processing                                      | 2028–2030       | 2–8                                 | innovation-hub/plasma-vitrification-recycling-llc.md |
+| 30   | **[Sovereign Semiconductor LLC](innovation-hub/sovereign-semiconductor-llc.md)** | Localized fabs (variants)                                 | 2032–2034       | 10–35                               | innovation-hub/sovereign-semiconductor-llc.md |
+| 31   | **[Localized Pharma & Processing LLC](innovation-hub/localized-pharma-processing-llc.md)** | Cultural/religious adaptations                            | 2030–2032       | 2–8                                 | innovation-hub/localized-pharma-processing-llc.md |
+| 32   | **[Cultural / Religious Accommodation Modules LLC](innovation-hub/cultural-religious-accommodation-modules-llc.md)** | Halal/kosher/Shinto/Buddhist kits                         | 2031–2033       | 1–5                                 | innovation-hub/cultural-religious-accommodation-modules-llc.md |
+
+## Viability Enhancements & Bottleneck Reductions
+
+- **Dense sensor net** + microbial boosts → +20–40% yields; parallel tanks reduce testing bottlenecks 70–90%  
+- **Innovation hub LLC decentralization** — spreads risk/burnout; failure isolation  
+- **Early self-funding focus** — Month 2–4 per hub via tiles/greens/biogas  
+- **Cultural modularization** — plug-in kits accelerate global adoption  
+- **Infrastructure recycling** — RCA + ceramics reduce material bottlenecks 50–80%  
+- **Off-world prep** — sensor nets on Earth prototypes lunar/Mars data moat  
+
+**License Notice**  
+This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+You may share and adapt provided appropriate credit is given.
+
+https://creativecommons.org/licenses/by/4.0/  
+
+**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
+(Attribution appreciated when sharing or building upon this framework)
