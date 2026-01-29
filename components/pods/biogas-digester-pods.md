@@ -16,12 +16,6 @@ The Biogas Digester Pod is a core energy production module in the Genesis Networ
 | [Insulating Tiles](components/tiles/insulating-tiles.md) | Thermal mass walls for temperature stability; indoor AWG recapture, micro-piezo sensors   | Bagasse pore-formers, residues       | Mixing, pressing, firing, embedding                        | 1.7–3.0     | 5.5–9.5                |
 | [Structural Load-Bearing Tiles](components/tiles/structural-load-bearing-tiles.md) | Foundations and tanks; piezoelectric vibration harvesting, strain/thermal sensors          | ELFM slag (70%), brownfield          | Extrusion, drying, high-temp firing, sensor integration    | 1.8–3.2     | 5.5–8.5                |
 
-## Pods
-
-| Name (Hyperlinked)                          | Description & Key Features                                                                 | Inputs/Materials                     | Manufacturing Process                                      | Cost ($M) | Revenue/Value ($M) |
-|---------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------|-----------|---------------------|
-| [Biogas Digester Pod](components/pods/biogas-digester-pods.md) | Anaerobic digestion tanks, gas upgrading, microturbine; pre-inoculated for quick startup  | Ceramic lining, waste organics       | Pod assembly from tiles, embedding sensors & components    | 0.8–2.5  | 1.5–5.0             |
-
 ## Kits
 
 | Name (Hyperlinked)                          | Description & Key Features                                                                 | Inputs/Materials                     | Manufacturing Process                                      | Cost ($M) | Revenue/Value ($M) |
