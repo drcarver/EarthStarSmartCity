@@ -1,123 +1,72 @@
 ---
 layout: default
-title: Genesis Network – Complete Inventory of Tiles, Pods, Kits, Sensors, Standards & LLCs
-description: Detailed tables for all tiles, pods, kits, sensors, standards, and LLCs in the Genesis Network, with manufacturing, inputs, materials, costs, revenues, smart airlocks, smart city/sustainable building compliance, sensor handbook, and viability enhancements (January 2026 baseline).
+title: Ceramic Tile & Infrastructure LLC – Detailed Specification
+description: Professional single-page spec sheet for the Ceramic Tile & Infrastructure LLC, including executive overview, relevant components, and viability notes (January 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Complete Inventory: Tiles, Pods, Kits, Sensors, Standards & LLCs**  
-**With Manufacturing, Financials & Viability Enhancements – January 2026 Baseline**
+# Ceramic Tile & Infrastructure LLC  
+**Detailed Specification – January 2026 Baseline**
 
-## Manufacturing & Construction Principles
+The Ceramic Tile & Infrastructure LLC is responsible for producing the foundational toughened ceramic tiles and smart infrastructure components that enable the Genesis Network's regenerative, modular architecture. Its mission is to manufacture waste-derived tiles with embedded smart features (BIPV, AWG, piezo, sensors) for structural, cladding, and infrastructure applications, achieving 70–95% waste utilization and self-powered functionality. Core products include load-bearing tiles, smart roads/pipes, and related kits; services encompass custom infrastructure upgrades. Timeline: Operational from 2027 (pilot factories); mature scale by 2035 (500–1,000 sites). Revenue role: Generates $43–$140B/year network-wide by 2040s through tile sales, infrastructure contracts, and kit licensing (58–85% margins).
 
-All **tiles**, **pods**, and **kits** are produced in on-site **Tile & Pipe Production Factories** (pod-based bootstrap → permanent clusters). Inputs: 70–95% waste-derived (C&D slag, RHA silica, residues, ELFM/brownfield). Process: Mixing, extrusion, drying, firing (1,200–1,400°C), embedding.  
+## Tiles
 
-All buildings constructed using **tiles**, ceramics, and **kits** only — no virgin concrete/steel post-Phase 2. **Smart airlocks** in every building: Dual-chamber with mmWave radar + hyperspectral scanning for weapons/explosives/pathogens; alerts on-site security + hub AI. Compliance: MIL-STD-810 ruggedness, ISO/TC 268 smart cities.  
+| Name (Hyperlinked)                  | Description & Key Features                                   | Inputs/Materials (70–95% Waste-Derived) | Manufacturing Process                     | Cost ($/ft²) | Revenue/Value ($/ft²) |
+|-------------------------------------|--------------------------------------------------------------|------------------------------------------|-------------------------------------------|--------------|-----------------------|
+| [Roof Glazing (Semi-Trans)](components/tiles/roof-glazing-semi-trans.md) | Semi-transparent BIPV 10–30%, full AWG, PAR/thermal sensors | RHA silica (80%), residues               | Mixing, extrusion, firing, embedding      | 2.8–5.0      | 8.5–14.5              |
+| [Exterior Cladding](components/tiles/exterior-cladding.md) | Supplementary BIPV 8–22%, AWG, strain/vibration sensors      | C&D slag (60%), residues                 | Mixing, pressing, firing, embedding       | 2.5–4.5      | 7.5–13.0              |
+| [Structural Load-Bearing](components/tiles/structural-load-bearing.md) | Piezoelectric 20–60/m², strain/thermal sensors               | ELFM slag (70%), brownfield              | Pressing, firing, piezo embedding         | 1.8–3.2      | 5.5–8.5               |
+| [Insulating / Partitions](components/tiles/insulating-partitions.md) | Indoor AWG recapture, micro-piezo, thermal sensors           | Bagasse pore-formers, residues           | Aerated mixing, firing, channel embedding | 1.7–3.0      | 5.5–9.5               |
+| [Permeable Roads / Paths](components/tiles/permeable-roads-paths.md) | Piezoelectric (traffic), stormwater capture, acoustic sensors | C&D slag (75%)                           | Porous pressing, firing, sensor embedding | 2.2–3.8      | 6.8–11.5              |
+| [Networking Snap Tile](components/tiles/networking-snap-tile.md) | Inductive power, mmWave/waveguide data                       | Ceramic + waveguide layers               | Firing, embedding                         | 8–18         | 25–60                 |
 
-Smart city standards: ISO/TC 268, IEEE 2030, ITU-T Y.4900, Matter/Thread. Sustainable building codes: ISO 14001, Cradle-to-Cradle, passive-dominant design + waste heat recovery.  
+## Pods
 
-Viability enhancements: Sensor nets for compliance/optimization, microbial boosts (+10–30% yields), blockchain credits ($150–250/tCO₂e), farmer co-ops for political shield, infrastructure recycling (RCA + ceramic cladding) to reduce mining 50–80%.
+| Name (Hyperlinked)                  | Description & Key Features                                   | Inputs/Materials (70–95% Waste-Derived) | Manufacturing Process                     | Cost ($M) | Revenue/Value ($M) |
+|-------------------------------------|--------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------|--------------------|
+| [Tile & Pipe Production](components/pods/tile-pipe-production.md) | Kilns, presses, robotic handling, feedstock hoppers          | Waste slag/RHA/residues                  | Assembly from tiles/kits                  | 4–12      | 8–25               |
+| [Smart Infrastructure](components/pods/smart-infrastructure.md) | Piezo/solar tiles, PoE injectors, waveguide extensions       | Ceramic + electronics                    | Tile-based assembly                       | 0.6–2.0   | 1.5–6              |
 
-## Tiles Table
+## Kits
 
-| Tile Type | Primary Use | Features | Materials / Inputs | Cost ($/ft²) | Revenue ($/ft²) |
-|-----------|-------------|----------|---------------------|--------------|-----------------|
-| **[Roof Glazing](components/tiles/roof-glazing.md)** | Greenhouses/roofs | Semi-transparent BIPV + AWG | RHA silica, residues | 2.8–5.0 | 8.5–14.5 |
-| **[Exterior Cladding](components/tiles/exterior-cladding.md)** | Facades/pod shells | BIPV + AWG + sensors | C&D slag, residues | 2.5–4.5 | 7.5–13.0 |
-| **[Structural Load-Bearing](components/tiles/structural-load-bearing.md)** | Foundations/floors | Piezo + strain sensors | ELFM slag, brownfield | 1.8–3.2 | 5.5–8.5 |
-| **[Insulating Partitions](components/tiles/insulating-partitions.md)** | Walls/partitions | Indoor AWG + micro-piezo | Bagasse, residues | 1.7–3.0 | 5.5–9.5 |
-| **[Permeable Roads](components/tiles/permeable-roads.md)** | Paths/drainage | Piezo + stormwater | C&D slag | 2.2–3.8 | 6.8–11.5 |
-| **[Compute Server Tile](components/tiles/compute-server-tile.md)** | Embedded compute | RISC-V module pocket | Ceramic + electronics | 12–28 | 35–90 |
-| **[Networking Snap Tile](components/tiles/networking-snap-tile.md)** | Data/power bridging | Inductive + mmWave | Ceramic + waveguide | 8–18 | 25–60 |
-| **[Smart Furniture Surface](components/tiles/smart-furniture-surface.md)** | Tables/counters | MicroLED + haptics | Ceramic + display | 15–35 | 40–100 |
+| Name (Hyperlinked)                  | Description & Key Features                                   | Inputs/Materials (70–95% Waste-Derived) | Manufacturing Process                     | Cost ($M) | Revenue/Value ($M) |
+|-------------------------------------|--------------------------------------------------------------|------------------------------------------|-------------------------------------------|-----------|--------------------|
+| [Tile & Pipe Production Kit](components/kits/tile-pipe-production-kit.md) | Mixers, presses, portable kilns, molds                       | Waste slag/RHA                           | Flat-pack from factory                    | 4–12      | 8–25               |
+| [Smart Infrastructure & Networking Kit](components/kits/smart-infrastructure-networking-kit.md) | Piezo/solar tiles, PoE injectors, waveguide extensions       | Ceramic + electronics                    | Flat-pack assembly                        | 0.6–2.0   | 1.5–6              |
+| [Dam & River Restoration Module](components/kits/dam-river-restoration-module.md) | Demolition tools, sediment bioreactors                       | Ceramic components                       | Flat-pack from factory                    | 0.4–1.5   | 1–4                |
 
-## Pods Table
+## Sensors
 
-| Pod Type | Primary Function | Features | Materials / Inputs | Cost ($M) | Revenue ($M) |
-|----------|------------------|----------|---------------------|-----------|--------------|
-| **[Tile Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** | Manufacturing | Kilns, presses | Waste slag/RHA | 4–12 | 8–25 |
-| **[Aquaponics Pod](components/pods/aquaponics-pod.md)** | Protein/greens | Tanks, BSFL bins | Ceramic, sensors | 0.18–0.32 | 0.4–1.2 |
-| **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)** | Energy/fertilizer | Tanks, microturbine | Ceramic lining | 0.8–2.5 | 1.5–5.0 |
-| **[Livestock Pod](components/pods/livestock-pod.md)** | Dairy/meat/fiber | Robotic milking | Ceramic pens | 0.6–1.8 | 1.2–4.5 |
-| **[Dwarf Orchard Pod](components/pods/dwarf-orchard-pod.md)** | Fruit/nut trees | Pots, trellises | Ceramic supports | 0.3–0.9 | 0.7–2.5 |
-| **[Beehive Pod](components/pods/beehive-pod.md)** | Pollination/honey | Hives, tubes | Ceramic housing | 0.08–0.25 | 0.2–0.8 |
-| **[Microbial Inoculant Pod](components/pods/microbial-inoculant-pod.md)** | Yield boosts | Fermenters | Ceramic vessels | 0.05–0.15 | 0.15–0.5 |
-| **[Automated Processing Pod](components/pods/automated-processing-pod.md)** | Food value-add | Ovens, lines | Ceramic shells | 0.4–1.2 | 0.8–3.0 |
-| **[Mini-Fab Pod](components/pods/mini-fab-pod.md)** | Sensors/AI | Cleanrooms, tools | Ceramic shells | 120–280 | 180–480 |
-| **[TerraWell Pod](components/pods/terrawell-pod.md)** | Healthcare | Exam rooms, printers | Ceramic modular | 0.38–6.4 | N/A (nonprofit) |
+| Name (Hyperlinked)                  | Description & Key Features                                   | Inputs/Materials (70–95% Waste-Derived) | Manufacturing Process                     | Cost ($/unit) | Revenue/Value ($/unit) |
+|-------------------------------------|--------------------------------------------------------------|------------------------------------------|-------------------------------------------|---------------|------------------------|
+| [Structural Sensors](docs/sensors/structural-sensors.md) | Strain, vibration, tilt, crack detection                     | Ceramic embeds                           | Embedding during firing                   | 5–15          | 15–45                  |
+| [Environmental Sensors](docs/sensors/environmental-sensors.md) | Temperature, humidity, PAR, VOC, CO₂                         | Ceramic + silicon                        | Embedding during firing                   | 4–12          | 12–35                  |
+| [Power / Energy Sensors](docs/sensors/power-energy-sensors.md) | Voltage, current, piezo output, BIPV soiling                 | Ceramic + silicon                        | Embedding during firing                   | 6–18          | 18–50                  |
+| [Water Sensors](docs/sensors/water-sensors.md) | Flow, pH, EC, turbidity, AWG quality                         | Ceramic + silicon                        | Embedding during firing                   | 5–15          | 15–40                  |
 
-## Kits Table
+## Standards & Compliance
 
-| Kit Name | Purpose | Components | Materials / Inputs | Cost ($M) | Revenue ($M) |
-|----------|---------|------------|---------------------|-----------|--------------|
-| **[Tile Pipe Production Kit](components/kits/tile-pipe-production-kit.md)** | Factory bootstrap | Mixers, kilns | Waste slag/RHA | 4–12 | 8–25 |
-| **[Aquaponics Kit](components/kits/aquaponics-kit.md)** | Protein/greens | Tanks, rafts | Ceramic, sensors | 0.18–0.32 | 0.4–1.2 |
-| **[Biogas Kit](components/kits/biogas-kit.md)** | Energy | Tanks, turbine | Ceramic lining | 0.8–2.5 | 1.5–5.0 |
-| **[Livestock Kit](components/kits/livestock-kit.md)** | Dairy/meat | Pens, robotics | Ceramic | 0.6–1.8 | 1.2–4.5 |
-| **[Orchard Kit](components/kits/orchard-kit.md)** | Fruit/nut | Pots, trellises | Ceramic | 0.3–0.9 | 0.7–2.5 |
-| **[Beehive Kit](components/kits/beehive-kit.md)** | Pollination | Hives, tubes | Ceramic | 0.08–0.25 | 0.2–0.8 |
-| **[Microbial Kit](components/kits/microbial-kit.md)** | Yields | Fermenters | Ceramic | 0.05–0.15 | 0.15–0.5 |
-| **[Processing Cluster Kit](components/kits/processing-cluster-kit.md)** | Food add-value | Ovens, lines | Ceramic | 2–6 | 4–15 |
-| **[Restoration Kit](components/kits/restoration-kit.md)** | Blue/green carbon | Planting tools | Ceramic | 0.2–0.8 | 0.5–2.5 |
-| **[Agroforestry Kit](components/kits/agroforestry-kit.md)** | Perennials/grazing | Trellises, drones | Ceramic | 0.15–0.6 | 0.4–1.8 |
-| **[Dam River Kit](components/kits/dam-river-kit.md)** | Removal/restoration | Demolition tools | Ceramic | 0.4–1.5 | 1–4 |
-| **[Smart Infrastructure Kit](components/kits/smart-infrastructure-kit.md)** | Roads/pipes | Tiles, waveguide | Ceramic | 0.6–2.0 | 1.5–6 |
-| **[Education Kit](components/kits/education-kit.md)** | Training/VR | VR stations | Ceramic | 0.1–0.4 | 0.3–1.2 |
-| **[TerraWell Kit](components/kits/terrawell-kit.md)** | Healthcare | Rooms, printers | Ceramic | 0.38–6.4 | N/A |
-| **[Mini-Fab Kit](components/kits/mini-fab-kit.md)** | Sensors/AI | Cleanrooms, tools | Ceramic | 120–280 | 180–480 |
+| Name (Hyperlinked)                  | Description & Key Features                                   | Inputs/Materials (70–95% Waste-Derived) | Manufacturing Process                     | Cost (N/A) | Revenue/Value (N/A) |
+|-------------------------------------|--------------------------------------------------------------|------------------------------------------|-------------------------------------------|------------|---------------------|
+| [ISO/TC 268](docs/standards/iso-tc-268.md) | Sustainable cities & communities                             | N/A                                      | Compliance during design/firing           | N/A        | N/A                 |
+| [IEEE 2030](docs/standards/ieee-2030.md) | Smart grid interoperability                                  | N/A                                      | Embedding standards                       | N/A        | N/A                 |
+| [ITU-T Y.4900](docs/standards/itu-t-y4900.md) | Smart sustainable cities KPIs                                | N/A                                      | Sensor integration                        | N/A        | N/A                 |
+| [ISO 14001](docs/standards/iso-14001.md) | Environmental management                                     | N/A                                      | Waste-derived process                     | N/A        | N/A                 |
+| [Cradle-to-Cradle](docs/standards/cradle-to-cradle.md) | Circular materials certification                             | N/A                                      | Design for recyclability                  | N/A        | N/A                 |
 
-## Sensor Handbook
+## Related / Supporting LLCs in the Innovation Hub
 
-**Purpose**: **Dense sensor nets** enable the data moat, predictive optimization, compliance, security, and off-world planning. 3–5× redundancy per measurement.
+| Name (Hyperlinked)                  | Description & Key Features                                   | Inputs/Materials (70–95% Waste-Derived) | Manufacturing Process                     | Cost (N/A) | Revenue/Value (N/A) |
+|-------------------------------------|--------------------------------------------------------------|------------------------------------------|-------------------------------------------|------------|---------------------|
+| [Sustainable Mining LLC](innovation-hub/sustainable-mining-llc.md) | Plasma vitrification for slag feedstock                       | Ore/waste                                | Plasma processing                         | N/A        | N/A                 |
+| [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) | E-waste/criticals recovery for embeds                        | Waste streams                            | Plasma/crushing                           | N/A        | N/A                 |
+| [Mini-Fab LLC](innovation-hub/mini-fab-llc.md) | Sensors/electronics embedding                                | Silicon/residues                         | Cleanroom assembly                        | N/A        | N/A                 |
+| [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) | Waste heat recovery for kilns                                | Biogas/residues                          | Integration                               | N/A        | N/A                 |
 
-**Sensor Types & Specs**
+## Viability & Integration Notes
 
-| Category | Types | Function | Integration | Lifespan/Cost |
-|----------|-------|----------|-------------|---------------|
-| **Environmental** | Temp/humidity/PAR/VOC/CO₂ | Climate/stress monitoring | All **tiles**/pods | 10–15 years/$5–20 |
-| **Structural** | Strain/vibration/tilt | Maintenance/seismic | Load-bearing **tiles** | 15–25 years/$10–30 |
-| **Power** | Voltage/current/piezo | Harvest optimization | BIPV/piezo **tiles** | 10–20 years/$8–25 |
-| **Water** | Flow/pH/EC/turbidity | Closure/safety | AWG/plumbing **tiles** | 8–12 years/$15–40 |
-| **Security** | mmWave radar/hyperspectral/acoustic | Weapon/explosive/pathogen detection | All airlocks/perimeters | 10–15 years/$50–150 |
-| **Biological** | Microbial/nutrient/root | Yield/inoculant optimization | Aquaponics/agroforestry | 5–10 years/$20–60 |
-| **Off-World** | Radiation/regolith/seismic | ISRU/habitat monitoring | Lunar/Mars pods | 20–30 years/$100–300 |
-
-**Standards**: IEEE 1451, OGC SWE, ISO 14001. **Viability**: +25–40% via 10–50× experiments/year.
-
-## Standards List
-
-- **[ISO/TC 268](docs/standards/smart-cities.md)**: Smart cities  
-- **[IEEE 2030](docs/standards/smart-grid.md)**: Smart grid  
-- **[ITU-T Y.4900](docs/standards/sustainable-cities.md)**: Sustainable cities  
-- **[Matter/Thread](docs/standards/home-automation.md)**: Home automation  
-- **[ISO 14001](docs/standards/environmental-management.md)**: Environmental management  
-- **[Cradle-to-Cradle](docs/standards/cradle-to-cradle.md)**: Sustainable materials  
-
-## Pods List (All Ceramic-Constructed)
-
-- **[Tile Production Pod](components/pods/tile-production-pod.md)**  
-- **[Aquaponics Pod](components/pods/aquaponics-pod.md)**  
-- **[Biogas Pod](components/pods/biogas-pod.md)**  
-- **[Livestock Pod](components/pods/livestock-pod.md)**  
-- **[Orchard Pod](components/pods/orchard-pod.md)**  
-- **[Beehive Pod](components/pods/beehive-pod.md)**  
-- **[Microbial Pod](components/pods/microbial-pod.md)**  
-- **[Processing Pod](components/pods/processing-pod.md)**  
-- **[Mini-Fab Pod](components/pods/mini-fab-pod.md)**  
-- **[TerraWell Pod](components/pods/terrawell-pod.md)**  
-
-## Viability Enhancements & Bottleneck Reductions
-
-- **Sensor nets** for compliance/optimization → +25–40% efficiency  
-- **Microbial kits** → +10–30% yields, reduced soil dependency  
-- **Infrastructure recycling** → 15–30% CAPEX savings, mining minimized  
-- **Co-op/LLC decentralization** → antitrust mitigation, faster scaling  
-- **Early revenue lock-in** → Month 2–4 cash-positive per hub  
-- **Cultural modules** → plug-in adaptations for global adoption  
-- **Off-world path** → long-term resilience  
-
-**Recalculated Costs/Revenues**: Tiles/pods/kits margins 58–85%; network revenue $43–$140B/year (2040s).
+This LLC is the cornerstone of the Genesis Network, providing resilient, regenerative building blocks for all hubs and affiliates. Viability rating: 9/10 – low-risk manufacturing with high margins (58–85%) and immediate revenue from tile sales/contracts. Integrates seamlessly with waste-valorization LLCs for inputs and infrastructure kits for deployment; smart airlocks (mmWave/hyperspectral scanning for weapons/explosives) embedded in all building tiles for security alerts. Supports all smart city (ISO/TC 268, IEEE 2030) and sustainable building codes (ISO 14001, Cradle-to-Cradle) through design.
 
 **License Notice**  
 This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
