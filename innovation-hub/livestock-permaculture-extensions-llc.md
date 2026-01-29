@@ -1,84 +1,104 @@
 ---
 layout: default
-title: Livestock & Permaculture Extensions LLC
-description: Detailed specification for Livestock & Permaculture Extensions LLC within the Genesis Network Innovation Hub, focusing on large and specialty livestock pods, permaculture integration, staggered production, and regenerative outputs.
+title: Livestock & Permaculture Extensions LLC – Detailed Specification
+description: Comprehensive overview of the Livestock & Permaculture Extensions LLC, including integration with staggered delivery, pods, kits, sensors, standards, and related LLCs in the Genesis Network (January 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Livestock & Permaculture Extensions LLC  
-**Genesis Network Innovation Hub – Component Specification**
+**Detailed Specification & Integration Framework**  
+**January 2026 Baseline**
 
-**Suggested File Path**: `strategy/llcs/livestock-permaculture-extensions.md`
-
-**© 2025–2026 EarthStar Technologies – Licensed under CC BY 4.0**  
+**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
+Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
 https://creativecommons.org/licenses/by/4.0/
 
-## 1. Overview & Mission
+## Executive Summary
 
-**Livestock & Permaculture Extensions LLC** is responsible for the design, production, deployment, and optimization of all **[livestock pods](components/pods/livestock-pods.md)** and **[permaculture integration systems](components/permaculture-extensions.md)** within the Genesis Network. The LLC focuses on regenerative animal husbandry, multi-species silvopasture, and agroforestry systems that deliver continuous, high-value outputs (milk, meat, fiber, eggs, offspring) while enhancing soil health, biodiversity, and carbon sequestration.
+The **Livestock & Permaculture Extensions LLC** focuses on sustainable dairy, meat, and fiber production through integrated livestock pods, staggered delivery cycles for continuous output, and permaculture extensions. It leverages regenerative practices to achieve 95–99% resource closure, with manure-to-biogas integration as a core feature. Timeline: Operational pilots in 2028–2030, with 3–10 initial hubs. Revenue potential: $5–18B/year network-wide mature (2040s), driven by premium proteins, fibers, and biogas byproducts.
 
-Key objectives:
-- Achieve year-round production via AI-managed staggered breeding/delivery cycles
-- Integrate livestock with **[hybrid aquaponics](components/pods/aquaponics-pods.md)** and **[agroforestry expansion kits](components/kits/agroforestry-expansion-kit.md)** for nutrient cycling
-- Prioritize animal welfare, biosecurity, and robotic automation
-- Support region-specific variants (e.g., bison in plains, alpaca in highlands)
-- Contribute to Network closure (manure → biogas → energy; waste → biochar/inoculants)
+Key integrations include **livestock pods** for housing and automation, manure slurry piped to **biogas digesters**, and permaculture zones for grazing under agroforestry. All components manufactured using **ceramic tiles** from the tile factory, with embedded **sensors** for monitoring and optimization.
 
-## 2. Core Pod Variants
+## 1. Core Functions & Operations
 
-All pods are 40 ft high-cube ISO containers evolving to full ceramic shells, with **[smart airlocks](docs/standards/smart-airlocks.md)**, hyper-dense sensors, and bidirectional slurry piping.
+- **Dairy/Meat/Fiber Production**: Multi-species husbandry (cattle, goats, sheep, alpaca) with robotic milking/shearing and AI-managed breeding for staggered delivery (4–8 phases/year → continuous output).  
+- **Permaculture Integration**: Rotational grazing under fruit/nut trees, enhancing sequestration and biodiversity.  
+- **Manure-to-Biogas**: Automated slurry collection piped to digesters for energy and digestate fertilizer.  
+- **Viability Enhancements**: Microbial inoculants boost health/yields (+10–20%); dense sensor nets enable predictive care.  
 
-| Pod Variant                        | Primary Species                          | Capacity (Adults) | Key Features                                      | Outputs (Annual per Pod, Mature) | Revenue Potential ($/pod/year) |
-|------------------------------------|------------------------------------------|-------------------|---------------------------------------------------|----------------------------------|--------------------------------|
-| **[Large Animal Pod](components/pods/large-animal-pod.md)** | Cattle (dairy/beef), Horses, Bison       | 10–35             | Robotic milking, climate control, rotational grazing linkage | Milk/meat/offspring/manure       | $800k–$2.2M                    |
-| **[Specialty Livestock Pod](components/pods/specialty-livestock-pod.md)** | Goats, Sheep, Alpaca, Llamas, Emu/Ostrich | 25–80             | Multi-level pens, automated shearing/egg collection | Milk/fiber/meat/eggs/feathers    | $600k–$1.8M                    |
-| **[Poultry/Eggs Pod](components/pods/poultry-eggs-pod.md)** | Chickens, Ducks, Turkeys                 | 200–500           | Staggered hatching, robotic feeding/collection    | Eggs/meat                        | $400k–$1.2M                    |
+## 2. Tiles Table (All Required for LLC Structures)
 
-**Staggered Delivery System** (All Pods)  
-- AI-optimized natural breeding in 4–8 overlapping phases/year  
-- Continuous output: Daily milk/eggs, monthly fiber/meat, quarterly offspring  
-- Benefits: Revenue stability, balanced digester loads, robotic efficiency
+| Tile Type                          | Use in LLC                                  | File Path Suggestion                          |
+|------------------------------------|---------------------------------------------|-----------------------------------------------|
+| **Structural Load-Bearing Tiles**  | Foundations and pens                        | [Structural Load-Bearing Tiles](components/tiles/structural-load-bearing-tiles.md) |
+| **Insulating Tiles**               | Thermal control in pods                     | [Insulating Tiles](components/tiles/insulating-tiles.md) |
+| **Permeable Road Tiles**           | Paddock paths and drainage                  | [Permeable Road Tiles](components/tiles/permeable-road-tiles.md) |
+| **Roof Glazing Tiles**             | Natural light in enclosures                 | [Roof Glazing Tiles](components/tiles/roof-glazing-tiles.md) |
+| **Exterior Cladding Tiles**        | Pod shells and weatherproofing              | [Exterior Cladding Tiles](components/tiles/exterior-cladding-tiles.md) |
 
-## 3. Permaculture & Integration Systems
+## 3. Pods Table (All Required for LLC Operations)
 
-- **Silvopasture Linkage**: Grazing under **[transplanted orchard trees](components/kits/orchard-transplant-kit.md)** and agrivoltaics  
-- **Waste Cycling**: Manure slurry → **[biogas digester pods](components/pods/biogas-digester-pod.md)** → energy + digestate fertilizer  
-- **Fiber/Hide Processing**: Integration with **[automated biorefinery](components/pods/biorefinery-pod.md)** for textiles/leather  
-- **Region-Specific**: Bison (plains), alpaca (highlands), ostrich (warm climates)
+| Pod Type                           | Use in LLC                                  | File Path Suggestion                          |
+|------------------------------------|---------------------------------------------|-----------------------------------------------|
+| **Livestock Pods**                 | Housing for large/specialty animals         | [Livestock Pods](components/pods/livestock-pods.md) |
+| **Biogas Digester Pods**           | Manure processing                           | [Biogas Digester Pods](components/pods/biogas-digester-pods.md) |
+| **Aquaponics Pods**                | Feed integration from greens                | [Aquaponics Pods](components/pods/aquaponics-pods.md) |
+| **Agroforestry Pods**              | Permaculture grazing zones                  | [Agroforestry Pods](components/pods/agroforestry-pods.md) |
 
-## 4. Dedicated Sensor List for Livestock & Permaculture Pods
+## 4. Kits Table (All Required for LLC Deployment)
 
-| Sensor Type                  | Measured Parameter(s)                          | Location / Application                           | Redundancy | Power Source | Standards Alignment |
-|------------------------------|------------------------------------------------|--------------------------------------------------|------------|--------------|---------------------|
-| mmWave Vitals                | Heart/respiration rate, movement               | Individual animal monitoring                     | 4×         | Piezo/BIPV   | MIL-STD-810         |
-| VOC / Ammonia                | Air quality, early disease detection           | Pens, airlocks                                   | 5×         | Piezo        | ISO 14001           |
-| Thermal / Humidity           | Microclimate control                           | Pens, grazing paddocks                           | 3×         | BIPV         | NASA-STD-3001       |
-| Strain / Weight              | Structural integrity, animal weight            | Pens/floors                                      | 4×         | Piezo        | IEEE 1451           |
-| Multispectral Imaging        | Plant health (grazing zones), coat/skin condition | Pastures, animal close-up                        | 3×         | BIPV         | OGC SWE             |
-| Acoustic / Vibration         | Behavior monitoring, structural                 | Pens, fencing                                    | 3×         | Piezo        | ITU-T Y.4900        |
+| Kit Name                           | Use in LLC                                  | File Path Suggestion                          |
+|------------------------------------|---------------------------------------------|-----------------------------------------------|
+| **Livestock Pod Kit**              | Modular animal housing setup                | [Livestock Pod Kit](components/kits/livestock-pod-kit.md) |
+| **Manure-to-Biogas Kit**           | Slurry piping and integration               | [Manure-to-Biogas Kit](components/kits/manure-to-biogas-kit.md) |
+| **Permaculture Extension Kit**     | Grazing and tree integration                | [Permaculture Extension Kit](components/kits/permaculture-extension-kit.md) |
+| **Microbial Inoculant Kit**        | Health and yield boosts                     | [Microbial Inoculant Kit](components/kits/microbial-inoculant-kit.md) |
+| **Robotics & Automation Kit**      | Milking/shearing robots                     | [Robotics & Automation Kit](components/kits/robotics-and-automation-kit.md) |
 
-**Sensor Handbook Notes**  
-- All data feeds local digital twin → federated learning for health/breeding optimization  
-- Edge AI for real-time alerts (disease, stress, structural issues)  
-- Privacy: Animal data only; no human tracking in grazing zones
+## 5. Sensors Table (All Required for LLC Monitoring)
 
-## 5. Manufacturing, Inputs & Economics
+| Sensor Type                        | Use in LLC                                  | File Path Suggestion                          |
+|------------------------------------|---------------------------------------------|-----------------------------------------------|
+| **Environmental Sensors**          | Climate and air quality in pods             | [Environmental Sensors](docs/sensors/environmental-sensors.md) |
+| **Structural Sensors**             | Strain/vibration in enclosures              | [Structural Sensors](docs/sensors/structural-sensors.md) |
+| **Biological Sensors**             | Animal health and manure quality            | [Biological Sensors](docs/sensors/biological-sensors.md) |
+| **Security Sensors**               | Biosecurity and anomaly detection           | [Security Sensors](docs/sensors/security-sensors.md) |
 
-- **Manufacturing**: All pods/kits produced in **[Tile & Pipe Production Pods](components/pods/tile-production-pod.md)** → permanent factories  
-- **Inputs**: 70–95% waste-derived (C&D slag, farm residues, ELFM)  
-- **Materials**: Toughened ceramic shells + robotics + sensors  
-- **Production Cost**: $0.7–$2.5M per pod (scale economies post-2030)  
-- **Selling Price**: $1.5–$6.0M per pod (internal + affiliate sales)  
-- **Revenue Potential (Network-wide, mature)**: $5–$20B/year (pods + outputs)
+## 6. Standards Table (All Required for LLC Compliance)
 
-## 6. Viability Enhancements
+| Standard                           | Use in LLC                                  | File Path Suggestion                          |
+|------------------------------------|---------------------------------------------|-----------------------------------------------|
+| **ISO 11783 (ISOBUS)**             | Agricultural automation interface           | [ISO 11783 (ISOBUS)](docs/standards/iso-11783-isobus.md) |
+| **ISO 14001 (Environmental Mgmt)** | Sustainable operations                      | [ISO 14001 (Environmental Mgmt)](docs/standards/iso-14001-environmental-mgmt.md) |
+| **GlobalG.A.P.**                   | Good Agricultural Practices                 | [GlobalG.A.P.](docs/standards/global-gap.md) |
+| **MIL-STD-810 (Ruggedness)**       | Equipment durability                        | [MIL-STD-810 (Ruggedness)](docs/standards/mil-std-810-ruggedness.md) |
 
-- **Staggered Delivery**: Eliminates seasonal gaps; +15–25% revenue stability  
-- **Robotic Welfare**: Reduces labor; improves health monitoring  
-- **Regenerative Integration**: Manure → biogas → energy closure  
-- **Region-Specific**: Custom variants accelerate affiliate adoption  
+## 7. Other LLCs Table (Related / Supporting LLCs)
 
-**CC-BY-4.0 License Notice**  
-This work is licensed under Creative Commons Attribution 4.0 International.  
+| LLC Name                           | Role in Support of This LLC                 | File Path Suggestion                          |
+|------------------------------------|---------------------------------------------|-----------------------------------------------|
+| **Sustainable Energy LLC**         | Biogas integration                          | [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) |
+| **Regenerative Pharmaceuticals LLC** | Animal health products                    | [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) |
+| **Lights-Out Sustainable Forestry LLC** | Permaculture synergies                  | [Lights-Out Sustainable Forestry LLC](innovation-hub/lights-out-sustainable-forestry-llc.md) |
+| **Advanced Recycling LLC**         | Manure/waste processing                     | [Advanced Recycling LLC](innovation-hub/advanced-recycling-llc.md) |
+
+## 8. Manufacturing, Inputs, Materials, Costs & Revenues
+
+- **Manufacturing**: All components produced in **Tile & Pipe Production Pods**; waste-derived ceramics for shells/structures.  
+- **Input Sources**: 70–95% waste (manure, farm residues, C&D slag, ELFM).  
+- **Materials**: Toughened ceramics, embedded sensors, robotic elements.  
+- **Costs**: CAPEX $0.6–$1.8M per pod; OPEX $0.2–$0.8M/year mature.  
+- **Revenues**: $1.2–$4.5M/pod/year (proteins, fibers, biogas); network-wide $5–$18B/year (2040s).  
+
+**Smart Airlocks**: Integrated in all LLC buildings; hyperspectral scanning for weapons/explosives → alerts security (mmWave + AI).  
+
+**Viability Enhancements**: Microbial boosts for health; sensor nets for predictive care; co-op models for scaling.
+
+**License Notice**  
+This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+You may share and adapt provided appropriate credit is given.
+
 https://creativecommons.org/licenses/by/4.0/  
-**© 2025–2026 EarthStar Technologies** – All rights reserved under applicable law.
+
+**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
+(Attribution appreciated when sharing or building upon this framework)
