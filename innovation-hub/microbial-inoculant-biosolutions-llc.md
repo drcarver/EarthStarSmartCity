@@ -1,100 +1,85 @@
 ---
 layout: default
-title: Microbial Inoculant & Biosolutions LLC – Detailed Specification
-description: Comprehensive overview of the Microbial Inoculant & Biosolutions LLC within the Genesis Network Innovation Hub, including production, integration, sensors, financials, and viability enhancements.
+title: Genesis Network – Comprehensive Component Catalog
+description: Detailed tables listing all tiles, pods, kits, sensors, standards, and LLCs in the Genesis Network, with manufacturing details, inputs, materials, costs, revenues, and viability enhancements (January 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Microbial Inoculant & Biosolutions LLC  
-**Detailed Specification**  
-**Genesis Network Innovation Hub – January 2026 Baseline**
+# Genesis Network  
+**Comprehensive Component Catalog**  
+**Tiles, Pods, Kits, Sensors, Standards & LLCs**  
+**January 2026 Baseline**
 
-**© 2025–2026 EarthStar Technologies – Licensed under CC BY 4.0**  
+**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
+Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
 https://creativecommons.org/licenses/by/4.0/
 
-**Suggested File Path for this Document**:  
-`innovation-hub/microbial-inoculant-biosolutions-llc.md`
+## Tiles Table
 
-## 1. Overview & Mission
+All **tiles** are manufactured in on-site **Tile & Pipe Production Factories** (pod-based initially, permanent clusters later). Inputs: 70–95% waste-derived (C&D slag, RHA silica, residues). Materials: Toughened ceramic composite. All buildings constructed using **tiles** and kits only, with **smart airlocks** scanning for weapons/explosives.
 
-The **Microbial Inoculant & Biosolutions LLC** is one of the 19 core LLCs in the Genesis Network Innovation Hub. Its mission is to produce customized microbial inoculants and biosolutions that boost soil health, plant yields, and ecosystem resilience across all Network hubs, affiliate farms, and restoration projects.
+| Tile Type                     | Primary Use / Application                              | Key Embedded Features                                      | Materials (70–95% Waste-Derived) | Manufacturing Cost ($/ft²) | Selling Price ($/ft²) | Est. Gross Margin | Annual Revenue Potential (Network, 2040s, $B) |
+|-------------------------------|--------------------------------------------------------|------------------------------------------------------------|-----------------------------------|-----------------------------|------------------------|-------------------|------------------------------------------------|
+| **[Roof Glazing (Semi-Trans)](components/tiles/roof-glazing-semi-trans.md)** | Greenhouses, housing/community roofs                   | BIPV 10–30%, full AWG condensers, PAR/thermal sensors      | RHA silica (80%), residues        | 2.8–5.0                     | 8.5–14.5               | 62–78%            | 8–22                                           |
+| **[Exterior Cladding](components/tiles/exterior-cladding.md)** | Vertical facades, pod shells                           | Supplementary BIPV 8–22%, AWG, strain/vibration sensors    | C&D slag (60%), residues          | 2.5–4.5                     | 7.5–13.0               | 58–75%            | 6–18                                           |
+| **[Structural Load-Bearing](components/tiles/structural-load-bearing.md)** | Foundations, floors, heavy roads                       | Piezoelectric 20–60/m², strain/thermal sensors             | ELFM slag (70%), brownfield       | 1.8–3.2                     | 5.5–8.5                | 60–78%            | 5–15                                           |
+| **[Insulating / Partitions](components/tiles/insulating-partitions.md)** | Thermal mass walls, internal partitions                | Indoor AWG recapture, micro-piezo, thermal sensors         | Bagasse pore-formers, residues    | 1.7–3.0                     | 5.5–9.5                | 65–82%            | 4–12                                           |
+| **[Permeable Roads / Paths](components/tiles/permeable-roads-paths.md)** | Internal circulation, drainage                         | Piezoelectric (traffic), stormwater capture, acoustic sensors | C&D slag (75%)                    | 2.2–3.8                     | 6.8–11.5               | 60–79%            | 5–16                                           |
+| **[Compute / Server Tile](components/tiles/compute-server-tile.md)** | Embedded server nodes in walls/floors                  | RISC-V compute module pocket, cooling microchannels        | Ceramic + embedded electronics    | 12–28                       | 35–90                  | 68–82%            | 10–35                                          |
+| **[Networking Snap Tile](components/tiles/networking-snap-tile.md)** | Inter-tile data/power bridging                         | Inductive power, mmWave/waveguide data                     | Ceramic + waveguide layers        | 8–18                        | 25–60                  | 65–80%            | 3–12                                           |
+| **[Smart Furniture Surface](components/tiles/smart-furniture-surface.md)** | Tables, counters, beds, walls                          | MicroLED touch, speakers, haptics, environmental sensors   | Ceramic + display layers          | 15–35 (per unit equiv.)     | 40–100 (per unit)      | 68–85%            | 2–10                                           |
 
-**Key Objectives**  
-- Achieve **10–35% yield increases** in **aquaponics pods**, **agroforestry**, and **restoration sites** through tailored microbial consortia  
-- Convert waste streams (digestate, plant trimmings) into high-value inoculants  
-- Enable rapid soil regeneration on brownfields/landfills  
-- Provide scalable kits for smallholder farmers globally  
-- Maintain **95–99% closure** in microbial production loops  
+## Pods Table
 
-This LLC operates in dedicated **Microbial Inoculant Production Pods** and integrates with **Biorefinery & Processing Pods** and **Restoration & Blue-Green Carbon** initiatives.
+All **pods** are manufactured in **Tile & Pipe Production Factories** using **tiles**. Inputs: Waste-derived ceramics + embedded sensors. All include **smart airlocks** for security scanning.
 
-## 2. Core Products & Services
+| Pod Type                              | Primary Function                                           | Key Components / Features                                  | Materials / Inputs                     | Manufacturing Cost ($M) | Selling / Internal Value ($M) | Annual Revenue Potential (Network, $B) |
+|---------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------|--------------------------|--------------------------------|-----------------------------------------|
+| **[Tile & Pipe Production](components/pods/tile-pipe-production.md)** | Core manufacturing                                         | Kilns, presses, robotic handling, feedstock hoppers        | Waste slag/RHA/residues                | 4–12                     | 8–25                           | 12–40                                   |
+| **[Aquaponics / Multi-Trophic](components/pods/aquaponics-multi-trophic.md)** | Protein + greens production                                | Tanks, rafts, biofilters, BSFL bins                        | Ceramic lining, sensors                | 0.18–0.32                | 0.4–1.2                        | 8–25                                    |
+| **[Biogas Digester & Upgrading](components/pods/biogas-digester-upgrading.md)** | Energy + fertilizer                                        | Anaerobic tanks, microturbine, separators                  | Ceramic lining, pre-inoculum           | 0.8–2.5                  | 1.5–5.0                        | 4–15                                    |
+| **[Livestock (Large & Specialty)](components/pods/livestock-large-specialty.md)** | Dairy/meat/fiber production                                | Robotic milking/shearing, staggered breeding               | Ceramic pens, airlocks                 | 0.6–1.8                  | 1.2–4.5                        | 5–18                                    |
+| **[Dwarf Orchard Transplant](components/pods/dwarf-orchard-transplant.md)** | Fruit/nut trees                                            | Fabric pots, inoculated dwarfs, trellises                  | Ceramic supports                       | 0.3–0.9                  | 0.7–2.5                        | 3–12                                    |
+| **[Beehive & Pollination](components/pods/beehive-pollination.md)** | Pollination + honey                                        | Screened transit tubes, established colonies               | Ceramic housing                        | 0.08–0.25                | 0.2–0.8                        | 1–5                                     |
+| **[Microbial Inoculant Production](components/pods/microbial-inoculant-production.md)** | Yield & soil boosts                                        | Fermenters, culture storage, sensors                       | Ceramic vessels                        | 0.05–0.15                | 0.15–0.5                       | 2–8                                     |
+| **[Automated Processing (5 types)](components/pods/automated-processing.md)** | Bakery, brewery, butcher, confectionary, dairy             | Ovens/mixers/lines, robotic handling                       | Ceramic shells                         | 0.4–1.2 (each)           | 0.8–3.0 (each)                 | 6–25 (total)                            |
+| **[Mini-Fab (65–130 nm)](components/pods/mini-fab.md)** | Sensors/edge AI production                                 | ISO 7–8 cleanrooms, DUV tools, robotic lines               | Ceramic shells                         | 120–280                  | 180–480                        | 18–81                                   |
+| **[TerraWell Fixed / Mobile](components/pods/terrawell-fixed-mobile.md)** | Free healthcare, food, DME                                 | Exam rooms, pharmacy, telehealth, 3D DME printers          | Ceramic modular                        | 2.8–6.4 (fixed)<br>0.38–0.92 (mobile) | N/A (nonprofit)                | Indirect goodwill/reputation value      |
 
-| Product/Service                    | Description                                                                 | Primary Applications                              | Yield Boost | Revenue Model (per mature hub/year) |
-|------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------------|-------------------------------------|
-| Mycorrhizal Fungi Inoculants       | Arbuscular mycorrhizal fungi (AMF) consortia                                | Soil health, nutrient uptake in agroforestry      | +15–30%     | $50–150M                            |
-| Nitrogen-Fixing Bacteria           | Rhizobia, Azotobacter, Azospirillum strains                                 | Legumes, staples, cover crops                     | +10–25%     | $40–120M                            |
-| Probiotic Microbial Blends         | Beneficial bacteria/fungi for aquaponics (nitrifiers, denitrifiers)         | Water quality, fish/plant health                  | +10–35%     | $60–200M                            |
-| Bioremediation Consortia           | Hydrocarbon/PFAS-degrading microbes                                         | Brownfield/landfill cleanup                       | N/A         | $30–100M (contracts/credits)        |
-| Microbial Kit (Flat-Pack)          | Starter cultures, fermenters, application tools                             | Affiliate farms, restoration projects             | Variable    | $20–80M (kit sales)                 |
+## Kits Table
 
-## 3. Manufacturing & Supply Chain
+All **kits** are flat-pack, self-replicating, manufactured in **Tile & Pipe Production Factories**. Reused as needed for expansion.
 
-**Production Location**: Dedicated **Microbial Inoculant Production Pods** (40 ft high-cube ceramic shells) co-located with **Biorefinery Pods**. All pods/kits sourced from **Tile Production Facilities**.  
+| Kit Name                              | Primary Purpose                                            | Key Components Included                                    | Inputs / Materials                     | Cost per Kit ($M) | Revenue / Value per Kit ($M) | Network Revenue Potential ($B/year, mature) |
+|---------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------------------------------|--------------------|-------------------------------|----------------------------------------------|
+| **[Tile & Pipe Production](components/kits/tile-pipe-production.md)** | Bootstrap factory                                          | Mixers, presses, portable kilns, molds                     | Waste slag/RHA                         | 4–12               | 8–25                          | 12–40                                        |
+| **[Aquaponics & Multi-Trophic](components/kits/aquaponics-multi-trophic.md)** | Protein/greens production                                  | Tanks, rafts, biofilters, BSFL trays                       | Ceramic, sensors                       | 0.18–0.32          | 0.4–1.2                       | 8–25                                         |
+| **[Biogas Digester & Upgrading](components/kits/biogas-digester-upgrading.md)** | Energy & fertilizer                                        | Tanks, microturbine, separators                            | Ceramic lining                         | 0.8–2.5            | 1.5–5.0                       | 4–15                                         |
+| **[Dwarf Orchard Transplant](components/kits/dwarf-orchard-transplant.md)** | Fruit/nut establishment                                    | Pots, inoculated dwarfs, trellises                         | Ceramic supports                       | 0.3–0.9            | 0.7–2.5                       | 3–12                                         |
+| **[Livestock Pod](components/kits/livestock-pod.md)** | Dairy/meat/fiber                                           | Pens, robotic milking/shearing                             | Ceramic                                | 0.6–1.8            | 1.2–4.5                       | 5–18                                         |
+| **[Beehive & Pollination](components/kits/beehive-pollination.md)** | Pollination + honey                                        | Hives, screened tubes                                      | Ceramic housing                        | 0.08–0.25          | 0.2–0.8                       | 1–5                                          |
+| **[Microbial Inoculant Production](components/kits/microbial-inoculant-production.md)** | Soil/yield enhancement                                     | Fermenters, sensors                                        | Ceramic vessels                        | 0.05–0.15          | 0.15–0.5                      | 2–8                                          |
+| **[Automated Processing Cluster](components/kits/automated-processing-cluster.md)** | Value-add food (bakery/brewery/butcher/etc.)               | Ovens, lines, robotic arms                                 | Ceramic shells                         | 2–6 (cluster)      | 4–15                          | 6–25                                         |
+| **[Restoration & Blue/Green Carbon](components/kits/restoration-blue-green-carbon.md)** | Wetland/mangrove/kelp/oyster/salt marsh                    | Planting tools, sediment processors                        | Ceramic frames                         | 0.2–0.8            | 0.5–2.5                       | 3–12                                         |
+| **[Agroforestry / Silvopasture Expansion](components/kits/agroforestry-silvopasture-expansion.md)** | Perennial polycultures + grazing                           | Trellises, inoculant applicators, drone kits               | Ceramic supports                       | 0.15–0.6           | 0.4–1.8                       | 2–10                                         |
+| **[Dam & River Restoration](components/kits/dam-river-restoration.md)** | Dam removal + river/wetland recovery                       | Demolition tools, sediment bioreactors                     | Ceramic components                     | 0.4–1.5            | 1–4                           | 2–8                                          |
+| **[Smart Infrastructure & Networking](components/kits/smart-infrastructure-networking.md)** | Roads/pipes/data/power                                     | Piezo/solar tiles, PoE injectors, waveguide extensions     | Ceramic + electronics                  | 0.6–2.0            | 1.5–6                         | 5–18                                         |
+| **[Education / Telepresence VR](components/kits/education-telepresence-vr.md)** | Training & community learning                              | VR stations, Dojo modules                                  | Ceramic housing                        | 0.1–0.4            | 0.3–1.2                       | 1–6                                          |
+| **[TerraWell Fixed / Mobile](components/kits/terrawell-fixed-mobile.md)** | Free healthcare & food                                     | Exam rooms, pharmacy, telehealth, 3D DME printers          | Ceramic modular                        | 0.38–6.4           | N/A (nonprofit)               | Indirect value                                   |
+| **[Mini-Fab (65–130 nm)](components/kits/mini-fab-65-130-nm.md)** | Sensors/edge AI production                                 | ISO 7–8 cleanrooms, DUV tools, robotic lines               | Ceramic shells                         | 120–280            | 180–480                       | 18–81                                        |
 
-**Inputs**  
-- Feedstock: Digestate from biogas digesters, plant trimmings, fish sludge  
-- Cultures: Initial strains from mature hubs (pre-seeded in IBC totes)  
-- Nutrients: Waste-derived carbon/nitrogen sources  
+## Sensors Handbook
 
-**Materials & Composition**  
-- Pod shell: Toughened ceramic (waste-derived)  
-- Fermenters/vessels: Ceramic-lined stainless or full ceramic  
-- Sensors: Integrated into pod tiles (pH, DO, temperature, VOC)  
+**Purpose**: All **tiles** and **pods** embed 3–5× redundant **sensors** for data moat, optimization, compliance, and security. Supports **smart city standards** (ISO/TC 268, IEEE 2030) and sustainable codes (ISO 14001, Cradle-to-Cradle).
 
-**Manufacturing Path**  
-- Seed cultures from staging hubs  
-- Fermentation in pod bioreactors (batch/continuous)  
-- Drying/encapsulation (freeze-drying or spray-drying)  
-- Packaging into flat-pack kits  
+**Handbook Table**
 
-**Cost & Revenue**  
-- Production Cost per Kit: $0.4–$1.0M  
-- Selling Price per Kit: $1.0–$2.5M  
-- Annual Revenue (mature Network): $1–$4B (kit sales + internal use credits)  
-- Margins: 65–85% (automation + waste-derived inputs)  
-
-## 4. Integration with Genesis Network
-
-- **Aquaponics Pods**: Probiotics enhance fish/plant health  
-- **Agroforestry**: Mycorrhizae boost tree establishment  
-- **Restoration Sites**: Bioremediation consortia accelerate cleanup  
-- **Farmer Affiliates**: Kits shipped with training modules  
-- **Data Moat**: Sensor data feeds local twins → federated optimization  
-
-## 5. Detailed Sensor Handbook (Microbial Pod-Specific)
-
-| Sensor Type                  | Measured Parameter(s)                          | Location / Application                           | Redundancy | Power Source | Standards Alignment | Purpose |
-|------------------------------|------------------------------------------------|--------------------------------------------------|------------|--------------|---------------------|---------|
-| pH / Ammonia / Nitrite       | Fermentation pH, nitrogen species              | Bioreactor vessels                               | 5×         | Piezo/BIPV   | ISO 11783           | Process control |
-| DO / ORP / Temperature       | Dissolved oxygen, redox, thermal stability     | All fermenters                                   | 4×         | BIPV         | NASA-STD-3001       | Microbial health |
-| VOC / Gas Composition        | Volatile organics, CO₂, methane                | Headspace monitoring                             | 3×         | Piezo        | ISO 14001           | Contamination detection |
-| Multispectral / OD           | Optical density (growth rate)                  | Culture tubes                                    | 3×         | BIPV         | IEEE 1451           | Yield prediction |
-| Flow / Pressure              | Media circulation, pressure differentials      | Piping & pumps                                   | 4×         | Piezo        | ASTM C216           | System integrity |
-
-**Notes**  
-- All sensors feed local digital twins → federated learning for strain optimization  
-- Edge AI flags anomalies (e.g., contamination) → automated quarantine  
-- Privacy: Local processing only; blockchain-verified for credits  
-
-## 6. Viability Enhancements & Bottleneck Reductions
-
-- **Parallel Testing**: 50–500 variant fermenters → 10–50× experiments/year  
-- **Pre-Supply**: Mature hubs send starter cultures → rapid bootstrap  
-- **Affiliate Kits**: Subsidized for smallholders → distributed scaling  
-- **Data Moat**: Sensor feedback → AI-optimized strains → compounding yields  
-
-**CC-BY-4.0 License Notice**  
-This work is licensed under Creative Commons Attribution 4.0 International.  
-https://creativecommons.org/licenses/by/4.0/  
-**© 2025–2026 EarthStar Technologies** – All rights reserved under applicable law.
+| Sensor Category         | Specific Types                                      | Redundancy | Primary Data Output                              | Integration (Tiles/Pods) | Calibration / Lifespan | Viability Enhancement |
+|-------------------------|-----------------------------------------------------|------------|--------------------------------------------------|---------------------------|------------------------|-----------------------|
+| **[Environmental](docs/sensors/environmental.md)** | Temperature, humidity, PAR, VOC, CO₂, ammonia       | 3–5×       | Climate control, stress detection                | All                       | Annual / 10–15 years   | +15–30% yields        |
+| **[Structural](docs/sensors/structural.md)** | Strain, vibration, tilt, crack detection            | 3–5×       | Predictive maintenance, seismic warning          | Load-bearing, roads       | 15–25 years            | +20–40% uptime        |
+| **[Power / Energy](docs/sensors/power-energy.md)** | Voltage, current, piezo output, BIPV soiling        | 4×         | Energy optimization, fault detection             | BIPV/piezo tiles          | 10–20 years            | +10–25% efficiency    |
+| **[Water](docs/sensors/water.md)** | Flow, pH, EC, turbidity, AWG condensate quality     | 3–5×       | Closure monitoring, potable safety               | AWG & plumbing            | 8–12 years             | +15–35% closure       |
+| **[Security / Biosecurity](docs/sensors/security-biosecurity.md)** | mmWave radar (vitals/motion), hyperspectral (weapons/explosives), acoustic | 3–5×       | Threat detection, airlock triage                 | Airlocks & perimeters     | 10–15 years            | +25–50% safety        |
+| **[Biological / Soil](docs/sensors/biological-soil.md)** | Microbial activity, nutrient levels, root density   | 3×         | Inoculant optimization, yield prediction         | Aquaponics & agroforestry | 5–10 years             | +10–30% boosts        |
+| **[Off-World Specific](docs/sensors/off-world-specific.md)** | Radiation, regolith composition, seismic (lunar/Mars) | 4–6×       | ISRU planning, habitat integrity                 | Lunar/Mars pods           | 20–30 years            | +30–60% mission
