@@ -5,7 +5,7 @@ description: Central index and navigation hub for the Genesis Network documentat
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Repository Index  
+# Genesis Network Repository  
 **EarthStar Industries – Complete Documentation Hub**  
 **January 2026 Baseline**
 
@@ -21,8 +21,8 @@ Welcome to the official documentation repository for the **[Genesis Network](str
 - **[Master Plan](strategy/genesis-master-plan.md)** – Overall vision and phased execution  
 - **[Ultra-Rapid Hub Bootstrap Strategy](strategy/ultra-rapid-hub-bootstrap.md)** – Fastest hub/affiliate deployment  
 - **[NATO-Aligned Expansion](strategy/nato-western-hemisphere-expansion.md)** – Defensive Western Hemisphere strategy  
-- **[Phase 7 Global Willing Nations](strategy/phase-7-global-expansion.md)** – Voluntary sovereign adoption  
-- **[Phase 8 Solar System Roadmap](roadmaps/solar-system-expansion.md)** – Lunar/Mars/asteroid/O'Neill/von Neumann  
+- **[Global Willing Nations](strategy/global-expansion.md)** – Voluntary sovereign adoption  
+- **[Solar System Roadmap](roadmaps/solar-system-expansion.md)** – Lunar/Mars/asteroid/O'Neill/von Neumann  
 - **[50-Year NASA Feedback Roadmap](roadmaps/50-year-nasa-feedback.md)** – Space-Earth iteration loops  
 - **[Resilience Analysis](strategy/resilience-analysis.md)** – Natural/man-made/existential threats  
 - **[Top Risks & Quick Wins](strategy/top-10-risks-mitigations.md)** – Risk matrix and growth analysis  
@@ -64,8 +64,7 @@ Welcome to the official documentation repository for the **[Genesis Network](str
 - **[Dense Sensor Handbook](docs/sensors/dense-sensor-handbook.md)**  
 
 ### Innovation Hub
-- **[Innovation Hub Overview](innovation-hub/overview.md)**  
-- **[List of 32 LLCs](innovation-hub/llc-list.md)**  
+- **[Innovation Hub Overview](innovation-hub/innovation-hub-overview.md)**  
 
 ## Dense Sensor Handbook – Summary Table
 
@@ -80,45 +79,6 @@ Welcome to the official documentation repository for the **[Genesis Network](str
 | Off-World Specific      | Radiation, regolith composition, seismic           | ISRU planning, habitat integrity (lunar/Mars)     | 4–6×             | docs/sensors/off-world-sensors.md            |
 
 **Full Handbook**: [Dense Sensor Handbook](docs/sensors/dense-sensor-handbook.md)
-
-## Innovation Hub – List of 32 LLCs
-
-| LLC Name                                      | Primary Focus                                      | Suggested File Path                               |
-|-----------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-| Hydrogen Production LLC                       | Green hydrogen from surplus power/biogas           | innovation-hub/hydrogen-production-llc.md         |
-| Battery & Energy Storage LLC                  | Sodium-ion batteries from waste                    | innovation-hub/battery-energy-storage-llc.md      |
-| Bio-Materials & Textiles LLC                  | Algae/fungal bio-fibers & plastics                 | innovation-hub/bio-materials-textiles-llc.md      |
-| Vertical Urban Farming LLC                    | Balcony/rooftop modular systems                    | innovation-hub/vertical-urban-farming-llc.md      |
-| Autonomous Mobility LLC                       | Robotaxi fleets with smart road charging           | innovation-hub/autonomous-mobility-llc.md         |
-| Water Purification & Desalination LLC         | Advanced AWG + brine recovery                      | innovation-hub/water-purification-desalination-llc.md |
-| Sustainable Energy LLC                        | Waste heat recovery & grid optimization            | innovation-hub/sustainable-energy-llc.md          |
-| Regenerative Pharmaceuticals LLC              | Plant/algae/fungal APIs                            | innovation-hub/regenerative-pharmaceuticals-llc.md |
-| Sustainable Mining LLC                        | Plasma for clean ore processing                    | innovation-hub/sustainable-mining-llc.md          |
-| Lights-Out Sustainable Forestry LLC           | AI-selective logging & reforestation               | innovation-hub/lights-out-forestry-llc.md         |
-| Maritime & Ports Infrastructure LLC           | Ceramic ship cladding & port retrofits             | innovation-hub/maritime-ports-llc.md              |
-| High-Speed Rail & Transport Extensions LLC    | Ceramic track systems & fuel-cell trains           | innovation-hub/high-speed-rail-llc.md              |
-| Advanced Recycling & Waste Valorization LLC   | Plasma e-waste & critical materials recovery       | innovation-hub/advanced-recycling-llc.md          |
-| Industrial Gases LLC                          | ASUs + rare gases (neon/krypton)                   | innovation-hub/industrial-gases-llc.md            |
-| Mini-Fab & Advanced Fab LLC                   | 65–3 nm sovereign semiconductors                   | innovation-hub/mini-fab-advanced-fab-llc.md       |
-| Robotics & Automation LLC                     | Swarm bots & lights-out systems                    | innovation-hub/robotics-automation-llc.md         |
-| Consumer Electronics & Appliances LLC         | DC-native appliances                               | innovation-hub/consumer-electronics-llc.md        |
-| Cultured Meat LLC                             | Bioreactor-based proteins                          | innovation-hub/cultured-meat-llc.md               |
-| Direct Air Capture & Mineralization LLC       | CO₂ capture & enhanced weathering                  | innovation-hub/direct-air-capture-llc.md          |
-| Microbial Biosolutions LLC                    | Customized inoculants                              | innovation-hub/microbial-biosolutions-llc.md      |
-| Restoration & Blue-Green Carbon LLC           | Seagrass/mangrove/kelp/oyster kits                 | innovation-hub/restoration-blue-green-llc.md      |
-| Education / Telepresence LLC                  | VR/Dojo training systems                           | innovation-hub/education-telepresence-llc.md      |
-| TerraWell FreeCare Support LLC                | Nonprofit operational layer                        | innovation-hub/terrawell-freecare-llc.md          |
-| Agroforestry & Silvopasture LLC               | Perennial polycultures                             | innovation-hub/agroforestry-silvopasture-llc.md   |
-| Dam & River Restoration LLC                   | Dam removal & wetland recovery                     | innovation-hub/dam-river-restoration-llc.md       |
-| Smart Infrastructure & Networking LLC         | Roads/pipes/data/power fabric                      | innovation-hub/smart-infrastructure-llc.md        |
-| Carbon / Biodiversity Credit Platform LLC     | Blockchain-verified credits                        | innovation-hub/carbon-credit-platform-llc.md      |
-| 3D-Printed DME Manufacturing LLC             | Wheelchairs/crutches/prosthetics                   | innovation-hub/3d-dme-manufacturing-llc.md         |
-| Plasma Vitrification & Recycling LLC          | Waste-to-ceramic conversion                        | innovation-hub/plasma-vitrification-llc.md        |
-| Sovereign Semiconductor LLC                   | Localized fab variants                             | innovation-hub/sovereign-semiconductor-llc.md     |
-| Localized Pharma & Processing LLC             | Cultural/religious compliant modules               | innovation-hub/localized-pharma-processing-llc.md  |
-| Cultural / Religious Accommodation Modules LLC| Plug-in cultural kits                              | innovation-hub/cultural-accommodation-llc.md      |
-
-**Full LLC Overview**: [Innovation Hub LLC List](innovation-hub/llc-list.md)
 
 **License Notice**  
 This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
