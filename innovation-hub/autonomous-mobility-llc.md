@@ -49,8 +49,7 @@ The Autonomous Mobility LLC develops and deploys robotaxi fleets, inductive char
 
 - [High-Speed Rail & Transport Extensions LLC](innovation-hub/high-speed-rail-transport-llc.md)  
 - [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)  
-- [Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md) (self-reference)  
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)    
 
 **Project Phase**: Phase 2 – Scaled (2029–2033)  
 
