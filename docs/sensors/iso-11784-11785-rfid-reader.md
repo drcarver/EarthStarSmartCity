@@ -1,79 +1,61 @@
 ---
 layout: default
-title: Genesis Network – ISO 11784/11785 Livestock RFID & Tracking Integration
-description: Specification for ISO 11784/11785-compliant livestock identification and telemetry in the Genesis Network.
+title: ISO 11784/11785 RFID Reader Array – Genesis Network Component Specification
+description: Detailed specification for the ISO 11784/11785 RFID Reader Array used in livestock, asset, and personnel tracking within the Genesis Network.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**ISO 11784/11785 Livestock RFID & Tracking Integration**  
-**Livestock Management & Traceability Layer**
+# ISO 11784/11785 RFID Reader Array  
+**Genesis Network Component Specification**
 
 **© 2025–2026 EarthStar Technologies Conceptual Working Group**  
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Executive Overview
 
-The ISO 11784/11785 Livestock RFID & Tracking Integration provides standardized, globally interoperable animal identification and real-time telemetry for all multi-species husbandry operations within the Genesis Network. It enables full lifecycle traceability (birth → processing → retail), supports premium branding/certification (organic, regenerative, halal/kosher), generates verifiable data for carbon/biodiversity credits, and ensures regulatory compliance across jurisdictions. Core products/services include RFID ear tags, bolus implants, handheld & fixed readers, telemetry collars, and edge-integrated digital twin logging. Deployment begins in pilot livestock pods (2027–2028) and reaches full network coverage by 2035. Revenue role: traceability premiums (+15–35% on meat/milk/fiber), compliance credits ($50–150M/hub/year mature), and affiliate kit sales.
+The **ISO 11784/11785 RFID Reader Array** provides standardized, low-frequency (134.2 kHz) animal and asset identification across the Genesis Network. It enables precise, automated tracking of livestock (poultry, cattle, goats, sheep, bison, alpaca), breeding cycles, health records, and movement within hubs, affiliate farms, and TerraWell mobile units. Deployed in multi-reader arrays (4–16 antennas per pod/zone), it supports real-time inventory, biosecurity compliance, and blockchain-verified provenance for premium meat/fiber/egg sales.  
 
-## Components Used or Produced
+**Core Mission** — Ensure full traceability and welfare monitoring in multi-species husbandry with zero manual data entry.  
+**Deployment Phase** — Phase 1 (2026–2028) in livestock pods; full network scale by 2030–2035.  
+**Revenue Role** — Enables premium branding (+15–35% margins on traceable products), carbon/biodiversity credit verification, and affiliate kit sales; contributes $80–250M/year network-wide (mature).
+
+## Filtered Component Dependencies & Production
 
 ### Tiles (Relevant Only)
-
-| Name                                      | Description & Key Features                              | Inputs/Materials                     | Manufacturing Process                  | Cost ($/m²) | Revenue/Value ($/m² or system) |
-|-------------------------------------------|---------------------------------------------------------|--------------------------------------|----------------------------------------|-------------|---------------------------------|
-| [Structural Load-Bearing Tile](components/tiles/structural-load-bearing.md) | Piezo + strain sensors for livestock pen monitoring     | ELFM slag, PZT layers                | Forming → firing → embedding           | 16–28       | Internal (pen health data)      |
-| [Insulating / Thermal Mass Tile](components/tiles/insulating-thermal-mass.md) | Indoor AWG + thermal sensors for climate control        | Bagasse, residues                    | Aerated forming → channel embedding    | 15–26       | Internal (animal comfort)       |
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value ($/m² or per unit) |
+|------|----------------------------|------------------|-----------------------|-------------|----------------------------------|
+| [Structural Load-Bearing Tile](components/tiles/structural-load-bearing-tile.md) | Embedded RFID antenna conduits & piezo power for reader arrays | ELFM slag (70%), brownfield materials | Forming → piezo embed → firing (1,200–1,400°C) | 16–28 | 48–75 (internal) |
+| [Insulating / Thermal Mass Tile](components/tiles/insulating-thermal-mass-tile.md) | Passive thermal stability for livestock pod reader zones | Bagasse pore-formers, residues | Aerated forming → internal channels → firing | 15–26 | 44–75 (internal) |
 
 ### Pods (Relevant Only)
-
-| Name                                      | Description & Key Features                              | Inputs/Materials                     | Manufacturing Process                  | Cost ($/pod) | Revenue/Value ($/pod or year) |
-|-------------------------------------------|---------------------------------------------------------|--------------------------------------|----------------------------------------|--------------|--------------------------------|
-| [Livestock Pod (Large & Specialty)](components/pods/livestock-pod.md) | Staggered breeding, robotic milking/shearing, RFID readers | Ceramic shell, robotics              | Pod assembly + reader integration      | 0.9–2.2M     | $0.8–2.5M/year (traceability premiums) |
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
+|------|----------------------------|------------------|-----------------------|--------------|------------------------|
+| [Livestock Pod (Large & Specialty)](components/pods/livestock-pod.md) | Multi-species housing with integrated RFID array for tracking/breeding | Ceramic shell, stainless pens | Pod assembly + RFID antenna embed | 0.8–2.2M | 1.5–4.0M (internal/affiliate) |
 
 ### Kits (Relevant Only)
-
-| Name                                      | Description & Key Features                              | Inputs/Materials                     | Manufacturing Process                  | Cost ($/kit) | Revenue/Value ($/kit) |
-|-------------------------------------------|---------------------------------------------------------|--------------------------------------|----------------------------------------|--------------|------------------------|
-| [Livestock RFID & Telemetry Kit](components/kits/livestock-rfid-telemetry-kit.md) | ISO 11784/11785 tags, bolus, collars, fixed/handheld readers | Tags, readers, antennas              | Assembly + firmware load               | 0.12–0.35M   | 0.25–0.8M (affiliate sales) |
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
+|------|----------------------------|------------------|-----------------------|--------------|------------------------|
+| [Livestock Tracking & Welfare Kit](components/kits/livestock-tracking-welfare-kit.md) | ISO 11784/11785 readers, antennas, edge processor, blockchain logger | Ceramic conduits, RFID modules | Kit assembly + sensor integration | 0.12–0.35M | 0.25–0.8M (affiliate sales) |
 
 ### Sensors (Relevant Only)
-
-| Name                                      | Description & Key Features                              | Inputs/Materials                     | Manufacturing Process                  | Cost ($/unit) | Revenue/Value |
-|-------------------------------------------|---------------------------------------------------------|--------------------------------------|----------------------------------------|---------------|---------------|
-| [ISO 11784/11785 RFID Reader Array](docs/sensors/iso-11784-11785-rfid-reader.md) | HDX/FDX-B compliant, fixed & portable, edge processing  | Ceramic housing, antenna coils       | PCB + ceramic encapsulation            | 180–450       | Internal + compliance data |
-| [Livestock Vitals Collar Sensor](docs/sensors/livestock-vitals-collar.md) | Heart rate, temperature, activity, location (mmWave + GPS) | Piezo, thermal, IMU                  | Ceramic shell + module integration     | 45–120        | Premium meat/milk data |
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost (per unit) | Revenue/Value (per unit) |
+|------|----------------------------|------------------|-----------------------|------------------|---------------------------|
+| [ISO 11784/11785 RFID Reader Node](docs/sensors/iso-11784-11785-rfid-reader-node.md) | 134.2 kHz HDX/FDX-B compatible, 4–16 antenna array support | Ceramic housing, RFID chipset | SMT + ceramic embed | $45–$120 | $90–$250 (internal/affiliate) |
 
 ### Standards & Compliance (Relevant Only)
-
-- [ISO 11784](docs/standards/iso-11784.md) – Radio-frequency identification of animals – Code structure  
-- [ISO 11785](docs/standards/iso-11785.md) – Radio-frequency identification of animals – Technical concept  
-- [ISO 11783 (ISOBUS)](docs/standards/iso-11783.md) – Tractors & machinery for agriculture – Data network (telemetry integration)  
-- [GlobalG.A.P. & USDA Organic Equivalents](docs/standards/globalgap-usda-organic.md) – Traceability & animal welfare requirements  
+| Standard | Description | Application in RFID Array | Phase |
+|----------|-------------|----------------------------|-------|
+| [ISO 11784](docs/standards/iso-11784.md) | RFID frequency & code structure for animal ID | Core protocol for all tags/readers | Phase 1+ |
+| [ISO 11785](docs/standards/iso-11785.md) | Technical protocol for HDX/FDX-B transponders | Reader-tag communication standard | Phase 1+ |
+| [ISO 11783 (ISOBUS)](docs/standards/iso-11783.md) | Agricultural bus for livestock equipment integration | Links RFID data to robotic milking/feeding | Phase 2+ |
 
 ### Related / Supporting LLCs in the Innovation Hub
+- [Lights-Out Sustainable Forestry LLC](innovation-hub/lights-out-sustainable-forestry-llc.md) — supplies biochar for livestock bedding/soil  
+- [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) — provides traceable health inputs tied to RFID records  
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) — processes manure/waste with RFID-tracked provenance  
 
-- [Lights-Out Sustainable Forestry LLC](innovation-hub/lights-out-sustainable-forestry-llc.md) – Grazing under trees  
-- [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) – Animal health APIs  
-- [Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md) – Fiber (wool/alpaca) processing  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) – Manure → biogas → credits  
-
-**Project Phase**: Full integration begins in **Phase 1 (2027–2030)** pilot livestock pods; network-wide mandatory by **Phase 2 (2031–2035)**.
-
-**Financials (Mature Hub, Annual)**  
-- **CAPEX (initial rollout)**: $0.8–2.5M/hub (readers, tags, collars, software)  
-- **OPEX**: $0.15–0.4M/year/hub (tags, maintenance)  
-- **Revenue Streams**:  
-  - Traceability premiums on meat/milk/fiber: +$0.6–1.8M/year  
-  - Carbon/biodiversity credits (verified grazing): +$0.1–0.4M/year  
-  - Affiliate kit sales: $0.2–0.7M/year  
-- **Net Value Added**: **$0.9–2.9M/year per mature hub** (ROI <18 months)
-
-## Viability & Integration Notes
-
-- **Viability Boost**: +12–22% (traceability unlocks premium markets, compliance credits, and regulatory goodwill; ISO standards reduce export friction).  
-- **Integration Strength**: Seamless with livestock pods, microbial inoculants, and digital twins; minimal new CAPEX via existing ceramic/sensor manufacturing.  
-- **Risks Mitigated**: Global interoperability eliminates fragmentation; edge processing keeps data sovereign.  
+**Viability & Integration Notes**  
+The RFID array is a low-risk, high-ROI component: minimal new CAPEX (embedded in existing livestock pods/tiles), strong compliance value (traceability for premium sales/credits), and full integration with data moat for welfare optimization. Deployment begins 2026–2027 in livestock pods; network-wide revenue contribution grows to $80–250M/year by 2035 via traceable product premiums and affiliate kit sales. No major bottlenecks; leverages existing ceramic production and sensor ecosystem.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 © 2025–2026 EarthStar Technologies Conceptual Working Group
