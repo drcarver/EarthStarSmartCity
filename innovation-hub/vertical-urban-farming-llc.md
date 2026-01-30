@@ -1,82 +1,60 @@
 ---
 layout: default
-title: Genesis Network – Vertical Urban Farming LLC
-description: Detailed specification for the Vertical Urban Farming LLC within the Genesis Network Innovation Hub – modular balcony/rooftop systems delivering +30–50% food capacity in dense urban environments (January 2026 baseline).
+title: Vertical Urban Farming LLC
+description: Professional specification sheet for the Vertical Urban Farming LLC within the Genesis Network, focusing on balcony/rooftop systems for enhanced food production in urban environments.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Vertical Urban Farming LLC  
-**Genesis Network Innovation Hub Component**  
-**January 2026 Baseline**
-
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+# Vertical Urban Farming LLC
 
 ## Executive Overview
 
-The **Vertical Urban Farming LLC** operates as a specialized division within the Genesis Network Innovation Hub. It develops, manufactures, deploys, and supports modular balcony, rooftop, and wall-integrated growing systems that deliver **+30–50% additional food production capacity** in dense urban and peri-urban environments without requiring additional land footprint.
+The Vertical Urban Farming LLC specializes in balcony, rooftop, and integrated building systems that boost food production capacity by 30–50% without additional land use. Deployed in Phase 2 (2028–2032) of the Genesis Network, it leverages modular ceramics and aquaponics to create biophilic, high-yield urban agriculture. Estimated CAPEX addition: $80–200M per hub; revenue uplift: $150–450M/year from premium produce sales and community-supported agriculture.
 
-These systems integrate directly into the Network’s **ceramic tile architecture**, leveraging **BIPV glazing**, **AWG water capture**, **waste heat recovery**, and **dense sensor nets** to achieve high yields with minimal external inputs.
+## Tiles
 
-**Primary Objectives**  
-- Maximize fresh produce output in residential/commercial towers and retrofitted urban buildings  
-- Enable **MyPlate-compliant** nutrition in regenerative cities  
-- Generate supplementary revenue through premium greens/herbs sales and carbon/biodiversity credits  
-- Support affiliate smallholder and community adoption in peri-urban zones  
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [Roof Glazing (Semi-Transparent)](components/tiles/roof-glazing-semi-transparent.md) | Semi-transparent BIPV with 10–30% transmittance for daylighting and power generation | Rice husk ash, farm residues | Forming, drying, firing with PV embedding | $25–45/m² | $75–125/m² |
+| [Exterior Cladding](components/tiles/exterior-cladding.md) | Supplementary BIPV and AWG for vertical facades | C&D slag, residues | Mixing, extrusion, embedding sensors | $22–40/m² | $65–110/m² |
+| [Interior Walls / Furniture Surfaces](components/tiles/interior-walls-furniture-surfaces.md) | Indoor AWG and micro-piezo for integrated growing zones | Bagasse pore-formers, residues | Aerated forming, channel embedding | $15–26/m² | $44–75/m² |
 
-## Core System Components
+## Pods
 
-| Component                          | Description                                                                 | Integration Point                     | Key Performance Metric                     |
-|------------------------------------|-----------------------------------------------------------------------------|---------------------------------------|--------------------------------------------|
-| **Modular Ceramic Planter Units**  | Stackable 600×600 mm ceramic trays with embedded AWG channels & drainage   | Snap into balcony/railing/wall tiles  | 15–35 kg/m²/year (leafy greens/herbs)      |
-| **BIPV Glazing Canopy**            | Semi-transparent roof panels (10–30% transmittance) with integrated sensors | Rooftop & upper-floor installations   | +5–15% energy generation; 80–95% PAR       |
-| **Micro-Aeroponic Delivery**       | Mist-based nutrient delivery with piezo-pumped recirculating system        | Internal vertical towers              | 90–98% water closure; +20–40% yield vs. soil |
-| **Dense Sensor Array**             | 3–5× redundant PAR, humidity, EC, pH, temp, VOC sensors                    | Every planter & canopy unit           | Real-time AI optimization; data moat input |
-| **Waste Heat Exchanger**           | Ceramic microchannel loops capturing hub/building waste heat               | Rooftop & vertical tower integration  | +10–25% winter growing season extension    |
-| **Bee Pollination Interface**      | Screened transit tubes from nearby beehive pods                            | Rooftop flowering crops               | +20–50% fruit/seed set in tomatoes/peppers |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [Hybrid Greenhouse / Aquaponics Pods](components/pods/hybrid-greenhouse-aquaponics-pods.md) | High/low-density growing with passive climate and water recovery | Water, feed, digestate | Ceramic shell assembly, sensor integration | $0.6–1.5M/pod | $1.2–2.8M/pod |
 
-## Deployment Configurations
+## Kits
 
-| Configuration Type          | Typical Location                  | Area per Unit (m²) | Est. Annual Yield (kg) | Revenue Potential ($/year) | CAPEX per Unit ($K) |
-|-----------------------------|-----------------------------------|--------------------|-------------------------|-----------------------------|----------------------|
-| Balcony Retrofit Kit        | Residential high-rise balconies   | 2–6                | 40–180                  | 800–4,500                   | 1.2–3.8              |
-| Rooftop Commercial Cluster  | Office/apartment building roofs   | 50–500             | 1,000–18,000            | 20K–450K                    | 45–220               |
-| Vertical Tower Stack        | Internal atrium / light-well      | 10–100 (floorprint) | 500–9,000               | 10K–225K                    | 18–95                |
-| Community Wall Garden       | Exterior walls of community hubs  | 20–200             | 400–7,200               | 8K–180K                     | 12–65                |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [Vertical Urban Farming Kit](components/kits/vertical-urban-farming-kit.md) | Balcony/rooftop modules with aeroponics and vertical racking | Seedlings, inoculants | Flat-pack ceramic assembly, pump/sensor embedding | $0.3–0.8M/kit | $0.6–1.8M/kit |
 
-**Network-Wide Projection (2050, mature cities)**  
-- Installed area: 150–450 million m²  
-- Annual production: 3–12 million tonnes fresh produce  
-- Revenue: $60–$280 billion/year (premium greens/herbs + credits)
+## Sensors
 
-## Manufacturing & Supply Chain
-
-- **Production**: All ceramic components manufactured in **[Tile Production Pods](../components/pods/tile-production-pod.md)** and permanent factories  
-- **Inputs**: 70–95% waste-derived (C&D slag, RHA silica, farm residues)  
-- **Assembly**: Modular kits shipped flat-pack; on-site snap assembly (1–3 days per balcony cluster)  
-- **Cost Structure**: 60–82% gross margins mature (automation + waste-derived materials)
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [Multispectral & Hyperspectral Sensors](docs/sensors/multispectral-hyperspectral-sensors.md) | Vegetation health and soil composition monitoring | Conductive layers, residues | Embedding during tile firing | $50–150/unit | $100–300/unit (data services) |
+| [Thermal & Humidity Sensors](docs/sensors/thermal-humidity-sensors.md) | Climate control and AWG efficiency | Ceramic embeds | Sensor array assembly | $20–60/unit | $40–120/unit |
 
 ## Standards & Compliance
 
-- **Smart City**: ISO/TC 268, IEEE 2030, ITU-T Y.4900  
-- **Sustainable Building**: ISO 14001, Cradle-to-Cradle, LEED/Well equivalent  
-- **Agriculture**: GlobalG.A.P. alignment, USDA organic-equivalent for premium branding  
-- **Security**: **[Smart Airlocks](../docs/standards/smart-airlocks.md)** with mmWave/hyperspectral scanning in all enclosed growing zones
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [ISO 11783 (ISOBUS)](docs/standards/iso-11783-isobus.md) | Agricultural telemetry and automation | — | Compliance integration | $10K–30K/hub cert | $20K–60K/value add |
+| [NASA-STD-3001 (ECLSS)](docs/standards/nasa-std-3001-eclss.md) | Closed-loop environmental control | — | System verification | $15K–40K/hub | $30K–80K/premium cert |
 
-## Viability Enhancements Implemented
+## Related / Supporting LLCs in the Innovation Hub
 
-- **Microbial Boost Integration** – **[Microbial Inoculant Kit](../components/kits/microbial-inoculant-kit.md)** tailored for vertical systems → +10–30% yields  
-- **Bee Pollination Tubes** – Screened interfaces to **[Beehive Pods](../components/pods/beehive-pod.md)** → +20–50% fruiting crops  
-- **Waste Heat Symbiosis** – Direct coupling to hub biogas kilns → extended growing seasons  
-- **Dense Sensor Net** – Real-time AI optimization via **[Sensor Handbook](../docs/sensors/sensor-handbook.md)**  
-- **Affiliate Scaling** – Subsidized balcony kits for smallholders/peri-urban zones  
+- [Hybrid Aquaponics LLC](innovation-hub/hybrid-aquaponics-llc.md) (food production integration)  
+- [Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md) (biodegradable supports)  
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) (power for urban farms)  
+- [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) (herb/microgreen APIs)  
 
-**License Notice**  
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You may share and adapt provided appropriate credit is given.
+## Viability & Integration Notes
 
-https://creativecommons.org/licenses/by/4.0/  
+The Vertical Urban Farming LLC enhances network viability by adding 30–50% food capacity in dense residential zones, reducing land needs and improving biophilic livability. Integrates seamlessly with core tiles/pods for rooftop/balcony deployment, supporting Phase 2 scaling. Financials assume 60–80% margins on premium urban produce; risks include regulatory zoning for rooftop loads, mitigated by modular light-weight designs.
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-(Attribution appreciated when sharing or building upon this framework)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
