@@ -28,4 +28,38 @@ The TerraWell FreeCare Support LLC provides manufacturing and logistical support
 
 | Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
 |--------------------|----------------------------|------------------|------------------------|------|---------------|
-| [3D-Printed DME Kit](components
+| [3D-Printed DME Kit](components/kits/3d-printed-dme-kit.md) | Printers for wheelchairs, crutches, orthotics | Ceramic powder, resins | Kit assembly, printer calibration | $0.8–2.0M | $1.5–4.0M (internal transfer) |
+| [Mobile FreeCare Deployment Kit](components/kits/mobile-freecare-deployment-kit.md) | Exam modules, solar, water for vans/trailers | Medical supplies, rations | Modular assembly | $0.15–0.5M | $0.3–1.0M |
+
+## Sensors
+
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [Security (Weapons/Explosives)](docs/sensors/security-weapons-explosives.md) | Hyperspectral + mmWave threat detection in airlocks | Conductive layers | Embedding during firing | $50–150/unit | Integrated value |
+| [Environmental (VOC, CO₂, NH₃)](docs/sensors/environmental-voc-co2-nh3.md) | Air quality monitoring for health/safety | Sensors, circuits | Integration in tiles | $20–60/unit | Integrated value |
+| [Thermal / Humidity](docs/sensors/thermal-humidity.md) | Climate control in facilities | Sensors | Embedding | $15–40/unit | Integrated value |
+
+## Standards & Compliance
+
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [ISO 14001](docs/standards/iso-14001.md) | Environmental management for sustainable operations | N/A | Compliance auditing | Integrated | Value in certification |
+| [MIL-STD-810](docs/standards/mil-std-810.md) | Environmental ruggedness for DME/structures | N/A | Testing | Integrated | Value in durability |
+| [ISO 22320](docs/standards/iso-22320.md) | Emergency management for disaster response | N/A | Protocol implementation | Integrated | Value in resilience |
+
+## Related / Supporting LLCs in the Innovation Hub
+
+| Name (Hyperlinked) | Description & Key Features | Project Phase | Financials (CAPEX $M / Revenue $M/year mature) |
+|--------------------|----------------------------|---------------|------------------------------------------------|
+| [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) | OTC/generics production for donations | 2028+ | CAPEX: 80–200 / Revenue: 150–450 |
+| [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) | Power systems for mobile units | 2027+ | CAPEX: 50–150 / Revenue: 100–300 |
+| [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) | Material recovery for DME | 2028+ | CAPEX: 60–180 / Revenue: 120–350 |
+
+## Viability & Integration Notes
+
+The TerraWell FreeCare Support LLC enhances humanitarian viability by enabling efficient, compliant production of DME and facilities, with low-risk integration via arm's-length donations. It leverages Genesis components for cost savings (20–40% via waste-derived materials) and rapid scaling (Phase 2027–2028 pilots). Financially, it generates internal revenue through transfers ($200–600M/year mature) while boosting overall Network goodwill and permitting acceleration. Risks are minimal due to regulatory compliance focus and separation from nonprofit operations.
+
+---
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
