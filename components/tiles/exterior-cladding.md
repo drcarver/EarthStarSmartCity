@@ -13,39 +13,34 @@ Exterior Cladding tiles form the primary vertical facade system for Genesis hubs
 
 ## Components & Dependencies
 
-### Tiles
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value ($/m² or other) |
-|------|----------------------------|------------------|------------------------|-------------|--------------------------------|
-| [Exterior Cladding Tile](components/tiles/exterior-cladding.md) | Supplementary BIPV (8–15% opaque / 15–22% semi-trans), AWG humidity capture, strain/vibration/thermal sensors, cultural/patterned options | C&D slag (60%), farm residues, thin-film PV layers | Forming → embedding (PV/AWG/sensor layers) → drying → firing (1,200–1,400°C) → QC | 22–40 | 65–110 (premium +15–35% for active features) |
-
 ### Pods
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
 |------|----------------------------|------------------|------------------------|---------------|-----------------------|
-| [Tile & Pipe Production Pod](components/pods/tile-production-pod.md) | Produces cladding tiles; kilns, robotic handling, sensor integration | Slag, RHA, residues | Pod assembly → feedstock intake → automated production line | 0.8–2.0M | 1.5–3.5M (internal transfer) |
+| [Tile & Pipe Production Pod](../pods/tile-production-pod.md) | Produces cladding tiles; kilns, robotic handling, sensor integration | Slag, RHA, residues | Pod assembly → feedstock intake → automated production line | 0.8–2.0M | 1.5–3.5M (internal transfer) |
 
 ### Kits
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
 |------|----------------------------|------------------|------------------------|---------------|-----------------------|
-| [Smart Infrastructure Interconnect Kit](components/kits/smart-infrastructure-kit.md) | Includes cladding mounting hardware, conduits, snap connectors | Ceramic feedstock, conductive elements | Kit packing → robotic assembly | 0.4–1.0M | 0.8–2.0M |
+| [Smart Infrastructure Interconnect Kit](../kits/smart-infrastructure-kit.md) | Includes cladding mounting hardware, conduits, snap connectors | Ceramic feedstock, conductive elements | Kit packing → robotic assembly | 0.4–1.0M | 0.8–2.0M |
 
 ### Sensors
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
 |------|----------------------------|------------------|------------------------|------|---------------|
-| [Strain / Vibration Sensors](docs/sensors/strain-vibration.md) | Embedded in cladding for structural health monitoring | Piezoelectric layers, ceramic matrix | Embedded during tile forming | $2–8/unit | Predictive maintenance value |
-| [Thermal / Humidity Sensors](docs/sensors/thermal-humidity.md) | Monitor facade climate & AWG performance | Micro-sensors, conduits | Embedded during tile forming | $1–5/unit | AWG efficiency gains |
+| [Strain / Vibration Sensors](../../docs/sensors/strain-vibration.md) | Embedded in cladding for structural health monitoring | Piezoelectric layers, ceramic matrix | Embedded during tile forming | $2–8/unit | Predictive maintenance value |
+| [Thermal / Humidity Sensors](../../docs/sensors/thermal-humidity.md) | Monitor facade climate & AWG performance | Micro-sensors, conduits | Embedded during tile forming | $1–5/unit | AWG efficiency gains |
 
 ### Standards & Compliance
 | Standard / Reference | Description | Relevance to Exterior Cladding | Link |
 |----------------------|-------------|--------------------------------|------|
-| [ISO 14001](docs/standards/iso-14001.md) | Environmental management system | Full lifecycle compliance | — |
-| [ASTM C216](docs/standards/astm-c216.md) | Facing brick / ceramic units | Structural performance | — |
-| [IEEE 1451](docs/standards/ieee-1451.md) | Smart transducer interfaces | Sensor interoperability | — |
-| [ISO/TC 268](docs/standards/iso-tc-268.md) | Sustainable cities & communities | Smart facade integration | — |
+| [ISO 14001](../../docs/standards/iso-14001.md) | Environmental management system | Full lifecycle compliance | — |
+| [ASTM C216](../../docs/standards/astm-c216.md) | Facing brick / ceramic units | Structural performance | — |
+| [IEEE 1451](../../docs/standards/ieee-1451.md) | Smart transducer interfaces | Sensor interoperability | — |
+| [ISO/TC 268](../../docs/standards/iso-tc-268.md) | Sustainable cities & communities | Smart facade integration | — |
 
 ### Related / Supporting LLCs in the Innovation Hub
-- [Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md) – Cultural/patterned surface finishes  
-- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) – BIPV power optimization  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) – C&D slag feedstock processing  
+- [Bio-Materials & Textiles LLC](../../innovation-hub/bio-materials-textiles-llc.md) – Cultural/patterned surface finishes  
+- [Sustainable Energy LLC](i../../nnovation-hub/sustainable-energy-llc.md) – BIPV power optimization  
+- [Advanced Recycling & Waste Valorization LLC](../../innovation-hub/advanced-recycling-llc.md) – C&D slag feedstock processing  
 
 **Project Phase**  
 - Phase 1 (Bootstrap): 2026–2028 – Initial production in tent-based Tile Pods  
