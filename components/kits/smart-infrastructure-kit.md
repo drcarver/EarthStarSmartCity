@@ -26,39 +26,39 @@ The Smart Infrastructure Kit enables rapid deployment of bidirectional utility a
 
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod or year) |
 |------|----------------------------|------------------|-----------------------|--------------|-------------------------------|
-| [Smart Infrastructure Pod](components/pods/smart-infrastructure-pod.md) | Pre-wired interconnect assembly, pipe/tile snapping station, testing bay | Ceramic tiles/pipes, conductive modules | Pod shell assembly + robotic wiring | 1.2–3.0M | 2.5–6.0M (sales) / 0.5–1.5M/year (deployment fees) |
+| [Smart Infrastructure Pod](../pods/smart-infrastructure-pod.md) | Pre-wired interconnect assembly, pipe/tile snapping station, testing bay | Ceramic tiles/pipes, conductive modules | Pod shell assembly + robotic wiring | 1.2–3.0M | 2.5–6.0M (sales) / 0.5–1.5M/year (deployment fees) |
 
 ### Kits
 
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
 |------|----------------------------|------------------|-----------------------|--------------|-----------------------|
-| [Smart Infrastructure Interconnect Kit](components/kits/smart-infrastructure-interconnect-kit.md) | Pipes, snap tiles, PoE injectors, waveguide extensions, installation tools | Ceramic feedstock, conductive layers | Kit packing + quality check | 0.4–1.0M | 0.8–2.0M |
+| [Smart Infrastructure Interconnect Kit](smart-infrastructure-interconnect-kit.md) | Pipes, snap tiles, PoE injectors, waveguide extensions, installation tools | Ceramic feedstock, conductive layers | Kit packing + quality check | 0.4–1.0M | 0.8–2.0M |
 
 ### Sensors (Relevant Only)
 
 | Name | Description & Key Features | Inputs/Materials | Placement | Cost (per unit) | Value/Use Case |
 |------|----------------------------|------------------|-----------|------------------|----------------|
-| [Strain / Vibration Sensors](docs/sensors/strain-vibration.md) | Structural health, traffic load monitoring | Piezo layers | Load-bearing tiles, roads | $5–15 | Predictive maintenance, energy harvest feedback |
-| [Acoustic / Traffic Sensors](docs/sensors/acoustic-traffic.md) | Vehicle detection, perimeter security | MEMS microphones | Permeable roads, boundaries | $8–20 | Security alerts, traffic optimization |
-| [Power / PoE Monitoring](docs/sensors/power-poe.md) | Voltage/current, surge detection | Conductive traces | PoE injector tiles | $4–12 | Grid stability, fault isolation |
+| [Strain / Vibration Sensors](../../docs/sensors/strain-vibration.md) | Structural health, traffic load monitoring | Piezo layers | Load-bearing tiles, roads | $5–15 | Predictive maintenance, energy harvest feedback |
+| [Acoustic / Traffic Sensors](../../docs/sensors/acoustic-traffic.md) | Vehicle detection, perimeter security | MEMS microphones | Permeable roads, boundaries | $8–20 | Security alerts, traffic optimization |
+| [Power / PoE Monitoring](../../docs/sensors/power-poe.md) | Voltage/current, surge detection | Conductive traces | PoE injector tiles | $4–12 | Grid stability, fault isolation |
 
 ### Standards & Compliance (Relevant Only)
 
 | Standard / Code                  | Description & Applicability                                      | Reference Path |
 |----------------------------------|------------------------------------------------------------------|----------------|
-| [ISO/TC 268 – Sustainable Cities](docs/standards/iso-tc-268.md) | Smart city indicators, interoperability                          | docs/standards/ |
-| [IEEE 2030 – Smart Grid Interoperability](docs/standards/ieee-2030.md) | Grid architecture, DC distribution                               | docs/standards/ |
-| [ITU-T Y.4900 – Smart Sustainable Cities](docs/standards/itu-t-y4900.md) | Performance metrics, monitoring                                  | docs/standards/ |
-| [Matter/Thread/Zigbee](docs/standards/matter-thread-zigbee.md) | Device interoperability for networking                           | docs/standards/ |
-| [ASTM C76 – Concrete Pipe Analogs](docs/standards/astm-c76.md) | Pipe strength & durability (ceramic equivalent)                  | docs/standards/ |
+| [ISO/TC 268 – Sustainable Cities](../../docs/standards/iso-tc-268.md) | Smart city indicators, interoperability                          | docs/standards/ |
+| [IEEE 2030 – Smart Grid Interoperability](../../docs/standards/ieee-2030.md) | Grid architecture, DC distribution                               | docs/standards/ |
+| [ITU-T Y.4900 – Smart Sustainable Cities](../../docs/standards/itu-t-y4900.md) | Performance metrics, monitoring                                  | docs/standards/ |
+| [Matter/Thread/Zigbee](../../docs/standards/matter-thread-zigbee.md) | Device interoperability for networking                           | docs/standards/ |
+| [ASTM C76 – Concrete Pipe Analogs](../../docs/standards/astm-c76.md) | Pipe strength & durability (ceramic equivalent)                  | docs/standards/ |
 
 ### Related / Supporting LLCs in the Innovation Hub
 
-- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) — Waste heat recovery & DC grid support  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) — Feedstock from C&D/ELFM  
-- [High-Speed Rail & Transport Extensions LLC](innovation-hub/high-speed-rail-transport-llc.md) — Road/rail integration  
-- [Maritime & Ports Infrastructure LLC](innovation-hub/maritime-ports-llc.md) — Dock/terminal utility networks  
-- [Water Purification & Desalination LLC](innovation-hub/water-purification-desalination-llc.md) — Water conduit compatibility  
+- [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md) — Waste heat recovery & DC grid support  
+- [Advanced Recycling & Waste Valorization LLC](../../innovation-hub/advanced-recycling-llc.md) — Feedstock from C&D/ELFM  
+- [High-Speed Rail & Transport Extensions LLC](../../innovation-hub/high-speed-rail-transport-llc.md) — Road/rail integration  
+- [Maritime & Ports Infrastructure LLC](../../innovation-hub/maritime-ports-llc.md) — Dock/terminal utility networks  
+- [Water Purification & Desalination LLC](../../innovation-hub/water-purification-desalination-llc.md) — Water conduit compatibility  
 
 **Project Phase**: Phase 2 – Early Scale (2029–2035) primary deployment; available in Phase 1 pilots (2026–2028) as limited interconnects.
 
