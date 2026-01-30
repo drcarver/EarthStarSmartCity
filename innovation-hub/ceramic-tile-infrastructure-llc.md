@@ -57,11 +57,11 @@ The Ceramic Tile & Infrastructure LLC is the foundational manufacturing and depl
 
 ### Related / Supporting LLCs in the Innovation Hub
 
-- [Sustainable Energy LLC](../innovation-hub/sustainable-energy-llc.md) – Waste heat recovery for kilns  
-- [Advanced Recycling & Waste Valorization LLC](../innovation-hub/advanced-recycling-llc.md) – Feedstock from ELFM/plasma  
-- [Bio-Materials & Textiles LLC](../innovation-hub/bio-materials-textiles-llc.md) – Composite enhancements  
-- [High-Speed Rail & Transport Extensions LLC](../innovation-hub/high-speed-rail-transport-llc.md) – Smart road/rail integration  
-- [Maritime & Ports Infrastructure LLC](../innovation-hub/maritime-ports-llc.md) – Cladding & docking applications  
+- [Sustainable Energy LLC](sustainable-energy-llc.md) – Waste heat recovery for kilns  
+- [Advanced Recycling & Waste Valorization LLC](advanced-recycling-llc.md) – Feedstock from ELFM/plasma  
+- [Bio-Materials & Textiles LLC](bio-materials-textiles-llc.md) – Composite enhancements  
+- [High-Speed Rail & Transport Extensions LLC](high-speed-rail-transport-llc.md) – Smart road/rail integration  
+- [Maritime & Ports Infrastructure LLC](maritime-ports-llc.md) – Cladding & docking applications  
 
 **Project Phase**  
 - 2026–2028: Pilot production (tent factories)  
