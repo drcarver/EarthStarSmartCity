@@ -1,81 +1,69 @@
 ---
 layout: default
-title: Education & Telepresence LLC
-description: Detailed specification for the Education & Telepresence LLC within the Genesis Network innovation hub, including curriculum, delivery methods, infrastructure, and integration.
+title: Education & Telepresence LLC – Detailed Specification
+description: Professional spec sheet for the Education & Telepresence LLC, including executive overview, relevant components, and viability notes.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Education & Telepresence LLC
+# Education & Telepresence LLC  
+**Detailed Specification – January 2026 Baseline**
 
-The **Education & Telepresence LLC** operates as an independent entity within the Genesis Network innovation hub, delivering free, world-class education and training to residents, workers, affiliates, and global smallholders. It leverages **VR/AR telepresence**, **digital twins**, and the gamified **Genesis Dojo** platform to accelerate workforce development, reduce operational errors, and foster regenerative culture.
+The Education & Telepresence LLC is a core component of the Genesis Network Innovation Hub, delivering free, world-class, competency-based education and training via VR/AR telepresence, digital twins, and AI tutors. It spans K-12, vocational, and lifelong learning, focusing on regenerative skills, with seamless integration into housing, schools, and community pods. Deployed in Phase 1 (2026–2027) for bootstrap training, it scales to support network-wide workforce development, attracting residents and accelerating hub replication.
 
-## Mission & Objectives
+## Tiles
 
-- Provide free K-12, vocational, and lifelong competency training aligned with **regenerative principles**.  
-- Eliminate human capital bottlenecks in scaling hubs and affiliates.  
-- Use **data moat** feedback to continuously evolve curriculum quarterly.  
-- Support **TerraWell FreeCare** health literacy modules and community governance training.
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|-----------------------|------|--------------|
+| [Interior Walls / Furniture Surfaces](components/tiles/interior-walls-furniture-surfaces.md) | MicroLED/OLED displays for VR interfaces, haptics, sensors | Residues + display layers | Forming, embedding displays, firing | $50–90/m² | $150–300/m² (internal use + upgrades) |
+| [Compute Server Tile](components/tiles/compute-server-tile.md) | RISC-V cores for edge AI tutoring, hot-swap pockets | Slag/residues + modules | Embedding sockets, firing | $80–150/m² | $250–500/m² (compute leasing) |
+| [Networking Snap Tile](components/tiles/networking-snap-tile.md) | Inductive power + waveguide data for telepresence | Ceramic + conductive layers | Embedding coils/waveguides, firing | $35–60/m² | $100–180/m² (connectivity fees) |
 
-## Curriculum Structure
+## Pods
 
-### K-12 Modules
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|-----------------------|------|--------------|
+| [Education/Telepresence Pod](components/pods/education-telepresence-pod.md) | VR/AR stations, AI tutors, digital twin simulators | Ceramic shell + electronics | Assembly from tiles/kits, embedding sensors | $1.5–4.0M | $3.0–7.0M (tourism/workshops) |
 
-| Grade Band | Core Subjects                          | Regenerative Focus Modules                                      | Weekly Hours | Delivery Highlights                                      |
-|------------|----------------------------------------|---------------------------------------------------------------------|--------------|----------------------------------------------------------|
-| K-2        | Literacy, Math Basics, Social Skills   | Nature Exploration; Mini-Gardens; Water Cycle VR                   | 20–25        | Play-based **VR** worlds; haptic interactions            |
-| 3-5        | Reading/Writing, Math, Science         | Closed-Loop Ecosystems; Basic Aquaponics; Recycling & Ceramics     | 25–30        | Virtual hub field trips; simple twin experiments         |
-| 6-8        | Algebra, Biology, Civics               | Microbial Magic; Agroforestry Design; Energy/Water Systems         | 30–35        | Collaborative **VR** sprints; AI-scenario problem-solving|
-| 9-12       | Advanced Sciences, Humanities          | Full Hub Twin Management; Biorefinery Basics; Robotics Programming | 35–40        | Capstone projects; telepresence internships              |
+## Kits
 
-### Vocational & Lifelong Tracks
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|-----------------------|------|--------------|
+| [Digital Twin Baseline & Evolution Kit](components/kits/digital-twin-baseline-evolution-kit.md) | Sensor arrays, edge computers, modeling tools for training | Ceramic + sensors/modules | Packaging from fab pods | $0.4–1.0M | $0.8–2.0M (education upgrades) |
+| [Smart Infrastructure Interconnect Kit](components/kits/smart-infrastructure-interconnect-kit.md) | Pipes, networking for telepresence links | Ceramic feedstock | Extrusion, embedding | $0.4–1.0M | $0.8–2.0M (connectivity) |
 
-- Regenerative Agriculture & Permaculture  
-- Hybrid Aquaponics & IMTA Systems  
-- Ceramic Tile Production & Infrastructure  
-- Energy & Water Systems  
-- Biorefinery & Automated Processing  
-- TerraFab & Closed-Loop Electronics  
-- Robotics & Automation  
-- Environmental Monitoring & Restoration  
-- AI, **Digital Twins**, & Sensor Management  
-- Community Governance & Cooperative Economics  
+## Sensors
 
-**Competency-Based**: Simulations, projects, and portfolios; blockchain-verified credentials.
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|-----------------------|------|--------------|
+| [mmWave/IR-UWB Radar](docs/sensors/mmwave-ir-uwb-radar.md) | Passive health monitoring (vitals, falls) in education spaces | Slag/residues + chips | Embedding in tiles, fab assembly | $50–150/unit | $150–300/unit (data services) |
+| [Multispectral & VOC](docs/sensors/multispectral-voc.md) | Air quality, stress detection for learning environments | Residues + layers | Fab integration | $30–80/unit | $100–200/unit (optimization) |
 
-## Delivery Infrastructure
+## Standards & Compliance
 
-- **Genesis Dojo Platform**: Hyper-realistic gamified environment with physics-accurate simulations, leaderboards, AI scenarios, multi-user collaboration.  
-- **VR/AR Telepresence**: Haptic feedback, on-site digital twins, edge devices pre-cached for offline access.  
-- **Pod-Based Hubs**: Embedded in every housing cluster; flat-pack kits include child-safe **VR/AR** stations.  
-- **AI Tutors**: Manage 80% of instruction; human facilitators trained internally.  
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|-----------------------|------|--------------|
+| [UN SDG 4 – Quality Education](docs/standards/un-sdg-4.md) | Competency-based alignment, adaptive learning | N/A | N/A | N/A | N/A (compliance value) |
+| [ISO 37120 – Sustainable Cities](docs/standards/iso-37120.md) | Education KPIs monitoring via sensors | N/A | N/A | N/A | N/A (compliance value) |
 
-## Sensors in Education Pods
+## Related / Supporting LLCs in the Innovation Hub
 
-| Sensor Type                  | Measured Parameter(s)                          | Location / Application                           | Redundancy | Power Source | Purpose in Education |
-|------------------------------|------------------------------------------------|--------------------------------------------------|------------|--------------|----------------------|
-| mmWave / IR-UWB Radar        | Heart rate, respiration, fall detection        | Classrooms, VR stations                          | 3×         | Piezo/BIPV   | Non-intrusive health monitoring during sessions |
-| Multispectral / PAR          | Light quality, plant health (demo gardens)     | Mini-gardens, grow beds                          | 3×         | BIPV         | Real-time feedback for ecology lessons |
-| VOC / Microbial              | Air quality, pathogen early warning            | Indoor spaces, labs                              | 4×         | BIPV         | Biosecurity in microbiology modules |
-| Thermal / Humidity           | Climate comfort, evapotranspiration            | Classrooms, VR pods                              | 5×         | Piezo        | Optimize learning environment |
-| Strain / Vibration           | Structural integrity                           | Pod walls/floors                                 | 3×         | Piezo        | Safety monitoring during active simulations |
-| Occupancy / Motion           | Presence, engagement tracking                  | Desks, VR stations                               | 4×         | BIPV         | Adaptive learning path adjustments |
+- [Automation/Sensors/AI LLC](innovation-hub/automation-sensors-ai-llc.md)  
+- [Compute & Network Tiles LLC](innovation-hub/compute-network-tiles-llc.md)  
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)  
 
-## Financial Projections (Mature Phase)
+**Project Phase**: Phase 1 (2026–2027) for bootstrap training; full scale Phase 2 (2028–2029).
 
-- **CAPEX per Education Pod**: $0.6–$1.5M  
-- **Annual Operating Cost**: $0.3–$0.8M (AI tutors, content updates)  
-- **Revenue Uplift**: $0.5–$2B/year network-wide (tourism, workshops, affiliate training fees)  
-- **ROI**: <3 years via reduced operational errors (50–80%) and accelerated scaling  
+**Financials**  
+- CAPEX: $50–150M/hub (integrated into housing; phased 2026–2030)  
+- OPEX: $10–40M/year mature (energy offset via regen)  
+- Revenue: $100–300M/year/hub (tourism, workshops, premium certifications)  
+- IRR Contribution: +8–15% network-wide  
 
-## Viability Enhancements
+## Viability & Integration Notes
 
-- **Integration with Data Moat**: Quarterly curriculum updates from hub sensor data.  
-- **Offline Capability**: Pre-cached content for remote affiliates.  
-- **Cultural Adaptation**: Localized modules for global partners (e.g., indigenous knowledge tracks).  
+The Education & Telepresence LLC enhances network viability by providing free, scalable training that accelerates workforce development and affiliate adoption, reducing skills bottlenecks. It integrates seamlessly with compute tiles and sensors for AI-personalized learning, while modular kits ensure rapid deployment. Cultural adaptations (e.g., multilingual, religious-inclusive content) support global expansion. Risks: Digital divide in early rural affiliates — mitigated by Starlink nodes.
 
-**Suggested File Path**: innovation-hub/education-telepresence-llc.md
+---
 
-**CC-BY-4.0 License Notice**  
-This work is licensed under Creative Commons Attribution 4.0 International.  
-https://creativecommons.org/licenses/by/4.0/  
-**© 2025–2026 EarthStar Technologies** – All rights reserved under applicable law.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
