@@ -1,99 +1,71 @@
 ---
 layout: default
-title: Genesis Network by EarthStar Industries
-description: Central index and detailed overview of the Genesis Network – a modular, self-replicating, regenerative ecosystem for food, energy, water, materials, electronics, and community resilience.
+title: Autonomous Mobility LLC – Detailed Specification
+description: Professional spec sheet for the Autonomous Mobility LLC, including executive overview, relevant components, and viability notes.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**EarthStar Industries – Central Repository & Detailed Overview**  
-**January 2026 Baseline**
+# Autonomous Mobility LLC  
+**Detailed Specification – January 2026 Baseline**
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+## Executive Overview
 
-## Mission & Vision
+The Autonomous Mobility LLC develops and deploys robotaxi fleets, inductive charging infrastructure, and autonomous vehicle systems integrated with the Genesis Network's smart roads and energy grids. Leveraging embedded sensors, distributed AI, and regenerative power sources, it provides zero-emission, on-demand mobility with infinite range for short-range vehicles, reducing reliance on personal EVs and enabling seamless transport within and between hubs. This LLC supports the Network's goal of internalizing transportation, with initial focus on U.S. hubs and phased rollout to NATO-aligned partners.
 
-The **Genesis Network** is a pod-centric, self-replicating regenerative ecosystem that transforms degraded lands (distressed farms, brownfields, closed landfills) into closed-loop hubs delivering food, energy, water, materials, electronics, pharmaceuticals, and community services at 95–99% resource closure. The system is **strictly self-funded** through bootstrapped revenues (tiles, biogas, premium food, industrial gases, kits, carbon/biodiversity credits) with no external equity investors.
+## Tiles
 
-**Core Objectives**  
-- Feed, house, and provide essentials/services to 370–400 million people in regenerative cities by 2060–2070 (U.S. mission)  
-- Empower 100,000+ smallholder/co-op mini-hubs globally via subsidized kits, loans, and training  
-- Achieve gigaton-scale carbon sequestration, ocean/atmospheric remediation, and mining-minimal circular economy  
-- Extend to lunar/Mars settlements, asteroid mining, O'Neill cylinders, and von Neumann probes post-2070
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [Permeable Road Tiles](components/tiles/permeable-road-tiles.md) | Piezoelectric energy harvesting, inductive charging, embedded sensors for traffic/strain monitoring | C&D slag (75%), residues | Crushing/mixing → extrusion → firing (1,200–1,400°C) + piezo embeds | $20–$34/m² | $57–$92/m² (infrastructure contracts + energy export) |
+| [Networking Snap Tile](components/tiles/networking-snap-tile.md) | Inter-tile bridging with inductive power and mmWave data for vehicle-to-infrastructure comms | Ceramic + conductive layers | Forming + inductive coils + waveguides | $35–$60/m² | $100–$180/m² (fleet integration fees) |
 
-## Core Components & Hyperlinks
+## Pods
 
-### Tiles
-All structures use waste-derived toughened ceramic tiles exclusively.
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [Robotics & Automation Pod](components/pods/robotics-automation-pods.md) | Production of swarm bots for vehicle maintenance and fleet control | Ceramic shell + stainless | Ceramic forming + leased tools | $1.5–$4.0M | $3.0–$7.0M (internal leasing + sales) |
 
-- **[Roof Glazing Tile](../components/tiles/roof-glazing-tile.md)** – Semi-transparent BIPV + AWG  
-- **[Exterior Cladding Tile](../components/tiles/exterior-cladding-tile.md)** – Supplementary power + sensors  
-- **[Structural Load-Bearing Tile](../components/tiles/structural-load-bearing-tile.md)** – Foundations & floors  
-- **[Permeable Road Tile](../components/tiles/permeable-road-tile.md)** – Piezo + stormwater capture  
-- **[Compute Server Tile](../components/tiles/compute-server-tile.md)** – Hot-swappable RISC-V modules  
-- **[Networking Snap Tile](../components/tiles/networking-snap-tile.md)** – Inductive + waveguide bridging  
-- **[Smart Furniture Surface Tile](../components/tiles/smart-furniture-surface-tile.md)** – Touch/display integration  
+## Kits
 
-### Pods
-Modular 40 ft high-cube containers – the primary replication unit.
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [Smart Infrastructure Interconnect Kit](components/kits/smart-infrastructure-interconnect-kits.md) | Pipes, roads, inductive charging for vehicle integration | Ceramic feedstock | Kit assembly from tile factory | $0.4–$1.0M | $0.8–$2.0M (contracts + energy sales) |
 
-- **[Tile & Pipe Production Pod](../components/pods/tile-production-pod.md)** – Core factory bootstrap  
-- **[Aquaponics Multi-Trophic Pod](../components/pods/aquaponics-pod.md)** – Fish, prawns, BSFL, greens  
-- **[Biogas Digester Pod](../components/pods/biogas-digester-pod.md)** – Energy + fertilizer  
-- **[Livestock Pod](../components/pods/livestock-pod.md)** – Large & specialty animals with staggered delivery  
-- **[Dwarf Orchard Pod](../components/pods/orchard-pod.md)** – Fruit/nut trees  
-- **[Automated Processing Pods](../components/pods/processing-pods.md)** – Bakery, brewery, butcher, dairy  
-- **[TerraWell Mobile Unit](../components/pods/terrawell-mobile-unit.md)** – Free healthcare delivery  
+## Sensors
 
-### Kits
-Flat-pack, self-replicating deployment packages.
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [mmWave Radar](docs/sensors/mmwave-radar.md) | Vehicle tracking, vitals monitoring, threat detection | Ceramic + conductive | Embedding during firing | $50–$120/unit | $150–$300/unit (data services) |
+| [Strain / Vibration](docs/sensors/strain-vibration.md) | Road load, structural health for charging/maintenance | Piezo materials | Layered in tiles | $20–$45/unit | $60–$90/unit (predictive analytics) |
 
-- **[Tile & Pipe Production Kit](../components/kits/tile-production-kit.md)**  
-- **[Aquaponics Kit](../components/kits/aquaponics-kit.md)**  
-- **[Biogas Digester Kit](../components/kits/biogas-kit.md)**  
-- **[Microbial Inoculant Kit](../components/kits/microbial-inoculant-kit.md)**  
-- **[Restoration & Blue-Green Carbon Kit](../components/kits/restoration-kit.md)**  
-- **[Agroforestry Expansion Kit](../components/kits/agroforestry-kit.md)**  
-- **[Dam & River Restoration Kit](../components/kits/dam-restoration-kit.md)**  
-- **[Smart Infrastructure Kit](../components/kits/smart-infrastructure-kit.md)**  
-- **[Mini-Fab Kit](../components/kits/mini-fab-kit.md)**  
+## Standards & Compliance
 
-## Sensor Handbook – Dense Network Standard
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|--------------------|----------------------------|------------------|------------------------|------|---------------|
+| [IEEE 2030](docs/standards/ieee-2030.md) | Smart grid interoperability for inductive charging | N/A | Compliance testing | $10–$30K/hub | $50–$150K/hub (certification premiums) |
+| [ISO/TC 204](docs/standards/iso-tc-204.md) | Intelligent transport systems for V2I comms | N/A | Integration audits | $15–$40K/hub | $80–$200K/hub (safety certifications) |
 
-Every tile, pod, and structure deploys **3–5× redundant sensors** for optimization, compliance, security, and off-world planning.
+## Related / Supporting LLCs in the Innovation Hub
 
-| Sensor Category         | Key Types                                          | Primary Functions                                  | Integration Level          | Lifespan / Redundancy |
-|-------------------------|----------------------------------------------------|----------------------------------------------------|----------------------------|-----------------------|
-| Environmental           | Temperature, humidity, PAR, VOC, CO₂, ammonia      | Climate/yield optimization, air quality            | All tiles & pods           | 10–15 years / 3–5×    |
-| Structural              | Strain, vibration, tilt, crack detection           | Predictive maintenance, seismic early warning      | Load-bearing & roads       | 15–25 years / 3–5×    |
-| Power / Energy          | Voltage, current, piezo/BIPV output                | Harvest optimization, fault detection              | BIPV/piezo tiles           | 10–20 years / 4×      |
-| Water                   | Flow, pH, EC, turbidity, condensate quality       | Closure monitoring, potable safety                 | AWG & plumbing             | 8–12 years / 3–5×     |
-| Security / Biosecurity  | mmWave radar, hyperspectral (weapons/explosives)   | Threat detection, airlock triage                   | All airlocks & perimeters  | 10–15 years / 3–5×    |
-| Biological / Soil       | Microbial activity, nutrient levels                | Inoculant optimization, yield prediction           | Aquaponics & agroforestry  | 5–10 years / 3×       |
-| Off-World               | Radiation, regolith composition, seismic           | ISRU planning, habitat integrity                   | Lunar/Mars pods            | 20–30 years / 4–6×    |
+- [High-Speed Rail & Transport Extensions LLC](innovation-hub/high-speed-rail-transport-llc.md)  
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)  
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)  
+- [Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md) (self-reference)  
 
-**Smart Airlocks**: Mandatory in all buildings – mmWave + hyperspectral scanning for weapons/explosives/pathogens; alerts security + hub AI.
+**Project Phase**: Phase 2 – Scaled (2029–2033)  
 
-## Innovation Hub LLCs (32 Total)
+**Financials**  
+- **CAPEX**: $150–$350M per hub (fleet vehicles + road upgrades)  
+- **OPEX**: $30–$80M/year (maintenance + energy)  
+- **Revenue**: $200–$600M/year per hub (ride fees, charging, data services)  
+- **Break-even**: 18–30 months  
+- **IRR**: 28–45% (network contribution)  
 
-Full list available at **[Innovation Hub Overview](innovation-hub-overview.md)**
+## Viability & Integration Notes
 
-## Key Documents
+The Autonomous Mobility LLC is highly viable (8.5/10) within the Genesis ecosystem, integrating seamlessly with smart road tiles and energy grids for resilient, zero-emission transport. Quick wins include early robotaxi pilots in hubs for revenue diversification. Risks (regulatory for autonomy, energy stability) are mitigated by phased V2I testing and Faraday-protected systems. It accelerates Network internalization by reducing EV dependency, with synergies to retail delivery and affiliate connectivity.
 
-- **[Master Strategy](../strategy/master-strategy.md)**  
-- **[Financial Projections](../financials/financial-projections.md)**  
-- **[50-Year Roadmap](../roadmaps/50-year-roadmap.md)**  
-- **[Resilience Analysis](../strategy/resilience-analysis.md)**  
-- **[Off-World Expansion](../roadmaps/off-world-expansion.md)**  
-- **[Autonomous Mobility LLC](autonomous-mobility-llc.md)** – Robotaxi fleets with inductive charging; Tesla-compatible, infinite-range short-haul; local labor integration in developing regions  
+---
 
-**License Notice**  
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You may share and adapt provided appropriate credit is given.
-
-https://creativecommons.org/licenses/by/4.0/  
-
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-(Attribution appreciated when sharing or building upon this framework)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
