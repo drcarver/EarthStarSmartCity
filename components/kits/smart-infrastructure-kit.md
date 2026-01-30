@@ -40,11 +40,11 @@ The Smart Infrastructure Kit enables rapid deployment of bidirectional utility a
 
 | Standard / Code                  | Description & Applicability                                      | Reference Path |
 |----------------------------------|------------------------------------------------------------------|----------------|
-| [ISO/TC 268 – Sustainable Cities](../../docs/standards/iso-tc-268.md) | Smart city indicators, interoperability                          | docs/standards/ |
-| [IEEE 2030 – Smart Grid Interoperability](../../docs/standards/ieee-2030.md) | Grid architecture, DC distribution                               | docs/standards/ |
-| [ITU-T Y.4900 – Smart Sustainable Cities](../../docs/standards/itu-t-y4900.md) | Performance metrics, monitoring                                  | docs/standards/ |
-| [Matter/Thread/Zigbee](../../docs/standards/matter-thread-zigbee.md) | Device interoperability for networking                           | docs/standards/ |
-| [ASTM C76 – Concrete Pipe Analogs](../../docs/standards/astm-c76.md) | Pipe strength & durability (ceramic equivalent)                  | docs/standards/ |
+| [ISO/TC 268 – Sustainable Cities](../../docs/standards/iso-tc-268.md) | Smart city indicators, interoperability                          | 
+| [IEEE 2030 – Smart Grid Interoperability](../../docs/standards/ieee-2030.md) | Grid architecture, DC distribution                               |
+| [ITU-T Y.4900 – Smart Sustainable Cities](../../docs/standards/itu-t-y4900.md) | Performance metrics, monitoring                                  |
+| [Matter/Thread/Zigbee](../../docs/standards/matter-thread-zigbee.md) | Device interoperability for networking                           | 
+| [ASTM C76 – Concrete Pipe Analogs](../../docs/standards/astm-c76.md) | Pipe strength & durability (ceramic equivalent)                  | 
 
 ### Related / Supporting LLCs in the Innovation Hub
 
