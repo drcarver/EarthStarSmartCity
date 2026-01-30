@@ -38,8 +38,8 @@ The Smart Infrastructure Kit enables rapid deployment of bidirectional utility a
 
 ### Standards & Compliance (Relevant Only)
 
-| Standard / Code                  | Description & Applicability                                      | Reference Path |
-|----------------------------------|------------------------------------------------------------------|----------------|
+| Standard / Code                  | Description & Applicability                                      | 
+|----------------------------------|------------------------------------------------------------------|
 | [ISO/TC 268 – Sustainable Cities](../../docs/standards/iso-tc-268.md) | Smart city indicators, interoperability                          | 
 | [IEEE 2030 – Smart Grid Interoperability](../../docs/standards/ieee-2030.md) | Grid architecture, DC distribution                               |
 | [ITU-T Y.4900 – Smart Sustainable Cities](../../docs/standards/itu-t-y4900.md) | Performance metrics, monitoring                                  |
