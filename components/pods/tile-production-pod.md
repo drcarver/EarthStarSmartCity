@@ -1,99 +1,47 @@
 ---
 layout: default
-title: Ceramic Tile Production Pod – Genesis Network
-description: Detailed specification of the Ceramic Tile Production Pod, including manufacturing process, inputs, materials, costs, revenues, and integration.
+title: Ceramic Tile Production Pod – Specification Sheet
+description: Detailed specification for the Ceramic Tile Production Pod, the foundational manufacturing unit of the Genesis Network.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
-# Ceramic Tile Production Pod
+# Ceramic Tile Production Pod  
+**Specification Sheet**  
+**Genesis Network – EarthStar Technologies**  
+**Phase: Bootstrap & Early Scale (2026–2035)**
 
-The **Ceramic Tile Production Pod** is the foundational manufacturing unit of the Genesis Network. It produces all **toughened ceramic tiles**, **pipes**, and structural components used across hubs, pods, and regenerative cities. All buildings, infrastructure, and kits in the network are constructed exclusively from tiles and ceramics manufactured in these pods.
+**Executive Overview**  
+The Ceramic Tile Production Pod is the core self-replicating manufacturing unit of the Genesis Network. Housed in a modified 40 ft high-cube ISO container (evolving to full toughened ceramic shell), it produces all structural, smart, and functional tiles required for hubs, pods, infrastructure, and off-world applications. It bootstraps from temporary tent kilns to permanent factory clusters, achieving lights-out automation (50–70% Day 1 → 80–95% by Month 12) and enabling rapid hub replication. All tiles are 70–95% waste-derived, self-powered via embedded BIPV/piezo/AWG, and designed for snap-together assembly with hot-swappable compute/storage/networking modules.
 
-This pod is designed for **lights-out automation**, rapid self-replication, and near-100% waste-derived inputs, ensuring the entire system remains circular and scalable.
+### Components, Inputs, Process, Costs & Value
 
-## Pod Specifications
+| Name (Linked)                                      | Description & Key Features                                      | Inputs / Materials                              | Manufacturing Process                           | Est. Production Cost | Revenue / Value Contribution                  |
+|----------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|----------------------|-----------------------------------------------|
+| [Roof Glazing (Semi-Transparent) Tile](components/tiles/roof-glazing.md) | Semi-transparent BIPV (10–30%), AWG condensers, PAR/thermal sensors | Rice husk ash (silica 80%), farm residues       | Forming → drying → firing (1,200–1,400°C) → PV embed | $25–45/m²            | $75–125/m²; primary greenhouse & housing revenue driver |
+| [Exterior Cladding Tile](components/tiles/exterior-cladding.md) | Supplementary BIPV, AWG, strain/vibration sensors               | C&D slag (60%), residues                        | Extrusion → embed layers → high-temp firing    | $22–40/m²            | $65–110/m²; facade & pod shell sales          |
+| [Structural Load-Bearing Tile](components/tiles/structural-load-bearing.md) | Piezoelectric (20–60 elements/m²), strain sensors               | ELFM slag (70%), brownfield materials           | Dense pressing → PZT integration → firing      | $16–28/m²            | $48–75/m²; foundations & heavy infrastructure |
+| [Insulating / Thermal Mass Tile](components/tiles/insulating.md) | Indoor AWG, micro-piezo, thermal sensors                        | Bagasse pore-formers, residues                  | Aeration → channel forming → low-density firing | $15–26/m²            | $44–75/m²; passive climate control            |
+| [Permeable (Roads/Paths) Tile](components/tiles/permeable.md) | Piezoelectric, stormwater capture, acoustic/strain sensors      | C&D slag (75%)                                  | Porosity control → piezo embed → firing        | $20–34/m²            | $57–92/m²; smart road & drainage revenue      |
+| [Foundation/Base Tile](components/tiles/foundation.md) | Piezoelectric, strain/pressure sensors                          | Brownfield slag (65%)                           | High-density pressing → sensor embed           | $14–24/m²            | $42–68/m²; structural monitoring              |
+| [Tile & Pipe Production Pod](components/pods/tile-production.md) | Self (this pod manufactures all above tiles)                    | Slag, RHA, residues, energy                     | —                                               | $0.8–2.0M / pod      | $1.5–3.5M transfer; enables all construction  |
+| [Smart Infrastructure Interconnect Kit](components/kits/smart-infrastructure.md) | Pipes, snap connectors, PoE injectors for tile networking       | Ceramic feedstock, conductive layers            | Kit assembly from tile output                   | $0.4–1.0M / kit      | $0.8–2.0M; enables snap-together fabric       |
+| Multispectral / Hyperspectral Sensors              | Vegetation, soil, water quality monitoring                      | Tile surfaces, production monitoring            | Embedded during firing                          | $50–150 / unit       | Compliance & optimization value               |
+| Strain / Vibration Sensors                         | Structural health, traffic load                                 | Load-bearing & foundation tiles                 | Embedded during forming                         | $30–80 / unit        | Predictive maintenance savings                |
+| Thermal / Humidity Sensors                         | Climate control, AWG efficiency                                 | All tiles                                       | Embedded during production                      | $20–60 / unit        | Energy & water closure gains                  |
+| Security (Weapons/Explosives) Sensors              | Hyperspectral + mmWave threat detection                         | Airlocks (all buildings)                        | Integrated in airlock modules                   | $200–500 / unit      | Biosecurity & physical security               |
+| [ISO/TC 268 (Smart Cities)](docs/standards/iso-tc-268.md) | Sustainable cities & communities indicators                     | All production & deployment                     | —                                               | —                    | Regulatory compliance & market acceptance     |
+| [IEEE 1451 (Smart Transducers)](docs/standards/ieee-1451.md) | Sensor interfaces & plug-and-play                               | All embedded sensors                            | —                                               | —                    | Interoperability                              |
+| [ISO 14001 (Environmental Management)](docs/standards/iso-14001.md) | Environmental compliance & auditing                             | Factory operations                              | —                                               | —                    | Sustainability certification                  |
+| [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) | Plasma vitrification & slag processing                          | Feedstock supply                                | —                                               | —                    | Primary input source                          |
+| [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) | Biogas & waste heat recovery                                    | Factory power                                   | —                                               | —                    | Self-powered operations                       |
 
-- **Base Unit**: Modified 40 ft high-cube ISO container (evolves to 95–100% ceramic shell by 2035)  
-- **Internal Layout**:  
-  - Raw material intake & mixing zone  
-  - Forming/extrusion/press section  
-  - Drying tunnel  
-  - High-temperature tunnel kiln (1,200–1,400°C)  
-  - Plasma vitrification unit for slag/residue processing  
-  - Robotic handling, vision-guided stacking, quality inspection  
-  - Embedded **hyper-dense sensor** array for real-time monitoring  
-- **Power**: 20–50 kW (BIPV roof + biogas microturbine + sodium-ion batteries)  
-- **Water**: 95–99% closure (AWG + condensate recovery)  
-- **Airlocks**: Dual **smart airlocks** with mmWave/multispectral scanning  
-- **Mobility**: Autonomous relocation platform  
-- **Output Capacity (Mature)**: 1–5 million m²/year per pod (scalable via clustering)
+## Viability & Integration Notes
 
-## Manufacturing Process
+- **Bottleneck Reduction**: Pod-based staging + pre-loaded feedstock achieves first tile output in 7–14 days; temporary kilns enable revenue before permanent cluster (Months 2–6).  
+- **Revenue Flywheel**: Early tile sales ($5–20M in first quarter) fund hub replication; mature factory clusters generate $300–900M/year per hub.  
+- **Integration**: All tiles produced here supply every other pod, kit, and building in the network; compute/networking upgrades use hot-swap pockets.  
+- **Standards Leadership**: Selective data sharing influences ISO/IEC bodies; positions Genesis as reference implementation for smart, regenerative construction.  
+- **Risk Mitigation**: Modular design isolates failures; 3–5× sensor redundancy + digital twins enable predictive maintenance and rapid iteration.
 
-1. **Raw Material Intake**  
-   - Inputs delivered via pre-supply staging or on-site recycling  
-   - Primary: **C&D slag**, **rice husk ash (RHA)** silica, farm residues, **ELFM slag**, brownfield materials  
-
-2. **Mixing & Preparation**  
-   - High-capacity pan mixers blend waste-derived feeds with minimal virgin additives  
-   - Microbial inoculants added for porosity/toughness enhancement  
-
-3. **Forming**  
-   - Extruders, automated presses, and molds create structural, cladding, glazing, and permeable variants  
-   - Embedded features (PV layers, piezo elements, AWG channels, conduits, sensors) inserted during forming  
-
-4. **Drying & Pre-Firing**  
-   - Conveyor tunnel dryers using waste heat recovery  
-
-5. **High-Temperature Firing**  
-   - Tunnel kilns reach 1,200–1,400°C; plasma vitrification for slag toughening  
-
-6. **Finishing & Quality Control**  
-   - Robotic vision inspection; sensors verify strength, embeds, and tolerances  
-   - Snap-together interlocking features precision-machined  
-
-7. **Packaging & Distribution**  
-   - Flat-packed for kit delivery or direct use in hub construction  
-
-## Input Sources & Materials
-
-| Input Material                     | Primary Source                     | % of Total (Mature) | Role in Tile |
-|------------------------------------|------------------------------------|---------------------|--------------|
-| **C&D Slag**                       | Road construction demolition       | 50–70%              | Structural base |
-| **Rice Husk Ash (RHA) Silica**     | Farm rice processing waste         | 15–30%              | Glass-ceramic matrix |
-| **Farm Residues** (bagasse, straw) | On-site crop/livestock waste       | 10–20%              | Pore-formers, toughening |
-| **ELFM / Brownfield Slag**         | Enhanced landfill mining           | 10–25%              | High-strength aggregates |
-| **Minimal Virgin Additives**       | Feldspar, kaolin (early only)      | <5%                 | Binders (phased out) |
-
-## Cost & Revenue (Recalculated Mature Phase)
-
-- **CAPEX per Pod**: $150,000–$250,000 (reduced 20% via self-replication and waste inputs)  
-- **OPEX per m²**: $1.50–$2.80 (energy from biogas, labor near-zero)  
-- **Production Cost per m²**: $1.60–$4.50 (varies by tile type)  
-- **Selling Price per m²**: $4.80–$14.00 (premium for smart features)  
-- **Annual Revenue per Pod**: $500,000–$1,000,000 (internal use + external sales)  
-- **Gross Margin**: 65–82% (automation + waste-derived inputs)  
-
-## Integration & Standards Compliance
-
-- **Inputs**: Directly fed from **Recycling & Circular Pods** and on-site C&D/ELFM  
-- **Outputs**: Supply all **tiles**, **pipes**, and structural ceramics network-wide  
-- **Smart Features**: Embedded **hyper-dense sensors**, **BIPV glazing**, **piezo elements**, **AWG channels**  
-- **Standards Alignment**:  
-  - ASTM C216 (facing brick), ASTM C1405 (glazed units)  
-  - EN 14411 (ceramic tiles)  
-  - ISO 14001 (environmental management)  
-  - Cradle-to-Cradle principles  
-  - IEEE 1451 (sensor interfaces)  
-
-See also:  
-- **[Tiles Catalog](../tiles-catalog.md)**  
-- **[Smart Airlock & Security Kit](../smart-airlock-security.md)**  
-- **[Innovation Hub LLC Structure](../../docs/llc-structure.md)**  
-
----
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
-
-© 2025 Earth-Star Industries
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
