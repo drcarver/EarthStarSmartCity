@@ -28,12 +28,6 @@ The Smart Infrastructure Kit enables rapid deployment of bidirectional utility a
 |------|----------------------------|------------------|-----------------------|--------------|-------------------------------|
 | [Smart Infrastructure Pod](../pods/smart-infrastructure-pod.md) | Pre-wired interconnect assembly, pipe/tile snapping station, testing bay | Ceramic tiles/pipes, conductive modules | Pod shell assembly + robotic wiring | 1.2–3.0M | 2.5–6.0M (sales) / 0.5–1.5M/year (deployment fees) |
 
-### Kits
-
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
-|------|----------------------------|------------------|-----------------------|--------------|-----------------------|
-| [Smart Infrastructure Interconnect Kit](smart-infrastructure-interconnect-kit.md) | Pipes, snap tiles, PoE injectors, waveguide extensions, installation tools | Ceramic feedstock, conductive layers | Kit packing + quality check | 0.4–1.0M | 0.8–2.0M |
-
 ### Sensors (Relevant Only)
 
 | Name | Description & Key Features | Inputs/Materials | Placement | Cost (per unit) | Value/Use Case |
