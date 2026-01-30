@@ -17,10 +17,10 @@ The Smart Infrastructure Kit enables rapid deployment of bidirectional utility a
 
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value ($/m² or unit) |
 |------|----------------------------|------------------|-----------------------|-------------|------------------------------|
-| [Permeable Road Tiles](components/tiles/permeable-road-tiles.md) | Piezoelectric vibration harvesting, stormwater capture, acoustic/strain sensors, permeable drainage | C&D slag (75%), residues | Porous forming + piezo embed + firing | 20–34 | 57–92 (sales) / 0.5–2.0 (energy harvest) |
-| [Networking Snap Tile](components/tiles/networking-snap-tile.md) | Inductive power transfer (50–100 W), mmWave/optical waveguide data (10–100 Gbps), auto-discovery | Ceramic + conductive layers, inductive coils | Forming + waveguide embed + inductive layering | 35–60 | 100–180 (sales) / 5–20 (connectivity leasing) |
-| [PoE Injector Tile](components/tiles/poe-injector-tile.md) | 802.3bt PoE++ sourcing, surge protection, power distribution | Ceramic + conductive traces | Forming + conductive embed + testing | 28–48 | 80–140 (sales) / 3–10 (power delivery) |
-| [Waveguide Extension Tile](components/tiles/waveguide-extension-tile.md) | Long-range (10–50 m) passive data relay, dielectric waveguide | Ceramic + dielectric materials | Precision forming + waveguide firing | 30–50 | 85–160 (sales) / 2–8 (relay service) |
+| [Permeable Road Tiles](../tiles/permeable-road-tiles.md) | Piezoelectric vibration harvesting, stormwater capture, acoustic/strain sensors, permeable drainage | C&D slag (75%), residues | Porous forming + piezo embed + firing | 20–34 | 57–92 (sales) / 0.5–2.0 (energy harvest) |
+| [Networking Snap Tile](../tiles/networking-snap-tile.md) | Inductive power transfer (50–100 W), mmWave/optical waveguide data (10–100 Gbps), auto-discovery | Ceramic + conductive layers, inductive coils | Forming + waveguide embed + inductive layering | 35–60 | 100–180 (sales) / 5–20 (connectivity leasing) |
+| [PoE Injector Tile](../tiles/poe-injector-tile.md) | 802.3bt PoE++ sourcing, surge protection, power distribution | Ceramic + conductive traces | Forming + conductive embed + testing | 28–48 | 80–140 (sales) / 3–10 (power delivery) |
+| [Waveguide Extension Tile](../tiles/waveguide-extension-tile.md) | Long-range (10–50 m) passive data relay, dielectric waveguide | Ceramic + dielectric materials | Precision forming + waveguide firing | 30–50 | 85–160 (sales) / 2–8 (relay service) |
 
 ### Pods
 
