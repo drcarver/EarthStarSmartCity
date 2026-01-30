@@ -1,70 +1,61 @@
 ---
 layout: default
 title: Biogas & Energy Recovery LLC – Specification Sheet
-description: Professional overview of the Biogas & Energy Recovery LLC within the Genesis Network Innovation Hub.
+description: Professional specification for the Biogas & Energy Recovery LLC within the Genesis Network Innovation Hub.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Biogas & Energy Recovery LLC  
-**Specification Sheet**
+**Specification Sheet – January 2026 Baseline**
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**Mission & Overview**  
+The Biogas & Energy Recovery LLC operates as a core energy pillar of the Genesis Network, converting organic waste streams (manure, food scraps, crop residues, sewage sludge) into biomethane for power generation, digestate for nutrient recovery, and surplus heat for greenhouse and process heating. Core products include pipeline-quality biomethane, electricity via microturbines, and high-value digestate fertilizer. The LLC achieves energy self-sufficiency for hubs by Year 2–3 and generates significant surplus for export/sale. Revenue role: 12–18% of mature hub income (primarily internal power offset + external biogas/fertilizer sales). Timeline: Pilots 2026–2028; full network scale 2030–2035.
 
-### Executive Overview
+## Components Used or Produced by Biogas & Energy Recovery LLC
 
-The Biogas & Energy Recovery LLC operates distributed anaerobic digestion systems and microturbine generators to convert organic waste (manure, food scraps, crop residues, sewage sludge) into biomethane, digestate fertilizer, and renewable electricity/heat. Core mission is to achieve net-positive energy across every Genesis hub while closing nutrient loops. Primary products include pipeline-quality biomethane, electricity sold internally or to affiliates, heat for greenhouse/aquaponics, and high-value digestate. Launch timeline: 2026–2027 pilot pods → full hub integration by 2030. Revenue role: 12–18% of mature hub income ($80–250M/year per hub), with 65–82% gross margins after automation.
+### Tiles
+| Name                                      | Description & Key Features                              | Inputs/Materials                        | Manufacturing Process                  | Cost ($/m²) | Revenue/Value ($/m² or $/year) |
+|-------------------------------------------|---------------------------------------------------------|-----------------------------------------|----------------------------------------|-------------|---------------------------------|
+| [Insulating / Thermal Mass Tile](components/tiles/insulating-thermal-mass-tile.md) | Indoor AWG, micro-piezo, thermal sensors; heat recovery & storage | Bagasse, farm residues                  | Aerated ceramic forming + channels     | 15–26       | 44–75 (savings + heat export)   |
+| [Foundation/Base Tile](components/tiles/foundation-base-tile.md) | Piezoelectric, strain/pressure sensors; digester base stability | Brownfield slag (65%)                   | Dense ceramic + embeds                 | 14–24       | 42–68 (structural savings)      |
 
-### Components Used or Produced
+### Pods
+| Name                                      | Description & Key Features                              | Inputs/Materials                        | Manufacturing Process                  | Cost ($/pod) | Revenue/Value ($/pod or $/year) |
+|-------------------------------------------|---------------------------------------------------------|-----------------------------------------|----------------------------------------|--------------|----------------------------------|
+| [Biogas Digester & Upgrading Pod](components/pods/biogas-digester-upgrading-pod.md) | Anaerobic digestion, gas upgrading, microturbines; core energy production | Manure, food waste, residues            | Ceramic-lined tanks + separators       | 0.7–1.8M     | 1.3–3.0M (power + digestate sales) |
+| [Processing Pods – Dairy Pod](components/pods/processing-dairy-pod.md) | Robotic milking/processing; integrates manure to biogas | Milk, manure                            | Ceramic + stainless                    | 0.8–2.2M     | 1.6–4.0M (dairy + biogas offset)  |
 
-#### Tiles
+### Kits
+| Name                                      | Description & Key Features                              | Inputs/Materials                        | Manufacturing Process                  | Cost ($/kit) | Revenue/Value ($/kit or $/year) |
+|-------------------------------------------|---------------------------------------------------------|-----------------------------------------|----------------------------------------|--------------|----------------------------------|
+| [Biogas Digester Kit](components/kits/biogas-digester-kit.md) | Household/farm-scale methane production                 | Manure, organic waste                   | Ceramic-lined + gas storage            | 0.2–0.6M     | 0.4–1.2M (affiliate sales)       |
 
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value |
-|------|----------------------------|------------------|-----------------------|-------------|---------------|
-| [Insulating / Thermal Mass Tile](components/tiles/insulating-thermal-mass-tile.md) | Indoor AWG, micro-piezo, thermal sensors for heat recovery | Bagasse pore-formers, farm residues | Aerated ceramic forming + internal channels | 15–26 | Heat capture adds $5–15M/year/hub value |
-| [Foundation/Base Tile](components/tiles/foundation-base-tile.md) | Piezoelectric, strain/pressure sensors under digesters | Brownfield slag (65%) | Dense ceramic + embeds | 14–24 | Vibration energy harvest for sensors |
+### Sensors
+| Name                                      | Description & Key Features                              | Inputs/Materials                        | Placement                              | Cost (per unit) | Value / Role |
+|-------------------------------------------|---------------------------------------------------------|-----------------------------------------|----------------------------------------|------------------|--------------|
+| [Environmental (VOC, CO₂, NH₃) Sensors](docs/sensors/environmental-voc-co2-nh3.md) | Air quality, emissions, digester off-gas monitoring     | —                                       | Digesters, airlocks                    | $50–$180         | Methane leak detection, compliance |
+| [Thermal / Humidity Sensors](docs/sensors/thermal-humidity.md) | Heat recovery efficiency, process optimization          | —                                       | Heat exchangers, digesters             | $30–$120         | Waste heat capture optimization   |
 
-#### Pods
+### Standards & Compliance
+- ISO 14001 – Environmental management (emissions, waste)
+- USDA REAP – Renewable energy eligibility
+- ASTM D6868 – Biodegradable digestate standards
+- IEEE 2030 – Smart grid interoperability (microturbine export)
 
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value |
-|------|----------------------------|------------------|-----------------------|--------------|---------------|
-| [Biogas Digester & Upgrading Pod](components/pods/biogas-digester-upgrading-pod.md) | Anaerobic digesters, gas separators, microturbines, CO₂ scrubbers | Manure, food waste, crop residues | Ceramic-lined tanks + stainless internals | 0.7–1.8M | $40–120M/year network revenue |
+### Related / Supporting LLCs in the Innovation Hub
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) – Waste heat recovery & grid integration
+- [Water Purification & Desalination LLC](innovation-hub/water-purification-desalination-llc.md) – Digestate water polishing
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) – Plasma support for sludge
+- [Microbial Inoculant Production](innovation-hub/microbial-inoculant-production.md) – Digestate microbial enhancement
 
-#### Kits
+**Project Phase**: Bootstrap (2026–2030) → Early Scale (2031–2035) → Full Maturity (2036+)
 
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value |
-|------|----------------------------|------------------|-----------------------|--------------|---------------|
-| [Biogas Digester Kit](components/kits/biogas-digester-kit.md) | Household/farm-scale methane production | Manure, organic waste | Ceramic-lined tank + gas storage | 0.2–0.6M | 0.4–1.2M selling price; affiliate scaling |
-
-#### Sensors
-
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|------|----------------------------|------------------|-----------------------|------|---------------|
-| [Environmental (VOC, CH₄, CO₂, H₂S)](docs/sensors/environmental-gas-sensors.md) | Real-time biogas composition & leak detection | Electrochemical/optical cells | Ceramic embed + calibration | $50–150/unit | Prevents losses; compliance value |
-| [Thermal / Humidity](docs/sensors/thermal-humidity-sensors.md) | Digester temperature & heat recovery monitoring | Thermistors, capacitive | Ceramic tile integration | $20–60/unit | Optimizes methane yield |
-| [Strain / Vibration](docs/sensors/strain-vibration-sensors.md) | Structural health of digester tanks | Piezoelectric films | Embedded during firing | Self-powered | Predictive maintenance |
-
-#### Standards & Compliance
-
-- ISO 14001 (environmental management)  
-- ASTM D5511 (anaerobic biodegradation)  
-- IEEE 2030 (smart grid interoperability)  
-- USDA REAP program alignment (renewable energy grants)  
-- EPA biogas guidelines (methane capture & utilization)
-
-#### Related / Supporting LLCs in the Innovation Hub
-
-- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) — waste heat recovery & grid integration  
-- [Water Purification & Desalination LLC](innovation-hub/water-purification-desalination-llc.md) — digestate water polishing  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) — feedstock preprocessing  
-- [Microbial Inoculant Production](innovation-hub/microbial-inoculant-production.md) — digester starter cultures  
-
-### Viability & Integration Notes
-
-- **Viability Rating**: 8.9/10 — Biogas provides one of the fastest ROI components (cash flow within 6–12 months of pod deployment); 65–82% margins mature due to free feedstock (farm/livestock waste) and internal power/heat use.  
-- **Bottleneck Reduction**: Pre-seeded inoculum from staging hubs cuts startup to 1–2 weeks; dense gas sensors + digital twins enable predictive yield optimization.  
-- **Integration**: Direct piping from livestock/aquaponics pods; heat exported to greenhouses; digestate to microbial & agroforestry systems; electricity to DC microgrid.  
-- **Risk Note**: Methane leak detection mandatory; compliant flaring backup required per EPA rules.
+**Viability & Integration Notes**  
+- **Core Strength**: Biogas provides baseload power (24/7) and nutrient recycling, making hubs energy-independent by Year 2–3.  
+- **Bottleneck Reduction**: Pre-seeded inoculum from staging hubs achieves stable methane in 1–2 weeks (vs. 21–90 days).  
+- **Revenue Driver**: Internal power offset + external sales (biomethane, digestate fertilizer) contribute 12–18% of hub income.  
+- **Risk Mitigation**: Modular pod design isolates failures; dense sensors enable predictive maintenance.  
+- **Integration**: Directly feeds digestate to aquaponics and microbial pods; waste heat to greenhouses and drying.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 © 2025–2026 EarthStar Technologies Conceptual Working Group
