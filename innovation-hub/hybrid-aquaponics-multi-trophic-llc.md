@@ -1,71 +1,66 @@
 ---
 layout: default
 title: Hybrid Aquaponics & Multi-Trophic LLC – Specification Sheet
-description: Executive overview, relevant components, and viability notes for the Hybrid Aquaponics & Multi-Trophic LLC within the Genesis Network Innovation Hub.
+description: Professional specification for the Hybrid Aquaponics & Multi-Trophic LLC within the Genesis Network Innovation Hub.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Hybrid Aquaponics & Multi-Trophic LLC  
-**Specification Sheet – January 2026**
+**Specification Sheet**
 
-The Hybrid Aquaponics & Multi-Trophic LLC develops and deploys high-density, closed-loop food production systems combining aquaponics with multi-trophic layering (fish, crustaceans, mollusks, insects, plants) for premium proteins, greens, and staples. Mission: Achieve MyPlate-compliant nutrition with 95–99% resource closure, leveraging NASA ECLSS principles for terrestrial efficiency. Core products/services: Modular pods, kits, and microbial integrations for hubs and affiliates. Timeline: Bootstrap pilots 2027–2029, network-wide maturity by 2035. Revenue role: Generates $8–25B/year network-wide (2040s) from produce sales, yield boosts, and affiliate kit licensing (60–80% margins).
+**Mission & Overview**  
+The Hybrid Aquaponics & Multi-Trophic LLC operates closed-loop, multi-species production systems combining fish, crustaceans, mollusks, insects (BSFL), and plants to achieve 95–99% resource closure while delivering high-value proteins, greens, and premium seafood. Core products include fresh tilapia/catfish/prawns, mussels, BSFL protein feed, and MyPlate-compliant vegetables/herbs. The LLC drives early cash flow (2026–2030) via premium produce and supports full network food security. Revenue role: 15–25% of hub total (~$150–600M/year mature per hub). Timeline: Pilots 2026–2028; full scale 2029–2035.
 
-## Tiles
+### Components Used / Produced
 
-| Name (Hyperlinked)                          | Description & Key Features                                      | Inputs/Materials                          | Manufacturing Process                     | Cost ($/ft²) | Revenue/Value ($/ft²) |
-|---------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------|-----------------------|
-| [Roof Glazing (Semi-Trans)](components/tiles/roof-glazing-semi-trans.md) | Semi-transparent BIPV glazing for greenhouses; 10–30% transmittance, AWG condensers, PAR sensors | RHA silica (80%), residues                | Extrusion, firing, embedding              | 2.8–5.0     | 8.5–14.5             |
-| [Exterior Cladding](components/tiles/exterior-cladding.md) | Vertical facades with supplementary BIPV, AWG, strain sensors  | C&D slag (60%), residues                  | Pressing, firing, sensor integration      | 2.5–4.5     | 7.5–13.0             |
-| [Structural Load-Bearing](components/tiles/structural-load-bearing.md) | Tanks/raceways support; piezo, strain sensors                  | ELFM slag (70%), brownfield               | Forming, firing, piezo embedding          | 1.8–3.2     | 5.5–8.5              |
-| [Insulating / Partitions](components/tiles/insulating-partitions.md) | Thermal mass for controlled environments; indoor AWG, micro-piezo | Bagasse pore-formers, residues            | Aeration, firing, channel embedding       | 1.7–3.0     | 5.5–9.5              |
+#### Tiles (Relevant Only)
 
-## Pods
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value ($/m² or system) |
+|------|----------------------------|------------------|-----------------------|-------------|--------------------------------|
+| [Roof Glazing (Semi-Transparent)](components/tiles/roof-glazing.md) | BIPV (10–30% transmittance), AWG condensers, PAR/thermal/humidity sensors | Rice husk ash (silica), farm residues | Forming → embedding PV/AWG → firing | 25–45 | 75–125 (premium greenhouse roofs) |
+| [Insulating / Thermal Mass](components/tiles/insulating.md) | Indoor AWG (humidity recapture), thermal sensors | Bagasse pore-formers, residues | Aerated forming → channel integration → firing | 15–26 | 44–75 (climate control savings) |
 
-| Name (Hyperlinked)                          | Description & Key Features                                      | Inputs/Materials                          | Manufacturing Process                     | Cost ($M) | Revenue/Value ($M) |
-|---------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------|--------------------|
-| [Aquaponics Pod](components/pods/aquaponics-pod.md) | Multi-trophic food production; fish + prawns + mussels + BSFL + greens | Ceramic lining, sensors                   | Assembly, embedding, pre-seeding          | 0.18–0.32 | 0.4–1.2           |
+#### Pods (Relevant Only)
 
-## Kits
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod/year) |
+|------|----------------------------|------------------|-----------------------|--------------|-----------------------------|
+| [Aquaponics & Multi-Trophic Pod](components/pods/aquaponics-multi-trophic.md) | Fish (tilapia/catfish), prawns/crayfish, mussels, BSFL, greens; staggered cycles, robotic feeding/harvesting | Water, feed, digestate, fingerlings | Ceramic-lined tanks + glazing + sensors | 0.6–1.5M | 1.2–2.8M (produce/protein sales) |
 
-| Name (Hyperlinked)                          | Description & Key Features                                      | Inputs/Materials                          | Manufacturing Process                     | Cost ($M) | Revenue/Value ($M) |
-|---------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------|--------------------|
-| [Aquaponics & IMTA Tank Kit](components/kits/aquaponics-imta-tank-kit.md) | Modular tanks/raceways for multi-trophic systems; biofloc, sensors | Ceramic-lined components                  | Flat-pack assembly, sensor integration    | 0.8–2.0   | 1.5–5.0           |
-| [Microbial Inoculant Production Kit](components/kits/microbial-inoculant-production-kit.md) | Fermenters for yield-boosting microbes                         | Ceramic vessels, cultures                 | Assembly, pre-loading                     | 0.05–0.15 | 0.15–0.5          |
+#### Kits (Relevant Only)
 
-## Sensors
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
+|------|----------------------------|------------------|-----------------------|--------------|------------------------|
+| [Aquaponics Starter Kit](components/kits/aquaponics-starter.md) | Small-scale fish/plant system for affiliates | Tanks, pumps, biofilters | Ceramic-lined modules + assembly | 0.3–0.8M | 0.6–1.8M (affiliate sales) |
 
-| Name (Hyperlinked)                          | Description & Key Features                                      | Inputs/Materials                          | Manufacturing Process                     | Cost (per unit) | Revenue/Value (per unit) |
-|---------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------|--------------------------|
-| [Electrochemical & Optical Sensors](docs/sensors/electrochemical-optical-sensors.md) | Nutrient/pH/pathogen detection in water systems                | Silicon embeds, waste-derived             | Embedding in tiles, calibration           | $5–$15          | $15–$45                  |
-| [Nanobiosensors](docs/sensors/nanobiosensors.md) | Microbial activity, plant stress monitoring                    | Bio-derived, ceramic housing              | Mini-Fab integration                      | $10–$30         | $30–$90                  |
-| [Multispectral & VOC Sensors](docs/sensors/multispectral-voc-sensors.md) | Pest/disease early warning in grow zones                       | Ceramic embeds                            | Embedding, calibration                    | $8–$25          | $25–$75                  |
+#### Sensors (Relevant Only)
 
-## Standards & Compliance
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost (per unit) | Revenue/Value |
+|------|----------------------------|------------------|-----------------------|-----------------|---------------|
+| [Multispectral / Hyperspectral](docs/sensors/multispectral.md) | Vegetation health, water quality, pest detection | Ceramic + optics | Embedding during tile/pod forming | $150–$450 | Compliance + yield optimization credits |
+| [Environmental (VOC, CO₂, NH₃)](docs/sensors/environmental.md) | Air quality, CO₂ enrichment monitoring | Ceramic + electrochemical | Tile/pod integration | $80–$250 | Indoor system efficiency gains |
 
-| Name (Hyperlinked)                          | Description & Key Features                                      | Inputs/Materials                          | Manufacturing Process                     | Cost (N/A) | Revenue/Value (N/A) |
-|---------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|-------------------------------------------|------------|---------------------|
-| [ISO 11783 (ISOBUS)](docs/standards/iso-11783-isobus.md) | Agricultural machinery interoperability                        | N/A                                       | Compliance in sensors/kits                | N/A        | N/A                 |
-| [NASA-STD-3001 (ECLSS)](docs/standards/nasa-std-3001-eclss.md) | Closed-loop environmental control principles                   | N/A                                       | Adaptation for aquaponics                 | N/A        | N/A                 |
-| [GlobalG.A.P.](docs/standards/globalgap.md) | Food safety & sustainable ag certification                     | N/A                                       | Integration in processes                  | N/A        | N/A                 |
-| [USDA Organic Equivalents](docs/standards/usda-organic-equivalents.md) | Organic production standards                                   | N/A                                       | Compliance for produce                    | N/A        | N/A                 |
+#### Standards & Compliance (Relevant Only)
 
-## Related / Supporting LLCs in the Innovation Hub
+| Standard | Description | Applicability | Reference Path |
+|----------|-------------|---------------|----------------|
+| [ISO 11783 (ISOBUS)](docs/standards/iso-11783.md) | Agricultural machinery bus | Aquaponics automation | docs/standards/ |
+| [NASA-STD-3001](docs/standards/nasa-std-3001.md) | ECLSS principles for closed loops | Water/air/nutrient recycling | docs/standards/ |
+| [GlobalG.A.P.](docs/standards/globalgap.md) | Good agricultural practices | Food safety & traceability | docs/standards/ |
 
-- [Microbial Biosolutions LLC](innovation-hub/microbial-biosolutions-llc.md)  
-- [Automated Biorefinery LLC](innovation-hub/automated-biorefinery-llc.md)  
-- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)  
-- [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md)  
-- [Vertical Urban Farming LLC](innovation-hub/vertical-urban-farming-llc.md)  
+#### Related / Supporting LLCs in the Innovation Hub
 
-## Viability & Integration Notes
+- [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) — Botanical APIs from aquaponics crops  
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) — Waste heat recovery for tank heating  
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) — Waste-to-feedstock for BSFL  
+- [Microbial Inoculant Production](innovation-hub/microbial-inoculant-production.md) — Soil/water microbial boosts  
 
-The Hybrid Aquaponics & Multi-Trophic LLC is highly viable (8.5/10 rating), integrating seamlessly with biorefinery and energy LLCs for nutrient/energy loops. It accelerates food self-sufficiency with low CAPEX ($0.18–0.32M per pod) and high margins (60–80%), driving $8–25B/year network revenue in the 2040s through produce sales and kit licensing. Microbial boosts and sensor integration ensure +10–30% yields, with NASA-derived ECLSS principles enhancing closure for terrestrial and off-world applications.
+**Viability & Integration Notes**  
+- High early revenue driver (greens/proteins premium sales).  
+- 95–99% closure via multi-trophic layering reduces external inputs.  
+- Dense sensor net + short-cycle testing (BSFL weekly) enables ruthless optimization.  
+- Affiliate starter kits accelerate network growth.  
+- Risk: Biosecurity (mitigated by airlocks + pathogen scanning).  
+- Scalability: Pod replication + pre-supply from staging hubs.
 
-**License Notice**  
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You may share and adapt provided appropriate credit is given.
-
-https://creativecommons.org/licenses/by/4.0/  
-
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-(Attribution appreciated when sharing or building upon this framework)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
