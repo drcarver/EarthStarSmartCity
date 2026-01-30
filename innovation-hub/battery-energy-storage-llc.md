@@ -31,7 +31,7 @@ The Battery & Energy Storage LLC develops and manufactures regenerative sodium-i
 ### Pods
 
 | Name (Link)                                    | Description & Key Features                              | Inputs/Materials                          | Manufacturing Process                     | Cost ($/pod) | Revenue/Value ($/pod) |
-|------------------------------------------------|--------------------------------------------------------- 
+|------------------------------------------------|---------------------------------------------------------|
 | [Battery Production Pod](components/pods/battery-production-pod.md) | Modular sodium-ion cell assembly & testing              | Slag/brine electrolytes, ceramic casings  | Assembly in cleanroom pods; plasma refining | 1.2–3.0M    | Internal transfer 2.5–6.0M |
 | [DC Microgrid Integration Pod](components/pods/dc-microgrid-integration-pod.md) | Battery bank + inverter + management systems            | Batteries, ceramic conduits               | Kit assembly + AI calibration             | 0.8–2.0M    | Internal transfer 1.8–4.5M |
 
