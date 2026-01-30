@@ -1,92 +1,68 @@
 ---
 layout: default
-title: Exterior Cladding – Genesis Network Tile Catalog
-description: Detailed specification of Exterior Cladding tiles used throughout the Genesis Network, including manufacturing, inputs, materials, costs, revenues, performance, and integration details.
+title: Exterior Cladding – Genesis Network Product Specification
+description: Professional specification sheet for Genesis Network Exterior Cladding tiles, including components, dependencies, standards, financials, and integration notes.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
 # Exterior Cladding  
-**Genesis Network Tile Catalog**
+**Genesis Network Product Specification**  
+**Earth-Star Technologies – January 2026 Baseline**
 
-**Exterior Cladding** tiles form the vertical facades of nearly all Genesis structures — pods, hubs, towers, residential modules, **TerraWell FreeCare** centers, and community buildings. They provide structural protection, supplementary power generation, water harvesting, thermal regulation, cultural expression, and embedded intelligence.
+Exterior Cladding tiles form the primary vertical facade system for Genesis hubs, pods, housing, schools, hospitals, retail centers, and TerraWell facilities. These snap-on, waste-derived toughened ceramic modules deliver structural integrity, supplementary power generation, atmospheric water harvesting, predictive maintenance intelligence, and cultural/patterned aesthetics while achieving 70–95% waste-derived composition at maturity. Designed for rapid factory staging and modular upgrades, they integrate seamlessly with the pod-centric architecture and support full closed-loop resilience.
 
-## 1. Core Specifications
+## Components & Dependencies
 
-- **Primary Function**: Vertical weather barrier + active energy/water/sensing layer  
-- **Dimensions (standard)**: 600 × 600 mm or 600 × 1200 mm (custom sizes via tile factory)  
-- **Thickness**: 20–40 mm (structural variants up to 80 mm)  
-- **Weight**: 18–35 kg/m² (depending on thickness and embeds)  
-- **Compressive Strength**: 60–100+ MPa (exceeds ASTM C216 facing brick)  
-- **Fire Rating**: Non-combustible (Class A)  
-- **Durability**: 50–100+ year service life; resistant to UV, freeze-thaw, acid rain, biological growth  
+### Tiles
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value ($/m² or other) |
+|------|----------------------------|------------------|------------------------|-------------|--------------------------------|
+| [Exterior Cladding Tile](components/tiles/exterior-cladding.md) | Supplementary BIPV (8–15% opaque / 15–22% semi-trans), AWG humidity capture, strain/vibration/thermal sensors, cultural/patterned options | C&D slag (60%), farm residues, thin-film PV layers | Forming → embedding (PV/AWG/sensor layers) → drying → firing (1,200–1,400°C) → QC | 22–40 | 65–110 (premium +15–35% for active features) |
 
-## 2. Manufacturing Process (Tile Factory Pods)
+### Pods
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
+|------|----------------------------|------------------|------------------------|---------------|-----------------------|
+| [Tile & Pipe Production Pod](components/pods/tile-production-pod.md) | Produces cladding tiles; kilns, robotic handling, sensor integration | Slag, RHA, residues | Pod assembly → feedstock intake → automated production line | 0.8–2.0M | 1.5–3.5M (internal transfer) |
 
-1. **Raw Material Preparation**  
-   - Primary input: **C&D slag** (60–70%) + rice husk ash (**RHA silica**) + farm residues (bagasse, straw, grape pomace as pore-formers/toughening agents)  
-   - Mixing in high-capacity pan mixers with water + binders  
+### Kits
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
+|------|----------------------------|------------------|------------------------|---------------|-----------------------|
+| [Smart Infrastructure Interconnect Kit](components/kits/smart-infrastructure-kit.md) | Includes cladding mounting hardware, conduits, snap connectors | Ceramic feedstock, conductive elements | Kit packing → robotic assembly | 0.4–1.0M | 0.8–2.0M |
 
-2. **Forming**  
-   - Extrusion or hydraulic pressing into large-format panels  
-   - Embedded layers inserted: thin-film PV, AWG channels, strain/vibration sensors, optional cultural patterning  
+### Sensors
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
+|------|----------------------------|------------------|------------------------|------|---------------|
+| [Strain / Vibration Sensors](docs/sensors/strain-vibration.md) | Embedded in cladding for structural health monitoring | Piezoelectric layers, ceramic matrix | Embedded during tile forming | $2–8/unit | Predictive maintenance value |
+| [Thermal / Humidity Sensors](docs/sensors/thermal-humidity.md) | Monitor facade climate & AWG performance | Micro-sensors, conduits | Embedded during tile forming | $1–5/unit | AWG efficiency gains |
 
-3. **Drying & Firing**  
-   - Tunnel dryers using waste heat recovery  
-   - High-temperature firing (1,200–1,400°C) in tunnel kilns; plasma vitrification for slag toughening  
+### Standards & Compliance
+| Standard / Reference | Description | Relevance to Exterior Cladding | Link |
+|----------------------|-------------|--------------------------------|------|
+| [ISO 14001](docs/standards/iso-14001.md) | Environmental management system | Full lifecycle compliance | — |
+| [ASTM C216](docs/standards/astm-c216.md) | Facing brick / ceramic units | Structural performance | — |
+| [IEEE 1451](docs/standards/ieee-1451.md) | Smart transducer interfaces | Sensor interoperability | — |
+| [ISO/TC 268](docs/standards/iso-tc-268.md) | Sustainable cities & communities | Smart facade integration | — |
 
-4. **Finishing**  
-   - Glazing (optional semi-transparent PV layer)  
-   - Quality control: automated vision inspection + sensor calibration  
-   - Snap-on mounting channels for facade assembly  
+### Related / Supporting LLCs in the Innovation Hub
+- [Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md) – Cultural/patterned surface finishes  
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) – BIPV power optimization  
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) – C&D slag feedstock processing  
 
-## 3. Active Features Matrix
+**Project Phase**  
+- Phase 1 (Bootstrap): 2026–2028 – Initial production in tent-based Tile Pods  
+- Phase 2 (Early Scale): 2029–2032 – Permanent factory clusters; full cultural/patterned variants  
+- Phase 3 (National Maturity): 2033–2045 – Network-wide deployment; AI upgrade slots active  
 
-| Feature                            | Specification                                      | Benefit / Performance                     | Integration Point                     |
-|------------------------------------|----------------------------------------------------|-------------------------------------------|---------------------------------------|
-| **Supplementary BIPV**             | Opaque: 15–22% efficiency; Semi-transparent: 8–15% | 40–60% of roof-level power on vertical surfaces | Roof glazing + **smart infrastructure** |
-| **AWG (Humidity Capture)**         | Micro-condensers in channels; 0.5–2 L/m²/day       | Indoor humidity recapture + facade cooling | **Water closure** loop                |
-| **Strain/Vibration Sensors**       | 3–5× redundancy; ±0.1% accuracy                    | Real-time structural health monitoring    | **Hyper-dense sensor** array          |
-| **Cultural / Patterned Options**   | Laser-etched or glazed designs                     | Identity, pride, mental well-being        | Region-specific aesthetic variants    |
-| **Thermal Reduction**              | Low thermal conductivity + reflective glazing      | Passive cooling; reduced HVAC load        | **Insulating** layer synergy          |
+**Financials (Mature Network, per hub basis)**  
+- Production Cost: $22–40/m²  
+- Selling Price: $65–110/m² (premium uplift +15–35% for active features)  
+- Gross Margin: 60–78%  
+- Annual Output (mature hub): 200,000–500,000 m²  
+- Annual Revenue Contribution (per hub): $13–55M  
+- Network-wide Revenue (2050): $30–90B/year (cladding segment)  
 
-## 4. Input Sources & Circularity
+## Viability & Integration Notes
 
-- **Primary**: **C&D slag** (road construction waste), brownfield/ELFM slag  
-- **Secondary**: Rice husk ash (**RHA silica**), sugarcane bagasse, straw, grape pomace  
-- **Circularity**: 70–95% waste-derived; end-of-life tiles crushed → RCA base + new feedstock  
-- **Virgin Material**: Minimal (binders, glazes) — phased to zero by 2035  
+Exterior Cladding tiles are a **core revenue and resilience driver**, providing immediate market-ready cash flow (structural + active features) while supporting modular AI upgrades and cultural customization. Integration with smart airlocks (hyperspectral/mmWave threat scanning) and dense sensor nets ensures compliance with sustainable building codes (ISO 14001, ISO/TC 268) and smart city standards. Low embodied carbon (waste-derived) and passive-dominant design (BIPV + AWG) deliver strong lifecycle ROI. Bottleneck mitigation: pre-supply feedstock from staging hubs; parallel production pods prevent single-point failures.
 
-## 5. Cost & Revenue (Recalculated Mature Phase)
-
-| Metric                             | Value (per m²)     | Notes / Drivers                          |
-|------------------------------------|--------------------|------------------------------------------|
-| **Manufacturing Cost**             | $2.2–4.0           | Reduced 20% via waste inputs + automation |
-| **Selling Price (Internal)**       | $7.5–12.5          | Premium for smart features               |
-| **Selling Price (External/Affiliate)** | $9.0–15.0       | Cultural variants + certification uplift |
-| **Annual Revenue per m² (mature hub)** | $0.8–2.5       | From energy/water savings + credits      |
-| **Payback Period**                 | 4–8 years          | BIPV + AWG + sensor self-powering        |
-
-**Hub-Scale Impact**: 50,000–150,000 m² cladding per mature hub → **$375K–$1.9M** direct revenue + **$200K–$500K** indirect (energy/water/credits).
-
-## 6. Integration & Standards Compliance
-
-- **Structural**: ASTM C216 (facing brick), EN 14411 (ceramic tiles)  
-- **Smart Features**: IEEE 1451 (transducers), Matter/Thread/Zigbee (interoperability)  
-- **Environmental**: **ISO 14001** (env management), Cradle-to-Cradle principles  
-- **Smart City**: **ISO/TC 268**, **ITU-T Y.4900**, **IEEE 2030** (grid)  
-- **Genesis-Specific**: **Genesis-STD-001** (pod architecture), **Genesis-STD-002** (smart airlock compatibility)  
-
-**Related Pages**  
-- **[Roof Glazing](../tiles/roof-glazing.md)** – primary power generation companion  
-- **[Permeable Road Tiles](../tiles/permeable-road-tiles.md)** – horizontal counterpart  
-- **[Smart Infrastructure Kit](../../components/kits/smart-infrastructure-kit.md)** – facade-to-grid integration  
-- **[Sensor Handbook](../../docs/sensor-handbook.md)** – strain/vibration sensor details  
-
-All **exterior cladding** installations include **smart airlocks** at entry points for biosecurity and security compliance.
-
----
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
-
-© 2025 Earth-Star Industries
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
