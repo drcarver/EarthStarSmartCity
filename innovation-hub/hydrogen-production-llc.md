@@ -1,87 +1,68 @@
 ---
 layout: default
-title: Genesis Network – Hydrogen Production LLC
-description: Detailed specification for the Hydrogen Production LLC within the Genesis Network Innovation Hub – green hydrogen from surplus renewable power and biogas integration.
+title: Hydrogen Production LLC – Genesis Network Specification
+description: Professional spec sheet for the Hydrogen Production LLC within the Genesis Network Innovation Hub.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Hydrogen Production LLC**  
-**Innovation Hub Component – January 2026 Baseline**
+# Hydrogen Production LLC  
+**Genesis Network Innovation Hub**
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+**© 2025–2026 Earth-Star Industries**  
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-## Overview
+## Executive Overview
 
-The **Hydrogen Production LLC** is a dedicated entity within the **[Innovation Hub](innovation-hub-overview.md)** focused on producing **green hydrogen** using surplus renewable electricity from **[BIPV Roof Glazing Tiles](../components/tiles/roof-glazing-tile.md)**, **[agrivoltaics](../components/kits/smart-infrastructure-kit.md)**, and **[biogas](../components/pods/biogas-digester-pod.md)** systems. It integrates with the Network's closed-loop principles by utilizing excess power that would otherwise be curtailed and capturing CO₂ from biogas upgrading for potential **[Direct Air Capture](direct-air-capture-llc.md)** or mineralization.
+Hydrogen Production LLC focuses on green hydrogen (H₂) generation via electrolysis powered by surplus renewable energy from biogas microturbines, agrivoltaics, and waste heat recovery. Core products include high-purity hydrogen for internal use (fuel cells, ammonia synthesis, industrial processes) and external sales (transport, energy storage). Deployed in dedicated pod clusters co-located with high-surplus hubs, the LLC launches pilots in 2028–2030 (Phase 1–2) with full scale by 2035–2040. Revenue role: High-margin energy export ($280–950M/hub/year mature) and internal cost reduction (near-zero energy OPEX). CAPEX per hub: $100–250M; ROI <3 years via premiums and synergies.
 
-**Primary Role**  
-- Generate clean hydrogen for internal use (fuel cells, ammonia synthesis, industrial processes) and external sales  
-- Enable energy storage and transport across hubs and affiliates  
-- Support **[Autonomous Mobility LLC](autonomous-mobility-llc.md)** and **[Maritime & Ports Infrastructure LLC](maritime-ports-llc.md)** with zero-emission fuel  
+## Relevant Components
 
-**Localization Note**  
-In non-U.S. regions, this LLC is replaced with sovereign equivalents compliant with local energy regulations and cultural needs (e.g., Sharia-compliant finance structures in Gulf states).
+### Tiles
+| Name (Hyperlinked)                          | Description & Key Features                          | Inputs/Materials                          | Manufacturing Process                     | Cost ($/m²) | Revenue/Value                          |
+|---------------------------------------------|-----------------------------------------------------|-------------------------------------------|-------------------------------------------|------------|----------------------------------------|
+| [Insulating / Thermal Mass Tile](components/tiles/insulating-thermal-mass-tile.md) | Indoor AWG recapture, micro-piezo, thermal sensors for electrolyzer efficiency | Bagasse pore-formers, farm residues       | Forming → drying → firing → embedding     | 15–26      | Internal use; heat recovery savings    |
+| [Structural Load-Bearing Tile](components/tiles/structural-load-bearing-tile.md) | Foundations/walls for H₂ storage tanks              | ELFM slag (70%), brownfield materials     | Extrusion → firing → piezo embedding      | 16–28      | Safety-critical containment            |
 
-## Technical Specifications
+### Pods
+| Name (Hyperlinked)                          | Description & Key Features                          | Inputs/Materials                          | Manufacturing Process                     | Cost ($/pod) | Revenue/Value                          |
+|---------------------------------------------|-----------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------|----------------------------------------|
+| [Biogas Digester & Upgrading Pod](components/pods/biogas-digester-pod.md) | Primary energy input for electrolysis               | Manure, food waste                        | Ceramic-lined assembly                    | 0.7–1.8M     | Surplus power feed                    |
+| [Hydrogen Production Pod](components/pods/hydrogen-production-pod.md) | Electrolyzer + purification cluster                 | Surplus power, water (AWG)                | Ceramic shell + PEM electrolyzer install  | 1.2–3.5M     | Core H₂ generation unit                |
 
-### Production Methods
-1. **Electrolysis (Primary)**  
-   - PEM electrolyzers powered by surplus DC from **[BIPV tiles](../components/tiles/roof-glazing-tile.md)** and **[biogas microturbines](components/pods/biogas-digester-pod.md)**  
-   - Efficiency: 65–78% (mature phase with data moat optimization)  
-   - Capacity per hub: 500–2,000 kg H₂/day (scalable with surplus power)
+### Kits
+| Name (Hyperlinked)                          | Description & Key Features                          | Inputs/Materials                          | Manufacturing Process                     | Cost ($/kit) | Revenue/Value                          |
+|---------------------------------------------|-----------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------|----------------------------------------|
+| [Sustainable Energy Kit](components/kits/sustainable-energy-kit.md) | Waste heat recovery + grid tie-in for electrolysis  | Ceramic pipes, heat exchangers            | Flat-pack assembly                        | 0.4–1.0M     | Enables surplus utilization            |
 
-2. **Biogas Reforming (Secondary / Hybrid)**  
-   - Steam methane reforming of upgraded biomethane with CCS  
-   - CO₂ captured for **[enhanced weathering](../components/kits/restoration-kit.md)** or mineralization into tiles  
+### Sensors
+| Name (Hyperlinked)                          | Description & Key Features                          | Placement                                 | Power Source      | Standards Compliance                  |
+|---------------------------------------------|-----------------------------------------------------|-------------------------------------------|-------------------|---------------------------------------|
+| [Environmental (H₂ Leak / Pressure)](docs/sensors/environmental-sensors.md) | Hydrogen detection, pressure monitoring             | Electrolyzer pods, storage tanks          | BIPV / piezo      | ISO 19880 (H₂ safety), IEEE 1451      |
+| [Thermal / Flow Sensors](docs/sensors/thermal-sensors.md) | Electrolyzer efficiency, heat recovery tracking     | Heat exchangers, pipes                    | Piezo             | ISO 7726, MIL-STD-810                 |
 
-### Integration Points
-- Power input: Direct DC feed from **[Smart Infrastructure Kit](../components/kits/smart-infrastructure-kit.md)**  
-- Water input: Recycled from **[AWG condensers](../components/tiles/roof-glazing-tile.md)** and digestate  
-- Storage: Ceramic-lined pressure vessels or metal hydrides (waste-derived)  
-- Distribution: Piped via **[Smart Pipes](../components/tiles/smart-pipe-infrastructure.md)** or mobile tanker pods  
+### Standards & Compliance
+| Standard                                    | Relevance                                           |
+|---------------------------------------------|-----------------------------------------------------|
+| [ISO 19880](docs/standards/iso-19880.md)    | Hydrogen fueling systems safety                     |
+| [IEEE 2030](docs/standards/ieee-2030.md)    | Smart grid interoperability for surplus integration |
+| [ISO 14001](docs/standards/iso-14001.md)    | Environmental management for green H₂ production    |
 
-### Standards Compliance
-- ISO 22734 (hydrogen generators)  
-- IEEE 2030 (smart grid interoperability)  
-- ISO 14001 (environmental management)  
+### Related / Supporting LLCs in the Innovation Hub
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) – Waste heat & grid management  
+- [Battery & Energy Storage LLC](innovation-hub/battery-energy-storage-llc.md) – Surplus buffering  
+- [Water Purification & Desalination LLC](innovation-hub/water-purification-desalination-llc.md) – Pure water feedstock  
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) – Syngas co-production  
 
-## Sensor Handbook – Hydrogen Production Specific
+**Project Phase**: Deferred high-margin (pilots 2028–2030; scale 2035–2040).  
 
-| Sensor Category      | Key Types                                      | Primary Functions                                  | Integration Level                  | Lifespan / Redundancy |
-|----------------------|------------------------------------------------|----------------------------------------------------|------------------------------------|-----------------------|
-| Hydrogen Safety      | Catalytic, electrochemical H₂ detectors        | Leak detection, explosion prevention               | All production & storage zones     | 5–10 years / 4–6×     |
-| Pressure / Flow      | Ultrasonic flow, high-precision pressure       | Process control, safety shutdowns                  | Electrolyzers & pipelines          | 10–15 years / 3–5×    |
-| Purity Analysis      | Thermal conductivity, gas chromatography       | H₂ quality verification (99.99%+)                  | Output streams                     | 8–12 years / 3×       |
-| Electrolyte Health   | pH, conductivity, temperature                  | Stack efficiency & longevity monitoring            | PEM cells                          | 5–10 years / 4×       |
-| Environmental        | Temperature, humidity, wind (for venting)      | Safe dispersion modeling                           | Facility perimeter                 | 10–15 years / 3–5×    |
+**Financials (Per Mature Hub)**  
+- CAPEX: $100–250M  
+- OPEX: $20–60M/year  
+- Revenue: $280–950M/year (60–80% margins from premiums + internal savings)  
+- Break-even: 2–3 years post-launch  
 
-**Smart Airlocks** in hydrogen facilities include enhanced H₂-specific detectors with automatic shutdown integration.
+## Viability & Integration Notes
+Hydrogen Production LLC leverages surplus renewable energy for high-value green H₂, providing revenue diversification and internal fuel cell powering. Integration with biogas and energy storage ensures reliability; safety sensors and ceramic containment minimize risks. Scalable via modular pods; strong synergies accelerate overall network self-sufficiency.
 
-## Financials (Mature Hub, 2040s)
-
-- **CAPEX Addition**: $100–$250M per hub  
-- **Annual OPEX**: $15–$40M (mostly power, offset by surplus)  
-- **Revenue Streams**:
-  - Internal use (fuel cells, processes): $80–$200M/year equivalent savings  
-  - External sales (industrial/transport): $200–$750M/year  
-- **Gross Margin**: 68–85%  
-- **Network Contribution (2050)**: $15–$60B/year  
-
-## Viability Enhancements
-
-- **Risk Isolation**: Operates as independent LLC → failure does not impact food/water core  
-- **Data Moat Boost**: Parallel electrolyzer testing + sensor feedback → 20–40% efficiency gains  
-- **Political Appeal**: Green hydrogen supports energy independence narratives  
-- **Scalability**: Modular electrolyzer pods enable rapid affiliate deployment  
-
-**License Notice**  
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You may share and adapt provided appropriate credit is given.
-
-https://creativecommons.org/licenses/by/4.0/  
-
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-(Attribution appreciated when sharing or building upon this framework)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
