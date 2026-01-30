@@ -1,97 +1,64 @@
 ---
 layout: default
-title: Structural Tiles – Genesis Network Component Specification
-description: Detailed specification for **Structural Load-Bearing Tiles** used in the Genesis Network, including manufacturing, materials, performance, costs, revenues, and integration.
+title: Structural Load-Bearing Tiles – Genesis Network Specification
+description: Professional specification sheet for Genesis Network Structural Load-Bearing Tiles, including components, sensors, standards, related LLCs, phase, and financials.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
 # Structural Load-Bearing Tiles  
-**Genesis Network Core Building Component**
+**Genesis Network Specification**
 
-**Structural Load-Bearing Tiles** are the foundational elements of all Genesis Network buildings, roads, foundations, and heavy infrastructure. They provide high compressive strength, embedded smart features, and full compatibility with the **pod-centric architecture** while being produced from **70–95% waste-derived materials**.
+**Executive Overview**  
+Structural Load-Bearing Tiles form the foundational compressive elements of all Genesis buildings, roads, foundations, and heavy infrastructure. Manufactured from 70–95% waste-derived toughened ceramics, they embed piezoelectric vibration harvesting (20–60 elements/m²) and 3–5× redundant strain/pressure/thermal sensors for predictive structural health monitoring. These tiles provide 60–100+ MPa compressive strength, enabling vaulted designs, deep pile integration, and modular snap-together assembly. They are produced in Tile Production Pods and Factories, support self-powered sensor operation, and integrate directly into the network-wide data moat for real-time integrity assessment.
 
-## Key Characteristics
+## Components & Dependencies
 
-- **Primary Function**: Serve as structural blocks, foundation bases, load-bearing walls, and heavy-duty flooring/road sub-bases  
-- **Compressive Strength**: 60–100+ MPa (exceeding ASTM C216 facing brick and EN 14411 standards)  
-- **Embedded Features**: Piezoelectric vibration harvesting (20–60 elements/m²), 3–5× redundant strain/vibration/thermal sensors, embedded conduits for power/data/water/pneumatic lines  
-- **Dimensions**: Standard modular sizes (e.g., 600×600 mm, 300×600 mm, custom variants) with interlocking snap-together edges  
-- **Weight**: 18–35 kg/m² (depending on thickness 20–60 mm)  
-- **Durability**: 50–100+ year service life; resistant to freeze-thaw, chemical attack, abrasion  
-- **Fire Rating**: Class A (non-combustible)  
-- **EMP/RFI Protection**: Integrated Faraday copper mesh layer  
+### Pods (Relevant Only)
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
+|------|----------------------------|------------------|-----------------------|--------------|------------------------|
+| [Tile & Pipe Production Pod](../pods/tile-pipe-production-pod.md) | Primary manufacturing unit for structural tiles; kilns, mixers, robotic handling | Slag, RHA, residues | Pod shell (ceramic) + leased kilns + automation | 0.8–2.0M | 1.5–3.5M |
 
-## Manufacturing Process
+### Kits (Relevant Only)
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
+|------|----------------------------|------------------|-----------------------|--------------|------------------------|
+| [Tile & Pipe Production Kit](../kits/tile-pipe-production-kit.md) | Bootstrap kit for on-site tile factories; includes molds, portable kilns | Ceramic feedstock, tools | Kit assembly in Tile Production Pods | 0.5–1.2M | 1.0–2.5M |
+| [Smart Infrastructure Interconnect Kit](../kits/smart-infrastructure-interconnect-kit.md) | Pipes, conduits, and structural connectors for load-bearing integration | Ceramic feedstock, conductive layers | Kit assembly in Tile Production Pods | 0.4–1.0M | 0.8–2.0M |
 
-Produced exclusively in **Tile Production Pods** using the following steps:
+### Sensors (Relevant Only)
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit) | Revenue/Value |
+|------|----------------------------|------------------|-----------------------|---------------|---------------|
+| [Strain / Vibration Sensors](../../docs/sensors/strain-vibration-sensors.md) | 3–5× redundant; monitor structural integrity, traffic load | Piezoelectric elements, ceramic substrate | Embedded during tile firing | 2–8 | Internal data moat value |
+| [Thermal / Humidity Sensors](../../docs/sensors/thermal-humidity-sensors.md) | Passive climate & thermal mass monitoring | Ceramic + microelectronics | Embedded during tile forming | 1–5 | Internal data moat value |
 
-1. **Raw Material Preparation**  
-   - Primary inputs: **ELFM slag** (70%), brownfield residues, rice husk ash (RHA) silica  
-   - Mobile crushers + plasma vitrification for slag processing  
+### Standards & Compliance (Relevant Only)
+| Name | Description & Key Features |
+|------|----------------------------|
+| [ASTM C109 – Compressive Strength](../../docs/standards/astm-c109.md) | 60–100+ MPa verification |
+| [MIL-STD-810 – Environmental Engineering](../../docs/standards/mil-std-810.md) | Durability & ruggedness |
+| [ISO 14001 – Environmental Management](../../docs/standards/iso-14001.md) | Waste-derived production compliance |
+| [IEEE 1451 – Smart Transducer Interfaces](../../docs/standards/ieee-1451.md) | Sensor integration |
 
-2. **Mixing & Forming**  
-   - High-capacity pan mixers → extrusion or high-pressure pressing  
-   - Incorporation of piezoelectric (PZT) layers and sensor embeds during forming  
+### Related / Supporting LLCs in the Innovation Hub
+- [Tile & Pipe Production LLC](../../innovation-hub/tile-pipe-production-llc.md) – Primary manufacturing  
+- [Advanced Recycling & Waste Valorization LLC](../../innovation-hub/advanced-recycling-llc.md) – Feedstock supply (slag/ELFM)  
+- [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md) – Waste heat recovery integration  
+- [Battery & Energy Storage LLC](../../innovation-hub/battery-energy-storage-llc.md) – Power buffering for piezo output  
 
-3. **Drying & Firing**  
-   - Tunnel dryers using waste heat recovery  
-   - High-temperature tunnel kilns (1,200–1,400°C) for toughening  
+**Project Phase**:  
+- Phase 1 (Bootstrap 2026–2030) – Basic structural tiles online  
+- Phase 2 (Early Scale 2031–2035) – Full piezo + sensor integration  
+- Phase 3+ (National/Global Maturity 2036+) – High-density urban load-bearing applications  
 
-4. **Quality Control & Finishing**  
-   - Vision-guided robotic stacking  
-   - Embedded sensor calibration and testing  
+**Financial Summary (Mature Network-Wide)**  
+- Production Cost: $16–28/m²  
+- Selling Price: $48–75/m²  
+- Gross Margin: 60–70%  
+- Annual Revenue Potential: $25–80B (structural tiles only)  
+- ROI Payback: 12–24 months (internal use + external sales)
 
-All production lights-out capable with telepresence oversight.
+## Viability & Integration Notes
 
-## Input Sources & Materials
+Structural Load-Bearing Tiles are the backbone of all Genesis construction, enabling vaulted, munitions-resistant (8–9/10 rating), and self-monitoring structures with zero legacy materials. Piezoelectric energy harvesting provides micro-power for sensors (self-sustaining arrays), feeding the network-wide data moat for predictive maintenance and optimization. Integration with interconnect kits ensures seamless snap-together assembly and bidirectional utility flow. High compressive strength and waste-derived composition support gigaton sequestration goals while minimizing virgin mining. Primary risk is initial piezo yield consistency (mitigated by parallel testing and data moat iteration). Tiles drive early revenue and enable exponential hub replication.
 
-| Input Category      | Primary Sources                     | Percentage | Notes |
-|---------------------|-------------------------------------|------------|-------|
-| Aggregate/Base      | ELFM slag, brownfield materials     | 65–75%     | Plasma vitrified for purity |
-| Silica Source       | Rice husk ash (RHA)                 | 10–20%     | Waste-derived from farm pods |
-| Pore-Formers        | Bagasse, straw, grape pomace        | 5–10%      | Enhances insulation variants |
-| Piezo Elements      | PZT layers (sourced or in-house)    | <5%        | Vibration energy harvesting |
-| Sensors/Conduits    | Self-produced silicon + copper mesh | <2%        | From Mini-Fab after 2029 |
-
-## Performance Specifications
-
-| Property                    | Value                          | Standard Compliance          |
-|-----------------------------|--------------------------------|------------------------------|
-| Compressive Strength        | 60–100+ MPa                    | ASTM C216, EN 14411          |
-| Piezoelectric Output        | 10–60 mW/m² (traffic/vibration)| Emerging IEC 62830           |
-| Sensor Redundancy           | 3–5× per critical point        | IEEE 1451                    |
-| Thermal Conductivity        | 0.8–1.5 W/m·K                  | ISO 10456                    |
-| Water Absorption            | <6%                            | ASTM C373                    |
-| EMP Protection              | Full Faraday cage integration  | NASA-STD-8739.10             |
-
-## Cost & Revenue (Mature Phase, 2035+)
-
-| Metric                      | Value                  | Notes |
-|-----------------------------|------------------------|-------|
-| Production Cost             | $1.6–3.0 / m²          | Reduced 20% via waste inputs & automation |
-| Selling Price (internal)    | $5.5–8.5 / m²          | Transfer price within network |
-| Selling Price (external)    | $8–12 / m²             | Premium for smart features |
-| Annual Revenue per Hub      | $300–700M              | From internal use + external sales |
-| Gross Margin                | 65–82%                 | High due to waste-derived inputs |
-
-## Integration & Applications
-
-- **Buildings**: All **Genesis Network** structures (housing, schools, **TerraWell FreeCare** centers, factories) constructed exclusively from **Structural Load-Bearing Tiles** + complementary variants  
-- **Foundations & Roads**: Used as base layer under **permeable road tiles**; smart conduits for utilities  
-- **Smart City Standards**: Fully compliant with **ISO/TC 268** (sustainable cities), **IEEE 2030** (grid interop), **ITU-T Y.4900** (KPIs); embedded sensors feed real-time data to compliance portals  
-- **Security Features**: Integrated with **Smart Airlock Kit** and **Security & Smart City Kit** for building-wide monitoring  
-- **Sustainable Building Codes**: Aligns with **ISO 14001** (environmental management), Cradle-to-Cradle principles, and local green building codes via waste-derived composition  
-
-## Related Components
-
-- **[Roof Glazing (Semi-Transparent)](/components/tiles/roof-glazing.md)**  
-- **[Exterior Cladding](/components/tiles/exterior-cladding.md)**  
-- **[Permeable Road Tiles](/components/tiles/permeable-roads.md)**  
-- **[Smart Infrastructure Kit](/components/kits/smart-infrastructure-kit.md)**  
-
----
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](/LICENSE.md).  
-
-© 2025 Earth-Star Industries
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
