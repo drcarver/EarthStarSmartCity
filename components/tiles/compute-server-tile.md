@@ -1,89 +1,59 @@
 ---
 layout: default
-title: Genesis Network – Compute Server Tile Specification
-description: Detailed production-ready specification for pure server compute tiles in the Genesis Network – modular, hot-swappable, self-powered, and integrated into the regenerative ceramic ecosystem (January 2026 baseline).
+title: Compute Server Tile
+description: Specification for the Genesis Network Compute Server Tile – embedded edge compute module for distributed intelligence fabric.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Compute Server Tile**  
-**Detailed Specification**
+# Compute Server Tile
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+**Primary downstream load:** 5–40 W TDP per tile  
+**Project Phase:** Initial deployment 2027–2030 (65–130 nm), scale-up 2031–2035 (28–7 nm), mature 2036+ (5–3 nm)
 
-## Overview
+The Compute Server Tile is a hot-swappable, self-powered structural module that embeds RISC-V-based edge compute directly into walls, floors, and furniture surfaces across Genesis hubs. It forms the foundational layer of the planetary-scale distributed intelligence fabric, supporting inference, federated learning, digital twin execution, and predictive maintenance. Tiles ship functional with minimal onboard compute; optional server-class AI modules upgrade intelligence via blind-mate pockets. All manufacturing occurs in on-site Tile Production Pods/Factories using 70–95% waste-derived toughened ceramics.
 
-The **Compute Server Tile** is a foundational component of the Genesis Network's distributed intelligence fabric. Embedded directly into walls, floors, and structures, these tiles provide sovereign, self-powered, hot-swappable server compute capability using waste-derived toughened ceramics.
+### Components Used or Produced
 
-Key features:
-- Full integration with **[Roof Glazing Tile](roof-glazing-tile.md)**, **[Exterior Cladding Tile](exterior-cladding-tile.md)**, and **[Networking Snap Tile](networking-snap-tile.md)** power/data fabric
-- Hot-swappable compute and **[Independent Storage Module](independent-storage-module.md)** (decoupled upgrades)
-- Designed for edge workloads: inference, federated learning, digital twins, predictive maintenance
-- Manufactured in **[Tile & Pipe Production Pod](../pods/tile-production-pod.md)** → permanent factories
-- Compliant with **[Smart City Standards](../../docs/standards/smart-city-standards.md)** and **[Sustainable Building Codes](../../docs/standards/sustainable-building-codes.md)**
+#### Tiles
+| Name                                      | Description & Key Features                              | Inputs/Materials                          | Manufacturing Process                     | Cost ($/m²) | Revenue/Value ($/m² or per tile) |
+|-------------------------------------------|---------------------------------------------------------|-------------------------------------------|-------------------------------------------|-------------|----------------------------------|
+| [Networking Snap Tile](networking-snap-tile.md) | Inductive power (50–100 W), mmWave/optical waveguide (10–100 Gbps) | Ceramic + conductive layers               | Same as above + waveguide integration     | 35–60       | 100–180                          |
+| [Roof Glazing (Semi-Transparent)](roof-glazing.md) | BIPV (10–30%), AWG condensers (power for compute)       | Rice husk ash, farm residues              | Glass-ceramic firing + PV embed           | 25–45       | 75–125                           |
 
-## Physical & Structural Specification
+#### Pods
+| Name                                      | Description & Key Features                              | Inputs/Materials                          | Manufacturing Process                     | Cost ($/pod) | Revenue/Value ($/pod) |
+|-------------------------------------------|---------------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------|------------------------|
+| [Tile & Pipe Production Pod](../pods/tile-production-pod.md) | Produces compute tiles & networking tiles               | Slag, RHA, residues                       | Tent → permanent ceramic cluster          | 0.8–2.0M     | 1.5–3.5M (internal)    |
+| [Compute & Networking Pod](../pods/compute-networking-pod.md) | Racks & cooling for compute/network tiles               | Compute/storage modules                   | Ceramic shell + conduits                  | 1.5–4.0M     | 3.0–7.0M               |
 
-- **Standard size**: 600 × 600 mm (large-format variants 1200 × 1200 mm)
-- **Thickness**: 25–45 mm (20–30 mm structural ceramic + 10–15 mm module pocket)
-- **Material**: Toughened ceramic composite (60–100+ MPa compressive, 70–95% waste-derived: C&D slag, RHA silica, ELFM residues)
-- **Embedded passive features**:
-  - AWG condenser channels (water generation + cooling)
-  - Piezoelectric harvesting layers
-  - Microchannel closed-loop water cooling (AWG-sourced)
-  - Graphene/liquid-metal thermal spreader
-  - Faraday mesh (EMP/RFI protection)
-  - Blind-mate multi-interface array (power, data, water, thermal)
+#### Kits
+| Name                                      | Description & Key Features                              | Inputs/Materials                          | Manufacturing Process                     | Cost ($/kit) | Revenue/Value ($/kit) |
+|-------------------------------------------|---------------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------|------------------------|
+| [Smart Infrastructure Interconnect Kit](../kits/smart-infrastructure-kit.md) | Pipes, snap networking tiles, PoE injectors             | Ceramic feedstock                         | Tile factory production                   | 0.4–1.0M     | 0.8–2.0M               |
 
-## Hot-Swappable Compute Module
+#### Sensors (Relevant Only)
+| Name                                      | Description & Key Features                              | Placement                                 | Power Source                              | Standards Compliance |
+|-------------------------------------------|---------------------------------------------------------|-------------------------------------------|-------------------------------------------|----------------------|
+| [Strain / Vibration Sensors](../../docs/sensors/strain-vibration.md) | Structural health, traffic load                         | Load-bearing tiles, foundations           | Piezo (self-powered)                      | ASTM C109            |
+| [Thermal / Humidity Sensors](../../docs/sensors/thermal-humidity.md) | Climate control, AWG efficiency                         | All tiles, airlocks                       | BIPV / piezo                              | ISO 7726             |
+| [Multispectral / Hyperspectral Sensors](../../docs/sensors/multispectral.md) | Vegetation health, soil/water quality                   | Rooftops, fields, aquaponics              | BIPV                                      | IEEE 1451, OGC SWE   |
 
-- **Footprint**: 100 × 100 × 10–15 mm
-- **Interface**: Blind-mate military-grade (power/data/water/thermal)
-- **Thermal coupling**: Graphene or liquid-metal pad to tile microchannels
-- **Retention**: Magnetic + mechanical latch (tool-less, 30–60 s swap)
-- **Cooling**: Tile-supplied microchannel loop (passive, no fans)
-- **Upgrade independence**: Compute swaps without affecting storage or passive tile functions
+#### Standards & Compliance
+| Standard / Reference                      | Description                                             | Applicability                             |
+|-------------------------------------------|---------------------------------------------------------|-------------------------------------------|
+| [IEEE 1451](../../docs/standards/ieee-1451.md) | Transducer interfaces for smart sensors                 | All embedded sensors                      |
+| [ISO/TC 268](../../docs/standards/iso-tc-268.md) | Sustainable cities & communities                        | City/hub integration                      |
+| [IEEE 2030](../../docs/standards/ieee-2030.md) | Smart grid interoperability                             | Power distribution                        |
+| [MIL-STD-810](../../docs/standards/mil-std-810.md) | Environmental engineering & ruggedness                  | Structural & sensor durability            |
 
-### Compute Performance Progression
+#### Related / Supporting LLCs in the Innovation Hub
+- [Battery & Energy Storage LLC](../../innovation-hub/battery-energy-storage-llc.md) – Sodium-ion support for tile power autonomy  
+- [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md) – Waste heat recovery for cooling loops  
+- [Advanced Recycling & Waste Valorization LLC](../../innovation-hub/advanced-recycling-llc.md) – Feedstock from e-waste/plasma vitrification  
+- [Lights-Out Sustainable Forestry LLC](../../innovation-hub/lights-out-sustainable-forestry-llc.md) – Biochar for ceramic composites  
 
-| Era / Timeline     | Process Node | RISC-V Cores (64-bit) | Clock Range | On-Module RAM | TDP (per module) | FP32 GFLOPS per Tile | Primary Workloads                          |
-|--------------------|--------------|------------------------|-------------|---------------|------------------|-----------------------|--------------------------------------------|
-| 2027–2030 (Launch) | 65–130 nm    | 4–8                    | 1.2–1.8 GHz | 4–8 GB        | 5–12 W           | 10–45 GFLOPS          | Edge inference, sensor fusion, local twins |
-| 2031–2035          | 28–7 nm      | 8–16                   | 1.8–3.2 GHz | 8–32 GB       | 10–25 W          | 60–350 GFLOPS         | Federated learning, predictive control     |
-| 2036–2045          | 5–3 nm       | 16–32                  | 2.5–4.5 GHz | 16–64 GB      | 15–45 W          | 250–1,200 GFLOPS      | On-tile small LLM inference, real-time twins |
+**Viability & Integration Notes**  
+The Compute Server Tile is viable from Day 1 of tile production (2027) with minimal compute; AI upgrades are deferred to maintain early cash flow. Integration with networking tiles enables zero-cable fabric; independent storage pockets allow granular scaling. Revenue is internal (hub compute leasing) + external (sovereign leasing post-2035). Risk is low due to modular hot-swap design and distributed compute—no single tile failure impacts network. Full standards compliance (IEEE/ISO/MIL) ensures auditability and market acceptance.
 
-## Integration & Compatibility
-
-- **Power**: Draws from **[Networking Snap Tile](networking-snap-tile.md)** inductive fabric + local piezo/BIPV
-- **Data**: Connects via **[Networking Snap Tile](networking-snap-tile.md)** waveguide/mmWave
-- **Storage**: Independent hot-swappable **[Independent Storage Module](independent-storage-module.md)** (NVMe/MRAM, 128 GB–16 TB progression)
-- **Software**: Runs **[Genesis OS](../../docs/genesis-os-specification.md)** – modular microkernel with AI self-improvement
-- **Airlocks & Security**: All buildings with compute tiles include **[Smart Airlocks](..//smart-airlock.md)** (mmWave + hyperspectral scanning for weapons/explosives)
-
-## Sensor Integration in Compute Server Tiles
-
-| Sensor Type              | Function in Compute Tile                           | Redundancy | Data Output                                      | Lifespan |
-|--------------------------|----------------------------------------------------|------------|--------------------------------------------------|----------|
-| Thermal / Temperature    | Module & tile overheating prevention               | 4×         | Real-time TDP monitoring, predictive cooling     | 15 years |
-| Power Draw               | Efficiency optimization                            | 3×         | Voltage/current profiling for AI scheduling      | 12 years |
-| Vibration / Strain       | Structural integrity & tampering detection         | 3×         | Anomaly alerts to hub security                   | 20 years |
-| Radiation (Off-World)    | Cosmic ray error detection                         | 5×         | ECC triggering, data integrity                   | 25 years |
-
-## Manufacturing & Economics
-
-- **Production**: **[Tile & Pipe Production Kit](..//kits/tile-production-kit.md)** in **[Tile & Pipe Production Pod](../pods/tile-production-pod.md)**
-- **Cost**: $12–$28/ft² (mature)
-- **Selling Price**: $35–$90/ft²
-- **Margin**: 68–82%
-- **Network Revenue (2040s)**: $10–$35B/year
-
-**License Notice**  
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You may share and adapt provided appropriate credit is given.
-
-https://creativecommons.org/licenses/by/4.0/  
-
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-(Attribution appreciated when sharing or building upon this framework)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
