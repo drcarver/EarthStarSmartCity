@@ -12,41 +12,36 @@ Insulating Tiles are passive-dominant, high-thermal-mass building blocks designe
 
 ## Components & Dependencies
 
-### Tiles
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value ($/m²) |
-|------|----------------------------|------------------|------------------------|-------------|-----------------------|
-| [Insulating Tile](components/tiles/insulating.md) | Indoor AWG (humidity recapture), micro-piezo (occupancy motion), thermal sensors, high thermal mass | Bagasse pore-formers, farm residues, aerating agents | Mixing → extrusion/pressing → drying → low-temperature firing (1,000–1,200°C) → sensor embedding | 15–26 | 44–75 (premium efficiency) |
-
-### Pods
+### Ti### Pods
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
 |------|----------------------------|------------------|------------------------|--------------|------------------------|
-| [Tile & Pipe Production Pod](components/pods/tile-production.md) | Produces insulating tiles + all structural variants | Slag, RHA, residues | Robotic forming, tunnel kilns, vision QC | 0.8–2.0M | 1.5–3.5M (internal transfer) |
+| [Tile & Pipe Production Pod](../pods/tile-production.md) | Produces insulating tiles + all structural variants | Slag, RHA, residues | Robotic forming, tunnel kilns, vision QC | 0.8–2.0M | 1.5–3.5M (internal transfer) |
 
 ### Kits
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
 |------|----------------------------|------------------|------------------------|--------------|------------------------|
-| [Tile & Pipe Production Kit](components/kits/tile-production.md) | Bootstrap kit for on-site insulating tile manufacturing | Portable kiln, mixers, molds | Assembly in Tile Pod | 0.5–1.2M | 1.0–2.5M |
+| [Tile & Pipe Production Kit](../kits/tile-production.md) | Bootstrap kit for on-site insulating tile manufacturing | Portable kiln, mixers, molds | Assembly in Tile Pod | 0.5–1.2M | 1.0–2.5M |
 
 ### Sensors
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
 |------|----------------------------|------------------|------------------------|------|---------------|
-| [Thermal / Humidity Sensors](docs/sensors/thermal-humidity.md) | Monitor indoor climate, AWG efficiency, occupant comfort | Ceramic substrate, MEMS elements | Embedded during tile firing | $2–8 per tile | Included in tile premium |
-| [Micro-Piezo Sensors](docs/sensors/micro-piezo.md) | Occupancy motion harvesting & detection | PZT layers | Layered during pressing | $1–5 per tile | Self-powered operation |
+| [Thermal / Humidity Sensors](../../docs/sensors/thermal-humidity.md) | Monitor indoor climate, AWG efficiency, occupant comfort | Ceramic substrate, MEMS elements | Embedded during tile firing | $2–8 per tile | Included in tile premium |
+| [Micro-Piezo Sensors](../../ocs/sensors/micro-piezo.md) | Occupancy motion harvesting & detection | PZT layers | Layered during pressing | $1–5 per tile | Self-powered operation |
 
 ### Standards & Compliance
 | Standard | Description | Relevance to Insulating Tiles |
 |----------|-------------|--------------------------------|
-| [ISO 14001](docs/standards/iso-14001.md) | Environmental management system | Full lifecycle waste-derived compliance |
-| [ASTM C518](docs/standards/astm-c518.md) | Thermal resistance measurement | R-value verification (high thermal mass) |
-| [ISO 7726](docs/standards/iso-7726.md) | Ergonomics of thermal environment | Indoor comfort monitoring |
-| [MIL-STD-810](docs/standards/mil-std-810.md) | Environmental engineering considerations | Durability & ruggedness |
+| [ISO 14001](../../docs/standards/iso-14001.md) | Environmental management system | Full lifecycle waste-derived compliance |
+| [ASTM C518](d../../ocs/standards/astm-c518.md) | Thermal resistance measurement | R-value verification (high thermal mass) |
+| [ISO 7726](../../docs/standards/iso-7726.md) | Ergonomics of thermal environment | Indoor comfort monitoring |
+| [MIL-STD-810](../../docs/standards/mil-std-810.md) | Environmental engineering considerations | Durability & ruggedness |
 
 ### Related / Supporting LLCs in the Innovation Hub
 | LLC Name | Description & Role | Hyperlink |
 |----------|---------------------|-----------|
-| [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) | Waste heat recovery & thermal optimization | [Link](innovation-hub/sustainable-energy-llc.md) |
-| [Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md) | Aerating agents & pore-formers from waste | [Link](innovation-hub/bio-materials-textiles-llc.md) |
-| [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) | Feedstock processing (bagasse, residues) | [Link](innovation-hub/advanced-recycling-llc.md) |
+| [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md) | Waste heat recovery & thermal optimization | [Link](innovation-hub/sustainable-energy-llc.md) |
+| [Bio-Materials & Textiles LLC](../../innovation-hub/bio-materials-textiles-llc.md) | Aerating agents & pore-formers from waste | [Link](innovation-hub/bio-materials-textiles-llc.md) |
+| [Advanced Recycling & Waste Valorization LLC](../../innovation-hub/advanced-recycling-llc.md) | Feedstock processing (bagasse, residues) | [Link](innovation-hub/advanced-recycling-llc.md) |
 
 **Project Phase**: Phase 2 – Early Scale (2029–2031) – full integration into residential/community zones; prioritized after structural/load-bearing tiles.
 
