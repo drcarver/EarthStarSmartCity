@@ -12,7 +12,7 @@ Insulating Tiles are passive-dominant, high-thermal-mass building blocks designe
 
 ## Components & Dependencies
 
-### Ti### Pods
+### Pods
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
 |------|----------------------------|------------------|------------------------|--------------|------------------------|
 | [Tile & Pipe Production Pod](../pods/tile-production.md) | Produces insulating tiles + all structural variants | Slag, RHA, residues | Robotic forming, tunnel kilns, vision QC | 0.8–2.0M | 1.5–3.5M (internal transfer) |
@@ -26,13 +26,13 @@ Insulating Tiles are passive-dominant, high-thermal-mass building blocks designe
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
 |------|----------------------------|------------------|------------------------|------|---------------|
 | [Thermal / Humidity Sensors](../../docs/sensors/thermal-humidity.md) | Monitor indoor climate, AWG efficiency, occupant comfort | Ceramic substrate, MEMS elements | Embedded during tile firing | $2–8 per tile | Included in tile premium |
-| [Micro-Piezo Sensors](../../ocs/sensors/micro-piezo.md) | Occupancy motion harvesting & detection | PZT layers | Layered during pressing | $1–5 per tile | Self-powered operation |
+| [Micro-Piezo Sensors](../../docs/sensors/micro-piezo.md) | Occupancy motion harvesting & detection | PZT layers | Layered during pressing | $1–5 per tile | Self-powered operation |
 
 ### Standards & Compliance
 | Standard | Description | Relevance to Insulating Tiles |
 |----------|-------------|--------------------------------|
 | [ISO 14001](../../docs/standards/iso-14001.md) | Environmental management system | Full lifecycle waste-derived compliance |
-| [ASTM C518](d../../ocs/standards/astm-c518.md) | Thermal resistance measurement | R-value verification (high thermal mass) |
+| [ASTM C518](../../docs/standards/astm-c518.md) | Thermal resistance measurement | R-value verification (high thermal mass) |
 | [ISO 7726](../../docs/standards/iso-7726.md) | Ergonomics of thermal environment | Indoor comfort monitoring |
 | [MIL-STD-810](../../docs/standards/mil-std-810.md) | Environmental engineering considerations | Durability & ruggedness |
 
