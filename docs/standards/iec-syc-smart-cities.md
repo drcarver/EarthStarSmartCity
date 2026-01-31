@@ -1,54 +1,73 @@
 ---
 layout: default
-title: Voltage and Current Monitoring in the Genesis Network
-description: Detailed specification of voltage and current monitoring sensors, their role in the DC-dominant smart grid, integration with smart infrastructure, and compliance with relevant standards.
+title: IEC SyC Smart Cities – Genesis Network Integration Specification
+description: Concise spec sheet detailing Genesis Network components aligned with IEC SyC Smart Cities electrotechnical standards.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
-# Voltage and Current Monitoring  
-**Genesis Network DC-Dominant Smart Grid Integration**
+# IEC SyC Smart Cities  
+**Genesis Network Integration Specification**  
+**Earth-Star Industries – January 2026 Baseline**
 
-**Voltage/current monitoring** is a critical component of the Genesis Network's **[DC-dominant smart grid](../../components/dc-dominant-smart-grid.md)**, enabling real-time stability, islanding detection, fault prediction, and optimized bidirectional power flow between hubs, affiliates, and infrastructure. These sensors are embedded in **[smart pipes](../../components/smart-pipes.md)**, **[smart roads](../../components/smart-roads.md)**, and pod microgrids, with 3–5× redundancy for fault tolerance.
+**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-## Role and Applications
+### Executive Overview
 
-- **Grid Stability**: Continuous monitoring prevents overloads and brownouts in distributed systems.  
-- **Islanding Detection**: Rapid identification of grid separation for safe off-grid operation (critical during disasters).  
-- **Fault Prediction**: AI analysis of trends via **[data moat](../data-moat.md)** flags anomalies (e.g., arcing, degradation).  
-- **Optimization**: Supports **[waste heat recovery](../../components/waste-heat-recovery.md)** and **[piezoelectric harvesting](../../components/piezoelectric-harvesting.md)** by routing surplus efficiently.  
-- **Integration**: Feeds into **[edge AI](../../components/edge-ai.md)** for predictive load balancing; aligns with **[IEEE 2030](ieee-2030.md)** smart grid interoperability.  
+IEC SyC Smart Cities provides the electrotechnical framework for smart city systems, focusing on interoperability, energy management, sustainable infrastructure, and digital service integration. In the Genesis Network, this standard is implemented through embedded sensors, DC-dominant microgrids, smart ceramic infrastructure (tiles/pipes), and federated digital twins. The system achieves ISO/TC 268 and IEC SyC alignment via redundant, self-powered sensor arrays, bidirectional resource flows, and edge AI orchestration — enabling resilient, regenerative urban hubs with near-100% resource closure.
 
-Sensors are DC-native (0–1000V primary range) to minimize conversion losses in the Network's **[DC-dominant design](../../components/dc-dominant-smart-grid.md)**.
+### Components Aligned with IEC SyC Smart Cities
 
-## Specifications and Compliance
+#### Tiles
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value ($/m²) |
+|------|----------------------------|------------------|-----------------------|-------------|----------------------|
+| [Roof Glazing (Semi-Transparent)](../components/tiles/roof-glazing.md) | BIPV (10–30% transmittance), AWG condensers, PAR/thermal/humidity sensors | Rice husk ash, farm residues | Forming + thin-film PV embed + firing | 25–45 | 75–125 |
+| [Exterior Cladding](../components/tiles/exterior-cladding.md) | Supplementary BIPV, AWG, strain/vibration sensors | C&D slag (60%), residues | Composite forming + PV/AWG layers | 22–40 | 65–110 |
+| [Structural Load-Bearing](../components/tiles/structural-load-bearing.md) | Piezoelectric vibration harvesting, strain sensors | ELFM slag (70%), brownfield | Toughened ceramic + PZT embed | 16–28 | 48–75 |
+| [Permeable (Roads/Paths)](../components/tiles/permeable-roads-paths.md) | Piezoelectric, stormwater capture, acoustic/traffic sensors | C&D slag (75%) | Porous ceramic + piezo embeds | 20–34 | 57–92 |
+| [Networking Snap Tile](../components/tiles/networking-snap-tile.md) | Inductive power (50–100 W), mmWave/optical waveguide (10–100 Gbps) | Ceramic + conductive layers | Embed inductive coils + waveguides | 35–60 | 100–180 |
 
-- **Accuracy**: ±0.1% full scale (voltage/current)  
-- **Range**: 0–1000V DC standard; scalable to 1500V for high-load zones  
-- **Sampling Rate**: 10–100 kHz for transient detection  
-- **Redundancy**: 3–5 sensors per critical point with cross-validation  
-- **Durability**: Embedded in **[toughened ceramics](../components/tiles-catalog.md)**; **[MIL-STD-810](standards/mil-std-810.md)** compliant  
-- **Standards**: Primary alignment with **[IEC SyC Smart Cities](standards/iec-syc-smart-cities.md)** for smart grid indicators; **[IEEE 2030](standards/ieee-2030.md)** interoperability; **[ITU-T Y.4900](standards/itu-t-y4900.md)** KPIs  
+#### Pods
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
+|------|----------------------------|------------------|-----------------------|--------------|------------------------|
+| [Compute & Networking Pod](../components/pods/compute-networking-pod.md) | Edge compute racks, PoE fabric, local twin orchestration | Compute/storage modules, ceramic shell | Ceramic shell + conduit integration | 1.5–4.0M | 3.0–7.0M |
+| [Smart Infrastructure Pod](../components/pods/smart-infrastructure-pod.md) | Pipes, roads, networking interconnects, bidirectional resource routing | Ceramic feedstock, conductive layers | Tile assembly + smart conduit embed | 0.8–2.0M | 1.6–4.0M |
 
-## Sensor Table – Voltage/Current Monitoring and Related Types
+#### Kits
+| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
+|------|----------------------------|------------------|-----------------------|--------------|------------------------|
+| [Smart Infrastructure Interconnect Kit](../components/kits/smart-infrastructure-interconnect-kit.md) | Pipes, snap tiles, PoE injectors, waveguide extensions | Ceramic feedstock, conductive layers | Tile + conduit pre-assembly | 0.4–1.0M | 0.8–2.0M |
 
-| Sensor Type                        | Primary Applications | Key Specifications | Standards Compliance | Cost ($/unit) | Notes / Viability Enhancements |
-|------------------------------------|----------------------|--------------------|----------------------|---------------|--------------------------------|
-| **Voltage/Current Monitoring**     | Grid stability, islanding detection, load balancing | 0–1000V DC; ±0.1% accuracy; 10–100 kHz sampling | **[IEC SyC Smart Cities](../docs/standards/iec-syc-smart-cities.md)**, **[IEEE 2030](standards/ieee-2030.md)** | 15–30         | Core for **[DC-dominant smart grid](../../components/dc-dominant-smart-grid.md)**; embedded in pipes/roads |
-| **Power Quality Analyzer**         | Harmonic distortion, transient detection | THD <0.5%; surge capture | **[IEEE 1451](standards/ieee-1451.md)** | 25–50         | Predictive maintenance via **[data moat](../docs/data-moat.md)** |
-| **Battery State-of-Charge (SoC)**  | Sodium-ion storage monitoring | ±0.5% SoC; temperature compensation | **[ISO 14001](standards/iso-14001.md)** aligned | 20–40         | Extends off-grid autonomy 2–5 days |
-| **Piezoelectric Harvest Monitor**  | Road/floor energy capture efficiency | mW–W scale; vibration correlation | **[MIL-STD-810](standards/mil-std-810.md)** | 10–25         | Self-powers local sensors |
-| **Bidirectional Flow Meter**       | Power export/import tracking between hubs/affiliates | kWh accuracy ±0.2% | **[ITU-T Y.4900](standards/itu-t-y4900.md)** | 30–60         | Enables subsidized surplus to **[smallholder partnerships](../../strategy/smallholder-partnerships.md)** |
+#### Sensors
+| Name | Description & Key Features | Placement | Redundancy | Power Source | Standards Compliance |
+|------|----------------------------|-----------|------------|--------------|----------------------|
+| [Multispectral / Hyperspectral](../docs/sensors/multispectral-hyperspectral.md) | Vegetation, soil, water quality | Rooftops, fields, tanks | 3–5× | BIPV / piezo | IEEE 1451, OGC SWE |
+| [Strain / Vibration](../docs/sensors/strain-vibration.md) | Structural health, traffic load | Load-bearing tiles, foundations | 5× | Piezo (self-powered) | ASTM C109 |
+| [Thermal / Humidity](../docs/sensors/thermal-humidity.md) | Climate, AWG efficiency | All tiles, airlocks | 5× | BIPV / piezo | ISO 7726 |
+| [Security (Weapons/Explosives)](../docs/sensors/security-threat-detection.md) | Hyperspectral + mmWave threat scanning | All building airlocks | 5× | Grid / battery | MIL-STD-810, ISO 22320 |
 
-## Integration and Viability Enhancements
+#### Standards & Compliance
+- [IEC SyC Smart Cities](../docs/standards/iec-syc-smart-cities.md) – Electrotechnical aspects of smart city systems
+- [ISO/TC 268 Sustainable Cities and Communities](../docs/standards/iso-tc-268.md) – Urban metrics & indicators
+- [IEEE 2030 Smart Grid Interoperability](../docs/standards/ieee-2030.md) – Grid architecture & DC distribution
+- [ITU-T Y.4900 Smart Sustainable Cities](../docs/standards/itu-t-y4900.md) – Performance metrics
+- [Matter/Thread/Zigbee](../docs/standards/matter-thread-zigbee.md) – Device interoperability
+- [ISO 14001 Environmental Management](../docs/standards/iso-14001.md) – Resource closure & sustainability
 
-- **Deployment**: Embedded during **[tile production](../../components/tile-production.md)**; wireless/self-powered variants reduce wiring.  
-- **Data Flow**: Feeds **[edge AI](..././components/edge-ai.md)** for real-time optimization; blockchain logs for **[carbon credits](../../strategy/blockchain-credits.md)** tied to efficiency gains.  
-- **Viability Impact**: Reduces grid OPEX 10–20%; enhances **[resilience analysis](../resilience-analysis.md)** for disasters (e.g., EMP-protected monitoring).  
-- **Future**: Integration with **[space feedback loops](../../roadmaps/nasa-iss-integration.md)** for extreme environment monitoring (lunar/Mars grids).  
+#### Related / Supporting LLCs in the Innovation Hub
+- [Sustainable Energy LLC](../innovation-hub/sustainable-energy-llc.md) – Waste heat recovery & DC microgrids
+- [Battery & Energy Storage LLC](../innovation-hub/battery-energy-storage-llc.md) – Sodium-ion storage for grid stability
+- [Autonomous Mobility LLC](../innovation-hub/autonomous-mobility-llc.md) – Robotaxi fleets & inductive road charging
+- [Water Purification & Desalination LLC](../innovation-hub/water-purification-desalination-llc.md) – AWG & brine processing integration
+- [Advanced Recycling & Waste Valorization LLC](../innovation-hub/advanced-recycling-llc.md) – Feedstock for tiles & infrastructure
 
----
+**Project Phase**: Mature Network (2036–2045+); full IEC SyC alignment achieved post-Mini-Fab scale (2030–2035).
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../../LICENSE.md).  
+### Viability & Integration Notes
+- IEC SyC compliance is achieved through DC-dominant microgrids, embedded sensors, and Matter/Thread/Zigbee interoperability — enabling seamless smart city metrics (energy, water, transport, waste).  
+- Revenue from smart infrastructure tiles/pods (networking + power) contributes $15–60B/year network-wide in mature phase.  
+- Dense sensor net + digital twins provide real-time compliance reporting and predictive optimization, enhancing political/regulatory acceptance.  
+- All buildings incorporate smart airlocks (weapons/explosives scanning) and support sustainable building codes via 95–99% closure and Cradle-to-Cradle principles.
 
-© 2025 Earth-Star Industries
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2025–2026 EarthStar Technologies Conceptual Working Group
