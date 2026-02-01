@@ -5,8 +5,7 @@ description: Core strategies and design patterns for planning and building regen
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Regenerative City Planning Strategies**  
+# Prompt 05A - Regenerative City Planning Strategies
 **Earth-Star Industries – January 2026 Baseline**
 
 **© 2025–2026 Earth-Star Industries**  
