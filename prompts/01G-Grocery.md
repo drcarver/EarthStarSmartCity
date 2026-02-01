@@ -6,9 +6,8 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Genesis Network  
-**Consolidated Retail Supply Integration**  
-**Grocery Stores • Liquor Stores • Home & Garden Centers (Greenhouses)**  
-**January 2026 Baseline – All Discussed Changes Encapsulated**
+**Grocery Stores • Liquor Stores • Home & Garden Centers (Greenhouses) Condtruction supply**  
+**January 2026 Baseline – AlConsolidated Retail Supply Integrationl Discussed Changes Encapsulated**
 
 **© 2025–2026 EarthStar Technologies Conceptual Working Group**  
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
@@ -53,7 +52,7 @@ Staggered cycles ensure year-round reliable supply → reduced wholesale prices 
 
 **Maximum Liquor Stores per Hub**: 50–200.
 
-### Home & Garden Centers (Including Greenhouses)
+### Home & Garden Centers and Construction Supply home depot etc (Including Greenhouses)
 
 | Category                     | Genesis Supply Capability                                  | Key Enhancements (Phased)                                | Timeline to Full Coverage | Est. Additional CAPEX per Hub ($M) | Revenue Uplift per Hub ($M/year mature) |
 |------------------------------|------------------------------------------------------------|----------------------------------------------------------|----------------------------|-------------------------------------|------------------------------------------|
@@ -62,7 +61,7 @@ Staggered cycles ensure year-round reliable supply → reduced wholesale prices 
 | Garden Tools & Decor         | Ceramic tools/pots, decorative tiles                       | Specialized ceramic molding                              | 2031–2035                  | 20–70                               | 50–180                                   |
 | Pest Control & Organic       | Bio-pesticides from microbial/fungal pods                  | Expand fungal kit                                        | 2031–2035                  | 20–60                               | 40–150                                   |
 
-**Maximum Home/Garden Centers per Hub**: 30–150.
+Include retail tile sales
 
 ## Phased Rollout to Maximum Coverage
 
