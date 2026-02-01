@@ -5,7 +5,7 @@ description: Detailed phased plan for building Mini-Fabs and milestones to advan
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network: Pod-Based Mini-Fab to Advanced Fab Construction & Financials
+# Prompt 02: Pod-Based Mini-Fab to Advanced Fab Construction & Financials
 
 ## Overview
 
