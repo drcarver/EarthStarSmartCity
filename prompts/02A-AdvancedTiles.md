@@ -5,7 +5,7 @@ description: Comprehensive prompt for self-powered, AI-upgradeable tiles with ra
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Master Prompt: Market-Ready Tiles, AI Upgrades, & Rapid Factory Staging
+# Prompt 02A: Market-Ready Tiles, AI Upgrades, & Rapid Factory Staging
 
 ## Objective
 
