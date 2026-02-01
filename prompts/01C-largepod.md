@@ -5,7 +5,7 @@ description: Detailed prompt describing the full pod architecture.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt – Pod-Centric Regenerative Architecture
+# Prompt 01C– Pod-Centric Regenerative Architecture
 
 ## Objective
 
