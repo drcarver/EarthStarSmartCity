@@ -57,13 +57,13 @@ The Tile Catalog encompasses all waste-derived, multi-functional ceramic tiles c
 
 ## Related / Supporting LLCs in the Innovation Hub
 
-- [Ceramic Tile Production LLC]((../../innovation-hub/ceramic-tile-production-llc.md)  
-- [Smart Infrastructure LLC]((../../innovation-hub/smart-infrastructure-llc.md)  
-- [Sustainable Energy LLC]((../../innovation-hub/sustainable-energy-llc.md)  
-- [Security & Surveillance LLC]((../../innovation-hub/security-surveillance-llc.md)  
-- [Education & Telepresence LLC]((../../innovation-hub/education-telepresence-llc.md)  
-- [Retail & Dynamic Signage LLC]((../../innovation-hub/retail-dynamic-signage-llc.md)  
-- [Waste Heat Recovery LLC]((../../innovation-hub/waste-heat-recovery-llc.md)  
+- [Ceramic Tile Production LLC](../../innovation-hub/ceramic-tile-production-llc.md)  
+- [Smart Infrastructure LLC](../../innovation-hub/smart-infrastructure-llc.md)  
+- [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md)  
+- [Security & Surveillance LLC](../../innovation-hub/security-surveillance-llc.md)  
+- [Education & Telepresence LLC](../../innovation-hub/education-telepresence-llc.md)  
+- [Retail & Dynamic Signage LLC](../../innovation-hub/retail-dynamic-signage-llc.md)  
+- [Waste Heat Recovery LLC](../../innovation-hub/waste-heat-recovery-llc.md)  
 
 **Financials**: Network-wide tile revenues $500–1,500B/year mature (60–80% margins); costs reduced 15–25% via efficiencies; IRR +10–20% uplift from smart features/standards compliance.
 
