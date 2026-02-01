@@ -5,8 +5,7 @@ description: Full integration of grocery stores, liquor stores, and home/garden 
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Grocery Stores • Liquor Stores • Home & Garden Centers (Greenhouses) Condtruction supply**  
+# Prompt 01G - Grocery Stores • Liquor Stores • Home & Garden Centers (Greenhouses) Construction supply  
 **January 2026 Baseline – AlConsolidated Retail Supply Integrationl Discussed Changes Encapsulated**
 
 **© 2025–2026 EarthStar Technologies Conceptual Working Group**  
