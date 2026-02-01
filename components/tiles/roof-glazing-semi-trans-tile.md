@@ -1,56 +1,55 @@
 ---
 layout: default
-title: Genesis Network – Roof Glazing (Semi-Trans) Tile Specification
-description: Professional spec sheet for the Roof Glazing (Semi-Trans) Tile in the Genesis Network, including executive overview, relevant components, financials, project phase, and viability notes.
+title: Roof Glazing Semi-Trans Tile
+description: Specification for the semi-transparent BIPV roof glazing tile in the Genesis Network, providing daylighting, power generation, and water capture for greenhouses and structures.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-The Roof Glazing (Semi-Trans) Tile is a semi-transparent BIPV glazing component (10–30% transmittance) designed for greenhouse roofs, housing/community roofs, and growing pods. It maximizes natural light for photosynthesis while generating power via thin-film PV, capturing water through embedded AWG condensers, and integrating sensors for environmental monitoring. Manufactured from waste-derived materials, it supports regenerative closure and is snap-together modular for rapid deployment.
+# Roof Glazing Semi-Trans Tile
+
+The Roof Glazing Semi-Trans Tile is a semi-transparent BIPV (building-integrated photovoltaics) ceramic tile designed for greenhouse roofs, housing, and community structures in the Genesis Network. With 10–30% transmittance, it maximizes natural light for growing zones while generating power and capturing water via embedded AWG (atmospheric water generation). Fully self-powered and sensor-integrated, it enhances regenerative closure, enables early revenue from premium daylighting + energy, and scales via modular snap-together assembly.
 
 ## Tiles
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Roof Glazing (Semi-Trans)](roof-glazing-semi-trans-tile.md) | Semi-transparent BIPV + AWG + sensors; daylighting + power + water | RHA silica (80%), farm residues | Glass-ceramic forming + thin-film PV lamination + micro-condenser embeds + firing | $2.8–5.0/ft² | $8.5–14.0/ft² (sales) + $50–150/ft²/year (energy/water) |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value | Project Phase |
+|--------------------|----------------------------|------------------|-----------------------|------|---------------|---------------|
+| [Roof Glazing Semi-Trans Tile](/components/tiles/roof-glazing-semi-trans-tile.md) | Semi-transparent BIPV (10–30% transmittance) + AWG + thermal/humidity sensors; primary solar + daylighting + water | RHA silica (80%), farm residues | Glass-ceramic forming + thin-film PV lamination + micro-condensers firing | $2.8–5.0/ft² | $8.5–14.0/ft² or $200–400/m²/year (energy/water) | Phase 1 (2027–2028) |
 
 ## Pods
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Tile & Pipe Production Pod](../../pods/tile-pipe-production-pod.md) | Produces all tiles including Roof Glazing; kilns + embeds | C&D slag, residues | Pod assembly + ceramic forming/firing | $1–3M/pod | $200–500M/year (tiles) |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value | Project Phase |
+|--------------------|----------------------------|------------------|-----------------------|------|---------------|---------------|
+| [Tile Production Pod](/components/pods/tile-production-pod.md) | Produces all ceramic tiles including roof glazing; pre-loaded kilns | C&D slag, residues | Ceramic injection molding + firing | $1–3M/pod | $200–500M/year (tile sales) | Phase 1 (2027–2028) |
 
 ## Kits
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Vertical Urban Farming Kit](../../kits/vertical-urban-farming-kit.md) | Includes Roof Glazing for tower greenhouses | RHA silica, residues | Kit assembly from tiles | $100K–250K | $400K–900K (produce) |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value | Project Phase |
+|--------------------|----------------------------|------------------|-----------------------|------|---------------|---------------|
+| [Hybrid Greenhouse Kit](/components/kits/hybrid-greenhouse-kit.md) | Modular greenhouse assembly with roof glazing tiles for daylighting + power | RHA silica, residues | Tile kit assembly + glazing integration | $300K–800K | $1–3M/year (produce) | Phase 1 (2027–2028) |
 
 ## Sensors
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [PAR/Thermal/Humidity Sensors](../../../docs/sensors/par-thermal-humidity.md) | Environmental monitoring for growing optimization | Electronic embeds | Integrated during tile lamination | $5–15/unit | $20–50/unit (data value) |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value | Project Phase |
+|--------------------|----------------------------|------------------|-----------------------|------|---------------|---------------|
+| [PAR/Thermal/Humidity Sensor](/docs/sensors/par-thermal-humidity-sensor.md) | Monitors light/heat/moisture for growing optimization | Ceramic embeds | Embed during tile forming | $10–20/unit | Included in tile value | Phase 1 (2027–2028) |
 
 ## Standards & Compliance
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Sustainable Building Codes (ISO 14001)](../../../docs/standards/sustainable-building-codes.md) | Environmental management for regenerative construction | N/A | Compliance in design/firing | $10–20K/cert | $50–100K/year (premiums) |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value | Project Phase |
+|--------------------|----------------------------|------------------|-----------------------|------|---------------|---------------|
+| [Sustainable Building Codes](/docs/standards/sustainable-building-codes.md) | ISO 14001 compliance for env impact; Cradle-to-Cradle certified | Waste-derived | Inherent in manufacturing | Included | Credits $50–150M/year/hub | Phase 1 (2027–2028) |
+| [Smart City Standards](/docs/standards/smart-city-standards.md) | ISO/TC 268 for integration; IEEE 2030 for grid | Sensors/embeds | Design compliance | Included | Services $100–300M/year | Phase 2 (2030–2032) |
 
 ## Related / Supporting LLCs in the Innovation Hub
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Ceramic Tile Production LLC](../../../innovation-hub/ceramic-tile-production-llc.md) | Produces all ceramic tiles including Roof Glazing | C&D slag, RHA | Factory forming/firing | N/A | $500–1,500M/year (network) |
-| [Vertical Urban Farming LLC](../../../innovation-hub/vertical-urban-farming-llc.md) | Integrates Roof Glazing in farming towers | Farm residues | Pod/kit assembly | N/A | $300–900M/year (produce) |
-
-**Financials**: Production cost $2.8–5.0/ft²; selling price $8.5–14.0/ft²; annual revenue/value $100–300/ft² (energy/water/credits); CAPEX payback 1–2 years.  
-**Project Phase**: Phase 1 (2027–2028) – Bootstrap rollout.  
-**Suggested File Path**: components/tiles/roof-glazing-semi-trans-tile.md
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value | Project Phase |
+|--------------------|----------------------------|------------------|-----------------------|------|---------------|---------------|
+| [Ceramic Tile Production LLC](/innovation-hub/ceramic-tile-production-llc.md) | Manufactures all ceramic tiles including roof glazing | C&D slag, RHA | Factory/pod forming + firing | N/A | $200–500M/year (sales) | Phase 1 (2027–2028) |
+| [Sustainable Energy LLC](/innovation-hub/sustainable-energy-llc.md) | Integrates BIPV + AWG for energy/water | Residues | Embed in tiles | N/A | $150–400M/year (leasing) | Phase 2 (2030–2032) |
 
 ## Viability & Integration Notes
 
-The Roof Glazing (Semi-Trans) Tile is highly viable (9/10) as a core revenue driver, integrating seamlessly with greenhouse/aquaponics pods and vertical farming kits for daylighting + power + water. Embedded sensors feed the data moat for AI optimization; supports smart city standards (ISO/TC 268) and sustainable codes (ISO 14001). Enhances closure by capturing atmospheric water for cooling/irrigation; cultural variants available for global adaptations.
+The Roof Glazing Semi-Trans Tile is highly viable (9/10) as a core revenue driver, enabling early cash flow from daylighting + energy/water in greenhouses/housing. Integrates seamlessly with Tile Production Pods, Hybrid Greenhouse Kits, and sensor nets for AI optimization; supports sustainable codes via waste-derived materials and self-powering. Suggested file path: /components/tiles/roof-glazing-semi-trans-tile.md.
 
 ---
 
