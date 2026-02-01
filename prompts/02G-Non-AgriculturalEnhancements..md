@@ -5,7 +5,7 @@ description: Comprehensive prompt to define new/updated tiles, pods, kits, and s
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt – Genesis Network: Non-Agricultural Ecosystem Enhancements & New Components
+# Prompt 02G: Non-Agricultural Ecosystem Enhancements & New Components
 
 ## Objective
 
