@@ -5,7 +5,7 @@ description: Comprehensive prompt defining the enhanced aquaponics pod variants,
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt – Genesis Network: Enhanced Aquaponics Pods
+# Prompt 01B – Genesis Network: Enhanced Aquaponics Pods
 
 ## Objective
 
