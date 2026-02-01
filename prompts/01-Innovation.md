@@ -5,7 +5,7 @@ description: Detailed prompt defining the Innovation Hub using pod-based impleme
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt – Innovation Hub: Pod-Centric Regenerative Architecture & Phased Migration Plan
+# Prompt 01– Innovation Hub: Pod-Centric Regenerative Architecture & Phased Migration Plan
 
 ## Objective
 
