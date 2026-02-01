@@ -5,8 +5,7 @@ description: Practical examples and design patterns showing how snap-together ce
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**Hybrid Tile + 3D-Printed Construction Examples**  
+# Prompt 04A - Hybrid Tile + 3D-Printed Construction Examples 
 **Earth-Star Industries – January 2026 Baseline**
 
 **© 2025–2026 Earth-Star Industries**  
