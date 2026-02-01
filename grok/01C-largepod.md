@@ -1,97 +1,73 @@
 ---
 layout: default
-title: Genesis Network Pod-Centric Regenerative Architecture with Large & Specialty Livestock Pods - Executive Summary and Project Plan
+title: Genesis Network Prompt – Pod-Centric Architecture with Large & Specialty Livestock Pods
+description: Detailed prompt describing the full pod architecture.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Pod-Centric Architecture: Executive Summary
+# Prompt 01C– Pod-Centric Regenerative Architecture
 
-The **Genesis Network** employs a pod-centric regenerative architecture, where all operations begin in modified 40 ft high-cube ISO containers (Genesis Pods) for mobility, self-replication, and resilience. This framework fully describes pod variants, emphasizing large animal pods (cattle, horses, bison) and specialty livestock pods (goats, sheep, alpaca, llamas, emu/ostrich), with staggered delivery cycles (4–8 phases/year) ensuring continuous milk, meat, fiber, and offspring production. Pods prioritize animal welfare (biophilic designs, robotic monitoring), biosecurity (airlocks, sensors), and integration (manure to biogas, grazing under agrivoltaics).
+## Objective
 
-Universal features: Waste-derived ceramic shells (munitions-resistant), BIPV/AWG/piezo tiles, lights-out automation, hyper-dense sensors, and autonomous mobility. Pods transition to fixed structures only post-scale (e.g., herds >100). Region-specific: Bison in plains, alpaca in highlands. Livestock adds diversified revenues (+10–20% stability from staggering).
+This prompt expands the Genesis Network's **pod-centric regenerative architecture** to fully describe all pod variants, with special emphasis on **large animal pods** (e.g., cattle, horses) and **specialty livestock pods** (e.g., goats, sheep, alpaca, bison, or high-value breeds). All pods are based on modified 40 ft high-cube ISO containers, designed for mobility, self-replication, 95–99% resource closure, and lights-out automation. New livestock pods incorporate **staggered delivery** (controlled breeding/calving/lambing/kidding in overlapping phases) to ensure continuous year-round output of milk, meat, fiber, and offspring while maintaining animal welfare, biosecurity, and regenerative integration.
 
-Recomputed timelines (Jan 31, 2026 baseline): Pilots mid-2026; self-funding 2028. Costs: Pod CAPEX $40–90K (2026 materials/labor); revenues per livestock pod $200–600K/year (milk/meat/fiber). IRR: 50–70%; network revenue: $55–165B/year by 2035; viability: 8.5–9/10.
+The architecture prioritizes pod-first deployment: All functions start in pods for rapid bootstrapping, low permits, and resilience, transitioning to fixed structures only when scale or specialization demands (e.g., very large herds). Pods enable region-specific customization (e.g., bison pods in plains, alpaca in highlands).
 
-# Project Overview
+## Core Pod Architecture Recap
 
-The pod-centric architecture bootstraps the Genesis Network with mobile, interconnected pods evolving to ceramic shells. Large/specialty livestock pods enable multi-species husbandry with AI-managed staggered delivery for year-round outputs, robotic care (feeding/milking/shearing), and regenerative synergies (manure slurry to digesters, grazing links to agroforestry). All pods feature universal enhancements for closure, automation, and data moat.
+- **Base Specs**: 40 ft high-cube ISO container (12.192 m L × 2.438 m W × 2.896 m H); evolves from recycled steel to 95–100% toughened ceramic shell (waste-derived, munitions-resistant 8–9/10).
+- **Universal Features**:
+  - BIPV solar cladding + biogas microturbine (5–20 kW); sodium-ion batteries (2–5 days autonomy).
+  - AWG + rainwater + digestate recovery (95–99% water closure).
+  - Dual airlocks with mmWave/multispectral scanning (biosecurity/pathogen detection).
+  - Hyper-dense sensors (3–5x redundancy) + RISC-V edge AI for lights-out monitoring.
+  - Robotic systems for feeding, cleaning, milking, health monitoring.
+  - Staggered cycles across all biological pods for continuous output and resource stability.
+  - Mobility: Autonomous wheeled/tracked movers; amphibious/underground variants.
 
-Pods integrate network-wide: Livestock feeds from staples, waste to biorefinery. Phased: Pod-first for low permits/resilience, fixed for scale.
+## Livestock Pod Variants – Focus on Large & Specialty Animals
 
-## Key Performance Characteristics
-- **Net-Positive Energy**: BIPV + biogas; 5–20 kW/pod.
-- **95–99% Water Closure**: AWG + recovery.
-- **Carbon-Negative**: Grazing sequestration; biochar from manure.
-- **Financial**: Pod CAPEX $40–90K; revenue uplift +10–20% from staggering.
+Livestock pods are designed for multi-species integration (silvopasture linkage), robotic care, and regenerative outputs (manure to biogas/biochar, grazing under agrivoltaics). All include staggered delivery for year-round production.
 
-# Core Principles
-- Pod-First: Bootstrap all functions in pods; transition post-triggers.
-- Staggered Delivery: Continuous outputs for revenue/nutrient stability.
-- Welfare/Biosecurity: Biophilic robotics + airlocks/sensors.
-- Regenerative Integration: Manure/fiber to biogas/ceramics.
-- Region-Specific: Customize for climate/terrain.
-- Self-Replication: Pods produce components for expansion.
+1. **Large Animal Pods (Cattle, Horses, Bison)**
+   - **Capacity**: 10–30 adult animals (e.g., beef/dairy cattle, draft horses).
+   - **Design**: Divided pens with robotic feeding/milking (e.g., automated rotary parlors); climate-controlled (earth tubes, thermal mass ceramics); outdoor-linked paddocks via airlocked gates for rotational grazing.
+   - **Staggered Delivery**: AI-managed breeding (hormone-free, natural cycles) in 4–6 phases/year → continuous calving/foaling (e.g., milk every day, meat/offspring quarterly).
+   - **Outputs**: Milk (robotic collection), meat, manure (to biogas), leather/hides.
+   - **Integration**: Link to staples pods for feed; manure slurry piped to digesters.
+   - **Transition**: Remain pod-based for mobility; fixed barns only for herds >100 (post-2035 scale).
 
-# Key Products and Outputs
-1. **Livestock Pods**: Large (cattle/horses/bison, 10–30 animals), specialty (goats/sheep/alpaca, 20–60).
-2. **Outputs**: Milk/meat/fiber/eggs/leather; continuous via staggering.
-3. **Kits**: Self-replicating for pods, robotics.
-4. **Smart Pipes**: Bidirectional for slurry/power/data.
-5. **Byproducts**: Biochar from manure; hides to materials.
+2. **Specialty Livestock Pods (Goats, Sheep, Alpaca, Llamas, Emu/Ostrich)**
+   - **Capacity**: 20–60 animals (higher density due to size).
+   - **Design**: Multi-level pens (vertical for climbing species like goats); automated shearing/fiber collection (alpaca/llama); egg collection for ratites.
+   - **Staggered Delivery**: 6–8 phases/year breeding cycles → year-round lambing/kidding/crias/hatching (milk, fiber, meat, eggs continuous).
+   - **Outputs**: Milk/cheese (goat), fiber (alpaca/llama wool), meat, feathers/eggs (emu/ostrich).
+   - **Integration**: Grazing under fruit/nut trees (agroforestry pods); waste to inoculants.
+   - **Region-Specific**: Alpaca in cooler highlands; ostrich in warmer climates.
 
-# Sensors and Digital Twins
-Hyper-dense (3–5x) mmWave/VOC sensors monitor vitals/disease; data moat optimizes breeding/grazing. Twins simulate herd expansions.
+3. **General Livestock Features Across All Pods**
+   - **Welfare**: Biophilic design (natural light via glazing, enrichment robotics); health monitoring (mmWave vitals, VOC disease detection).
+   - **Biosecurity**: Isolated zones + airlocks; quarantine pod sections.
+   - **Staggered Benefits**: Steady revenue (no seasonal dips); balanced nutrient loads for digesters; continuous labor for robotic systems.
+   - **Self-Replication Tie-In**: Manure/fiber waste → biogas/ceramics for new pods.
 
-# Education & Training
-Pod-embedded Dojo for livestock management; free welfare/regenerative training.
+## Full Pod Architecture & Integration
 
-# Housing, Schools, Hospitals
-Pods cluster for communities; airlocks for biosecurity.
+All pods connect via smart ceramic pipes (bidirectional power/water/waste/data). Livestock pods integrate with:
+- Food/Agro (feed from staples).
+- Biorefinery (manure to biogas/inoculants).
+- Recycling (hides/bones to materials).
 
-# Deployment Strategy
-- **Sites**: 2026 bankruptcies; USDA loans.
-- **Affiliates**: Subsidized livestock pod kits.
-- **Waste**: Manure to ELFM/biogas.
+Phased introduction follows Limited Architecture triggers; livestock pods start early (2027–2028) for revenue.
 
-# Food Production
-Staggered: Daily milk, quarterly meat/offspring, continuous fiber/eggs. Yields: 10–30 cattle/pod (milk/meat), 20–60 goats (milk/fiber).
+## Viability Impact
 
-# Scaling and Financial Model
-- **Revenues**: Per pod $200–600K (milk 40%, meat 30%, fiber 20%); network +10–20%.
-- **Model**: Self-funding 2028; IRR 50–70%.
+- **Large/Specialty Pods**: Add diversified proteins/fiber; staggered delivery boosts revenue stability (+10–20%); regenerative grazing enhances sequestration.
+- **Overall**: Pods make livestock resilient/mobile; viability 8.5–9/10.
 
-# Detailed Phased Implementation Plan (Recomputed)
-Mid-2026 start; adjusted costs (ceramics $2–4/ft², robotics $10–20K/pod).
-
-## Phase 1: Bootstrap (Mid-2026–2028)
-- Core/livestock pods; staggered pilots.
-- CAPEX: $2.5–6M. Revenue: $8–20M/year. Net: +$2.5–8M.
-
-## Phase 2: Scale (2029–2032)
-- Specialty variants; clusters.
-- CAPEX: $150–300M. Revenue: $600M–1.2B. Net: +$300–600M.
-
-## Phase 3: Exponential (2033–2035)
-- Fixed transitions; 300–500 hubs.
-- CAPEX: $8–20B. Revenue: $55–165B/year. Net: +$25–80B.
-
-| Phase | Years | CAPEX ($B) | Revenue ($B/year) | Net Cumulative ($B) |
-|-------|-------|------------|-------------------|---------------------|
-| 1     | 2026–28 | 0.0025–0.006 | 0.008–0.02       | +0.0025–0.008      |
-| 2     | 2029–32 | 0.15–0.3  | 0.6–1.2          | +0.3–0.6           |
-| 3     | 2033–35 | 8–20      | 55–165           | +25–80             |
-
-# Land Acquisition
-2026 distressed ($2–5K/acre); loans for clusters.
-
-# Infrastructure and Community
-Pods with smart pipes; grazing paddocks.
-
-# Resident/Affiliate Benefits
-Free milk/meat; subsidized pods.
-
-# Summary
-Pod architecture with staggered livestock boosts stability/viability to 8.5–9/10. Recomputed: Mid-2026 start, adjusted costs/revenues for 2026 economics.
+This architecture ensures continuous, welfare-focused livestock production within the regenerative pod model.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2026 EarthStar Technologies conceptual working group (attribution appreciated).
