@@ -5,7 +5,7 @@ description: Comprehensive prompt defining the pure server compute tiles, snap-t
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt – Genesis Network Compute & Network Tiles with Independent Storage Upgrades
+# Prompt 02B – Genesis Network Compute & Network Tiles with Independent Storage Upgrades
 
 ## Objective
 
