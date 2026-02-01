@@ -5,8 +5,7 @@ description: Complete prompt and detailed specification for the Genesis Network 
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**RTK-Enabled GPS Tile – Full Specification & Production Prompt**  
+# Prompt 01D – RTK-Enabled GPS Tile – Full Specification & Production Prompt
 **Earth-Star Industries – January 2026 Baseline**
 
 **© 2025–2026 Earth-Star Industries**  
