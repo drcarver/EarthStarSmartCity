@@ -1,222 +1,63 @@
 ---
 layout: default
-title: Genesis Network – Complete List of LLCs in the Innovation Hub
-description: Comprehensive overview of all 32 LLCs in the Genesis Network Innovation Hub, including key features, primary focus, integration points, estimated mature revenue per hub, and suggested file paths with hyperlinks.
+title: Genesis Network – Complete List of All LLCs in the Innovation Hub
+description: Comprehensive, sorted list of all 32 LLCs in the Genesis Network Innovation Hub, including descriptions, key financials, project phase, and relevant hyperlinks (with Security & Surveillance LLC highlighted).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Complete List of LLCs in the Innovation Hub
+# Genesis Network – Complete List of All LLCs in the Innovation Hub
 
-The Innovation Hub comprises **32 synergistic LLCs** that form the operational backbone of the Genesis Network. Each LLC operates semi-independently but integrates through shared infrastructure (tile/pod/kits ecosystem), the data moat, AI optimization, and closed-loop principles. They collectively drive self-funding, scalability, and 95–99.9% resource closure. Financials are network-wide mature estimates (per hub) with +20–40% uplift from synergies (dense ag, microbial boosts, blockchain credits, waste heat recovery, co-op models).
+**EarthStar Technologies** | Version: February 2026 | Prepared for Stakeholders, Partners, and Potential Affiliates
 
-## Complete List of LLCs
+The Innovation Hub consists of **32 synergistic LLCs** that collectively deliver the Genesis Network's regenerative capabilities. Each LLC is modular, self-funding where applicable, and operates under the broader ecosystem (tiles, pods, kits, AI OS, data moat). The list is sorted alphabetically by name. Financials are mature-phase estimates per hub (unless noted network-wide). **Security & Surveillance LLC** is highlighted for emphasis.
 
-1. **[Ceramic Tile Production LLC](ceramic-tile-production-llc.md)**  
-   - Focus: Mass production of all structural/smart tiles.  
-   - Key Integration: Feeds all construction, pods, kits.  
-   - Revenue (per hub/year): $500–1,200M (tile sales + leasing).  
-   - Phase: Phase 1 (2026–2029)
+| LLC Name (Hyperlinked) | Description & Key Role | Project Phase | CAPEX ($M/hub mature) | OPEX ($M/year/hub) | Revenue ($M/year/hub) | Revenue/Value Notes |
+|-------------------------|------------------------|---------------|------------------------|---------------------|------------------------|---------------------|
+| [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) | Plasma/ELFM waste processing into ceramic feedstock and syngas | Phase 1–2 | 80–200 | 30–80 | 200–600 | Materials + energy sales |
+| [Agroforestry & Permaculture LLC](innovation-hub/agroforestry-permaculture-llc.md) | Perennial polycultures, alley cropping, carbon sequestration | Phase 2 | 50–150 | 20–60 | 300–800 | Premium produce + credits |
+| [Automated Biorefinery LLC](innovation-hub/automated-biorefinery-llc.md) | Waste-to-chemicals, biofuels, platform molecules | Phase 2–3 | 100–250 | 40–100 | 400–1,200 | Chemicals/fuels sales |
+| [Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md) | Robotaxi fleets, Cyber Cab leasing, Optimus integration | Phase 3 | 150–400 | 50–120 | 500–1,500 | Leasing + transport fees |
+| [Battery & Energy Storage LLC](innovation-hub/battery-energy-storage-llc.md) | Sodium-ion + thermal batteries for microgrids | Phase 2 | 80–200 | 30–80 | 300–900 | Leasing + grid services |
+| [Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md) | Mycelium, algae, hemp-derived materials | Phase 3 | 60–180 | 25–70 | 200–700 | Textiles + biomaterials sales |
+| [Biogas Digester & Upgrading LLC](innovation-hub/biogas-digester-upgrading-llc.md) | Anaerobic digestion → biomethane, digestate | Phase 1–2 | 50–150 | 20–60 | 150–500 | Energy + fertilizer sales |
+| [Ceramic Tile Production LLC](innovation-hub/ceramic-tile-production-llc.md) | Core tile manufacturing (structural, smart, glazing) | Phase 1 | 100–250 | 40–100 | 500–1,500 | Tile sales + leasing |
+| [Consumer Appliances LLC](innovation-hub/consumer-appliances-llc.md) | DC appliances, furniture, tools from TerraFab | Phase 3 | 80–200 | 30–80 | 400–1,000 | Retail + leasing |
+| [Education & Telepresence LLC](innovation-hub/education-telepresence-llc.md) | VR/AR learning, Dojo, community hubs | Phase 2 | 60–180 | 25–70 | 200–600 | Services + tourism |
+| [High-Speed Rail & Transport Extensions LLC](innovation-hub/high-speed-rail-transport-llc.md) | Smart rail and transport infrastructure | Phase 3 | 200–500 | 80–200 | 500–1,500 | Transport fees |
+| [Hydrogen Production LLC](innovation-hub/hydrogen-production-llc.md) | Electrolysis + syngas reforming | Phase 3 | 100–300 | 40–100 | 300–1,000 | Fuel sales |
+| [Hybrid Aquaponics LLC](innovation-hub/hybrid-aquaponics-llc.md) | Multi-trophic food production | Phase 1–2 | 80–200 | 30–80 | 300–800 | Produce sales |
+| [Industrial Gases LLC](innovation-hub/industrial-gases-llc.md) | ASUs for LOX/LIN/LAR + rare gases | Phase 2 | 150–400 | 60–150 | 400–1,200 | Gas sales |
+| [Lights-Out Sustainable Forestry LLC](innovation-hub/lights-out-forestry-llc.md) | Autonomous forestry + lumber | Phase 3 | 100–250 | 40–100 | 300–900 | Lumber + credits |
+| [Maritime & Ports Infrastructure LLC](innovation-hub/maritime-ports-llc.md) | Port upgrades + tile cladding | Phase 3 | 200–500 | 80–200 | 500–1,500 | Infrastructure fees |
+| [Microbial Inoculant Production LLC](innovation-hub/microbial-inoculant-production-llc.md) | Custom microbes for soil/ag boosts | Phase 2 | 50–150 | 20–60 | 200–600 | Boosts + kits |
+| [Mini-Fab Semiconductor LLC](innovation-hub/mini-fab-semiconductor-llc.md) | Mature-node chips for sensors/compute | Phase 3 | 100–300 | 40–100 | 500–1,500 | Chip sales + leasing |
+| [Multi-Species Livestock LLC](innovation-hub/multi-species-livestock-llc.md) | Poultry, dairy, eggs, ruminants | Phase 1–2 | 60–180 | 25–70 | 200–600 | Proteins + dairy |
+| [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) | Bio-derived meds + nutraceuticals | Phase 3 | 100–250 | 40–100 | 400–1,200 | Pharma sales |
+| [Restoration & DAC LLC](innovation-hub/restoration-dac-llc.md) | Blue/green carbon + DAC pilots | Phase 2 | 80–200 | 30–80 | 300–900 | Credits + tourism |
+| [Robotics & Automation LLC](innovation-hub/robotics-automation-llc.md) | Swarm bots, Optimus integration, Cyber Cab leasing | Phase 3 | 150–400 | 50–120 | 500–1,500 | Leasing + services |
+| [Security & Surveillance LLC](innovation-hub/security-surveillance-llc.md) | Perimeter monitoring, drones, access control, biometrics, trace detection | Phase 2 | 150–400 | 40–100 | 300–900 | Contracts + services |
+| [Smart Infrastructure LLC](innovation-hub/smart-infrastructure-llc.md) | Roads, pipes, microgrids, waste heat | Phase 2 | 100–250 | 40–100 | 400–1,200 | Leasing + energy |
+| [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) | Biogas, BIPV, piezo, microgrids | Phase 1–2 | 80–200 | 30–80 | 300–900 | Energy leasing |
+| [Sustainable Mining LLC](innovation-hub/sustainable-mining-llc.md) | Minimal criticals mining + plasma processing | Phase 3 | 200–500 | 80–200 | 500–1,500 | Materials sales |
+| [Synthetic Biology & Fermentation LLC](innovation-hub/synthetic-biology-fermentation-llc.md) | Engineered microbes for processes | Phase 3 | 100–250 | 40–100 | 300–1,000 | Enzymes + bio-products |
+| [TerraFab Electronics LLC](innovation-hub/terrafab-electronics-llc.md) | Electronics/appliances from ceramic fabs | Phase 3 | 150–400 | 60–150 | 600–1,800 | Retail + leasing |
+| [Vertical Urban Farming LLC](innovation-hub/vertical-urban-farming-llc.md) | Rooftop/balcony/tower ag systems | Phase 2–3 | 80–200 | 30–80 | 400–1,200 | Urban produce |
+| [Waste-to-Synthetic Fuels LLC](innovation-hub/waste-to-synthetic-fuels-llc.md) | Gasification → biofuels/syngas | Phase 3 | 150–400 | 60–150 | 400–1,200 | Fuels sales |
+| [Waste Valorization & Recycling LLC](innovation-hub/waste-valorization-recycling-llc.md) | ELFM/plasma for slag/metals | Phase 1–2 | 100–250 | 40–100 | 300–900 | Materials sales |
+| [Water Purification & Desalination LLC](innovation-hub/water-purification-desalination-llc.md) | AWG, desalination, brine valorization | Phase 2 | 100–300 | 40–100 | 400–1,200 | Water sales |
 
-2. **[Hybrid Aquaponics LLC](hybrid-aquaponics-llc.md)**  
-   - Focus: Multi-trophic aquaponics systems.  
-   - Key Integration: Food production core; links to microbial & restoration.  
-   - Revenue: $300–800M (produce/premiums).  
-   - Phase: Phase 1–2
+## Financial Summary (Network-Wide, Mature Phase, Base Scenario)
 
-3. **[Biogas Digester & Upgrading LLC](biogas-digester-upgrading-llc.md)**  
-   - Focus: Energy from organic waste.  
-   - Key Integration: Powers hubs; digestate to inoculants.  
-   - Revenue: $150–400M (energy + credits).  
-   - Phase: Phase 1
-
-4. **[Multi-Species Livestock LLC](multi-species-livestock-llc.md)**  
-   - Focus: Poultry, dairy, large animals in pods.  
-   - Key Integration: Protein + manure to biogas.  
-   - Revenue: $200–600M (proteins/dairy).  
-   - Phase: Phase 1–2
-
-5. **[Automated Biorefinery LLC](automated-biorefinery-llc.md)**  
-   - Focus: Waste-to-value conversion.  
-   - Key Integration: Feeds fuels, pharma, materials.  
-   - Revenue: $200–500M (byproducts).  
-   - Phase: Phase 2
-
-6. **[Waste Valorization & Recycling LLC](waste-valorization-recycling-llc.md)**  
-   - Focus: Plasma/ELFM for materials recovery.  
-   - Key Integration: Supplies slag to tile production.  
-   - Revenue: $400–1,000M (materials/credits).  
-   - Phase: Phase 1–2
-
-7. **[Microbial Inoculant Production LLC](microbial-inoculant-production-llc.md)**  
-   - Focus: Custom biosolutions for yields/sequestration.  
-   - Key Integration: Boosts ag/restoration (+10–30%).  
-   - Revenue: $100–300M (kits/sales).  
-   - Phase: Phase 2
-
-8. **[Agroforestry & Permaculture LLC](agroforestry-permaculture-llc.md)**  
-   - Focus: Tree-based systems + polycultures.  
-   - Key Integration: Sequestration + premium fruits/nuts.  
-   - Revenue: $300–800M (products/credits).  
-   - Phase: Phase 2
-
-9. **[Restoration & DAC LLC](restoration-dac-llc.md)**  
-   - Focus: Blue/green carbon + direct air capture.  
-   - Key Integration: Gigaton sequestration goal.  
-   - Revenue: $100–300M (credits).  
-   - Phase: Phase 2
-
-10. **[Smart Infrastructure LLC](smart-infrastructure-llc.md)**  
-    - Focus: Roads, pipes, microgrids.  
-    - Key Integration: Tile-dominant hybrid systems.  
-    - Revenue: $400–1,000M (leasing/exports).  
-    - Phase: Phase 2
-
-11. **[Education & Telepresence LLC](education-telepresence-llc.md)**  
-    - Focus: VR/AR learning & collaboration.  
-    - Key Integration: Training + global outreach.  
-    - Revenue: $100–300M (services).  
-    - Phase: Phase 2
-
-12. **[TerraFab Electronics LLC](terrafab-electronics-llc.md)**  
-    - Focus: Mini-Fabs for sensors/compute.  
-    - Key Integration: Sovereign chips/badges.  
-    - Revenue: $600–1,500M (units/leasing).  
-    - Phase: Phase 2–3
-
-13. **[Robotics & Automation LLC](robotics-automation-llc.md)**  
-    - Focus: Autonomous systems (farming/delivery).  
-    - Key Integration: Lights-out operations.  
-    - Revenue: $200–500M (leasing).  
-    - Phase: Phase 2
-
-14. **[Consumer Appliances LLC](consumer-appliances-llc.md)**  
-    - Focus: DC appliances/furniture/tools.  
-    - Key Integration: Retail supply chain.  
-    - Revenue: $400–1,000M (sales).  
-    - Phase: Phase 2–3
-
-15. **[Industrial Gases LLC](industrial-gases-llc.md)**  
-    - Focus: LOX/LIN/LAR + rare gases.  
-    - Key Integration: Manufacturing/healthcare.  
-    - Revenue: $200–600M (sales).  
-    - Phase: Phase 2
-
-16. **[Mini-Fab Semiconductor LLC](mini-fab-semiconductor-llc.md)**  
-    - Focus: Mature-node chip production.  
-    - Key Integration: Sovereign compute.  
-    - Revenue: $500–1,200M (units).  
-    - Phase: Phase 2
-
-17. **[Regenerative Pharmaceuticals LLC](regenerative-pharmaceuticals-llc.md)**  
-    - Focus: Plant/algae/fungal APIs.  
-    - Key Integration: TerraWell distribution.  
-    - Revenue: $300–800M (APIs/supplements).  
-    - Phase: Phase 2–3
-
-18. **[Bio-Materials & Textiles LLC](bio-materials-textiles-llc.md)**  
-    - Focus: Algae/fungal fibers/plastics.  
-    - Key Integration: Replaces synthetics.  
-    - Revenue: $200–500M (materials).  
-    - Phase: Phase 2
-
-19. **[Vertical Urban Farming LLC](vertical-urban-farming-llc.md)**  
-    - Focus: Rooftop/balcony systems.  
-    - Key Integration: Dense ag in cities.  
-    - Revenue: $500–1,200M (produce).  
-    - Phase: Phase 2–3
-
-20. **[Autonomous Mobility LLC](autonomous-mobility-llc.md)**  
-    - Focus: Robotaxi fleets + inductive roads.  
-    - Key Integration: Transport extension.  
-    - Revenue: $300–800M (leasing).  
-    - Phase: Phase 3
-
-21. **[Water Purification & Desalination LLC](water-purification-desalination-llc.md)**  
-    - Focus: Brine processing + AWG.  
-    - Key Integration: Surplus water export.  
-    - Revenue: $150–400M (water/minerals).  
-    - Phase: Phase 2
-
-22. **[Sustainable Energy LLC](sustainable-energy-llc.md)**  
-    - Focus: Waste heat + renewables.  
-    - Key Integration: Microgrid support.  
-    - Revenue: $300–800M (energy leasing).  
-    - Phase: Phase 2
-
-23. **[Battery & Energy Storage LLC](battery-energy-storage-llc.md)**  
-    - Focus: Sodium-ion from waste.  
-    - Key Integration: Grid buffering.  
-    - Revenue: $200–600M (storage leasing).  
-    - Phase: Phase 2
-
-24. **[Hydrogen Production LLC](hydrogen-production-llc.md)**  
-    - Focus: Green H₂ from surplus power.  
-    - Key Integration: Fuels symbiosis.  
-    - Revenue: $200–600M (H₂ sales).  
-    - Phase: Phase 2–3
-
-25. **[Sustainable Mining LLC](sustainable-mining-llc.md)**  
-    - Focus: Plasma clean ore + slag to tiles.  
-    - Key Integration: Criticals supply.  
-    - Revenue: $200–600M (ores/credits).  
-    - Phase: Phase 2
-
-26. **[Lights-Out Sustainable Forestry LLC](lights-out-sustainable-forestry-llc.md)**  
-    - Focus: AI selective logging + biochar.  
-    - Key Integration: Sequestration + materials.  
-    - Revenue: $150–450M (timber/credits).  
-    - Phase: Phase 2
-
-27. **[Maritime & Ports Infrastructure LLC](maritime-ports-llc.md)**  
-    - Focus: Ceramic cladding + H₂ bunkering.  
-    - Key Integration: Global trade.  
-    - Revenue: $250–700M (shipping).  
-    - Phase: Phase 3
-
-28. **[High-Speed Rail & Transport Extensions LLC](high-speed-rail-transport-llc.md)**  
-    - Focus: Ceramic tracks + fuel-cell trains.  
-    - Key Integration: Connectivity.  
-    - Revenue: $300–800M (transport).  
-    - Phase: Phase 3
-
-29. **[Advanced Recycling & Waste Valorization LLC](advanced-recycling-llc.md)**  
-    - Focus: Plasma e-waste + criticals recovery.  
-    - Key Integration: Circular feed.  
-    - Revenue: $200–500M (materials).  
-    - Phase: Phase 1–2
-
-30. **[Synthetic Biology & Fermentation LLC](synthetic-biology-fermentation-llc.md)**  
-    - Focus: Engineered microbes for processes.  
-    - Key Integration: Boosts all production.  
-    - Revenue: $100–300M (enzymes/products).  
-    - Phase: Phase 2–3
-
-31. **[Waste-to-Synthetic Fuels LLC](waste-to-synthetic-fuels-llc.md)**  
-    - Focus: Gasification + synthesis for fuels.  
-    - Key Integration: Energy independence.  
-    - Revenue: $200–600M (fuels).  
-    - Phase: Phase 2–3
-
-32. **[3D-Printed Construction & Habitat Systems LLC](3d-printed-construction-habitat-llc.md)**  
-    - Focus: Ceramic LCM printing for complex builds.  
-    - Key Integration: Hybrid with tiles.  
-    - Revenue: $300–800M (habitats).  
-    - Phase: Phase 2–3
-
-**Financial Summary (Network-Wide Mature)**  
-- Average Revenue per LLC: $100–300M/year/hub  
-- Total Hub Revenue: $3,000–9,000B/year  
-- CAPEX (Cumulative): $150–450B (20–30% reduced via efficiencies)  
-- IRR: 200–260% (self-funding by 2027)
-
-**Project Phase Summary**  
-- Phase 1 (2026–2029): Core LLCs (Tiles, Aquaponics, Biogas, Recycling, etc.)  
-- Phase 2 (2030–2035): Advanced (Mini-Fabs, Energy, Water, Robotics, etc.)  
-- Phase 3 (2036+): Global/Space adaptations
+- **Total CAPEX (per hub)**: $150–450M  
+- **Total OPEX (per hub)**: $60–180M/year  
+- **Total Revenue (per hub)**: $300–1,200M/year  
+- **Network-Wide Mature Revenue (2050)**: $3,000–9,000B/year  
+- **IRR Contribution (average across LLCs)**: +15–25%  
+- **Break-Even (LLC average)**: 12–24 months
 
 ## Viability & Integration Notes
 
-The 32 LLCs enable compartmentalized risk (failure of one does not doom the hub), distributed oversight (reduces burnout), and synergies (e.g., Recycling feeds Tile Production, Microbial boosts all ag). Integration via shared data moat/AI OS ensures continuous optimization. Cultural/religious adaptations in global variants enhance adoption. Viability: 9/10 – diversified structure + self-funding from Day 1 revenues.
+The 32 LLCs form a diversified, interdependent ecosystem that reduces single-point failure risk and spreads operational oversight. Security & Surveillance LLC plays a critical role in physical resilience and revenue (contracts/services). All LLCs integrate with tiles/pods/kits for modular scaling and self-funding. High overall viability from revenue diversity and data moat synergies.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 © 2025–2026 EarthStar Technologies Conceptual Working Group
