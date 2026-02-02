@@ -14,46 +14,46 @@ The Security & Surveillance LLC provides comprehensive, AI-driven security solut
 
 | Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit mature) | Revenue/Value ($/unit or $/year) |
 |--------------------|----------------------------|------------------|-----------------------|----------------------|----------------------------------|
-| [Security & Perimeter Monitoring Tile](components/tiles/security-perimeter-monitoring-tile.md) | mmWave radar/IR/acoustic + trace detectors for intrusion, weapons/explosives/drugs; AI anomaly detection | C&D slag + electronics | Sensor embed + firing | $120–250 | $500–900 (contracts $100–250/year) |
-| [Networking Snap Tile](components/tiles/networking-snap-tile.md) | Inductive/mmWave relay for security comms | Ceramic embeds | Lamination + waveguide | $40–80 | $150–300 (connectivity $50–100/year) |
+| [Security & Perimeter Monitoring Tile](../components/tiles/security-perimeter-monitoring-tile.md) | mmWave radar/IR/acoustic + trace detectors for intrusion, weapons/explosives/drugs; AI anomaly detection | C&D slag + electronics | Sensor embed + firing | $120–250 | $500–900 (contracts $100–250/year) |
+| [Networking Snap Tile](../components/tiles/networking-snap-tile.md) | Inductive/mmWave relay for security comms | Ceramic embeds | Lamination + waveguide | $40–80 | $150–300 (connectivity $50–100/year) |
 
 ## Pods
 
 | Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($M/pod mature) | Revenue/Value ($M/pod/year) |
 |--------------------|----------------------------|------------------|-----------------------|----------------------|-----------------------------|
-| [Security & Surveillance Pod](components/pods/security-surveillance-pod.md) | AI coordination hub for drone dispatch, access/biometric enforcement, trace analytics | C&D slag | Ceramic + sensor assembly | $2.5–5.5 | $15–45 (contracts) |
+| [Security & Surveillance Pod](.../components/pods/security-surveillance-pod.md) | AI coordination hub for drone dispatch, access/biometric enforcement, trace analytics | C&D slag | Ceramic + sensor assembly | $2.5–5.5 | $15–45 (contracts) |
 
 ## Kits
 
 | Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit or $/year) |
 |--------------------|----------------------------|------------------|-----------------------|--------------|---------------------------------|
-| [Security & Perimeter Monitoring Kit](components/kits/security-perimeter-monitoring-kit.md) | 15–40 tiles + cameras/docks + trace/biometric module | C&D slag + electronics | Assembly + embeds | $200K–600K | $800K–2M (contracts $200–500/year) |
-| [Smart Airlock Kit](components/kits/smart-airlock-kit.md) | Hyperspectral scanner, mmWave body scan, biometric reader, IMS/Raman trace detectors | Electronics/ceramic | Assembly + embeds | $80K–200K | $300K–700K (security $100–250/year) |
+| [Security & Perimeter Monitoring Kit](.../components/kits/security-perimeter-monitoring-kit.md) | 15–40 tiles + cameras/docks + trace/biometric module | C&D slag + electronics | Assembly + embeds | $200K–600K | $800K–2M (contracts $200–500/year) |
+| [Smart Airlock Kit](.../components/kits/smart-airlock-kit.md) | Hyperspectral scanner, mmWave body scan, biometric reader, IMS/Raman trace detectors | Electronics/ceramic | Assembly + embeds | $80K–200K | $300K–700K (security $100–250/year) |
 
 ## Sensors
 
 | Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit mature) | Revenue/Value ($/unit or $/year) |
 |--------------------|----------------------------|------------------|-----------------------|----------------------|----------------------------------|
-| [mmWave Radar Sensor](docs/sensors/mmwave-radar-sensor.md) | Intrusion/motion + concealed object detection | Electronics | Embed in tiles | $20–50 | $80–150 (data $30–60/year) |
-| [IR/Multispectral Camera Sensor](docs/sensors/ir-multispectral-sensor.md) | Thermal/anomaly imaging; chemical trace support | Electronics | Embed in tiles | $30–60 | $100–200 (alerts $40–80/year) |
-| [Acoustic Sensor](docs/sensors/acoustic-sensor.md) | Sound-based tampering/behavior detection | Electronics | Embed in tiles | $15–40 | $60–120 (detection $20–50/year) |
-| [Ion Mobility Spectrometry (IMS) Sensor](docs/sensors/ims-sensor.md) | Trace detection of narcotics/explosives | Electronics + ionization chamber | Module pocket embed | $50–120 | $200–400 (data $60–120/year) |
-| [Raman Spectroscopy Sensor](docs/sensors/raman-sensor.md) | Non-contact chemical identification | Laser + spectrometer | Embed in tiles/airlock | $60–150 | $250–500 (alerts $80–150/year) |
+| [mmWave Radar Sensor](.../docs/sensors/mmwave-radar-sensor.md) | Intrusion/motion + concealed object detection | Electronics | Embed in tiles | $20–50 | $80–150 (data $30–60/year) |
+| [IR/Multispectral Camera Sensor](.../docs/sensors/ir-multispectral-sensor.md) | Thermal/anomaly imaging; chemical trace support | Electronics | Embed in tiles | $30–60 | $100–200 (alerts $40–80/year) |
+| [Acoustic Sensor](.../docs/sensors/acoustic-sensor.md) | Sound-based tampering/behavior detection | Electronics | Embed in tiles | $15–40 | $60–120 (detection $20–50/year) |
+| [Ion Mobility Spectrometry (IMS) Sensor](.../docs/sensors/ims-sensor.md) | Trace detection of narcotics/explosives | Electronics + ionization chamber | Module pocket embed | $50–120 | $200–400 (data $60–120/year) |
+| [Raman Spectroscopy Sensor](.../docs/sensors/raman-sensor.md) | Non-contact chemical identification | Laser + spectrometer | Embed in tiles/airlock | $60–150 | $250–500 (alerts $80–150/year) |
 
 ## Standards & Compliance
 
 | Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost (N/A) | Revenue/Value (N/A) |
 |--------------------|----------------------------|------------------|-----------------------|------------|---------------------|
-| [MIL-STD-810 (Ruggedness)](docs/standards/mil-std-810.md) | Environmental durability for security systems | N/A | N/A | N/A | N/A |
-| [ISO/TC 268 (Smart Cities)](docs/standards/iso-tc-268.md) | Urban/border security & detection standards | N/A | N/A | N/A | N/A |
+| [MIL-STD-810 (Ruggedness)](.../docs/standards/mil-std-810.md) | Environmental durability for security systems | N/A | N/A | N/A | N/A |
+| [ISO/TC 268 (Smart Cities)](.../docs/standards/iso-tc-268.md) | Urban/border security & detection standards | N/A | N/A | N/A | N/A |
 
 ## Related / Supporting LLCs in the Innovation Hub
 
-- [Robotics & Automation LLC](innovation-hub/robotics-automation-llc.md)  
-- [Smart Infrastructure LLC](innovation-hub/smart-infrastructure-llc.md)  
-- [Mini-Fab Semiconductor LLC](innovation-hub/mini-fab-semiconductor-llc.md)  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)  
-- [Synthetic Biology & Fermentation LLC](innovation-hub/synthetic-biology-fermentation-llc.md)  
+- [Robotics & Automation LLC](robotics-automation-llc.md)  
+- [Smart Infrastructure LLC](smart-infrastructure-llc.md)  
+- [Mini-Fab Semiconductor LLC](mini-fab-semiconductor-llc.md)  
+- [Advanced Recycling & Waste Valorization LLC](advanced-recycling-llc.md)  
+- [Synthetic Biology & Fermentation LLC](synthetic-biology-fermentation-llc.md)  
 
 ## Financials
 
