@@ -8,7 +8,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 # Robotics & Automation LLC – Genesis Network
 
 **Executive Overview**  
-The Robotics & Automation LLC develops and deploys autonomous systems for farming, manufacturing, delivery, and mobility within the Genesis Network. It starts by leasing Tesla Cyber Cabs for robotaxi fleets (integrated with smart roads for inductive charging), transitioning to in-house production while folding in Tesla Optimus bots for labor tasks (harvesting, assembly, maintenance). This LLC enhances lights-out operations (80–95% automation by 2035), reducing labor OPEX 50–70% and enabling 24/7 productivity. Project phase: Phase 3 (2032–2035). Suggested file path: innovation-hub/robotics-automation-llc.md.
+The Robotics & Automation LLC develops and deploys autonomous systems for farming, manufacturing, delivery, and mobility within the Genesis Network. It starts by leasing Tesla Cyber Cabs for robotaxi fleets (integrated with smart roads for inductive charging), transitioning to in-house production while folding in Tesla Optimus bots for labor tasks (harvesting, assembly, maintenance). This LLC enhances lights-out operations (80–95% automation by 2035), reducing labor OPEX 50–70% and enabling 24/7 productivity. Project phase: Phase 3 (2032–2035).
 
 ## Tiles
 
