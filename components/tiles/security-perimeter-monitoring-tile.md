@@ -8,13 +8,11 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 # Security & Perimeter Monitoring Tile – Genesis Network
 
 **Executive Overview**  
-The Security & Perimeter Monitoring Tile is a smart, embedded surveillance component providing intrusion detection, anomaly monitoring, and alert systems for Genesis hubs, affiliates, and cities. It integrates mmWave radar, IR/multispectral cameras, and acoustic sensors with AI for real-time analysis, supporting security pods and kits. This tile enhances safety, compliance, and resilience while enabling revenue from security services. Project phase: Phase 2 (2029–2031). Suggested file path: components/tiles/security-perimeter-monitoring-tile.md.
-
+The Security & Perimeter Monitoring Tile is a smart, embedded surveillance component providing intrusion detection, anomaly monitoring, and alert systems for Genesis hubs, affiliates, and cities. It integrates mmWave radar, IR/multispectral cameras, and acoustic sensors with AI for real-time analysis, supporting security pods and kits. This tile enhances safety, compliance, and resilience while enabling revenue from security services. Project phase: Phase 2 (2029–2031). 
 ## Tiles
 
 | Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit mature) | Revenue/Value ($/unit or $/year) |
 |--------------------|----------------------------|------------------|-----------------------|----------------------|----------------------------------|
-| [Security & Perimeter Monitoring Tile](components/tiles/security-perimeter-monitoring-tile.md) | mmWave radar/IR/acoustic for intrusion; AI anomaly detection | C&D slag | Sensor embed + firing | $100–200 | $400–700 (contracts $80–200/year) |
 | [Networking Snap Tile](components/tiles/networking-snap-tile.md) | Inductive/mmWave data relay for alerts | Ceramic embeds | Lamination + waveguide | $40–80 | $150–300 (connectivity $50–100/year) |
 
 ## Pods
