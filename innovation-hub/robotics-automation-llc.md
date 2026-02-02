@@ -54,7 +54,7 @@ The Robotics & Automation LLC develops and deploys autonomous systems for farmin
 
 - **CAPEX**: $150–400M/hub (2032–2035; robotics pods $50–150M, kits $50–100M, integrations $50–150M).  
 - **OPEX**: $40–100M/year (maintenance 40%, leasing 30%, R&D 30%).  
-- **Revenues**: $500–1,200M/year/hub (robotaxi leasing 50%, bot services 30%, premiums 20%).  
+- **Revenues**: $500–1,200M/year/hub (robotaxi leasing 50%, bot services 30%, premiums 20%).
 - **Break-Even**: 12–18 months; IRR Contribution +15–25%.  
 - **Network-Wide Mature (2050)**: Revenues +$200–800B/year from LLC.
 
