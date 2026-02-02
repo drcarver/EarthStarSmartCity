@@ -15,7 +15,7 @@ Insulating Tiles are passive-dominant, high-thermal-mass building blocks designe
 ### Pods
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
 |------|----------------------------|------------------|------------------------|--------------|------------------------|
-| [Tile & Pipe Production Pod](../pods/tile-production.md) | Produces insulating tiles + all structural variants | Slag, RHA, residues | Robotic forming, tunnel kilns, vision QC | 0.8–2.0M | 1.5–3.5M (internal transfer) |
+| [Tile & Pipe Production Pod](../pods/tile-pipe-production-pod.md) | Produces insulating tiles + all structural variants | Slag, RHA, residues | Robotic forming, tunnel kilns, vision QC | 0.8–2.0M | 1.5–3.5M (internal transfer) |
 
 ### Kits
 | Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
