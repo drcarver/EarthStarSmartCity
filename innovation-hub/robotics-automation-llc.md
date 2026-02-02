@@ -1,69 +1,66 @@
 ---
 layout: default
-title: Robotics & Automation LLC – Specification Sheet
-description: Professional specification for the Robotics & Automation LLC within the Genesis Network Innovation Hub.
+title: Robotics & Automation LLC – Genesis Network
+description: Specification for the Robotics & Automation LLC, focusing on leasing Tesla Cyber Cabs and gradual integration of Tesla Optimus bots, with relevant components, financials, phase, and integration notes.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Robotics & Automation LLC  
-**Specification Sheet**
+# Robotics & Automation LLC – Genesis Network
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**Executive Overview**  
+The Robotics & Automation LLC develops and deploys autonomous systems for farming, manufacturing, delivery, and mobility within the Genesis Network. It starts by leasing Tesla Cyber Cabs for robotaxi fleets (integrated with smart roads for inductive charging), transitioning to in-house production while folding in Tesla Optimus bots for labor tasks (harvesting, assembly, maintenance). This LLC enhances lights-out operations (80–95% automation by 2035), reducing labor OPEX 50–70% and enabling 24/7 productivity. Project phase: Phase 3 (2032–2035). Suggested file path: innovation-hub/robotics-automation-llc.md.
 
-## Executive Overview
+## Tiles
 
-The Robotics & Automation LLC is responsible for developing, producing, and deploying autonomous robotic systems that enable lights-out operations across the Genesis Network. Core products include swarm robotics for agriculture (planting, harvesting, monitoring), manufacturing (tile handling, assembly), construction (pod placement), and facility maintenance. The LLC drives labor efficiency, reaching 80–95% automation by 2035, while reducing OPEX by 50–80%. Initial deployment begins in Phase 2 (2029–2032) with pilot swarms, scaling to full network integration by Phase 3 (2033–2035). Revenue role: Direct sales of robotic kits and internal cost savings equivalent to $300–800M/hub/year mature; total network contribution $40–120B/year by 2050.
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit mature) | Revenue/Value ($/unit or $/year) |
+|--------------------|----------------------------|------------------|-----------------------|----------------------|----------------------------------|
+| [Security & Perimeter Monitoring Tile](components/tiles/security-perimeter-monitoring-tile.md) | mmWave radar/IR/acoustic for intrusion; AI anomaly detection for bot security | C&D slag | Sensor embed + firing | $100–200 | $400–700 (contracts $80–200/year) |
+| [Smart Infrastructure Tile](components/tiles/smart-infrastructure-tile.md) | Inductive charging + sensors for robotaxi roads | Slag/residues | Embed during molding | $3–6 | $10–18 (leasing $150–300/year) |
 
-**Project Phase**: Deferred high-margin (2030–2035 trigger: stable cash flow + Mini-Fab compute availability).  
-**Financials (Mature Hub)**: CAPEX $150–400M; OPEX $20–60M/year; Revenue/Value $300–800M/year (kits + efficiency savings); ROI <3 years.
+## Pods
 
-## Relevant Tiles
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($M/pod mature) | Revenue/Value ($M/pod/year) |
+|--------------------|----------------------------|------------------|-----------------------|----------------------|-----------------------------|
+| [Robotics & Automation Pod](components/pods/robotics-automation-pod.md) | Swarm bot production/repair; Optimus integration hub | Electronics/slag | Ceramic + Mini-Fab assembly | $2–5 | $200–500 (leasing) |
 
-| Name (Link)                                    | Description & Key Features                              | Inputs/Materials                     | Manufacturing Process                  | Cost ($/m²) | Revenue/Value ($/m²) |
-|------------------------------------------------|---------------------------------------------------------|--------------------------------------|----------------------------------------|-------------|-----------------------|
-| [Structural Load-Bearing Tile](components/tiles/structural-load-bearing-tile.md) | Piezoelectric elements power local robot sensors/actuators | ELFM slag (70%), residues            | Forming → embedding PZT → firing       | 16–28       | 48–75                 |
-| [Compute Server Tile](components/tiles/compute-server-tile.md) | RISC-V cores for on-robot edge AI and swarm coordination | Regolith/slag, conductive layers     | Tile forming + hot-swap pocket integration | 80–150      | 250–500               |
-| [Networking Snap Tile](components/tiles/networking-snap-tile.md) | Inductive power + waveguide for robot swarm comms       | Ceramic + inductive coils            | Forming → waveguide embed → firing     | 35–60       | 100–180               |
+## Kits
 
-## Relevant Pods
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit or $/year) |
+|--------------------|----------------------------|------------------|-----------------------|--------------|---------------------------------|
+| [Autonomous Mobility Robotaxi Kit](components/kits/autonomous-mobility-robotaxi-kit.md) | Cyber Cab leasing setup + charging integration | Electronics/ceramic | Assembly + embeds | $200K–500K | $800K–2M (leasing) |
 
-| Name (Link)                                    | Description & Key Features                              | Inputs/Materials                     | Manufacturing Process                  | Cost ($/pod) | Revenue/Value ($/pod) |
-|------------------------------------------------|---------------------------------------------------------|--------------------------------------|----------------------------------------|--------------|-----------------------|
-| [Robotics & Automation Pod](components/pods/robotics-automation-pod.md) | Swarm bot production, charging, maintenance             | Ceramic tiles, compute modules       | Pod assembly + robotic lines           | 1.5–4.0M     | 3.0–8.0M              |
+## Sensors
 
-## Relevant Kits
-
-| Name (Link)                                    | Description & Key Features                              | Inputs/Materials                     | Manufacturing Process                  | Cost ($/kit) | Revenue/Value ($/kit) |
-|------------------------------------------------|---------------------------------------------------------|--------------------------------------|----------------------------------------|--------------|-----------------------|
-| [Robotics Swarm Starter Kit](components/kits/robotics-swarm-kit.md) | Autonomous bots for farming/construction (10–50 units)  | Ceramic parts, compute modules       | Pod-based assembly + testing           | 0.8–2.5M     | 2.0–6.0M              |
-
-## Relevant Sensors
-
-| Name (Link)                                    | Description & Key Features                              | Placement                                    | Power Source          | Standards Compliance |
-|------------------------------------------------|---------------------------------------------------------|----------------------------------------------|-----------------------|-----------------------|
-| [Strain / Vibration Sensors](docs/sensors/strain-vibration-sensors.md) | Robot load/structural monitoring                        | Load-bearing tiles, robot frames             | Piezo (self-powered)  | ASTM C109, IEEE 1451  |
-| [mmWave Radar](docs/sensors/mmwave-radar.md)   | Swarm navigation, obstacle avoidance, vitals            | Robot chassis, facility walls                | BIPV / inductive      | MIL-STD-810           |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit mature) | Revenue/Value ($/unit or $/year) |
+|--------------------|----------------------------|------------------|-----------------------|----------------------|----------------------------------|
+| [IMU Sensor](docs/sensors/imu-sensor.md) | Motion/posture/fall detection for bots/Cyber Cabs | Electronics | Embed in tiles | $10–20 | $40–80 (data services $20–50/year) |
 
 ## Standards & Compliance
 
-| Standard                                       | Relevance                                               |
-|------------------------------------------------|---------------------------------------------------------|
-| [IEEE 1451](docs/standards/ieee-1451.md)       | Transducer interfaces for robot sensors                 |
-| [ISO 10218](docs/standards/iso-10218.md)       | Robot safety in collaborative environments              |
-| [IEC 61499](docs/standards/iec-61499.md)       | Distributed automation for swarm control                |
+| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost (N/A) | Revenue/Value (N/A) |
+|--------------------|----------------------------|------------------|-----------------------|------------|---------------------|
+| [IEEE 2030 (Smart Grid)](docs/standards/ieee-2030.md) | Grid interoperability for charging/robotics | N/A | N/A | N/A | N/A |
+| [ISO/TC 268 (Smart Cities)](docs/standards/iso-tc-268.md) | Urban integration for mobility/security | N/A | N/A | N/A | N/A |
 
-## Related / Supporting LLCs
+## Related / Supporting LLCs in the Innovation Hub
 
-- [Ceramics & Tile Production LLC](innovation-hub/ceramics-tile-production-llc.md)  
-- [Compute & Network Tiles LLC](innovation-hub/compute-network-tiles-llc.md)  
-- [Mini-Fab & Advanced Fab LLC](innovation-hub/mini-fab-advanced-fab-llc.md)  
-- [Aquaponics & Multi-Trophic LLC](innovation-hub/aquaponics-multi-trophic-llc.md)  
-- [Biorefinery LLC](innovation-hub/biorefinery-llc.md)
+- [Smart Infrastructure (Roads/Pipes) LLC](innovation-hub/smart-infrastructure-llc.md)  
+- [Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md)  
+- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)  
+- [Mini-Fab Semiconductor LLC](innovation-hub/mini-fab-semiconductor-llc.md)  
+- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)  
+
+## Financials
+
+- **CAPEX**: $150–400M/hub (2032–2035; robotics pods $50–150M, kits $50–100M, integrations $50–150M).  
+- **OPEX**: $40–100M/year (maintenance 40%, leasing 30%, R&D 30%).  
+- **Revenues**: $500–1,200M/year/hub (robotaxi leasing 50%, bot services 30%, premiums 20%).  
+- **Break-Even**: 12–18 months; IRR Contribution +15–25%.  
+- **Network-Wide Mature (2050)**: Revenues +$200–800B/year from LLC.
 
 ## Viability & Integration Notes
 
-Robotics & Automation LLC is a high-ROI deferred component, unlocking lights-out efficiency across the network. Integration relies on mature compute tiles and sensors; swarm bots enable rapid pod/kits deployment and maintenance. Risk: Compute supply delays — mitigated by phased triggers and internal Mini-Fab priority. Strong synergy with farmer partnerships (subsidized bots accelerate adoption).
+The Robotics & Automation LLC enhances Genesis viability (+10–20%) by enabling lights-out operations and reducing labor bottlenecks, with Cyber Cab leasing providing immediate revenue while Optimus integration (via partnerships) folds in over time for sovereign automation. Integrates with smart roads (inductive charging), security tiles (bot monitoring), and Mini-Fab (custom components). Smart airlocks in all buildings ensure security compliance. Phase 3 rollout aligns with Mini-Fab maturity; high margins from leasing make it self-funding.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 © 2025–2026 EarthStar Technologies Conceptual Working Group
