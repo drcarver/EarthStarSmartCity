@@ -1,125 +1,87 @@
 ---
 layout: default
-title: Genesis Network - Non-Agricultural Ecosystem Enhancements Executive Summary & Project Plan
-description: Comprehensive definition and integration of new/updated tiles, pods, kits, and LLCs expanding the Genesis Network into full regenerative city functionality, with recalculated timelines, financials, and viability impact.
+title: Genesis Network – Non-Agricultural Ecosystem Enhancements & New Components
+description: Comprehensive specification defining new/updated tiles, pods, kits, and synergistic new LLCs to expand the Genesis Network into full regenerative city functionality across energy, health, security, education, retail, infrastructure, and industrial symbiosis (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-## Non-Agricultural Ecosystem Enhancements & New Components  
-### Executive Summary & Comprehensive Project Plan
+# Genesis Network – Non-Agricultural Ecosystem Enhancements & New Components  
+**Full Specification – February 2026 Baseline**
 
-**EarthStar Technologies** | Version: February 2026 | Prepared for Stakeholders, Partners, and Potential Affiliates
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-The **Genesis Network** is a pod-centric, ultra-rapidly bootstrapped regenerative ecosystem achieving **95–99.9% resource closure** through pre-supplied nearly mature pods, enhanced multi-trophic aquaponics, active ceramic tiles (BIPV/AWG/piezo/sensors), RTK-Enabled GPS Tiles, precision agriculture enhancements, automated processing pods (bakery/brewery/butcher/confectionary/dairy), staggered cycles, retail supply integration to grocery/liquor/home & garden/construction retailers, pod-based Mini-Fabs to advanced fabs, compute/network tiles with independent storage upgrades, modular microkernel OS with AI self-improvement, large-scale smart display walls, Communicator Badge with WiFi tile hotspots, and 32 synergistic LLCs.
+## Objective
 
-**Non-agricultural ecosystem enhancements** introduce new tiles, pods, kits, and 4 prioritized LLCs to deliver complete regenerative city services: distributed energy, indoor health, security, education, retail activation, industrial symbiosis, desalination, 3D-printed habitats, synthetic biology, and waste-to-fuels. All are waste-derived ceramics, snap-together modular, self-powered, and integrate with RTK/sensors/digital twins/OS stack.
+These enhancements complete the Genesis Network's transition from agricultural/regenerative core to a **full-spectrum regenerative city/system** delivering energy resilience, indoor health/safety, security, education, retail activation, infrastructure, and industrial symbiosis — while maintaining 95–99% resource closure, modular pod/tile scalability, self-powering, and waste-derived ceramic construction.
 
-This expansion closes human needs gaps, creates new revenue (energy leasing, health services, chemical/fuel sales), and boosts affiliate/resident value. Network-wide uplift: **+$50–200B/year** mature (per major industry), pushing total revenue to **$1,500–4,500B/year** with IRR **180–240%**.
+All components are manufactured in existing Tile & Pipe Production Pods → permanent factories, integrate natively with RTK GPS Tiles, dense sensor nets, digital twins, compute/networking tiles, sovereign OS stack, and snap-together interconnects. Prioritized rollout in Phase 2 (2031–2035) to leverage maturing Mini-Fab, automation, and cash flow.
 
-### Core Strategic Advantages
-- **City-Scale Regeneration**: Full services (energy/health/security/education/retail/industry) in closed loops.
-- **Modular Synergy**: Snap-together with existing tiles/pods; self-powered + AI-optimized.
-- **New Revenue Streams**: Leasing/services/sales + high-margin retail/affiliate kits.
-- **Prioritized LLCs**: Desalination, habitats, synbio, waste-fuels for symbiosis + exports.
-- **Viability Uplift**: +20–40% (diversification + resilience + community/political value).
+## 1. New/Enhanced Tiles
 
-### Key Projected Outcomes (2035 Maturity)
-- Core hubs: 1,500–2,500
-- Affiliates/mini-hubs: 500,000–2M
-- Annual revenue: $1,500–4,500B
-- New LLC revenue: $200–800B/year
-- City services coverage: 100% regenerative self-sufficiency
-- Global impact: Gigaton sequestration + desalination/fuels exports
+| Tile Name                              | Primary Function                              | Key Features / Embedded Tech                                                                 | Main Input Sources                  | Material / Manufacturing                  | Est. Prod Cost (mature $/unit) | Internal Transfer / Selling Price | Phase Rollout | Integration Notes & Viability Rationale |
+|----------------------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------|---------------------------------|------------------------------------|---------------|-----------------------------------------|
+| Energy Storage & Thermal Battery Tile  | Distributed energy storage & thermal buffering| Sodium-ion cells + phase-change materials; blind-mate power interconnects                     | Waste-derived anodes, slag ceramics | Ceramic casing + cell embed + firing      | $60–140                        | $200–400 / $300–550 retail        | Phase 2       | Microgrid pods + BIPV tiles → zero-grid resilience; high affiliate demand for off-grid |
+| Smart Lighting & UV-C Disinfection Tile| Dynamic lighting + pathogen inactivation      | Tunable LED + far-UVC (222 nm safe), occupancy/VOC sensors, AI dosing                         | Biogas power, ceramic waveguide     | Ceramic with LED/UVC embed                | $50–120                        | $180–350 / $280–500               | Phase 2       | Air treatment pods + sensor nets → indoor health compliance; retail/health credits |
+| Security & Perimeter Monitoring Tile   | Intrusion & threat detection                  | mmWave radar + IR multispectral + acoustic; IMS/Raman trace detectors                        | C&D slag + Mini-Fab sensors         | Embed during forming + firing             | $120–250                       | $400–700 / $600–950               | Phase 2       | Security pods + RTK tiles → precision response; external contracts revenue |
+| Education & Telepresence Display Tile  | Immersive learning & interaction              | MicroLED/OLED high-res, multi-touch, haptic, voice (local LLM)                               | BIPV + piezo power                  | Display lamination + ceramic embed        | $180–350                       | $500–900 / $700–1,200             | Phase 2       | Telepresence pods + digital twins → VR/Dojo scaling; education affiliate kits |
+| Retail & Dynamic Signage Tile          | Interactive retail façades & advertising      | Sunlight-readable MicroLED, touch/gesture, public WiFi radios                                | Biogas/solar power                  | Outdoor-hardened ceramic + display embed  | $220–450                       | $600–1,000 / $800–1,400           | Phase 2       | Signage pods + compute tiles → ad revenue + broadband fees |
+| Waste Heat Recovery Tile               | Capture & redistribute industrial heat        | Thermoelectric generators + microchannel heat exchangers                                     | Process waste heat (kilns/biorefinery)| Ceramic with TEG embed                    | $80–160                        | $250–450 / $350–600               | Phase 2       | Symbiosis pods → energy closure +10–25%; industrial affiliate partnerships |
 
-## Core Principles
-- **Waste-Derived Modular**: 70–95% recycled materials; snap-together blind-mate.
-- **Self-Powered Active**: BIPV/piezo/AWG for energy/cooling.
-- **Integrated Intelligence**: RTK/sensors/twins/OS for AI optimization.
-- **Revenue & Closure Focus**: Leasing/services + symbiosis for 95–99% loops.
-- **Phased Synergy**: Rollout in Phase 2; prioritize low-friction, high-ROI.
+## 2. New/Enhanced Pods
 
-## New & Enhanced Non-Agricultural Components
+| Pod Name                               | Primary Function                              | Key Features / Embedded Tech                                                                 | Main Input Sources                  | Material / Manufacturing                  | Est. Prod Cost ($M mature) | Internal / Affiliate Price ($M) | Phase Rollout | Integration & Rationale |
+|----------------------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------|-----------------------------|----------------------------------|---------------|-------------------------|
+| Energy Storage & Microgrid Pod         | Hub-scale storage & grid management           | Sodium-ion banks + inverters, AI load balancing                                              | Waste anodes + biogas               | Ceramic-lined + module assembly           | $3–8                        | $5–12                            | Phase 2       | Storage tiles + BIPV → full resilience; leasing revenue |
+| UV-C Disinfection & Air Treatment Pod  | Indoor pathogen control                       | Far-UVC arrays + HEPA/electrostatic, VOC/CO₂ sensors, AI dosing                              | Biogas power                        | Ceramic ducts + UVC embed                 | $2–5                        | $3.5–8                           | Phase 2       | Disinfection tiles + sensor nets → health compliance credits |
+| Security & Surveillance Pod            | Centralized threat response                   | Drone dispatch, biometric/airlock control, trace analytics                                   | Mini-Fab compute                    | Ceramic + sensor assembly                 | $2.5–5.5                    | $4–9                             | Phase 2       | Monitoring tiles + RTK → precision security; external contracts |
+| Education & Telepresence Pod           | Immersive VR/Dojo learning                    | High-res displays, haptic suits, multi-user VR                                               | BIPV power                          | Ceramic frame + display integration       | $3–7                        | $5–11                            | Phase 2       | Display tiles + compute → competency scaling |
+| Retail & Dynamic Signage Pod           | Interactive retail activation                | Large-format walls, WiFi hotspots, ad management                                              | Solar/biogas                        | Ceramic + display assembly                | $4–9                        | $6–14                            | Phase 2       | Signage tiles → advertising + broadband revenue |
+| Waste Heat Recovery & Symbiosis Pod    | Industrial heat reuse                         | Heat exchangers + thermoelectric, AI routing                                                 | Process exhaust                     | Ceramic heat pipes + TEG                  | $2–6                        | $3.5–10                          | Phase 2       | Recovery tiles → energy efficiency + symbiosis partnerships |
 
-### New/Enhanced Tiles
+## 3. New/Enhanced Kits
 
-| Tile Name                          | Primary Function                              | Key Features / Technologies                          | Inputs / Materials                          | Production Cost ($/unit mature) | Selling Price ($/unit) | Phase Rollout | Integration Notes                          | Revenue Potential ($M/hub/year) | Viability & Rationale |
-|------------------------------------|-----------------------------------------------|------------------------------------------------------|---------------------------------------------|---------------------------------|-------------------------|---------------|--------------------------------------------|---------------------------------|-----------------------|
-| Energy Storage & Thermal Battery   | Distributed energy buffering & thermal mgmt   | Solid-state sodium-ion + phase-change materials      | ELFM slag (80%), residues                   | $80–150                        | $300–550               | Phase 2 (2029–2031) | Microgrid pod sync, RTK for load balancing | 10–30 (leasing + credits) | 9/10 – Resilience boost |
-| Smart Lighting & UV-C Disinfection | Adaptive lighting + pathogen control          | Tunable LEDs + UV-C emitters, occupancy sensors      | RHA silica, ceramic embeds                  | $60–120                        | $250–450               | Phase 2 (2029–2031) | Air treatment pod linkage, health twins    | 5–15 (health services)    | 8.5/10 – Indoor health |
-| Security & Perimeter Monitoring    | Intrusion detection & surveillance            | mmWave radar, IR/multispectral cameras, acoustic     | C&D slag (70%)                              | $100–200                       | $400–700               | Phase 2 (2030–2032) | Surveillance pod AI, digital twins         | 8–25 (security leasing)   | 9/10 – Safety moat    |
-| Education & Telepresence Display   | Immersive learning & virtual collaboration    | MicroLED displays, haptic touch, AR overlays         | Waste-derived ceramic                       | $150–300                       | $550–1,000             | Phase 2 (2030–2032) | Telepresence pod VR/Dojo sync              | 6–20 (ed services)        | 8/10 – Human capital   |
-| Retail & Dynamic Signage           | Interactive retail displays & ads              | Outdoor MicroLED, touch/gesture, AI content          | Farm residues + slag                        | $200–400                       | $750–1,400             | Phase 2 (2029–2031) | Retail pod linkage, ad revenue             | 15–40 (ads + leasing)     | 9/10 – Retail flywheel |
-| Waste Heat Recovery                | Heat capture & redistribution                 | Thermoelectric generators, microchannel loops        | Brownfield materials                        | $70–140                        | $280–500               | Phase 2 (2030–2032) | Symbiosis pod integration, energy twins    | 10–30 (heat leasing)      | 8.5/10 – Efficiency    |
+| Kit Name                               | Primary Function                              | Key Components / Features                                                           | Main Inputs                         | Manufacturing / Delivery                  | Est. Kit Cost | Affiliate Selling Price | Phase Rollout | Integration & Rationale |
+|----------------------------------------|-----------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------|---------------|--------------------------|---------------|-------------------------|
+| Energy Storage & Microgrid Starter Kit | Entry-level storage & grid                    | 20–50 storage tiles + micro-inverter + control app                                  | Hub power                           | Flat-pack tiles + pod electronics         | $150k–400k   | $250k–600k               | Phase 2       | Microgrid pods → off-grid affiliates |
+| UV-C Air & Surface Disinfection Kit    | Portable pathogen control                     | 10–30 disinfection tiles + mobile UV pod                                            | Biogas/solar                        | Ceramic embeds + portable                  | $100k–250k   | $180k–450k               | Phase 2       | Health compliance + retail kits |
+| Security & Perimeter Monitoring Kit    | Modular perimeter setup                       | 15–40 monitoring tiles + drone dock + AI hub                                        | Mini-Fab sensors                    | Assembly + calibration                     | $200k–600k   | $350k–900k               | Phase 2       | Security pods → external contracts |
+| Education & Telepresence Starter Kit   | Immersive learning setup                      | 10–20 display tiles + VR headsets + telepresence hub                                | BIPV power                          | Flat-pack + display integration            | $250k–500k   | $400k–800k               | Phase 2       | Education pods → competency affiliates |
+| Retail Façade & Signage Kit            | Interactive retail walls                      | 20–50 signage tiles + WiFi radios + ad server                                       | Solar/biogas                        | Hardened ceramic + display                 | $300k–700k   | $500k–1.2M               | Phase 2       | Signage pods → advertising revenue |
+| Waste Heat Recovery & Reuse Kit        | Industrial heat capture                       | 15–40 recovery tiles + heat exchanger module                                        | Process heat                        | Ceramic TEG embeds                         | $150k–350k   | $250k–600k               | Phase 2       | Symbiosis pods → efficiency partnerships |
 
-### New/Enhanced Pods
+## 4. New LLCs (Prioritized Rollout)
 
-| Pod Name                             | Primary Function                              | Key Features / Technologies                          | Inputs / Materials                          | Production Cost ($M/pod mature) | Selling Price ($M/pod) | Phase Rollout | Integration Notes                          | Revenue Potential ($M/pod/year) | Viability & Rationale |
-|--------------------------------------|-----------------------------------------------|------------------------------------------------------|---------------------------------------------|---------------------------------|-------------------------|---------------|--------------------------------------------|---------------------------------|-----------------------|
-| Energy Storage & Microgrid           | Grid-independent power buffering              | Sodium-ion banks + AI load balancing                 | ELFM slag + residues                        | $2–5                           | $8–15                  | Phase 2 (2029–2031) | Storage tile sync, biogas linkage          | 20–60 (energy leasing)    | 9/10 – Resilience core |
-| UV-C Disinfection & Air Treatment    | Pathogen-free indoor environments             | UV-C lamps + HEPA/electrostatic, VOC sensors         | RHA silica, ceramic                         | $1.5–3.5                       | $6–12                  | Phase 2 (2029–2031) | Lighting tile control, health twins        | 10–30 (health services)   | 8.5/10 – Pandemic prep |
-| Security & Surveillance              | Comprehensive monitoring & response            | Drone/swarm bot dispatch, AI anomaly detection       | C&D slag                                    | $2.5–5.5                       | $10–20                 | Phase 2 (2030–2032) | Perimeter tile feed, digital twins         | 15–45 (security contracts) | 9/10 – Safety essential|
-| Education & Telepresence             | Immersive VR/AR learning & collaboration      | High-res VR headsets, haptic stations, AI tutors     | Waste-derived ceramic                       | $1.8–4                         | $7–14                  | Phase 2 (2030–2032) | Display tile sync, Dojo platform           | 12–35 (ed services)       | 8/10 – Talent moat    |
-| Retail & Dynamic Signage             | Adaptive retail displays & customer engagement | Interactive MicroLED clusters, AI content curation   | Farm residues + slag                        | $3–6                           | $12–24                 | Phase 2 (2029–2031) | Signage tile linkage, ad networks          | 25–70 (ads + leasing)     | 9/10 – Revenue driver  |
-| Waste Heat Recovery & Symbiosis      | Industrial heat reuse & cross-industry loops  | Thermoelectric + heat exchangers, symbiosis piping   | Brownfield materials                        | $2–4.5                         | $8–16                  | Phase 2 (2030–2032) | Recovery tile data, energy twins           | 20–60 (heat/fuel sales)   | 8.5/10 – Symbiosis key|
+| LLC Name                               | Primary Function                              | Key Synergies & Outputs                                                             | Est. Hub CAPEX Addition ($M) | Est. Mature Revenue ($M/hub/year) | Phase Rollout | Viability Rationale |
+|----------------------------------------|-----------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------|------------------------------------|---------------|---------------------|
+| Desalination & Brine Valorization LLC  | Coastal water production + mineral recovery   | AWG augmentation, brine → ceramic inputs                                            | 80–200                        | 150–450                            | Phase 2       | Water security + material closure |
+| 3D-Printed Construction & Habitat Systems LLC | Rapid ceramic habitat/building                | LCM printing + tile integration, off-world habitats                                  | 100–250                       | 200–600                            | Phase 2       | Construction speed + export potential |
+| Synthetic Biology & Fermentation LLC   | Bio-materials, fuels, chemicals               | Waste substrates → bio-plastics/fuels/APIs                                           | 120–300                       | 250–700                            | Phase 2       | Industrial symbiosis + premium products |
+| Waste-to-Synthetic Fuels LLC           | Liquid/gaseous fuels from waste               | Syngas → methanol/FT fuels, heat recovery tie-in                                    | 150–350                       | 300–800                            | Phase 3       | Energy export + carbon negativity |
 
-### New/Enhanced Kits
+**Prioritized LLC Rollout Order**  
+1. Desalination & Brine Valorization (water closure critical)  
+2. 3D-Printed Construction & Habitat Systems (rapid scaling)  
+3. Synthetic Biology & Fermentation (material/fuel diversity)  
+4. Waste-to-Synthetic Fuels (energy export potential)
 
-| Kit Name                               | Primary Function                              | Key Components                                       | Inputs / Materials                          | Cost ($/kit)   | Selling Price ($/kit) | Phase Rollout | Integration Notes                          | Revenue Potential ($M/year network) | Viability & Rationale |
-|----------------------------------------|-----------------------------------------------|------------------------------------------------------|---------------------------------------------|----------------|-----------------------|---------------|--------------------------------------------|-----------------------------|-----------------------|
-| Energy Storage & Microgrid Starter     | Home/small-site power independence            | 20–50 storage tiles, controller, inverter            | ELFM slag + residues                        | $100K–300K    | $400K–900K           | Phase 2 (2029–2031) | Microgrid pod app, RTK balancing           | 20–60                       | 9/10 – Affiliate energy|
-| UV-C Air & Surface Disinfection        | Pathogen control for homes/offices            | 10–30 UV tiles, air purifier module                  | RHA silica, ceramic                         | $50K–150K     | $200K–500K           | Phase 2 (2029–2031) | Treatment pod linkage, health app          | 10–30                       | 8.5/10 – Health retail |
-| Security & Perimeter Monitoring        | DIY security setup                             | 15–40 monitoring tiles, camera/drone dock            | C&D slag                                    | $150K–400K    | $600K–1.2M           | Phase 2 (2030–2032) | Surveillance pod AI, mobile alerts         | 15–45                       | 9/10 – Safety kits     |
-| Education & Telepresence Starter       | Home/classroom immersive learning             | 5–15 display tiles, VR station, content library      | Waste-derived ceramic                       | $80K–250K     | $300K–800K           | Phase 2 (2030–2032) | Telepresence pod sync, Dojo access         | 12–35                       | 8/10 – Ed retail       |
-| Retail Façade & Signage                | Storefront dynamic displays                   | 20–50 signage tiles, content controller              | Farm residues + slag                        | $200K–500K    | $800K–1.5M           | Phase 2 (2029–2031) | Retail pod ad integration                  | 25–70                       | 9/10 – Retail driver   |
-| Waste Heat Recovery & Reuse            | Home/industrial heat capture                  | 10–30 recovery tiles, exchanger unit                 | Brownfield materials                        | $120K–350K    | $500K–1M             | Phase 2 (2030–2032) | Symbiosis pod app, energy monitoring       | 20–60                       | 8.5/10 – Efficiency kits|
+## Overall Viability Notes & Cross-Component Synergies
 
-### New LLCs (Prioritized Rollout Order: 1. Desalination, 2. Waste-to-Fuels, 3. Synbio, 4. 3D-Printed Habitats)
+**Viability Impact**  
+- Complete city services enabled (energy resilience, indoor health, security, education, retail, symbiosis)  
+- New revenue streams: energy leasing, health services, signage/broadband ads, chemical/fuel sales  
+- Network-wide incremental revenue (mature): $8–$32B/year  
+- Payback period: 1–3 years per component/LLC  
+- IRR uplift: +9–19% blended (diversification + high-margin external sales)  
 
-| LLC Name                             | Primary Function                              | Key Features / Technologies                          | Inputs / Materials                          | Production Cost (N/A) | Selling Price (N/A) | Phase Rollout | Integration Notes                          | Revenue Potential ($B/year network) | Viability & Rationale |
-|--------------------------------------|-----------------------------------------------|------------------------------------------------------|---------------------------------------------|------------------------|----------------------|---------------|--------------------------------------------|-----------------------------|-----------------------|
-| Desalination & Brine Valorization    | Water purification & mineral recovery         | Reverse osmosis + plasma brine processing            | Seawater/brackish + waste                   | N/A                   | N/A                  | Phase 2 (2030–2032) | Water tile sync, symbiosis fuels           | 50–200                      | 9/10 – Water scarcity  |
-| Waste-to-Synthetic Fuels             | Fuel from wastes (biofuels, syngas)           | Gasification + Fischer-Tropsch synthesis             | Organic wastes + residues                   | N/A                   | N/A                  | Phase 2 (2030–2032) | Heat recovery pod linkage, energy twins    | 40–150                      | 8.5/10 – Fuel exports  |
-| Synthetic Biology & Fermentation     | Custom microbes/enzymes for processes         | CRISPR-engineered strains, fermenters                | Biorefinery byproducts                      | N/A                   | N/A                  | Phase 3 (2032–2035) | Microbial pod expansion, synbio twins      | 30–120                      | 8/10 – Bio-innovation  |
-| 3D-Printed Construction & Habitats   | Rapid modular building/habitat systems        | Ceramic LCM printers + snap-together modules         | Waste-derived ceramics                      | N/A                   | N/A                  | Phase 3 (2032–2035) | Construction tile kits, digital twins      | 20–80                       | 9/10 – Habitat scale   |
+**Cross-Component Synergies**  
+- Energy storage tiles/pods + waste heat recovery → full microgrid closure  
+- UV-C disinfection + security monitoring → comprehensive indoor/outdoor health & safety  
+- Education display tiles + telepresence pods → scalable competency training  
+- Retail signage + dynamic walls → advertising + public WiFi revenue  
+- All integrate with RTK GPS tiles (precision placement), compute/networking tiles (distributed AI), digital twins (predictive optimization), and sovereign OS (secure federation)  
 
-## Phased Implementation Plan (Recomputed)
+These enhancements transform the Genesis Network into a complete regenerative urban ecosystem — resilient, self-sustaining, and economically dominant.
 
-### Phase 1: Bootstrap (2026–2027)
-- Core ag focus; pilot non-ag tiles/pods.
-- **CAPEX**: $50–150M → **Revenue**: $200–600M → **Net**: +$100–300M
-
-### Phase 2: Non-Ag Expansion (2027–2031)
-- Full tiles/pods/kits; Desalination/Waste-Fuels LLCs launch.
-- **CAPEX**: $3–8B → **Revenue**: $100–300B/year → **Net**: +$80–250B
-
-### Phase 3: City Maturity (2031–2035)
-- Synbio/Habitats LLCs; full symbiosis.
-- **CAPEX**: $100–300B → **Revenue**: $500–1,500B/year → **Net**: +$400–1,200B
-
-### Phase 4: Global (2035+)
-- **Revenue**: $1,500–4,500B/year
-
-## Financial Model Summary (Recomputed)
-
-| Phase                          | Years       | CAPEX ($B) | Revenue ($B/year mature) | Cumulative Net ($B) | Key Drivers                              |
-|--------------------------------|-------------|------------|---------------------------|----------------------|------------------------------------------|
-| Bootstrap                      | 2026–2027   | 0.05–0.15 | 0.2–0.6                  | +0.1–0.3            | Core ag + pilot non-ag                   |
-| Non-Ag Expansion               | 2027–2031   | 3–8       | 100–300                  | +80–250             | Tiles/pods/kits + new LLCs               |
-| City Maturity                  | 2031–2035   | 100–300   | 500–1,500                | +400–1,200          | Symbiosis + services                     |
-| Global                         | 2035+       | 300–900   | 1,500–4,500              | +3,000–9,000        | Full city exports + dominance            |
-
-**IRR**: 180–240%  
-**Incremental Non-Ag Revenue**: +$500–2,000B/year mature  
-**Self-funding threshold**: Month 1–2 per hub (services + sales)
-
-## Overall Viability Notes
-- **Prioritized LLC Order**: Desalination (water critical), Waste-Fuels (energy synergy), Synbio (bio-boost), Habitats (scale enabler).
-- **Cross-Synergies**: Energy tiles/pods + waste heat → symbiosis LLC; security + UV-C → health services; education + retail tiles → community hubs; all feed digital twins for AI optimization.
-- **Viability**: 9.5/10 (closes gaps + revenue diversification); +20–40% uplift (services + exports + resilience).
-
-Non-ag enhancements transform Genesis into a complete regenerative city system — self-sustaining, scalable, and exponentially impactful.
-
----
-
-<small>© 2026 EarthStar Technologies. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).</small>
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
