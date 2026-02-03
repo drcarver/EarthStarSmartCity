@@ -5,7 +5,7 @@ description: Specification for the Security & Surveillance LLC, incorporating al
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 04C- Security & Surveillance LLC – Genesis Network
+# Prompt 01G- Security & Surveillance LLC – Genesis Network
 
 **Executive Overview**  
 The Security & Surveillance LLC provides comprehensive, AI-driven security solutions for Genesis hubs, affiliates, cities, and external clients, incorporating perimeter monitoring, drone surveillance, access control, biometric authentication, and trace detection for weapons, explosives, and drugs. It leverages modular tiles, pods, and kits for layered detection, rapid response, and compliance, enabling turnkey systems with high-margin contracts and services. Project phase: Phase 2 (2029–2031). Suggested file path: innovation-hub/security-surveillance-llc.md.
