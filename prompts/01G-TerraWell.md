@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Earth-Star Industries Prompt 04 – TerraWell FreeCare System Detailed Specification
+title: Earth-Star Industries Prompt 01G – TerraWell FreeCare System Detailed Specification
 description: Prompt to generate a comprehensive, accurate, and compliant description of the TerraWell FreeCare System as a standalone humanitarian nonprofit layer.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
 ---
 
-# Prompt 03 – Generate Detailed TerraWell FreeCare System Description (December 2025)
+# Prompt 01G – Generate Detailed TerraWell FreeCare System Description (December 2025)
 
 **Objective**  
 Generate a complete, self-contained executive specification document for the **TerraWell FreeCare System**, a fully private, standalone 501(c)(3) nonprofit operated by the independent TerraWell Foundation. The document must reflect realistic U.S. tax law (IRC §§170, 501(c)(3)), FDA regulations, and operational constraints as of December 2025, while preserving maximum humanitarian impact and tax efficiency.
@@ -26,6 +26,7 @@ Generate a complete, self-contained executive specification document for the **T
 4. Medical care (urgent/primary/mental health) provided by paid or volunteer licensed staff employed directly by the 501(c)(3), funded through charity's general operations (not tied to specific corporate donations).  
 5. Enhanced corporate tax deductions claimed only for qualifying inventory under §170(e)(3) (primarily food; partial for certain medical supplies used for care of the ill/needy).  
 6. All facilities feature smart airlocks with hyperspectral screening for basic health triage and security.
+7. Prioritie placemeb in food deserts wth hybrid free and paid provision
 
 --
 
