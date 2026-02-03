@@ -67,5 +67,9 @@ The Security & Surveillance LLC provides comprehensive, AI-driven security solut
 
 The Security & Surveillance LLC, with enhancements for drone surveillance, access control, biometrics, and trace detection, delivers a comprehensive, AI-optimized security ecosystem that enhances resilience and enables premium services. It integrates seamlessly with the Genesis Network's modular architecture, providing turnkey solutions for perimeter protection, threat detection, and response. Strong viability (+15–25% overall network uplift) from high-margin contracts and reduced operational risks; Phase 2 rollout aligns with scaling needs.
 
+The response must be presented in a **scrollable Markdown window** (i.e., formatted as complete standalone Markdown suitable for rendering in a Jekyll/GitHub Pages site or similar), ensuring readability with proper headings, sections, bullet points, tables (where appropriate), and logical flow.
+
+
+
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 © 2025–2026 EarthStar Technologies Conceptual Working Group
