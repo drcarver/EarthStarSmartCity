@@ -14,7 +14,7 @@ Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http
 ## Production & Deployment Prompt
 
 **Objective**  
-Manufacture and deploy the **Genesis Communicator Badge** as a flagship wearable device that integrates voice-activated communication, real-time biosensing, precise positioning (RTK GNSS + cellular fallback), and seamless connection to the Genesis tile fabric. The badge serves residents, workers, affiliates, retail customers, and emergency responders — functioning as both a personal interface and a data collection node for digital twins.  Provide a wifi tile that connects to the fiber backbone that provides public wify.  These can be plugged into the infrastructure to provide public wifi anyeere in genesis 
+Manufacture and deploy the **Genesis Communicator Badge** as a flagship wearable device that integrates voice-activated communication, real-time biosensing, precise positioning (RTK GNSS + cellular fallback), and seamless connection to the Genesis tile fabric. The badge serves residents, workers, affiliates, retail customers, and emergency responders — functioning as both a personal interface and a data collection node for digital twins.  Provide a wifi tile that connects to the fiber backbone that provides public wify.  These can be plugged into the infrastructure to provide public wifi anyeere in genesis.  Provide free in terrawell venters and a discounted subscription plan if they want to keep them
 
 **Target Production Timeline**  
 - **Prototype**: 2028–2029 (Mini-Fab era)  
