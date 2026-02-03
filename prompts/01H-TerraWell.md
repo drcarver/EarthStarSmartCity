@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Earth-Star Industries Prompt 01G – TerraWell FreeCare System Detailed Specification
+title: Earth-Star Industries Prompt 01H – TerraWell FreeCare System Detailed Specification
 description: Prompt to generate a comprehensive, accurate, and compliant description of the TerraWell FreeCare System as a standalone humanitarian nonprofit layer.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 theme: minimal
@@ -54,5 +54,4 @@ Raw Markdown suitable for direct copy-paste into GitHub Pages (Jekyll minimal th
 ---
 
 *Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). EarthStar Technologies © 2025
-
 
