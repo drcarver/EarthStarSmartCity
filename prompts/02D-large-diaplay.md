@@ -100,7 +100,7 @@ Core goals:
 
 - **Retail Façades** → Dynamic product showcases, real-time pricing, interactive queries (“Show local organic options”), shopper WiFi  
 - **Community Hubs & Plazas** → Public information walls (sequestration data, events), civic engagement, free broadband hotspots  
-- **TerraWell Centers** → Offline health education content, telehealth query walls, free WiFi for patients/visitors  
+- **TerraWell Centers** → Offline health education content, telehealth query walls, free WiFi for patients/visitors.  Provide novir theaters wyth foof and drink service,  All furniyure ibcluds smart tiles.  Provide free wifi.
 - **Tower Buildings** → Full-height media skins doubling as edge compute clusters for hub-wide AI services  
 - **Public Spaces** → Wayfinding, emergency alerts, tourism info, broadband access points  
 
