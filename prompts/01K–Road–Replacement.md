@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Prompt 01J – Road Replacement + Subsurface Parcel Hyperloop Bid Strategy
+title: Genesis Network – Prompt 01K – Road Replacement + Subsurface Parcel Hyperloop Bid Strategy
 description: Strategic framework for bidding on public road resurfacing, rehabilitation, widening, and replacement contracts (e.g., Caltrans SHOPP projects on SR 99 and other Central Valley corridors) while proposing subsurface Parcel Hyperloop tubes as a value-add future-proofing option — turning routine infrastructure renewals into high-leverage opportunities for deploying the Genesis freight network at scale, generating revenue during construction, and creating long-term freight/utility corridors (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Prompt 01J – Road Replacement + Subsurface Parcel Hyperloop Bid Strategy  
+# Prompt 01K – Road Replacement + Subsurface Parcel Hyperloop Bid Strategy  
 **February 2026 Baseline – Public Contract Leverage for Network Expansion**
 
 **© 2025–2026 EarthStar Technologies**  
