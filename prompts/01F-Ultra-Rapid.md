@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Prompt 01 – Ultra-Rapid Hub Bootstrap & Staging
+title: Genesis Network – Prompt 01F – Ultra-Rapid Hub Bootstrap & Staging
 description: Fastest cash-positive hub launch strategy using pre-supply from staging hubs, limited to 8 core pod types for simplicity and early revenue (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Prompt 01  
-**Ultra-Rapid Hub Bootstrap & Staging**  
+# Prompt 01F - Ultra-Rapid Hub Bootstrap & Staging  
 **February 2026 Baseline – Pruned & Revenue-First**
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
