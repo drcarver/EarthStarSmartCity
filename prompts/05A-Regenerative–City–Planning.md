@@ -1,82 +1,82 @@
 ---
 layout: default
-title: Genesis Network – Regenerative City Planning Strategies
-description: Core strategies and design patterns for planning and building regenerative cities within the Genesis Network, emphasizing closed-loop systems, biophilic integration, density with productivity, modular scalability, and long-term resilience.
+title: Genesis Network – Prompt 05A – Regenerative City & Hub Layout Principles
+description: Core planning principles and simplified layout for regenerative cities/hubs, emphasizing closed-loop systems, biophilic integration, productive density, modular tile construction, and long-term resilience (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 05A - Regenerative City Planning Strategies
-**Earth-Star Industries – January 2026 Baseline**
+# Prompt 05A – Regenerative City & Hub Layout Principles   
 
-**© 2025–2026 Earth-Star Industries**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-Regenerative cities in the Genesis Network are **not traditional urban centers** — they are **living, productive ecosystems** that regenerate soil, water, biodiversity, carbon stocks, and human well-being while producing food, energy, materials, and services at 95–99% closure. Planning prioritizes **density + productivity**, **biophilic integration**, **modular scalability**, **distributed resilience**, and **circular flows** over conventional zoning.
+## Objective
 
-## 1. Core Regenerative City Planning Principles
+Define the layout and planning principles for Genesis regenerative hubs (500–2,500 ha) and emerging cities so they function as **net-positive living ecosystems** that:
+
+- Regenerate soil, water, biodiversity, carbon stocks, and human well-being  
+- Produce food, energy, materials, and services at 95–99% closure  
+- Achieve productive density without sacrificing livability  
+- Scale modularly via tiles, pods, and kits  
+- Remain resilient to climate, economic, and social shocks  
+
+This replaces sprawling multi-zone designs with a **simple, proven 4-zone model** that can be built rapidly, self-funded, and politically defensible.
+
+## Core Planning Principles
 
 1. **Productivity-First Density**  
-   - Every surface is potentially productive: roofs (BIPV + glazing + greenhouses), walls (vertical ag + cladding), balconies (aeroponics), interiors (hydroponic towers), understructures (aquaponics).  
-   - Target: 40–70% of built area supports food/energy/materials production.  
-   - Result: +30–60% effective productive capacity vs. flat land use.
+   - 40–60% of built area supports food/energy/material production (vertical towers, rooftop greenhouses, balcony aeroponics, agroforestry edges).  
+   - Result: +30–50% effective yield vs. flat land; cities export surplus rather than consume.
 
 2. **Biophilic & Ecosystem Integration**  
-   - Nature corridors (10–20% of area) connect blue-green carbon zones (wetlands, kelp, mangroves, agroforestry).  
-   - Buildings incorporate living walls, green roofs, pollinator habitats, and bird-safe glazing.  
-   - Water features (reclaimed, AWG-fed) support biodiversity and passive cooling.
+   - 10–20% nature corridors connect restored wetlands, pollinator habitats, edible landscapes.  
+   - Living walls/roofs, bird-safe glazing, water features (AWG-fed), daylight access everywhere.
 
-3. **Modular & Snap-Together Construction**  
-   - All structures built from waste-derived ceramic tiles (structural, smart, insulating, glazing).  
-   - 3D printing used only for complex/custom elements (vaults, arches, repairs).  
-   - Pods and kits enable rapid expansion/relocation.
+3. **Tile-Dominant Modular Construction**  
+   - 92–98% of structures from waste-derived toughened ceramic tiles (structural grid, envelope, intelligent surfaces).  
+   - 2–8% 3D printing only for curves, vaults, repairs, custom elements.  
+   - Snap-together, blind-mate interconnects (power/data/thermal/water).
 
-4. **Distributed Resilience & No Single Points of Failure**  
-   - No centralized power/water/food systems; every hub/pod cluster is semi-autonomous.  
-   - Microgrids, AWG clusters, biogas islands, local twins.  
-   - Mobile pods + relocation kits for disaster recovery.
+4. **Distributed Resilience**  
+   - No centralized utilities: microgrids, local AWG/biogas clusters, zone-level digital twins.  
+   - 90+ day isolation capability per hub/zone.  
+   - Mobile pods + relocation kits for disaster response.
 
-5. **Circular Flows & Zero External Dependency**  
-   - Waste → feedstock (plasma/ELFM → tiles)  
-   - Manure/organics → biogas → energy + digestate → fertilizer/inoculants  
-   - CO₂ → enhanced weathering/biochar → sequestration credits  
-   - Excess water → aquifer recharge or export
+5. **Circular Flows**  
+   - Waste → feedstock (plasma/ELFM → tiles/RCA).  
+   - Organics → biogas → energy + digestate → inoculants → soil/food.  
+   - Excess water/energy → recharge/export.
 
-6. **Human-Centered & Community-Driven**  
-   - Walkable, 15-minute city layout (no car dependency inside hubs).  
-   - Free amenities via TerraWell (healthcare, education, food).  
-   - Co-op governance + affiliate empowerment for rural integration.
+6. **Human-Centered & Inclusive**  
+   - 15-minute walkable neighborhoods (food, health, education, work within reach).  
+   - Free TerraWell amenities + mixed housing (high-density towers + low-density clusters).  
+   - Co-op governance + affiliate integration.
 
-## 2. Typical Mature Regenerative City Layout (~1,200 ha Hub)
+## Simplified Mature Hub/City Layout (1,500–2,500 ha)
 
-| Zone                          | % of Area | Primary Functions & Features                              | Key Tiles/Pods/Kits Used                          | Annual Revenue Potential ($M/hub) |
-|-------------------------------|-----------|-----------------------------------------------------------|---------------------------------------------------|------------------------------------|
-| Productive Core               | 35–40%    | Aquaponics, vertical farms, agroforestry, livestock pods, TerraFab | Aquaponics pods, vertical tower pods, agroforestry kits | 800–2,200                          |
-| Residential & Community       | 25–30%    | Ceramic housing, schools, TerraWell centers, retail plazas | Insulating tiles, education pods, retail signage tiles | 400–1,000                          |
-| Dense Integrated Agriculture  | 15–20%    | Rooftop/balcony aeroponics, vertical greens in towers     | Canopy microclimate tiles, vertical ag kits       | 300–800                            |
-| Infrastructure & Circulation  | 10–15%    | Smart roads/pipes/rail, energy storage, waste processing  | Permeable roads tiles, energy storage pods        | 200–600                            |
-| Nature Corridors & Rewilding  | 10–15%    | Wetlands, kelp farms, pollinator habitats, blue carbon    | Restoration kits, bee activity tiles              | 100–400 (credits)                  |
+| Zone                               | % of Area | Area (ha) | Primary Functions & Features                                      | Key Tiles/Pods/Kits Used                              | Annual Revenue Potential ($M/hub) |
+|------------------------------------|-----------|-----------|-------------------------------------------------------------------|-------------------------------------------------------|------------------------------------|
+| Productive Core                    | 40%       | 600–1,000 | Aquaponics, vertical towers, agroforestry, livestock, TerraFab   | Aquaponics pods, vertical tower kits, agroforestry kits | 900–2,500                          |
+| Residential & Community            | 30%       | 450–750   | Ceramic housing (towers + clusters), TerraWell centers, schools, retail plazas, rooftop/balcony farms | Insulating tiles, education pods, retail signage tiles, vertical ag kits | 500–1,300                          |
+| Infrastructure & Circulation       | 15%       | 225–375   | Smart roads/pipes/rail, energy storage, waste recovery           | Permeable road tiles, energy storage pods, airlock modules | 250–700                            |
+| Nature Corridors & Rewilding       | 15%       | 225–375   | Wetlands, blue-green carbon, pollinator habitats, buffers        | Restoration kits, bee activity tiles                  | 150–500 (credits + eco-tourism)    |
 
-## 3. Planning Strategies by Phase
+**Notes**  
+- Dense integrated agriculture (rooftop/balcony/vertical) embedded in residential zone — adds 30–50% productive capacity with zero net land increase.  
+- All buildings use smart airlocks (mmWave/hyperspectral + trace detectors) and dense sensor nets for security/compliance.
 
-| Phase & Timeline               | Key Planning Focus                                      | Major Strategies & Tools Used                                                                 | Typical Hub Size & Population |
-|--------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------|
-| Bootstrap (2026–2030)          | Pilot hubs on distressed land                           | Pre-supply staging, tile-first construction, minimal footprint, farmer co-op pilots            | 500–1,500 ha, 5,000–20,000     |
-| Early Scale (2031–2035)        | Regional clusters + affiliate expansion                 | Modular tower addition, RTK precision ag, retail integration, dense sensor net rollout        | 1,000–2,000 ha, 50,000–150,000 |
-| National Maturity (2036–2045)  | City incorporation & densification                      | Full vertical ag integration, waste heat symbiosis, education/telepresence hubs               | 1,200–3,000 ha, 200,000–500,000|
-| Global & Off-World (2046+)     | Sovereign licensing + lunar/Mars precursors             | Cultural/religious adaptations, RTK + sensor grids for off-world, O'Neill cylinder prototypes | 1,200–5,000 ha (Earth), scalable off-world |
+## Planning Strategies by Phase
 
-## 4. Key Regenerative Design Patterns
-
-1. **Tile-Dominant Hybrid Construction** — 95% tiles (structural grid/envelope/intelligence) + 5–15% 3D printing (curves, vaults, repairs).  
-2. **15-Minute Regenerative Neighborhood** — All essentials (food, health, education, work) within 15-minute walk/cycle.  
-3. **Productive Façades & Roofs** — Every vertical/horizontal surface generates energy, food, or data.  
-4. **Living Infrastructure** — Roads permeable + pollinator-friendly; buildings with green walls/roofs.  
-5. **Closed-Loop Nutrient Cycling** — Manure → biogas → digestate → microbial inoculants → soil → food.  
-6. **Adaptive Resilience** — Mobile pods + relocation kits; sensor twins predict and respond to stress.
+| Phase & Timeline                   | Key Focus                                                 | Major Strategies & Tools Used                                                                 | Typical Hub Size & Population |
+|------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------|
+| Bootstrap (2027–2030)              | Pilot hubs on distressed/brownfield land                  | Pre-supply staging, tile-dominant construction, farmer co-op pilots, minimal footprint         | 500–1,500 ha, 5,000–25,000    |
+| Early Scale (2031–2035)            | Regional clusters + affiliate mini-hubs                   | Modular tower/rooftop addition, RTK precision ag, retail integration, dense sensor rollout     | 1,000–2,500 ha, 50,000–200,000|
+| National Maturity (2036–2045)      | City incorporation & densification                        | Vertical ag integration, waste heat symbiosis, education/telepresence hubs, smart grid scaling| 1,500–4,000 ha, 200,000–600,000|
+| Global Licensing (2046+)           | Sovereign licensing to aligned nations                    | Cultural adaptations, kit export, local co-op governance                                       | Scalable (Earth-wide)         |
 
 ## Viability & Strategic Notes
 
-This planning framework turns cities from consumption centers into **net-positive regenerative engines**. By prioritizing **tile-dominant modularity**, **productive density**, and **ecosystem integration**, the Network achieves food/energy/material sovereignty at scale while creating livable, biophilic environments. The approach is politically defensible (farmer empowerment, rural revitalization), economically superior (high internal productivity), and environmentally transformative (gigaton sequestration, biodiversity corridors). It scales from pilot hubs to global cities and prepares for off-world extension without abandoning Earth’s regenerative potential.
+This simplified 4-zone layout eliminates unnecessary complexity while preserving the **net-positive regenerative engine** concept. Tile-dominant construction ensures speed, cost, and intelligence; productive density makes cities exporters rather than consumers; biophilic corridors deliver health and sequestration. The model is politically robust (farmer empowerment, TerraWell goodwill), economically dominant (high internal productivity + retail), and environmentally transformative (gigaton sequestration, biodiversity). It scales from pilots to global cities with minimal execution risk.
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
