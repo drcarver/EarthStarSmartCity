@@ -21,7 +21,8 @@ These complexes transform food deserts into **regenerative community anchors** b
 - Health access (free TerraWell hospital-level care)  
 - Education & community needs (schools, public buildings, churches)  
 - Mental health & addiction recovery (biophilic design, greenspaces, free counseling)  
-- Social isolation (inclusive mix of density + privacy)  
+- Social isolation (inclusive mix of density + privacy)
+- Assisted living and nursing homes  
 
 Complexes are **self-financeable** via early Network revenue (tiles/food/biogas/retail) and generate strong ROI through rent, productive surfaces, energy export, credits, and goodwill.
 
