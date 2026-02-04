@@ -23,19 +23,6 @@ All items are:
 
 This catalog replaces the sprawling 40–50+ item lists in previous prompts (e.g., original 02A–02I tile variants, compute/network tiles, HIL components, retail signage, etc.).
 
-## 2. Replaced Prompts
-
-This single prompt fully replaces / absorbs:
-
-- Original Prompt 02A (Market-Ready Tiles, AI Upgrades, Rapid Factory Staging)  
-- Original Prompt 02B (Compute & Network Tiles with Independent Storage)  
-- Parts of Prompt 02I (Human Interface Layer – RTK tiles, basic WiFi tiles)  
-- Parts of Prompt 02G (Non-Agricultural Enhancements – energy storage, security, airlock tiles)  
-- Parts of Prompt 04A (Hybrid Tile + 3D-Printed Construction – tile-dominant focus)  
-- Scattered tile references across other prompts (roof glazing, cladding, road, etc.)
-
-Deferred / removed from active Phase 1–2: smart display walls, full compute tiles, clothing clones, advanced networking waveguides, retail signage tiles, most processing pod variants.
-
 ## 3. Tile Catalog (12 Essential Types)
 
 | #  | Tile Name                        | Primary Function                              | Key Embedded Features                              | Input Sources (Primary) | Material Composition             | Prod Cost (mature $/m²) | Selling Price ($/m²) | Revenue Model |
