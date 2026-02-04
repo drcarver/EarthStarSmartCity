@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Prompt 02 – Tile & Kit Catalog (Phase 1–2 Foundation)
+title: Genesis Network – Prompt 02A – Tile & Kit Catalog (Phase 1–2 Foundation)
 description: Simplified, revenue-first catalog of 12 essential tiles and 10 kits for early hub bootstrap and scaling, manufactured exclusively in tile factories (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Prompt 02  
-**Tile & Kit Catalog (Phase 1–2 Foundation)**  
-**February 2026 Baseline – Pruned & Executable**
+# Prompt 02A – Tile & Kit Catalog (Phase 1–2 Foundation)  
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
