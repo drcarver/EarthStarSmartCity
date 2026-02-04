@@ -1,75 +1,112 @@
 ---
 layout: default
-title: Security & Surveillance LLC – Genesis Network
-description: Specification for the Security & Surveillance LLC, incorporating all discussed enhancements including drone integration, access control, biometric authentication, and dedicated trace detectors for weapons, explosives, and drugs.
+title: Genesis Network – Prompt 01G – Security & Smart Airlocks
+description: Specification for the security layer and mandatory smart airlocks in all Genesis buildings, pods, and complexes — providing threat detection, access control, and compliance without over-complexity (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 01G- Security & Surveillance LLC – Genesis Network
+# Prompt 01G – Security & Smart Airlocks  
 
-**Executive Overview**  
-The Security & Surveillance LLC provides comprehensive, AI-driven security solutions for Genesis hubs, affiliates, cities, and external clients, incorporating perimeter monitoring, drone surveillance, access control, biometric authentication, and trace detection for weapons, explosives, and drugs. It leverages modular tiles, pods, and kits for layered detection, rapid response, and compliance, enabling turnkey systems with high-margin contracts and services. Project phase: Phase 2 (2029–2031). Suggested file path: innovation-hub/security-surveillance-llc.md.
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-## Tiles
+## Objective
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit mature) | Revenue/Value ($/unit or $/year) |
-|--------------------|----------------------------|------------------|-----------------------|----------------------|----------------------------------|
-| [Security & Perimeter Monitoring Tile](components/tiles/security-perimeter-monitoring-tile.md) | mmWave radar/IR/acoustic + trace detectors for intrusion, weapons/explosives/drugs; AI anomaly detection | C&D slag + electronics | Sensor embed + firing | $120–250 | $500–900 (contracts $100–250/year) |
-| [Networking Snap Tile](components/tiles/networking-snap-tile.md) | Inductive/mmWave relay for security comms | Ceramic embeds | Lamination + waveguide | $40–80 | $150–300 (connectivity $50–100/year) |
+Ensure **every Genesis building, pod, hub, and community complex** has integrated smart airlocks and basic perimeter security that:
 
-## Pods
+- Detects weapons, explosives, and major threats  
+- Alerts security team / local responders  
+- Maintains privacy and avoids surveillance overreach  
+- Generates external contract revenue  
+- Is manufactured from existing tile factories (low added complexity)  
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($M/pod mature) | Revenue/Value ($M/pod/year) |
-|--------------------|----------------------------|------------------|-----------------------|----------------------|-----------------------------|
-| [Security & Surveillance Pod](components/pods/security-surveillance-pod.md) | AI coordination hub for drone dispatch, access/biometric enforcement, trace analytics | C&D slag | Ceramic + sensor assembly | $2.5–5.5 | $15–45 (contracts) |
+## Core Principles
 
-## Kits
+- **Mandatory in All Structures** — No building or pod is deployed without at least one smart airlock  
+- **Tile-Based Simplicity** — Use existing tile manufacturing; add only minimal new sensor/electronics  
+- **Privacy-First** — No continuous facial recognition or behavioral tracking; threat detection only  
+- **Revenue Model** — Internal use + external sales/contracts (municipal, commercial, critical infrastructure)  
+- **Fail-Safe Design** — Graceful degradation; manual override always possible  
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit or $/year) |
-|--------------------|----------------------------|------------------|-----------------------|--------------|---------------------------------|
-| [Security & Perimeter Monitoring Kit](components/kits/security-perimeter-monitoring-kit.md) | 15–40 tiles + cameras/docks + trace/biometric module | C&D slag + electronics | Assembly + embeds | $200K–600K | $800K–2M (contracts $200–500/year) |
-| [Smart Airlock Kit](components/kits/smart-airlock-kit.md) | Hyperspectral scanner, mmWave body scan, biometric reader, IMS/Raman trace detectors | Electronics/ceramic | Assembly + embeds | $80K–200K | $300K–700K (security $100–250/year) |
+## 1. Smart Airlock Specification (Mandatory)
 
-## Sensors
+**Every entrance** (residential, TerraWell, factories, community buildings, pods) must include at least one smart airlock module.
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit mature) | Revenue/Value ($/unit or $/year) |
-|--------------------|----------------------------|------------------|-----------------------|----------------------|----------------------------------|
-| [mmWave Radar Sensor](docs/sensors/mmwave-radar-sensor.md) | Intrusion/motion + concealed object detection | Electronics | Embed in tiles | $20–50 | $80–150 (data $30–60/year) |
-| [IR/Multispectral Camera Sensor](docs/sensors/ir-multispectral-sensor.md) | Thermal/anomaly imaging; chemical trace support | Electronics | Embed in tiles | $30–60 | $100–200 (alerts $40–80/year) |
-| [Acoustic Sensor](docs/sensors/acoustic-sensor.md) | Sound-based tampering/behavior detection | Electronics | Embed in tiles | $15–40 | $60–120 (detection $20–50/year) |
-| [Ion Mobility Spectrometry (IMS) Sensor](docs/sensors/ims-sensor.md) | Trace detection of narcotics/explosives | Electronics + ionization chamber | Module pocket embed | $50–120 | $200–400 (data $60–120/year) |
-| [Raman Spectroscopy Sensor](docs/sensors/raman-sensor.md) | Non-contact chemical identification | Laser + spectrometer | Embed in tiles/airlock | $60–150 | $250–500 (alerts $80–150/year) |
+### Physical Design
+- Size: 1.2 m × 1.2 m × 2.4 m (standard door frame compatible)  
+- Material: Toughened ceramic shell + reinforced glass door  
+- Features:  
+  - Double-door interlock (mantrap style)  
+  - mmWave body scanner (concealed objects/weapons)  
+  - Hyperspectral camera (anomaly detection)  
+  - IMS/Raman trace detector (explosives/narcotics residue)  
+  - Air sampling + far-UVC disinfection cycle (pandemic resilience)  
 
-## Standards & Compliance
+### Detection Capabilities
+| Threat Type           | Detection Method                  | False Positive Rate | Alert Level |
+|-----------------------|-----------------------------------|---------------------|-------------|
+| Firearms / Knives     | mmWave radar + shape recognition  | Low                 | High        |
+| Explosives            | Trace chemical (IMS/Raman)        | Very Low            | Critical    |
+| Narcotics             | Trace chemical (IMS/Raman)        | Low                 | Medium      |
+| Anomalous behavior    | Gait/motion anomaly (optional AI) | Medium              | Low-Medium  |
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost (N/A) | Revenue/Value (N/A) |
-|--------------------|----------------------------|------------------|-----------------------|------------|---------------------|
-| [MIL-STD-810 (Ruggedness)](docs/standards/mil-std-810.md) | Environmental durability for security systems | N/A | N/A | N/A | N/A |
-| [ISO/TC 268 (Smart Cities)](docs/standards/iso-tc-268.md) | Urban/border security & detection standards | N/A | N/A | N/A | N/A |
+### Operation
+- Normal entry: Scan → green light → inner door opens (2–4 seconds)  
+- Threat detected: Red light + lockdown + silent alert to Security LLC / local responders  
+- Manual override: Emergency physical key or admin badge  
 
-## Related / Supporting LLCs in the Innovation Hub
+## 2. Basic Security Tile (Perimeter & Internal)
 
-- [Robotics & Automation LLC](innovation-hub/robotics-automation-llc.md)  
-- [Smart Infrastructure LLC](innovation-hub/smart-infrastructure-llc.md)  
-- [Mini-Fab Semiconductor LLC](innovation-hub/mini-fab-semiconductor-llc.md)  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)  
-- [Synthetic Biology & Fermentation LLC](innovation-hub/synthetic-biology-fermentation-llc.md)  
+**Purpose**: Low-cost, tile-integrated detection for outer perimeters and internal zones.
 
-## Financials
+### Features
+- mmWave radar + IR multispectral sensor  
+- Acoustic anomaly detection  
+- Embedded compute for local processing  
+- Blind-mate interconnect to airlock/security pod  
 
-- **CAPEX**: $150–400M/hub (2030–2032; tiles $50–150M, pods/kits $100–250M).  
-- **OPEX**: $40–100M/year (maintenance 40%, AI 40%, operations 20%).  
-- **Revenues**: $300–900M/year/hub (contracts 70%, services 30%).  
-- **Break-Even**: 12–18 months; IRR Contribution +15–25%.  
-- **Network-Wide Mature (2050)**: Revenues +$150–450B/year from LLC.
+**Deployment**  
+- Exterior walls/perimeter fencing: 1 tile every 10–20 m  
+- Internal hallways/public spaces: 1 tile every 50–100 m²  
 
-## Viability & Integration Notes
+## 3. Security Coordination Pod (Optional but Recommended)
 
-The Security & Surveillance LLC, with enhancements for drone surveillance, access control, biometrics, and trace detection, delivers a comprehensive, AI-optimized security ecosystem that enhances resilience and enables premium services. It integrates seamlessly with the Genesis Network's modular architecture, providing turnkey solutions for perimeter protection, threat detection, and response. Strong viability (+15–25% overall network uplift) from high-margin contracts and reduced operational risks; Phase 2 rollout aligns with scaling needs.
+**Purpose**: Central hub for 5–50 airlock/tile cluster.
 
-The response must be presented in a **scrollable Markdown window** (i.e., formatted as complete standalone Markdown suitable for rendering in a Jekyll/GitHub Pages site or similar), ensuring readability with proper headings, sections, bullet points, tables (where appropriate), and logical flow.
+### Features
+- AI alert triage  
+- Drone dispatch (basic quadcopter)  
+- Integration with RTK tiles for precise incident location  
+- Manual monitoring station  
 
+**When used**: Large hubs, TerraWell centers, community complexes.
 
+## 4. Manufacturing & Cost (Mature Network)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**Smart Airlock Module**  
+- Produced in tile factories (ceramic shell + sensor embed)  
+- Cost: $80k–$200k per unit  
+- Affiliate selling price: $300k–$700k (includes installation/training)  
+
+**Security Tile**  
+- Same production line as other tiles  
+- Cost: $120–$250 per tile  
+- Selling price: $400–$900  
+
+**Revenue Model**  
+- Internal use: 0 (mandatory)  
+- External sales/contracts: Municipal buildings, schools, warehouses, critical infrastructure  
+- Est. annual revenue: $50–$200M per mature hub (external contracts)  
+
+## 5. Viability & Strategic Notes
+
+- **Minimal Complexity** — Uses existing tile manufacturing; adds only 2–3 new sensor types  
+- **Political Defensibility** — Framed as safety/compliance infrastructure (not surveillance)  
+- **Revenue Flywheel** — External contracts fund internal deployment  
+- **Resilience Boost** — Airlocks + basic perimeter protect against pandemics, active threats, theft  
+- **Scalability** — Mandatory but low-cost → every hub/affiliate gets protection without delaying bootstrap  
+
+This is the simplest, most deployable security layer that still delivers real value — protecting people and assets while generating external revenue.
+
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
