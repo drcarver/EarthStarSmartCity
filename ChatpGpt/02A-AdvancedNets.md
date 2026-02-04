@@ -1,109 +1,180 @@
 ---
 layout: default
-title: Genesis Network – Master Prompt: Market-Ready Tiles, AI Upgrades, & Rapid Factory Staging
-description: Comprehensive prompt for self-powered, AI-upgradeable tiles with rapid tile factory deployment and revenue generation.
+title: Genesis Network – Recomputed Timelines & CODTD (Market-Ready Tiles)
+description: Corrected timelines, Cost of Doing the Deal (CODTD), and financials for Prompt 02A: Market-Ready Tiles, AI Upgrades, and Rapid Factory Staging.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02A: Market-Ready Tiles, AI Upgrades, & Rapid Factory Staging
-
-## Objective
-
-Define a strategy for **fully market-ready tiles** with **minimal compute displays**, optional **AI upgrade pathways**, and **ultra-rapid tile factory staging** to:  
-
-- Maximize **early revenue streams**  
-- Enable **rapid hub/pod expansion**  
-- Accelerate **self-funding** of innovation hubs  
-- Maintain **regenerative, modular, and pod-centric production**  
-
-This ensures a **cash-positive, low-risk deployment** while the broader innovation hub matures.
+# Genesis Network – Recomputed Timelines & CODTD  
+**Prompt 02A: Market-Ready Tiles, AI Upgrades, & Rapid Factory Staging**  
+**February 2026 Baseline (Recomputed)**
 
 ---
 
-## 1. Tile Strategy
+## 1. Corrected Master Timeline (Day 0 → Month 24)
 
-| Tile Type | Features | Compute | AI Upgrade Path | Power/Resource |
-|-----------|---------|--------|----------------|----------------|
-| Roof Glazing / Greenhouse | Semi-transparent BIPV (10–30%) | Minimal display (control panel + basic UI) | Optional server-class add-on (AI inference, predictive energy management) | AWG water capture, thermal mass, self-powered |
-| Exterior Cladding | Smart structural tiles | Minimal compute for sensor integration | Optional AI module for predictive maintenance | Piezoelectric, solar, embedded sensors |
-| Interior Walls / Furniture Surfaces | MicroLED/OLED displays | Minimal RISC-V stack (UI + touch) | Modular AI add-on slot for cluster intelligence | Self-powered via BIPV/piezo/AWG |
-| Floors / Permeable Roads | Piezo + structural | Sensor micro-node | Optional AI module for predictive traffic / energy harvesting | Embedded energy capture, water management |
-| Smart Furniture | Integrated display, speakers, haptics | Minimal compute (local control, UI) | Optional AI module for federated cluster participation | Self-powered, BIPV + piezo |
+### Phase 0 – Pre-Deployment (−90 to 0 days)
+- Feedstock contracts (slag, ash, ELFM) executed  
+- Pod tooling designs frozen  
+- Temporary kiln vendors secured  
+- Customer LOIs (developers, NGOs, municipalities)  
+- Primary costs: legal, tooling deposits, permitting  
 
-**Key Principle**: Tiles **ship functional immediately**, generating revenue and utility, while **AI upgrades can be deployed modularly**.
-
----
-
-## 2. Rapid Tile Factory Staging
-
-### Principles
-
-- **Pod-First Factory Pods**: 5–10 containerized production pods per site; immediately operational  
-- **Pre-Loaded Feedstock**: 50–200 tons of slag, residues, rice husk ash, ELFM slag  
-- **Temporary Kilns**: Portable firing tents for instant output  
-- **Permanent Kiln Retrofit**: 6–12 months for full-scale cluster; minimal downtime  
-- **Automation & Lights-Out**: 50–70% automated Day 1; 80–95% by Month 12  
-- **Self-Powered Operations**: BIPV, AWG, piezo integrated into factory tiles  
-
-**Revenue First**: Tile sales generate cash flow **before hub maturity**, funding hub replication, pod production, and AI module manufacturing.
+**Duration:** 2–3 months  
+**Risk:** Minimal  
 
 ---
 
-## 3. Factory Output & Revenue Timeline
+### Phase 1 – Bootstrap Tile Production (Days 1–14)
+- Deploy **5–10 factory pods**
+- Temporary firing tents (gas + biogas capable)
+- Manual + semi-automated lines
+- Tiles ship **fully functional Day 1** (no AI dependency)
 
-| Phase | Description | Tile Output | Revenue Impact |
-|-------|------------|------------|----------------|
-| Phase 1 – Bootstrap (Days 1–14) | Deploy 5–10 production pods; temporary kilns; feedstock on-site | 5–10k tiles/week | Early market sales; cash flow positive |
-| Phase 2 – Early Scale (Weeks 2–6) | Add pods; expand automation; AI-ready tiles produced | 50–100k tiles/month | Begin optional AI module revenue |
-| Phase 3 – Factory Cluster (Months 2–6) | Retrofit permanent kilns; scale pod cluster; full automation | 200–500k tiles/month | Funds hub replication & pod upgrades |
-| Phase 4 – Full Market Integration (Months 6–12) | Deploy AI add-ons; hubs fully operational | 500k+ tiles/month | Self-funded hubs; exponential hub/pod growth |
-
----
-
-## 4. AI Upgrade Pathways
-
-- **Modular AI Add-On Slots**: Tiles ship functional; upgrade to full AI capability via **server-class add-on modules**  
-- **Clustered Intelligence**: Tiles with AI modules participate in **distributed cluster intelligence**, enabling predictive energy, maintenance, and automation  
-- **Federated Learning**: AI modules integrate into **local twins**, with selective data export to global twin network  
-- **Deferred CAPEX**: Optional upgrade allows market adoption before full AI deployment; reduces initial risk  
-
-**Outcome**: Generates revenue while preserving **high-margin AI expansion potential**.
+**Output:** 5k–10k tiles/week  
+**Automation:** 30–40%  
+**Cash Flow:** First invoices inside 14 days  
 
 ---
 
-## 5. Integration With Innovation Hubs
+### Phase 2 – Early Scale (Weeks 2–6)
+- Add **5–15 pods**
+- Inline QC + machine vision inspection
+- AI-ready slots standardized (no AI modules yet)
+- BIPV glazing and exterior cladding SKUs active
 
-- **Pod-Centric Hubs**: Factories, tile pods, greenhouses, and other pods deployed **in parallel**, minimizing dependency risk  
-- **Revenue Spread**: Tile sales provide a **buffer if any single pod or function fails**  
-- **Employee Burnout Mitigation**: Innovation hub distributes oversight across companies, avoiding concentrated stress points  
-- **Pre-Supply & Staging**: Mother/staging hubs supply nearly mature pods and feedstock for **rapid factory deployment**  
-- **Global Risk Mitigation**: Tiles with modular AI can operate offline; local twins govern **legal/national restrictions** on data exports  
-
----
-
-## 6. Strategic Advantages
-
-- **Immediate Cash Flow**: Early tile sales fund hub operations  
-- **Low-Risk Revenue**: Failure of individual pods does not halt factory revenue  
-- **Scalable AI Expansion**: Modular add-ons defer cost and risk while enabling high-margin intelligence deployment  
-- **Rapid Hub Replication**: Revenue streams accelerate pod/hub growth  
-- **Federated Data Moat**: Local AI twins control sensitive exports, enabling compliance and security  
+**Output:** 50k–100k tiles/month  
+**Automation:** 50–60%  
+**Status:** Cash-flow positive by Week 5–6  
 
 ---
 
-## 7. Conclusion
+### Phase 3 – Factory Cluster Conversion (Months 2–6)
+- Permanent kilns commissioned
+- Pod cluster hard-plumbed
+- Ceramic shells brought in-house
+- Optional AI add-on modules introduced
 
-The **combined approach of market-ready tiles, modular AI upgrades, and ultra-rapid factory staging**:  
-
-- Ensures hubs are **self-funding within months**  
-- Reduces dependency on long-term public funding  
-- Generates monetizable assets **from Day 1**  
-- Provides a **low-risk, regenerative, and modular pathway** for network growth  
-
-This strategy transforms **tiles into both revenue-generating products and the foundation for distributed AI infrastructure**, while ensuring that innovation hubs and pods remain resilient, scalable, and self-replicating.
+**Output:** 200k–500k tiles/month  
+**Automation:** 70–85%  
+**Energy:** Net-zero or net-positive  
 
 ---
 
-This work is licensed under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-© 2026 EarthStar Technologies conceptual working group (attribution appreciated)
+### Phase 4 – Full Market Integration (Months 6–12)
+- Full SKU portfolio (roof, wall, floor, furniture)
+- Federated AI tiles enter market
+- Export-ready factory configurations
+
+**Output:** 500k–1M+ tiles/month per hub  
+**Automation:** 85–95%  
+
+---
+
+### Phase 5 – Network Replication (Months 12–24)
+- Mother hubs seed child hubs
+- Tile revenue funds TerraWell, housing, mini-fabs
+- Replication without external capital
+
+---
+
+## 2. Recomputed CODTD (Cost of Doing the Deal)
+
+### Phase 1–2 CODTD (Days 1–45)
+
+| Category | Cost (USD) |
+|--------|------------|
+| Factory pods (5–10, leased/owned mix) | $8–15M |
+| Temporary kilns & tents | $3–6M |
+| Tooling & molds | $4–7M |
+| Initial feedstock (50–200 tons) | $0.5–1.5M |
+| Power, AWG, storage | $2–4M |
+| Labor + operations (45 days) | $2–3M |
+| Regulatory, insurance, legal | $1–2M |
+| **Phase 1–2 CODTD Total** | **$20–40M** |
+
+---
+
+### Phase 3 CODTD (Months 2–6)
+
+| Category | Cost (USD) |
+|--------|------------|
+| Permanent kilns | $15–30M |
+| Additional pods (10–20) | $15–40M |
+| Automation upgrades | $10–20M |
+| AI-ready electronics (no AI compute) | $5–10M |
+| Working capital buffer | $5–10M |
+| **Phase 3 CODTD Total** | **$50–110M** |
+
+---
+
+### Phase 4 CODTD (Months 6–12)
+
+| Category | Cost (USD) |
+|--------|------------|
+| AI add-on module production line | $20–40M |
+| Ceramic shell vertical integration | $15–25M |
+| Export compliance & replication tooling | $10–20M |
+| Additional automation | $10–20M |
+| **Phase 4 CODTD Total** | **$55–105M** |
+
+---
+
+### Total CODTD – Single Hub
+
+| Scope | CODTD |
+|-----|-------|
+| Bootstrap to cash-positive | $20–40M |
+| Full factory cluster | $70–150M |
+| AI-enabled flagship hub | **$120–250M** |
+
+---
+
+## 3. Revenue & Financial Performance
+
+### Conservative Market Assumptions
+- Average tile price (blended SKUs): **$80–150**
+- Gross margin (early): **45–60%**
+- Gross margin (Month 12): **65–75%**
+
+---
+
+### Month-12 Run Rate (Single Hub)
+
+| Metric | Value |
+|------|------|
+| Tiles/month | 500k |
+| Revenue/month | $40–75M |
+| Revenue/year | $500–900M |
+| EBITDA | $250–600M |
+
+**Payback Period**
+- Phase 1–2 CODTD: **< 90 days**
+- Full hub CODTD: **9–18 months**
+
+---
+
+## 4. Strategic Implications
+
+- Tiles function as **fast-turn infrastructure products**, not capital goods  
+- Revenue generation precedes AI deployment, reducing risk  
+- Tile cashflows fund TerraWell centers, housing complexes, and mini-fabs  
+- Advanced manufacturing becomes a **downstream reinvestment**, not a prerequisite  
+
+---
+
+## 5. Summary
+
+This recomputed timeline and CODTD establish tiles as the **financial ignition system** of the Genesis Network.  
+Innovation hubs become self-funding within months, enabling rapid, resilient, and regenerative network expansion without reliance on long-duration external capital.
+
+---
+
+## License & Attribution
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+https://creativecommons.org/licenses/by/4.0/
+
+© 2026 EarthStar Technologies conceptual working group.  
+Attribution requested as:  
+“Genesis Network concept – EarthStar Technologies (CC BY 4.0)”
