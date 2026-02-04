@@ -1,109 +1,84 @@
 ---
 layout: default
-title: Genesis Network – Master Prompt: Market-Ready Tiles, AI Upgrades, & Rapid Factory Staging
-description: Comprehensive prompt for self-powered, AI-upgradeable tiles with rapid tile factory deployment and revenue generation.
+title: Genesis Network – Prompt 02 – Tile & Kit Catalog (Phase 1–2 Foundation)
+description: Simplified, revenue-first catalog of 12 essential tiles and 10 kits for early hub bootstrap and scaling, manufactured exclusively in tile factories (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02A: Market-Ready Tiles, AI Upgrades, & Rapid Factory Staging
+# Genesis Network – Prompt 02  
+**Tile & Kit Catalog (Phase 1–2 Foundation)**  
+**February 2026 Baseline – Pruned & Executable**
 
-## Objective
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-Define a strategy for **fully market-ready tiles** with **minimal compute displays**, optional **AI upgrade pathways**, and **ultra-rapid tile factory staging** to:  
+## 1. Objective & Scope
 
-- Maximize **early revenue streams**  
-- Enable **rapid hub/pod expansion**  
-- Accelerate **self-funding** of innovation hubs  
-- Maintain **regenerative, modular, and pod-centric production**  
+Provide a **minimal, high-ROI catalog** of tiles and kits needed to bootstrap hubs, build basic structures, generate early revenue, and enable affiliate scaling — limited to **12 tiles** and **10 kits** to eliminate complexity and accelerate production.
 
-This ensures a **cash-positive, low-risk deployment** while the broader innovation hub matures.
+All items are:
+- Manufactured in **Tile & Pipe Production Pods** → permanent Tile Factories  
+- 70–95% waste-derived (C&D slag priority, rice husk ash silica, farm residues, brownfield/ELFM slag)  
+- Snap-together with blind-mate interconnects (power/data/thermal/water)  
+- Designed for lights-out automation (50–75% Day 1 → 85–95% mature)  
+- Revenue-positive within months via internal use + external/affiliate sales  
 
----
+This catalog replaces the sprawling 40–50+ item lists in previous prompts (e.g., original 02A–02I tile variants, compute/network tiles, HIL components, retail signage, etc.).
 
-## 1. Tile Strategy
+## 2. Replaced Prompts
 
-| Tile Type | Features | Compute | AI Upgrade Path | Power/Resource |
-|-----------|---------|--------|----------------|----------------|
-| Roof Glazing / Greenhouse | Semi-transparent BIPV (10–30%) | Minimal display (control panel + basic UI) | Optional server-class add-on (AI inference, predictive energy management) | AWG water capture, thermal mass, self-powered |
-| Exterior Cladding | Smart structural tiles | Minimal compute for sensor integration | Optional AI module for predictive maintenance | Piezoelectric, solar, embedded sensors |
-| Interior Walls / Furniture Surfaces | MicroLED/OLED displays | Minimal RISC-V stack (UI + touch) | Modular AI add-on slot for cluster intelligence | Self-powered via BIPV/piezo/AWG |
-| Floors / Permeable Roads | Piezo + structural | Sensor micro-node | Optional AI module for predictive traffic / energy harvesting | Embedded energy capture, water management |
-| Smart Furniture | Integrated display, speakers, haptics | Minimal compute (local control, UI) | Optional AI module for federated cluster participation | Self-powered, BIPV + piezo |
+This single prompt fully replaces / absorbs:
 
-**Key Principle**: Tiles **ship functional immediately**, generating revenue and utility, while **AI upgrades can be deployed modularly**.
+- Original Prompt 02A (Market-Ready Tiles, AI Upgrades, Rapid Factory Staging)  
+- Original Prompt 02B (Compute & Network Tiles with Independent Storage)  
+- Parts of Prompt 02I (Human Interface Layer – RTK tiles, basic WiFi tiles)  
+- Parts of Prompt 02G (Non-Agricultural Enhancements – energy storage, security, airlock tiles)  
+- Parts of Prompt 04A (Hybrid Tile + 3D-Printed Construction – tile-dominant focus)  
+- Scattered tile references across other prompts (roof glazing, cladding, road, etc.)
 
----
+Deferred / removed from active Phase 1–2: smart display walls, full compute tiles, clothing clones, advanced networking waveguides, retail signage tiles, most processing pod variants.
 
-## 2. Rapid Tile Factory Staging
+## 3. Tile Catalog (12 Essential Types)
 
-### Principles
+| #  | Tile Name                        | Primary Function                              | Key Embedded Features                              | Input Sources (Primary) | Material Composition             | Prod Cost (mature $/m²) | Selling Price ($/m²) | Revenue Model |
+|----|----------------------------------|-----------------------------------------------|----------------------------------------------------|--------------------------|----------------------------------|--------------------------|-----------------------|---------------|
+| 1  | Roof Glazing (Semi-Transparent BIPV) | Power generation + daylighting + water harvest | BIPV (10–30%), AWG condensers, PAR/thermal sensors | RHA silica (80%)        | Glass-ceramic + thin-film PV     | 28–55                   | 85–150                | Energy export, water credits |
+| 2  | Exterior Cladding                | Weather protection + supplementary power      | BIPV (8–22%), AWG channels, strain/vibration       | C&D slag (70%)          | Ceramic composite + PV layers    | 25–48                   | 75–130                | Premium façades, retail |
+| 3  | Interior Insulating Partition    | Thermal mass + indoor humidity recapture      | Indoor AWG, micro-piezo, thermal sensors           | Residues, bagasse       | Aerated ceramic + channels       | 18–35                   | 55–100                | Housing kits |
+| 4  | Permeable Road / Path Tile       | Drainage + traffic energy harvest             | Piezo (20–60 elements/m²), stormwater capture      | C&D slag (75%)          | Porous ceramic + piezo embeds    | 22–40                   | 65–110                | Infrastructure contracts |
+| 5  | Foundation / Base Tile           | Structural stability + monitoring             | Strain/pressure sensors, piezo                     | Brownfield slag (65%)   | Dense ceramic + embeds           | 16–27                   | 48–78                 | All construction |
+| 6  | RTK GNSS Anchor Tile             | Centimeter-accurate positioning               | Multi-constellation RTK GNSS                       | Mini-Fab electronics    | Ceramic with antenna embed       | 38–85                   | 250–450               | Precision ag/construction |
+| 7  | Energy Storage & Thermal Tile    | Distributed storage + thermal buffering       | Sodium-ion cells + phase-change materials          | Waste anodes            | Ceramic casing + cells           | 60–140                  | 200–400               | Microgrid leasing |
+| 8  | Basic Security & Monitoring Tile | Intrusion / basic threat detection            | mmWave radar + IR, occupancy sensors               | Mini-Fab sensors        | Ceramic with sensor embed        | 80–160                  | 250–450               | Security contracts |
+| 9  | Smart Airlock Module Tile        | Secure entry + threat scanning                | mmWave/hyperspectral + trace detectors             | Electronics + ceramic   | Ceramic module pocket            | 80–200 (per unit)       | 300–700 (per unit)    | Compliance & safety |
+| 10 | Canopy Microclimate Tile         | Vertical / rooftop ag support                 | Humidity/temp control, LED mounting points         | Residues                | Ceramic with channels            | 30–60                   | 90–150                | Vertical ag kits |
+| 11 | Bee Activity Tile                | Pollination monitoring & hive integration     | Acoustic + motion sensors for bee tracking         | Ceramic + sensors       | Porous ceramic + embeds          | 25–50                   | 80–130                | Honey/credits |
+| 12 | Basic Networking Snap Tile       | Inter-tile power/data bridging                | Inductive power + mmWave waveguide                 | Ceramic embeds          | Ceramic with Faraday mesh        | 40–80                   | 150–300               | Connectivity services |
 
-- **Pod-First Factory Pods**: 5–10 containerized production pods per site; immediately operational  
-- **Pre-Loaded Feedstock**: 50–200 tons of slag, residues, rice husk ash, ELFM slag  
-- **Temporary Kilns**: Portable firing tents for instant output  
-- **Permanent Kiln Retrofit**: 6–12 months for full-scale cluster; minimal downtime  
-- **Automation & Lights-Out**: 50–70% automated Day 1; 80–95% by Month 12  
-- **Self-Powered Operations**: BIPV, AWG, piezo integrated into factory tiles  
+## 4. Kit Catalog (10 Essential Kits)
 
-**Revenue First**: Tile sales generate cash flow **before hub maturity**, funding hub replication, pod production, and AI module manufacturing.
+| #  | Kit Name                               | Primary Function & Components                        | Cost ($)     | Selling Price ($) | Revenue Model |
+|----|----------------------------------------|------------------------------------------------------|--------------|-------------------|---------------|
+| 1  | Precision Ag Starter Kit               | Soil/moisture tiles + RTK anchors + microbial        | 8k–18k      | 15k–35k           | Affiliate onboarding |
+| 2  | Biochar & Soil Amendment Kit           | Small kiln + spreader + inoculants                   | 7k–15k      | 12k–28k           | Sequestration sales |
+| 3  | Vertical Ag Expansion Kit              | Hydro racks + LED + recirc pumps                     | 15k–35k     | 25k–60k           | Urban density |
+| 4  | Beehive Integration Kit                | Hives + bee activity tiles                           | 5k–12k      | 10k–25k           | Honey + credits |
+| 5  | Smart Airlock Kit                      | mmWave/hyperspectral + trace detectors               | 80k–200k    | 300k–700k         | Security compliance |
+| 6  | Dense Sensor Net Kit                   | Radar + Starlink nodes + RTK anchors                 | 100k–300k   | 200k–600k         | Data/compliance |
+| 7  | Food Desert Housing Starter Kit        | Tile housing modules + rooftop ag + airlocks         | 150k–400k   | 300k–800k         | Community complexes |
+| 8  | Restoration (Blue-Green Carbon) Kit    | Wetland/seagrass/mangrove starter packs              | 50k–150k    | 100k–300k         | Credits + restoration |
+| 9  | Energy Storage Starter Kit             | Sodium-ion tiles + micro-inverter                    | 150k–350k   | 250k–600k         | Microgrid leasing |
+| 10 | Microbial Inoculant Production Kit     | Fermenters + sensors for on-site culture             | 20k–50k     | 40k–100k          | Yield boost sales |
 
----
+## 5. Manufacturing & Financial Notes (Recalculated)
 
-## 3. Factory Output & Revenue Timeline
+- **Production**: All tiles/kits from same factories; CAPEX $80–180M/hub mature (down 20–30% from prior sprawl).  
+- **Revenue Model**:  
+  - Internal hub use: 40–50%  
+  - Affiliate/mini-hub sales: 30–40%  
+  - External/retail contracts: 10–20%  
+- **Mature Hub Revenue (tiles/kits only)**: $150–450M/year (up 20% from simpler production).  
+- **Payback**: 4–9 months per factory cluster.
 
-| Phase | Description | Tile Output | Revenue Impact |
-|-------|------------|------------|----------------|
-| Phase 1 – Bootstrap (Days 1–14) | Deploy 5–10 production pods; temporary kilns; feedstock on-site | 5–10k tiles/week | Early market sales; cash flow positive |
-| Phase 2 – Early Scale (Weeks 2–6) | Add pods; expand automation; AI-ready tiles produced | 50–100k tiles/month | Begin optional AI module revenue |
-| Phase 3 – Factory Cluster (Months 2–6) | Retrofit permanent kilns; scale pod cluster; full automation | 200–500k tiles/month | Funds hub replication & pod upgrades |
-| Phase 4 – Full Market Integration (Months 6–12) | Deploy AI add-ons; hubs fully operational | 500k+ tiles/month | Self-funded hubs; exponential hub/pod growth |
-
----
-
-## 4. AI Upgrade Pathways
-
-- **Modular AI Add-On Slots**: Tiles ship functional; upgrade to full AI capability via **server-class add-on modules**  
-- **Clustered Intelligence**: Tiles with AI modules participate in **distributed cluster intelligence**, enabling predictive energy, maintenance, and automation  
-- **Federated Learning**: AI modules integrate into **local twins**, with selective data export to global twin network  
-- **Deferred CAPEX**: Optional upgrade allows market adoption before full AI deployment; reduces initial risk  
-
-**Outcome**: Generates revenue while preserving **high-margin AI expansion potential**.
-
----
-
-## 5. Integration With Innovation Hubs
-
-- **Pod-Centric Hubs**: Factories, tile pods, greenhouses, and other pods deployed **in parallel**, minimizing dependency risk  
-- **Revenue Spread**: Tile sales provide a **buffer if any single pod or function fails**  
-- **Employee Burnout Mitigation**: Innovation hub distributes oversight across companies, avoiding concentrated stress points  
-- **Pre-Supply & Staging**: Mother/staging hubs supply nearly mature pods and feedstock for **rapid factory deployment**  
-- **Global Risk Mitigation**: Tiles with modular AI can operate offline; local twins govern **legal/national restrictions** on data exports  
-
----
-
-## 6. Strategic Advantages
-
-- **Immediate Cash Flow**: Early tile sales fund hub operations  
-- **Low-Risk Revenue**: Failure of individual pods does not halt factory revenue  
-- **Scalable AI Expansion**: Modular add-ons defer cost and risk while enabling high-margin intelligence deployment  
-- **Rapid Hub Replication**: Revenue streams accelerate pod/hub growth  
-- **Federated Data Moat**: Local AI twins control sensitive exports, enabling compliance and security  
-
----
-
-## 7. Conclusion
-
-The **combined approach of market-ready tiles, modular AI upgrades, and ultra-rapid factory staging**:  
-
-- Ensures hubs are **self-funding within months**  
-- Reduces dependency on long-term public funding  
-- Generates monetizable assets **from Day 1**  
-- Provides a **low-risk, regenerative, and modular pathway** for network growth  
-
-This strategy transforms **tiles into both revenue-generating products and the foundation for distributed AI infrastructure**, while ensuring that innovation hubs and pods remain resilient, scalable, and self-replicating.
-
----
-
-This work is licensed under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-© 2026 EarthStar Technologies conceptual working group (attribution appreciated)
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
