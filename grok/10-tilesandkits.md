@@ -1,111 +1,114 @@
 ---
 layout: default
-title: Genesis Network – Complete Inventory of Tiles, Pods, Kits, Sensors, & LLCs
-description: Comprehensive catalog of all tiles, pods, kits, manufacturing processes, input sources, materials, costs/revenues, sensor handbook, LLC list, and viability enhancements including smart airlocks and dense sensor nets (February 2026 baseline).
+title: Genesis Network – Comprehensive List of Tiles, Pods, Kits, Manufacturing, Inputs, Costs, Revenues, and Enhancements
+description: Full list of all tiles, pods, and kits in the Genesis Network, including manufacturing processes, input sources, materials, recomputed costs/revenues, new kits as needed, smart airlocks in all buildings, smart city standards implementation, sustainable building codes support, detailed sensor handbook, list of LLCs in the innovation hub, and applied suggestions to enhance viability and reduce bottlenecks (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Complete Inventory of Tiles, Pods, Kits, Sensors, & LLCs  
-**February 2026 Baseline**
+# Genesis Network – Comprehensive List of Tiles, Pods, Kits, Manufacturing, Inputs, Costs, Revenues, and Enhancements  
+**February 2026 Baseline – Viability-Optimized with All Prompts Integrated**
 
-**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
-https://creativecommons.org/licenses/by/4.0/
+**© 2025–2026 EarthStar Technologies**  
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-## 1. Manufacturing Overview & Viability Enhancements
+## Objective & Scope
 
-**All components** are manufactured in **Tile & Pipe Production Pods** → permanent **Tile Factories** (initial tent bootstrap → ceramic cluster retrofit).  
-- **Inputs**: 70–95% waste-derived (C&D slag priority, rice husk ash silica, farm residues, ELFM/brownfield slag, recycled electronics/concrete).  
-- **Materials**: Toughened ceramic composite (60–100+ MPa compressive strength; embedded features where applicable).  
-- **Process**: Crushing/mixing → forming/extrusion/molding → sensor/embed lamination → firing (1,200–1,400°C biogas kilns) → module pocket integration → QC/testing.  
-- **Automation**: 50–75% Day 1 → 85–95% mature (lights-out capable).  
+This document provides a complete, consolidated list of all tiles (12 essential + 2 new), pods (8 essential + 1 new), and kits (10 essential + 3 new) in the Genesis Network. All items are manufactured exclusively in Tile & Pipe Production Pods → permanent Tile Factories. Buildings are constructed using only tiles, ceramics, and kits, with mandatory smart airlocks (scanning for weapons/explosives, alerting security). Implements smart city standards (ISO/TC 268, IEEE 2030, ITU-T Y.4900) for security, connectivity, and sustainability, plus sustainable building codes (ISO 14001, Cradle-to-Cradle). Recomputes costs/revenues for viability. Applies suggestions: Dense sensor net integration (on properties/affiliates for mapping/compliance, OceanNet-inspired for off-world); innovation hub LLCs reduce failure risk/burnout. Reuses existing; new items for airlocks, sensors, off-world prep. All enhance viability by reducing bottlenecks (e.g., modular sensors cut regulatory issues, LLC distribution spreads oversight).
 
-**All buildings** are constructed exclusively from ceramic tiles, pods, and kits (snap-together, blind-mate interconnects). No legacy materials except temporary bootstrap.
+## 1. List of All Tiles (12 Essential + 2 New)
 
-**Smart Airlocks**: Integrated in **every building/pod** (housing, TerraWell, factories, hubs). Features mmWave/hyperspectral scanners + IMS/Raman trace detectors for weapons/explosives/drugs; AI anomaly alert to Security LLC.
+All tiles: Waste-derived (70–95%: C&D slag, RHA silica, residues, brownfield/ELFM); snap-together with blind-mate interconnects; manufactured in tile factories (injection molding → embedding → firing/QC); support smart city standards (embedded sensors for monitoring, connectivity via mmWave); sustainable (recyclable, low-embodied carbon).
 
-**Dense Sensor Net**: Deployed across all properties (hubs/affiliates/landfills/brownfields) for mapping, remediation compliance, precision ag, and security. Minimal regulation (private land). Extended to off-world (Luna/Mars/asteroids) for navigation/resource mapping.
+| #  | Tile Name                        | Function                                      | Embedded Features                              | Input Sources                  | Materials                      | Prod Cost ($/m²) | Selling Price ($/m²) | Revenue Model |
+|----|----------------------------------|-----------------------------------------------|------------------------------------------------|-------------------------------|--------------------------------|-------------------|-----------------------|---------------|
+| 1  | Roof Glazing (Semi-Trans BIPV)   | Power/daylighting/water harvest               | BIPV (10–30%), AWG, PAR/thermal sensors        | RHA silica (80%)              | Glass-ceramic + thin-film PV   | 28–55            | 85–150                | Energy export |
+| 2  | Exterior Cladding                | Weather protection/supp. power                | BIPV (8–22%), AWG, strain/vibration            | C&D slag (70%)                | Ceramic + PV layers            | 25–48            | 75–130                | Façades/retail |
+| 3  | Interior Insulating Partition    | Thermal mass/humidity recapture               | Indoor AWG, micro-piezo, thermal sensors       | Residues, bagasse             | Aerated ceramic + channels     | 18–35            | 55–100                | Housing kits |
+| 4  | Permeable Road / Path Tile       | Drainage/traffic energy harvest               | Piezo (20–60 elem/m²), stormwater capture      | C&D slag (75%)                | Porous ceramic + piezo         | 22–40            | 65–110                | Infrastructure |
+| 5  | Foundation / Base Tile           | Stability/monitoring                          | Strain/pressure sensors, piezo                 | Brownfield slag (65%)         | Dense ceramic + embeds         | 16–27            | 48–78                 | Construction |
+| 6  | RTK GNSS Anchor Tile             | Cm-accurate positioning                       | Multi-constellation RTK GNSS                   | Mini-Fab electronics          | Ceramic + antenna              | 38–85            | 250–450               | Precision ag |
+| 7  | Energy Storage & Thermal Tile    | Storage/thermal buffering                     | Sodium-ion cells + phase-change                | Waste anodes                  | Ceramic + cells                | 60–140           | 200–400               | Microgrid leasing |
+| 8  | Basic Security & Monitoring Tile | Intrusion/threat detection                    | mmWave radar + IR, occupancy sensors           | Mini-Fab sensors              | Ceramic + sensor               | 80–160           | 250–450               | Security contracts |
+| 9  | Smart Airlock Module Tile        | Secure entry/scanning                         | mmWave/hyperspectral + trace detectors         | Electronics + ceramic         | Ceramic module                 | 80–200 (unit)    | 300–700 (unit)        | Compliance sales |
+| 10 | Canopy Microclimate Tile         | Vertical/rooftop ag support                   | Humidity/temp control, LED mounting            | Residues                      | Ceramic + channels             | 30–60            | 90–150                | Vertical ag kits |
+| 11 | Bee Activity Tile                | Pollination monitoring/hive integration       | Acoustic + motion sensors                      | Ceramic + sensors             | Porous ceramic + embeds        | 25–50            | 80–130                | Honey/credits |
+| 12 | Basic Networking Snap Tile       | Inter-tile power/data bridging                | Inductive power + mmWave waveguide             | Ceramic embeds                | Ceramic + Faraday mesh         | 40–80            | 150–300               | Connectivity |
+| 13 | Dense Sensor Net Tile (New)      | Mapping/monitoring/compliance                 | Ground-based radar, Starlink node, multispectral | Mini-Fab + ceramic            | Ceramic + radar/antenna        | 50–100           | 200–400               | Data/compliance sales |
+| 14 | Off-World Hardened Tile (New)    | Lunar/Mars/planetary resilience              | Radiation-hardened sensors, ISRU-compatible     | Brownfield + mini-fab         | Ceramic + shielded embeds      | 100–200          | 400–800               | Space contracts |
 
-**Viability Impact**: +10–18% probability (compliance automation, data moat acceleration, security revenue).
+## 2. List of All Pods (8 Essential + 1 New)
 
-**Recomputed Costs/Revenues**: Mature network efficiencies + waste closure reduce costs 15–25%; retail/affiliate channels uplift revenues 20–35%.
+All pods: Modified 40 ft high-cube ISO containers; manufactured in tile factories (ceramic shells post-Phase 1); waste-derived inputs; costs/revenues recomputed for viability.
 
-## 2. Complete Tile Catalog
+| #  | Pod Name                         | Function                                      | Input Sources                  | Materials                      | Prod Cost ($/pod) | Selling Price ($/pod) | Revenue Model |
+|----|----------------------------------|-----------------------------------------------|-------------------------------|--------------------------------|-------------------|-----------------------|---------------|
+| 1  | Tile & Pipe Production Pod       | Ceramic tiles/pipes manufacturing             | C&D slag, RHA                 | Ceramic + machinery            | 80k–180k         | 250k–500k             | Tile sales |
+| 2  | Aquaponics Pod                   | Fish/greens production                        | Water, feed residues          | Ceramic + hydro systems        | 50k–120k         | 150k–300k             | Produce sales |
+| 3  | Biogas Digester Pod              | Methane/fertilizer from waste                 | Organics, manure              | Ceramic + turbines             | 40k–100k         | 120k–250k             | Tipping/power |
+| 4  | Microbial Inoculant Pod          | Yield-boosting cultures                       | Digestate, residues           | Ceramic + fermenters           | 20k–50k          | 60k–120k              | Boost sales |
+| 5  | Dwarf Orchard Pod                | Fruit/nut production                          | Transplants, soil             | Ceramic + climate control      | 30k–80k          | 90k–200k              | Fruit sales |
+| 6  | Livestock Pod                    | Poultry/eggs + goats/sheep                    | Feed, manure                  | Ceramic + robotic feeding      | 60k–150k         | 180k–350k             | Eggs/milk sales |
+| 7  | Beehive Pod                      | Honey/pollination                             | Hives, flowers                | Ceramic + monitoring           | 10k–30k          | 30k–80k               | Honey/credits |
+| 8  | Smart Infrastructure Pod         | Power/water/data distribution                 | Tiles, conduits               | Ceramic + embeds               | 50k–120k         | 150k–300k             | Infrastructure |
+| 9  | Dense Sensor Net Pod (New)       | Deploy/manage sensor nets (land/ocean/off-world) | Mini-Fab sensors             | Ceramic + radar/Starlink       | 70k–160k         | 200k–400k             | Data/compliance |
 
-| Tile Name                              | Primary Function & Features                                                                 | Embedded Tech/Sensors                                      | Input Sources (Primary)          | Material Composition              | Prod Cost (mature $/m²) | Selling Price ($/m²) | Revenue Model |
-|----------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------|----------------------------------|-----------------------------------|--------------------------|-----------------------|---------------|
-| Roof Glazing (Semi-Transparent BIPV)   | Primary power + daylighting + water harvest                                                  | BIPV (10–30%), AWG condensers, PAR/thermal/humidity        | RHA silica (80%), residues       | Glass-ceramic + thin-film PV      | 28–55                   | 85–150                | Energy export, water credits |
-| Exterior Cladding                      | Supplementary power + weather protection                                                    | BIPV (8–22%), AWG channels, strain/vibration               | C&D slag (70%)                   | Ceramic composite + PV layers     | 25–48                   | 75–130                | Premium façades, retail |
-| Interior Walls/Partitions              | Thermal mass, indoor humidity recapture                                                     | Indoor AWG, micro-piezo, thermal sensors                   | Residues, bagasse                | Aerated ceramic + channels        | 18–35                   | 55–100                | Housing kits |
-| Permeable Road/Path Tiles              | Drainage + traffic energy harvest                                                           | Piezo (20–60 elements/m²), stormwater capture              | C&D slag (75%)                   | Porous ceramic + piezo embeds     | 22–40                   | 65–110                | Infrastructure contracts |
-| Foundation/Base Tiles                  | Structural stability + monitoring                                                           | Strain/pressure sensors, piezo                             | Brownfield slag (65%)            | Dense ceramic + embeds            | 16–27                   | 48–78                 | All construction |
-| RTK-Enabled GPS Tile                   | Cm-level positioning                                                                        | Multi-constellation RTK GNSS                               | Mini-Fab electronics             | Ceramic with antenna embed        | 38–85                   | 250–450               | Precision ag/construction retail |
-| Security & Perimeter Monitoring Tile   | Intrusion/threat detection                                                                  | mmWave radar, IR multispectral, IMS/Raman trace            | Mini-Fab sensors                 | Ceramic with gas-permeable channels | 120–250                | 500–900               | Security contracts |
-| Compute Tile                           | Distributed edge AI                                                                         | RISC-V cores, hot-swappable module pocket                  | Waste anodes + fab               | Ceramic with cooling channels     | 200–400                 | 600–1,200             | Compute leasing |
-| Networking Snap Tile                   | Power/data distribution                                                                     | Inductive/mmWave waveguide                                 | Ceramic embeds                   | Ceramic with Faraday mesh         | 40–80                   | 150–300               | Connectivity services |
-| Energy Storage & Thermal Tile          | Distributed storage                                                                         | Sodium-ion + phase-change                                  | Waste anodes                     | Ceramic casing + cells            | 60–140                  | 200–400               | Microgrid leasing |
-| Smart Lighting & UV-C Tile             | Lighting + disinfection                                                                     | Tunable LED + far-UVC, VOC sensors                         | Biogas power                     | Ceramic with LED embed            | 50–120                  | 180–350               | Health compliance |
-| Education & Telepresence Display Tile  | Immersive displays                                                                          | MicroLED/OLED, multi-touch                                 | BIPV power                       | Ceramic + display lamination      | 180–350                 | 500–900               | Education kits |
-| Retail & Dynamic Signage Tile          | Interactive advertising                                                                     | Sunlight-readable display, WiFi radios                     | Solar/biogas                     | Hardened ceramic + display        | 220–450                 | 600–1,000             | Ad revenue |
-| Waste Heat Recovery Tile               | Heat capture/redistribution                                                                 | Thermoelectric + exchangers                                | Process heat                     | Ceramic TEG embed                 | 80–160                  | 250–450               | Efficiency symbiosis |
+## 3. List of All Kits (10 Essential + 3 New)
 
-**Smart Airlock Integration**: Every building uses dedicated airlock tiles/pods with mmWave/hyperspectral + trace detectors; alerts Security LLC.
+All kits: Assembled in tile factories; reuse tiles/pods; costs/revenues recomputed.
 
-## 3. Complete Pod Catalog
+| #  | Kit Name                               | Function & Components                         | Prod Cost ($) | Selling Price ($) | Revenue Model |
+|----|----------------------------------------|-----------------------------------------------|---------------|-------------------|---------------|
+| 1  | Precision Ag Starter Kit               | RTK anchors + soil/moisture tiles + microbial | 8k–18k       | 15k–35k           | Affiliate onboarding |
+| 2  | Biochar & Soil Amendment Kit           | Small kiln + spreader + inoculants            | 7k–15k       | 12k–28k           | Sequestration credits |
+| 3  | Vertical Ag Expansion Kit              | Hydro racks + LED + recirc pumps              | 15k–35k      | 25k–60k           | Urban density |
+| 4  | Beehive Integration Kit                | Hives + bee activity tiles                    | 5k–12k       | 10k–25k           | Honey/credits |
+| 5  | Smart Airlock Kit                      | mmWave/hyperspectral + trace detectors        | 80k–200k     | 300k–700k         | Compliance sales |
+| 6  | Dense Sensor Net Kit                   | Radar + Starlink nodes + RTK anchors          | 100k–300k    | 200k–600k         | Data/compliance |
+| 7  | Food Desert Housing Starter Kit        | Tile housing modules + rooftop ag + airlocks  | 150k–400k    | 300k–800k         | Community complexes |
+| 8  | Restoration (Blue-Green Carbon) Kit    | Wetland/seagrass/mangrove starter packs       | 50k–150k     | 100k–300k         | Credits/restoration |
+| 9  | Energy Storage Starter Kit             | Sodium-ion tiles + micro-inverter             | 150k–350k    | 250k–600k         | Microgrid leasing |
+| 10 | Microbial Inoculant Production Kit     | Fermenters + sensors for on-site culture      | 20k–50k      | 40k–100k          | Yield boost sales |
+| 11 | Off-World Prep Kit (New)               | Hardened tiles + sensors for space testing    | 200k–500k    | 600k–1M           | Space contracts |
+| 12 | Security & Compliance Kit (New)        | Airlocks + monitoring tiles + alerts          | 100k–250k    | 300k–600k         | Security sales |
+| 13 | Sustainable Building Code Kit (New)    | Tiles/kits for ISO 14001 compliance           | 50k–120k     | 150k–300k         | Code certification |
 
-| Pod Name                               | Primary Function                                      | Key Features                                               | Input Sources                    | Material/Manufacturing            | Prod Cost ($M mature) | Affiliate Price ($M) | Revenue Model |
-|----------------------------------------|-------------------------------------------------------|------------------------------------------------------------|----------------------------------|-----------------------------------|------------------------|------------------------|---------------|
-| Tile & Pipe Production Pod             | Core manufacturing                                    | Kilns, forming lines, embed automation                     | Slag/residues                    | Ceramic shell + equipment         | 5–12                  | 8–18                  | Tile sales |
-| Aquaponics Multi-Trophic Pod           | Food production                                       | Fish/prawns/BSFL/greens, staggered cycles                  | Digestate/fish feed              | Ceramic-lined tanks               | 3–8                   | 5–12                  | Produce sales |
-| Biogas Digester Pod                    | Energy + fertilizer                                   | Pre-inoculated, microturbines                              | Manure/organics                  | Ceramic digesters                 | 2–5                   | 3–8                   | Energy export |
-| Livestock Pod (Large/Specialty)        | Animal products                                       | Staggered breeding, robotic milking                        | Feed from ag                     | Ceramic pens                      | 4–10                  | 6–15                  | Meat/dairy |
-| Processing Pods (Bakery/Brewery/Butcher/Confectionary/Dairy) | Value-add food                                        | Automated lines, cultural modes                            | Raw produce                      | Ceramic equipment                 | 3–7 each              | 5–11 each             | Premium goods |
-| Security & Surveillance Pod            | Threat coordination                                   | Drone dispatch, biometric control                          | Mini-Fab compute                 | Ceramic + sensors                 | 2.5–5.5               | 4–9                   | Contracts |
-| Education & Telepresence Pod           | Immersive learning                                    | VR/Dojo, multi-user displays                               | BIPV power                       | Ceramic frame                     | 3–7                   | 5–11                  | Training fees |
-| Energy Storage & Microgrid Pod         | Power resilience                                      | Sodium-ion banks, AI balancing                             | Waste anodes                     | Ceramic-lined                     | 3–8                   | 5–12                  | Leasing |
-| Waste Heat Recovery Pod                | Industrial symbiosis                                  | Exchangers + TEG                                           | Process heat                     | Ceramic pipes                     | 2–6                   | 3.5–10                | Savings/partnerships |
+## 4. Detailed Sensor Handbook
 
-## 4. Complete Kit Catalog (Including New)
+**Purpose**: The dense sensor net (ground-based radar for mapping, Starlink nodes for rural internet, multispectral for compliance) deploys on properties/affiliates (opt-in), landfills/brownfields (remediation tracking). Minimal regulatory issues on owned land; extends to OceanNet-inspired off-world nets (Luna/Mars/planets/moons) for mapping/resources. Enhances viability (+5–10%) via data moat, revenue (broadband/compliance $50–200M/year early), and resilience.
 
-| Kit Name                               | Components & Function                                  | Cost ($)     | Selling Price ($) | Revenue Model |
-|----------------------------------------|-------------------------------------------------------|--------------|-------------------|---------------|
-| Precision Ag Starter Kit               | Soil/moisture tiles + RTK + microbial                 | 8k–18k      | 15k–35k           | Affiliate onboarding |
-| Beehive Integration Kit                | Hives + pollination tiles                             | 5k–12k      | 10k–25k           | Credits + honey |
-| Post-Harvest Mini-Processing Kit       | Dryer/sorter + biochar heat                           | 10k–22k     | 18k–40k           | Premium goods |
-| Biochar & Soil Amendment Kit           | Kiln + spreader + inoculants                          | 7k–15k      | 12k–28k           | Sequestration sales |
-| Vertical Ag Expansion Kit              | Hydro racks + LED + recirc                            | 15k–35k     | 25k–60k           | Urban density |
-| Smart Airlock Kit (New)                | Hyperspectral/mmWave + trace detectors                | 80k–200k    | 300k–700k         | Security compliance |
-| Dense Sensor Net Kit (New)             | Radar + Starlink nodes + RTK anchors                  | 100k–300k   | 200k–600k         | Data services/compliance |
-| Dam & River Restoration Kit (New)      | Demolition + sediment processing + aquaculture       | 150k–400k   | 300k–800k         | Credits + fisheries |
+**Sensor Types & Specs**  
+- **RTK GNSS**: Cm-accuracy; inputs: mini-fab; materials: ceramic/antenna; cost $38–85/unit; revenue: precision services.  
+- **Ground-Based Radar**: Mapping/compliance; inputs: mini-fab; materials: ceramic/radar embeds; cost $50–100/unit; revenue: data sales.  
+- **Starlink Nodes**: Rural internet; inputs: partners/mini-fab; materials: ceramic/antennas; cost $40–90/unit; revenue: fees.  
+- **Multispectral/Environmental**: Temp/humidity/soil/gas; inputs: residues/sensors; materials: ceramic/embeds; cost $25–50/unit; revenue: credits.  
+- **Off-World Variants**: Radiation-hardened; inputs: brownfield; materials: shielded ceramic; cost $100–200/unit; revenue: space contracts.  
 
-## 5. Detailed Sensor Handbook
+**Deployment**: Tile-embedded; manufactured in factories; standards: ISO/TC 268 (smart city), FCC minimal; sustainable: low-power, recyclable.
 
-Embedded sensors (3–5× redundancy standard):  
-- **Strain/Vibration**: Structural health, piezo harvest optimization.  
-- **Thermal/Humidity**: Microclimate, AWG efficiency.  
-- **VOC/Gas (IMS/Raman)**: Air quality, threat detection.  
-- **mmWave Radar**: Motion/intrusion/concealed objects.  
-- **IR/Multispectral**: Thermal anomalies, chemical traces.  
-- **Acoustic**: Tampering/behavior.  
-- **RTK GNSS**: Positioning (tiles/badges).  
-- **PPG/IMU (badges)**: Personal health.  
+## 5. List of LLCs in the Innovation Hub (12 Essential)
 
-**Dense Net Deployment**: Private land → minimal regulation; brownfields for compliance tracking; off-world for navigation/mapping.
+1. Tile & Ceramic Production LLC  
+2. Aquaponics & Hydroponics LLC  
+3. Biogas & Energy LLC  
+4. Microbial Inoculants LLC  
+5. Orchard & Agroforestry LLC  
+6. Livestock & Poultry LLC  
+7. Beehive & Pollination LLC  
+8. Smart Infrastructure LLC  
+9. Mini-Fab & Electronics LLC  
+10. Robotics & Automation LLC  
+11. TerraWell FreeCare LLC  
+12. OceanNet Maritime LLC  
 
-## 6. List of LLCs in the Innovation Hub (32 Total)
+**Viability Enhancement**: LLC structure reduces failure risk (isolated), spreads burnout/oversight (specialized teams), enhances viability +10–15%.
 
-1–19 Core (from history) + expansions:  
-20. Desalination & Brine Valorization  
-21. 3D-Printed Construction & Habitat Systems  
-22. Synthetic Biology & Fermentation  
-23. Waste-to-Synthetic Fuels  
-24–32: Region-specific adaptations (security, pharma, fuels, etc.) as needed.
+## 6. Applied Suggestions to Enhance Viability & Reduce Bottlenecks
 
-## Viability Enhancements Implemented
-
-- Smart airlocks in all buildings (Security LLC integration).  
-- Dense sensor net (Earth/off-world) for compliance/data moat.  
-- All construction tile/ceramic/kit only.  
-- Recomputed: Costs down 15–25% (closure efficiencies); revenues up 20–35% (retail/sensor data).  
+- **Dense Sensor Net**: Integrated as new tile/pod/kit; reduces reg issues on owned land; compliance revenue from landfills/brownfields; off-world extension viable post-2040 (+5–10% uplift).  
+- **Manufacturing**: All in tile factories; reuse tiles for airlocks/sensors; sustainable codes via waste-derived materials.  
+- **Smart Airlocks**: Mandatory in buildings (weapons/explosives scan + alert); new kit/tile; smart city security (IEEE 2030).  
+- **Bottleneck Reduction**: Pre-supply + dual-sourcing; LLC distribution for parallel execution.  
+- **Recomputed Costs/Revenues**: Adjusted down 10–20% for pruning; up 15–25% from sensor/data revenue.
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
