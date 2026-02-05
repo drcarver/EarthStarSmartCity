@@ -63,7 +63,15 @@ This is the single source of truth and entry point for the entire Genesis Networ
 - **[Road Replacement + Subsurface Parcel Hyperloop Bid Strategy](strategy/road-replacement-subsurface-parcel-hyperloop-bid-strategy.md)**  
 - **[Regenerative City & Hub Layout Principles](strategy/regenerative-city-hub-layout-principles.md)**  
 - **[Advanced Fab Contingency Strategy](strategy/advanced-fab-contingency-strategy.md)**  
-- **[Feasibility & Risk Mitigation Enhancements](strategy/feasibility-risk-mitigation-enhancements.md)**  
+- **[Feasibility & Risk Mitigation Enhancements](strategy/feasibility-risk-mitigation-enhancements.md)**
+
+## Startup Strategies & Planning
+- **[First Bootstrap on Distressed Orchard (Pre-Pod Phase)](strategy/startup.md)**  
+- **[Detailed Construction of the First 8 Pods](strategy/detailed-construction-of-the-first-8-pods.md)**  
+- **[First Tile Factory Setup & Transition](strategy/first-tile-factory-setup-transition.md)**  
+- **[Server Setup & Digital Twins (Pre-Compute Tiles)](strategy/server-setup-digital-twins-pre-compute-tiles.md)**  
+- **[Transition from Leased Tents to Pod-Based Mini-Fabs](strategy/transition-leased-tents-to-pod-based-mini-fabs.md)**  
+- **[Mini-Fab Replication Timeline](strategy/mini-fab-replication-timeline.md)** 
 
 ## Financials & Projections
 - **[Financial Projections & Self-Funding Path](financials/financial-projections-self-funding-path.md)**  
@@ -80,11 +88,7 @@ This is the single source of truth and entry point for the entire Genesis Networ
 - **[Innovation Hub LLC Structure](innovation-hub/innovation-hub-llc-structure.md)**  
 
 ## Additional Resources
-- **[First Bootstrap on Distressed Orchard (Pre-Pod Phase)](docs/first-bootstrap-distressed-orchard-pre-pod.md)**  
-- **[First Tile Factory Setup & Transition](docs/first-tile-factory-setup-transition.md)**  
-- **[Server Setup & Digital Twins (Pre-Compute Tiles)](docs/server-setup-digital-twins-pre-compute-tiles.md)**  
-- **[Transition from Leased Tents to Pod-Based Mini-Fabs](docs/transition-leased-tents-to-pod-based-mini-fabs.md)**  
-- **[Mini-Fab Replication Timeline](docs/mini-fab-replication-timeline.md)**  
+  
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
