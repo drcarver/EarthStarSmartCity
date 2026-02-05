@@ -1,111 +1,121 @@
 ---
 layout: default
-title: Genesis Network by EarthStar Industries
-description: Central README and repository index for the Genesis Network – a modular, self-replicating regenerative ecosystem transforming degraded lands into closed-loop hubs for food, energy, water, materials, electronics, pharmaceuticals, and resilient communities.
+title: Genesis Network – README
+description: Comprehensive overview, structure, and documentation index for the Genesis Network project by EarthStar Technologies (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network  
-**EarthStar Industries – Repository README & Index**  
-**January 2026 Baseline**
+# Genesis Network
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+**Regenerative, pod-centric ecosystem for food, energy, materials, and community sovereignty**
+
+**Version:** February 2026 Conceptual Baseline  
+**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
+**Authors:** EarthStar Technologies Conceptual Working Group  
+**Repository:** [github.com/earthstar/genesis-network](https://github.com/earthstar/genesis-network) (hypothetical path)
 
 ## Overview
 
-The **Genesis Network** is a pod-centric, self-replicating regenerative ecosystem that transforms distressed farmland, brownfields, and closed landfills into closed-loop hubs delivering food, energy, water, materials, electronics, pharmaceuticals, and community services at 95–99% resource closure.
+The **Genesis Network** is a modular, self-funding, regenerative infrastructure project that transforms distressed land, brownfields, landfills, and eventually oceans into productive, closed-loop hubs and cities. It uses pod-based mini-factories, waste-derived toughened ceramic tiles, and affiliate empowerment to produce food, energy, water, materials, and sovereign compute while sequestering carbon at gigaton scale.
 
-Built on **NASA/ISS-derived** closed-loop principles and powered by a massive data moat from dense sensor networks, the Network is fully self-funded through early revenue from **[tiles](components/tiles/)**, premium food, biogas, and infrastructure contracts.
+Core principles:  
+- Pod-first bootstrap (rapid, mobile deployment)  
+- 95–99% resource closure (energy, water, nutrients)  
+- Self-funding within 3–6 months per hub  
+- Data moat + sovereign AI for ruthless optimization  
+- Political moat via farmer alliances & TerraWell goodwill  
 
-This repository contains all specifications, roadmaps, financials, and strategy documents.
+## Project Structure & Documentation Index
 
-## Key Repository Sections
+| Category                  | Description                                      | Main Folder                          | Key Documents |
+|---------------------------|--------------------------------------------------|--------------------------------------|---------------|
+| **Components**            | Tiles, pods, kits, sensors                       | [`components/`](./components/)       | [Tiles](./components/tiles/), [Pods](./components/pods/), [Kits](./components/kits/), [Sensors](./docs/sensors/) |
+| **Strategy**              | Bootstrap, replication, contingency, expansion   | [`strategy/`](./strategy/)           | [Bootstrap](./strategy/bootstrap.md), [Mini-Fab Replication](./strategy/mini-fab-replication.md) |
+| **Financials**            | Projections, cash flow, self-funding paths       | [`financials/`](./financials/)       | [Detailed Projections](./financials/projections.md) |
+| **Roadmaps**              | Timelines, phases, stretch goals                 | [`roadmaps/`](./roadmaps/)           | [Vision 2040+](./roadmaps/vision-2040.md) |
+| **Standards & Handbooks** | Smart city, sustainable codes, sensor handbook   | [`docs/standards/`](./docs/standards/), [`docs/sensors/`](./docs/sensors/) | [Sensor Handbook](./docs/sensors/handbook.md), [Smart City Standards](./docs/standards/smart-city.md) |
+| **Innovation Hub**        | LLC structure, risk distribution                 | [`innovation-hub/`](./innovation-hub/) | [LLC List & Governance](./innovation-hub/llcs.md) |
+| **General Docs**          | Feasibility, layouts, pre-pod bootstrap          | [`docs/`](./docs/)                   | [Regenerative City Layout](./docs/regenerative-city-layout.md), [Pre-Pod Bootstrap](./docs/pre-pod-bootstrap.md) |
 
-- **[Strategy Documents](strategy/)** – Master plans, viability enhancements, risk analysis, expansion strategies  
-- **[Financial Projections](financials/)** – Phase-by-phase costs, revenues, NPV, IRR, cash flow  
-- **[Roadmaps](roadmaps/)** – 50-year Earth + off-world timelines, NASA tech feedback loops  
-- **[Innovation Hub LLCs](innovation-hub/)** – Full list of 32 LLCs with localized adaptations  
-- **[Components](components/)** – Detailed specs for **[tiles](components/tiles/)**, **[pods](components/pods/)**, **[kits](components/kits/)**, manufacturing, **[sensors](docs/sensors/)**  
+## Core Components Summary
 
-## Core Components
+### Tiles (14 Total – All from Tile Factory)
+- Roof Glazing (Semi-Trans BIPV)  
+- Exterior Cladding  
+- Interior Insulating Partition  
+- Permeable Road / Path Tile  
+- Foundation / Base Tile  
+- **RTK GNSS Anchor Tile**  
+- Energy Storage & Thermal Tile  
+- Basic Security & Monitoring Tile  
+- **Smart Airlock Module Tile**  
+- Canopy Microclimate Tile  
+- Bee Activity Tile  
+- Basic Networking Snap Tile  
+- **Dense Sensor Net Tile** (new)  
+- **Off-World Hardened Tile** (new)  
 
-### Tiles
-All structures are built exclusively from waste-derived toughened ceramic **[tiles](components/tiles/)**.
+### Pods (9 Total – All from Tile Factory)
+- Tile & Pipe Production Pod  
+- Aquaponics Pod  
+- Biogas Digester Pod  
+- Microbial Inoculant Pod  
+- Dwarf Orchard Pod  
+- Livestock Pod  
+- Beehive Pod  
+- Smart Infrastructure Pod  
+- **Dense Sensor Net Pod** (new)  
 
-- **[Roof Glazing Tile](components/tiles/roof-glazing-tile.md)** – Semi-transparent BIPV + AWG  
-- **[Exterior Cladding Tile](components/tiles/exterior-cladding-tile.md)** – Supplementary power + sensors  
-- **[Structural Load-Bearing Tile](components/tiles/structural-load-bearing-tile.md)** – Foundations & floors  
-- **[Permeable Road Tile](components/tiles/permeable-road-tile.md)** – Piezo + stormwater capture  
-- **[Compute Server Tile](components/tiles/compute-server-tile.md)** – Hot-swappable RISC-V modules  
-- **[Networking Snap Tile](components/tiles/networking-snap-tile.md)** – Inductive + waveguide bridging  
-- **[Smart Furniture Surface Tile](components/tiles/smart-furniture-surface-tile.md)** – Touch/display integration  
+### Kits (13 Total – Assembled in Tile Factory)
+- Precision Ag Starter Kit  
+- Biochar & Soil Amendment Kit  
+- Vertical Ag Expansion Kit  
+- Beehive Integration Kit  
+- Smart Airlock Kit  
+- Dense Sensor Net Kit  
+- Food Desert Housing Starter Kit  
+- Restoration (Blue-Green Carbon) Kit  
+- Energy Storage Starter Kit  
+- Microbial Inoculant Production Kit  
+- Off-World Prep Kit (new)  
+- Security & Compliance Kit (new)  
+- Sustainable Building Code Kit (new)  
 
-### Pods
-Modular 40 ft high-cube containers – the primary replication unit.
+## Sensor Handbook Summary
 
-- **[Tile & Pipe Production Pod](components/pods/tile-production-pod.md)** – Core factory bootstrap  
-- **[Aquaponics Multi-Trophic Pod](components/pods/aquaponics-pod.md)** – Fish, prawns, BSFL, greens  
-- **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)** – Energy + fertilizer  
-- **[Livestock Pod](components/pods/livestock-pod.md)** – Large & specialty animals with staggered delivery  
-- **[Dwarf Orchard Pod](components/pods/dwarf-orchard-pod.md)** – Fruit/nut trees  
-- **[Automated Processing Pods](components/pods/automated-processing-pods.md)** – Bakery, brewery, butcher, dairy  
-- **[TerraWell Mobile Unit](components/pods/terrawell-mobile-unit.md)** – Free healthcare delivery  
+The dense sensor net is embedded in tiles/pods/kits for real-time monitoring, compliance, and data moat acceleration. Key sensors include:  
+- **RTK GNSS** → Cm-level positioning  
+- **Ground-Based Radar** → Mapping, anomaly detection  
+- **Starlink Nodes** → Rural internet backhaul  
+- **Multispectral/Environmental** → Temp, humidity, soil, gas  
+- **Strain/Vibration** → Structural health  
+- **Biosensors** → HR/HRV, motion/fall (badges)  
+- **Acoustic** → Bee activity, intrusion  
+- **Chemical/Trace** → Explosives/narcotics (airlocks)  
 
-### Kits
-Flat-pack, self-replicating deployment packages.
+All off-the-shelf or mini-fab produced; radiation-hardened variants for off-world (Luna/Mars/planets/moons).
 
-- **[Tile & Pipe Production Kit](components/kits/tile-production-kit.md)**  
-- **[Aquaponics Kit](components/kits/aquaponics-kit.md)**  
-- **[Biogas Digester Kit](components/kits/biogas-kit.md)**  
-- **[Microbial Inoculant Kit](components/kits/microbial-inoculant-kit.md)**  
-- **[Restoration & Blue-Green Carbon Kit](components/kits/restoration-blue-green-kit.md)**  
-- **[Agroforestry Expansion Kit](components/kits/agroforestry-expansion-kit.md)**  
-- **[Dam & River Restoration Kit](components/kits/dam-river-restoration-kit.md)**  
-- **[Smart Infrastructure Kit](components/kits/smart-infrastructure-kit.md)**  
-- **[Mini-Fab Kit](components/kits/mini-fab-kit.md)**  
+## Innovation Hub LLCs (12 Core)
 
-## Sensor Handbook – Dense Network Standard
+1. Tile & Ceramic Production LLC  
+2. Aquaponics & Hydroponics LLC  
+3. Biogas & Energy LLC  
+4. Microbial Inoculants LLC  
+5. Orchard & Agroforestry LLC  
+6. Livestock & Poultry LLC  
+7. Beehive & Pollination LLC  
+8. Smart Infrastructure LLC  
+9. Mini-Fab & Electronics LLC  
+10. Robotics & Automation LLC  
+11. TerraWell FreeCare LLC  
+12. OceanNet Maritime LLC  
 
-Every tile, pod, and structure deploys **3–5× redundant sensors** for optimization, compliance, security, and off-world planning.
+## Viability Enhancements Applied
 
-| Sensor Category         | Key Types                                          | Primary Functions                                  | Integration Level                  | Lifespan / Calibration |
-|-------------------------|----------------------------------------------------|----------------------------------------------------|------------------------------------|------------------------|
-| Environmental           | Temperature, humidity, PAR, VOC, CO₂, ammonia      | Climate/yield optimization, air quality            | All tiles & pods                   | 10–15 years / Annual   |
-| Structural              | Strain, vibration, tilt, crack detection           | Predictive maintenance, seismic early warning      | Load-bearing & roads               | 15–25 years / Biennial |
-| Power / Energy          | Voltage, current, piezo/BIPV output                | Harvest optimization, fault detection              | BIPV/piezo tiles                    | 10–20 years / Annual   |
-| Water                   | Flow, pH, EC, turbidity, condensate quality       | Closure monitoring, potable safety                 | AWG & plumbing tiles               | 8–12 years / Semi-annual |
-| Security / Biosecurity  | mmWave radar, hyperspectral (weapons/explosives/pathogens) | Threat detection, airlock triage               | All airlocks & perimeters          | 10–15 years / Annual   |
-| Biological / Soil       | Microbial activity, nutrient levels, root density  | Inoculant optimization, yield prediction           | Aquaponics & agroforestry          | 5–10 years / Replaceable |
-| Off-World Specific      | Radiation, regolith composition, seismic           | ISRU planning, habitat integrity                   | Lunar/Mars pods                    | 20–30 years / Hardened |
+- **Dense Sensor Net** → Integrated everywhere; revenue from data/compliance/internet; minimal regulatory burden on owned land; off-world extension viable.  
+- **LLC Distribution** → Reduces single-point failure risk; spreads oversight/burnout.  
+- **Smart Airlocks** → Mandatory in all buildings (weapons/explosives scan + security alerts).  
+- **Smart City & Sustainable Standards** → Full compliance (ISO/TC 268, IEEE 2030, ITU-T Y.4900, ISO 14001, Cradle-to-Cradle).  
 
-**Suggested File Path for Full Handbook**: `docs/sensors/sensor-handbook.md`
-
-**Smart Airlocks** (mandatory in all buildings): Dual-chamber with mmWave + hyperspectral scanning for weapons/explosives/pathogens; alerts hub security + AI triage.
-
-**Smart City / Sustainable Building Compliance**  
-- ISO/TC 268, IEEE 2030, ITU-T Y.4900  
-- ISO 14001, Cradle-to-Cradle  
-
-## Innovation Hub LLCs
-
-Full list and details: **[Innovation Hub Overview](innovation-hub/innovation-hub-overview.md)** (32 total LLCs)
-
-## Key Documents
-
-- **[Master Strategy](strategy/master-strategy.md)**  
-- **[Financial Projections](financials/financial-projections.md)**  
-- **[50-Year Roadmap](roadmaps/50-year-roadmap.md)**  
-- **[Resilience Analysis](strategy/resilience-analysis.md)**  
-- **[Off-World Expansion](roadmaps/off-world-expansion.md)**  
-- **[Top Risks & Quick Wins](strategy/top-risks-quick-wins.md)**  
-
-**License Notice**  
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You may share and adapt provided appropriate credit is given.
-
-https://creativecommons.org/licenses/by/4.0/  
-
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-(Attribution appreciated when sharing or building upon this framework)
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
