@@ -1,90 +1,90 @@
 ---
 layout: default
-title: Genesis Network by EarthStar Industries – Repository Index
-description: Central index and navigation hub for the Genesis Network documentation repository – modular regenerative ecosystem specifications, components, strategy, financials, and innovation hub details.
+title: Genesis Network Index
+description: Central index and navigation hub for the Genesis Network project documentation, linking to all core components, strategies, financials, roadmaps, standards, sensors, and innovation hub materials (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network Repository  
-**EarthStar Industries – Complete Documentation Hub**  
-**January 2026 Baseline**
+# Genesis Network Index  
+**Central Navigation & Documentation Hub**  
+**EarthStar Technologies – February 2026 Baseline**
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
+**© 2025–2026 EarthStar Technologies**  
+Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-Welcome to the official documentation repository for the **[Genesis Network](strategy/genesis-master-plan.md)** – a pod-centric, self-replicating regenerative ecosystem transforming degraded lands into closed-loop hubs for food, energy, water, materials, electronics, pharmaceuticals, and resilient communities.
+This is the single source of truth and entry point for the entire Genesis Network conceptual documentation. All documents are organized by category. Bolded terms below are direct links to their respective files.
 
-## Navigation by Category
+## Core Components
 
-### Strategy & Roadmaps
-- **[Master Plan](strategy/genesis-master-plan.md)** – Overall vision and phased execution  
-- **[Ultra-Rapid Hub Bootstrap Strategy](strategy/ultra-rapid-hub-bootstrap.md)** – Fastest hub/affiliate deployment  
-- **[NATO-Aligned Expansion](strategy/nato-western-hemisphere-expansion.md)** – Defensive Western Hemisphere strategy  
-- **[Global Willing Nations](strategy/global-expansion.md)** – Voluntary sovereign adoption  
-- **[Solar System Roadmap](roadmaps/solar-system-expansion.md)** – Lunar/Mars/asteroid/O'Neill/von Neumann  
-- **[50-Year NASA Feedback Roadmap](roadmaps/50-year-nasa-feedback.md)** – Space-Earth iteration loops  
-- **[Resilience Analysis](strategy/resilience-analysis.md)** – Natural/man-made/existential threats  
-- **[Top Risks & Quick Wins](strategy/top-10-risks-mitigations.md)** – Risk matrix and growth analysis  
+### Tiles
+- **[Roof Glazing (Semi-Transparent BIPV)](components/tiles/roof-glazing-semi-transparent-bipv.md)**  
+- **[Exterior Cladding](components/tiles/exterior-cladding.md)**  
+- **[Interior Insulating Partition](components/tiles/interior-insulating-partition.md)**  
+- **[Permeable Road / Path Tile](components/tiles/permeable-road-path-tile.md)**  
+- **[Foundation / Base Tile](components/tiles/foundation-base-tile.md)**  
+- **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)**  
+- **[Energy Storage & Thermal Tile](components/tiles/energy-storage-thermal-tile.md)**  
+- **[Basic Security & Monitoring Tile](components/tiles/basic-security-monitoring-tile.md)**  
+- **[Smart Airlock Module Tile](components/tiles/smart-airlock-module-tile.md)**  
+- **[Canopy Microclimate Tile](components/tiles/canopy-microclimate-tile.md)**  
+- **[Bee Activity Tile](components/tiles/bee-activity-tile.md)**  
+- **[Basic Networking Snap Tile](components/tiles/basic-networking-snap-tile.md)**  
+- **[Dense Sensor Radar Tile](components/tiles/dense-sensor-radar-tile.md)**  
+- **[Off-World Hardened Tile](components/tiles/off-world-hardened-tile.md)**  
 
-### Components
-- **[Tiles Overview](components/tiles-overview.md)**  
-  - **[Roof Glazing Tile](components/tiles/roof-glazing.md)**  
-  - **[Exterior Cladding Tile](components/tiles/exterior-cladding.md)**  
-  - **[Structural Load-Bearing Tile](components/tiles/structural-load-bearing.md)**  
-  - **[Permeable Road Tile](components/tiles/permeable-road-tile.md)**  
-  - **[Compute Server Tile](components/tiles/compute-server-tile.md)**  
-  - **[Networking Snap Tile](components/tiles/networking-snap-tile.md)**  
+### Pods
+- **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)**  
+- **[Aquaponics Pod](components/pods/aquaponics-pod.md)**  
+- **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)**  
+- **[Microbial Inoculant Pod](components/pods/microbial-inoculant-pod.md)**  
+- **[Dwarf Orchard Pod](components/pods/dwarf-orchard-pod.md)**  
+- **[Livestock Pod](components/pods/livestock-pod.md)**  
+- **[Beehive Pod](components/pods/beehive-pod.md)**  
+- **[Smart Infrastructure Pod](components/pods/smart-infrastructure-pod.md)**  
+- **[Dense Sensor Net Pod](components/pods/dense-sensor-net-pod.md)**  
 
-- **[Pods Overview](components/pods-overview.md)**  
-  - **[Tile Production Pod](components/pods/tile-production-pod.md)**  
-  - **[Aquaponics Multi-Trophic Pod](components/pods/aquaponics-pod.md)**  
-  - **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)**  
-  - **[Livestock Pod](components/pods/livestock-pod.md)**  
-  - **[Processing Cluster Pods](components/pods/processing-cluster-pods.md)**  
-  - **[Mini-Fab Pod](components/pods/mini-fab-pod.md)**  
+### Kits
+- **[Precision Ag Starter Kit](components/kits/precision-ag-starter-kit.md)**  
+- **[Biochar & Soil Amendment Kit](components/kits/biochar-soil-amendment-kit.md)**  
+- **[Vertical Ag Expansion Kit](components/kits/vertical-ag-expansion-kit.md)**  
+- **[Beehive Integration Kit](components/kits/beehive-integration-kit.md)**  
+- **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)**  
+- **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)**  
+- **[Food Desert Housing Starter Kit](components/kits/food-desert-housing-starter-kit.md)**  
+- **[Restoration (Blue-Green Carbon) Kit](components/kits/restoration-blue-green-carbon-kit.md)**  
+- **[Energy Storage Starter Kit](components/kits/energy-storage-starter-kit.md)**  
+- **[Microbial Inoculant Production Kit](components/kits/microbial-inoculant-production-kit.md)**  
+- **[Off-World Prep Kit](components/kits/off-world-prep-kit.md)**  
+- **[Security & Compliance Kit](components/kits/security-compliance-kit.md)**  
+- **[Sustainable Building Code Kit](components/kits/sustainable-building-code-kit.md)**  
 
-- **[Kits Overview](components/kits-overview.md)**  
-  - **[Tile & Pipe Production Kit](components/kits/tile-pipe-production-kit.md)**  
-  - **[Aquaponics Kit](components/kits/aquaponics-kit.md)**  
-  - **[Microbial Inoculant Kit](components/kits/microbial-inoculant-kit.md)**  
-  - **[Restoration Blue-Green Carbon Kit](components/kits/restoration-blue-green-kit.md)**  
-  - **[Dam & River Restoration Kit](components/kits/dam-river-restoration-kit.md)**  
+## Strategies & Planning
+- **[Ultra-Rapid Hub Bootstrap & Staging](strategy/ultra-rapid-hub-bootstrap-staging.md)**  
+- **[Road Replacement + Subsurface Parcel Hyperloop Bid Strategy](strategy/road-replacement-subsurface-parcel-hyperloop-bid-strategy.md)**  
+- **[Regenerative City & Hub Layout Principles](strategy/regenerative-city-hub-layout-principles.md)**  
+- **[Advanced Fab Contingency Strategy](strategy/advanced-fab-contingency-strategy.md)**  
+- **[Feasibility & Risk Mitigation Enhancements](strategy/feasibility-risk-mitigation-enhancements.md)**  
 
-### Financials
-- **[Detailed Financial Projections](financials/detailed-projections.md)**  
-- **[Electronics & Appliances Financials](financials/electronics-appliances.md)**  
-- **[Phase 8 Solar System Financials](financials/solar-system-financials.md)**  
+## Financials & Projections
+- **[Financial Projections & Self-Funding Path](financials/financial-projections-self-funding-path.md)**  
+- **[Detailed Financial Projections](financials/detailed-financial-projections.md)**  
 
-### Standards & Compliance
-- **[Smart City Standards](docs/standards/smart-city-standards.md)**  
-- **[Sustainable Building Codes](docs/standards/sustainable-building-codes.md)**  
+## Roadmaps & Vision
+- **[Vision & Stretch Goals (2040+ Horizon)](roadmaps/vision-stretch-goals-2040-horizon.md)**  
 
-### Sensors
-- **[Dense Sensor Handbook](docs/sensors/dense-sensor-handbook.md)**  
+## Standards & Sensors
+- **[Sensor Handbook](docs/sensors/sensor-handbook.md)**  
+- **[Smart City Standards & Sustainable Building Codes](docs/standards/smart-city-standards-sustainable-building-codes.md)**  
 
-### Innovation Hub
-- **[Innovation Hub Overview](innovation-hub/innovation-hub-overview.md)**  
+## Innovation Hub
+- **[Innovation Hub LLC Structure](innovation-hub/innovation-hub-llc-structure.md)**  
 
-## Dense Sensor Handbook – Summary Table
+## Additional Resources
+- **[First Bootstrap on Distressed Orchard (Pre-Pod Phase)](docs/first-bootstrap-distressed-orchard-pre-pod.md)**  
+- **[First Tile Factory Setup & Transition](docs/first-tile-factory-setup-transition.md)**  
+- **[Server Setup & Digital Twins (Pre-Compute Tiles)](docs/server-setup-digital-twins-pre-compute-tiles.md)**  
+- **[Transition from Leased Tents to Pod-Based Mini-Fabs](docs/transition-leased-tents-to-pod-based-mini-fabs.md)**  
+- **[Mini-Fab Replication Timeline](docs/mini-fab-replication-timeline.md)**  
 
-| Sensor Category         | Key Types                                          | Primary Applications                              | Redundancy Level | Suggested File Path                          |
-|-------------------------|----------------------------------------------------|---------------------------------------------------|------------------|----------------------------------------------|
-| Environmental           | Temp, humidity, PAR, VOC, CO₂, ammonia             | Climate control, air quality, plant stress        | 3–5×             | docs/sensors/environmental-sensors.md        |
-| Structural              | Strain, vibration, tilt, crack detection           | Predictive maintenance, seismic/impact monitoring | 3–5×             | docs/sensors/structural-sensors.md           |
-| Power / Energy          | Voltage, current, piezo output, BIPV soiling       | Energy harvest optimization, fault detection      | 4×               | docs/sensors/power-energy-sensors.md         |
-| Water                   | Flow, pH, EC, turbidity, AWG quality               | Closure monitoring, potable safety                | 3–5×             | docs/sensors/water-sensors.md                |
-| Security / Biosecurity  | mmWave radar, hyperspectral (weapons/explosives)   | Threat detection, airlock triage                  | 3–5×             | docs/sensors/security-biosecurity-sensors.md |
-| Biological / Soil       | Microbial activity, nutrient levels                | Inoculant optimization, yield prediction          | 3×               | docs/sensors/biological-soil-sensors.md      |
-| Off-World Specific      | Radiation, regolith composition, seismic           | ISRU planning, habitat integrity (lunar/Mars)     | 4–6×             | docs/sensors/off-world-sensors.md            |
-
-**Full Handbook**: [Dense Sensor Handbook](docs/sensors/dense-sensor-handbook.md)
-
-**License Notice**  
-This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You may share and adapt provided appropriate credit is given.
-
-https://creativecommons.org/licenses/by/4.0/  
-
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-(Attribution appreciated when sharing or building upon this framework)
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
