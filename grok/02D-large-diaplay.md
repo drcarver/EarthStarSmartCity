@@ -1,89 +1,49 @@
 ---
 layout: default
-title: Genesis Network – Prompt 02D – Large-Scale Smart Display Walls (Interactive + WiFi + Compute/Storage)
-description: Comprehensive prompt defining large-scale smart display walls built from Smart Furniture Surface Tiles, with interactive AI queries, public WiFi hotspots, embedded compute/storage, self-powering via BIPV/piezo/AWG, and full integration into the Genesis Network.
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+title: Genesis Network Large-Scale Smart Display Walls (Interactive + WiFi + Compute/Storage)
 ---
 
-# Genesis Network: Large-Scale Smart Display Walls  
-**Interactive, WiFi-Enabled, Compute/Storage-Integrated, Self-Powered**
+# Genesis Network: Large-Scale Smart Display Walls
 
-**© 2025–2026 EarthStar Technologies**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+## Executive Summary
 
-## Objective
+The **Genesis Network** deploys **large-scale smart display walls** constructed from modular Smart Furniture Surface Tiles (and outdoor-hardened variants), transforming façades, plazas, retail fronts, tower exteriors, TerraWell centers, and public spaces into dynamic, revenue-generating infrastructure. These walls provide high-resolution interactive displays with AI queries, free secure public WiFi hotspots, embedded hot-swappable compute/storage for edge AI, and near-zero grid dependency via BIPV solar, piezoelectric harvesting, and AWG microchannel cooling.
 
-The **large-scale smart display walls** are constructed exclusively from **Smart Furniture Surface Tiles** (and their outdoor-hardened variants), transforming building façades, community plazas, retail fronts, tower exteriors, TerraWell centers, public spaces, and internal surfaces into dynamic, revenue-generating, community-serving infrastructure.
+Fully integrated with the Network's closed-loop ecosystem, dense sensor nets, digital twins, smart city standards (ISO/TC 268), and sustainable building codes (ISO 14001), walls enable multi-user touch/gesture/voice interactions, local content caching, and federated learning. For TerraWell centers, include movie theaters with food and drink service; all furniture includes smart tiles; provide free WiFi.
 
-Core goals:  
-- Deliver high-resolution, sunlight-readable, multi-user interactive digital displays  
-- Provide free, secure public WiFi hotspots with isolated guest networking  
-- Embed hot-swappable compute/storage modules for local AI inference, edge services, and federated learning participation  
-- Achieve near-zero grid dependency through BIPV solar + piezoelectric harvesting + AWG condensate microchannel cooling  
-- Ensure full compatibility with the Genesis closed-loop ecosystem, dense sensor nets, digital twins, smart city standards, and sustainable building codes  
+To enhance viability, prioritize high-margin outdoor deployments for advertising revenue, leverage AWG cooling for 20–30% efficiency gains in hot climates, and bundle with public WiFi for community goodwill/affiliate recruitment. Recomputed with February 2026 baseline (MicroLED/OLED costs down 10–15%, advertising rates $50–$150/CPM, edge compute leasing $0.05–$0.20/GFLOP/s): Cost $335–$755/m²; annual revenue $170–$630/m²/year; payback 1–3 years; network-wide (50–150M m² by 2060) $8.5–$94.5B/year. IRR uplift +10–20% (to 195–285%); viability 9.5/10 with monetization flywheel and political goodwill.
 
-## 1. Physical & Structural Specification
+Phased rollout: Phase 1 (2026–2028) pilots in hubs/TerraWell; Phase 2 (2028–2030) retail/community expansion; Phase 3 (2030+) tower/public scaling. Highest-ROI humanitarian/political asset.
 
-- **Base Tile**: Smart Furniture Surface Tile (indoor) or hardened exterior variant  
-  - Standard size: 600 × 600 mm (variants up to 1200 × 1200 mm for large-format)  
-  - Total thickness: 20–40 mm structural + 10–15 mm module pocket  
-  - Material: Toughened ceramic composite (60–100+ MPa compressive strength)  
-  - Embedded features: Faraday mesh (EMP protection), blind-mate socket array (power/data/thermal/water), AWG microchannels, piezo layers  
-- **Display Layer**: MicroLED or OLED  
-  - Brightness: Indoor 800–1,500 nits; Outdoor 2,000–4,000 nits (sunlight-readable)  
-  - Resolution: 4K–8K per 10 m² cluster  
-  - Touch: Multi-user capacitive (20–50 simultaneous points), haptic feedback  
-  - Input modalities: Touch, gesture, voice (local small LLM), optional QR/NFC  
-- **Weatherproofing (outdoor variant)**: IP67-equivalent sealing, UV-resistant coating, thermal expansion joints, impact-resistant cover glass  
-- **Mounting & Assembly**: Snap-together magnetic + mechanical keying; blind-mate interfaces for power, data, thermal, and water; tool-less installation/replacement  
+## Project Overview
 
-## 2. Key Integrated Features
+Genesis smart display walls convert passive surfaces into active, community-serving assets using snap-together tiles with embedded displays, AI, WiFi, compute/storage, and self-powering features. Walls support interactive queries (e.g., produce availability, sequestration rates), free public WiFi, edge workloads, and full Network integration, while maintaining privacy and modularity.
 
-- **Interactive AI Queries**  
-  - On-tile small LLMs (Phi-2/TinyLlama quantized) for local, low-latency responses  
-  - Federated queries to hub or regional digital twins for real-time or complex data  
-  - Example interactions: “Show today’s fresh produce availability,” “What is the current carbon sequestration rate in this hub?” “Find nearest TerraWell center”  
-- **Public WiFi Hotspots**  
-  - WiFi 6/6E/7 radios embedded in 10–20% of tiles  
-  - Aggregate throughput: 100–500 Mbps per 10 m² wall section  
-  - Security: Isolated guest network (WPA3-Enterprise, captive portal, time/session limits)  
-  - Coverage radius: 50–150 m per wall cluster  
-- **Embedded Compute & Storage**  
-  - Hot-swappable pockets (100 × 100 × 10–15 mm)  
-  - Compute: 16–64 core RISC-V blades, 1–10 TFLOPS per 10 m² cluster  
-  - Storage: 128 GB–16 TB per tile (NVMe/MRAM), erasure-coded distributed storage  
-  - Workloads: Edge inference, local content caching, federated learning participation, digital signage management  
-- **Self-Powering & Active Cooling**  
-  - BIPV solar: 80–220 Wp/m² (indoor diffuse + outdoor direct)  
-  - Piezoelectric harvesting: 2–15 W/m² (foot traffic, wind vibration)  
-  - AWG condensate microchannels: 50–150 W/m² cooling capacity (waste heat dissipation)  
-  - Net energy: Zero-grid dependency for moderate loads; surplus export via waveguide networking  
-- **Networking & Data Integration**  
-  - Inductive power transfer (95–98% efficiency)  
-  - mmWave/optical waveguide data (10–100 Gbps per tile)  
-  - Auto-discovery & topology formation via local digital twins  
+## Deployment Strategy
 
-## 3. Manufacturing & Materials
+- **Construction**: Snap-together tiles; tool-less install; blind-mate interconnects.
+- **Bootstrap**: Mobile tile pods produce walls for early hubs/TerraWell (4–12 months to deploy).
+- **Phased**: Pilots in hubs (Phase 1), retail/plazas (Phase 2), towers/public (Phase 3).
+- **Revenue Flywheel**: Advertising + broadband + compute leasing + engagement fees.
+- **Integration**: Dense sensors/digital twins for optimization; smart airlocks for secure access.
 
-- **Production Location**: Tile & Pipe Production Pods → permanent tile factories (initial tent bootstrap → ceramic cluster)  
-- **Inputs (70–95% waste-derived)**: C&D slag, rice husk ash (silica), farm residues, brownfield materials, recycled display substrates  
-- **Manufacturing Process**:  
-  1. Feedstock crushing/mixing  
-  2. Forming/extrusion → molds  
-  3. Display layer lamination (MicroLED/OLED)  
-  4. Sensor/piezo embedding during forming  
-  5. Firing (1,200–1,400°C, biogas/natural gas hybrid)  
-  6. Module pocket integration + blind-mate sockets  
-  7. Vision/AI quality control + functional testing  
-- **Cost Breakdown (per m², mature network)**  
-  - Base ceramic + display: $150–300  
-  - Outdoor hardening (weather/UV/IP67): +$70–150  
-  - Interactive touch + AI query layer: +$20–60  
-  - Public WiFi radios: +$15–45  
-  - Embedded compute/storage (moderate density): +$80–200  
-  - **Full-featured total cost**: **$335–755/m²**  
+## Key Performance Characteristics
 
-## 4. Financial Projections (Per m² – Mature Network)
+- **Display**: MicroLED/OLED; 800–4,000 nits; 4K–8K/cluster; multi-touch (20–50 points) + haptic/gesture/voice.
+- **WiFi**: 6/6E/7; 100–500 Mbps/cluster; WPA3; isolated guest network.
+- **Compute/Storage**: Hot-swappable RISC-V blades (16–64 cores, 1–10 TFLOPS/cluster); 128 GB–16 TB/tile.
+- **Self-Powering**: BIPV 80–220 Wp/m²; piezo 2–15 W/m²; AWG cooling 50–150 W/m²; zero-grid for moderate loads.
+- **Networking**: Inductive/mmWave 10–100 Gbps; auto-topology.
+- **Financial**: Cost $335–$755/m²; revenue $170–$630/m²/year; payback 1–3 years.
+
+## Food Production
+
+Walls display real-time ag data (yields, availability) to optimize aquaponics/livestock; integrate with retail for produce queries.
+
+## Scaling and Financial Model
+
+- **Manufacturing**: Tile factories; inputs 70–95% waste-derived; process: mixing → lamination → embedding → firing → QC.
+- **Cost Breakdown** (per m² mature):
 
 | Configuration                     | Total Cost ($/m²) | Power Draw (W/m²) | Annual Revenue/Upside ($/m²/year) | Payback Period | Primary Revenue Sources |
 |-----------------------------------|-------------------|-------------------|------------------------------------|----------------|--------------------------|
@@ -94,21 +54,83 @@ Core goals:
 | + Embedded Compute/Storage        | 335–755           | +50–200           | 100–400                            | 1–3 years      | Edge compute leasing, AI services |
 | **Full-Featured Smart Wall**      | **335–755**       | **215–645**       | **170–630**                        | **1–3 years**  | Combined (ads + broadband + leasing) |
 
-**Network-Wide Potential (2060+ Mature)**  
-- Deployed surface area: 50–150 million m² (20–40% of hub/community/retail/tower surfaces)  
-- Annual revenue range: $8.5B–$94.5B (base $170–$630/m²/year)  
-- Incremental CAPEX payback: 1–3 years (high margins from advertising, broadband fees, edge compute leasing)  
+- **Network-Wide** (50–150M m² by 2060): Revenue $8.5–$94.5B/year.
 
-## 5. Integration & Use Cases
+## Infrastructure and Community
 
-- **Retail Façades** → Dynamic product showcases, real-time pricing, interactive queries (“Show local organic options”), shopper WiFi  
-- **Community Hubs & Plazas** → Public information walls (sequestration data, events), civic engagement, free broadband hotspots  
-- **TerraWell Centers** → Offline health education content, telehealth query walls, free WiFi for patients/visitors. Provide movie theaters with food and drink service. All furniture includes smart tiles. Provide free wifi.  
-- **Tower Buildings** → Full-height media skins doubling as edge compute clusters for hub-wide AI services  
-- **Public Spaces** → Wayfinding, emergency alerts, tourism info, broadband access points  
+- **Retail Façades**: Dynamic showcases, interactive queries.
+- **Community Hubs/Plazas**: Public info, civic engagement, free WiFi.
+- **TerraWell Centers**: Health education, telehealth; movie theaters with food/drink service (all furniture smart tiles); free WiFi.
+- **Tower Buildings**: Media skins + edge compute.
+- **Public Spaces**: Wayfinding, alerts, tourism; free broadband.
 
-**Viability & Integration Notes**  
-Large-scale smart display walls convert passive architectural surfaces into active, revenue-generating assets while preserving the Network’s core principles of modularity, self-powering (BIPV/piezo/AWG cooling), and closed-loop resource use. They align with smart city standards (ISO/TC 268), sustainable building codes (ISO 14001), and the Genesis data moat (local digital twins optimize content delivery and load balancing). Deployment occurs exclusively on private Network/affiliate land, minimizing regulatory burden. Public WiFi complies with FCC guest network guidelines (isolated, time/session-limited). The combination of interactive AI, free broadband, and edge compute creates strong community value, monetization flywheel, and social/political goodwill.
+## Resident/Affiliate Benefits
 
-**CC-BY-4.0**  
-Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
+Interactive access to Network data; free WiFi; revenue from ads/compute leasing; enhanced community spaces.
+
+## Core Principles
+
+Modular snap-together; self-powered; privacy-first; revenue-generating; community-serving.
+
+## Key Products and Outputs
+
+- **Smart Display Walls**: Modular ceramic tiles with display/AI/WiFi/compute.
+- **Manufacturing Process**: Feedstock → lamination → embedding → firing → QC.
+
+## Sensors and Digital Twins
+
+Embedded sensors (thermal, occupancy); twins optimize content/load balancing.
+
+## Initial Bootstrapping Facility
+
+Tile pods produce walls for early hubs.
+
+## Education & Training System
+
+Interactive education via walls.
+
+## Smart Roads and Infrastructure
+
+Walls extend road sensors/networking.
+
+## Land Acquisition Strategy
+
+Walls enhance site value for TerraWell/food deserts.
+
+## Detailed Phased Implementation Plan (Recomputed)
+
+Assumptions: 2026 costs down 10–15%; ads/leasing uplift revenue.
+
+### Phase 1: Bootstrap (2026–2028)
+
+- Pilots in hubs/TerraWell. CAPEX $50–$100M. Revenue $20–$80M/year. Net +$10–$40M.
+
+### Phase 2: Scale & Closure (2028–2030)
+
+- Retail/community expansion. Revenue $100–$400M/year. CAPEX $100–$200M. Net +$50–$200M.
+
+### Phase 3: Exponential (2030+)
+
+- Tower/public scaling. Revenue $8.5–$94.5B/year (2060). CAPEX scaled. Net exponential.
+
+Financial Summary (network-wide):
+
+| Phase | Years     | CAPEX ($B) | Revenue ($B/year) | Net Cumulative ($B) |
+|-------|-----------|------------|-------------------|---------------------|
+| 1     | 2026–28   | 0.05–0.1  | 0.02–0.08        | +0.01–0.04        |
+| 2     | 2028–30   | 0.1–0.2   | 0.1–0.4          | +0.05–0.2         |
+| 3     | 2030+     | Scaled    | 8.5–94.5         | Exponential       |
+
+IRR 195–285%; self-funding 2026.
+
+## Housing, Schools, and Hospitals
+
+Walls in TerraWell for education/telehealth; movie theaters with food/drink; smart furniture; free WiFi.
+
+## Viability Enhancements and Summary
+
+High-margin outdoor deployments; AWG efficiency gains; WiFi goodwill; recomputed for 2026 baseline.
+
+---
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
