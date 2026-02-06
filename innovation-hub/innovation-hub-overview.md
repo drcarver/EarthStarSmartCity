@@ -30,9 +30,9 @@ All LLCs self-fund post-bootstrap.
 | [Regenerative Hubs LLC](regenerative-hubs-llc.md)                                            | Bootstrap              | 2026–2027      | 100–200        | 900–2,500                | 540–2,000                   |
 | [TerraWell FreeCare LLC](terrawell-freecare-support-llc.md) (nonprofit)                | Bootstrap              | 2026–2027      | 50–100         | 500–1,300 (donations/services) | N/A (nonprofit)             |
 | [Smallholder Partnership Co-op LLC](farmer-partnership-affiliate-support-llc.md)             | Bootstrap              | 2026–2027      | 20–50          | 100–300 (kits/loans)     | 60–240                      |
-| [Energy Systems LLC](#)                                                  | Bootstrap              | 2026–2027      | 80–200         | 195–660                  | 117–528                     |
-| [Water Sovereignty LLC](#)                                               | Bootstrap              | 2026–2027      | 100–220        | 100–400                  | 60–320                      |
-| [Sustainable Energy LLC](#)                                              | Bootstrap              | 2026–2027      | 80–200         | 195–660                  | 117–528                     |
+| [Energy Systems LLC](energy-systems-llc.md)                                                  | Bootstrap              | 2026–2027      | 80–200         | 195–660                  | 117–528                     |
+| [Water Sovereignty LLC](water-sovereignty-llc.md)                                            | Bootstrap              | 2026–2027      | 100–220        | 100–400                  | 60–320                      |
+| [Sustainable Energy LLC](sustainable-energy-llc.md)                                          | Bootstrap              | 2026–2027      | 80–200         | 195–660                  | 117–528                     |
 | [TerraFab Manufacturing LLC](#)                                          | Scale & Closure        | 2028–2030      | 100–200        | 350–700                  | 210–560                     |
 | [Industrial Gases LLC](#)                                                | Scale & Closure        | 2028–2030      | 100–250        | 280–950                  | 168–760                     |
 | [Restoration Kits LLC](#)                                                | Scale & Closure        | 2028–2030      | 50–100         | 150–500 (credits/kits)   | 90–400                      |
