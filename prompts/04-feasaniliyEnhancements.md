@@ -78,5 +78,7 @@ For each category, provide:
 
 Output in structured sections with tables for strategies/costs/uplift, followed by overall updated feasibility summary and prioritized implementation order.
 
+prepare a markdown response that encapsulates the response including financials into a markdown segment.  It should be presented in scrollable window suitable for copying and pasting. provide cc copyright
+
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 © 2025–2026 EarthStar Technologies Conceptual Working Group
