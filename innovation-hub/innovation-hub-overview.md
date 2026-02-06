@@ -1,63 +1,77 @@
 ---
 layout: default
-title: Genesis Network – Complete List of All LLCs in the Innovation Hub
-description: Comprehensive, sorted list of all 32 LLCs in the Genesis Network Innovation Hub, including descriptions, key financials, project phase, and relevant hyperlinks (with Security & Surveillance LLC highlighted).
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+title: Genesis Network – Innovation Hub LLCs: Phases, Timelines, and Financials
 ---
 
-# Genesis Network – Complete List of All LLCs in the Innovation Hub
+# Genesis Network – Innovation Hub LLCs: Phases, Timelines, and Financials
 
-**EarthStar Technologies** | Version: February 2026 | Prepared for Stakeholders, Partners, and Potential Affiliates
+## Executive Summary
 
-The Innovation Hub consists of **32 synergistic LLCs** that collectively deliver the Genesis Network's regenerative capabilities. Each LLC is modular, self-funding where applicable, and operates under the broader ecosystem (tiles, pods, kits, AI OS, data moat). The list is sorted alphabetically by name. Financials are mature-phase estimates per hub (unless noted network-wide). **Security & Surveillance LLC** is highlighted for emphasis.
+The Genesis Network's Innovation Hub consists of 32 LLCs, each representing a key innovation or component, operating in parallel with risk isolation. LLCs are prioritized and ordered by implementation phase:  
+**Bootstrap** (highest priority for cash-positive foundation, 2026–2027),  
+**Scale & Closure** (regional expansion and 95% closure, 2028–2030),  
+**Exponential** (national/global maturity, 2030–2035).  
 
-| LLC Name (Hyperlinked) | Description & Key Role | Project Phase | CAPEX ($M/hub mature) | OPEX ($M/year/hub) | Revenue ($M/year/hub) | Revenue/Value Notes |
-|-------------------------|------------------------|---------------|------------------------|---------------------|------------------------|---------------------|
-| [Advanced Recycling & Waste Valorization LLC](advanced-recycling-llc.md) | Plasma/ELFM waste processing into ceramic feedstock and syngas | Phase 1–2 | 80–200 | 30–80 | 200–600 | Materials + energy sales |
-| [Agroforestry & Permaculture LLC](agroforestry-permaculture-llc.md) | Perennial polycultures, alley cropping, carbon sequestration | Phase 2 | 50–150 | 20–60 | 300–800 | Premium produce + credits |
-| [Automated Biorefinery LLC](automated-biorefinery-llc.md) | Waste-to-chemicals, biofuels, platform molecules | Phase 2–3 | 100–250 | 40–100 | 400–1,200 | Chemicals/fuels sales |
-| [Autonomous Mobility LLC](autonomous-mobility-llc.md) | Robotaxi fleets, Cyber Cab leasing, Optimus integration | Phase 3 | 150–400 | 50–120 | 500–1,500 | Leasing + transport fees |
-| [Battery & Energy Storage LLC](battery-energy-storage-llc.md) | Sodium-ion + thermal batteries for microgrids | Phase 2 | 80–200 | 30–80 | 300–900 | Leasing + grid services |
-| [Bio-Materials & Textiles LLC](bio-materials-textiles-llc.md) | Mycelium, algae, hemp-derived materials | Phase 3 | 60–180 | 25–70 | 200–700 | Textiles + biomaterials sales |
-| [Biogas Digester & Upgrading LLC](biogas-digester-upgrading-llc.md) | Anaerobic digestion → biomethane, digestate | Phase 1–2 | 50–150 | 20–60 | 150–500 | Energy + fertilizer sales |
-| [Ceramic Tile Production LLC](ceramic-tile-production-llc.md) | Core tile manufacturing (structural, smart, glazing) | Phase 1 | 100–250 | 40–100 | 500–1,500 | Tile sales + leasing |
-| [Consumer Appliances LLC](consumer-appliances-llc.md) | DC appliances, furniture, tools from TerraFab | Phase 3 | 80–200 | 30–80 | 400–1,000 | Retail + leasing |
-| [Education & Telepresence LLC](education-telepresence-llc.md) | VR/AR learning, Dojo, community hubs | Phase 2 | 60–180 | 25–70 | 200–600 | Services + tourism |
-| [High-Speed Rail & Transport Extensions LLC](high-speed-rail-transport-llc.md) | Smart rail and transport infrastructure | Phase 3 | 200–500 | 80–200 | 500–1,500 | Transport fees |
-| [Hydrogen Production LLC](hydrogen-production-llc.md) | Electrolysis + syngas reforming | Phase 3 | 100–300 | 40–100 | 300–1,000 | Fuel sales |
-| [Hybrid Aquaponics LLC](hybrid-aquaponics-llc.md) | Multi-trophic food production | Phase 1–2 | 80–200 | 30–80 | 300–800 | Produce sales |
-| [Industrial Gases LLC](industrial-gases-llc.md) | ASUs for LOX/LIN/LAR + rare gases | Phase 2 | 150–400 | 60–150 | 400–1,200 | Gas sales |
-| [Lights-Out Sustainable Forestry LLC](lights-out-forestry-llc.md) | Autonomous forestry + lumber | Phase 3 | 100–250 | 40–100 | 300–900 | Lumber + credits |
-| [Maritime & Ports Infrastructure LLC](maritime-ports-llc.md) | Port upgrades + tile cladding | Phase 3 | 200–500 | 80–200 | 500–1,500 | Infrastructure fees |
-| [Microbial Inoculant Production LLC](microbial-inoculant-production-llc.md) | Custom microbes for soil/ag boosts | Phase 2 | 50–150 | 20–60 | 200–600 | Boosts + kits |
-| [Mini-Fab Semiconductor LLC](mini-fab-semiconductor-llc.md) | Mature-node chips for sensors/compute | Phase 3 | 100–300 | 40–100 | 500–1,500 | Chip sales + leasing |
-| [Multi-Species Livestock LLC](multi-species-livestock-llc.md) | Poultry, dairy, eggs, ruminants | Phase 1–2 | 60–180 | 25–70 | 200–600 | Proteins + dairy |
-| [Regenerative Pharmaceuticals LLC](regenerative-pharmaceuticals-llc.md) | Bio-derived meds + nutraceuticals | Phase 3 | 100–250 | 40–100 | 400–1,200 | Pharma sales |
-| [Restoration & DAC LLC](restoration-dac-llc.md) | Blue/green carbon + DAC pilots | Phase 2 | 80–200 | 30–80 | 300–900 | Credits + tourism |
-| [Robotics & Automation LLC](robotics-automation-llc.md) | Swarm bots, Optimus integration, Cyber Cab leasing | Phase 3 | 150–400 | 50–120 | 500–1,500 | Leasing + services |
-| [Security & Surveillance LLC](security-surveillance-llc.md) | Perimeter monitoring, drones, access control, biometrics, trace detection | Phase 2 | 150–400 | 40–100 | 300–900 | Contracts + services |
-| [Smart Infrastructure LLC](smart-infrastructure-llc.md) | Roads, pipes, microgrids, waste heat | Phase 2 | 100–250 | 40–100 | 400–1,200 | Leasing + energy |
-| [Sustainable Energy LLC](sustainable-energy-llc.md) | Biogas, BIPV, piezo, microgrids | Phase 1–2 | 80–200 | 30–80 | 300–900 | Energy leasing |
-| [Sustainable Mining LLC](sustainable-mining-llc.md) | Minimal criticals mining + plasma processing | Phase 3 | 200–500 | 80–200 | 500–1,500 | Materials sales |
-| [Synthetic Biology & Fermentation LLC](synthetic-biology-fermentation-llc.md) | Engineered microbes for processes | Phase 3 | 100–250 | 40–100 | 300–1,000 | Enzymes + bio-products |
-| [TerraFab Electronics LLC](terrafab-electronics-llc.md) | Electronics/appliances from ceramic fabs | Phase 3 | 150–400 | 60–150 | 600–1,800 | Retail + leasing |
-| [Vertical Urban Farming LLC](vertical-urban-farming-llc.md) | Rooftop/balcony/tower ag systems | Phase 2–3 | 80–200 | 30–80 | 400–1,200 | Urban produce |
-| [Waste-to-Synthetic Fuels LLC](waste-to-synthetic-fuels-llc.md) | Gasification → biofuels/syngas | Phase 3 | 150–400 | 60–150 | 400–1,200 | Fuels sales |
-| [Waste Valorization & Recycling LLC](waste-valorization-recycling-llc.md) | ELFM/plasma for slag/metals | Phase 1–2 | 100–250 | 40–100 | 300–900 | Materials sales |
-| [Water Purification & Desalination LLC](water-purification-desalination-llc.md) | AWG, desalination, brine valorization | Phase 2 | 100–300 | 40–100 | 400–1,200 | Water sales |
+Timelines are recomputed based on February 2026 baseline, incorporating ultra-rapid bootstrap, self-funding from early revenues (tiles/food/biogas), and grants offsetting 20–40% early CAPEX.
 
-## Financial Summary (Network-Wide, Mature Phase, Base Scenario)
+Financials per LLC (mature hub, $M):  
+- **CAPEX** (initial setup)  
+- **Annual Revenue** (internal use, affiliate sales, external contracts)  
+- **Annual Net Profit** (60–80% margins)  
 
-- **Total CAPEX (per hub)**: $150–450M  
-- **Total OPEX (per hub)**: $60–180M/year  
-- **Total Revenue (per hub)**: $300–1,200M/year  
-- **Network-Wide Mature Revenue (2050)**: $3,000–9,000B/year  
-- **IRR Contribution (average across LLCs)**: +15–25%  
-- **Break-Even (LLC average)**: 12–24 months
+Aggregated network-wide revenue: $50–150B/year by 2035  
+Total CAPEX: $15–$35B (2026–2035)  
+All LLCs self-fund post-bootstrap.
 
-## Viability & Integration Notes
+## LLC Phases, Timelines, and Financials Table (Ordered by Priority/Phase)
 
-The 32 LLCs form a diversified, interdependent ecosystem that reduces single-point failure risk and spreads operational oversight. Security & Surveillance LLC plays a critical role in physical resilience and revenue (contracts/services). All LLCs integrate with tiles/pods/kits for modular scaling and self-funding. High overall viability from revenue diversity and data moat synergies.
+| LLC Name                                                                 | Phase                  | Timeline       | CAPEX ($M/hub) | Annual Revenue ($M/hub) | Annual Net Profit ($M/hub) |
+|--------------------------------------------------------------------------|------------------------|----------------|----------------|--------------------------|-----------------------------|
+| [Regenerative Hubs LLC](#)                                               | Bootstrap              | 2026–2027      | 100–200        | 900–2,500                | 540–2,000                   |
+| [TerraWell FreeCare LLC](#) (nonprofit)                                  | Bootstrap              | 2026–2027      | 50–100         | 500–1,300 (donations/services) | N/A (nonprofit)             |
+| [Smallholder Partnership Co-op LLC](#)                                   | Bootstrap              | 2026–2027      | 20–50          | 100–300 (kits/loans)     | 60–240                      |
+| [Energy Systems LLC](#)                                                  | Bootstrap              | 2026–2027      | 80–200         | 195–660                  | 117–528                     |
+| [Water Sovereignty LLC](#)                                               | Bootstrap              | 2026–2027      | 100–220        | 100–400                  | 60–320                      |
+| [Sustainable Energy LLC](#)                                              | Bootstrap              | 2026–2027      | 80–200         | 195–660                  | 117–528                     |
+| [TerraFab Manufacturing LLC](#)                                          | Scale & Closure        | 2028–2030      | 100–200        | 350–700                  | 210–560                     |
+| [Industrial Gases LLC](#)                                                | Scale & Closure        | 2028–2030      | 100–250        | 280–950                  | 168–760                     |
+| [Restoration Kits LLC](#)                                                | Scale & Closure        | 2028–2030      | 50–100         | 150–500 (credits/kits)   | 90–400                      |
+| [Infrastructure Recycling LLC](#)                                        | Scale & Closure        | 2028–2030      | 50–100         | 250–700                  | 150–560                     |
+| [Nutrient Cycling LLC](#)                                                | Scale & Closure        | 2028–2030      | 50–100         | 150–450                  | 90–360                      |
+| [Smart Display Walls LLC](#)                                             | Scale & Closure        | 2028–2030      | 50–100         | 170–630 (per m²/year)    | 102–504                     |
+| [Communicator Badge LLC](#)                                              | Scale & Closure        | 2028–2030      | 50–150         | 0.8–6 (retail)           | 0.48–4.8                    |
+| [Grocery & Retail LLC](#)                                                | Scale & Closure        | 2028–2030      | 50–100         | 100–400                  | 60–320                      |
+| [Advanced Recycling LLC](#)                                              | Scale & Closure        | 2028–2030      | 100–250        | 200–500                  | 120–400                     |
+| [Battery & Storage LLC](#)                                               | Scale & Closure        | 2028–2030      | 150–300        | 195–660                  | 117–528                     |
+| [Vertical Urban Farming LLC](#)                                          | Scale & Closure        | 2028–2030      | 80–200         | 150–450                  | 90–360                      |
+| [Water Purification & Desalination LLC](#)                               | Bootstrap              | 2026–2027      | 100–220        | 100–400                  | 60–320                      |
+| [Robotics & Automation LLC](#)                                           | Exponential            | 2030–2035      | 150–350        | 200–600                  | 120–480                     |
+| [OceanNet LLC](#)                                                        | Exponential            | 2030–2035      | 2,400–4,800 (network-wide) | 60–135 (network-wide)    | 36–108 (network-wide)       |
+| [Advanced Fab LLC](#)                                                    | Exponential            | 2030–2035      | 100–200        | 150–300                  | 90–240                      |
+| [OS & Software LLC](#)                                                   | Exponential            | 2030–2035      | 80–400         | 15–80                    | 9–64                        |
+| [Mining & Recycling LLC](#)                                              | Exponential            | 2030–2035      | 80–200         | 200–600                  | 120–480                     |
+| [Forestry LLC](#)                                                        | Exponential            | 2030–2035      | 80–200         | 150–450                  | 90–360                      |
+| [Maritime & Ports LLC](#)                                                | Exponential            | 2030–2035      | 120–280        | 250–700                  | 150–560                     |
+| [High-Speed Rail LLC](#)                                                 | Exponential            | 2030–2035      | 150–350        | 300–800                  | 180–640                     |
+| [Hydrogen Production LLC](#)                                             | Exponential            | 2030–2035      | 100–250        | 280–950                  | 168–760                     |
+| [Bio-Materials & Textiles LLC](#)                                        | Exponential            | 2030–2035      | 70–180         | 120–350                  | 72–280                      |
+| [Autonomous Mobility LLC](#)                                             | Exponential            | 2030–2035      | 150–350        | 200–600                  | 120–480                     |
+| [Regenerative Pharmaceuticals LLC](#)                                    | Exponential            | 2030–2035      | 120–300        | 230–780                  | 138–624                     |
+| [Sustainable Mining LLC](#)                                              | Exponential            | 2030–2035      | 80–200         | 200–600                  | 120–480                     |
+| [Lights-Out Sustainable Forestry LLC](#)                                 | Exponential            | 2030–2035      | 80–200         | 150–450                  | 90–360                      |
+
+**Financial Notes**:
+- CAPEX per hub/LLC (initial setup).
+- Revenue and Net assume mature operations (95% closure); margins 60–80%.
+- Network-wide aggregate revenue: $50–150B/year by 2035.
+- Total CAPEX across all LLCs: $15–$35B (2026–2035).
+- Priority order: Bootstrap (cash foundation), Scale & Closure (expansion), Exponential (global maturity).
+
+## Viability Enhancements and Summary
+
+Phases and timelines are recomputed for the February 2026 baseline, incorporating ultra-rapid bootstrap, self-funding from early revenues, and grants offsetting 20–40% early CAPEX. Bootstrap LLCs establish cash-positive foundations; Scale adds complexity and regional expansion; Exponential drives global growth and maturity. Financials are aggregated from chat data (e.g., per-LLC uplifts from Prompt 01A, hub revenues from Prompt 05A). The structure enhances viability by distributing risk across LLCs, leveraging farmer partnerships and TerraWell for political goodwill, and ensuring parallel execution of major projects.
+
+---
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 © 2025–2026 EarthStar Technologies Conceptual Working Group
