@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Prompt 05C – Adding Grocery, Liquor, and Home & Garden Retail to Hubs with Additional Pod Delivery Schedules
+title: Genesis Network – Prompt 01M – Adding Grocery, Liquor, and Home & Garden Retail to Hubs with Additional Pod Delivery Schedules
 description: Phased prompt for integrating grocery, liquor, and home & garden retail into Genesis hubs at the proper time, including delivery schedules for additional pods like large animal pods, silvopastures with canopies, and food processing pods to complete the hub, aligned with ultra-rapid bootstrap constraints (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Prompt 05C – Adding Grocery, Liquor, and Home & Garden Retail to Hubs with Additional Pod Delivery Schedules
-
-**© 2025–2026 EarthStar Technologies**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+# Genesis Network – Prompt 01M – Adding Grocery, Liquor, and Home & Garden Retail to Hubs with Additional Pod Delivery Schedules
 
 ## Objective
 
