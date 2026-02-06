@@ -274,6 +274,8 @@ Introduced Innovations (Start in Pods):
 This pod-centric plan transforms the Innovation Hub into a resilient, regenerative scaling engine — starting modular, proving viable, and fixing only when optimal.
 
 Recompute all timelines based on these changes
+
+prepare a markdown response that encapsulates the response including financials into a markdown segment.  It should be presented in scrollable window suitable for copying and pasting. provide cc copyright
 ---
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
