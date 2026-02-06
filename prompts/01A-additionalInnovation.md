@@ -64,7 +64,9 @@ Original 19 LLCs expanded by 13 new ones based on existing industries (e.g., ene
 ## 5. Effects on Existing Industries
 
 - **Disruptive Transition**: 20–50% downsize for legacy (e.g., fossil mining, synthetic pharma); job creation in regen sectors (+40–70%).  
-- **Market Pressure**: Genesis green alternatives capture $2–$6T/year by 2050; forces competitors to adopt.  
+- **Market Pressure**: Genesis green alternatives capture $2–$6T/year by 2050; forces competitors to adopt.
+
+prepare a markdown response that encapsulates the response including financials into a markdown segment.  It should be presented in scrollable window suitable for copying and pasting. provide cc copyright
 
 **CC-BY-4.0 License Notice**  
 This work is licensed under Creative Commons Attribution 4.0 International.  
