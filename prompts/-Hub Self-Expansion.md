@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Prompt 01F-Addendum – Hub Self-Expansion via On-Site Pod Production
+title: Genesis Network – Prompt 01F- – Hub Self-Expansion via On-Site Pod Production
 description: Addendum to the ultra-rapid hub bootstrap strategy explaining how the model assumes and is deliberately designed for hubs to produce their own expansion pods on-site, enabling exponential replication without external supply bottlenecks (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Prompt 01F-Addendum – Hub Self-Expansion via On-Site Pod Production
+# Prompt 01F- – Hub Self-Expansion via On-Site Pod Production
 
 **© 2025–2026 EarthStar Technologies**  
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
