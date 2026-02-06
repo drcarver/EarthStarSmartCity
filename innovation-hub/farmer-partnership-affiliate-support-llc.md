@@ -7,8 +7,6 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 # Smallholder Partnership Co-op LLC
 
-**File Path Suggestion**: `innovation-hub/smallholder-partnership-co-op-llc.md`
-
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
@@ -24,7 +22,7 @@ This LLC serves as the primary political and social shield for the Network, defu
 - **Membership**: Open to verified small family farmers/co-ops (U.S. and global); no equity dilution—profit-share model (5–15% optional).
 - **Board**: Majority smallholder-elected; minority Genesis representatives for technical support.
 - **Transparency**: Public dashboards for loans, revenues, and impacts; blockchain-verified credits shared with members.
-- **Integration**: Links to **[Regenerative Hubs LLC](innovation-hub/regenerative-hubs-llc.md)** for surplus exchange; **[Restoration Kits LLC](innovation-hub/restoration-kits-llc.md)** for rewilding; **[Robotics & Automation LLC](innovation-hub/robotics-automation-llc.md)** for subsidized bots.
+- **Integration**: Links to **[Regenerative Hubs LLC](regenerative-hubs-llc.md)** for surplus exchange; **[Restoration Kits LLC](restoration-kits-llc.md)** for rewilding; **[Robotics & Automation LLC](robotics-automation-llc.md)** for subsidized bots.
 
 ## Core Programs & Offerings
 
@@ -66,7 +64,7 @@ Network-wide (50,000+ partners by 2040s): $5–$16B/year; funds global smallhold
 
 ## Integration with Genesis Network
 
-- **Synergies**: Partners supply food/excess resources to **[Regenerative Hubs LLC](innovation-hub/regenerative-hubs-llc.md)**; receive support during shortages.
+- **Synergies**: Partners supply food/excess resources to **[Regenerative Hubs LLC](regenerative-hubs-llc.md)**; receive support during shortages.
 - **Tech Flow**: Use **[Communicator Badge](components/communicator-badge.md)** for training; **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** for monitoring; **[Restoration Kits](components/kits/restoration-blue-green-carbon-kit.md)** for rewilding.
 - **Global Role**: Primary vector for non-U.S. expansion—adapted kits/co-ops in Africa/Asia/Latin America.
 
