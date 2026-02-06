@@ -27,9 +27,9 @@ All LLCs self-fund post-bootstrap.
 
 | LLC Name                                                                 | Phase                  | Timeline       | CAPEX ($M/hub) | Annual Revenue ($M/hub) | Annual Net Profit ($M/hub) |
 |--------------------------------------------------------------------------|------------------------|----------------|----------------|--------------------------|-----------------------------|
-| [Regenerative Hubs LLC](#)                                               | Bootstrap              | 2026–2027      | 100–200        | 900–2,500                | 540–2,000                   |
-| [TerraWell FreeCare LLC](#) (nonprofit)                                  | Bootstrap              | 2026–2027      | 50–100         | 500–1,300 (donations/services) | N/A (nonprofit)             |
-| [Smallholder Partnership Co-op LLC](#)                                   | Bootstrap              | 2026–2027      | 20–50          | 100–300 (kits/loans)     | 60–240                      |
+| [Regenerative Hubs LLC](regenerative-hubs-llc.md)                                            | Bootstrap              | 2026–2027      | 100–200        | 900–2,500                | 540–2,000                   |
+| [TerraWell FreeCare LLC](terrawell-freecare-support-llc.md) (nonprofit)                | Bootstrap              | 2026–2027      | 50–100         | 500–1,300 (donations/services) | N/A (nonprofit)             |
+| [Smallholder Partnership Co-op LLC](farmer-partnership-affiliate-support-llc.md)             | Bootstrap              | 2026–2027      | 20–50          | 100–300 (kits/loans)     | 60–240                      |
 | [Energy Systems LLC](#)                                                  | Bootstrap              | 2026–2027      | 80–200         | 195–660                  | 117–528                     |
 | [Water Sovereignty LLC](#)                                               | Bootstrap              | 2026–2027      | 100–220        | 100–400                  | 60–320                      |
 | [Sustainable Energy LLC](#)                                              | Bootstrap              | 2026–2027      | 80–200         | 195–660                  | 117–528                     |
