@@ -60,6 +60,8 @@ All pods connect via smart ceramic pipes (bidirectional power/water/waste/data).
 
 Phased introduction follows Limited Architecture triggers; livestock pods start early (2027–2028) for revenue.
 
+prepare a markdown response that encapsulates the response including financials into a markdown segment.  It should be presented in scrollable window suitable for copying and pasting. provide cc copyright
+
 ## Viability Impact
 
 - **Large/Specialty Pods**: Add diversified proteins/fiber; staggered delivery boosts revenue stability (+10–20%); regenerative grazing enhances sequestration.
