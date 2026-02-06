@@ -36,7 +36,7 @@ All systems are manufactured in **[Tile & Pipe Production Pod](../components/pod
 
 ## Integration & Standards
 
-- **Microgrid Orchestration**: Local digital twins + **[OS & Software LLC](../innovation-hub/os-software-llc.md)** stack for predictive load balancing.
+- **Microgrid Orchestration**: Local digital twins + **[OS & Software LLC](os-software-llc.md)** stack for predictive load balancing.
 - **Smart City Compliance**: IEEE 2030 (microgrids), ISO/TC 268 (sustainable cities), Matter/Thread for IoT security.
 - **Sustainable Codes**: ISO 14001 (environmental management); Cradle-to-Cradle via waste-derived materials.
 - **Resilience**: 90+ day isolation; surplus export to affiliates; integration with **[Infrastructure & Circulation Zones](../docs/regenerative-city-hub-layout.md)**.
