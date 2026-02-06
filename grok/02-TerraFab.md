@@ -5,21 +5,17 @@ description: Detailed phased plan for building Mini-Fabs and milestones to advan
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Pod-Based Mini-Fab to Advanced Fab Construction & Financials  
-**February 2026 Baseline – Pruned, Self-Financeable & Hardened**
-
-**© 2025–2026 EarthStar Technologies**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+# Prompt 02: Pod-Based Mini-Fab to Advanced Fab Construction & Financials
 
 ## Overview
 
-The Genesis Network builds **pod-based Mini-Fabs** (mature-node 65–130 nm for sensors, edge AI, robotics) starting late 2028, then upgrades to **advanced pod-cluster fabs** (7 nm → 3 nm) only after strict triggers are met. All construction is modular (40 ft high-cube pods), regenerative (70–95% waste-derived), lights-out capable (80–95% by 2035), and self-funded. Focus: sovereign niche chips for the Network (AI/robotics/digital twins), not mass-market volume.
+The Genesis Network builds **pod-based Mini-Fabs** (mature-node 65–130 nm for sensors, edge AI, robotics) starting late 2029, then upgrades to **advanced pod-cluster fabs** (7 nm → 3 nm) only after strict triggers are met. All construction is modular (40 ft high-cube pods), regenerative (70–95% waste-derived), lights-out capable (80–95% by 2035), and self-funded. Focus: sovereign niche chips for the Network (AI/robotics/digital twins), not mass-market volume.
 
 Key principles: Phased triggers prevent overreach; in-house production scales from 65–85% to 90–95%; cleanroom levels iterate from ISO 7–8 → ISO 5 (no below ISO 5 needed); data moat drives 20–60% yield gains.
 
 ## Phase 1 – Mini-Fab Construction (Mature-Node 65–130 nm)
 
-**Trigger**: Late 2028 – Early 2029  
+**Trigger**: Late 2029 – Early 2030  
 - Sustained positive cash flow ≥6 months  
 - ≥8–15 operational hubs  
 - Stable road/C&D feedstock contracts  
@@ -35,12 +31,12 @@ Key principles: Phased triggers prevent overreach; in-house production scales fr
 **Initial Output & Financials**  
 - Capacity: 10K–100K units/year/hub (sensors/edge AI).  
 - Yields: 50–70% start → 80% target.  
-- CAPEX: $120–350M/hub (15–25% CHIPS Act offset).  
-- OPEX: $25–60M/year (50–80% reduction via automation).  
-- Revenue: $250–600M/hub/year (60–80% margins + trade-ins).  
-- Break-even: 15–24 months post-launch.
+- CAPEX: $100–300M/hub (15–25% CHIPS Act offset).  
+- OPEX: $20–50M/year (50–80% reduction via automation).  
+- Revenue: $200–500M/hub/year (60–80% margins + trade-ins).  
+- Break-even: 18–30 months post-launch.
 
-## Phase 2 – Scale & Optimization (2029–2031)
+## Phase 2 – Scale & Optimization (2030–2032)
 
 **Milestones Achieved**  
 - Mini-Fab yields ≥80%  
@@ -55,32 +51,32 @@ Key principles: Phased triggers prevent overreach; in-house production scales fr
 
 **Financials**  
 - Capacity: 50K–200K units/year/hub.  
-- CAPEX Addition: $250–600M.  
-- Revenue Uplift: +$400–900M/year.  
+- CAPEX Addition: $200–500M.  
+- Revenue Uplift: +$300–700M/year.  
 - IRR Contribution: +10–15% network-wide.
 
 ## Phase 3 – Advanced Fab Upgrade (7 nm → 3 nm, Pod-Cluster Model)
 
-**Trigger**: 2031–2034  
+**Trigger**: 2032–2035  
 - All prior milestones stable  
 - Cumulative cash ≥$200M+  
 - Proven execution track record  
 
 **Construction Process (9–18 Months per Phase)**  
-- **7 nm Pilot (2031–2032)**: Add 10–20 specialized pods (EUV/ALD); ISO 5 critical zones ($2–4M upgrade).  
-- **3 nm Scale-Up (2032–2034)**: 50–100 pod cluster; full ISO 5 cleanrooms ($3–8M).  
+- **7 nm Pilot (2032–2033)**: Add 10–20 specialized pods (EUV/ALD); ISO 5 critical zones ($2–4M upgrade).  
+- **3 nm Scale-Up (2033–2035)**: 50–100 pod cluster; full ISO 5 cleanrooms ($3–8M).  
 - In-House: 80–90% (LCM ceramics, plasma for advanced materials).  
 - Automation: 90–95% lights-out (predictive AI maintenance).  
 - Power/Resilience: Biogas/solar + waste heat; ceramic shells (munitions 8–9/10).  
 
 **Financials (Recalculated)**  
-- Total CAPEX (Advanced Cluster): $3.5–9B (phased; 25% ITC via CHIPS Act).  
-- Network-Wide CAPEX (2031–2034): $18–35B cumulative.  
-- OPEX: $2.5–6B/year (50–80% offset via regeneration).  
+- Total CAPEX (Advanced Cluster): $3–8B (phased; 25% ITC via CHIPS Act).  
+- Network-Wide CAPEX (2032–2035): $15–30B cumulative.  
+- OPEX: $2–5B/year (50–80% offset via regeneration).  
 - Capacity: 500–3,000 wafers/month (niche AI chips).  
-- Revenue: $600M–$1.2B+/hub/year (specialty premiums).  
-- Break-even: 15–24 months per phase.  
-- IRR/NPV Impact: +5–10% (network IRR 45–70%; NPV $180–400B+ at 7% discount).  
+- Revenue: $500M–$1B+/hub/year (specialty premiums).  
+- Break-even: 18–30 months per phase.  
+- IRR/NPV Impact: +5–10% (network IRR 43–65%; NPV $150–350B+ at 7% discount).  
 
 **Cleanroom Iteration (No Below ISO 5)**  
 - Start: ISO 7–8 (Mini-Fab).  
@@ -92,9 +88,13 @@ Key principles: Phased triggers prevent overreach; in-house production scales fr
 - **Advantages**: Modular pods enable low-risk scaling, extreme resilience (mobile, munitions-resistant), and regenerative closure (95–99%).  
 - **Risks Mitigated**: Strict triggers prevent premature complexity; CHIPS/IRA grants offset 15–25%; data moat accelerates yields.  
 - **Feasibility**: 8.5/10 (niche focus avoids traditional fab pitfalls).  
-- **Long-Term**: Sovereign chips power Network AI/robotics/digital twins; revenues compound to $6–25B/year network-wide post-upgrade.
+- **Long-Term**: Sovereign chips power Network AI/robotics/digital twins; revenues compound to $5–20B/year network-wide post-upgrade.
 
 This plan ensures a practical, self-funded path from Mini-Fabs to advanced capabilities while preserving the Network's core regenerative vision.
 
-**CC-BY-4.0**  
-Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
+recompute all timelines and codtd
+
+---
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2026 EarthStar Technologies conceptual working group (attribution appreciated).
