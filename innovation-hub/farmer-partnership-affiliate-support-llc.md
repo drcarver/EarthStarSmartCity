@@ -1,69 +1,95 @@
 ---
 layout: default
-title: Farmer Partnership & Affiliate Support LLC – Specification Sheet
-description: Professional specification for the Farmer Partnership & Affiliate Support LLC, focusing on empowerment through loans, training, and adapted Genesis components.
+title: Genesis Network – Smallholder Partnership Co-op LLC
+description: Detailed specification for the Smallholder Partnership Co-op LLC, including mission, governance, revenue model, integration with the Genesis Network, and role in global smallholder empowerment (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Farmer Partnership & Affiliate Support LLC  
-**Executive Overview**  
+# Smallholder Partnership Co-op LLC
 
-The Farmer Partnership & Affiliate Support LLC empowers small family farmers and global smallholders with low/zero-interest bridge loans, free expertise/training, subsidized starter kits, lease-to-own robotics, and market access to transition to regenerative Genesis methods. This hybrid co-op/LLC model preserves independence while integrating affiliates into the Network for bidirectional resource sharing, premium branding, and revenue-sharing. Projected scale: 10,000–50,000 U.S. partners by 2040s; primary vector for global smallholder adoption. Phase: Early Scale (2028–2035 onward). Financials: Annual revenue $200–600M/hub from kit sales/upgrades (60–80% margins), revenue-share (5–15%), and excess power/water sales; CAPEX $50–150M/hub for program infrastructure; IRR contribution +8–12%.
+**File Path Suggestion**: `innovation-hub/smallholder-partnership-co-op-llc.md`
 
-## Tiles
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-| Name (Hyperlinked)                          | Description & Key Features                          | Inputs/Materials                           | Manufacturing Process                   | Cost          | Revenue/Value |
-|---------------------------------------------|-----------------------------------------------------|--------------------------------------------|-----------------------------------------|---------------|---------------|
-| [Exterior Cladding](components/tiles/exterior-cladding.md) | Vertical facades for farm buildings; BIPV, AWG, sensors | C&D slag, residues                         | Mixing, forming, firing                 | $22–40/m²     | $65–110/m²    |
-| [Structural Load-Bearing](components/tiles/structural-load-bearing.md) | Foundations/walls for barns/pods; piezo, sensors    | ELFM slag, brownfield                      | Extrusion, embedding, kiln              | $16–28/m²     | $48–75/m²     |
-| [Permeable Roads/Paths](components/tiles/permeable-roads-paths.md) | Internal farm roads; piezo, stormwater capture      | C&D slag                                   | Porous forming, piezo embeds            | $20–34/m²     | $57–92/m²     |
+## Objective
 
-## Pods
+The **Smallholder Partnership Co-op LLC** is a dedicated cooperative entity within the Genesis Network's 32-LLC innovation hub structure. Its mission is to empower small family farmers and global smallholders by providing low/zero-interest bridge loans, subsidized starter kits, free training, revenue-sharing opportunities, and infrastructure support (housing, robotics, smart roads/rail) while preserving farmer independence and local governance.
 
-| Name (Hyperlinked)                          | Description & Key Features                          | Inputs/Materials                           | Manufacturing Process                   | Cost          | Revenue/Value |
-|---------------------------------------------|-----------------------------------------------------|--------------------------------------------|-----------------------------------------|---------------|---------------|
-| [Aquaponics & Multi-Trophic Pod](components/pods/aquaponics-multi-trophic-pod.md) | Fish/plants/crustaceans/insects for farm protein   | Water, feed, digestate                     | Ceramic assembly, sensor embedding      | $0.6–1.5M     | $1.2–2.8M     |
-| [Livestock Pod](components/pods/livestock-pod.md) | Large/specialty animals; staggered cycles           | Feed, inoculants                           | Ceramic pens, robotic integration       | $0.7–1.8M     | $1.3–3.0M     |
-| [Biogas Digester & Upgrading Pod](components/pods/biogas-digester-upgrading-pod.md) | Methane from manure/waste                           | Manure, food waste                         | Ceramic tanks, turbine assembly         | $0.7–1.8M     | $1.3–3.0M     |
+This LLC serves as the primary political and social shield for the Network, defusing "corporate takeover" narratives by positioning Genesis as an enabler rather than owner of land/production. It accelerates scaling through distributed mini-hubs (5–60 ha) that supply food/power/water to corporate hubs while generating revenue via kit sales, upgrades, and optional shares.
 
-## Kits
+## Governance & Structure
 
-| Name (Hyperlinked)                          | Description & Key Features                          | Inputs/Materials                           | Manufacturing Process                   | Cost          | Revenue/Value |
-|---------------------------------------------|-----------------------------------------------------|--------------------------------------------|-----------------------------------------|---------------|---------------|
-| [Aquaponics Starter Kit](components/kits/aquaponics-starter-kit.md) | Small-scale fish/plant system for farm entry       | Water, fingerlings                         | Ceramic + plastic assembly              | $0.3–0.8M     | $0.6–1.8M     |
-| [Biogas Digester Kit](components/kits/biogas-digester-kit.md) | Household/farm methane production                  | Manure, waste                              | Ceramic-lined assembly                  | $0.2–0.6M     | $0.4–1.2M     |
-| [Microbial Inoculant Kit](components/kits/microbial-inoculant-kit.md) | Soil/plant boosters for yields                     | Substrates, cultures                       | Ceramic + plastic                       | $0.15–0.4M    | $0.3–1.0M     |
-| [Agroforestry Expansion Kit](components/kits/agroforestry-expansion-kit.md) | Tree/grazing integration                           | Seedlings, inoculants                      | Ceramic frames + fabric                 | $0.2–0.5M     | $0.4–1.0M     |
-| [Smart Infrastructure Interconnect Kit](components/kits/smart-infrastructure-interconnect-kit.md) | Pipes/roads for farm connectivity                  | Ceramic feedstock                          | Ceramic + conductive                    | $0.4–1.0M     | $0.8–2.0M     |
+- **Legal Form**: Hybrid cooperative LLC owned by participating smallholders/farmers with veto rights on major decisions.
+- **Membership**: Open to verified small family farmers/co-ops (U.S. and global); no equity dilution—profit-share model (5–15% optional).
+- **Board**: Majority smallholder-elected; minority Genesis representatives for technical support.
+- **Transparency**: Public dashboards for loans, revenues, and impacts; blockchain-verified credits shared with members.
+- **Integration**: Links to **[Regenerative Hubs LLC](innovation-hub/regenerative-hubs-llc.md)** for surplus exchange; **[Restoration Kits LLC](innovation-hub/restoration-kits-llc.md)** for rewilding; **[Robotics & Automation LLC](innovation-hub/robotics-automation-llc.md)** for subsidized bots.
 
-## Sensors
+## Core Programs & Offerings
 
-| Name (Hyperlinked)                          | Description & Key Features                          | Inputs/Materials                           | Manufacturing Process                   | Cost          | Revenue/Value |
-|---------------------------------------------|-----------------------------------------------------|--------------------------------------------|-----------------------------------------|---------------|---------------|
-| [Environmental Sensors](docs/sensors/environmental-sensors.md) | Air/soil/water quality for farm monitoring         | Ceramic + conductive                       | Embedding in tiles                      | $50–150/unit  | $100–300/unit |
-| [Strain / Vibration Sensors](docs/sensors/strain-vibration-sensors.md) | Structural health for barns/roads                  | Piezo materials                            | Integrated during firing                | $30–80/unit   | $60–150/unit  |
+1. **Bridge Loans**  
+   - Low/zero-interest ($100k–$2M/farm); forgivable/revenue-share tied to production milestones.  
+   - Funded from Network profits (tiles/food/biogas/credits).
 
-## Standards & Compliance
+2. **Subsidized Starter & Expansion Kits**  
+   - **[Precision Ag Starter Kit](components/kits/precision-ag-starter-kit.md)**, **[Biochar & Soil Amendment Kit](components/kits/biochar-soil-amendment-kit.md)**, **[Vertical Ag Expansion Kit](components/kits/vertical-ag-expansion-kit.md)**, **[Agroforestry Expansion Kit](components/kits/agroforestry-expansion-kit.md)**, etc.  
+   - 50–80% subsidy; lease-to-own options.
 
-| Name (Hyperlinked)                          | Description & Key Features                          | Inputs/Materials                           | Manufacturing Process                   | Cost          | Revenue/Value |
-|---------------------------------------------|-----------------------------------------------------|--------------------------------------------|-----------------------------------------|---------------|---------------|
-| [ISO 11783 (ISOBUS)](docs/standards/iso-11783-isobus.md) | Agricultural machinery interoperability             | N/A                                        | Software/sensor integration             | $10K–50K/hub  | N/A           |
-| [ISO 14001 (Environmental Management)](docs/standards/iso-14001-environmental-management.md) | Farm sustainability certification                  | N/A                                        | Compliance portal                       | $20K–80K/hub  | Credit uplift |
+3. **Free Training & Expertise**  
+   - Workshops, on-farm consulting, VR/telepresence courses via **[Communicator Badge](components/communicator-badge.md)** and **[Smart Display Walls](components/smart-display-walls.md)**.
 
-## Related / Supporting LLCs in the Innovation Hub
+4. **Infrastructure Support**  
+   - Kits for luxury housing, smart roads/rail extensions, sewage recycling; bidirectional grids for excess power/water.
 
-- [Vertical Urban Farming LLC](innovation-hub/vertical-urban-farming-llc.md)  
-- [Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md)  
-- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)  
-- [Water Purification & Desalination LLC](innovation-hub/water-purification-desalination-llc.md)  
-- [Lights-Out Sustainable Forestry LLC](innovation-hub/lights-out-sustainable-forestry-llc.md)  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)  
+5. **Market Access & Branding**  
+   - Premium channels for produce; shared carbon/biodiversity credits via blockchain platform.
 
-## Viability & Integration Notes
+## Revenue Model (Mature Phase, per 10,000 Partners)
 
-This LLC accelerates network growth by converting farmers into affiliates, providing quick wins through subsidized kits/loans and revenue-sharing. Integration with core pods/kits enables rapid farm upgrades, while sensors ensure compliance. Phase: Early Scale (2028+). Financials: $200–600M/hub/year revenue (kit sales 60–80% margins, 5–15% share); CAPEX $50–150M/hub (training/infrastructure); boosts overall viability by +10–15% through distributed scaling and political alignment.
+| Stream                          | Description                                      | Annual Revenue ($M) | Margin |
+|---------------------------------|--------------------------------------------------|---------------------|--------|
+| Kit Sales & Upgrades            | Subsidized starter/expansion kits                | 500–1,500           | 60–80% |
+| Optional Revenue-Share          | 5–15% on premium produce/carbon credits          | 300–800             | 80–90% |
+| Infrastructure Leasing          | Smart roads/rail, robotics lease-to-own          | 200–600             | 70–85% |
+| Training/Consulting Fees        | Premium advanced courses/workshops               | 100–300             | 75–90% |
+| **Total**                       |                                                  | **1,100–3,200**     | **70–85%** |
 
----
+Network-wide (50,000+ partners by 2040s): $5–$16B/year; funds global smallholder expansion.
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+## Financial Projections (Recomputed)
+
+- **CAPEX**: $200–$500M initial (2026–2030; loans/training infrastructure); funded from core hub surplus.
+- **Break-Even**: 2030–2032 (kit sales + shares).
+- **IRR**: 40–60% (high margins, low overhead).
+- **Network Uplift**: +15–25% overall revenue (distributed production); +10–20% political viability.
+
+## Integration with Genesis Network
+
+- **Synergies**: Partners supply food/excess resources to **[Regenerative Hubs LLC](innovation-hub/regenerative-hubs-llc.md)**; receive support during shortages.
+- **Tech Flow**: Use **[Communicator Badge](components/communicator-badge.md)** for training; **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** for monitoring; **[Restoration Kits](components/kits/restoration-blue-green-carbon-kit.md)** for rewilding.
+- **Global Role**: Primary vector for non-U.S. expansion—adapted kits/co-ops in Africa/Asia/Latin America.
+
+## Viability Enhancements
+
+- **Political Shield**: Farmer-led governance counters opposition (+20–30% social acceptance).
+- **Risk Distribution**: Independent co-op LLC isolates failures (+15–20% overall resilience).
+- **Revenue Flywheel**: Kit sales fund loans → more partners → higher surplus → faster scaling.
+- **Cultural Adaptations**: Region-specific kits (e.g., halal processing, tropical crops) → +15–25% global uptake.
+
+This LLC is the Network's strongest political and scaling asset—turning potential adversaries into allies.
+
+## Sensor List (Separate Table – Integration with Co-op Monitoring)
+
+| Sensor Type                  | Function in Co-op Context                  | Key Integration                  | Cost ($/unit) | Revenue Impact |
+|------------------------------|--------------------------------------------|----------------------------------|---------------|----------------|
+| Soil Moisture & Nutrient     | Precision monitoring for inoculant optimization | **[Precision Ag Starter Kit](components/kits/precision-ag-starter-kit.md)** | 20–45 | +$50–150M/year (yields) |
+| Canopy Microclimate          | Crop health in agroforestry                | **[Agroforestry Expansion Kit](components/kits/agroforestry-expansion-kit.md)** | 25–50 | +$40–120M/year |
+| Bee Activity                 | Pollination tracking                       | **[Beehive Integration Kit](components/kits/beehive-integration-kit.md)** | 30–60 | +$30–100M/year (credits) |
+| Pest & Disease Early Detection | Reduce pesticide use                       | Dense net kits                   | 40–80 | +$50–150M/year |
+| Root Zone Imaging            | Soil health for rewilding                  | **[Restoration Kits](components/kits/restoration-blue-green-carbon-kit.md)** | 35–70 | +$40–120M/year (sequestration) |
+
+**Notes**: Sensors embedded in kits; data feeds co-op digital twins for shared optimization/credits.
+
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
