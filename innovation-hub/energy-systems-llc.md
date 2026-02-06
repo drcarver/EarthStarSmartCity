@@ -19,7 +19,7 @@ https://creativecommons.org/licenses/by/4.0/
 - Distributed storage (sodium-ion tiles/pods, phase-change thermal buffering)  
 - Smart microgrid orchestration and surplus export  
 
-All systems are manufactured in **[Tile & Pipe Production Pod](../components/pods/tile-pipe-production-pod.md)** → permanent tile factories, using 70–95% waste-derived inputs. The LLC operates with full risk isolation while feeding surplus power to other LLCs (e.g., **[TerraFab Manufacturing LLC](../innovation-hub/terrafab-manufacturing-llc.md)**, **[Robotics & Automation LLC](../innovation-hub/robotics-automation-llc.md)**).
+All systems are manufactured in **[Tile & Pipe Production Pod](../components/pods/tile-pipe-production-pod.md)** → permanent tile factories, using 70–95% waste-derived inputs. The LLC operates with full risk isolation while feeding surplus power to other LLCs (e.g., **[TerraFab Manufacturing LLC](terrafab-manufacturing-llc.md)**, **[Robotics & Automation LLC](robotics-automation-llc.md)**).
 
 ## Core Energy Systems
 
