@@ -1,159 +1,139 @@
 ---
 layout: default
-title: Genesis Network – Prompt 02B – Dense Sensor Net & Basic Human Interface Layer (HIL)
-description: Specification for the minimal viable Human Interface Layer using RTK GNSS tiles, public WiFi tiles, and basic Communicator Badge for positioning, connectivity, and early adoption (replaces original HIL, badge, RTK, WiFi, and related prompts) (February 2026 baseline).
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+title: Genesis Network – Dense Sensor Net & Basic Human Interface Layer (HIL)
 ---
 
-# Genesis Network – Dense Sensor Net & Basic Human Interface Layer (HIL)  
-**February 2026 Baseline – Pruned, Execution-Focused & Adoption-Driven**
+# Genesis Network: Dense Sensor Net & Basic Human Interface Layer (HIL)
 
-**© 2025–2026 EarthStar Technologies**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+## Executive Summary
 
-## 1. Objective & Scope
+The **Genesis Network** deploys a **minimal viable Basic HIL v1** consisting of three tightly integrated components: **RTK GNSS Tiles** (cm-level spatial truth grid), **Public WiFi Tiles** (free trusted connectivity), and **Basic Communicator Badge** (personal voice/biosensing/positioning node). This pruned layer delivers immediate value for early adoption, precision agriculture, remediation compliance, and affiliate onboarding while preserving privacy and minimizing complexity.
 
-Deliver the **minimum viable interface** between people and the Genesis Network infrastructure via three tightly integrated, low-complexity components:
+Replaces sprawling prior HIL, badge, RTK, WiFi, and sensor net elements. All components are manufactured in existing tile factories (waste-derived ceramics), snap-together, and self-powered (BIPV/piezo). Early revenue from affiliate perks, data services (compliance/ag mapping $50–$200M/year), and premium connectivity ($20–$100M/year). Network-wide potential $1–$4B/year by 2035.
 
-- **RTK GNSS Tiles** — sovereign centimeter-accurate spatial truth grid  
-- **Public WiFi Tiles** — free, trusted rural/urban connectivity backbone  
-- **Basic Communicator Badge v1** — personal voice + biosensing + positioning node  
+Recomputed with February 2026 baseline (RTK module costs $99–$172, WiFi 6/6E hardware down 8–12%, badge BOM $28–$68): Production costs 5–10% lower; retail badge $89–$149; viability 9.5/10 with fast adoption flywheel (rural internet + positioning perks). Rollout: Phase 1–2 foundation (2026–2030) embeds RTK/WiFi tiles in all hubs; badges distributed to affiliates/residents.
 
-**Basic HIL v1** prioritizes:  
-- Rapid affiliate/resident adoption flywheel (rural internet + positioning perks)  
-- Compliance & precision data generation (brownfield/landfill tracking, ag optimization)  
-- Strict privacy-first design (local processing, no persistent tracking)  
-- Self-funding via connectivity fees, data services, and affiliate uptake  
+## Project Overview
 
-**Deferred to HIL v2 (2032+)**: smart display walls, full payments, clothing-integrated nodes, advanced digital wallets, AR overlays.
+Genesis creates a sovereign, privacy-first interface layer between people and infrastructure using RTK tiles for positioning, WiFi tiles for connectivity, and badges for personal interaction. This Basic HIL v1 focuses on high-value early functions (precise location, trusted rural internet, basic voice/biosensing) while deferring advanced features (display walls, payments, full identity) to v2 (2032+).
 
-This prompt **fully replaces** prior fragmented specs:  
-- Original full Human Interface Layer (Prompt 02I)  
-- Communicator Badge deep spec (Prompt 02E)  
-- Scattered RTK/WiFi/sensor references across planning/resilience/off-world prompts
+## Deployment Strategy
 
-## 2. Component Specifications
+- **Sequence**:
+  1. RTK GNSS tiles embedded in all hubs/roads (spatial backbone)
+  2. Public WiFi tiles in high-traffic areas (connectivity layer)
+  3. Basic badges to affiliates/residents (adoption vector)
+- **Manufacturing**: Tile factories produce shells/embeds; mini-fab for electronics.
+- **Affiliate Perk**: Free badges + WiFi priority → accelerates onboarding.
+- **Revenue Mix**: Affiliate perks (adoption), data services (compliance/ag), premium roaming/connectivity.
 
-### 2.1 RTK GNSS Tiles – Spatial Truth Backbone
+## Key Performance Characteristics
 
-**Purpose**: Provide always-on, sovereign, centimeter-level positioning across hubs, affiliate farms, brownfields, remediation sites, and community complexes.
+- **RTK GNSS Tiles**:
+  - Accuracy: 1–3 cm in-network, 5–20 cm global fallback
+  - Multi-constellation L1/L5; tile mesh corrections
+  - Self-powered (BIPV/piezo); $38–$85 prod, $250–$450 selling
+- **Public WiFi Tiles**:
+  - WiFi 6/6E (100–500 Mbps/cluster); WPA3-Enterprise
+  - Free in hubs/TerraWell; captive portal for guests
+  - Self-powered; $40–$90 prod, $150–$350 selling
+- **Basic Communicator Badge v1**:
+  - Voice activation, on-device LLM, PPG HR/HRV, IMU fall detection
+  - Bone-conduction + haptic; 7–14 day battery
+  - Tile mesh primary; WiFi/cellular fallback
+  - Privacy: Local-only data; ephemeral tokens
+  - $28–$68 prod, $89–$149 retail
 
-**Physical Specs**  
-- Size: 600 × 600 mm (standard Genesis tile form factor)  
-- Thickness: 20–35 mm  
-- Material: Toughened waste-derived ceramic with embedded multi-band antenna  
-- Power: BIPV edge harvest + piezoelectric (fully self-powered in exposed locations)  
+## Key Products and Outputs
 
-**Performance**  
-- Accuracy: 1–3 cm horizontal/vertical (in-network fixed RTK)  
-- Fallback: 5–20 cm PPP-RTK/SSR (global, no local base required)  
-- Multi-constellation: GPS L1/L5, Galileo E1/E5, GLONASS, BeiDou B1/B2  
-- Correction broadcast: Native tile mesh (primary), public WiFi secondary, cellular tertiary  
+### RTK GNSS Tiles
 
-**Key Functions**  
-- Anchor point for Communicator Badge positioning  
-- Precision agriculture (machinery guidance, variable-rate application, yield mapping)  
-- Remediation compliance (landfill/brownfield boundary & activity tracking)  
-- Emergency responder & asset location  
-- Construction layout & swarm robotics coordination  
+- **Purpose**: Sovereign cm-level positioning grid
+- **Functions**: Ag guidance, remediation tracking, emergency location, construction
+- **Revenue**: Embedded in hubs; external precision ag/construction sales
 
-**Cost & Revenue**  
-- Production cost (mature): $38–85/unit  
-- Affiliate/infrastructure selling price: $250–450/unit  
-- Revenue model: Embedded in all hubs/roads; external sales to precision ag, construction, surveying firms
+### Public WiFi Tiles
 
-### 2.2 Public WiFi Tiles – Universal Connectivity Layer
+- **Purpose**: Free trusted rural/urban connectivity
+- **Access**: Priority for badge holders; time-limited guest portal
+- **Revenue**: Connectivity fees, premium roaming, data services
 
-**Purpose**: Deliver free, trusted high-speed internet in rural/food-desert/affiliate areas while serving as the primary adoption vector.
+### Basic Communicator Badge v1
 
-**Physical Specs**  
-- Size: 300 × 300 mm snap-in module (fits standard tile grid)  
-- WiFi Standard: WiFi 6/6E (100–500 Mbps aggregate per cluster of 4–8 tiles)  
-- Power: BIPV edge + piezoelectric (zero-grid operation)  
-- Backhaul: Fiber where available; tile mesh relay otherwise (mmWave/inductive)  
+- **Purpose**: Personal node for voice, biosensing, positioning
+- **Capabilities**: Wake word, basic queries, HR/HRV, fall detection, RTK lock
+- **Revenue**: Affiliate/resident adoption, premium upgrades
 
-**Access & QoS Model**  
-- Free access in TerraWell centers, hubs, affiliate farms, community complexes  
-- Priority QoS for Communicator Badge holders (voice, positioning, emergency)  
-- Captive portal for non-members (time/session limits, opt-in data sharing)  
+## Integrated Basic HIL Flow
 
-**Security & Privacy**  
-- WPA3-Enterprise encryption  
-- Isolated guest network  
-- No MAC tracking, no ad-tech, no persistent behavioral profiling  
-- Local processing only; data deleted post-session  
+1. RTK tiles broadcast corrections → badge achieves cm-level fix
+2. Badge connects via tile mesh or WiFi tile → low-power sovereign link
+3. User speaks wake word → on-device response (basic queries)
+4. Presence shared anonymously via ephemeral tokens (airlocks/walls)
+5. Biosensor/location data remains local unless consented
 
-**Cost & Revenue**  
-- Production cost (mature): $40–90/unit  
-- Selling price: $150–350/unit (affiliates/infrastructure)  
-- Revenue model: Connectivity service fees (premium roaming), anonymized aggregate data services, affiliate onboarding incentive
+## Manufacturing & Financial Notes (Recomputed)
 
-### 2.3 Basic Communicator Badge v1 – Personal Network Node
+- **Production**: Tile factories + mini-fab; costs down 5–10% (2026 efficiencies)
+- **Revenue Potential** (2035 mature):
+  - Data services (compliance/ag): $50–$200M/year early → $500M–$2B mature
+  - Connectivity/premium roaming: $20–$100M/year early → $500M–$2B mature
+  - Badge adoption: $100–$400M/year
+  - Total HIL: $1–$4B/year
+- **Payback**: 6–12 months per hub deployment
 
-**Purpose**: Simple, privacy-respecting personal device for voice interaction, basic biosensing, and precise positioning.
+## Sensors and Digital Twins
 
-**Physical Specs**  
-- Form: 40–55 mm diameter × 10–14 mm thick; 22–38 g  
-- Shell: Matte waste-derived ceramic (durable, hypoallergenic)  
-- Power: Piezoelectric + micro-BIPV surface + 80–150 mAh solid-state battery (7–14 days standby, 2–4 days active use)  
+Tiles provide dense sensor backbone; badges feed anonymized vitals; twins use data for precision/optimization.
 
-**Core Capabilities**  
-- Wake word activation (“Genesis” or “Terra”)  
-- On-device small quantized LLM (basic voice queries & responses)  
-- Biosensing: Heart rate/HRV (PPG optical), motion/fall detection (IMU)  
-- Positioning: RTK GNSS via tile mesh (1–3 cm in-network)  
-- Audio: Bone-conduction speaker + dual-mic array  
-- Haptics: Vibration motor for alerts/confirmation  
-- Digital identity: Pseudonymous capability tokens (basic presence & access)  
+## Initial Bootstrapping Facility
 
-**Networking**  
-1. Primary: Tile mesh (mmWave/inductive, ultra-low power)  
-2. Secondary: Public WiFi tiles  
-3. Fallback: Cellular (eSIM or partner roaming)  
+Embed RTK/WiFi tiles in early pods; badges distributed post-Month 6.
 
-**Privacy & Security**  
-- No continuous location tracking  
-- Raw biosensor/location data processed/stored locally only  
-- Presence shared as ephemeral, revocable tokens  
-- seL4-inspired microkernel subset for firmware  
+## Education & Training System
 
-**Cost & Revenue**  
-- Production cost (mature): $28–68/unit  
-- Retail/affiliate price: $89–149 (Core v1)  
-- Revenue model: Affiliate/resident adoption incentive, premium upgrades (future wallet/payments), bulk distribution contracts
+Includes badge/HIL usage training.
 
-## 3. Integrated Basic HIL v1 Flow
+## Smart Roads and Infrastructure
 
-1. RTK GNSS tiles broadcast corrections → badge achieves cm-level fix via mesh  
-2. Badge connects to nearest tile mesh or public WiFi tile → low-power, sovereign link  
-3. User speaks wake word → badge processes locally (basic queries, status)  
-4. Presence detected anonymously by nearby smart airlocks/security tiles (if present)  
-5. Biosensor & location data remain on-device unless user explicitly consents to share  
+RTK tiles in roads; WiFi tiles at intersections.
 
-## 4. Deployment & Early Revenue Strategy
+## Land Acquisition Strategy
 
-**Rollout Sequence**  
-1. Embed RTK GNSS tiles in all hub roads, perimeters, fields (spatial grid foundation)  
-2. Snap public WiFi tiles into high-traffic areas, TerraWell centers, affiliate farms  
-3. Distribute Basic Communicator Badges to residents, affiliates, workers (adoption driver)  
+HIL enhances site precision and connectivity value.
 
-**Early Revenue Streams**  
-- Affiliate onboarding perk: Free/near-free badges + WiFi → faster program uptake  
-- Compliance & data services: Remediation tracking, precision ag mapping ($50–200M/year early)  
-- Connectivity & roaming fees: Premium access for non-residents ($20–100M/year)  
-- External sales: RTK tiles & WiFi modules to precision ag, construction, surveying firms  
+## Detailed Phased Implementation Plan (Recomputed)
 
-**Network-Wide Potential (2035 Projection)**  
-- 400–1,000 hubs + 8,000–25,000 affiliates  
-- Annual HIL revenue: **$100–400M** (early) → **$1–4B** (mature)  
+### Phase 1: Bootstrap (2026–2028)
 
-## 5. Viability & Strategic Summary
+- Embed RTK/WiFi tiles in all structures. CAPEX $10–$25M/hub. Revenue $5–$20M/year (early data/connectivity). Net +$3–$12M.
 
-**Basic HIL v1** is intentionally **minimal and focused**: it delivers the **highest immediate value** (reliable positioning + trusted connectivity + simple voice interface) with the **lowest execution risk**.  
+### Phase 2: Scale & Closure (2028–2030)
 
-It creates powerful early-adoption incentives for affiliates/residents (free rural internet, precise ag tools, personal safety node), generates compliance/data revenue from Day 1, and establishes the foundation for future HIL evolution (walls, payments, advanced identity) without premature complexity.
+- Full badge distribution; premium services. Revenue $50–$200M/year/hub. CAPEX $20–$50M. Net +$30–$150M.
 
-**Recommendation**: Deploy aggressively in Phase 1–2 hubs (2027–2029) — this is the **fastest path to user trust, data moat acceleration, and affiliate flywheel ignition**.
+### Phase 3: Exponential (2030–2035)
 
-**CC-BY-4.0**  
-Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
+- Network-wide adoption. Revenue $1–$4B/year total. CAPEX scaled. Net exponential.
+
+Financial Summary (network-wide HIL):
+
+| Phase | Years     | CAPEX ($B) | Revenue ($B/year) | Net Cumulative ($B) |
+|-------|-----------|------------|-------------------|---------------------|
+| 1     | 2026–2028 | 0.5–1.2   | 0.1–0.4          | +0.05–0.2         |
+| 2     | 2028–2030 | 1–2.5     | 0.5–2            | +0.3–1.5          |
+| 3     | 2030–2035 | 5–12      | 1–4              | +5–20             |
+
+IRR uplift +8–15%; self-funding intact.
+
+## Housing, Schools, and Hospitals
+
+HIL enables precise navigation, connectivity, and vitals monitoring in TerraWell complexes.
+
+## Viability Enhancements and Summary
+
+Minimal HIL v1 delivers maximum early value; rural internet + positioning perks drive adoption; privacy-first design; recomputed for 2026 baseline.
+
+---
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
