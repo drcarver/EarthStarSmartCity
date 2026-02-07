@@ -38,13 +38,13 @@ All LLCs self-fund post-bootstrap.
 | [Industrial Gases LLC](industrial-gases-llc.md)                                              | Scale & Closure        | 2028–2030      | 100–250        | 280–950                  | 168–760                     |
 | [Restoration Kits LLC](restoration-kits-llc.md)                                              | Scale & Closure        | 2028–2030      | 50–100         | 150–500 (credits/kits)   | 90–400                      |
 | [Infrastructure Recycling LLC](#infrastructure-recycling–llc.md)                             | Scale & Closure        | 2028–2030      | 50–100         | 250–700                  | 150–560                     |
-| [Nutrient Cycling LLC](#)                                                | Scale & Closure        | 2028–2030      | 50–100         | 150–450                  | 90–360                      |
-| [Smart Display Walls LLC](#)                                             | Scale & Closure        | 2028–2030      | 50–100         | 170–630 (per m²/year)    | 102–504                     |
-| [Communicator Badge LLC](#)                                              | Scale & Closure        | 2028–2030      | 50–150         | 0.8–6 (retail)           | 0.48–4.8                    |
-| [Grocery & Retail LLC](#)                                                | Scale & Closure        | 2028–2030      | 50–100         | 100–400                  | 60–320                      |
-| [Advanced Recycling LLC](#)                                              | Scale & Closure        | 2028–2030      | 100–250        | 200–500                  | 120–400                     |
-| [Battery & Storage LLC](#)                                               | Scale & Closure        | 2028–2030      | 150–300        | 195–660                  | 117–528                     |
-| [Vertical Urban Farming LLC](#)                                          | Scale & Closure        | 2028–2030      | 80–200         | 150–450                  | 90–360                      |
+| [Nutrient Cycling LLC](nutrient-cycling-llc.md)                                              | Scale & Closure        | 2028–2030      | 50–100         | 150–450                  | 90–360                      |
+| [Smart Display Walls LLC](smart–display–walls–llc.md)                                        | Scale & Closure        | 2028–2030      | 50–100         | 170–630 (per m²/year)    | 102–504                     |
+| [Communicator Badge LLC](communicator-badge-llc.md)                                          | Scale & Closure        | 2028–2030      | 50–150         | 0.8–6 (retail)           | 0.48–4.8                    |
+| [Grocery & Retail LLC](grocery-retail-llc.md)                                                | Scale & Closure        | 2028–2030      | 50–100         | 100–400                  | 60–320                      |
+| [Advanced Recycling LLC](advanced-recycling-llc.md)                                          | Scale & Closure        | 2028–2030      | 100–250        | 200–500                  | 120–400                     |
+| [Battery & Storage LLC](battery–storage–llc.md)                                              | Scale & Closure        | 2028–2030      | 150–300        | 195–660                  | 117–528                     |
+| [Vertical Urban Farming LLC](vertical-urban-farming-llc.md)                                  | Scale & Closure        | 2028–2030      | 80–200         | 150–450                  | 90–360                      |
 | [Robotics & Automation LLC](#)                                           | Exponential            | 2030–2035      | 150–350        | 200–600                  | 120–480                     |
 | [OceanNet LLC](#)                                                        | Exponential            | 2030–2035      | 2,400–4,800 (network-wide) | 60–135 (network-wide)    | 36–108 (network-wide)       |
 | [Advanced Fab LLC](#)                                                    | Exponential            | 2030–2035      | 100–200        | 150–300                  | 90–240                      |
