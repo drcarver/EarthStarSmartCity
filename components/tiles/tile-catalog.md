@@ -1,79 +1,61 @@
 ---
 layout: default
 title: Genesis Network – Tile Catalog
-description: Comprehensive catalog of all tiles in the Genesis Network, including descriptions, manufacturing details, inputs, materials, costs, revenues, project phase, and integration notes.
+description: Comprehensive catalog of all tiles in the Genesis Network, including manufacturing process, input sources, materials, production costs, selling prices, and revenue models; with a separate sensor list table and suggested file path (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Tile Catalog
+# Genesis Network: Tile Catalog
 
-The Tile Catalog encompasses all waste-derived, multi-functional ceramic tiles central to the Genesis Network's regenerative architecture. Manufactured in Tile & Pipe Production Pods/Factories, these tiles form the structural, intelligent, and productive backbone of hubs, cities, and off-world settlements, embedding power generation, sensing, networking, and storage for closed-loop efficiency.
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-## Tiles
+**Suggested File Path**: components/tiles/tile-catalog.md
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit mature) | Revenue/Value ($/unit or $/m²/year) | Project Phase |
-|--------------------|----------------------------|------------------|------------------------|-----------------------|-------------------------------------|---------------|
-| [Roof Glazing/Greenhouse](roof-glazing-greenhouse.md) | Semi-transparent BIPV (10–30%), AWG, sensors for daylighting/power/water | RHA silica, farm residues | Injection molding + firing + PV lamination | $3–6 | $10–18 or $150–300 (energy/water) | Phase 1–2 |
-| [Exterior Cladding](exterior-cladding.md) | Smart structural, AWG, strain sensors, piezo/solar | C&D slag, residues | Extrusion + embeds + firing | $2.5–5 | $8–15 or $100–200 (maintenance) | Phase 2 |
-| [Structural Load-Bearing](structural-load-bearing.md) | High-strength, piezo harvesting, structural sensors | ELFM slag, brownfield | Compression molding + piezo layers | $2–4 | $7–12 or $80–150 (durability) | Phase 1 |
-| [Insulating/Interior](insulating-interior.md) | Thermal mass, indoor AWG, micro-piezo | Bagasse pore-formers, residues | Aerated forming + channels | $2.5–5 | $8–15 or $100–200 (comfort) | Phase 2 |
-| [Permeable Roads/Paths](permeable-roads-paths.md) | Porous drainage, piezo/traffic sensors | C&D slag | Porous molding + embeds | $3–6 | $10–18 or $150–300 (drainage/energy) | Phase 1–3 |
-| [Foundation/Base](foundation-base.md) | Dense stability, piezo/pressure sensors | Brownfield slag | Dense molding + sensors | $2–4 | $7–12 or $80–150 (stability) | Phase 1 |
-| [Pure Server Compute](pure-server-compute.md) | RISC-V modules, hot-swappable for edge AI | Residues + electronics | Embed + pocket firing | $50–100 | $200–400 (leasing $50–100/year) | Phase 2–3 |
-| [Networking Snap/PoE Injector](networking-snap-poe-injector.md) | Inductive/mmWave data/power | Ceramic embeds | Lamination + waveguide | $40–80 | $150–300 (connectivity fees) | Phase 2 |
-| [Energy Storage & Thermal Battery](energy-storage-thermal-battery.md) | Sodium-ion + phase-change | ELFM slag | Composite molding | $80–150 | $300–550 (leasing $100–200/year) | Phase 2 |
-| [Smart Lighting & UV-C Disinfection](smart-lighting-uv-c-disinfection.md) | Tunable LEDs + UV-C, sensors | RHA silica | Embed + firing | $60–120 | $250–450 (health services $50–150/year) | Phase 2 |
-| [Security & Perimeter Monitoring](security-perimeter-monitoring.md) | mmWave/IR/acoustic sensors | C&D slag | Sensor embed + firing | $100–200 | $400–700 (contracts $80–200/year) | Phase 2–3 |
-| [Education & Telepresence Display](education-telepresence-display.md) | MicroLED + haptic/AR | Waste ceramic | Lamination + haptic | $150–300 | $550–1,000 (services $100–300/year) | Phase 2–3 |
-| [Retail & Dynamic Signage](retail-dynamic-signage.md) | Outdoor MicroLED + touch/AI | Farm residues | MicroLED + firing | $200–400 | $750–1,400 (ads $150–400/year) | Phase 2 |
-| [Waste Heat Recovery](waste-heat-recovery.md) | Thermoelectric + microchannels | Brownfield | Embed + firing | $70–140 | $280–500 (heat leasing $80–200/year) | Phase 2–3 |
+## Objective
 
-## Pods
+The tile catalog defines all modular, snap-together tiles used in the Genesis Network for construction, energy, security, and smart functions. All tiles are manufactured in **[Tile & Pipe Production Pods](components/pods/tile-pipe-production-pod.md)** using 70–95% waste-derived toughened ceramics, with blind-mate interconnects for power/data/thermal/water. They support smart city standards (**[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)**, IEEE 2030) and sustainable codes (**[ISO 14001](docs/standards/iso-14001-environmental.md)**, Cradle-to-Cradle). Tiles enable all-electric primary energy (sodium-ion storage, BIPV/piezo) with biogas methane backup.
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($M/pod mature) | Revenue/Value ($M/pod/year) | Project Phase |
-|--------------------|----------------------------|------------------|------------------------|-----------------------|-----------------------------|---------------|
-| [Tile & Pipe Production](../pods/tile-pipe-production.md) | Mass-produces all tiles; self-replicating | C&D slag, residues | Ceramic mixing + firing | $1–3 | $200–500 (tiles sales) | Phase 1 |
+## List of All Tiles (14 Total – 12 Core + 2 for Standards)
 
-## Kits
+| Tile Name                          | Manufacturing Process | Input Sources | Materials | Prod Cost ($/m² mature) | Selling Price ($/m²) | Revenue Model |
+|------------------------------------|-----------------------|---------------|-----------|--------------------------|----------------------|---------------|
+| **Roof Glazing (Semi-Transparent BIPV)** | Molding + lamination | RHA silica (80%) | Glass-ceramic + thin-film PV | 28–55 | 85–150 | Energy export, water credits |
+| **Exterior Cladding**              | Composite layering | C&D slag (70%) | Ceramic composite + PV layers | 25–48 | 75–130 | Premium façades, retail |
+| **Interior Insulating Partition**  | Aeration + channels | Residues, bagasse | Aerated ceramic + channels | 18–35 | 55–100 | Housing kits |
+| **Permeable Road / Path Tile**     | Porous molding + embeds | C&D slag (75%) | Porous ceramic + piezo embeds | 22–40 | 65–110 | Infrastructure contracts |
+| **Foundation / Base Tile**         | Dense molding + embeds | Brownfield slag (65%) | Dense ceramic + embeds | 16–27 | 48–78 | All construction |
+| **RTK GNSS Anchor Tile**           | Antenna embed + molding | Mini-Fab electronics | Ceramic with antenna embed | 38–85 | 250–450 | Precision ag/construction |
+| **Energy Storage & Thermal Tile**  | Casing assembly + embeds | Waste anodes | Ceramic casing + sodium-ion cells | 60–140 | 200–400 | Microgrid leasing |
+| **Basic Security & Monitoring Tile** | Sensor embed + molding | Mini-Fab sensors | Ceramic with mmWave/IR | 80–160 | 250–450 | Security contracts |
+| **Smart Airlock Module Tile**      | Module pocket + embed | Electronics + ceramic | Ceramic module pocket | 80–200 (per unit) | 300–700 (per unit) | Compliance & safety |
+| **Canopy Microclimate Tile**       | Channel molding + mounts | Residues | Ceramic with channels | 30–60 | 90–150 | Vertical ag kits |
+| **Bee Activity Tile**              | Porous molding + sensors | Ceramic + sensors | Porous ceramic + embeds | 25–50 | 80–130 | Honey/credits |
+| **Basic Networking Snap Tile**     | Embed molding + mesh | Ceramic embeds | Ceramic with Faraday mesh | 40–80 | 150–300 | Connectivity services |
+| **Standards Compliance Tile**      | Audit embed + molding | Sensors + blockchain | Ceramic + verifiers | 45–90 | 150–350 | Credits/audits |
+| **Sustainable Code Tile**          | Eco-metrics embed + molding | Waste-derived | Ceramic + ISO embeds | 35–70 | 100–250 | Green building credits |
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit or $/year) | Project Phase |
-|--------------------|----------------------------|------------------|------------------------|--------------|----------------------------------|---------------|
-| [Smart Airlock Kit](../kits/smart-airlock-kit.md) | Scans for weapons/explosives/pathogens; alerts security | Electronics, ceramic | Assembly + sensor embeds | $50K–150K | $200K–500K (security leasing) | Phase 1–2 |
+## Financials for Tile Catalog (Network-Wide, Recomputed February 2026 Baseline)
 
-## Sensors
+- **Manufacturing CAPEX**: $80–$180M/hub (tile factories; down 5–10% via all-electric efficiencies).
+- **Production Costs**: Average $40–$80/m² (waste-derived; volumes 1M+ m²/year/hub).
+- **Selling Prices**: Average $150–$300/m² (premiums +20–30% for smart/sustainable features).
+- **Annual Revenue**: $150–$450M/year/hub (internal 40–50%, affiliate/external 50–60%; margins 60–80%).
+- **Revenue Uplift**: +10–15% ($15–$68M/year/hub) from standards compliance/green credits.
+- **IRR Contribution**: +8–12% to network (overall 35–50%).
+- **Timeline**: Phase 1 production 2027–2028; mature 2030+ (accelerated 3–6 months via all-electric simplicity).
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/unit) | Revenue/Value ($/unit or $/year) | Project Phase |
-|--------------------|----------------------------|------------------|------------------------|---------------|-----------------------------------|---------------|
-| [mmWave/Hyperspectral Scanner](../../docs/sensors/mmwave-hyperspectral-scanner.md) | Weapons/explosives/pathogen detection in airlocks | Electronics | Embed in tiles | $50–100 | Included in kit revenue | Phase 1–2 |
+## Detailed Sensor List in a Separate Table
 
-## Standards & Compliance
+All tiles embed sensors for monitoring, compliance, and optimization; data feeds **[digital twins](docs/digital-twins.md)**.
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost (N/A) | Revenue/Value (N/A) | Project Phase |
-|--------------------|----------------------------|------------------|------------------------|------------|---------------------|---------------|
-| [ISO/TC 268 Smart Cities](../../docs/standards/iso-tc-268-smart-cities.md) | Urban sustainability/integration | N/A | Compliance in design | N/A | Enhanced credits/adoption | Phase 1+ |
-| [IEEE 2030 Smart Grid](../../docs/standards/ieee-2030-smart-grid.md) | Energy interoperability | N/A | Embed in tiles/pods | N/A | Energy leasing revenue | Phase 1+ |
-| [ISO 14001 Environmental](../../docs/standards/iso-14001-environmental.md) | Sustainable management | N/A | Waste-derived processes | N/A | Credits/certification value | Phase 1+ |
-| [Matter/Thread IoT](../../docs/standards/matter-thread-iot.md) | Device connectivity | N/A | Networking tiles | N/A | Connectivity fees | Phase 2+ |
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Strain/Vibration             | Structural integrity monitoring | All structural tiles; IEEE 1451 | Piezo + ceramic | 30–60 | Maintenance savings +$50–150M/hub/year |
+| Temperature/Humidity         | Environmental control | **[Canopy Microclimate Tile](components/tiles/canopy-microclimate-tile.md)**; ISO 14001 | Waste-derived | 20–50 | Yield optimization +$40–120M/hub/year |
+| mmWave/Hyperspectral         | Security/threat detection | **[Smart Airlock Module Tile](components/tiles/smart-airlock-module-tile.md)**; Matter/Thread | Electronics + ceramic | 80–200 | Compliance revenue +$100–300M/hub/year |
+| RTK GNSS Receiver            | Precision positioning | **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)**; ITU-T Y.4900 | Ceramic + antenna | 38–85 | Navigation services +$50–$150M/hub/year |
+| Eco-Metrics (CO₂/Flux)       | Sustainability tracking | **[Sustainable Code Tile](components/tiles/sustainable-code-tile.md)**; ISO/TC 268 | Gas sensors + ceramic | 45–90 | Green credits +$30–$80M/hub/year |
 
-## Related / Supporting LLCs in the Innovation Hub
-
-- [Ceramic Tile Production LLC](../../innovation-hub/ceramic-tile-production-llc.md)  
-- [Smart Infrastructure LLC](../../innovation-hub/smart-infrastructure-llc.md)  
-- [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md)  
-- [Security & Surveillance LLC](../../innovation-hub/security-surveillance-llc.md)  
-- [Education & Telepresence LLC](../../innovation-hub/education-telepresence-llc.md)  
-- [Retail & Dynamic Signage LLC](../../innovation-hub/retail-dynamic-signage-llc.md)  
-- [Waste Heat Recovery LLC](../../innovation-hub/waste-heat-recovery-llc.md)  
-
-**Financials**: Network-wide tile revenues $500–1,500B/year mature (60–80% margins); costs reduced 15–25% via efficiencies; IRR +10–20% uplift from smart features/standards compliance.
-
-**Project Phase**: Phase 1 (2027–2029) for core tiles; Phase 2–3 (2030+) for advanced/smart variants.
-
-**Suggested File Path**: tile-catalog.md
-
-## Viability & Integration Notes
-
-The Tile Catalog is foundational to Genesis viability, enabling rapid, modular construction with embedded intelligence for energy, sensing, and networking. Integration with pods/kits (e.g., Tile Production Pod) ensures self-replication; smart airlocks enhance security/compliance. High margins (tiles $2–400/unit cost, $7–1,400 revenue) drive self-funding; standards support global adoption. Risks minimal (waste-derived durability); +20–40% viability from data moat optimizations.
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
