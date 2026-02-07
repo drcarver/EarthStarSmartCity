@@ -53,41 +53,6 @@ Sensors embedded in all tiles/pods/kits for monitoring, compliance, and optimiza
 
 **Handbook Notes**: All sensors waste-derived where possible; Faraday mesh for EMP; AI/data moat for predictive alerts. Viability +10–20% (reduced downtime 20–30%); off-world extensible (radiation-hardened variants).
 
-## List of LLCs in the Innovation Hub
-
-1. Regenerative Hubs LLC  
-2. TerraFab Manufacturing LLC  
-3. TerraWell FreeCare LLC (nonprofit)  
-4. Smallholder Partnership Co-op LLC  
-5. Industrial Gases LLC  
-6. Restoration Kits LLC  
-7. Robotics & Automation LLC  
-8. Infrastructure Recycling LLC  
-9. OceanNet LLC  
-10. Energy Systems LLC  
-11. Water Sovereignty LLC  
-12. Nutrient Cycling LLC  
-13. Advanced Fab LLC  
-14. OS & Software LLC  
-15. Smart Display Walls LLC  
-16. Communicator Badge LLC  
-17. Grocery & Retail LLC  
-18. Mining & Recycling LLC  
-19. Forestry LLC  
-20. Maritime & Ports LLC  
-21. High-Speed Rail LLC  
-22. Advanced Recycling LLC  
-23. Hydrogen Production LLC  
-24. Battery & Storage LLC  
-25. Bio-Materials & Textiles LLC  
-26. Vertical Urban Farming LLC  
-27. Autonomous Mobility LLC  
-28. Water Purification & Desalination LLC  
-29. Sustainable Energy LLC  
-30. Regenerative Pharmaceuticals LLC  
-31. Sustainable Mining LLC  
-32. Lights-Out Sustainable Forestry LLC  
-
 ## Suggestions to Enhance Viability and Reduce Bottlenecks (Implemented)
 
 1. **AI-Optimized Production**: Data moat for tile/kit yields (+15–25% efficiency; bottleneck reduction via predictive maintenance).
