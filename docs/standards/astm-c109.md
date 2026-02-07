@@ -1,66 +1,45 @@
 ---
 layout: default
-title: ASTM C109 – Standard Test Method for Compressive Strength of Hydraulic Cement Mortars
-description: Genesis Network implementation reference for ASTM C109 in ceramic tile and structural composite quality control.
+title: Genesis Network – ASTM C109 Standard Integration
+description: Detailed document on the integration of **ASTM C109** standard for compressive strength testing of hydraulic cement mortars in Genesis Network ceramic tiles and construction materials, including compliance, testing methods, sensor list for quality control, suggested file path, and recomputed financials (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# ASTM C109 – Compressive Strength of Hydraulic Cement Mortars  
-**Genesis Network Application Reference**
+# Genesis Network: **ASTM C109** Standard Integration
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-### Executive Overview
+**Suggested File Path**: docs/standards/astm-c109.md
 
-ASTM C109 is the primary compressive strength test method adopted across the Genesis Network for quality assurance of toughened ceramic tiles, structural composites, and load-bearing elements. It ensures all tiles and mortars meet or exceed 60–100+ MPa requirements for structural integrity, munitions resistance (8–9/10 rating), and long-term durability in hubs, pods, roads, and off-world applications. The test is performed on-site and in Mini-Fabs using standardized 2-inch cube specimens, supporting rapid iteration and certification for market-ready tiles. Revenue role: enables premium pricing ($48–$125/m²) and compliance credits; critical for infrastructure contracts and sovereign compute tile production.
+## Objective
 
-### Components Used or Produced in Genesis Network
+**ASTM C109** (Standard Test Method for Compressive Strength of Hydraulic Cement Mortars Using 2-in. or [50 mm] Cube Specimens) is integrated into the Genesis Network to ensure the structural integrity and compliance of waste-derived toughened ceramic tiles and hybrid materials used in **[foundation tiles](components/tiles/foundation-base-tile.md)**, **[exterior cladding](components/tiles/exterior-cladding.md)**, and **[permeable road tiles](components/tiles/permeable-road-path-tile.md)**. This standard verifies compressive strengths (60–100+ MPa) for modular construction, supporting **[ISO 14001](docs/standards/iso-14001-environmental.md)** sustainability and smart city codes.
 
-#### Tiles (Relevant Only)
+## Key Integration & Compliance Details
 
-| Name (Linked)                              | Description & Key Features                              | Inputs/Materials                          | Manufacturing Process                     | Cost ($/m²) | Revenue/Value ($/m² or other) |
-|--------------------------------------------|---------------------------------------------------------|-------------------------------------------|-------------------------------------------|-------------|-------------------------------|
-| [Structural Load-Bearing Tile](components/tiles/structural-load-bearing-tile.md) | 60–100+ MPa compressive, piezo-embedded, strain sensors | ELFM slag (70%), brownfield residues      | Forming → drying → 1,200–1,400°C firing → embedding | 16–28       | 48–75 (selling)               |
-| [Foundation/Base Tile](components/tiles/foundation-base-tile.md) | High compressive base layer, piezo/pressure sensors     | Brownfield slag (65%)                     | Dense ceramic forming + piezo embeds      | 14–24       | 42–68                         |
-| [Permeable Road Tile](components/tiles/permeable-road-tile.md) | Load-bearing permeable surface, piezo/traffic sensors   | C&D slag (75%)                            | Porous ceramic + piezo embeds             | 20–34       | 57–92                         |
+- **Application in Genesis**: **ASTM C109** testing applied to ceramic composites (C&D slag + RHA silica) during manufacturing in **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)**; ensures tiles meet MIL-STD-810G durability for resilience.
+- **Testing Methods**: Cube specimens molded from ceramic mixtures; cured 28 days; compressive load applied via hydraulic press; results fed to **[digital twins](docs/digital-twins.md)** for optimization.
+- **Modifications for Ceramics**: Hybrid with ASTM C469 (modulus of elasticity) for toughened materials; waste-derived binders tested for 70–95% recycled content.
+- **Benefits**: Verifies net-positive structures; enables green building credits (+$50–$150M/hub/year); reduces failure risks in disasters.
 
-#### Pods (Relevant Only)
+## Recomputed Financials for Standard Compliance (Network-Wide, February 2026 Baseline)
 
-| Name (Linked)                              | Description & Key Features                              | Inputs/Materials                          | Manufacturing Process                     | Cost ($/pod) | Revenue/Value ($/pod) |
-|--------------------------------------------|---------------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------|------------------------|
-| [Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md) | On-site tile manufacturing with kilns & quality control | Slag, RHA, residues                       | Pod cluster → tent kilns → permanent retrofit | 0.8–2.0M     | 1.5–3.5M (transfer)    |
+- **CAPEX Impact**: $20–$50M additional for testing equipment/presses (integrated into **[TerraFab Manufacturing LLC](innovation-hub/terrafab-manufacturing-llc.md)**); offset by 10–15% material efficiencies.
+- **OPEX**: 5–10% of tile production costs ($10–$30M/year/hub for testing); reduced via AI automation.
+- **Revenue Uplift**: +$100–$300M/year/hub from premium certified tiles (margins +15–25% via compliance premiums); credits $150–$250/tCO₂e.
+- **IRR Contribution**: +3–5% to network (overall 35–50%).
+- **Timeline**: Compliance pilots 2028–2030; full integration 2031+ (no delays; enhances market access).
 
-#### Kits (Relevant Only)
+## List of Sensors in a Separate Table (for **ASTM C109** Testing & Quality Control)
 
-None – ASTM C109 is a test method, not directly tied to kit production. Quality control cubes are molded during tile kit deployment but not a separate kit.
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Strain Gauge                 | Measures compressive load/deformation during tests | Embedded in press; ASTM C109 | Piezo + ceramic | 30–60 | Accuracy +$20–$50M/hub/year (reduced defects) |
+| Pressure Transducer          | Monitors hydraulic press force | Test equipment; ISO 14001 | Electronics + ceramic | 50–100 | Compliance credits +$30–$80M/hub/year |
+| Temperature/Humidity         | Ensures curing conditions | Chamber embeds; IEEE 1451 | Waste-derived | 20–50 | Quality optimization +$40–$120M/hub/year |
+| Acoustic Emission            | Detects cracks/failures | Specimen-mounted; ITU-T Y.4900 | Microphone + ceramic | 40–80 | Predictive maintenance +$50–$150M/hub/year |
+| Digital Image Correlation    | Non-contact strain mapping | Camera-based; ISO/TC 268 | Optics + ceramic | 100–200 | R&D efficiencies +$50–$100M/hub/year |
 
-#### Sensors (Relevant Only)
-
-| Name (Linked)                              | Description & Key Features                              | Placement / Integration                   | Redundancy | Cost Contribution | Value Contribution |
-|--------------------------------------------|---------------------------------------------------------|-------------------------------------------|------------|-------------------|--------------------|
-| [Strain / Vibration Sensors](docs/sensors/strain-vibration-sensors.md) | Monitor compressive load & structural health            | Embedded in load-bearing tiles            | 5×         | $0.5–1.50/m²      | Compliance & predictive maintenance value |
-| [Pressure Sensors](docs/sensors/pressure-sensors.md) | Foundation/base tile load distribution                  | Base/foundation tiles                     | 5×         | $0.4–1.20/m²      | Safety & certification data |
-
-#### Standards & Compliance (Relevant Only)
-
-- **[ASTM C109](docs/standards/astm-c109.md)** – Primary compressive strength test (2-inch cubes, 7/28-day breaks)  
-- ASTM C216 (facing brick), ASTM C1405 (glazed units), EN 14411 (ceramic tiles) – Supporting structural standards  
-- ISO 14001 (environmental management) – Quality & sustainability reporting  
-- MIL-STD-810 (environmental ruggedness) – Munitions/impact resistance validation
-
-#### Related / Supporting LLCs in the Innovation Hub
-
-- [Tile & Pipe Production LLC](innovation-hub/tile-pipe-production-llc.md) – Direct manufacturer  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md) – Slag feedstock supply  
-- [Sustainable Mining LLC](innovation-hub/sustainable-mining-llc.md) – Critical mineral sourcing (restricted)  
-- [Ceramic Composite R&D LLC](innovation-hub/ceramic-composite-rnd-llc.md) – Material formulation (implied core LLC)
-
-**Project Phase**: Ongoing (2026–2076+); ASTM C109 testing mandatory from pilot phase (2026–2028) onward.
-
-### Viability & Integration Notes
-
-ASTM C109 is foundational to Genesis structural integrity and market credibility. Daily on-site testing during tile production ensures rapid feedback to material recipes via the data moat. Integration with 3–5× redundant strain/vibration sensors enables predictive maintenance and real-time compliance reporting. High compressive strength (60–100+ MPa) supports premium pricing and infrastructure contracts while enabling off-world applications (lunar regolith sintering, Mars habitat bases). No significant bottlenecks; test is low-cost, standardized, and fully automatable.
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
