@@ -19,15 +19,15 @@ The **Smart Airlock Kit** provides modular, snap-in secure entry systems for all
 ## Key Features & Integration
 
 - **Detection Capabilities**: mmWave body scanner for concealed objects; hyperspectral camera for anomalies; IMS/Raman trace detectors for explosives/narcotics.
-- **Operation**: Mantrap double-door interlock (2–4 s normal entry); lockdown on threat + silent alert to **[Basic Security & Monitoring Tile](components/tiles/basic-security-monitoring-tile.md)** and security team.
+- **Operation**: Mantrap double-door interlock (2–4 s normal entry); lockdown on threat + silent alert to **[Basic Security & Monitoring Tile](../tiles/basic-security-monitoring-tile.md)** and security team.
 - **Disinfection**: Far-UVC cycle for pandemic resilience.
-- **Integration**: Blind-mate to **[Exterior Cladding](components/tiles/exterior-cladding.md)** or **[Interior Insulating Partition](components/tiles/interior-insulating-partition.md)**; feeds **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** and **[digital twins](docs/digital-twins.md)** for incident mapping; supports **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)** for location precision.
-- **Standards Compliance**: **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** (smart city security), IEEE 2030 (interoperability), ITU-T Y.4900 (IoT), Matter/Thread (networking); sustainable codes via waste-derived ceramics (**[ISO 14001](docs/standards/iso-14001-environmental.md)**, Cradle-to-Cradle).
+- **Integration**: Blind-mate to **[Exterior Cladding](../tiles/exterior-cladding.md)** or **[Interior Insulating Partition](../tiles/interior-insulating-partition.md)**; feeds **[Dense Sensor Net Kit](dense-sensor-net-kit.md)** and **[digital twins](../../docs/digital-twins.md)** for incident mapping; supports **[RTK GNSS Anchor Tile](../tiles/rtk-gnss-anchor-tile.md)** for location precision.
+- **Standards Compliance**: **[ISO/TC 268](../../docs/standards/iso-tc-268.md)** (smart city security), IEEE 2030 (interoperability), ITU-T Y.4900 (IoT), Matter/Thread (networking); sustainable codes via waste-derived ceramics (**[ISO 14001](docs/standards/iso-14001.md)**, Cradle-to-Cradle).
 - **All Buildings Requirement**: Mandatory in every structure (hubs, pods, housing, retail) for unified security.
 
 ## Manufacturing Process
 
-- Location: **[Tile & Pipe Production Pods](components/pods/tile-pipe-production-pod.md)** → permanent tile factories.
+- Location: **[Tile & Pipe Production Pods](../pods/tile-pipe-production-pod.md)** → permanent tile factories.
 - Inputs: 70–95% waste-derived (C&D slag, RHA silica, farm residues).
 - Materials: Toughened ceramic shell + reinforced glass doors + embedded electronics/sensors.
 - Process: Ceramic injection molding → sensor/camera lamination → blind-mate socket integration → final firing/QC.
