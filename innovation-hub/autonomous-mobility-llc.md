@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Genesis Network – Autonomous Mobility LLC
-description: Detailed specification for **Autonomous Mobility LLC** in the Genesis Network innovation hub, incorporating **robotaxis** leased or purchased from Tesla, **Tesla Superchargers** (rebranded) for charging, and **Tesla Semi** for transport where necessary (February 2026 baseline).
+description: Detailed specification for the **Autonomous Mobility LLC** in the Genesis Network innovation hub, focusing on robotaxis (leased/bought from Tesla), rebranded Tesla Superchargers for charging, Tesla Semi for transport where needed, and Tesla's vision-only autonomy approach (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
@@ -12,58 +12,57 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-**Autonomous Mobility LLC** develops, deploys, and operates a fully electric autonomous transportation system within the Genesis Network, prioritizing **robotaxis** leased or purchased from Tesla for passenger mobility, **Tesla Superchargers** (rebranded as Genesis Charging Stations) for charging infrastructure, and **Tesla Semi** for freight transport where needed. This LLC eliminates hydrogen dependency in mobility, leveraging the Network's **[battery & storage tiles](components/tiles/energy-storage-thermal-tile.md)** and **[permeable road tiles](components/tiles/permeable-road-path-tile.md)** with inductive charging embeds for seamless, zero-emission movement.
+The **Autonomous Mobility LLC** develops and operates the transportation backbone for the Genesis Network, providing efficient, zero-emission mobility within hubs, between hubs, and to affiliate sites. It leverages Tesla's proven autonomous technology, fleet vehicles, and charging infrastructure to minimize development risk and accelerate deployment.
 
-The system integrates with **[smart roads](components/tiles/permeable-road-path-tile.md)** and **[high-speed rail extensions](innovation-hub/high-speed-rail-transport-llc.md)**, supporting hub-to-hub, intra-city, and affiliate farm connectivity. All vehicles and charging infrastructure are electric-first, with biogas methane as emergency backup only (e.g., remote generator fallback).
+This LLC assumes all robotaxis are **bought or leased from Tesla**, all charging uses rebranded **Tesla Superchargers**, and heavy transport (where necessary) uses **Tesla Semi**. All systems follow Tesla's vision-only autonomy approach (camera-based, no lidar/radar dependency) for consistency and cost efficiency.
 
 ## Key Functions & Synergies
 
-- **Robotaxi Fleet**: Tesla-sourced vehicles (leased/purchased) for passenger transport in hubs, residential zones, and TerraWell centers.
-- **Rebranded Tesla Superchargers**: Genesis-branded charging stations deployed along **[smart roads](components/tiles/permeable-road-path-tile.md)** and in plazas; inductive charging embeds in roads for dynamic charging.
-- **Tesla Semi for Transport**: Used for heavy freight (e.g., tiles, produce, gases) between hubs and affiliates where inductive road charging is insufficient.
-- **Synergies**:
-  - Power from **[sustainable energy LLC](innovation-hub/sustainable-energy-llc.md)** and **[battery & storage LLC](innovation-hub/battery-storage-llc.md)**.
-  - Data from **[dense sensor net kit](components/kits/dense-sensor-net-kit.md)** and **[communicator badge](innovation-hub/communicator-badge-llc.md)** for traffic optimization.
-  - Integration with **[autonomous mobility pods](components/pods/autonomous-mobility-pod.md)** for last-mile delivery.
+- **Robotaxi Fleet**: Autonomous passenger transport within hubs and to/from nearby affiliates/residents.
+- **Tesla Semi Transport**: Heavy freight between hubs, ports, and warehouses (where battery range/weight suits better than smaller electric vehicles).
+- **Charging Infrastructure**: Rebranded **Tesla Superchargers** integrated with **[permeable road tiles](components/tiles/permeable-road-path-tile.md)** for inductive charging where feasible.
+- **Synergies**: Integrates with **[High-Speed Rail LLC](innovation-hub/high-speed-rail-transport-llc.md)** for long-range; feeds data to **[OS & Software LLC](innovation-hub/os-software-llc.md)** for traffic optimization; uses **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)** for enhanced positioning accuracy; supports **[Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md)** robotaxi fleet operations.
 
-## Manufacturing & Infrastructure
+## Core Technologies & Assumptions
 
-- **Vehicle Sourcing**: Tesla robotaxis and **Tesla Semi** leased or purchased (bulk contracts negotiated via **Autonomous Mobility LLC**).
-- **Charging Infrastructure**: Tesla Superchargers rebranded (Genesis branding applied post-purchase); inductive charging embedded in **[permeable road tiles](components/tiles/permeable-road-path-tile.md)**.
-- **Manufacturing**: Tiles and charging embeds produced in **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** → permanent factories.
-- **Inputs**: 70–95% waste-derived ceramics (C&D slag, RHA silica); Tesla vehicles sourced externally.
-- **Materials**: Ceramic for charging stations/road embeds; Tesla battery/electric drivetrains.
-- **New Kit**: **Electric Charging Infrastructure Kit** (inductive pads, rebranded Supercharger modules; $200k–$400k cost, $400k–$800k selling).
+- **Autonomy**: Tesla vision-only (cameras + neural nets); no lidar/radar. Fleet uses Tesla FSD software stack.
+- **Vehicles**:
+  - Robotaxis: Tesla Model Y or Cybercab equivalents (bought/leased).
+  - Heavy transport: **Tesla Semi** (leased/bought) for inter-hub freight.
+- **Charging**: Rebranded **Tesla Superchargers** (V4 or later) on hub premises; inductive charging embedded in roads where viable.
+- **Power Source**: Primarily electric from **[Battery & Storage LLC](innovation-hub/battery-storage-llc.md)** sodium-ion tiles and **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** microgrids; biogas methane backup for charging stations during extended low-solar periods.
 
-## Smart Airlocks & Standards Compliance
+## Manufacturing & Infrastructure Integration
 
-- All charging stations, vehicle depots, and related buildings use **[smart airlock module tiles](components/tiles/smart-airlock-module-tile.md)** with mmWave/hyperspectral + trace detectors for weapons/explosives scanning; alerts security via **[dense sensor net](components/kits/dense-sensor-net-kit.md)**.
-- Compliance: ISO/TC 268 (smart city), IEEE 2030 (smart grid), ITU-T Y.4900 (IoT), Matter/Thread (security), ISO 14001 (sustainable building codes).
+- **Vehicles**: No in-house production; all purchased/leased from Tesla.
+- **Charging Stations**: Rebranded Tesla Superchargers (Genesis branding applied); installed in hub parking zones and along smart roads.
+- **Road Integration**: Inductive charging lanes in **[permeable road tiles](components/tiles/permeable-road-path-tile.md)** for dynamic charging of robotaxis/Tesla Semi.
+- **Standards Compliance**: Aligns with ISO/TC 268 (smart city mobility), IEEE 2030 (smart grid), and Tesla FSD safety certifications.
 
 ## Recomputed Costs & Revenues (per Mature Hub, February 2026 Baseline)
 
-- **CAPEX**: $150–$350M (down 10–15% from hydrogen elimination; Tesla vehicle leases offset initial fleet costs).
-- **OPEX**: 25–35% of revenue (automation + inductive efficiency).
-- **Production/Lease Cost**: Robotaxis $30k–$50k/unit leased; **Tesla Semi** $150k–$250k/unit; charging stations $50k–$100k/unit.
-- **Selling/Revenue Price**: Ride fees $0.50–$1.50/km; freight $0.10–$0.30/km; charging $0.20–$0.40/kWh (premium for Genesis users).
-- **Annual Revenue**: $200–$600M (robotaxi rides 50%, freight 20%, charging 20%, leasing 10%; margins 65–85%).
-- **Revenue Uplift from Enhancements**: +15–25% ($30–$150M/year) via inductive road charging (dynamic power) and affiliate integration.
-- **IRR Contribution**: +8–12% to network (overall 38–55%).
-- **Timeline**: Pilots 2028–2030; mature fleet/charging 2031–2035 (accelerated 6 months via Tesla partnership).
+- **CAPEX**: $150–$350M (fleet leasing, charging stations, inductive road embeds; down 10–15% via Tesla volume pricing).
+- **OPEX**: 25–35% of revenue (maintenance, energy, leasing fees).
+- **Fleet Costs**: Robotaxi lease ~$1,000–$1,500/month per vehicle; Tesla Semi ~$2,500–$4,000/month per unit.
+- **Charging Infrastructure**: $200k–$500k per Supercharger station; inductive road embeds $50–$100/m².
+- **Annual Revenue**: $200–$600M (robotaxi fares 60%, freight transport 25%, charging fees 15%; margins 50–70%).
+- **Revenue Uplift from Enhancements**: +10–20% ($20–$120M/year) via Tesla FSD data sharing for **[OS & Software LLC](innovation-hub/os-software-llc.md)** optimization and affiliate transport services.
+- **IRR Contribution**: +5–8% to network (overall 35–50%).
+- **Timeline**: Pilots 2028–2030; mature operations 2031–2035 (accelerated 6 months via Tesla partnership).
 
-## Detailed Sensor Handbook (for Autonomous Mobility LLC)
+## Detailed Sensor Handbook for Mobility Operations
 
-Sensors embedded in vehicles, charging stations, and roads for safety, navigation, and compliance.
+Sensors integrated into robotaxis, Tesla Semi, charging stations, and smart roads; support Tesla vision-only autonomy while enhancing safety, compliance, and optimization.
 
 | Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
 |------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
-| LiDAR + Radar                | Obstacle detection, mapping | Tesla robotaxi/ Semi integration; IEEE 2030 | Electronics + ceramic housing | 500–1,000 | Safety credits +$50–150M/hub/year |
-| RTK GNSS                     | Centimeter positioning | **[RTK GNSS anchor tiles](components/tiles/rtk-gnss-anchor-tile.md)**; ITU-T Y.4900 | Mini-Fab + ceramic | 38–85 | Precision routing +$30–80M/hub/year |
-| mmWave/Hyperspectral (Airlock) | Threat scanning at depots | **[Smart airlock kits](components/kits/smart-airlock-kit.md)**; Matter/Thread | Electronics + ceramic | 80–200 | Security contracts +$100–300M/hub/year |
-| Inductive Charging Sensors   | Dynamic power transfer monitoring | Embedded in **[permeable road tiles](components/tiles/permeable-road-path-tile.md)**; ISO/TC 268 | Piezo + ceramic | 50–100 | Efficiency savings +$20–60M/hub/year |
-| V2X Communication            | Vehicle-to-infrastructure | Tesla V2X + tile mesh | Electronics | 100–200 | Traffic optimization +$40–100M/hub/year |
+| Camera Array (Vision-Only)   | Tesla FSD cameras for object detection, lane keeping | Vehicle-mounted; Tesla FSD stack | Tesla-supplied | Included in vehicle | Core autonomy; no additional cost |
+| RTK GNSS Receiver            | Centimeter-level positioning for precision docking/charging | Embedded in **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)** + vehicle | Ceramic + antenna | 38–85 | Enhanced navigation +$50–$150M/hub/year |
+| mmWave Radar (Backup)        | Short-range obstacle detection (optional redundancy) | Vehicle/road tiles; IEEE 2030 | Mini-Fab electronics | 80–160 | Safety redundancy +$30–$80M/hub/year |
+| LiDAR (Future Optional)      | High-res 3D mapping (if vision-only limits reached) | Roof-mounted; ISO/TC 268 | Electronics + ceramic | 200–400 | Advanced mapping +$20–$60M/hub/year |
+| V2X Communication            | Vehicle-to-infrastructure (charging, traffic) | Inductive/mmWave in roads | Ceramic + antennas | 40–80 | Efficiency gains +$50–$100M/hub/year |
 
-**Handbook Notes**: All sensors waste-derived where possible; data feeds **[digital twins](docs/digital-twins.md)** for predictive routing; viability +10–15% (reduced accidents 20–30%, higher utilization).
+**Handbook Notes**: Vision-only primary (Tesla approach); RTK GNSS enhances accuracy; all data feeds **[OS & Software LLC](innovation-hub/os-software-llc.md)** for optimization. Off-world extensible (radiation-hardened variants).
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
