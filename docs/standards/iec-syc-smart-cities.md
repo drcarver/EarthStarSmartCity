@@ -1,73 +1,57 @@
 ---
 layout: default
-title: IEC SyC Smart Cities – Genesis Network Integration Specification
-description: Concise spec sheet detailing Genesis Network components aligned with IEC SyC Smart Cities electrotechnical standards.
+title: Genesis Network – IEC SyC Smart Cities
+description: Detailed alignment and implementation of IEC SyC Smart Cities standards in the Genesis Network, including system architecture, integration with tiles/pods/kits, compliance strategies, sensor list, and recomputed financial impacts (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# IEC SyC Smart Cities  
-**Genesis Network Integration Specification**  
-**Earth-Star Industries – January 2026 Baseline**
+# Genesis Network: **IEC SyC Smart Cities**
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-### Executive Overview
+**Suggested File Path**: docs/standards/iec-syc-smart-cities.md
 
-IEC SyC Smart Cities provides the electrotechnical framework for smart city systems, focusing on interoperability, energy management, sustainable infrastructure, and digital service integration. In the Genesis Network, this standard is implemented through embedded sensors, DC-dominant microgrids, smart ceramic infrastructure (tiles/pipes), and federated digital twins. The system achieves ISO/TC 268 and IEC SyC alignment via redundant, self-powered sensor arrays, bidirectional resource flows, and edge AI orchestration — enabling resilient, regenerative urban hubs with near-100% resource closure.
+## Objective
 
-### Components Aligned with IEC SyC Smart Cities
+The Genesis Network aligns fully with the **IEC SyC Smart Cities** (IEC System Committee on Smart Cities) standards, which focus on holistic smart city frameworks, interoperability, sustainability, and resilience. This document details how Genesis hubs and regenerative cities implement IEC SyC guidelines (e.g., IEC/TS 63188 for smart city systems, IEC 62443 for cybersecurity, IEC 60050 for terminology) through modular **[tiles](components/tiles.md)**, **[pods](components/pods.md)**, and **[kits](components/kits.md)**, ensuring closed-loop operations, biophilic design, and distributed intelligence.
 
-#### Tiles
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/m²) | Revenue/Value ($/m²) |
-|------|----------------------------|------------------|-----------------------|-------------|----------------------|
-| [Roof Glazing (Semi-Transparent)](../../components/tiles/roof-glazing.md) | BIPV (10–30% transmittance), AWG condensers, PAR/thermal/humidity sensors | Rice husk ash, farm residues | Forming + thin-film PV embed + firing | 25–45 | 75–125 |
-| [Exterior Cladding](../../components/tiles/exterior-cladding.md) | Supplementary BIPV, AWG, strain/vibration sensors | C&D slag (60%), residues | Composite forming + PV/AWG layers | 22–40 | 65–110 |
-| [Structural Load-Bearing](../../components/tiles/structural-load-bearing.md) | Piezoelectric vibration harvesting, strain sensors | ELFM slag (70%), brownfield | Toughened ceramic + PZT embed | 16–28 | 48–75 |
-| [Permeable (Roads/Paths)](../../components/tiles/permeable-roads-paths.md) | Piezoelectric, stormwater capture, acoustic/traffic sensors | C&D slag (75%) | Porous ceramic + piezo embeds | 20–34 | 57–92 |
-| [Networking Snap Tile](../../components/tiles/networking-snap-tile.md) | Inductive power (50–100 W), mmWave/optical waveguide (10–100 Gbps) | Ceramic + conductive layers | Embed inductive coils + waveguides | 35–60 | 100–180 |
+Implementation emphasizes all-electric energy (sodium-ion batteries primary, biogas methane backup), smart airlocks in all buildings, dense sensor nets for monitoring, and compliance with related standards like **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** and **[ISO 14001](docs/standards/iso-14001-environmental.md)**.
 
-#### Pods
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
-|------|----------------------------|------------------|-----------------------|--------------|------------------------|
-| [Compute & Networking Pod](../../components/pods/compute-networking-pod.md) | Edge compute racks, PoE fabric, local twin orchestration | Compute/storage modules, ceramic shell | Ceramic shell + conduit integration | 1.5–4.0M | 3.0–7.0M |
-| [Smart Infrastructure Pod](../../components/pods/smart-infrastructure-pod.md) | Pipes, roads, networking interconnects, bidirectional resource routing | Ceramic feedstock, conductive layers | Tile assembly + smart conduit embed | 0.8–2.0M | 1.6–4.0M |
+## Key Alignment with IEC SyC Smart Cities Standards
 
-#### Kits
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
-|------|----------------------------|------------------|-----------------------|--------------|------------------------|
-| [Smart Infrastructure Interconnect Kit](../../components/kits/smart-infrastructure-interconnect-kit.md) | Pipes, snap tiles, PoE injectors, waveguide extensions | Ceramic feedstock, conductive layers | Tile + conduit pre-assembly | 0.4–1.0M | 0.8–2.0M |
+- **System Architecture**: Distributed microgrids via **[Energy Storage & Thermal Tile](components/tiles/energy-storage-thermal-tile.md)** and **[Smart Infrastructure Pod](components/pods/smart-infrastructure-pod.md)** support IEC/TS 63188's reference architecture for interoperable, resilient urban systems.
+- **Interoperability & Data**: **[Basic Networking Snap Tile](components/tiles/basic-networking-snap-tile.md)** and **[OS & Software LLC](innovation-hub/os-software-llc.md)** enable Matter/Thread protocols for seamless IoT; digital twins ensure data sovereignty.
+- **Sustainability & Resilience**: 95–99% closure aligns with IEC 60050 sustainability terms; 90+ day isolation via **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)** and batteries meets resilience requirements.
+- **Cybersecurity**: **[seL4 microkernel](docs/os-software-stack.md)** in all electronics; **[Smart Airlock Module Tile](components/tiles/smart-airlock-module-tile.md)** for physical/digital security per IEC 62443.
+- **Citizen-Centric Services**: **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)** and **[Communicator Badge LLC](innovation-hub/communicator-badge-llc.md)** provide inclusive health/mobility, supporting IEC SyC's human-centered focus.
 
-#### Sensors
-| Name | Description & Key Features | Placement | Redundancy | Power Source | Standards Compliance |
-|------|----------------------------|-----------|------------|--------------|----------------------|
-| [Multispectral / Hyperspectral](../sensors/multispectral-hyperspectral.md) | Vegetation, soil, water quality | Rooftops, fields, tanks | 3–5× | BIPV / piezo | IEEE 1451, OGC SWE |
-| [Strain / Vibration](../sensors/strain-vibration.md) | Structural health, traffic load | Load-bearing tiles, foundations | 5× | Piezo (self-powered) | ASTM C109 |
-| [Thermal / Humidity](../sensors/thermal-humidity.md) | Climate, AWG efficiency | All tiles, airlocks | 5× | BIPV / piezo | ISO 7726 |
-| [Security (Weapons/Explosives)](../sensors/security-threat-detection.md) | Hyperspectral + mmWave threat scanning | All building airlocks | 5× | Grid / battery | MIL-STD-810, ISO 22320 |
+## Compliance Strategies
 
-#### Standards & Compliance
+- **Phased Rollout**: Bootstrap hubs (2027–2030) pilot IEC/TS 63188 compliance via **[Standards Compliance Tile](components/tiles/standards-compliance-tile.md)**; full certification by 2035.
+- **Audits & Verification**: Blockchain-integrated platform with third-party audits; sensor data feeds automated reports.
+- **Adaptations**: Region-specific variants (e.g., cultural data privacy in Europe) via **[Region-Specific LLC Adaptations](roadmaps/vision-stretch-goals-2040.md)**.
+- **Sustainable Building Codes**: All structures use waste-derived ceramics, aligning with IEC SyC's eco-design principles.
 
-- [ISO/TC 268 Sustainable Cities and Communities](iso-tc-268.md) – Urban metrics & indicators
-- [IEEE 2030 Smart Grid Interoperability](ieee-2030.md) – Grid architecture & DC distribution
-- [ITU-T Y.4900 Smart Sustainable Cities](itu-t-y4900.md) – Performance metrics
-- [Matter/Thread/Zigbee](matter-thread-zigbee.md) – Device interoperability
-- [ISO 14001 Environmental Management](iso-14001.md) – Resource closure & sustainability
+## Recomputed Financial Impacts (Network-Wide, Base Scenario)
 
-#### Related / Supporting LLCs in the Innovation Hub
-- [Sustainable Energy LLC](../../innovation-hub//sustainable-energy-llc.md) – Waste heat recovery & DC microgrids
-- [Battery & Energy Storage LLC](../../innovation-hub//battery-energy-storage-llc.md) – Sodium-ion storage for grid stability
-- [Autonomous Mobility LLC](../../innovation-hub//autonomous-mobility-llc.md) – Robotaxi fleets & inductive road charging
-- [Water Purification & Desalination LLC](../../innovation-hub//water-purification-desalination-llc.md) – AWG & brine processing integration
-- [Advanced Recycling & Waste Valorization LLC](../../innovation-hub//advanced-recycling-llc.md) – Feedstock for tiles & infrastructure
+- **CAPEX for Compliance**: $100–$250M (2027–2035; **[Standards Compliance Kit](components/kits/standards-compliance-kit.md)** + audits; offset 20–40% by grants like IRA/CHIPS).
+- **OPEX**: 5–10% uplift ($50–$150M/year/hub for monitoring; reduced by AI efficiencies).
+- **Revenue Uplift**: +10–20% ($100–$400B/year by 2050 from premium certifications/credits; e.g., smart city contracts $200–$500M/hub/year).
+- **IRR Contribution**: +5–8% (network IRR 35–50%).
+- **NPV Impact**: +$0.2–$0.5T (enhanced market access/adoption).
 
-**Project Phase**: Mature Network (2036–2045+); full IEC SyC alignment achieved post-Mini-Fab scale (2030–2035).
+## List of Sensors in a Separate Table
 
-### Viability & Integration Notes
-- IEC SyC compliance is achieved through DC-dominant microgrids, embedded sensors, and Matter/Thread/Zigbee interoperability — enabling seamless smart city metrics (energy, water, transport, waste).  
-- Revenue from smart infrastructure tiles/pods (networking + power) contributes $15–60B/year network-wide in mature phase.  
-- Dense sensor net + digital twins provide real-time compliance reporting and predictive optimization, enhancing political/regulatory acceptance.  
-- All buildings incorporate smart airlocks (weapons/explosives scanning) and support sustainable building codes via 95–99% closure and Cradle-to-Cradle principles.
+Sensors ensure IEC SyC compliance (e.g., real-time data for urban resilience); integrated across **[tiles](components/tiles.md)**/**[pods](components/pods.md)**/**[kits](components/kits.md)**.
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Environmental (Temp/Humidity/CO₂) | Urban climate monitoring | **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)**; IEC/TS 63188 | Waste-derived | 20–50 | Sustainability credits +$50–150M/hub/year |
+| Structural (Strain/Vibration) | Infrastructure integrity | **[Foundation / Base Tile](components/tiles/foundation-base-tile.md)**; IEC 62443 | Piezo + ceramic | 30–60 | Maintenance savings +$40–120M/hub/year |
+| Occupancy/Motion             | Citizen flow/safety | **[Basic Security & Monitoring Tile](components/tiles/basic-security-monitoring-tile.md)**; ITU-T Y.4900 | IR + ceramic | 25–50 | Optimization +$30–80M/hub/year |
+| mmWave/Hyperspectral         | Threat/air quality detection | **[Smart Airlock Module Tile](components/tiles/smart-airlock-module-tile.md)**; Matter/Thread | Electronics + ceramic | 80–200 | Security/compliance +$100–300M/hub/year |
+| RTK GNSS Receiver            | Positioning/navigation | **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)**; IEEE 2030 | Ceramic + antenna | 38–85 | Precision services +$50–150M/hub/year |
+
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
