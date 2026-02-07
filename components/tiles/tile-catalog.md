@@ -20,7 +20,7 @@ The tile catalog defines all modular, snap-together tiles used in the Genesis Ne
 
 | Tile Name                          | Manufacturing Process | Input Sources | Materials | Prod Cost ($/m² mature) | Selling Price ($/m²) | Revenue Model |
 |------------------------------------|-----------------------|---------------|-----------|--------------------------|----------------------|---------------|
-| **Roof Glazing (Semi-Transparent BIPV)** | Molding + lamination | RHA silica (80%) | Glass-ceramic + thin-film PV | 28–55 | 85–150 | Energy export, water credits |
+| **[Roof Glazing (Semi-Transparent BIPV](roof-glazing.md)** | Molding + lamination | RHA silica (80%) | Glass-ceramic + thin-film PV | 28–55 | 85–150 | Energy export, water credits |
 | **Exterior Cladding**              | Composite layering | C&D slag (70%) | Ceramic composite + PV layers | 25–48 | 75–130 | Premium façades, retail |
 | **Interior Insulating Partition**  | Aeration + channels | Residues, bagasse | Aerated ceramic + channels | 18–35 | 55–100 | Housing kits |
 | **Permeable Road / Path Tile**     | Porous molding + embeds | C&D slag (75%) | Porous ceramic + piezo embeds | 22–40 | 65–110 | Infrastructure contracts |
