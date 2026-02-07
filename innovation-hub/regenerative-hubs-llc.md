@@ -1,79 +1,54 @@
 ---
 layout: default
-title: Regenerative Hubs LLC – Genesis Network
-description: Detailed specification for Regenerative Hubs LLC, the foundational entity responsible for bootstrapping, operating, and scaling the physical regenerative hub network within the Genesis ecosystem.
+title: Genesis Network – Regenerative Hubs LLC
+description: Detailed specification for the **Regenerative Hubs LLC** in the Genesis Network innovation hub, focusing on core hub operations, closed-loop systems, and integration (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Regenerative Hubs LLC
+# Genesis Network: **Regenerative Hubs LLC**
 
-## Overview
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-**Regenerative Hubs LLC** is the primary operational and development entity within the Genesis Network responsible for identifying, acquiring, remediating, building out, operating, and continuously expanding the physical regenerative hubs that form the backbone of the entire system.
+**Suggested File Path**: innovation-hub/regenerative-hubs-llc.md
 
-This LLC executes the **ultra-rapid bootstrap doctrine** (8 essential pods, pre-supply staging, revenue-first pruning) and manages the transition from pilot-scale (500–1,500 ha) to mature hub clusters (2,500–5,000 ha) and eventually regenerative city-scale developments (10,000+ ha).
+## Objective
 
-It is the **first LLC activated** in every geographic region and the entity that seeds all other innovation-hub LLCs by providing land, infrastructure, power, water, feedstock, and initial workforce.
+The **Regenerative Hubs LLC** oversees the development, operation, and scaling of Genesis regenerative hubs (500–2,500 ha sites), transforming degraded lands into net-positive ecosystems that produce food, energy, water, materials, and services with 95–99% resource closure. It coordinates **[pods](components/pods/)**, **[tiles](components/tiles/)**, and **[kits](components/kits/)** to achieve self-replication, farmer empowerment, and integration with **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)** and **[Smallholder Partnership Co-op LLC](innovation-hub/smallholder-partnership-co-op-llc.md)**.
 
-## Phase & Timeline
+## Key Functions & Synergies
 
-| Phase               | Timeline       | Key Milestones & Activities                                                                 | Typical Hub Size | Population Served (mature) |
-|---------------------|----------------|---------------------------------------------------------------------------------------------|------------------|----------------------------|
-| Bootstrap           | 2026–2027      | Site selection, brownfield/landfill acquisition, pre-supply pod delivery, first 8-pod clusters cash-positive | 500–1,500 ha     | 5,000–25,000               |
-| Early Scale         | 2028–2030      | 50–100 hub network, affiliate mini-hub seeding, road/tube corridor integration, dense ag rollout | 1,000–2,500 ha   | 50,000–200,000             |
-| National Maturity   | 2031–2035      | 500–2,000 hubs, city incorporation pilots, full TerraWell integration, infrastructure recycling | 2,500–5,000 ha   | 200,000–600,000            |
-| Global Licensing    | 2036+          | Sovereign licensing model, cultural/regional adaptations, OceanNet coastal synergy           | Scalable         | Millions (global)          |
+- **Hub Development**: Site selection (brownfields/landfills), remediation via **[ELFM pods](components/pods/elfm-pod.md)**, layout per **[Regenerative City & Hub Layout Principles](docs/regenerative-city-hub-layout-principles.md)**.
+- **Closed-Loop Operations**: Food from **[Aquaponics Pod](components/pods/aquaponics-pod.md)** and **[Livestock Pod](components/pods/livestock-pod.md)**; energy via **[BIPV Glazing & Roof Tiles](components/tiles/roof-glazing-bipv.md)** and **[Biogas Digester System](components/pods/biogas-digester-pod.md)**; water from **[AWG & Condensate Recovery](components/pods/awg-condensate-recovery-pod.md)**.
+- **Synergies**: Supplies **[TerraFab Manufacturing LLC](innovation-hub/terrafab-manufacturing-llc.md)** with materials; integrates **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)** in all buildings for security; uses **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** for monitoring.
 
-## Financial Projections (per Mature Hub)
+## Operations & Infrastructure
 
-| Metric                     | Conservative | Base         | Aggressive   | Primary Drivers & Margin |
-|----------------------------|--------------|--------------|--------------|--------------------------|
-| Initial CAPEX              | $180–$220M  | $140–$180M  | $100–$140M  | Land, pods, infrastructure (20–35% grant offset) |
-| Annual Revenue (mature)    | $900M       | $1,700M     | $2,500M     | Food/produce (40%), tiles/contracts (25%), energy (15%), credits (10%), kits/affiliates (10%) |
-| Annual OPEX                | $360–$450M  | $340–$510M  | $300–$500M  | 20–35% (high automation + closure) |
-| Annual Net Profit          | $540M       | $1,190M     | $2,000M     | 60–80% margins |
-| Payback Period             | 6–8 months  | 4–6 months  | 4–5 months  | From Month 4–8 cash-positive |
-| Cumulative NPV (10 years, 8% discount) | $3.5–$4.8B | $7.2–$10.5B | $11–$16B    | — |
+- **Manufacturing**: All components from **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)**; waste-derived ceramics for structures.
+- **Smart Airlocks**: Mandatory in **all buildings** (mmWave/hyperspectral + trace detectors for weapons/explosives; alerts via **[OS & Software LLC](innovation-hub/os-software-llc.md)**).
+- **Standards**: Aligns with **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** (smart city), **[ISO 14001](docs/standards/iso-14001-environmental.md)** (sustainable), IEEE 2030 (grid), ITU-T Y.4900 (IoT).
+- **Resilience**: 90+ day isolation; mobile pods for relocation.
 
-**Network-wide mature-state projection (2035, 500–1,000 hubs)**  
-- Annual Revenue: $450–$2,500B  
-- Annual Net Cash Flow: $270–$2,000B  
-- IRR contribution from Hubs LLC: 210–320%
+## Recomputed Costs & Revenues (per Mature Hub, February 2026 Baseline)
 
-## Key Responsibilities & Outputs
+- **CAPEX**: $200–$500M (site remediation $50–$100M, pods/kits $150–$400M; down 10–15% via waste synergies).
+- **OPEX**: 20–30% of revenue (automation + closure).
+- **Annual Revenue**: $1,800–$4,000M (food 40%, energy 20%, materials 20%, services/credits 20%; margins 60–80%).
+- **Revenue Uplift**: +15–25% ($270–$1,000M/year) from microbial boosts and credits ($150–$250/tCO₂e).
+- **IRR Contribution**: +15–20% to network (overall 35–50%).
+- **Timeline**: Bootstrap 2027–2030; maturity 2031–2035.
 
-- Site selection & acquisition (brownfield/landfill priority)
-- Remediation & infrastructure recycling (plasma/ELFM → tiles/RCA)
-- Pre-supply staging & ultra-rapid bootstrap execution
-- Operation of the 8 essential pods → full hub closure
-- Affiliate seeding & smallholder partnership onboarding
-- Dense sensor net & digital twin deployment
-- Smart airlock & security infrastructure
-- Initial TerraWell FreeCare center construction
-- Revenue collection (food, tiles, energy export, tipping fees)
-- Surplus reinvestment into new hubs & TerraWell expansion
+## Detailed Sensor Handbook for Hub Operations
 
-## Critical Dependencies
+Sensors embedded for monitoring, compliance, and optimization; support **[smart city standards](docs/standards/smart-city-standards.md)** and sustainable codes.
 
-- Tile & Pipe Production Pod (first priority activation)
-- Biogas Digester Pod (energy & tipping revenue)
-- TerraWell FreeCare LLC (political goodwill & permitting multiplier)
-- Smallholder Partnership Co-op LLC (distributed scaling)
-- Infrastructure Recycling LLC (brownfield remediation feedstock)
-- Energy Systems LLC (BIPV + sodium-ion + waste heat)
-- Water Sovereignty LLC (AWG + condensate recovery)
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Soil Moisture & Nutrient     | Real-time soil health | **[Precision Ag Starter Kit](components/kits/precision-ag-starter-kit.md)**; ISO 14001 | Waste-derived | 20–50 | Yield boosts +$40–120M/hub/year |
+| Canopy Microclimate          | Climate monitoring | **[Canopy Microclimate Tile](components/tiles/canopy-microclimate-tile.md)**; IEEE 2030 | Residues | 30–60 | Ag optimization +$50–150M/hub/year |
+| Pollination & Bee Activity   | Bee tracking | **[Bee Activity Tile](components/tiles/bee-activity-tile.md)**; ITU-T Y.4900 | Ceramic + sensors | 25–50 | Honey/credits +$30–80M/hub/year |
+| Pest & Disease Detection     | Early threat ID | **[Basic Security & Monitoring Tile](components/tiles/basic-security-monitoring-tile.md)**; Matter/Thread | Mini-Fab sensors | 80–160 | Pest reduction +$100–300M/hub/year |
+| Root Zone Imaging            | Root health | **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)**; ISO/TC 268 | Dense ceramic | 35–70 | Efficiency +$50–100M/hub/year |
 
-## Risk Mitigation Highlights
-
-- Regulatory: Brownfield-first + EPA grant leverage + temporary ag structure classification
-- Political: Farmer co-op profit-share + TerraWell visibility
-- Supply: Pre-supply staging + mature-node stockpiling
-- Talent: Profit-share incentives + free TerraWell access
-- Black-swan: 90+ day isolation capability + mobile pod relocation
-
-This LLC is the **engine** that turns land into regenerative wealth and seeds every other innovation in the network.
-
----
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
