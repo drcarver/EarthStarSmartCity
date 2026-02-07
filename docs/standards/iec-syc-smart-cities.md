@@ -10,8 +10,6 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
-**Suggested File Path**: docs/standards/iec-syc-smart-cities.md
-
 ## Objective
 
 The Genesis Network aligns fully with the **IEC SyC Smart Cities** (IEC System Committee on Smart Cities) standards, which focus on holistic smart city frameworks, interoperability, sustainability, and resilience. This document details how Genesis hubs and regenerative cities implement IEC SyC guidelines (e.g., IEC/TS 63188 for smart city systems, IEC 62443 for cybersecurity, IEC 60050 for terminology) through modular **[tiles](components/tiles.md)**, **[pods](components/pods.md)**, and **[kits](components/kits.md)**, ensuring closed-loop operations, biophilic design, and distributed intelligence.
@@ -28,7 +26,7 @@ Implementation emphasizes all-electric energy (sodium-ion batteries primary, bio
 
 ## Compliance Strategies
 
-- **Phased Rollout**: Bootstrap hubs (2027–2030) pilot IEC/TS 63188 compliance via **[Standards Compliance Tile](components/tiles/standards-compliance-tile.md)**; full certification by 2035.
+- **Phased Rollout**: Bootstrap hubs (2027–2030) pilot IEC/TS 63188 compliance via **[Standards Compliance Tile](../../components/tiles/standards-compliance-tile.md)**; full certification by 2035.
 - **Audits & Verification**: Blockchain-integrated platform with third-party audits; sensor data feeds automated reports.
 - **Adaptations**: Region-specific variants (e.g., cultural data privacy in Europe) via **[Region-Specific LLC Adaptations](roadmaps/vision-stretch-goals-2040.md)**.
 - **Sustainable Building Codes**: All structures use waste-derived ceramics, aligning with IEC SyC's eco-design principles.
