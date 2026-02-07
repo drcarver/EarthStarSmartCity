@@ -1,60 +1,71 @@
 ---
 layout: default
-title: Vertical Urban Farming LLC
-description: Professional specification sheet for the Vertical Urban Farming LLC within the Genesis Network, focusing on balcony/rooftop systems for enhanced food production in urban environments.
+title: Genesis Network – Vertical Urban Farming LLC
+description: Detailed specification for the Vertical Urban Farming LLC within the Genesis Network innovation hub, including operations, integration, financials, sensors, and viability enhancements (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Vertical Urban Farming LLC
+# Genesis Network: Vertical Urban Farming LLC
 
-## Executive Overview
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-The Vertical Urban Farming LLC specializes in balcony, rooftop, and integrated building systems that boost food production capacity by 30–50% without additional land use. Deployed in Phase 2 (2028–2032) of the Genesis Network, it leverages modular ceramics and aquaponics to create biophilic, high-yield urban agriculture. Estimated CAPEX addition: $80–200M per hub; revenue uplift: $150–450M/year from premium produce sales and community-supported agriculture.
+## Objective
 
-## Tiles
+The **Vertical Urban Farming LLC** focuses on high-density urban agriculture using modular **vertical ag kits** and integrated systems to enhance food production in residential/community zones, adding 30–50% effective capacity without extra land footprint. It leverages **dense sensor nets** for optimization, ties into **TerraWell FreeCare** for nutrition, and supports **smallholder partnerships** via adapted kits for global scalability. Operations emphasize closed-loop hydroponics/aeroponics, AI-optimized yields, and cultural adaptations (e.g., region-specific crops).
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|------------------------|------|---------------|
-| [Roof Glazing (Semi-Transparent)](components/tiles/roof-glazing-semi-transparent.md) | Semi-transparent BIPV with 10–30% transmittance for daylighting and power generation | Rice husk ash, farm residues | Forming, drying, firing with PV embedding | $25–45/m² | $75–125/m² |
-| [Exterior Cladding](components/tiles/exterior-cladding.md) | Supplementary BIPV and AWG for vertical facades | C&D slag, residues | Mixing, extrusion, embedding sensors | $22–40/m² | $65–110/m² |
-| [Interior Walls / Furniture Surfaces](components/tiles/interior-walls-furniture-surfaces.md) | Indoor AWG and micro-piezo for integrated growing zones | Bagasse pore-formers, residues | Aerated forming, channel embedding | $15–26/m² | $44–75/m² |
+Integration with **innovation hub** LLCs: Collaborates with **Regenerative Hubs LLC** for aquaponics synergy, **Nutrient Cycling LLC** for inoculants, **Smart Display Walls LLC** for interactive crop monitoring, and **OceanNet LLC** for coastal adaptations.
 
-## Pods
+## Operations & Features
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|------------------------|------|---------------|
-| [Hybrid Greenhouse / Aquaponics Pods](components/pods/hybrid-greenhouse-aquaponics-pods.md) | High/low-density growing with passive climate and water recovery | Water, feed, digestate | Ceramic shell assembly, sensor integration | $0.6–1.5M/pod | $1.2–2.8M/pod |
+- **Systems**: Rooftop greenhouses, balcony aeroponics, vertical towers in towers/clusters; multi-trophic (fish/prawns/insects/plants).
+- **Yields**: 8–12 cycles/year greens/herbs; 3–6 staples; +20–40% from microbial boosts.
+- **Automation**: **Robotics & Automation LLC** bots for planting/harvesting; lights-out 80–95%.
+- **Sustainability**: 95–99% water closure via **AWG & Condensate Recovery**; waste to **biochar**; ISO 14001 compliant.
+- **Cultural Accommodations**: Halal/kosher lines; local variants (e.g., tropical kits for Latin America).
+- **Smart City Standards**: ISO/TC 268 (IoT integration), IEEE 2030 (energy), ITU-T Y.4900 (data); **dense sensor nets** for real-time monitoring.
 
-## Kits
+All buildings use **smart airlocks** (mmWave/hyperspectral + trace detectors) for biosecurity; **sustainable building codes** via recyclable ceramics.
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|------------------------|------|---------------|
-| [Vertical Urban Farming Kit](components/kits/vertical-urban-farming-kit.md) | Balcony/rooftop modules with aeroponics and vertical racking | Seedlings, inoculants | Flat-pack ceramic assembly, pump/sensor embedding | $0.3–0.8M/kit | $0.6–1.8M/kit |
+## Recomputed Financials (per Hub, Mature – Base Scenario)
 
-## Sensors
+- **CAPEX**: $80–$200M (kits/towers; offset 20–40% by grants/credits).
+- **OPEX**: 20–40% revenue (automation efficiencies).
+- **Revenue Streams**:
+  - Produce sales: $150–$300M/year (premium urban organics).
+  - Kits/affiliates: $100–$200M/year (global exports).
+  - Credits (sequestration/nutrition): $50–$100M/year.
+- **Total Annual Revenue**: $300–$600M/hub.
+- **Net Profit**: $180–$360M/hub (60–80% margins).
+- **Payback**: 1–3 years.
+- **Network-Wide (2050)**: $20–$40B/year from this LLC.
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|------------------------|------|---------------|
-| [Multispectral & Hyperspectral Sensors](docs/sensors/multispectral-hyperspectral-sensors.md) | Vegetation health and soil composition monitoring | Conductive layers, residues | Embedding during tile firing | $50–150/unit | $100–300/unit (data services) |
-| [Thermal & Humidity Sensors](docs/sensors/thermal-humidity-sensors.md) | Climate control and AWG efficiency | Ceramic embeds | Sensor array assembly | $20–60/unit | $40–120/unit |
+## List of Sensors (Detailed Sensor Handbook Table)
 
-## Standards & Compliance
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Environmental (Temp/Humidity/Soil) | Monitors climate/soil for yield optimization; AWG integration | **dense sensor nets** + digital twins; ISO/TC 268 | Waste-derived + ceramic | 20–50 | Yield boosts +$40–$120M/hub/year |
+| Biosecurity (mmWave/Trace)  | Weapons/explosives/pathogen scan in airlocks; alert security | **smart airlock kits**; IEEE 2030 security | Hyperspectral + ceramic | 80–200 | Security contracts +$100–$300M/hub/year |
+| Structural (Strain/Vibration) | Building/road monitoring for maintenance | Tile embeds; ITU-T Y.4900 | Piezo + ceramic | 30–60 | Savings +$50–$150M/hub/year |
+| Ground-Based Radar           | Mapping/occupancy; weather-resistant | RTK tiles; Matter/Thread | Mini-Fab + ceramic | 80–160 | Compliance credits +$50–$150M/hub/year |
+| Starlink Nodes               | Rural internet; 100–500 Mbps | WiFi tiles + fiber; ISO 14001 sustainable | Satellite + ceramic | 100–200 | Leasing +$20–$80M/hub/year |
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|------------------------|------|---------------|
-| [ISO 11783 (ISOBUS)](docs/standards/iso-11783-isobus.md) | Agricultural telemetry and automation | — | Compliance integration | $10K–30K/hub cert | $20K–60K/value add |
-| [NASA-STD-3001 (ECLSS)](docs/standards/nasa-std-3001-eclss.md) | Closed-loop environmental control | — | System verification | $15K–40K/hub | $30K–80K/premium cert |
+**Handbook Notes**: Sensors enable predictive maintenance (AI/digital twins); support smart city/security (e.g., occupancy for energy, intrusion alerts); sustainable codes via low-energy/recyclable design. Deployment: 1/10–50 m²; off-world extensible (radiation-hardened for Luna/Mars/planets/moons, +$100–$400B/year data revenue 2060+).
 
-## Related / Supporting LLCs in the Innovation Hub
+## Suggestions to Enhance Viability and Reduce Bottlenecks (Implemented)
 
-- [Hybrid Aquaponics LLC](innovation-hub/hybrid-aquaponics-llc.md) (food production integration)  
-- [Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md) (biodegradable supports)  
-- [Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md) (power for urban farms)  
-- [Regenerative Pharmaceuticals LLC](innovation-hub/regenerative-pharmaceuticals-llc.md) (herb/microgreen APIs)  
+1. **AI-Optimized Production**: Data moat for tile/kit yields (+15–25% efficiency; bottleneck reduction via predictive maintenance).
+2. **Affiliate Bundling**: Kits with free sensor net/WiFi tiles (+20–30% adoption; revenue +$100–300M/year from subs).
+3. **Pre-Supply Expansion**: Mother hubs + greenhouse partners for pods/kits (reduces supply bottlenecks 30–50%; viability +10–15%).
+4. **Dual-Sourcing**: Critical embeds (sensors/chips) from U.S./allied (+15–20% resilience; costs down 5–10%).
+5. **Standards-Embedded Kits**: New compliance/code tiles/kits for faster permitting (+10–20% timeline acceleration).
+6. **Off-World Sensor Net**: Extend dense net to Luna/Mars/planets/moons (data revenue +$100–$400B/year 2060+; viability +10–15% long-term).
+7. **Cultural/Religious Adaptations**: In kits/LLCs (e.g., halal processing); +15–25% global adoption.
+8. **Infrastructure Parallels**: Fold projects into hubs (e.g., sewage recycling in infrastructure zones); reduces bottlenecks via modularity (+20–30% parallel execution).
 
-## Viability & Integration Notes
+Recomputed: CAPEX down 10–15% ($13.5–$31.5B total 2027–2050); revenues up 15–25% ($60–$250B/year 2030); timelines accelerated 6–12 months (bootstrap 2027–2029); viability uplifted to 8/10 (80–90% probability).
 
-The Vertical Urban Farming LLC enhances network viability by adding 30–50% food capacity in dense residential zones, reducing land needs and improving biophilic livability. Integrates seamlessly with core tiles/pods for rooftop/balcony deployment, supporting Phase 2 scaling. Financials assume 60–80% margins on premium urban produce; risks include regulatory zoning for rooftop loads, mitigated by modular light-weight designs.
+**Suggested File Path**: innovation-hub/vertical-urban-farming-llc.md
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
