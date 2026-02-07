@@ -46,9 +46,9 @@ All LLCs self-fund post-bootstrap.
 | [Battery & Storage LLC](battery–storage–llc.md)                                              | Scale & Closure        | 2028–2030      | 150–300        | 195–660                  | 117–528                     |
 | [Vertical Urban Farming LLC](vertical-urban-farming-llc.md)                                  | Scale & Closure        | 2028–2030      | 80–200         | 150–450                  | 90–360                      |
 | [Robotics & Automation LLC](robotics-automation-llc.md)                                      | Exponential            | 2030–2035      | 150–350        | 200–600                  | 120–480                     |
-| [OceanNet LLC](#)                                                        | Exponential            | 2030–2035      | 2,400–4,800 (network-wide) | 60–135 (network-wide)    | 36–108 (network-wide)       |
-| [Advanced Fab LLC](#)                                                    | Exponential            | 2030–2035      | 100–200        | 150–300                  | 90–240                      |
-| [OS & Software LLC](#)                                                   | Exponential            | 2030–2035      | 80–400         | 15–80                    | 9–64                        |
+| [OceanNet LLC](ocean-net-llc.md)                                                 | Exponential            | 2030–2035      | 2,400–4,800 (network-wide) | 60–135 (network-wide)    | 36–108 (network-wide)       |
+| [Advanced Fab LLC](advanced-fab-llc.md)                                                    | Exponential            | 2030–2035      | 100–200        | 150–300                  | 90–240                      |
+| [OS & Software LLC](os-software-llc.md)                                                   | Exponential            | 2030–2035      | 80–400         | 15–80                    | 9–64                        |
 | [Mining & Recycling LLC](#)                                              | Exponential            | 2030–2035      | 80–200         | 200–600                  | 120–480                     |
 | [Forestry LLC](#)                                                        | Exponential            | 2030–2035      | 80–200         | 150–450                  | 90–360                      |
 | [Maritime & Ports LLC](#)                                                | Exponential            | 2030–2035      | 120–280        | 250–700                  | 150–560                     |
