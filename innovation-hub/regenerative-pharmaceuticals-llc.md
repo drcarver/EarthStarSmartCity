@@ -1,72 +1,77 @@
 ---
 layout: default
-title: Regenerative Pharmaceuticals LLC Specification
-description: Professional spec sheet for the Regenerative Pharmaceuticals LLC within the Genesis Network Innovation Hub.
+title: Genesis Network – Regenerative Pharmaceuticals LLC
+description: Detailed specification for the **Regenerative Pharmaceuticals LLC** in the Genesis Network innovation hub, focusing on regenerative, plant-based, microbial, and closed-loop pharmaceutical production integrated with hub systems (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Regenerative Pharmaceuticals LLC  
-**Genesis Network Innovation Hub**
+# Genesis Network: **Regenerative Pharmaceuticals LLC**
 
-**© 2025–2026 EarthStar Technologies**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-## Executive Overview
+**Suggested File Path**: innovation-hub/regenerative-pharmaceuticals-llc.md
 
-Regenerative Pharmaceuticals LLC focuses on producing high-value active pharmaceutical ingredients (APIs), generic drugs, and nutraceuticals derived from plants, algae, and fungi grown in controlled, closed-loop systems. Leveraging the Network's biorefinery capabilities and microbial biosolutions, the LLC targets immunomodulators, anti-inflammatories, antioxidants, and other botanicals with strong market demand. Deployment is phased as a deferred high-margin component (2032–2035 pilot, full scale 2040+), providing premium revenue streams ($230–780M/hub/year mature) while supplying TerraWell FreeCare with free generics/OTCs. Revenue role: Diversifies Network income with 65–85% margins on exports and internal use.
+## Objective
 
-**Project Phase**: Deferred High-Margin (Phase 3, 2032–2035 pilots; mature post-2040).
+The **Regenerative Pharmaceuticals LLC** develops and produces regenerative, plant-based, microbial-derived, and closed-loop pharmaceuticals, nutraceuticals, and OTC medicines using Network-grown crops, algae, fungi, and microbial inoculants. It supplies **TerraWell FreeCare** centers, hub pharmacies, retail outlets, and affiliates with affordable, high-quality, sustainable therapeutics, minimizing synthetic inputs and aligning with the Network’s closed-loop, regenerative principles.
 
-**Financials (Mature Hub)**: CAPEX $120–300M; Revenue $230–780M/year; Margins 65–85%; ROI <3 years.
+## Key Functions & Synergies
 
-## Relevant Tiles
+- **Production Focus**:
+  - Plant-derived actives (e.g., curcumin from turmeric, berberine from barberry, artemisinin from sweet wormwood).
+  - Microbial fermentation (e.g., antibiotics like penicillin analogs, probiotics, enzymes).
+  - Algae/fungi extracts (e.g., astaxanthin, beta-glucans, psilocybin analogs for mental health).
+  - Nutraceuticals and OTC (vitamins, adaptogens, anti-inflammatories).
+- **Synergies**:
+  - Feedstock from **[Vertical Urban Farming LLC](innovation-hub/vertical-urban-farming-llc.md)** and **[Aquaponics Pod](components/pods/aquaponics-pod.md)**.
+  - Microbial strains from **[Microbial Inoculant Production Kit](components/kits/microbial-inoculant-production-kit.md)**.
+  - Packaging from **[Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md)**.
+  - Distribution via **[Grocery & Retail LLC](innovation-hub/grocery-retail-llc.md)** and **[Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md)**.
+  - Health data integration with **[Communicator Badge](components/communicator-badge.md)** and **[TerraWell FreeCare](docs/terrawell-freecare.md)**.
 
-| Name (Hyperlinked)                                    | Description & Key Features                                      | Inputs/Materials                              | Manufacturing Process                          | Cost ($/m²) | Revenue/Value ($/m²) |
-|-------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|-------------|-----------------------|
-| [Insulating Tile](components/tiles/insulating-tile.md) | Indoor AWG recapture, thermal sensors for cleanroom climate    | Bagasse pore-formers, farm residues           | Forming, drying, firing with internal channels | 15–26       | 44–75                 |
-| [Structural Load-Bearing Tile](components/tiles/structural-load-bearing-tile.md) | Cleanroom walls/floors with strain sensors                      | ELFM slag (70%), brownfield materials         | Forming with piezo embeds, high-temp firing    | 16–28       | 48–75                 |
+## Manufacturing Process
 
-## Relevant Pods
+- Location: Dedicated cleanrooms within **[TerraFab Manufacturing LLC](innovation-hub/terrafab-manufacturing-llc.md)** facilities.
+- Inputs: 70–95% Network-derived (plants/algae from hubs, microbial cultures from **[Nutrient Cycling LLC](innovation-hub/nutrient-cycling-llc.md)**, water from **[Water Sovereignty LLC](innovation-hub/water-sovereignty-llc.md)**).
+- Materials: Ceramic fermenters, stainless steel (recycled), glass vials, bio-plastic packaging.
+- Process:
+  1. Cultivation in **[Vertical Ag Expansion Kit](components/kits/vertical-ag-expansion-kit.md)**.
+  2. Extraction/fermentation in controlled bioreactors.
+  3. Purification (chromatography, crystallization).
+  4. Formulation (tablets, capsules, tinctures).
+  5. GMP-compliant packaging and labeling.
+  6. Quality control via **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** and blockchain tracking.
 
-| Name (Hyperlinked)                                          | Description & Key Features                                      | Inputs/Materials                              | Manufacturing Process                          | Cost ($/pod) | Revenue/Value ($/pod) |
-|-------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|--------------|------------------------|
-| [Microbial Inoculant Production Pod](components/pods/microbial-inoculant-pod.md) | Fermenters for fungal/algae cultures                            | Digestate, substrates                         | Ceramic-lined vessels, automated fermentation   | 0.5–1.2M     | 1.0–2.2M               |
-| [Automated Biorefinery Pod](components/pods/automated-biorefinery-pod.md) | Extraction/purification of APIs from biomass                    | Plant/algae/fungal biomass                    | Plasma-assisted processing, separation         | 1.0–2.5M     | 2.0–5.0M               |
+## Regulatory & Standards Compliance
 
-## Relevant Kits
+- FDA GMP, ISO 22000 (food safety), ISO 14001 (environmental).
+- Smart airlocks with **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)** (mmWave/hyperspectral + trace detectors) for contamination control.
+- Compliance sensors for batch monitoring (temperature, pH, microbial load).
+- Blockchain-verified chain-of-custody for regenerative claims.
 
-| Name (Hyperlinked)                                          | Description & Key Features                                      | Inputs/Materials                              | Manufacturing Process                          | Cost ($/kit) | Revenue/Value ($/kit) |
-|-------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|------------------------------------------------|--------------|------------------------|
-| [Desert Plant Pharma Kit](components/kits/desert-plant-pharma-kit.md) | Anti-inflammatory/antioxidant extracts                          | Controlled pods, extractors                   | Ceramic + sensors                              | 0.4–1.2M     | 0.8–2.4M               |
-| [Tropical Plant Pharma Kit](components/kits/tropical-plant-pharma-kit.md) | Anti-malarial/anti-cancer APIs                                  | Greenhouse modules, purification              | Ceramic + biorefinery                          | 0.6–1.8M     | 1.2–3.6M               |
-| [Marine Algae Pharma Kit](components/kits/marine-algae-pharma-kit.md) | Polysaccharide/pigment extracts                                 | Saltwater tanks, centrifuges                  | Ceramic + aquaponics                           | 0.8–2.0M     | 1.6–4.0M               |
-| [Fungal Pharma Kit](components/kits/fungal-pharma-kit.md)   | Beta-glucan/triterpenoid extracts                               | Fermenters, substrate bags                    | Ceramic + waste substrates                     | 0.5–1.5M     | 1.0–3.0M               |
+## Recomputed Costs & Revenues (per Mature Hub, February 2026 Baseline)
 
-## Relevant Sensors
+- **CAPEX**: $120–$280M (cleanrooms, bioreactors, GMP certification; down 10–15% via ceramic synergies).
+- **OPEX**: 25–35% of revenue (automation, raw materials, testing).
+- **Production Cost**: $0.50–$3 per dose/unit (plant/microbial-derived).
+- **Selling Price**: $2–$12 per dose/unit (premium regenerative branding +20–40%).
+- **Annual Revenue**: $180–$480M (TerraWell supply 50%, retail/wholesale 30%, export 20%; margins 55–75%).
+- **Revenue Uplift**: +12–18% ($22–$86M/year) from microbial yield boosts and regenerative health claims.
+- **IRR Contribution**: +6–10% to network (overall 35–50%).
+- **Timeline**: Pilots 2028–2030; mature production 2031–2035 (accelerated 6 months via **[Data Moat](docs/data-moat.md)** optimization).
 
-| Name (Hyperlinked)                                          | Description & Key Features                                      | Placement                                     | Redundancy | Power Source   |
-|-------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------|------------|----------------|
-| [Pathogen / VOC Sensors](docs/sensors/pathogen-voc-sensors.md) | Multispectral detection for cleanroom sterility                 | Biorefinery pods, airlocks                    | 5×         | BIPV / piezo   |
-| [Environmental Sensors](docs/sensors/environmental-sensors.md) | Temperature, humidity, CO₂ for fermentation control             | Inoculant & biorefinery pods                  | 5×         | BIPV           |
+## Detailed Sensor Handbook for Pharmaceutical Operations
 
-## Relevant Standards & Compliance
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Temperature/Humidity         | Monitors fermentation/storage stability | Bioreactor embeds; ISO 22000 | Waste-derived | 20–50 | Quality assurance +$40–120M/hub/year |
+| pH & Dissolved Oxygen        | Tracks microbial growth conditions | Fermenter probes; GMP | Ceramic + electrodes | 50–100 | Yield optimization +$50–150M/hub/year |
+| Microbial Load (Optical/Impedance) | Detects contamination early | Inline sensors; ISO 14001 | Electronics + ceramic | 80–160 | Safety/compliance +$30–80M/hub/year |
+| VOC/Trace Gas                | Monitors volatile compounds/spoilage | Airlock integration; ITU-T Y.4900 | Mini-Fab | 60–120 | Contamination alerts +$20–60M/hub/year |
+| Batch RFID/Blockchain        | Chain-of-custody tracking | Packaging embeds; ISO/TC 268 | Tags + ceramic | 10–30 | Verifiable claims +$50–100M/hub/year |
 
-| Standard (Hyperlinked)                                      | Relevance                                                       |
-|-------------------------------------------------------------|-----------------------------------------------------------------|
-| [FDA GMP / 21 CFR Part 211](docs/standards/fda-gmp.md)      | Pharmaceutical manufacturing & quality control                  |
-| [ISO 22000 Food Safety](docs/standards/iso-22000.md)        | Nutraceutical & supplement production                           |
-| [ISO 14001 Environmental](docs/standards/iso-14001.md)      | Waste-derived inputs & closed-loop processes                     |
+**Handbook Notes**: All sensors feed **[digital twins](docs/digital-twins.md)** for real-time quality control; off-world adaptable (radiation-hardened variants for lunar/Mars pharma).
 
-## Related / Supporting LLCs in the Innovation Hub
-
-- [Automated Biorefinery LLC](innovation-hub/automated-biorefinery-llc.md)  
-- [Microbial Inoculant LLC](innovation-hub/microbial-inoculant-llc.md)  
-- [Hybrid Aquaponics LLC](innovation-hub/hybrid-aquaponics-llc.md)  
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)
-
-## Viability & Integration Notes
-
-Regenerative Pharmaceuticals LLC is a deferred high-margin component (Phase 3, post-2032 pilots) that leverages existing biorefinery and microbial capabilities for low-risk entry into premium markets. Integration is seamless with closed-loop biomass supply; compliance via redundant sensors and automated portal ensures FDA/GMP readiness. Revenue diversification strengthens Network resilience; supplies free generics to TerraWell FreeCare for goodwill multiplier.
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
