@@ -1,82 +1,75 @@
 ---
 layout: default
 title: Genesis Network – Grocery & Retail LLC
-description: Detailed specification for Grocery & Retail LLC within the Genesis Network innovation hub, including operations, product lines, integration with production systems, retail models, sensor integration, financials, and viability enhancements (February 2026 baseline).
+description: Detailed specification for the **Grocery & Retail LLC** in the Genesis Network innovation hub, focusing on grocery stores, retail operations, robotaxi transport (leased/bought from Tesla), rebranded **Tesla Superchargers** for charging, **Tesla Semi** for transport where needed, Tesla's vision-only autonomy approach, and Hyperloop pod structures when available (otherwise climate-controlled pods) (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Grocery & Retail LLC
-
-**Suggested File Path:** `innovation-hub/grocery-retail-llc.md`
+# Genesis Network: **Grocery & Retail LLC**
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-**Grocery & Retail LLC** operates the consumer-facing retail arm of the Genesis Network, providing high-quality, regeneratively produced grocery items, beverages (including liquor), and home & garden products directly to residents, affiliates, and external markets. The LLC integrates production from **[Aquaponics Pod](components/pods/aquaponics-pod.md)**, **[Livestock Pod](components/pods/livestock-pod.md)**, **[Food Processing Pod](components/pods/food-processing-pod.md)**, and **[Dwarf Orchard Pod](components/pods/dwarf-orchard-pod.md)** to deliver fresh, processed, and premium goods while generating diversified revenue and community engagement.
+The **Grocery & Retail LLC** operates on-site grocery stores, convenience retail, and distribution within Genesis hubs and affiliate sites, providing fresh produce, processed goods, household essentials, and value-added products from Network production. It integrates sustainable packaging from **[Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md)** and leverages autonomous transport for efficient delivery and customer access.
 
-The LLC begins operations only after core bootstrap gates are passed (Month 4–9 pilots) and scales with hub maturity, ensuring no early complexity violates the ultra-rapid doctrine.
+All robotaxis are **bought or leased from Tesla**; charging uses rebranded **Tesla Superchargers**; heavy transport (where necessary) uses **Tesla Semi**. All systems follow Tesla's vision-only autonomy approach (camera-based, no lidar/radar dependency). Hyperloop pod structures are used when available (for high-volume inter-hub freight); otherwise climate-controlled pods (ceramic-insulated, temperature-regulated) are deployed.
 
-## Core Operations & Integration
+## Key Functions & Synergies
 
-- **Sourcing**: 100% internal from Network production (greens/herbs/microgreens from aquaponics; dairy/meat/eggs from livestock; fruits/nuts from orchards; processed goods from food processing pods).
-- **Product Lines**:
-  - Fresh produce, dairy, eggs, honey
-  - Processed foods (canned, dried, fermented, bottled)
-  - Beverages (non-alcoholic + distilled liquor via brewery/distillation kits)
-  - Home & garden (tiles, kits, tools, seedlings, biochar amendments)
-- **Retail Models**:
-  - On-site hub stores (walk-in with smart display walls)
-  - Affiliate mini-markets
-  - External sales to grocers/CSAs/restaurants
-  - Premium branding for organic/regenerative certification
-- **Cultural Accommodations**: Halal/kosher processing lines; region-specific variants (e.g., tropical fruits in southern hubs).
+- **Grocery Operations**: Fresh produce from **[Aquaponics Pod](components/pods/aquaponics-pod.md)** and **[Livestock Pod](components/pods/livestock-pod.md)**; processed goods from **[Food Processing Pod](components/pods/food-processing-pod.md)**; packaged in bio-materials.
+- **Retail Operations**: Household essentials, home & garden items (from kits), and branded Network products.
+- **Transport & Logistics**:
+  - Robotaxis: Tesla vehicles for customer transport within hubs and to/from nearby affiliates.
+  - Heavy Transport: **Tesla Semi** for bulk freight between hubs/ports/warehouses.
+  - Charging: Rebranded **Tesla Superchargers** on hub premises and along smart roads.
+  - Hyperloop/Climate-Controlled Pods: Primary for inter-hub freight when Hyperloop available; otherwise climate-controlled ceramic pods (temperature/humidity regulation for perishables).
+- **Synergies**: Integrates with **[High-Speed Rail LLC](innovation-hub/high-speed-rail-transport-llc.md)** for long-range; feeds data to **[OS & Software LLC](innovation-hub/os-software-llc.md)** for inventory/traffic optimization; uses **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)** for precision positioning; supports **[Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md)** fleet operations.
 
-## Sensor Integration in Retail Operations
+## Core Technologies & Assumptions
 
-Grocery & Retail LLC uses the dense sensor net for inventory, quality control, security, and customer experience.
+- **Autonomy**: Tesla vision-only (cameras + neural nets); no lidar/radar.
+- **Vehicles**:
+  - Robotaxis: Tesla Model Y or Cybercab equivalents (bought/leased).
+  - Heavy transport: **Tesla Semi** (leased/bought) for inter-hub freight.
+- **Charging**: Rebranded **Tesla Superchargers** (V4 or later) integrated with **[permeable road tiles](components/tiles/permeable-road-path-tile.md)** for inductive charging where feasible.
+- **Freight Pods**: Hyperloop pods (when available); otherwise climate-controlled ceramic pods (insulated, temperature/humidity sensors, powered by **[Battery & Storage LLC](innovation-hub/battery-storage-llc.md)** sodium-ion tiles).
+- **Power Source**: Primarily electric from **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** microgrids and **[Battery & Storage LLC](innovation-hub/battery-storage-llc.md)**; biogas methane backup for charging stations during extended low-solar periods.
 
-| Sensor Type                  | Application in Retail | Integration | Key Benefits | Cost per Unit (mature) |
-|------------------------------|-----------------------|-------------|--------------|------------------------|
-| Basic Security & Monitoring Tile | Intrusion/theft detection in stores | Embedded in walls/floors | Real-time alerts to security LLC | $80–$160/m² |
-| Smart Airlock Module Tile    | Entry scanning for threats | All store entrances | Biosecurity + theft prevention | $80–$200/unit |
-| Environmental Sensors        | Temperature/humidity for produce storage | Shelves/coolers | Reduces spoilage 20–30% | $20–$50/unit |
-| Weight/Inventory Sensors     | Automated stock tracking | Shelves/displays | Real-time inventory; reduces labor | $30–$70/unit |
-| Customer Flow Sensors        | Occupancy/traffic analysis | Ceilings/aisles | Optimized layout; personalized offers via badges | $40–$90/unit |
+## Manufacturing & Infrastructure Integration
 
-**Sensor Handbook Note**: All sensors feed local digital twins for predictive analytics (e.g., spoilage forecasting) and comply with smart city standards (ISO/TC 268, IEEE 2030) and sustainable codes (ISO 14001).
+- **Vehicles**: No in-house production; all purchased/leased from Tesla.
+- **Charging Stations**: Rebranded Tesla Superchargers (Genesis branding applied); installed in hub parking zones and along smart roads.
+- **Freight Pods**: Hyperloop pods licensed/partnered when available; climate-controlled pods manufactured in **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** facilities.
+- **Road Integration**: Inductive charging lanes in **[permeable road tiles](components/tiles/permeable-road-path-tile.md)** for dynamic charging of robotaxis/Tesla Semi.
+- **Standards Compliance**: Aligns with ISO/TC 268 (smart city mobility), IEEE 2030 (smart grid), and Tesla FSD safety certifications.
 
-## Manufacturing & Supply Chain
+## Recomputed Costs & Revenues (per Mature Hub, February 2026 Baseline)
 
-- **No Dedicated Manufacturing**: Relies on **[Food Processing Pod](components/pods/food-processing-pod.md)** for canning/bottling/distillation and **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** for home & garden items.
-- **Input Sources**: 100% internal (waste-derived ceramics, farm outputs).
-- **Packaging**: Reusable ceramic containers or biodegradable films from bio-materials LLC.
+- **CAPEX**: $180–$380M (fleet leasing, charging stations, inductive road embeds, climate-controlled pods; down 8–12% via Tesla volume pricing).
+- **OPEX**: 25–35% of revenue (maintenance, energy, leasing fees).
+- **Fleet Costs**: Robotaxi lease ~$1,000–$1,500/month per vehicle; Tesla Semi ~$2,500–$4,000/month per unit.
+- **Charging Infrastructure**: $200k–$500k per Supercharger station; inductive road embeds $50–$100/m².
+- **Freight Pods**: Climate-controlled pod ~$80k–$150k/unit; Hyperloop pod licensing ~$200k–$400k/unit (when available).
+- **Annual Revenue**: $250–$700M (grocery/retail sales 60%, delivery/transport fees 25%, charging fees 15%; margins 55–75%).
+- **Revenue Uplift from Enhancements**: +12–22% ($30–$154M/year) via Tesla FSD data sharing for **[OS & Software LLC](innovation-hub/os-software-llc.md)** optimization, affiliate transport services, and premium delivery subscriptions.
+- **IRR Contribution**: +6–9% to network (overall 35–50%).
+- **Timeline**: Pilots 2028–2030; mature operations 2031–2035 (accelerated 6 months via Tesla partnership).
 
-## Financials (Per Mature Hub, Recomputed February 2026)
+## Detailed Sensor Handbook for Retail & Mobility Operations
 
-- **CAPEX**: $50–$150M (store build-out with smart walls/airlocks; phased post-Month 9).
-- **OPEX**: $20–$50M/year (labor minimal via automation; sensors reduce waste 20–30%).
-- **Revenue Streams**:
-  - On-site/affiliate sales: $200–$500M/year (high margins 60–80%)
-  - External premium branding: $100–$300M/year
-  - Liquor/beverages: $50–$150M/year
-  - Home & garden kits: $50–$200M/year
-  - **Total Revenue**: $400–$1,150M/year
-- **Net Profit**: $240–$800M/year (after 20–30% to TerraWell surplus share).
-- **Payback**: 6–18 months from store opening.
-- **Network-Wide (2050, 4,000+ hubs)**: $1.6–$4.6T/year.
+Sensors integrated into grocery/retail stores, robotaxis, Tesla Semi, charging stations, and smart roads; support Tesla vision-only autonomy while enhancing inventory, safety, compliance, and optimization.
 
-## Viability Enhancements & Bottleneck Reduction
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Camera Array (Vision-Only)   | Tesla FSD cameras for object detection, lane keeping, inventory scanning | Vehicle-mounted & store shelves; Tesla FSD stack | Tesla-supplied | Included in vehicle | Core autonomy + inventory efficiency +$50–$150M/hub/year |
+| RTK GNSS Receiver            | Centimeter-level positioning for precision docking/charging/delivery | Embedded in **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)** + vehicle | Ceramic + antenna | 38–85 | Enhanced navigation +$50–$150M/hub/year |
+| mmWave Radar (Backup)        | Short-range obstacle detection (optional redundancy) | Vehicle/road tiles; IEEE 2030 | Mini-Fab electronics | 80–160 | Safety redundancy +$30–$80M/hub/year |
+| Temperature/Humidity (Perishable) | Monitors grocery storage conditions | Store shelves + climate-controlled pods | Waste-derived | 20–50 | Reduced spoilage +$40–$120M/hub/year |
+| Occupancy/Motion (Efficiency) | Customer flow & energy optimization in stores | Dense net kits; ISO/TC 268 | IR + ceramic | 25–50 | OPEX reduction +$20–$60M/hub/year |
 
-- **Phased Rollout**: Pilots Month 4–9 (high-margin fresh items); full expansion Month 10–18 → no early complexity.
-- **Automation**: Smart walls + badges for checkout-less shopping → labor down 50–70%.
-- **Sensor-Driven Efficiency**: Reduces spoilage/loss 20–30%; +$50–$150M/hub/year savings.
-- **Cultural Variants**: Boosts adoption 15–25%; +$100–$300M/hub/year in diverse regions.
-- **Surplus to TerraWell**: 20–40% profit share → humanitarian flywheel.
-- **Bottleneck Mitigation**: Tied to production maturity; no inventory risk (just-in-time from pods).
-
-**Grocery & Retail LLC** strengthens community cohesion, diversifies revenue, and accelerates affiliate recruitment while aligning with the Network's regenerative principles.
+**Handbook Notes**: Vision-only primary (Tesla approach); RTK GNSS enhances accuracy; all data feeds **[OS & Software LLC](innovation-hub/os-software-llc.md)** for optimization. Off-world extensible (radiation-hardened variants).
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
