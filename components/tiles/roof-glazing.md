@@ -14,19 +14,19 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-The **Roof Glazing Semi-Transparent BIPV Tile** provides power generation, daylighting, and water harvest for Genesis hubs and buildings, integrating seamlessly with the all-electric primary energy system (sodium-ion batteries, inductive charging) and biogas methane backup. It supports **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** microgrids, enhances **[Vertical Ag Expansion Kit](components/kits/vertical-ag-expansion-kit.md)** efficiency, and complies with smart city standards (**[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)**) and sustainable codes (**[ISO 14001](docs/standards/iso-14001-environmental.md)**). All buildings using this tile incorporate **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)** for security (weapons/explosives scans + alerts).
+The **Roof Glazing Semi-Transparent BIPV Tile** provides power generation, daylighting, and water harvest for Genesis hubs and buildings, integrating seamlessly with the all-electric primary energy system (sodium-ion batteries, inductive charging) and biogas methane backup. It supports **[Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md)** microgrids, enhances **[Vertical Ag Expansion Kit](..//kits/vertical-ag-expansion-kit.md)** efficiency, and complies with smart city standards (**[ISO/TC 268](../../docs/standards/iso-tc-268.md)**) and sustainable codes (**[ISO 14001](../../docs/standards/iso-14001.md)**). All buildings using this tile incorporate **[Smart Airlock Kit](../kits/smart-airlock-kit.md)** for security (weapons/explosives scans + alerts).
 
 ## Key Functions & Features
 
 - **Power Generation**: Semi-transparent **BIPV** (10–30% efficiency) for all-electric systems.
 - **Daylighting & Water Harvest**: AWG condensers + PAR/thermal sensors for water sovereignty.
-- **Synergies**: Feeds surplus to **[Energy Storage & Thermal Tile](components/tiles/energy-storage-thermal-tile.md)**; condensate to **[Aquaponics Pod](components/pods/aquaponics-pod.md)**; data to **[digital twins](docs/digital-twins.md)** for optimization.
+- **Synergies**: Feeds surplus to **[Energy Storage & Thermal Tile](energy-storage-thermal-tile.md)**; condensate to **[Aquaponics Pod](../pods/aquaponics-pod.md)**; data to **[digital twins](../../docs/digital-twins.md)** for optimization.
 - **All-Electric Integration**: Compatible with inductive charging/microgrids; no hydrogen dependency.
 - **Smart Airlocks**: Mandatory in all buildings; mmWave/hyperspectral + trace detectors for threats.
 
 ## Manufacturing Process
 
-- Location: **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** → permanent factories.
+- Location: **[Tile & Pipe Production Pod](../pods/tile-pipe-production-pod.md)** → permanent factories.
 - Process: Ceramic injection molding → **BIPV** lamination → sensor embedding → blind-mate socket integration → final firing/QC.
 - Inputs: 70–95% waste-derived (RHA silica 80%, C&D slag, farm residues).
 - Materials: Glass-ceramic composite + thin-film PV layers; toughened for durability (MIL-STD-810G).
@@ -43,7 +43,7 @@ The **Roof Glazing Semi-Transparent BIPV Tile** provides power generation, dayli
 
 ## Detailed Sensor List in a Separate Table
 
-Embedded sensors support monitoring, compliance, and optimization; data feeds **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)**.
+Embedded sensors support monitoring, compliance, and optimization; data feeds **[Dense Sensor Net Kit](../kits/dense-sensor-net-kit.md)**.
 
 | Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
 |------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
