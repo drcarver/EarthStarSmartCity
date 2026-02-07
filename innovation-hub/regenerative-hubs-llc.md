@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-The **Regenerative Hubs LLC** oversees the development, operation, and scaling of Genesis regenerative hubs (500–2,500 ha sites), transforming degraded lands into net-positive ecosystems that produce food, energy, water, materials, and services with 95–99% resource closure. It coordinates **[pods](components/pods/)**, **[tiles](components/tiles/)**, and **[kits](components/kits/)** to achieve self-replication, farmer empowerment, and integration with **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)** and **[Smallholder Partnership Co-op LLC](innovation-hub/smallholder-partnership-co-op-llc.md)**.
+The **Regenerative Hubs LLC** oversees the development, operation, and scaling of Genesis regenerative hubs (500–2,500 ha sites), transforming degraded lands into net-positive ecosystems that produce food, energy, water, materials, and services with 95–99% resource closure. It coordinates **[pods](components/pods/)**, **[tiles](components/tiles/)**, and **[kits](components/kits/)** to achieve self-replication, farmer empowerment, and integration with **[TerraWell FreeCare LLC](terrawell-freecare-support-llc.md)** and **[Smallholder Partnership Co-op LLC](farmer-partnership-affiliate-support-llc.md)**.
 
 ## Key Functions & Synergies
 
