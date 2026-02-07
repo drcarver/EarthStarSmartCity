@@ -1,67 +1,74 @@
 ---
 layout: default
-title: Sustainable Mining LLC – Specification Sheet
-description: Professional overview of the Sustainable Mining LLC within the Genesis Network Innovation Hub, focusing on plasma-based clean ore processing and slag valorization.
+title: Genesis Network – Sustainable Mining LLC
+description: Detailed specification for the **Sustainable Mining LLC** in the Genesis Network innovation hub, focusing on minimal, regenerative, and circular mining practices with heavy emphasis on recycling, plasma processing, and critical materials recovery (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Sustainable Mining LLC  
-**Specification Sheet**
+# Genesis Network: **Sustainable Mining LLC**
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-## Executive Overview
+## Objective
 
-Sustainable Mining LLC focuses on minimally invasive, highly automated extraction and processing of critical minerals using plasma vitrification torches for clean ore reduction and slag valorization. Operating as a deferred high-margin component of the Innovation Hub (Phase 3: 2032–2035 trigger), the LLC co-locates with select brownfield or legacy mine sites to recover strategic materials while generating ceramic feedstock (slag) for the Network's tile production. Revenue derives from refined metals sales, recycling services, and internal slag supply, with 60–80% margins at maturity. The LLC supports the Network's mining-minimal circular economy by downsizing virgin extraction needs through recycling dominance.
+The **Sustainable Mining LLC** oversees all mineral and critical material acquisition for the Genesis Network with the explicit goal of minimizing virgin extraction to <10–20% of current global mining levels by 2050. It prioritizes:
 
-**Project Phase**: Deferred High-Margin (2032–2035 trigger; full scale 2040s).  
-**Financials (per mature hub)**: CAPEX $80–200M; Annual Revenue $200–600M; ROI <3 years; IRR contribution +5–10% network-wide.
+- Aggressive recycling of existing infrastructure and e-waste
+- Plasma torch processing for low-grade ores, black mass, and slag
+- Co-location with hubs for closed-loop integration
+- Sodium-ion batteries and ceramics to eliminate most lithium, cobalt, and nickel mining
+- Verifiable compliance with sustainable mining standards and carbon/biodiversity credits
 
-## Relevant Components
+This LLC replaces traditional mining with a circular economy model, feeding recovered materials directly into **[TerraFab Manufacturing LLC](innovation-hub/terrafab-manufacturing-llc.md)** and **[Bio-Materials & Textiles LLC](innovation-hub/bio-materials-textiles-llc.md)**.
 
-### Tiles (Slag-Derived Feedstock Recipients)
+## Key Functions & Synergies
 
-| Name (Hyperlinked)                              | Description & Key Features                          | Inputs/Materials                  | Manufacturing Process              | Cost ($/m²) | Revenue/Value ($/m²) |
-|-------------------------------------------------|-----------------------------------------------------|-----------------------------------|------------------------------------|-------------|-----------------------|
-| [Structural Load-Bearing Tile](components/tiles/structural-load-bearing-tile.md) | High-compressive tiles for foundations/roads; piezo embeds | ELFM/mining slag (70%), residues  | Mixing → forming → firing (plasma pre-treatment) | 16–28       | 48–75                 |
-| [Foundation/Base Tile](components/tiles/foundation-base-tile.md)        | Dense base layers with strain sensors               | Brownfield/mining slag (65%)      | Crushing → mixing → extrusion → kiln | 14–24       | 42–68                 |
+- **Recycling & Urban Mining**: Process end-of-life vehicles, ships, buildings, roads, and e-waste via mobile plasma torches → raw ingots + vitrified slag (ceramic feedstock).
+- **Plasma Processing**: Smelt low-grade ores, recover rare earths, and refine battery black mass; produce syngas for **[Hydrogen Production LLC](innovation-hub/hydrogen-production-llc.md)** backup.
+- **Critical Materials Recovery**: Focus on remaining needs (e.g., REEs, select battery elements) from brine (sodium-ion) and recycled sources.
+- **Synergies**: Waste from **[Infrastructure Recycling LLC](innovation-hub/infrastructure-recycling-llc.md)** and **[Advanced Recycling LLC](innovation-hub/advanced-recycling-llc.md)** feeds plasma; outputs to **[Battery & Storage LLC](innovation-hub/battery-storage-llc.md)** and **[Mining & Recycling LLC](innovation-hub/mining-recycling-llc.md)**; monitoring via **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** and **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)** for compliance.
 
-### Pods (Directly Used/Produced)
+## Mining Strategy & Practices
 
-| Name (Hyperlinked)                              | Description & Key Features                          | Inputs/Materials                  | Manufacturing Process              | Cost ($/pod) | Revenue/Value ($/pod) |
-|-------------------------------------------------|-----------------------------------------------------|-----------------------------------|------------------------------------|--------------|------------------------|
-| [Advanced Recycling & Waste Valorization Pod](components/pods/advanced-recycling-pod.md) | Mobile plasma torch units for ore/slag processing   | Mining ore, e-waste, slag         | Ceramic shell + plasma integration | 1.2–3.0M     | Internal transfer      |
+- **Primary Mining**: <10–20% of current levels by 2050; only criticals not recyclable at scale (REEs, trace elements).
+- **Modernization**: Buy existing mines → lights-out automation + plasma processing; co-locate with hubs for energy/water symbiosis.
+- **Sodium-Ion Priority**: Eliminates most lithium/cobalt/nickel mining; brine-sourced sodium abundant.
+- **Standards Compliance**: ISO 14001, IRMA (Initiative for Responsible Mining Assurance), blockchain-verified traceability for credits.
+- **Reclamation**: All sites rewilded post-extraction using **[Restoration (Blue-Green Carbon) Kit](components/kits/restoration-blue-green-carbon-kit.md)**; sensors track soil/water recovery.
 
-### Kits (Directly Used/Produced)
+## Manufacturing & Infrastructure Integration
 
-| Name (Hyperlinked)                              | Description & Key Features                          | Inputs/Materials                  | Manufacturing Process              | Cost ($/kit) | Revenue/Value ($/kit) |
-|-------------------------------------------------|-----------------------------------------------------|-----------------------------------|------------------------------------|--------------|------------------------|
-| [Advanced Recycling Kit](components/kits/advanced-recycling-kit.md)     | Mobile plasma tools for on-site ore/refining        | Ceramic components, plasma torches| Flat-pack assembly                 | 0.8–2.0M     | 1.5–4.0M (licensed)    |
+- **Plasma Torch Units**: Mobile/co-located; ceramic housings from **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)**.
+- **Processing**: Ore → ingots + slag (ceramic); black mass → metals + gases.
+- **Transport**: **[Tesla Semi](innovation-hub/autonomous-mobility-llc.md)** for bulk; **hyperloop pod system** when available.
+- **Monitoring**: Ground-based radar + **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** for environmental compliance; data feeds **[OS & Software LLC](innovation-hub/os-software-llc.md)**.
 
-### Sensors (Directly Integrated)
+## Recomputed Costs & Revenues (per Mature Hub, February 2026 Baseline)
 
-| Name (Hyperlinked)                              | Description & Key Features                          | Placement                          | Power Source       | Standards Compliance |
-|-------------------------------------------------|-----------------------------------------------------|------------------------------------|--------------------|-----------------------|
-| [Strain / Vibration Sensor Array](docs/sensors/strain-vibration-sensors.md) | Structural health & equipment monitoring            | Mining pods, load-bearing tiles    | Piezo (self-powered) | MIL-STD-810, IEEE 1451 |
-| [Environmental Monitoring Suite](docs/sensors/environmental-monitoring-suite.md) | Dust, emissions, groundwater tracking               | Mining sites, plasma units         | Solar / battery    | ISO 14001             |
+- **CAPEX**: $80–$180M (plasma units, automation; down 15–20% via recycling synergies).
+- **OPEX**: 20–30% of revenue (automation + closure efficiencies).
+- **Processing Costs**: $50–$150/ton ore; $100–$300/ton black mass.
+- **Revenue Streams**:
+  - Recovered metals/REEs: $200–$500M/year (internal use 40%, external sales 60%).
+  - Slag/ceramic feedstock: $100–$250M/year.
+  - Carbon/biodiversity credits: $50–$150M/year ($150–$250/tCO₂e equivalent).
+- **Annual Revenue**: $350–$900M (margins 60–80%).
+- **Revenue Uplift**: +10–20% ($35–$180M/year) from AI optimization and credits platform.
+- **IRR Contribution**: +6–10% to network (overall 35–50%).
+- **Timeline**: Pilots 2028–2030; mature operations 2031–2035.
 
-### Standards & Compliance
+## Detailed Sensor Handbook (Mining-Specific Table)
 
-| Standard (Hyperlinked)                          | Relevance                                           |
-|-------------------------------------------------|-----------------------------------------------------|
-| [ISO 14001 Environmental Management](docs/standards/iso-14001.md) | Core operational standard for minimal impact mining |
-| [MIL-STD-810 Environmental Engineering](docs/standards/mil-std-810.md) | Ruggedness for mining equipment/sensors             |
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Ground-Based Radar           | Site mapping, movement detection | **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)** + radar; IEEE 2030 | Mini-Fab electronics | 80–160 | Compliance mapping +$50–$150M/hub/year |
+| Chemical (pH/Leachate)       | Monitors tailings/water quality | Borehole embeds; ISO 14001 | Sensors + ceramic | 50–100 | Environmental credits +$30–$80M/hub/year |
+| Seismic/Vibration            | Tracks ground stability | Embedded in foundation tiles | Piezo + ceramic | 30–60 | Safety monitoring +$20–$60M/hub/year |
+| Air Quality (VOC/Particulates) | Dust/emissions control | Airlock modules; ITU-T Y.4900 | Hyperspectral + ceramic | 80–200 | Health/safety +$40–$100M/hub/year |
+| Radiation (Gamma/Neutron)    | Monitors rare-earth processing | Portable units; IAEA standards | Electronics + ceramic | 150–300 | Regulatory compliance +$20–$50M/hub/year |
 
-### Related / Supporting LLCs in the Innovation Hub
+**Handbook Notes**: All sensors waste-derived where possible; Faraday mesh for EMP; data feeds **[digital twins](docs/digital-twins.md)** for predictive alerts. Off-world extensible (radiation-hardened variants).
 
-- [Advanced Recycling & Waste Valorization LLC](innovation-hub/advanced-recycling-llc.md)  
-- [Ceramic Tiles LLC](innovation-hub/ceramic-tiles-llc.md)  
-- [Biorefinery LLC](innovation-hub/biorefinery-llc.md)  
-
-## Viability & Integration Notes
-
-Sustainable Mining LLC enables the Network's mining-minimal circular economy by supplying clean critical minerals and slag feedstock while downsizing legacy extraction 20–50%. Plasma processing reduces environmental footprint 70–90% vs. conventional methods. Integration is tightly coupled with recycling and tile production; deferred phasing avoids early CAPEX drag. Risks (permitting, ore variability) mitigated by co-location with brownfields and data moat optimization.
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
