@@ -52,6 +52,41 @@ All buildings use **smart airlocks** (mmWave/hyperspectral + trace detectors) fo
 
 **Handbook Notes**: Sensors enable predictive maintenance (AI/digital twins); support smart city/security (e.g., occupancy for energy, intrusion alerts); sustainable codes via low-energy/recyclable design. Deployment: 1/10–50 m²; off-world extensible (radiation-hardened for Luna/Mars/planets/moons, +$100–$400B/year data revenue 2060+).
 
+## List of LLCs in the Innovation Hub
+
+1. Regenerative Hubs LLC  
+2. TerraFab Manufacturing LLC  
+3. TerraWell FreeCare LLC (nonprofit)  
+4. Smallholder Partnership Co-op LLC  
+5. Industrial Gases LLC  
+6. Restoration Kits LLC  
+7. Robotics & Automation LLC  
+8. Infrastructure Recycling LLC  
+9. OceanNet LLC  
+10. Energy Systems LLC  
+11. Water Sovereignty LLC  
+12. Nutrient Cycling LLC  
+13. Advanced Fab LLC  
+14. OS & Software LLC  
+15. Smart Display Walls LLC  
+16. Communicator Badge LLC  
+17. Grocery & Retail LLC  
+18. Mining & Recycling LLC  
+19. Forestry LLC  
+20. Maritime & Ports LLC  
+21. High-Speed Rail LLC  
+22. Advanced Recycling LLC  
+23. Hydrogen Production LLC  
+24. Battery & Storage LLC  
+25. Bio-Materials & Textiles LLC  
+26. Vertical Urban Farming LLC  
+27. Autonomous Mobility LLC  
+28. Water Purification & Desalination LLC  
+29. Sustainable Energy LLC  
+30. Regenerative Pharmaceuticals LLC  
+31. Sustainable Mining LLC  
+32. Lights-Out Sustainable Forestry LLC  
+
 ## Suggestions to Enhance Viability and Reduce Bottlenecks (Implemented)
 
 1. **AI-Optimized Production**: Data moat for tile/kit yields (+15–25% efficiency; bottleneck reduction via predictive maintenance).
