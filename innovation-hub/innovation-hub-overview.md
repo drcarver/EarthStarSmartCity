@@ -49,16 +49,16 @@ All LLCs self-fund post-bootstrap.
 | [OceanNet LLC](ocean-net-llc.md)                                                 | Exponential            | 2030–2035      | 2,400–4,800 (network-wide) | 60–135 (network-wide)    | 36–108 (network-wide)       |
 | [Advanced Fab LLC](advanced-fab-llc.md)                                                    | Exponential            | 2030–2035      | 100–200        | 150–300                  | 90–240                      |
 | [OS & Software LLC](os-software-llc.md)                                                   | Exponential            | 2030–2035      | 80–400         | 15–80                    | 9–64                        |
-| [Mining & Recycling LLC](#)                                              | Exponential            | 2030–2035      | 80–200         | 200–600                  | 120–480                     |
-| [Forestry LLC](#)                                                        | Exponential            | 2030–2035      | 80–200         | 150–450                  | 90–360                      |
-| [Maritime & Ports LLC](#)                                                | Exponential            | 2030–2035      | 120–280        | 250–700                  | 150–560                     |
-| [High-Speed Rail LLC](#)                                                 | Exponential            | 2030–2035      | 150–350        | 300–800                  | 180–640                     |
-| [Hydrogen Production LLC](#)                                             | Exponential            | 2030–2035      | 100–250        | 280–950                  | 168–760                     |
-| [Bio-Materials & Textiles LLC](#)                                        | Exponential            | 2030–2035      | 70–180         | 120–350                  | 72–280                      |
-| [Autonomous Mobility LLC](#)                                             | Exponential            | 2030–2035      | 150–350        | 200–600                  | 120–480                     |
-| [Regenerative Pharmaceuticals LLC](#)                                    | Exponential            | 2030–2035      | 120–300        | 230–780                  | 138–624                     |
-| [Sustainable Mining LLC](#)                                              | Exponential            | 2030–2035      | 80–200         | 200–600                  | 120–480                     |
-| [Lights-Out Sustainable Forestry LLC](#)                                 | Exponential            | 2030–2035      | 80–200         | 150–450                  | 90–360                      |
+| [Mining & Recycling LLC](mining-recycling-llc.md)                                           | Exponential            | 2030–2035      | 80–200         | 200–600                  | 120–480                     |
+| [Forestry LLC](forestry-llc.md)                            | Exponential            | 2030–2035      | 80–200         | 150–450                  | 90–360                      |
+| [Maritime & Ports LLC](maritime-ports-llc.md)                                                | Exponential            | 2030–2035      | 120–280        | 250–700                  | 150–560                     |
+| [High-Speed Rail LLC](high-speed-rail-transport-llc.md)                                      | Exponential            | 2030–2035      | 150–350        | 300–800                  | 180–640                     |
+| [Electric Grid Optimization LLC](electric–grid–optimization–llc.md)                          | Exponential            | 2030–2035      | 100–250        | 280–950                  | 168–760                     |
+| [Bio-Materials & Textiles LLC](bio-materials-textiles-llc.md)                                | Exponential            | 2030–2035      | 70–180         | 120–350                  | 72–280                      |
+| [Autonomous Mobility LLC](autonomous-mobility-llc.md)                                        | Exponential            | 2030–2035      | 150–350        | 200–600                  | 120–480                     |
+| [Regenerative Pharmaceuticals LLC](regenerative-pharmaceuticals-llc.md)                      | Exponential            | 2030–2035      | 120–300        | 230–780                  | 138–624                     |
+| [Sustainable Mining LLC](sustainable-mining-llc.md)                                          | Exponential            | 2030–2035      | 80–200         | 200–600                  | 120–480                     |
+| [Lights-Out Sustainable Forestry LLC](lights-out-forestry-llc.md)                            | Exponential            | 2030–2035      | 80–200         | 150–450                  | 90–360                      |
 
 **Financial Notes**:
 - CAPEX per hub/LLC (initial setup).
