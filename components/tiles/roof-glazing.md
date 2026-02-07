@@ -1,53 +1,56 @@
 ---
 layout: default
-title: Genesis Network – Roof Glazing Semi-Transparent Tile
-description: Specification for the semi-transparent BIPV roof glazing tile in the Genesis Network, providing daylighting, power generation, water harvesting, and sensor integration for regenerative structures.
+title: Genesis Network – Roof Glazing Semi-Transparent BIPV Tile
+description: Detailed specification for the **Roof Glazing Semi-Transparent BIPV Tile**, including manufacturing, inputs, materials, costs, revenues, integration with all-electric systems, smart airlocks, standards compliance, and viability enhancements (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-The Roof Glazing Semi-Transparent Tile is a multi-functional, waste-derived ceramic module designed for greenhouse roofs, housing, and community structures in the Genesis Network. With 10–30% transmittance, it maximizes natural light for growing zones while generating primary solar power (100–300 Wp/m² peak), harvesting atmospheric water via embedded AWG condensers, and integrating sensors for PAR/thermal/humidity monitoring. Fully compatible with snap-together assembly and blind-mate interconnects, it supports modular, self-powered, regenerative architecture.
+# Genesis Network: **Roof Glazing Semi-Transparent BIPV Tile**
 
-## Pods
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Tile Production Pod](../../components/pods/tile-production-pod.md) | Mass-produces tiles including glazing variants | C&D slag, RHA silica, residues | Feedstock mixing + molding + firing in tent kilns → permanent retrofit | $1–3M | $200–500M/year (tile sales) |
+**Suggested File Path**: components/tiles/roof-glazing-semi-transparent-bipv-tile.md
 
-## Kits
+## Objective
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Greenhouse Starter Kit](../../components/kits/greenhouse-starter-kit.md) | Modular greenhouse assembly with glazing tiles | Ceramic tiles, embeds | Kit packing in factory pods | $300K–800K | $1–3M/year (produce) |
+The **Roof Glazing Semi-Transparent BIPV Tile** provides power generation, daylighting, and water harvest for Genesis hubs and buildings, integrating seamlessly with the all-electric primary energy system (sodium-ion batteries, inductive charging) and biogas methane backup. It supports **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** microgrids, enhances **[Vertical Ag Expansion Kit](components/kits/vertical-ag-expansion-kit.md)** efficiency, and complies with smart city standards (**[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)**) and sustainable codes (**[ISO 14001](docs/standards/iso-14001-environmental.md)**). All buildings using this tile incorporate **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)** for security (weapons/explosives scans + alerts).
 
-## Sensors
+## Key Functions & Features
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [PAR/Thermal/Humidity Sensor](../../docs/sensors/par-thermal-humidity-sensor.md) | Monitors light/heat/moisture for growing optimization | Electronic embeds | Embed during tile forming | $10–20/unit | Included in tile revenue |
+- **Power Generation**: Semi-transparent **BIPV** (10–30% efficiency) for all-electric systems.
+- **Daylighting & Water Harvest**: AWG condensers + PAR/thermal sensors for water sovereignty.
+- **Synergies**: Feeds surplus to **[Energy Storage & Thermal Tile](components/tiles/energy-storage-thermal-tile.md)**; condensate to **[Aquaponics Pod](components/pods/aquaponics-pod.md)**; data to **[digital twins](docs/digital-twins.md)** for optimization.
+- **All-Electric Integration**: Compatible with inductive charging/microgrids; no hydrogen dependency.
+- **Smart Airlocks**: Mandatory in all buildings; mmWave/hyperspectral + trace detectors for threats.
 
-## Standards & Compliance
+## Manufacturing Process
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [ISO 14001 Environmental Management](../../docs/standards/iso-14001.md) | Waste-derived, closure compliance | N/A | Integrated in production | Included | Credits eligibility |
-| [IEEE 2030 Smart Grid](../../docs/standards/ieee-2030.md) | BIPV power integration | N/A | Design compliance | Included | Energy leasing |
+- Location: **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** → permanent factories.
+- Process: Ceramic injection molding → **BIPV** lamination → sensor embedding → blind-mate socket integration → final firing/QC.
+- Inputs: 70–95% waste-derived (RHA silica 80%, C&D slag, farm residues).
+- Materials: Glass-ceramic composite + thin-film PV layers; toughened for durability (MIL-STD-810G).
 
-## Related / Supporting LLCs in the Innovation Hub
+## Recomputed Costs & Revenues (per m², February 2026 Baseline)
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Ceramic Tile Production LLC](../../innovation-hub/ceramic-tile-production-llc.md) | Produces glazing tiles | Slag/RHA | Factory pods | N/A | $200–500M/year |
-| [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md) | BIPV integration | Residues | N/A | N/A | $150–400M/year |
+- **Prod Cost**: $28–55 (down 5–10% via waste efficiencies; all-electric simplifies embeds).
+- **Selling Price**: $85–$150 (premium for sustainable codes compliance).
+- **Revenue Model**: Energy export (50%), water credits (20%), retail/construction sales (30%); margins 60–75%.
+- **Annual Revenue Potential**: $100–$300M/hub (assuming 10,000–20,000 m² roof area; +10–15% uplift from all-electric synergies reducing OPEX).
+- **CAPEX Impact**: $20–$50M/hub for deployment; payback 2–4 years.
+- **IRR Contribution**: +4–8% to network (overall 35–50%).
+- **Timeline**: Available Phase 1 (2026–2028); mature production 2030+.
 
-**Financials**: Production cost $2.8–5.0/ft²; selling price $8.5–14.0/ft²; annual value $150–300/m² (energy/water/credits).  
-**Project Phase**: Phase 1 (2027–2028) – Bootstrap priority.  
-**Suggested File Path**: /components/tiles/roof-glazing-semi-trans-tile.md
+## Detailed Sensor List in a Separate Table
 
-## Viability & Integration Notes
+Embedded sensors support monitoring, compliance, and optimization; data feeds **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)**.
 
-The Roof Glazing Semi-Transparent Tile is highly viable (9/10) as a core revenue driver in Phase 1, enabling quick cash flow from energy/water generation while integrating seamlessly with greenhouse pods, sustainable energy LLC, and sensor nets for AI-optimized growing. It supports smart city standards via embedded interconnects and sustainable codes through waste-derived materials, reducing grid dependency and enhancing closure.
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| PAR/Thermal                  | Light/heat monitoring for PV efficiency and AWG | Tile-embedded; IEEE 2030 | Waste-derived thermopiles | 20–40 | Energy optimization +$20–60M/hub/year |
+| Strain/Vibration             | Structural integrity (wind/impact) | Base layer; ISO/TC 268 | Piezo + ceramic | 30–60 | Maintenance savings +$30–80M/hub/year |
+| Humidity/Condensate          | AWG performance tracking | Microchannels; ISO 14001 | Sensors + ceramic | 15–35 | Water credits +$10–40M/hub/year |
+| mmWave/Occupancy             | Roof access security (integrated with airlocks) | Perimeter embeds; Matter/Thread | Electronics + ceramic | 50–100 | Security compliance +$20–50M/hub/year |
 
----
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
