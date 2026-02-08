@@ -21,7 +21,7 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 - **Every launch must pass 100% of the mitigation gates** listed below.  
 - **Single gate failure = immediate abort** — redirect all resources to next pre-vetted site. No partial or "soft" launches permitted.
 
-**All-Electric Energy Update (Implemented)**: Primary power is 100% electric via **[Battery & Storage LLC](../innovation-hub/battery-storage-llc.md)** sodium-ion tiles, **[Sustainable Energy LLC](../innovation-hub/sustainable-energy-llc.md)** BIPV/piezo generation, and inductive charging. Hydrogen is completely removed. Biogas methane is retained only as a backup fuel source (via **[Biogas Digester Pod](../components/pods/biogas-digester-pod.md)**) for extended isolation or peak demand scenarios.
+**All-Electric Energy Update (Implemented)**: Primary power is 100% electric via **[Battery & Storage LLC](../innovation-hub/battery–storage–llc.md)** sodium-ion tiles, **[Sustainable Energy LLC](../innovation-hub/sustainable-energy-llc.md)** BIPV/piezo generation, and inductive charging. Hydrogen is completely removed. Biogas methane is retained only as a backup fuel source (via **[Biogas Digester Pod](../components/pods/biogas-digester-pod.md)**) for extended isolation or peak demand scenarios.
 
 ## Core Principles (Enforced as Non-Negotiable Doctrine)
 
