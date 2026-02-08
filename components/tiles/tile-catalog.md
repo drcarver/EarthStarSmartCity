@@ -21,11 +21,11 @@ The tile catalog defines all modular, snap-together tiles used in the Genesis Ne
 | Tile Name                          | Manufacturing Process | Input Sources | Materials | Prod Cost ($/m² mature) | Selling Price ($/m²) | Revenue Model |
 |------------------------------------|-----------------------|---------------|-----------|--------------------------|----------------------|---------------|
 | **[Roof Glazing (Semi-Transparent BIPV](roof-glazing.md)** | Molding + lamination | RHA silica (80%) | Glass-ceramic + thin-film PV | 28–55 | 85–150 | Energy export, water credits |
-| **Exterior Cladding**              | Composite layering | C&D slag (70%) | Ceramic composite + PV layers | 25–48 | 75–130 | Premium façades, retail |
-| **Interior Insulating Partition**  | Aeration + channels | Residues, bagasse | Aerated ceramic + channels | 18–35 | 55–100 | Housing kits |
-| **Permeable Road / Path Tile**     | Porous molding + embeds | C&D slag (75%) | Porous ceramic + piezo embeds | 22–40 | 65–110 | Infrastructure contracts |
-| **Foundation / Base Tile**         | Dense molding + embeds | Brownfield slag (65%) | Dense ceramic + embeds | 16–27 | 48–78 | All construction |
-| **RTK GNSS Anchor Tile**           | Antenna embed + molding | Mini-Fab electronics | Ceramic with antenna embed | 38–85 | 250–450 | Precision ag/construction |
+| **[Exterior Cladding](exterior-cladding.md)**              | Composite layering | C&D slag (70%) | Ceramic composite + PV layers | 25–48 | 75–130 | Premium façades, retail |
+| **[Interior Insulating Partition](interior-walls-partitions-tile.md)**  | Aeration + channels | Residues, bagasse | Aerated ceramic + channels | 18–35 | 55–100 | Housing kits |
+| **[Permeable Road / Path Tile](permeable-roads-paths.md)**     | Porous molding + embeds | C&D slag (75%) | Porous ceramic + piezo embeds | 22–40 | 65–110 | Infrastructure contracts |
+| **[Foundation / Base Tile](foundation-base.md)**         | Dense molding + embeds | Brownfield slag (65%) | Dense ceramic + embeds | 16–27 | 48–78 | All construction |
+| **[RTK GNSS Anchor Tile](rtk-gnss-anchor-tile.md)**           | Antenna embed + molding | Mini-Fab electronics | Ceramic with antenna embed | 38–85 | 250–450 | Precision ag/construction |
 | **Energy Storage & Thermal Tile**  | Casing assembly + embeds | Waste anodes | Ceramic casing + sodium-ion cells | 60–140 | 200–400 | Microgrid leasing |
 | **Basic Security & Monitoring Tile** | Sensor embed + molding | Mini-Fab sensors | Ceramic with mmWave/IR | 80–160 | 250–450 | Security contracts |
 | **Smart Airlock Module Tile**      | Module pocket + embed | Electronics + ceramic | Ceramic module pocket | 80–200 (per unit) | 300–700 (per unit) | Compliance & safety |
