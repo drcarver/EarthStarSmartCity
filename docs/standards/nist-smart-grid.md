@@ -1,48 +1,54 @@
 ---
 layout: default
-title: Battery State-of-Charge Monitoring
-description: Detailed overview of battery state-of-charge (SoC) and state-of-health (SoH) monitoring in the Genesis Network, with focus on sodium-ion batteries, black-start readiness, and smart grid integration.
+title: Genesis Network – NIST Smart Grid Framework Implementation
+description: Detailed implementation of the NIST Smart Grid framework in the Genesis Network, including integration with tiles, pods, kits, standards compliance, sensor list, and recomputed financials (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
-theme: minimal
 ---
 
-# Battery State-of-Charge Monitoring  
-**Genesis Network Energy Storage Systems**  
+# Genesis Network: NIST Smart Grid Framework Implementation
 
-**Battery State-of-Charge (SoC)** and **State-of-Health (SoH)** monitoring are critical for the reliability, efficiency, and longevity of the Genesis Network's **[sodium-ion batteries](../components/sodium-ion-batteries.md)**, which provide distributed energy storage across hubs, pods, and microgrids. Accurate SoC/SoH tracking ensures optimal performance, prevents overcharge/discharge, enables **black-start readiness** (rapid system recovery after outages), and supports **[smart grid](../docs/standards/nist-smart-grid.md)** interoperability.
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-## Importance in Genesis Network
+**Suggested File Path**: docs/standards/nist-smart-grid.md
 
-- **Energy Resilience**: Sodium-ion batteries (2–5 days autonomy per hub) power lights-out operations during grid failures or disasters. Precise SoC prevents deep discharges that could strand critical systems.  
-- **Black-Start Capability**: Hubs can restart independently using biogas microturbines + battery reserve; SoC ±1% accuracy ensures reliable sequencing.  
-- **Efficiency Optimization**: **[Data moat](../docs/data-moat.md)** uses SoC/SoH data for predictive load balancing, extending battery life 20–30%.  
-- **Integration**: Batteries tie into **[BIPV/piezo tiles](../components/tiles-catalog.md)** generation and **[biogas microturbines](../components/biogas-microturbines.md)** for seamless hybrid storage.  
+## Objective
 
-## Monitoring Methods & Accuracy
+The Genesis Network implements the **[NIST Smart Grid](docs/standards/nist-smart-grid-framework.md)** framework (NISTIR 7628) to create a resilient, interoperable, and secure energy system. This aligns with the Network's all-electric primary approach (sodium-ion batteries, BIPV/piezo generation, inductive charging), with biogas methane as backup. The framework ensures efficient energy management, integration with **[microgrids](innovation-hub/sustainable-energy-llc.md)**, cybersecurity, and standards compliance (IEEE 2030, ITU-T Y.4900), supporting closed-loop hubs and regenerative cities.
 
-- **Primary Technique**: Coulomb counting + voltage/temperature correlation, calibrated with AI models from **[hyper-dense sensors](../components/hyper-dense-sensors.md)** (3–5× redundancy).  
-- **Accuracy Target**: SoC ±1%, SoH ±2% (exceeds typical Li-ion systems).  
-- **Edge Processing**: RISC-V controllers perform real-time calculations; anomalies trigger **[predictive maintenance](../strategy/predictive-maintenance.md)** alerts.  
-- **Standards Compliance**: Aligns with **[NIST Smart Grid](../docs/standards/nist-smart-grid.md)** frameworks for interoperability and **[IEEE 2030](../docs/standards/ieee-2030.md)** smart grid guidelines.  
+## Key NIST Smart Grid Domains & Genesis Implementation
 
-## Integration with Network Systems
+- **Generation Domain**: **[BIPV Glazing & Roof Tiles](components/tiles/roof-glazing-bipv.md)** and **[Piezo Tiles](components/tiles/permeable-road-path-tile.md)** for distributed renewable generation; biogas backup from **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)**.
+- **Transmission Domain**: Inductive/mmWave waveguides in **[Basic Networking Snap Tile](components/tiles/basic-networking-snap-tile.md)** for low-loss power/data; smart roads with embedded conduits.
+- **Distribution Domain**: **[Energy Storage & Thermal Tile](components/tiles/energy-storage-thermal-tile.md)** sodium-ion banks for load balancing; AI/digital twins for optimization.
+- **Customer Domain**: Rebranded Tesla Superchargers and inductive charging for **[Autonomous Mobility LLC](innovation-hub/autonomous-mobility-llc.md)** robotaxis/Tesla Semi; resident access via **[Communicator Badge](innovation-hub/communicator-badge-llc.md)**.
+- **Operations Domain**: **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** for real-time monitoring; **[OS & Software LLC](innovation-hub/os-software-llc.md)** for predictive maintenance.
+- **Markets Domain**: Energy export/credits via blockchain platform; microgrid leasing.
+- **Service Provider Domain**: Integration with **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** for utilities.
 
-- **Microgrid Level**: Batteries enable bidirectional export/import via **[smart pipes](../components/smart-pipes.md)**; SoC data optimizes surplus sales to affiliates.  
-- **Disaster Resilience**: Black-start protocols activate on low SoC thresholds during **[nuclear winter](../docs/resilience-analysis.md)** or grid collapse scenarios.  
-- **Space Feedback**: Earth SoC algorithms refine **[lunar/Mars battery systems](../roadmaps/lunar-mars-settlements.md)** for extreme environments.  
+## Cybersecurity & Interoperability
 
-## Sensor Table for Battery Monitoring
+- **NIST Compliance**: Capability-based security via seL4 microkernel; end-to-end encryption; **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)** for physical-cyber fusion.
+- **Standards**: **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** for smart city alignment; **[ISO 14001](docs/standards/iso-14001-environmental.md)** for sustainability; Matter/Thread for IoT.
 
-| Sensor Type                        | Applications                              | Specs                  | Standards Compliance                  | Cost ($/unit) |
-|------------------------------------|-------------------------------------------|------------------------|---------------------------------------|---------------|
-| **Battery State-of-Charge**        | Sodium-ion health, black-start readiness  | SoC/SoH ±1%            | **[NIST Smart Grid](../docs/standards/nist-smart-grid.md)** | 10–25        |
-| **Voltage/Current**                | Real-time coulomb counting                | ±0.1% accuracy         | **[IEEE 2030](../docs/standards/ieee-2030.md)**    | 8–15         |
-| **Temperature/Thermal**            | Overheat prevention, calibration          | –40–100°C; ±0.5°C       | **[MIL-STD-810](../docs/standards/mil-std-810.md)**| 10–20        |
-| **Impedance Spectroscopy**         | SoH degradation detection                 | 1 mHz–10 kHz range     | **[NASA-STD-3001](../docs/standards/nasa-std-3001.md)** | 20–40        |
-| **Strain/Vibration**               | Physical integrity, shock detection       | ±0.1% strain           | **[IEEE 1451](../docs/standards/ieee-1451.md)**    | 12–25        |
+## Recomputed Financials (Network-Wide, Base Scenario)
 
----
+- **CAPEX**: $2–$5B (2027–2035 for grid embeds/sensors; down 5–10% via all-electric synergies).
+- **OPEX**: 15–25% of energy revenue (AI optimization reduces losses 20–30%).
+- **Annual Revenue**: $100–$300B (2040s; energy export 50%, leasing 30%, credits 20%; margins 70–85%).
+- **Revenue Uplift**: +10–15% ($10–$45B/year) from NIST-enabled efficiencies/credits.
+- **IRR Contribution**: +5–8% to network (overall 35–50%).
+- **NPV** (8% discount, to 2050): $0.5–$1.5T from smart grid alone.
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](../LICENSE.md).  
+## List of Sensors in a Separate Table
 
-© 2025 Earth-Star Industries
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Power Flow (Voltage/Current) | Monitors grid stability/load | **[Energy Storage & Thermal Tile](components/tiles/energy-storage-thermal-tile.md)**; IEEE 2030 | Electronics + ceramic | 40–80 | Efficiency savings +$50–150M/hub/year |
+| Environmental (Temp/Humidity) | Predicts overloads/maintenance | Microgrid nodes; ISO 14001 | Waste-derived | 20–50 | Uptime boosts +$40–120M/hub/year |
+| Cybersecurity (Anomaly Detection) | Detects intrusions/tampering | **[OS & Software LLC](innovation-hub/os-software-llc.md)** embeds; NISTIR 7628 | AI chips + ceramic | 100–200 | Risk reduction +$30–80M/hub/year |
+| mmWave Radar (Occupancy)     | Demand forecasting | Road/charging tiles; ITU-T Y.4900 | Mini-Fab | 80–160 | Optimization +$50–100M/hub/year |
+| RTK GNSS                     | Precise asset tracking | **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)**; Matter/Thread | Ceramic + antenna | 38–85 | Navigation +$20–60M/hub/year |
+
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
