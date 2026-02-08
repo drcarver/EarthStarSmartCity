@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-The tile catalog defines all modular, snap-together tiles used in the Genesis Network for construction, energy, security, and smart functions. All tiles are manufactured in **[Tile & Pipe Production Pods](components/pods/tile-pipe-production-pod.md)** using 70–95% waste-derived toughened ceramics, with blind-mate interconnects for power/data/thermal/water. They support smart city standards (**[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)**, IEEE 2030) and sustainable codes (**[ISO 14001](docs/standards/iso-14001-environmental.md)**, Cradle-to-Cradle). Tiles enable all-electric primary energy (sodium-ion storage, BIPV/piezo) with biogas methane backup.
+The tile catalog defines all modular, snap-together tiles used in the Genesis Network for construction, energy, security, and smart functions. All tiles are manufactured in **[Tile & Pipe Production Pods](../pods/tile-pipe-production-pod.md)** using 70–95% waste-derived toughened ceramics, with blind-mate interconnects for power/data/thermal/water. They support smart city standards (**[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)**, IEEE 2030) and sustainable codes (**[ISO 14001](docs/standards/iso-14001-environmental.md)**, Cradle-to-Cradle). Tiles enable all-electric primary energy (sodium-ion storage, BIPV/piezo) with biogas methane backup.
 
 ## List of All Tiles (14 Total – 12 Core + 2 for Standards)
 
@@ -26,7 +26,7 @@ The tile catalog defines all modular, snap-together tiles used in the Genesis Ne
 | **[Permeable Road / Path Tile](permeable-roads-paths.md)**     | Porous molding + embeds | C&D slag (75%) | Porous ceramic + piezo embeds | 22–40 | 65–110 | Infrastructure contracts |
 | **[Foundation / Base Tile](foundation-base.md)**         | Dense molding + embeds | Brownfield slag (65%) | Dense ceramic + embeds | 16–27 | 48–78 | All construction |
 | **[RTK GNSS Anchor Tile](rtk-gnss-anchor-tile.md)**           | Antenna embed + molding | Mini-Fab electronics | Ceramic with antenna embed | 38–85 | 250–450 | Precision ag/construction |
-| **Energy Storage & Thermal Tile**  | Casing assembly + embeds | Waste anodes | Ceramic casing + sodium-ion cells | 60–140 | 200–400 | Microgrid leasing |
+| **[Energy Storage & Thermal Tile](rtk-gnss-anchor-tile.md)**  | Casing assembly + embeds | Waste anodes | Ceramic casing + sodium-ion cells | 60–140 | 200–400 | Microgrid leasing |
 | **Basic Security & Monitoring Tile** | Sensor embed + molding | Mini-Fab sensors | Ceramic with mmWave/IR | 80–160 | 250–450 | Security contracts |
 | **Smart Airlock Module Tile**      | Module pocket + embed | Electronics + ceramic | Ceramic module pocket | 80–200 (per unit) | 300–700 (per unit) | Compliance & safety |
 | **Canopy Microclimate Tile**       | Channel molding + mounts | Residues | Ceramic with channels | 30–60 | 90–150 | Vertical ag kits |
