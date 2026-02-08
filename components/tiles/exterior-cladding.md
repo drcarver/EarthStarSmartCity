@@ -1,63 +1,94 @@
 ---
 layout: default
-title: Exterior Cladding – Genesis Network Product Specification
-description: Professional specification sheet for Genesis Network Exterior Cladding tiles, including components, dependencies, standards, financials, and integration notes.
+title: Genesis Network – Exterior Cladding Tile Full Specification
+description: Completely detailed specification for the **Exterior Cladding** tile in the Genesis Network, including manufacturing, inputs, materials, costs, revenues, integration with smart airlocks/standards, and viability enhancements (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Exterior Cladding  
-**Genesis Network Product Specification**  
-**Earth-Star Technologies – January 2026 Baseline**
+# Genesis Network: **Exterior Cladding** Tile
 
-Exterior Cladding tiles form the primary vertical facade system for Genesis hubs, pods, housing, schools, hospitals, retail centers, and TerraWell facilities. These snap-on, waste-derived toughened ceramic modules deliver structural integrity, supplementary power generation, atmospheric water harvesting, predictive maintenance intelligence, and cultural/patterned aesthetics while achieving 70–95% waste-derived composition at maturity. Designed for rapid factory staging and modular upgrades, they integrate seamlessly with the pod-centric architecture and support full closed-loop resilience.
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-## Components & Dependencies
+**Suggested File Path**: components/tiles/exterior-cladding.md
 
-### Pods
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
-|------|----------------------------|------------------|------------------------|---------------|-----------------------|
-| [Tile & Pipe Production Pod](../pods/tile-production-pod.md) | Produces cladding tiles; kilns, robotic handling, sensor integration | Slag, RHA, residues | Pod assembly → feedstock intake → automated production line | 0.8–2.0M | 1.5–3.5M (internal transfer) |
+## Objective
 
-### Kits
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
-|------|----------------------------|------------------|------------------------|---------------|-----------------------|
-| [Smart Infrastructure Interconnect Kit](../kits/smart-infrastructure-kit.md) | Includes cladding mounting hardware, conduits, snap connectors | Ceramic feedstock, conductive elements | Kit packing → robotic assembly | 0.4–1.0M | 0.8–2.0M |
+The **Exterior Cladding** tile serves as the primary weatherproof envelope for Genesis hubs, cities, towers, and structures. It delivers:
 
-### Sensors
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|------|----------------------------|------------------|------------------------|------|---------------|
-| [Strain / Vibration Sensors](../../docs/sensors/strain-vibration.md) | Embedded in cladding for structural health monitoring | Piezoelectric layers, ceramic matrix | Embedded during tile forming | $2–8/unit | Predictive maintenance value |
-| [Thermal / Humidity Sensors](../../docs/sensors/thermal-humidity.md) | Monitor facade climate & AWG performance | Micro-sensors, conduits | Embedded during tile forming | $1–5/unit | AWG efficiency gains |
+- Durable protection against wind, rain, UV, temperature extremes, and impact
+- Supplementary power generation via integrated **[BIPV](components/tiles/roof-glazing-semi-transparent-bipv.md)** layers
+- Passive water recapture through embedded **[AWG channels](components/pods/awg-condensate-recovery-pod.md)**
+- Real-time structural health monitoring via **[strain/vibration sensors](docs/sensors/structural-sensor-handbook.md)**
+- Aesthetic and cultural customization (patterns, colors, textures)
+- Full compliance with **[smart city standards](docs/standards/smart-city-standards-overview.md)** and **[sustainable building codes](docs/standards/sustainable-building-codes.md)**
 
-### Standards & Compliance
-| Standard / Reference | Description | Relevance to Exterior Cladding | Link |
-|----------------------|-------------|--------------------------------|------|
-| [ISO 14001](../../docs/standards/iso-14001.md) | Environmental management system | Full lifecycle compliance | — |
-| [ASTM C216](../../docs/standards/astm-c216.md) | Facing brick / ceramic units | Structural performance | — |
-| [IEEE 1451](../../docs/standards/ieee-1451.md) | Smart transducer interfaces | Sensor interoperability | — |
-| [ISO/TC 268](../../docs/standards/iso-tc-268.md) | Sustainable cities & communities | Smart facade integration | — |
+Every Genesis building uses **Exterior Cladding** tiles on vertical surfaces and integrates mandatory **[smart airlocks](components/kits/smart-airlock-kit.md)** at all entrances (mmWave/hyperspectral + trace detectors for weapons/explosives/narcotics; silent alerts to security via **[dense sensor net](components/kits/dense-sensor-net-kit.md)**).
 
-### Related / Supporting LLCs in the Innovation Hub
-- [Bio-Materials & Textiles LLC](../../innovation-hub/bio-materials-textiles-llc.md) – Cultural/patterned surface finishes  
-- [Sustainable Energy LLC](i../../nnovation-hub/sustainable-energy-llc.md) – BIPV power optimization  
-- [Advanced Recycling & Waste Valorization LLC](../../innovation-hub/advanced-recycling-llc.md) – C&D slag feedstock processing  
+## Key Features & Performance
 
-**Project Phase**  
-- Phase 1 (Bootstrap): 2026–2028 – Initial production in tent-based Tile Pods  
-- Phase 2 (Early Scale): 2029–2032 – Permanent factory clusters; full cultural/patterned variants  
-- Phase 3 (National Maturity): 2033–2045 – Network-wide deployment; AI upgrade slots active  
+- **Weather Resistance**: IP67-equivalent sealing, UV-stable coating, thermal expansion joints, impact rating (MIL-STD-810G drop/vibration)
+- **Power Output**: 8–22 W/m² (BIPV thin-film); contributes to hub microgrid via **[Energy Systems LLC](innovation-hub/energy-systems-llc.md)**
+- **Water Harvest**: Integrated microchannels collect condensate/humidity; feeds **[Water Sovereignty LLC](innovation-hub/water-sovereignty-llc.md)** loop
+- **Sensors**: Embedded **[strain/vibration](docs/sensors/structural-sensor-handbook.md)** + **[mmWave radar](docs/sensors/mmWave-radar-sensor.md)** for occupancy/security; data to **[digital twins](docs/digital-twins.md)**
+- **Aesthetics**: Customizable surface finishes (matte/metallic/textured); cultural/religious patterns available
+- **Modularity**: Snap-together with blind-mate interconnects (power/data/thermal/water); tool-less replacement
+- **Standards Alignment**:
+  - **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** – Smart sustainable cities
+  - **[IEEE 2030](docs/standards/ieee-2030-smart-grid.md)** – Smart grid interoperability
+  - **[ITU-T Y.4900](docs/standards/itu-t-y-4900-smart-sustainable-cities.md)** – Smart sustainable cities framework
+  - **[Matter/Thread](docs/standards/matter-thread-iot.md)** – Secure IoT connectivity
+  - **[ISO 14001](docs/standards/iso-14001-environmental.md)** – Environmental management
+  - **[Cradle-to-Cradle](docs/standards/cradle-to-cradle-sustainable.md)** – Circular design & recyclability
 
-**Financials (Mature Network, per hub basis)**  
-- Production Cost: $22–40/m²  
-- Selling Price: $65–110/m² (premium uplift +15–35% for active features)  
-- Gross Margin: 60–78%  
-- Annual Output (mature hub): 200,000–500,000 m²  
-- Annual Revenue Contribution (per hub): $13–55M  
-- Network-wide Revenue (2050): $30–90B/year (cladding segment)  
+## Manufacturing Process
 
-## Viability & Integration Notes
+- **Location**: **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** → permanent tile factories
+- **Inputs** (70–95% waste-derived):
+  - Primary: C&D slag (70%)
+  - Secondary: Rice husk ash silica, farm residues, brownfield slag
+- **Materials**:
+  - Base: Toughened ceramic composite (60–100+ MPa)
+  - BIPV layer: Thin-film photovoltaic (amorphous silicon or perovskite)
+  - Sensors: Piezo + mmWave embeds
+  - Coating: UV-resistant, self-cleaning nano-layer
+- **Process Steps**:
+  1. Feedstock crushing/mixing
+  2. Forming/extrusion into molds
+  3. BIPV lamination + sensor embed
+  4. Firing (1,200–1,400°C, biogas-heated)
+  5. Coating application
+  6. Vision/AI quality control + functional testing
+- **Size**: Standard 600 × 600 mm; variants up to 1200 × 1200 mm
+- **Yield Target**: 90–96% mature
 
-Exterior Cladding tiles are a **core revenue and resilience driver**, providing immediate market-ready cash flow (structural + active features) while supporting modular AI upgrades and cultural customization. Integration with smart airlocks (hyperspectral/mmWave threat scanning) and dense sensor nets ensures compliance with sustainable building codes (ISO 14001, ISO/TC 268) and smart city standards. Low embodied carbon (waste-derived) and passive-dominant design (BIPV + AWG) deliver strong lifecycle ROI. Bottleneck mitigation: pre-supply feedstock from staging hubs; parallel production pods prevent single-point failures.
+## Recomputed Costs & Revenues (February 2026 Baseline)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+- **Production Cost**: $25–$48/m² (down 5–10% from waste efficiencies and biogas firing)
+- **Selling Price**: $75–$130/m² (premium sustainable façades + standards certification uplift)
+- **Annual Revenue Potential (per mature hub)**: $50–$150M (external sales 60%, internal use 30%, affiliate 10%; margins 65–75%)
+- **Revenue Uplift from Enhancements**:
+  - Standards compliance credits: +$5–$20M/hub/year
+  - BIPV export + AWG water: +$10–$30M/hub/year
+  - Predictive maintenance savings: +$5–$15M/hub/year
+- **CAPEX for Deployment**: $40–$120M/hub (integrated into shell construction; offset by internal use)
+- **OPEX**: 12–20% of revenue (automation + low maintenance)
+- **IRR Contribution**: +4–7% to network (overall 35–50%)
+- **Timeline**: Pilots 2027–2028; mature production 2029+ (accelerated 6 months via **[Data Moat](docs/data-moat.md)** and waste synergies)
+
+## Detailed Sensor Handbook for **Exterior Cladding**
+
+All sensors are embedded during manufacturing; data feeds **[digital twins](docs/digital-twins.md)** and **[dense sensor net](components/kits/dense-sensor-net-kit.md)**.
+
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Strain/Vibration             | Detects structural stress, wind loading, seismic activity | **[ISO 14001](docs/standards/iso-14001-environmental.md)** compliance | Piezo + ceramic | 30–60 | Predictive maintenance +$20–$50M/hub/year |
+| mmWave Radar                 | Occupancy, intrusion, security perimeter monitoring | **[Matter/Thread](docs/standards/matter-thread-iot.md)** security | Mini-Fab electronics | 80–160 | Security contracts +$30–$80M/hub/year |
+| Thermal/Humidity             | Monitors façade temperature, humidity for AWG efficiency | **[ITU-T Y.4900](docs/standards/itu-t-y-4900-smart-sustainable-cities.md)** | Waste-derived probes | 20–50 | Water optimization +$15–$40M/hub/year |
+| BIPV Output Sensor           | Real-time power generation tracking | **[IEEE 2030](docs/standards/ieee-2030-smart-grid.md)** grid interop | Electronics + ceramic | 25–50 | Energy export revenue +$10–$30M/hub/year |
+| UV & Degradation Monitor     | Tracks surface weathering, coating integrity | **[Cradle-to-Cradle](docs/standards/cradle-to-cradle-sustainable.md)** longevity | UV sensors + ceramic | 35–70 | Extended service life credits +$10–$25M/hub/year |
+
+**Sensor Notes**: All sensors support **[smart city standards](docs/standards/smart-city-standards-overview.md)**; Faraday mesh for EMP protection; off-world radiation-hardened variants available.
+
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
