@@ -10,6 +10,7 @@ license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
+**Suggested File Path**: components/tiles/interior-insulating-partition-tile.md
 
 ## Objective
 
