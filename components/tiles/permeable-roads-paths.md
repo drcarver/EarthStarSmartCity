@@ -1,65 +1,57 @@
 ---
 layout: default
-title: Permeable Roads/Paths Tiles – Genesis Network Specification
-description: Detailed single-page specification for Genesis Network Permeable (Roads/Paths) Tiles, including components, integration, financials, and compliance.
+title: Genesis Network – Permeable Road / Path Tile
+description: Detailed specification for the **Permeable Road / Path Tile** in the Genesis Network, including manufacturing, inputs, materials, costs, revenues, embedded sensors, standards compliance, and viability enhancements (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Permeable Roads/Paths Tiles  
-**Genesis Network Component Specification**
+# Genesis Network: **Permeable Road / Path Tile**
 
-Permeable Roads/Paths Tiles form the internal circulation and drainage backbone of Genesis hubs and regenerative cities. These porous ceramic modules allow stormwater infiltration while generating micro-power via piezoelectric harvesting, embedding sensors for traffic/structural monitoring, and integrating with the smart infrastructure grid for bidirectional utility flow. Manufactured from 75%+ waste-derived materials (primarily C&D slag), they support full closed-loop construction, reduce flooding, recharge aquifers, and provide self-powered edge intelligence.
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-### Components Used / Produced
+**Suggested File Path**: components/tiles/permeable-road-path-tile.md
 
-#### Pods (Supporting Production & Deployment)
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/pod) | Revenue/Value ($/pod) |
-|------|-----------------------------|------------------|------------------------|--------------|------------------------|
-| [Tile & Pipe Production Pod](../pods/tile-pipe-production-pod.md) | Produces permeable tiles & interconnect pipes | Slag, RHA, residues | Robotic forming/firing cluster | 0.8–2.0M | 1.5–3.5M (internal transfer) |
+## Objective
 
-#### Kits (Supporting Deployment)
-| Name | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost ($/kit) | Revenue/Value ($/kit) |
-|------|-----------------------------|------------------|------------------------|--------------|------------------------|
-| [Smart Infrastructure Interconnect Kit](../kits/smart-infrastructure-interconnect-kit.md) | Pipes, permeable road tiles, PoE injectors, snap connectors | Ceramic feedstock, conductive layers | Pod assembly + robotic handling | 0.4–1.0M | 0.8–2.0M (sales to affiliates) |
+The **Permeable Road / Path Tile** provides durable, drainage-efficient surfaces for roads, paths, and circulation zones in Genesis hubs and cities. It harvests traffic energy via embedded piezo elements, captures stormwater for recharge, and integrates inductive charging for all-electric vehicles (e.g., **[robotaxis](innovation-hub/autonomous-mobility-llc.md)** from Tesla). This tile supports smart city mobility and sustainable infrastructure, aligning with **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** standards for drainage/resilience and **[ISO 14001](docs/standards/iso-14001-environmental.md)** for permeable, recyclable design.
 
-#### Sensors (Embedded / Required)
-| Name | Description & Key Features | Inputs/Materials | Placement | Cost (per tile) | Value (data/credits) |
-|------|-----------------------------|------------------|-----------|-----------------|----------------------|
-| Strain / Vibration Sensors | Structural health, traffic load monitoring | Piezo layers | Tile matrix | $0.5–1.2 | High (predictive maintenance) |
-| Acoustic Sensors | Vehicle/foot traffic detection, anomaly flagging | Piezo/microphone | Tile surface | $0.3–0.8 | Medium (security) |
-| Stormwater / Permeability Sensors | Infiltration rate, clogging detection | Capacitive probes | Tile base | $0.4–1.0 | High (water credits) |
+## Key Functions & Features
 
-#### Standards & Compliance (Directly Applicable)
-| Standard / Reference | Description | Relevance to Permeable Roads/Paths |
-|----------------------|-------------|-------------------------------------|
-| [ASTM C109](../../docs/standards/astm-c109.md) | Compressive strength testing | Structural integrity verification |
-| [ISO 14001](../../docs/standards/iso-14001.md) | Environmental management | Permeable design reduces runoff pollution |
-| [ISO/TC 268](../../docs/standards/iso-tc-268.md) | Sustainable cities & communities | Smart infrastructure KPIs |
-| [IEEE 2030](../../docs/standards/ieee-2030.md) | Smart grid interoperability | Power/data integration |
-| [ITU-T Y.4900](../../docs/standards/itu-t-y4900.md) | Smart sustainable cities metrics | Permeability & energy harvesting tracking |
+- **Permeability & Drainage**: Porous structure allows stormwater infiltration (50–150 mm/hour), reducing flooding and recharging aquifers via integrated channels.
+- **Energy Harvest**: Piezo elements (20–60 per m²) generate 2–15 W/m² from traffic/vibration, feeding microgrids or inductive charging.
+- **Inductive Charging**: Embedded coils for dynamic charging of electric vehicles (e.g., **Tesla Semi** for freight, **robotaxis** for passengers).
+- **Durability**: Toughened ceramic withstands heavy loads (trucks, rail extensions); MIL-STD-810G compliant.
+- **Smart Integration**: Embeds for **[RTK GNSS Anchor Tile](components/tiles/rtk-gnss-anchor-tile.md)** positioning, V2X communication, and sensor monitoring.
+- **Synergies**: Complements **[Smart Infrastructure Pod](components/pods/smart-infrastructure-pod.md)** for utilities; **[Infrastructure Recycling Kit](components/kits/infrastructure-recycling-kit.md)** for RCA bases under tiles.
 
-#### Related / Supporting LLCs in the Innovation Hub
-- [Advanced Recycling & Waste Valorization LLC](../../innovation-hub/advanced-recycling-llc.md) – Supplies C&D slag feedstock  
-- [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md) – Integrates piezo power into DC microgrid  
-- [High-Speed Rail & Transport Extensions LLC](../../innovation-hub/high-speed-rail-transport-llc.md) – Compatible with smart road extensions  
+## Manufacturing Process
 
-**Project Phase**  
-- Phase 1 (Bootstrap): 2026–2028 – Initial internal roads in pilot hubs  
-- Phase 2 (Early Scale): 2029–2035 – Full hub networks + affiliate mini-hubs  
-- Phase 3 (National Maturity): 2036–2045 – City/tower integration & export sales  
+- **Process**: Porous ceramic injection molding → piezo/sensor embedding → blind-mate interconnect lamination → firing (1,200–1,400°C, biogas-powered) → QC.
+- **Input Sources**: 75% C&D slag, recycled aggregates (RCA), farm residues.
+- **Materials**: Porous ceramic composite + piezo crystals + inductive coils (copper embeds) + sensors.
+- **Standards Compliance**: Manufactured to **[ISO 14001](docs/standards/iso-14001-environmental.md)** for low-emission process; recyclable at end-of-life via plasma recovery.
 
-**Financials (Permeable Roads/Paths Tiles – Mature Network)**  
-- Production Cost: $20–34/m²  
-- Selling Price (internal/affiliate): $57–92/m²  
-- External Market Price: $80–140/m² (premium smart permeable)  
-- Annual Output (mature network): 200–600 million m²/year  
-- Gross Revenue Potential: $20–70B/year (tiles only)  
-- Additional Value: $5–15B/year (piezo energy, stormwater credits, compliance data sales)  
-- Margins: 60–75% (automation + waste-derived inputs)
+## Recomputed Costs & Revenues (per m², Mature Network, February 2026 Baseline)
 
-## Viability & Integration Notes
+- **Production Cost**: $22–$40 (down 5–10% via waste-derived efficiencies; piezo embeds $5–10/m², inductive coils $3–8/m²).
+- **Selling Price**: $65–$110 (premium for smart features +20–30%).
+- **Annual Revenue Potential (per hub, assuming 200–500k m² roads/paths)**: $10–$50M (infrastructure contracts 60%, energy harvest leasing 20%, charging fees 20%; margins 55–70%).
+- **Revenue Uplift from Enhancements**: +10–15% ($1–$7.5M/year/hub) via inductive charging for all-electric fleets and stormwater credits ($50–$150/gallon recharged).
+- **IRR Contribution**: +4–7% to network (overall 35–50%).
+- **Timeline**: Available in Phase 1 bootstrap (2027–2030); mature yields 2031+.
 
-Permeable Roads/Paths Tiles are a foundational quick-win component: high early revenue (infrastructure contracts), strong regulatory alignment (stormwater compliance), and direct support for hub density. Integration with sensor nets enables real-time maintenance and credits monetization. The tile-first bootstrap model ensures roads are among the first revenue-generating assets in new hubs. Full compliance with smart city standards (ISO/TC 268, IEEE 2030) positions them as a flagship product for affiliate sales and external markets.
+## List of Sensors in a Separate Table
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+Embedded sensors for monitoring, compliance, and optimization; support smart city (**[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)**) and sustainable codes (**[ISO 14001](docs/standards/iso-14001-environmental.md)**).
+
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Strain/Pressure               | Traffic load/structural monitoring | Piezo embeds; IEEE 1451 | Piezo crystals | 10–20 | Maintenance savings +$20–$60M/hub/year |
+| Moisture/Flow                | Stormwater drainage tracking | Channel sensors; ISO 14001 | Waste-derived probes | 15–30 | Recharge credits +$30–$80M/hub/year |
+| Vibration/Energy Harvest     | Piezo performance monitoring | Embedded in tile; ITU-T Y.4900 | Sensors + ceramic | 20–40 | Optimization +$10–$30M/hub/year |
+| mmWave Occupancy             | Traffic flow detection | Surface embeds; Matter/Thread | Electronics + ceramic | 50–100 | Efficiency +$20–$50M/hub/year |
+| RTK GNSS Receiver            | Precision vehicle positioning | Anchor integration; ISO/TC 268 | Ceramic + antenna | 38–85 | Navigation revenue +$30–$70M/hub/year |
+
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
