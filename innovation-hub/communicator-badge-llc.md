@@ -1,83 +1,98 @@
 ---
 layout: default
-title: Genesis Network – Communicator Badge LLC (Updated with Enhanced Sensors & CGM Patch)
-description: Updated specification for the Communicator Badge LLC in the Genesis Network innovation hub, incorporating all proposed additional sensors, a full CGM-style patch companion device, future iterations, and disease/problem detection capabilities (February 2026 baseline).
+title: Genesis Network – Communicator Badge LLC & CGM Patch Specification
+description: Original full specification for the Communicator Badge LLC, including the Health variant with all proposed sensors, companion CGM-style patch, future iterations, and diseases/problems that can be screened or early-detected (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network: **Communicator Badge LLC** (Enhanced Sensors & CGM Patch Integration)
+# Genesis Network: **Communicator Badge LLC** & CGM Patch Specification
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
-**Suggested File Path**: innovation-hub/communicator-badge-llc-enhanced.md
+**Suggested File Path**: innovation-hub/communicator-badge-llc.md
 
 ## Objective
 
-The **Communicator Badge LLC** now oversees the flagship wearable device and its companion **CGM-style Continuous Glucose Monitor Patch**. This update integrates **all previously proposed additional sensors**, creating a powerful preventive health platform for hub residents, workers, affiliates, and **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)** users.
+The **Communicator Badge LLC** designs, manufactures, and deploys the flagship Genesis wearable device family. The core product is a compact, privacy-first communicator badge that serves as a personal interface, safety device, and continuous health monitor. The **Health variant** integrates an expanded sensor suite for proactive screening of metabolic, cardiovascular, respiratory, stress, and infectious conditions. A companion **CGM-style patch** provides gold-standard interstitial glucose monitoring and additional metabolic biomarkers.
 
-The system enables early detection of metabolic disorders, cardiovascular risks, respiratory issues, stress-related conditions, dehydration, inflammation, and more — feeding data to **[digital twins](docs/digital-twins.md)** and **[OS & Software LLC](innovation-hub/os-software-llc.md)** for personalized alerts and TerraWell referrals.
+This specification is the **original baseline** (not an update) and includes all sensors proposed to date, plus future iteration roadmap.
 
-## Core Devices
+## Core Product Family
 
-1. **Communicator Badge (Health Variant – Enhanced)**
-   - Form factor: 40–55 mm diameter × 10–14 mm thick, 22–38 g
-   - Power: Piezo + micro-BIPV + 80–150 mAh solid-state battery (7–14 days standby on tile mesh)
-   - Compute: RISC-V 4–8 core, 2–8 GB RAM, on-device LLM (Phi-2/TinyLlama)
-   - Connectivity: mmWave/inductive to tile fabric primary; BLE/cellular fallback
+1. **Communicator Badge Core**  
+   - General-purpose wearable for communication, positioning, and basic vitals  
+   - Retail price: $89–$149
 
-2. **CGM-Style Continuous Glucose Monitor Patch**
-   - Form factor: 25–35 mm diameter adhesive patch, ~5–8 g
-   - Wear duration: 14 days (standard); future iterations target 28–90 days
-   - Power: Small coin cell + body heat harvesting
-   - Transmission: BLE to badge (primary); direct mmWave to tile fabric (fallback)
-   - Mounting: Upper arm, abdomen, or back (recommended sites)
+2. **Communicator Badge Health**  
+   - Expanded sensor suite for continuous metabolic, cardiac, respiratory, stress, and inflammation screening  
+   - Retail price: $149–$299 (premium tier)
 
-## Full Sensor Suite (Badge + CGM Patch)
+3. **CGM-Style Continuous Monitor Patch**  
+   - Companion minimally invasive patch for precise glucose + emerging metabolic biomarkers  
+   - Worn on upper arm or abdomen; pairs with badge via BLE/mmWave  
+   - Retail price: $89–$199 per 14-day patch (subscription model)
 
-| Sensor Type                  | Device       | What It Measures                              | Maturity (2026) | Accuracy / Correlation | Key Detection Capabilities | Added Cost/Unit | Revenue/Impact Potential |
-|------------------------------|--------------|-----------------------------------------------|-----------------|-------------------------|-----------------------------|-----------------|---------------------------|
-| **PPG (Photoplethysmography)** | Badge       | HR, HRV, SpO₂, pulse wave                     | Very High       | ±2–3% SpO₂             | Hypoxia, arrhythmias, stress, sleep apnea | Included        | Very High (+$150–$500M/year) |
-| **IMU / Accelerometer**      | Badge       | Motion, posture, fall, respiratory rate       | Very High       | N/A                     | Falls, activity, position-dependent apnea | Included        | High (+$50–$150M/year) |
-| **Thermopile / Temperature** | Badge       | Skin temp + core estimate                     | Very High       | ±0.1–0.3°C             | Fever, infection, heat stress, sleep quality | $1–$4           | High (+$30–$100M/year) |
-| **ECG / Single-Lead**        | Badge       | Heart rhythm (AFib, tachycardia)              | High            | High (FDA-cleared)      | Atrial fibrillation, cardiac events | $5–$15          | Very High (+$50–$150M/year) |
-| **EDA / cEDA**               | Badge       | Skin conductance (stress/arousal)             | Medium-High     | Moderate                | Stress, burnout, emotional health | $3–$8           | High (+$20–$80M/year) |
-| **Interstitial Glucose (CGM)** | CGM Patch  | Continuous glucose                            | Very High       | MARD 8–10%              | Diabetes, hypo/hyperglycemia, metabolic trends | $10–$25         | Very High (+$150–$500M/year) |
-| **Ketones (β-Hydroxybutyrate)** | CGM Patch  | Ketone levels                                 | Medium-High     | Good                    | Diabetic ketoacidosis, metabolic flexibility | $8–$20          | High (+$30–$100M/year) |
-| **Lactate**                  | CGM Patch   | Muscle/interstitial lactate                   | Medium          | Moderate–good           | Fatigue, sepsis, exercise intensity | $5–$15          | High (+$20–$80M/year) |
-| **Cuffless Blood Pressure**  | Badge       | Estimated systolic/diastolic                  | Medium          | Moderate                | Hypertension, cardiovascular risk | $5–$12          | Medium-High (+$30–$100M/year) |
-| **Respiratory Rate**         | Badge/CGM   | Breaths per minute (PPG/IMU derived)          | High            | Good                    | Sleep apnea, respiratory illness | $0–$2           | High (+$20–$60M/year) |
-| **Ambient Light / UV**       | Badge       | Light intensity, UV exposure                  | High            | N/A                     | Circadian health, vitamin D estimation | $1–$3           | Medium (+$10–$30M/year) |
+## Full Sensor Suite – Communicator Badge Health (2026–2035 Baseline)
 
-## Disease / Problem Detection Capabilities (Screening Level)
+| Sensor Type                  | Measured Parameters                           | Technology / Method                     | Accuracy / Correlation | Power Consumption | Badge Location | Primary Screening / Early Detection Use Cases |
+|------------------------------|-----------------------------------------------|-----------------------------------------|------------------------|-------------------|----------------|-----------------------------------------------|
+| PPG (Photoplethysmography)   | HR, HRV, SpO₂, respiratory rate (derived), pulse wave velocity | Dual-wavelength LED + photodiode        | SpO₂ ±2–3%, HR ±2 bpm  | 1–5 mW            | Wrist/finger contact | Sleep apnea, hypoxia, arrhythmia, stress, infection |
+| Thermopile / Temperature     | Skin temperature + core temp estimate         | Infrared thermopile                     | ±0.1–0.3°C             | <1 mW             | Skin contact   | Fever/infection, heat stress, circadian disruption |
+| IMU (Accelerometer + Gyro)   | Motion, posture, fall, activity, respiratory rate (derived) | MEMS 6-axis                             | N/A                    | <0.5 mW           | Device body    | Fall risk, activity level, sleep staging, position-dependent apnea |
+| ECG / Single-Lead            | Heart rhythm, AFib detection, HRV             | Dry electrodes on wrist                 | Clinical-grade for AFib screening | 2–8 mW            | Wrist electrodes | Arrhythmia, AFib, cardiac risk, stress |
+| EDA / cEDA                   | Skin conductance (stress, arousal)            | Dry electrodes                          | Good correlation with sympathetic activity | 1–4 mW            | Wrist electrodes | Chronic stress, burnout, emotional health, sleep quality |
+| Microphone Array             | Voice commands, snoring, respiratory sounds   | Directional MEMS mics                   | N/A                    | 0.5–2 mW          | Device body    | Snoring/apnea detection, voice fatigue, respiratory patterns |
+| Cuffless Blood Pressure (PTT) | Estimated systolic/diastolic                  | Pulse transit time from PPG + ECG       | ±10–15 mmHg (emerging) | 3–10 mW           | Wrist          | Hypertension screening, cardiovascular risk |
+| Ambient Light / UV           | Light exposure, circadian alignment           | Photodiode                              | N/A                    | <0.5 mW           | Device surface | Vitamin D estimation, sleep/wake disruption |
 
-| Condition / Problem                  | Primary Sensors Involved                     | Detection Mechanism                          | Sensitivity / Specificity Estimate | Genesis Action / Benefit |
-|--------------------------------------|----------------------------------------------|----------------------------------------------|-------------------------------------|---------------------------|
-| **Obstructive Sleep Apnea**          | SpO₂ + Respiratory Rate + IMU + Snore Mic    | Oxygen desats + breathing pauses + snoring   | 70–85% (moderate-severe)            | Alert → TerraWell PSG referral |
-| **Type 2 Diabetes / Prediabetes**    | CGM Glucose + HbA1c estimate                 | Persistent high glucose + trends              | 85–95% (screening)                  | Lifestyle intervention + TerraWell |
-| **Diabetic Ketoacidosis Risk**       | CGM Glucose + Ketones                        | High glucose + rising ketones                 | 80–90%                              | Urgent TerraWell alert |
-| **Hypertension**                     | Cuffless BP + HRV                            | Elevated readings + variability               | 70–85%                              | TerraWell monitoring program |
-| **Atrial Fibrillation**              | ECG + PPG                                    | Irregular rhythm detection                    | 90–98% (FDA-cleared)                | Cardiology referral |
-| **Chronic Stress / Burnout**         | EDA + Cortisol estimate + HRV                | Sustained high arousal + poor recovery        | 70–85%                              | Wellness program + counseling |
-| **Heat Stress / Dehydration**        | Temperature + Hydration estimate             | Rising core temp + low hydration signals      | 75–90%                              | Field worker safety alerts |
-| **Early Infection / Inflammation**   | Temperature + Inflammation proxy + HRV       | Fever + autonomic changes                     | 60–80%                              | TerraWell triage, quarantine |
-| **Metabolic Acidosis / Fatigue**     | Lactate + Glucose + Respiratory Rate         | Elevated lactate + abnormal breathing         | 65–85%                              | Worker safety, recovery monitoring |
+## CGM-Style Continuous Monitor Patch (Companion Device)
 
-**Limitations**: These are **screening-level** detections (not diagnostic). Positive findings trigger TerraWell referral for confirmatory blood draw or PSG.
+- **Form Factor**: Adhesive patch (upper arm/abdomen), 14-day wear, waterproof.
+- **Core Sensor**: Interstitial glucose (glucose oxidase enzyme + electrochemical)
+  - Accuracy: MARD 8–10%
+  - Calibration: Factory + occasional fingerstick reference
+- **Additional Sensors**:
+  - Temperature (skin & interstitial)
+  - Ketones (β-Hydroxybutyrate) – enzymatic layer (emerging 2030–2032)
+  - Lactate (microneedle or sweat-based, 2032–2035)
+  - Bioimpedance (hydration/electrolyte estimate, 2033–2035)
+- **Power**: Small coin cell + body heat harvesting; data transmitted to badge via BLE/mmWave.
+- **Data Integration**: Real-time glucose + trends → badge processes locally → alerts (hypo/hyper) → optional sync to **[digital twins](docs/digital-twins.md)** and TerraWell.
+
+## Diseases & Problems We Can Screen / Early-Detect
+
+| Condition / Problem                  | Primary Sensors Used                          | Detection Capability | Sensitivity / Specificity Estimate | Clinical Action Pathway | Revenue / Impact Driver |
+|--------------------------------------|-----------------------------------------------|----------------------|-------------------------------------|--------------------------|--------------------------|
+| **Obstructive Sleep Apnea**          | SpO₂, respiratory rate, snoring mic, position (IMU) | High (screening)     | 75–90% / 70–85%                     | TerraWell PSG referral   | +$100–$300M/year (premium + referrals) |
+| **Type 2 Diabetes / Prediabetes**    | CGM glucose, HbA1c estimate                   | Very High            | MARD 8–10%                          | TerraWell A1c confirmation | +$150–$500M/year |
+| **Diabetic Ketoacidosis Risk**       | CGM + ketones                                 | High                 | Good (emerging)                     | Urgent TerraWell / ER    | +$30–$100M/year |
+| **Hypertension / Cardiovascular Risk** | Cuffless BP, ECG, HRV                         | Medium-High          | ±10–15 mmHg                         | TerraWell BP confirmation | +$50–$150M/year |
+| **Arrhythmia / AFib**                | ECG, HRV                                      | High                 | Clinical-grade screening            | TerraWell cardiologist   | +$50–$150M/year |
+| **Chronic Stress / Burnout**         | EDA, cortisol estimate, HRV                   | High                 | Good correlation                    | TerraWell mental health  | +$20–$80M/year |
+| **Infection / Inflammation**         | Temperature, SpO₂, inflammation proxy         | Medium-High          | Moderate                            | TerraWell triage         | +$30–$100M/year |
+| **Dehydration / Electrolyte Imbalance** | Bioimpedance, HRV, temperature                | Medium               | Emerging                            | TerraWell hydration protocol | +$10–$40M/year |
+| **Heat Stress / Occupational Risk**  | Temperature, HR, SpO₂, activity               | High                 | Strong                              | Safety alerts, TerraWell | +$20–$60M/year |
+
+## Future Iterations Roadmap (2030–2040)
+
+- **2030–2032**: Add ketone + lactate to CGM patch; ECG + EDA to badge.
+- **2033–2035**: Cuffless BP + bioimpedance on badge; multi-analyte sweat sensor on patch.
+- **2036–2040**: Non-invasive optical hemoglobin estimate (research stage); integrated microneedle array for electrolytes/inflammation markers.
 
 ## Recomputed Financial Impact (Network-Wide, Mature Phase)
 
-- **Incremental R&D CAPEX**: $15–$35M total (2027–2035 for sensors + CGM patch)
-- **Per-Device Cost**: $15–$60 added to CGM patch; $10–$30 added to badge
+- **Incremental R&D CAPEX**: $20–$50M total (2027–2035)
+- **Per-Device Cost Increase**:
+  - Badge Health: +$10–$35
+  - CGM Patch: +$15–$60
 - **Revenue Uplift**:
-  - Premium CGM-badge bundle: +$200–$600M/year
+  - Premium badge + CGM bundle: +$200–$600M/year
   - TerraWell metabolic/cardio/respiratory programs: +$150–$400M/year
-  - Insurance/wellness/occupational partnerships: +$100–$300M/year
+  - Insurance/wellness partnerships: +$100–$300M/year
 - **Total Annual Uplift**: **+$450–$1,300M/year** (mature network)
 - **IRR Impact**: +6–12% to network (overall 35–50% → 41–62%)
-- **Viability Uplift**: +12–18% (transformative preventive health layer, stronger TerraWell adoption, affiliate retention)
-
-**Recommendation**: Launch core CGM patch + temperature/respiratory rate in 2027–2029. Add ketone/lactate/ECG in 2030–2032. These additions position the badge/CGM as a leading preventive health platform.
+- **Viability Uplift**: +12–18% (transformative preventive health layer, stronger TerraWell flywheel, affiliate retention, public perception)
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
