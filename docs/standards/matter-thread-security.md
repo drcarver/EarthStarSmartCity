@@ -17,7 +17,7 @@ The Genesis Network adopts **Matter** (Project CHIP) and **Thread** as core conn
 - Interoperability with modern smart home/city ecosystems
 - Strong, standardized device authentication and encryption
 - Low-power, mesh networking suitable for distributed hubs
-- Compliance with **[ISO/TC 268](iso-tc-268.md)** smart city requirements and **[IEEE 2030](docs/standards/ieee-2030.md)** grid integration
+- Compliance with **[ISO/TC 268](iso-tc-268.md)** smart city requirements and **[IEEE 2030](ieee-2030.md)** grid integration
 - Future-proofing against emerging threats (post-quantum readiness path)
 
 **Matter** provides application-layer interoperability and security; **Thread** delivers the low-power, IPv6 mesh networking layer underneath.
@@ -27,13 +27,13 @@ The Genesis Network adopts **Matter** (Project CHIP) and **Thread** as core conn
 | Feature                              | Description                                                                 | Standard Reference | Genesis Implementation |
 |--------------------------------------|-----------------------------------------------------------------------------|--------------------|------------------------|
 | Device Attestation                   | Cryptographic proof of device identity and firmware integrity              | Matter 1.0+ Attestation | Embedded in all tiles/pods/kits at factory; verified on first join |
-| Operational Certificate Authority    | PKI-based certificate chain for secure commissioning                        | Matter Operational Discovery | Root CA managed by **[OS & Software LLC](innovation-hub/os-software-llc.md)**; per-hub subordinate CAs |
-| Secure Commissioning                 | Passcode + QR code or NFC commissioning; encrypted setup                    | Matter Commissioning | QR codes printed on kits; NFC on **[Communicator Badge](components/tiles/communicator-badge.md)** |
+| Operational Certificate Authority    | PKI-based certificate chain for secure commissioning                        | Matter Operational Discovery | Root CA managed by **[OS & Software LLC](../../innovation-hub/os-software-llc.md)**; per-hub subordinate CAs |
+| Secure Commissioning                 | Passcode + QR code or NFC commissioning; encrypted setup                    | Matter Commissioning | QR codes printed on kits; NFC on **[Communicator Badge](../../components/tiles/communicator-badge.md)** |
 | End-to-End Encryption                | AES-128-CCM with rotating keys                                              | Thread + Matter    | All tile-to-tile, pod-to-hub, hub-to-cloud links |
-| Access Control Lists (ACLs)          | Granular permissions per fabric and endpoint                               | Matter ACL Model   | Managed by local **[digital twins](docs/digital-twins.md)**; admin via badge |
-| Group Key Management                 | Efficient multicast encryption for large-scale sensor nets                  | Thread Group Key   | Used in dense sensor arrays and **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)** |
+| Access Control Lists (ACLs)          | Granular permissions per fabric and endpoint                               | Matter ACL Model   | Managed by local **[digital twins](../docs/digital-twins.md)**; admin via badge |
+| Group Key Management                 | Efficient multicast encryption for large-scale sensor nets                  | Thread Group Key   | Used in dense sensor arrays and **[Dense Sensor Net Kit](../../components/kits/dense-sensor-net-kit.md)** |
 | Message Integrity & Replay Protection| MIC + sequence counters                                                     | Thread MAC layer   | Enforced on all mesh traffic |
-| Firmware Update Security             | Signed OTA updates with rollback                                            | Matter OTA Provider| Pushed via **[OS & Software LLC](innovation-hub/os-software-llc.md)**; verified on-device |
+| Firmware Update Security             | Signed OTA updates with rollback                                            | Matter OTA Provider| Pushed via **[OS & Software LLC](../../innovation-hub/os-software-llc.md)**; verified on-device |
 
 ## Integration Across Network Components
 
