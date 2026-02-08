@@ -1,49 +1,53 @@
 ---
 layout: default
-title: Genesis Network – Interior Walls/Partitions Tile Specification
-description: Detailed specification for the Interior Walls/Partitions Tile in the Genesis Network, including manufacturing, inputs, materials, costs, revenues, project phase, and integration notes.
+title: Genesis Network – Interior Insulating Partition Tile
+description: Detailed specification for the **Interior Insulating Partition** tile in the Genesis Network, including manufacturing, inputs, materials, embedded features, costs, revenues, and integration (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-The Interior Walls/Partitions Tile is a multifunctional, self-powered ceramic component designed for indoor partitioning in Genesis hubs, residences, and community buildings. It integrates indoor atmospheric water generation (AWG) for humidity recapture, micro-power harvesting, and embedded sensors for thermal/humidity monitoring, enabling closed-loop water systems and passive climate control while contributing to the Network's data moat for AI optimization.
+# Genesis Network: **Interior Insulating Partition** Tile
 
-## Pods
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Tile & Pipe Production Pod](../pods/tile-pipe-production-pod.md) | Mass production of ceramic tiles including interiors | C&D slag, residues | Self-replicating pod assembly + firing | $1–3M/pod | $200–500M/year (tiles) |
 
-## Kits
+## Objective
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Insulating Kit](../kits/insulating-kit.md) | Thermal mass walls/partitions with indoor AWG | Bagasse, residues | Kit assembly from tiles | $50K–150K | $200K–500K (sales) |
+The **Interior Insulating Partition** tile provides thermal mass, sound insulation, and indoor humidity recapture for residential, community, and productive buildings in the Genesis Network. It integrates with the all-electric primary energy system, embedding features for energy efficiency and sensor monitoring, while supporting smart city standards (**[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)**) and sustainable building codes (**[ISO 14001](docs/standards/iso-14001-environmental.md)**).
 
-## Sensors
+## Key Functions & Features
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Thermal/Humidity Sensor](../sensors/thermal-humidity-sensor.md) | Monitors indoor climate for AWG efficiency | Electronic embeds | Embed during tile forming | $5–10/unit | $20–50/unit (data value) |
+- **Insulation & Thermal Buffering**: High R-value aerated ceramic core reduces heating/cooling needs by 20–40%.
+- **Humidity Recapture**: Embedded **[AWG & Condensate Recovery](components/energy-water-closure-systems.md)** microchannels capture indoor moisture for reuse.
+- **Embedded Intelligence**: Micro-piezo for energy harvesting, thermal sensors for optimization.
+- **Synergies**: Used in **[Food Desert Housing Starter Kit](components/kits/food-desert-housing-starter-kit.md)** walls; integrates with **[Energy Storage & Thermal Tile](components/tiles/energy-storage-thermal-tile.md)** for heat buffering; supports **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)** in all buildings.
 
-## Standards & Compliance
+## Manufacturing Process
 
-| Name (Hyperlinked) | Description & Key Features | Inputs/Materials | Manufacturing Process | Cost | Revenue/Value |
-|--------------------|----------------------------|------------------|-----------------------|------|---------------|
-| [Sustainable Building Codes](../../docs/standards/sustainable-building-codes.md) | ISO 14001 compliance for env management | N/A | Integrated in design | N/A | Credits ($10–30M/year/hub) |
+- Location: **[Tile & Pipe Production Pods](components/pods/tile-pipe-production-pod.md)** → permanent factories.
+- Process: Feedstock mixing → aeration molding → channel/sensor embedding → firing (1,200–1,400°C, biogas-powered) → QC via AI/vision.
+- Inputs: 70–95% waste-derived (residues, bagasse for aeration).
+- Materials: Aerated ceramic composite + embedded channels/piezo/sensors.
 
-## Related / Supporting LLCs in the Innovation Hub
+## Recomputed Costs & Revenues (February 2026 Baseline)
 
-- [Ceramic Tile Production LLC](../../innovation-hub/ceramic-tile-production-llc.md)  
-- [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md)  
-- [Bio-Materials & Textiles LLC](../../innovation-hub/bio-materials-textiles-llc.md)  
+- **Production Cost**: $18–$35/m² (mature; down 5–10% via waste efficiencies).
+- **Selling Price**: $55–$100/m² (premium for embedded features).
+- **Revenue Model**: Housing kits (60%), internal hub use (30%), affiliate sales (10%); margins 60–75%.
+- **Annual Revenue Potential**: $50–$150M/hub (from kit integrations); network-wide $20–$60B/year (2050).
+- **CAPEX Impact**: Minimal ($20–$50M/hub for production line); payback 6–12 months.
+- **Revenue Uplift**: +10–15% from all-electric synergies (piezo harvesting feeds sodium-ion storage).
 
-**Financials**: Production cost $1.7–3.0/ft²; revenue $5.0–8.5/ft² (sales) or $1–3/ft²/year (water/energy value); project phase: Phase 2 (2029–2031); file path suggestion: components/tiles/interior-walls-partitions-tile.md.
+## Detailed Sensor List in a Separate Table
 
-## Viability & Integration Notes
+Sensors embedded in the tile for thermal monitoring, energy harvesting, and integration with **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)**.
 
-The Interior Walls/Partitions Tile enhances indoor resilience with self-powered AWG and sensors, integrating seamlessly with energy storage pods and microgrids for closed-loop humidity recapture. Viability 9/10: Low-cost production from waste inputs; quick revenue from sales/leasing; ties to data moat for AI-driven climate optimization. Supports smart city standards (IEEE 2030 for energy) and sustainable codes (ISO 14001 for resource efficiency).
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Thermal (Thermopile)         | Monitors temperature gradients for HVAC optimization | Tile-embedded; IEEE 2030 | Waste-derived | 10–20 | Energy savings +$20–$60M/hub/year |
+| Micro-Piezo                  | Harvests vibration energy for sensors | Structural core; ISO/TC 268 | Piezo film + ceramic | 15–30 | Micro-power generation +$10–$30M/hub/year |
+| Humidity (Capacitive)        | Tracks moisture for AWG recapture | Microchannels; ISO 14001 | Sensors + ceramic | 10–25 | Water efficiency +$15–$40M/hub/year |
+| Strain/Vibration             | Detects structural integrity | Core embeds; ITU-T Y.4900 | Piezo + ceramic | 20–40 | Maintenance alerts +$20–$50M/hub/year |
 
----
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
