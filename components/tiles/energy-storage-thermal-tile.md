@@ -19,7 +19,7 @@ The **Energy Storage & Thermal Tile** is a modular, distributed energy storage a
 - Surplus power export and grid stabilization services
 - Resilience during extended low-solar periods (e.g., nuclear winter, super volcano ash)
 
-All tiles are manufactured in **[Tile & Pipe Production Pods](components/pods/tile-pipe-production-pod.md)** → permanent tile factories using 70–95% waste-derived materials.
+All tiles are manufactured in **[Tile & Pipe Production Pods](../pods/tile-pipe-production-pod.md)** → permanent tile factories using 70–95% waste-derived materials.
 
 ## Physical & Electrical Specifications
 
@@ -45,19 +45,19 @@ All tiles are manufactured in **[Tile & Pipe Production Pods](components/pods/ti
 3. **Cell & PCM Integration**: Sodium-ion cells + PCM capsules placed in pockets.
 4. **Blind-Mate Sockets**: Power/data/thermal interconnects embedded.
 5. **Firing & Encapsulation**: High-temperature firing (1,200–1,400°C, biogas/natural gas hybrid) → hermetic seal.
-6. **Testing & QC**: Capacity, cycle, thermal, and safety tests via **[Standards Compliance Kit](components/kits/standards-compliance-kit.md)**.
+6. **Testing & QC**: Capacity, cycle, thermal, and safety tests via **[Standards Compliance Kit](../kits/standards-compliance-kit.md)**.
 
 **Inputs (70–95% waste-derived)**:
 - Primary: C&D slag, brownfield/ELFM slag, rice husk ash
 - Secondary: Waste battery anodes, recycled PCM carriers
-- Energy: Biogas from **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)**
+- Energy: Biogas from **[Biogas Digester Pod](../pods/biogas-digester-pod.md)**
 
 ## Standards & Compliance
 
-- **Smart City**: **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** (energy management), IEEE 2030 (smart grid), ITU-T Y.4900 (IoT)
-- **Sustainable Building**: **[ISO 14001](docs/standards/iso-14001-environmental.md)**, Cradle-to-Cradle certification
+- **Smart City**: **[ISO/TC 268](,,/../docs/standards/iso-tc-268-smart-cities.md)** (energy management), IEEE 2030 (smart grid), ITU-T Y.4900 (IoT)
+- **Sustainable Building**: **[ISO 14001](,,/../docs/standards/iso-14001-environmental.md)**, Cradle-to-Cradle certification
 - **Safety**: UL 1973 (stationary batteries), IEC 62619 (secondary cells), thermal runaway containment
-- **Security**: Faraday mesh embed, capability-based access via **[OS & Software LLC](innovation-hub/os-software-llc.md)**
+- **Security**: Faraday mesh embed, capability-based access via **[OS & Software LLC](,,/../innovation-hub/os-software-llc.md)**
 
 ## Recomputed Costs & Revenues (per Mature Hub, February 2026 Baseline)
 
@@ -80,9 +80,9 @@ All tiles are manufactured in **[Tile & Pipe Production Pods](components/pods/ti
 | Temperature (Multi-Point)    | Thermal runaway detection, PCM performance | Distributed across tile; ISO 14001 | Thermistors + ceramic | 10–25 | Safety credits +$20–$60M/hub/year |
 | Strain/Vibration             | Mechanical stress monitoring | Piezo layers; IEEE 1451 | Piezo + ceramic | 30–60 | Structural health +$40–$100M/hub/year |
 | Gas (CO, H₂)                 | Off-gassing detection (safety) | Trace sensors; ITU-T Y.4900 | Gas sensors + ceramic | 40–90 | Compliance +$25–$70M/hub/year |
-| SOC/SOH Estimator            | AI-driven state estimation | On-tile compute; **[OS & Software LLC](innovation-hub/os-software-llc.md)** | Firmware + sensors | Included | Efficiency gains +$50–$120M/hub/year |
+| SOC/SOH Estimator            | AI-driven state estimation | On-tile compute; **[OS & Software LLC](,,/../innovation-hub/os-software-llc.md)** | Firmware + sensors | Included | Efficiency gains +$50–$120M/hub/year |
 
-**Handbook Notes**: All sensors waste-derived where possible; Faraday mesh for EMP; data feeds **[digital twins](docs/digital-twins.md)** for predictive alerts; off-world extensible (radiation-hardened variants).
+**Handbook Notes**: All sensors waste-derived where possible; Faraday mesh for EMP; data feeds **[digital twins](,,/../docs/digital-twins.md)** for predictive alerts; off-world extensible (radiation-hardened variants).
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
