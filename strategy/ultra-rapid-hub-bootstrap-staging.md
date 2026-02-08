@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Ultra-Rapid Hub Bootstrap & Staging
-description: Fastest credible cash-positive hub launch using pre-supply from staging hubs, limited to 8 core pod types, with comprehensive integrated mitigations against every major identified risk category (February 2026 ultimate hardened baseline).
+title: Genesis Network – Ultra-Rapid Hub Bootstrap & Staging
+description: Fastest credible cash-positive hub launch using pre-supply from staging hubs, limited to 8 core pod types, with comprehensive integrated mitigations against every major identified risk category (February 2026 ultimate hardened baseline, updated for all-electric primary energy with biogas methane backup).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
 # Ultra-Rapid Hub Bootstrap & Staging  
-**February 2026 Ultimate Hardened Baseline – Revenue-First + All-Risk Defenses Integrated**
+**February 2026 Ultimate Hardened Baseline – Revenue-First + All-Risk Defenses Integrated**  
+**All-Electric Primary Energy Update – Biogas Methane Backup Only**
 
 **© 2025–2026 EarthStar Technologies**  
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
@@ -20,14 +21,16 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 - **Every launch must pass 100% of the mitigation gates** listed below.  
 - **Single gate failure = immediate abort** — redirect all resources to next pre-vetted site. No partial or "soft" launches permitted.
 
+**All-Electric Energy Update (Implemented)**: Primary power is 100% electric via **[Battery & Storage LLC](innovation-hub/battery-storage-llc.md)** sodium-ion tiles, **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** BIPV/piezo generation, and inductive charging. Hydrogen is completely removed. Biogas methane is retained only as a backup fuel source (via **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)**) for extended isolation or peak demand scenarios.
+
 ## Core Principles (Enforced as Non-Negotiable Doctrine)
 
 1. **Pre-Supply Dominance** — New sites receive **nearly-mature, already-producing pods + live biology + feedstock** shipped from staging/mother hubs or trusted Level 0.5 greenhouse partners.  
-2. **Staging / Mother Hub Obligation** — Every mature hub (≥95% closure, cash-positive ≥6 months) **must** dedicate 10–20% of output capacity to seeding new sites.  
-3. **Revenue-First Pruning** — Day-1 focus restricted to fastest cash generators: **microgreens/herbs**, **eggs**, **honey**, **early milk/cheese**, **biogas tipping fees**, **first ceramic tiles**.  
+2. **Staging / Mother Hub Obligation** — Every mature hub (≥95% closure, cash-positive ≥6 months) **must** dedicate 10–20% of output to seeding new sites.  
+3. **Revenue-First Pruning** — Day-1 focus restricted to fastest cash: **microgreens/herbs**, **eggs**, **honey**, **early milk/cheese**, **biogas tipping fees**, **first ceramic tiles**.  
 4. **Biology Survival Gate** — >85% pre-supply viability on arrival or abort.  
 5. **Permitting & Community Firewall Gate** — Strict pre-approval + neighbor buy-in package mandatory.  
-6. **Revenue Velocity Gate** — ≥4 diversified, pre-sold revenue streams locked before Day 1.  
+6. **Revenue Velocity Gate** — ≥4 diversified, pre-sold streams locked before Day 1.  
 7. **Supply-Chain & Critical-Parts Gate** — Dual-sourcing + buffer stock enforced for all pod-critical items.  
 8. **Governance & Reputation Firewall Gate** — Binding charter, independent audits, PR rapid-response team active from Day 1.  
 9. **Water & Energy Independence Gate** — Mother hub must prove ≥70% AWG/rainwater closure + 72-hour full blackout survival before seeding.  
@@ -37,12 +40,12 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 
 1. **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** — Immediate structural & smart pipe output.  
 2. **[Aquaponics Pod](components/pods/aquaponics-pod.md)** — Greens/herbs + fish/prawns/BSFL (staggered cycles).  
-3. **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)** — Pre-seeded inoculum for 1–2 week methane stability.  
+3. **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)** — Pre-seeded inoculum for 1–2 week methane stability (backup power only).  
 4. **[Microbial Inoculant Pod](components/pods/microbial-inoculant-pod.md)** — +10–30% yield boost cultures.  
 5. **[Dwarf Orchard Pod](components/pods/dwarf-orchard-pod.md)** — Transplanted semi-mature fruit/nut trees (early fruit Year 1–2).  
 6. **[Livestock Pod](components/pods/livestock-pod.md)** — Poultry/eggs + goats/sheep (staggered hatching/kidding).  
 7. **[Beehive Pod](components/pods/beehive-pod.md)** — Honey + pollination services (integrated with orchards).  
-8. **[Smart Infrastructure Pod](components/pods/smart-infrastructure-pod.md)** — Initial smart pipes, power distribution, sensor fabric.
+8. **[Smart Infrastructure Pod](components/pods/smart-infrastructure-pod.md)** — Initial smart pipes, power distribution, sensor fabric, inductive charging lanes.
 
 ## Mandatory Pre-Supply Package & Hardened Transport (Day 0–7)
 
@@ -77,7 +80,7 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 
 **Kill-switch**: Any single failure → site blacklisted.
 
-## Mandatory Revenue Safeguards (Pre-Launch Lock-In)
+## Mandatory Revenue Safeguards (Pre-Launch)
 
 **Required Minimum**  
 - Pre-sold Letters of Intent (LOIs) covering ≥60–80% of projected Month 1–6 output  
@@ -92,7 +95,7 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 - Mother hub maintains **3 months full operating cash reserve** post-launch  
 - **Dashboard kill-switch**: If Month 3 cash inflow <50% of Month 2 → pause all new site prep until root cause resolved and trend reversed.
 
-## Governance, Reputation & Water/Energy Firewall (Active from Day 1)
+## Governance, Reputation & Water/Energy Firewall (Day 1 Mandatory)
 
 **Governance**  
 - Binding cooperative charter with transparent quarterly revenue/expense dashboard (publicly accessible)  
@@ -108,6 +111,7 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 **Water & Energy Independence**  
 - Mother hub must demonstrate ≥70% AWG/rainwater closure + 72-hour full blackout survival (tested protocol) before seeding any daughter site  
 - SGMA/drought-vulnerable sites require additional 50% AWG buffer capacity + redundant rainwater capture  
+- All-electric primary (sodium-ion + BIPV/piezo) with biogas methane backup only
 
 ## Yield & Closure Conservatism Rule (Mandatory Modeling Standard)
 
@@ -118,7 +122,7 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
   - Tile production ramp-up  
 - **Gate**: No hub qualifies as a mother/staging hub until 6-month actual operating data meets or exceeds the conservative model baseline.
 
-## Recalculated Timeline – Fully Mitigated Baseline (February 2026)
+## Recalculated Timeline – Fully Mitigated Baseline (February 2026 – All-Electric Update)
 
 | Time Elapsed       | Milestone                                                                 | Cumulative Net Cash (per hub) | Active Mitigation Layers Enforced                                  |
 |---------------------|---------------------------------------------------------------------------|-------------------------------|--------------------------------------------------------------------|
@@ -131,20 +135,20 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 
 **Affiliate Mini-Hub** (5–12 pods): Same gates & mitigations enforced; maturity target 8–14 months; run-rate $5–50M/year.
 
-## Financials – Fully Mitigated & Conservative View
+## Financials – Fully Mitigated & Conservative View (All-Electric Adjusted)
 
-- **Bootstrap CAPEX per hub**: $140–320M (mitigations add ~12–18% cost but preserve velocity)  
-- **Month 3 run-rate**: $10–40M/month (conservative)  
-- **Month 18 maturity**: $200–800M/year per hub  
-- **Payback period**: **4–9 months** (gates maintain high velocity while eliminating downside)  
-- **Network IRR (mitigated)**: **175–240%** (resilience premium offsets added hardening cost)
+- **Bootstrap CAPEX per hub**: $120–$280M (mitigations add ~10–15% cost but preserve velocity; hydrogen removal saves 12–18%)  
+- **Month 3 run-rate**: $10–$40M/month (conservative)  
+- **Month 18 maturity**: $200–$800M/year per hub  
+- **Payback period**: **4–8 months** (gates maintain high velocity while eliminating downside)  
+- **Network IRR (mitigated)**: **180–260%** (resilience premium offsets added hardening cost; all-electric uplift +5–10%)
 
 ## Final Viability Summary
 
 **Rating: 9.5/10**  
 This ultimate hardened bootstrap doctrine forces **layered, redundant defenses** against every major identified risk category: biology die-off, permitting blocks, revenue shortfalls, supply-chain disruption, governance failure, reputation damage, water/energy fragility, yield over-optimism, and mother-hub dependency.  
 
-The path is now a **battle-tested, low-downside operational doctrine** — optimized for real-world execution with dramatically reduced probability of catastrophic failure while preserving the fastest credible cash-positive timeline.
+The all-electric shift (sodium-ion + BIPV/piezo primary, biogas methane backup) further reduces complexity, accelerates timelines, lowers CAPEX/OPEX, and improves public/political acceptance — making the path a **battle-tested, low-downside operational doctrine** optimized for real-world execution.
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
