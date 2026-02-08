@@ -58,20 +58,23 @@ This is the single source of truth and entry point for the entire Genesis Networ
 - **[Security & Compliance Kit](components/kits/security-compliance-kit.md)**  
 - **[Sustainable Building Code Kit](components/kits/sustainable-building-code-kit.md)**  
 
-## Strategies & Planning
-- **[Ultra-Rapid Hub Bootstrap & Staging](strategy/ultra-rapid-hub-bootstrap-staging.md)**  
-- **[Road Replacement + Subsurface Parcel Hyperloop Bid Strategy](strategy/road-replacement-subsurface-parcel-hyperloop-bid-strategy.md)**  
-- **[Regenerative City & Hub Layout Principles](strategy/regenerative-city-hub-layout-principles.md)**  
-- **[Advanced Fab Contingency Strategy](strategy/advanced-fab-contingency-strategy.md)**  
-- **[Feasibility & Risk Mitigation Enhancements](strategy/feasibility-risk-mitigation-enhancements.md)**
-
 ## Startup Strategies & Planning
 - **[First Bootstrap on Distressed Orchard (Pre-Pod Phase)](strategy/startup.md)**  
 - **[Detailed Construction of the First 8 Pods](strategy/detailed-construction-of-the-first-8-pods.md)**  
 - **[First Tile Factory Setup & Transition](strategy/first-tile-factory-setup-transition.md)**  
 - **[Server Setup & Digital Twins (Pre-Compute Tiles)](strategy/server-setup-digital-twins-pre-compute-tiles.md)**  
 - **[Transition from Leased Tents to Pod-Based Mini-Fabs](strategy/transition-leased-tents-to-pod-based-mini-fabs.md)**  
-- **[Mini-Fab Replication Timeline](strategy/mini-fab-replication-timeline.md)** 
+- **[Mini-Fab Replication Timeline](strategy/mini-fab-replication-timeline.md)**
+  
+## Strategies & Planning
+- **[Ultra-Rapid Hub Bootstrap & Staging](strategy/ultra-rapid-hub-bootstrap-staging.md)**
+- **[Building a Mini-Hub](strategy/mini-hub–construction.md)**
+- **[Building a Full-Hub](strategy/full-hub–construction.md)**
+- **[Building a Food Desert Hub](strategy/food-desert-hub–construction.md)** 
+- **[Road Replacement + Subsurface Parcel Hyperloop Bid Strategy](strategy/road-replacement-subsurface-parcel-hyperloop-bid-strategy.md)**  
+- **[Regenerative City & Hub Layout Principles](strategy/regenerative-city-hub-layout-principles.md)**  
+- **[Advanced Fab Contingency Strategy](strategy/advanced-fab-contingency-strategy.md)**  
+- **[Feasibility & Risk Mitigation Enhancements](strategy/feasibility-risk-mitigation-enhancements.md)**
 
 ## Financials & Projections
 - **[Financial Projections & Self-Funding Path](financials/financial-projections-self-funding-path.md)**  
