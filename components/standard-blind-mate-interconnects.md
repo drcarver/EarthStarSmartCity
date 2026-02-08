@@ -19,7 +19,7 @@ The **standard blind-mate interconnects** are the core enabling technology for t
 ## Key Functions & Synergies
 
 - **Multi-Modal Connections**: Simultaneous power (DC/AC), data (mmWave/optical), thermal (microchannels for AWG condensate/heat exchange), water (sealed pipes for recirculation).
-- **Self-Aligning & Sealed**: Magnetic/mechanical keying for blind mating; IP67-equivalent seals; auto-detection via embedded sensors for connection verification.
+- **Self-Aligning & Sealed**: Magnetic/mechanical keying for blind mating; **[IP67-equivalent seals](../docs/standards/ip67-equivalent-seals.md)**; auto-detection via embedded sensors for connection verification.
 - **Synergies**: Integrates with **[Basic Networking Snap Tile](tiles/basic-networking-snap-tile.md)** for data relay; **[Energy Storage & Thermal Tile](tiles/energy-storage-thermal-tile.md)** for power/heat; **[AWG & Condensate Recovery](energy-water-closure-systems.md)** for water; **[Smart Airlock Module Tile](tiles/smart-airlock-module-tile.md)** for security handshakes.
 - **Standards Compliance**: Aligns with **[ISO/TC 268](../docs/standards/iso-tc-268.md)** for smart city interoperability, IEEE 2030 for grid, ITU-T Y.4900 for IoT, **[ISO 14001](../docs/standards/iso-14001.md)** for sustainability (recyclable, low-waste).
 
