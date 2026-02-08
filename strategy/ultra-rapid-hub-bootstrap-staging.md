@@ -21,7 +21,7 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 - **Every launch must pass 100% of the mitigation gates** listed below.  
 - **Single gate failure = immediate abort** — redirect all resources to next pre-vetted site. No partial or "soft" launches permitted.
 
-**All-Electric Energy Update (Implemented)**: Primary power is 100% electric via **[Battery & Storage LLC](innovation-hub/battery-storage-llc.md)** sodium-ion tiles, **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** BIPV/piezo generation, and inductive charging. Hydrogen is completely removed. Biogas methane is retained only as a backup fuel source (via **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)**) for extended isolation or peak demand scenarios.
+**All-Electric Energy Update (Implemented)**: Primary power is 100% electric via **[Battery & Storage LLC](../innovation-hub/battery-storage-llc.md)** sodium-ion tiles, **[Sustainable Energy LLC](../innovation-hub/sustainable-energy-llc.md)** BIPV/piezo generation, and inductive charging. Hydrogen is completely removed. Biogas methane is retained only as a backup fuel source (via **[Biogas Digester Pod](../components/pods/biogas-digester-pod.md)**) for extended isolation or peak demand scenarios.
 
 ## Core Principles (Enforced as Non-Negotiable Doctrine)
 
@@ -38,14 +38,14 @@ Launch new Genesis hubs (500–2,500 ha core parcels) and affiliate mini-hubs (5
 
 ## The 8 Essential Pod Types (Pre-Supplied & Nearly Mature on Arrival)
 
-1. **[Tile & Pipe Production Pod](components/pods/tile-pipe-production-pod.md)** — Immediate structural & smart pipe output.  
-2. **[Aquaponics Pod](components/pods/aquaponics-pod.md)** — Greens/herbs + fish/prawns/BSFL (staggered cycles).  
-3. **[Biogas Digester Pod](components/pods/biogas-digester-pod.md)** — Pre-seeded inoculum for 1–2 week methane stability (backup power only).  
-4. **[Microbial Inoculant Pod](components/pods/microbial-inoculant-pod.md)** — +10–30% yield boost cultures.  
-5. **[Dwarf Orchard Pod](components/pods/dwarf-orchard-pod.md)** — Transplanted semi-mature fruit/nut trees (early fruit Year 1–2).  
-6. **[Livestock Pod](components/pods/livestock-pod.md)** — Poultry/eggs + goats/sheep (staggered hatching/kidding).  
-7. **[Beehive Pod](components/pods/beehive-pod.md)** — Honey + pollination services (integrated with orchards).  
-8. **[Smart Infrastructure Pod](components/pods/smart-infrastructure-pod.md)** — Initial smart pipes, power distribution, sensor fabric, inductive charging lanes.
+1. **[Tile & Pipe Production Pod](../components/pods/tile-pipe-production-pod.md)** — Immediate structural & smart pipe output.  
+2. **[Aquaponics Pod](../components/pods/aquaponics-pod.md)** — Greens/herbs + fish/prawns/BSFL (staggered cycles).  
+3. **[Biogas Digester Pod](../components/pods/biogas-digester-pod.md)** — Pre-seeded inoculum for 1–2 week methane stability (backup power only).  
+4. **[Microbial Inoculant Pod](../components/pods/microbial-inoculant-pod.md)** — +10–30% yield boost cultures.  
+5. **[Dwarf Orchard Pod](../components/pods/dwarf-orchard-pod.md)** — Transplanted semi-mature fruit/nut trees (early fruit Year 1–2).  
+6. **[Livestock Pod](../components/pods/livestock-pod.md)** — Poultry/eggs + goats/sheep (staggered hatching/kidding).  
+7. **[Beehive Pod](../components/pods/beehive-pod.md)** — Honey + pollination services (integrated with orchards).  
+8. **[Smart Infrastructure Pod](../components/pods/smart-infrastructure-pod.md)** — Initial smart pipes, power distribution, sensor fabric, inductive charging lanes.
 
 ## Mandatory Pre-Supply Package & Hardened Transport (Day 0–7)
 
