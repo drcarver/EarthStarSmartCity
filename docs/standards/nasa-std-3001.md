@@ -1,78 +1,52 @@
 ---
 layout: default
-title: NASA-STD-3001 – Human Spaceflight – Environmental Control and Life Support
-description: Genesis Network implementation of NASA-STD-3001 ECLSS principles for closed-loop life support in hubs, pods, and off-world applications.
+title: Genesis Network – NASA-STD-3001 Integration
+description: Detailed version of **NASA-STD-3001** (Space Flight Human-System Standard) adapted for Genesis Network off-world applications, including human factors, habitability, and environmental controls in lunar/Mars settlements (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# NASA-STD-3001 – Human Spaceflight  
-**Environmental Control and Life Support System (ECLSS)**  
-**Genesis Network Implementation**
+# Genesis Network: **NASA-STD-3001** Integration
 
-**© 2025–2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
+https://creativecommons.org/licenses/by/4.0/
 
-## Executive Overview
+**Suggested File Path**: docs/standards/nasa-std-3001.md
 
-NASA-STD-3001 Volume II provides the technical requirements for environmental control and life support systems (ECLSS) in human spaceflight, covering air revitalization, water recovery, waste management, temperature/humidity control, and closed-loop resource recycling. In the Genesis Network, these principles are terrestrially adapted and scaled into regenerative hubs, pods, and future lunar/Mars settlements. The system achieves 95–99% resource closure using waste-derived ceramics, microbial bioreactors, aquaponics, biogas, and AWG, with bidirectional feedback loops accelerating optimization. Core implementation begins in Earth bootstrap phase (2026–2030) and extends to off-world maturity (2050+).
+## Objective
 
-## Components Used/Produced
+This document provides a completely detailed adaptation of **NASA-STD-3001** (Space Flight Human-System Standard) for the Genesis Network's off-world components, ensuring human safety, performance, and habitability in lunar/Mars outposts and future habitats. It aligns with Genesis principles of regenerative, closed-loop systems, incorporating ceramic tiles/pods, all-electric energy (sodium-ion backups), and biophilic design. **NASA-STD-3001** Volumes 1 (Crew Health) and 2 (Human Factors, Habitability, Environmental) are customized for Genesis modularity and self-replication.
 
-### Tiles
+## Key Adaptations & Integration
 
-| Name (Linked)                              | Description & Key Features                                      | Inputs/Materials                          | Manufacturing Process                     | Cost ($/m²) | Revenue/Value ($/m² or annual) |
-|--------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|-------------------------------------------|-------------|--------------------------------|
-| [Roof Glazing (Semi-Transparent)](../../components/tiles/roof-glazing.md) | BIPV (10–30%), AWG condensers, CO₂/humidity sensors             | Rice husk ash, residues                   | Forming → embedding → firing              | 25–45       | 75–125 (sales)                 |
-| [Insulating / Thermal Mass](../../components/tiles/insulating.md) | Indoor AWG, thermal regulation for habitat stability            | Bagasse, farm residues                    | Aerated forming + channels                | 15–26       | 44–75                          |
-| [Compute Server Tile](../../components/tiles/compute-server.md) | RISC-V cores for ECLSS monitoring & digital twin execution      | Slag/residues + electronics               | Ceramic shell + blind-mate pockets        | 80–150      | 250–500                        |
+- **Crew Health (Vol. 1)**: Focus on preventive care via **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)** modules; biosensors in **[Communicator Badge](components/communicator-badge.md)** for real-time HR/SpO₂/radiation monitoring; closed-loop nutrition from **[Aquaponics Pod](components/pods/aquaponics-pod.md)** and **[Vertical Ag Expansion Kit](components/kits/vertical-ag-expansion-kit.md)**.
+- **Human Factors & Habitability (Vol. 2)**: Biophilic interiors with living walls (from **[Canopy Microclimate Tile](components/tiles/canopy-microclimate-tile.md)**); daylight simulation via BIPV glazing; ergonomic furniture from **[Furniture Production Kit](components/kits/furniture-production-kit.md)**; noise/vibration mitigation with insulating tiles.
+- **Environmental Controls**: All-electric life support (AWG from **[Water Sovereignty LLC](innovation-hub/water-sovereignty-llc.md)**, biogas methane backup only); radiation shielding via water bladders/ceramics; air quality via smart airlocks and **[Dense Sensor Net Kit](components/kits/dense-sensor-net-kit.md)**.
+- **Genesis-Specific Enhancements**: Modular pods for habitat expansion; AI/digital twins for predictive health/maintenance; cultural accommodations (multi-faith spaces, halal/kosher processing).
 
-### Pods
+## Standards Compliance & Requirements
 
-| Name (Linked)                              | Description & Key Features                                      | Inputs/Materials                          | Manufacturing Process                     | Cost ($/pod) | Revenue/Value ($/pod or annual) |
-|--------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------|---------------------------------|
-| [Aquaponics & Multi-Trophic Pod](../../components/pods/aquaponics.md) | Fish/plants/nutrient cycling (NASA Veggie analog)               | Water, digestate, fingerlings             | Ceramic-lined tanks + glazing             | 0.6–1.5M     | 1.2–2.8M (internal)             |
-| [Biogas Digester & Upgrading Pod](../../components/pods/biogas.md) | Methane production & CO₂ management (Sabatier analog)           | Manure, food waste                        | Ceramic-lined + microturbines             | 0.7–1.8M     | 1.3–3.0M                        |
-| [Microbial Inoculant Production Pod](../../components/pods/microbial-inoculant.md) | Bioreactor for microbial life support enhancement               | Substrates, cultures                      | Ceramic + fermenters                      | 0.5–1.2M     | 1.0–2.2M                        |
+- **Alignment with NASA-STD-3001**: Full compliance for crew health (e.g., radiation limits <500 mSv/year), habitability (e.g., 63 dBA noise max), environmental (e.g., 21% O₂, CO₂ <0.5%).
+- **Smart City/Sustainable Codes**: Integrates **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** for off-world "cities"; **[ISO 14001](docs/standards/iso-14001-environmental.md)** for regenerative loops.
+- **Off-World Extensions**: Radiation-hardened variants for Luna/Mars; ISRU ceramics from local regolith.
 
-### Kits
+## Recomputed Financial Impact (Off-World Pilots, Network-Wide)
 
-| Name (Linked)                              | Description & Key Features                                      | Inputs/Materials                          | Manufacturing Process                     | Cost ($/kit) | Revenue/Value ($/kit) |
-|--------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|-------------------------------------------|--------------|-----------------------|
-| [Aquaponics Starter Kit](../../components/kits/aquaponics-starter.md) | Small-scale ECLSS food/water loop                               | Tanks, biofilters                         | Ceramic + assembly                        | 0.3–0.8M     | 0.6–1.8M              |
-| [Restoration & Blue-Green Carbon Kit](../../components/kits/restoration.md) | Wetland/CO₂ cycling modules (NASA bioreactor analogs)           | Seedlings, substrates                     | Ceramic + biodegradable                   | 0.25–0.7M    | 0.5–1.5M              |
+- **CAPEX**: $800B–$3T (2045–2070 for lunar/Mars; down 10–15% via all-electric simplification).
+- **OPEX**: 25–35% of revenue (automation + closure).
+- **Annual Revenue**: $100–$500B/year (2060+ from mining/data; margins 60–80%).
+- **Revenue Uplift**: +10–20% ($10–$100B/year) from NASA synergies (e.g., ECLSS data sharing).
+- **IRR Contribution**: +5–10% to network (overall 35–50%).
+- **Timeline**: Pilots 2045–2055; mature settlements 2055–2070.
 
-### Sensors
+## Detailed Sensor List in a Separate Table
 
-| Name (Linked)                              | Description & Key Features                                      | Placement                                 | Redundancy | Cost (per unit) | Value (system-wide) |
-|--------------------------------------------|-----------------------------------------------------------------|-------------------------------------------|------------|-----------------|---------------------|
-| [Multispectral / Hyperspectral](../sensors/multispectral.md) | Plant health, air/water quality monitoring                      | Greenhouses, airlocks                     | 3–5×       | $200–$800       | Critical for closure |
-| [Environmental (VOC, CO₂, NH₃)](../sensors/environmental.md) | Air revitalization & trace contaminant detection                | Habitat interiors                         | 5×         | $50–$250        | ECLSS compliance    |
-| [Thermal / Humidity](../sensors/thermal-humidity.md) | Temperature/humidity control (NASA standard)                    | All tiles/pods                            | 5×         | $30–$150        | Life support core   |
+| Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
+|------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
+| Radiation Dosimeter          | Monitors exposure levels | Badge embeds; **NASA-STD-3001** Vol. 1 | Mini-Fab detectors | 50–100 | Health compliance +$30–$80M/outpost/year |
+| O₂/CO₂ Gas Analyzer          | Air quality control | Habitat pods; ITU-T Y.4900 | Gas sensors + ceramic | 80–160 | Life support +$50–$150M/outpost/year |
+| Pressure/Humidity            | Environmental monitoring | **[Canopy Microclimate Tile](components/tiles/canopy-microclimate-tile.md)**; ISO 14001 | Waste-derived | 20–50 | Habitability +$40–$120M/outpost/year |
+| Biomechanical (IMU/PPG)      | Crew health tracking | **[Communicator Badge](components/communicator-badge.md)**; IEEE 1451 | Electronics + ceramic | 30–60 | Performance optimization +$20–$60M/outpost/year |
+| Structural Strain            | Habitat integrity | **[Foundation / Base Tile](components/tiles/foundation-base-tile.md)**; ISO/TC 268 | Piezo + ceramic | 25–50 | Maintenance savings +$50–$100M/outpost/year |
 
-### Standards & Compliance
-
-- [ISO 14001](iso-14001.md) – Environmental management  
-- [ISO/TC 268](iso-tc-268.md) – Sustainable cities & communities  
-- [IEEE 1451](ieee-1451.md) – Smart transducer interfaces  
-
-### Related / Supporting LLCs in the Innovation Hub
-
-- [Regenerative Pharmaceuticals LLC](../../innovation-hub/regenerative-pharmaceuticals-llc.md) – Microbial & plant-based life support synergies  
-- [Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md) – Biogas & heat recovery integration  
-- [Water Purification & Desalination LLC](../../innovation-hub/water-purification-desalination-llc.md) – ECLSS water loop extension  
-- [Bio-Materials & Textiles LLC](../../innovation-hub/bio-materials-textiles-llc.md) – Habitat interior materials  
-
-**Project Phase**: Bootstrap (2026–2030) → Early Scale (2031–2035) → full ECLSS maturity in National Maturity phase (2036–2045)
-
-**Financials (Mature Hub – 1,200 ha)**  
-- ECLSS-related CAPEX: $120–$280M (aquaponics pods, biogas, sensors, water systems)  
-- Annual OPEX savings: $80–$220M (95–99% closure vs. conventional)  
-- Revenue uplift: $200–$600M/year (food, biogas export, compliance credits)  
-- ROI: 18–36 months (via closure efficiency & premium produce)
-
-## Viability & Integration Notes
-
-NASA-STD-3001 principles provide proven, high-reliability ECLSS foundations that accelerate Genesis closure targets from 85% to 95–99% within the first decade. Terrestrial short-cycle testing (microalgae/BSFL) and parallel pod variants deliver 10–50× faster iteration than ISS alone, feeding continuous improvements back to lunar/Mars analogs. Integration is seamless via ceramic pods and sensor-dense architecture; financial payback is strong due to energy/food independence and credit monetization. Primary risk is scaling microbial stability in early pilots — mitigated by redundant arrays and digital twins.
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2025–2026 EarthStar Technologies Conceptual Working Group
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
