@@ -18,12 +18,12 @@ The **Battery & Storage LLC** develops, manufactures, and deploys sodium-ion-bas
 
 - **Primary**: Sodium-ion battery tiles and pods for distributed storage (100–300 kWh per hub cluster).
 - **Co-benefits**: Thermal buffering (phase-change materials), microgrid support, surplus export.
-- **Synergies**: Integrates with **[Sustainable Energy LLC](innovation-hub/sustainable-energy-llc.md)** (waste heat recovery), **[BIPV glazing](components/tiles/roof-glazing-bipv.md)** and **[piezo tiles](components/tiles/permeable-road-path-tile.md)** for charging, and **[biogas digester pods](components/pods/biogas-digester-pod.md)** for backup methane fuel cells in off-grid scenarios.
+- **Synergies**: Integrates with **[Sustainable Energy LLC](sustainable-energy-llc.md)** (waste heat recovery), **[BIPV glazing](../components/tiles/roof-glazing-bipv.md)** and **[piezo tiles](../components/tiles/permeable-road-path-tile.md)** for charging, and **[biogas digester pods](../components/pods/biogas-digester-pod.md)** for backup methane fuel cells in off-grid scenarios.
 
 ## Manufacturing Process
 
-- Location: **[TerraFab Manufacturing LLC](innovation-hub/terrafab-manufacturing-llc.md)** facilities in hubs.
-- Inputs: 70–95% waste-derived (slag anodes/cathodes from **[Sustainable Mining LLC](innovation-hub/sustainable-mining-llc.md)** and **[Advanced Recycling LLC](innovation-hub/advanced-recycling-llc.md)**, brownfield residues).
+- Location: **[TerraFab Manufacturing LLC](terrafab-manufacturing-llc.md)** facilities in hubs.
+- Inputs: 70–95% waste-derived (slag anodes/cathodes from **[Sustainable Mining LLC](sustainable-mining-llc.md)** and **[Advanced Recycling LLC](advanced-recycling-llc.md)**, brownfield residues).
 - Materials: Sodium-ion cells (hard carbon anodes, layered oxide cathodes) + ceramic casings (toughened, 60–100+ MPa).
 - Process: Electrode slurry mixing → coating → cell assembly → ceramic casing integration → formation/testing → blind-mate socket lamination.
 - New Kit: Sodium-Ion Battery Assembly Kit (electrode coaters, cell welders, testing rigs; $150k–$350k cost, $250k–$600k selling).
@@ -37,18 +37,18 @@ The **Battery & Storage LLC** develops, manufactures, and deploys sodium-ion-bas
 - **Annual Revenue**: $195–$660M (internal use 40%, affiliate sales 30%, external leasing/contracts 30%; margins 65–85%).
 - **Revenue Uplift from Enhancements**: +15–25% ($29–$165M/year) via AI-optimized charging (data moat), biogas methane backup hybrids, and energy credits ($50–$150/tCO₂e equivalent).
 - **IRR Contribution**: +8–12% to network (overall 35–50%).
-- **Timeline**: Pilots 2028–2030; mature production 2031–2035 (accelerated 6 months via **[Data Moat](docs/data-moat.md)** and parallel testing).
+- **Timeline**: Pilots 2028–2030; mature production 2031–2035 (accelerated 6 months via **[Data Moat](../docs/data-moat.md)** and parallel testing).
 
 ## Detailed Sensor Handbook (for Battery & Storage LLC Operations)
 
-Sensors embedded in all tiles/pods for monitoring, compliance, and optimization; support smart city (ISO/TC 268) and sustainable codes (ISO 14001); data feeds **[digital twins](docs/digital-twins.md)**.
+Sensors embedded in all tiles/pods for monitoring, compliance, and optimization; support smart city (ISO/TC 268) and sustainable codes (ISO 14001); data feeds **[digital twins](../docs/digital-twins.md)**.
 
 | Sensor Type                  | Description & Function | Integration & Standards | Input/Materials | Prod Cost ($/unit) | Revenue Impact |
 |------------------------------|------------------------|-------------------------|-----------------|---------------------|----------------|
-| Voltage/Current/Temperature  | Real-time cell health & thermal runaway prevention | Embedded in **[Energy Storage & Thermal Tile](components/tiles/energy-storage-thermal-tile.md)**; IEEE 2030 | Thermocouples + ceramic | 25–50 | Safety credits +$30–80M/hub/year |
+| Voltage/Current/Temperature  | Real-time cell health & thermal runaway prevention | Embedded in **[Energy Storage & Thermal Tile](../components/tiles/energy-storage-thermal-tile.md)**; IEEE 2030 | Thermocouples + ceramic | 25–50 | Safety credits +$30–80M/hub/year |
 | State-of-Charge/State-of-Health | Predictive maintenance & degradation tracking | In pods; ISO 14001 sustainable | Voltage/current sensors | 40–80 | OPEX reduction +$50–150M/hub/year |
 | Strain/Vibration             | Structural integrity during charging/discharging | Tile embeds; IEEE 1451 | Piezo + ceramic | 30–60 | Maintenance savings +$40–120M/hub/year |
-| mmWave/Hyperspectral (Security) | Intrusion detection in storage zones | **[Smart Airlock Kit](components/kits/smart-airlock-kit.md)**; Matter/Thread security | Electronics + ceramic | 80–200 | Security contracts +$100–300M/hub/year |
+| mmWave/Hyperspectral (Security) | Intrusion detection in storage zones | **[Smart Airlock Kit](../components/kits/smart-airlock-kit.md)**; Matter/Thread security | Electronics + ceramic | 80–200 | Security contracts +$100–300M/hub/year |
 | Occupancy/Motion             | Energy optimization in facilities | Dense net kits; ISO/TC 268 smart city | IR + ceramic | 25–50 | Energy savings +$20–60M/hub/year |
 
 **Handbook Notes**: All sensors waste-derived where possible; Faraday mesh for EMP; AI/data moat for predictive alerts. Viability +10–20% (reduced downtime 20–30%); off-world extensible (radiation-hardened variants).
