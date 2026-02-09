@@ -1,40 +1,36 @@
 ---
 layout: default
-title: Genesis Network – Prompt for Expanded Communicator Badge
-description: Consolidated prompt defining the full specification, features, sensors, integration, manufacturing, financials, and use cases for the expanded Communicator Badge (Health variant) and companion CGM-style patch in the Genesis Network (February 2026 baseline).
+title: Genesis Network – Prompt 02E – Expanded Communicator Badge Specification
+description: Comprehensive prompt defining the full original specification for the Communicator Badge (Core & Health variants), including all proposed sensors, environmental monitoring capabilities, companion CGM-style patch, future iterations, integration details, and screened/early-detected conditions (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt: Genesis Network – Expanded Communicator Badge (Health Variant)
+# Prompt – 02E: Expanded Communicator Badge Specification
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-Define the complete, consolidated specification for the **expanded Communicator Badge** (Health variant) as the flagship personal wearable in the Genesis Network. This badge serves as:
-- Voice-activated communicator and precise positioning device
-- Emergency beacon and safety alert system
-- Continuous, multi-biomarker health monitor for proactive screening of metabolic, cardiovascular, respiratory, stress, infectious, and environmental conditions
-- Secure, local-first interface to **[digital twins](docs/digital-twins.md)**, **[OS & Software LLC](innovation-hub/os-software-llc.md)**, and **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)**
+Produce a complete, original specification document for the **Communicator Badge** family in the Genesis Network. This badge serves as the primary personal wearable interface, combining communication, positioning, safety, health monitoring, and environmental sensing. The **Core** variant focuses on essential functions; the **Health** variant adds a full suite of biometric and environmental sensors for continuous proactive screening.
 
-Include companion **CGM-style continuous glucose monitor patch** and future iterations. All designs prioritize privacy (local processing, opt-in sharing), self-powering (piezo + micro-BIPV + solid-state battery), and manufacturing from waste-derived toughened ceramics via **[TerraFab Manufacturing LLC](innovation-hub/terrafab-manufacturing-llc.md)**.
+Include a companion **CGM-style continuous monitor patch** for interstitial fluid biomarkers. Specify all sensors (vitals, cardiac, metabolic, stress, environmental), integration with **[digital twins](docs/digital-twins.md)** and **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)**, future iteration roadmap, and diseases/problems that can be screened or early-detected.
 
-## Physical & Power Specifications
+## Core Requirements
 
-- Shape: Compact delta/communicator pin (Star Trek-inspired)
-- Size: 40–55 mm diameter × 10–14 mm thick
-- Weight: 22–38 g
-- Shell: Matte metallic or matte black toughened ceramic (customizable cultural variants)
-- Attachment: Magnetic clasp or pin-back
-- Environmental: IP67-equivalent, -20°C to +60°C
-- Durability: MIL-STD-810G (drop, vibration, thermal shock)
-- Power: Piezo film (body motion) + micro-BIPV (ambient light) + 80–150 mAh solid-state battery
+- **Form Factor**: Compact delta/communicator pin (Star Trek-inspired), 40–55 mm diameter × 10–14 mm thick, 22–38 g
+- **Materials**: Waste-derived toughened ceramic shell (matte metallic or black), customizable cultural variants
+- **Attachment**: Magnetic clasp or pin-back
+- **Power**: Piezo film (motion) + micro-BIPV (ambient light) + 80–150 mAh solid-state battery
   - Standby (tile mesh): 7–14 days
   - Mixed use: 2–5 days
-  - Full cellular: 8–24 hours
+  - Full active: 8–24 hours
+- **Connectivity**: Encrypted BLE/mmWave to tiles, badge mesh, and **[OS & Software LLC](innovation-hub/os-software-llc.md)**; local-first processing
+- **Audio**: Bone-conduction speaker + directional MEMS microphone array
+- **Haptics**: Multi-zone vibration for alerts
+- **Security**: seL4 microkernel, capability-based access, opt-in data sharing
 
-## Full Sensor Suite – Communicator Badge Health
+## Sensor Suite – Communicator Badge Health Variant
 
 | Sensor Type                  | Measured Parameters                           | Technology / Method                     | Accuracy / Correlation | Power Consumption | Location on Badge | Primary Screening / Early Detection Use Cases |
 |------------------------------|-----------------------------------------------|-----------------------------------------|------------------------|-------------------|-------------------|-----------------------------------------------|
@@ -45,60 +41,53 @@ Include companion **CGM-style continuous glucose monitor patch** and future iter
 | EDA / cEDA                   | Skin conductance (stress, arousal, sympathetic activity) | Dry electrodes                          | Good correlation       | 1–4 mW            | Wrist electrodes  | Chronic stress, burnout, emotional health, sleep quality |
 | Microphone Array             | Voice commands, snoring, respiratory sounds   | Directional MEMS mics                   | N/A                    | 0.5–2 mW          | Device body       | Snoring/apnea detection, voice fatigue, respiratory patterns |
 | Cuffless Blood Pressure (PTT)| Estimated systolic/diastolic                  | Pulse transit time from PPG + ECG       | ±10–15 mmHg (emerging) | 3–10 mW           | Wrist             | Hypertension screening, cardiovascular risk |
-| Ambient Light / UV           | Light exposure, circadian alignment           | Photodiode                              | N/A                    | <0.5 mW           | Device surface    | Vitamin D estimation, sleep/wake disruption |
+| Ambient Temperature / Humidity | Ambient temp, relative humidity, heat index   | Combined MEMS (SHT4x-style)             | ±0.2°C / ±2% RH        | <0.5 mW           | Device surface    | Heat stress, mold risk, environmental comfort |
+| VOC / Air Quality            | Volatile organic compounds, CO₂ proxy, IAQ index | Metal-oxide or photoionization sensor   | ±10–20%                | 1–3 mW            | Device surface    | Indoor pollution, chemical exposure, wildfire smoke |
+| Particulate Matter (PM2.5/PM10) | Fine dust, smoke, allergens                   | Optical laser scattering                | ±10–15%                | 2–5 mW            | Device surface    | Respiratory risk, wildfire/construction dust |
+| Noise Level                  | dB(A) sound pressure, chronic exposure        | MEMS microphone (enhanced)              | ±1–2 dB                | 0.5–2 mW          | Device body       | Hearing protection, sleep disturbance, stress |
+| Barometric Pressure / Altitude | Atmospheric pressure, elevation changes       | MEMS barometer                          | ±0.5 hPa               | <0.5 mW           | Device surface    | Altitude sickness, weather trend alerts |
+| Low-Dose Radiation (Geiger)  | Gamma / beta radiation (background & incidents) | Miniaturized Geiger-Müller or scintillator | ±10–20%                | 5–10 mW           | Device surface    | Nuclear fallout, occupational exposure |
 
 ## Companion CGM-Style Continuous Monitor Patch
 
 - **Form Factor**: Adhesive patch (upper arm/abdomen), 14-day wear, IP67 waterproof
-- **Core Sensor**: Interstitial glucose via glucose oxidase enzyme + electrochemical detection
-  - Accuracy: MARD 8–10%
-  - Calibration: Factory + optional fingerstick reference
-- **Additional Biomarkers**:
-  - Temperature (skin & interstitial)
-  - Ketones (β-Hydroxybutyrate) – enzymatic layer
-  - Lactate – enzymatic microneedle
-  - Cortisol – immunoassay microneedle
-  - Electrolytes (Na⁺, K⁺, Cl⁻) – ion-selective electrodes
-  - Cytokines / IL-6 proxy – immunoassay microneedle
-  - hs-CRP proxy – immunoassay
-  - Cardiac (troponin proxy) – immunoassay
+- **Core Sensor**: Interstitial glucose (enzymatic electrochemical, MARD 8–10%)
+- **Additional Biomarkers**: Ketones, lactate, cortisol, electrolytes (Na⁺, K⁺, Cl⁻), cytokines/IL-6 proxy, hs-CRP proxy, troponin proxy (emerging)
 - **Power**: Body heat harvesting + small coin cell
-- **Data Transmission**: Encrypted BLE/mmWave to badge for local processing and alerts
+- **Data Transmission**: Encrypted BLE/mmWave to badge
 
 ## Diseases & Problems That Can Be Screened / Early-Detected
 
 | Condition / Problem                  | Primary Sensors / Biomarkers                  | Detection Capability | Sensitivity / Specificity Estimate | Clinical Action Pathway | Revenue / Impact Driver |
 |--------------------------------------|-----------------------------------------------|----------------------|-------------------------------------|--------------------------|--------------------------|
-| **Obstructive Sleep Apnea**          | SpO₂, respiratory rate, snoring, position     | High (screening)     | 75–90% / 70–85%                     | TerraWell PSG referral   | +$100–$300M/year |
+| **Obstructive Sleep Apnea**          | SpO₂, respiratory rate, snoring, position     | High                 | 75–90% / 70–85%                     | TerraWell PSG referral   | +$100–$300M/year |
 | **Type 2 Diabetes / Prediabetes**    | CGM glucose, HbA1c estimate                   | Very High            | MARD 8–10%                          | TerraWell A1c confirmation | +$150–$500M/year |
-| **Diabetic Ketoacidosis Risk**       | Glucose + ketones                             | High                 | Good (emerging)                     | Urgent TerraWell / ER    | +$30–$100M/year |
+| **Acute Myocardial Infarction**      | ECG changes, troponin proxy, HRV              | Medium-High          | Emerging                            | Urgent TerraWell / ER    | +$80–$250M/year |
 | **Hypertension / Cardiovascular Risk** | Cuffless BP, ECG, HRV                         | Medium-High          | ±10–15 mmHg                         | TerraWell BP confirmation | +$50–$150M/year |
-| **Arrhythmia / AFib**                | ECG, HRV                                      | High                 | Clinical-grade screening            | TerraWell cardiologist   | +$50–$150M/year |
 | **Chronic Stress / Burnout**         | EDA, cortisol, HRV                            | High                 | Good correlation                    | TerraWell mental health  | +$20–$80M/year |
-| **Infection / Inflammation**         | Temperature, SpO₂, cytokines proxy            | Medium-High          | Moderate                            | TerraWell triage         | +$30–$100M/year |
-| **Dehydration / Electrolyte Imbalance** | Bioimpedance, electrolytes, sweat rate        | Medium               | Emerging                            | TerraWell hydration protocol | +$10–$40M/year |
-| **Acute Myocardial Injury**          | Troponin proxy, ECG changes                   | Medium               | Emerging                            | Urgent TerraWell / ER    | +$50–$150M/year |
-| **Heart Failure Risk**               | NT-proBNP proxy, BP trends                    | Medium               | Emerging                            | TerraWell cardiology     | +$40–$120M/year |
+| **Infection / Inflammation**         | Temperature, cytokines proxy, SpO₂            | Medium-High          | Moderate                            | TerraWell triage         | +$30–$100M/year |
+| **Dehydration / Electrolyte Imbalance** | Electrolytes, bioimpedance, sweat rate        | Medium               | Emerging                            | TerraWell hydration protocol | +$10–$40M/year |
+| **Environmental Exposure Risks**     | VOC, PM2.5, radiation, noise                  | High                 | Good                                | Safety alerts, TerraWell | +$50–$150M/year |
 
 ## Future Iterations Roadmap (2030–2040)
 
-- **2030–2032** — Add ketone + lactate + cortisol to patch; improve BP accuracy
-- **2033–2035** — Multi-analyte patch (electrolytes, cytokines, troponin)
-- **2036–2040** — Hormone proxies, advanced immunoassays, non-invasive optical hemoglobin
+- **2030–2032** — Add ketone + lactate + cortisol to patch; improve BP/ECG accuracy
+- **2033–2035** — Multi-analyte patch (electrolytes, cytokines, troponin proxy)
+- **2036–2040** — Hormone proxies + advanced immunoassays; non-invasive optical hemoglobin
 
 ## Recomputed Financial Impact (Network-Wide, Mature Phase)
 
-- **Incremental R&D CAPEX**: $25–$70M total (2027–2040)
+- **Incremental R&D CAPEX**: $35–$90M total (2027–2040)
 - **Per-Device Cost Increase**:
-  - Badge Health: +$15–$45
-  - CGM Patch: +$20–$80
+  - Badge Health: +$20–$55
+  - CGM/Sweat Patch: +$25–$100
 - **Revenue Uplift**:
-  - Premium badge + patch bundle: +$250–$800M/year
-  - TerraWell metabolic/cardio/respiratory programs: +$200–$600M/year
-  - Insurance/wellness/occupational partnerships: +$150–$400M/year
-- **Total Annual Uplift**: **+$600–$1,800M/year**
-- **IRR Impact**: +8–15% (network overall 35–50% → 43–65%)
-- **Viability Uplift**: +15–22% (multi-biomarker continuous monitoring transforms preventive and occupational health)
+  - Premium badge + patch bundles: +$300–$900M/year
+  - TerraWell multi-biomarker programs: +$250–$700M/year
+  - Insurance/occupational/environmental partnerships: +$200–$500M/year
+- **Total Annual Uplift**: **+$750–$2,100M/year**
+- **IRR Impact**: +10–18% (network overall 35–50% → 45–68%)
+- **Viability Uplift**: +18–28% (comprehensive personal health & environmental monitoring)
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
