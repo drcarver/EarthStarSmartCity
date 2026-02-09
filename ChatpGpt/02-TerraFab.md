@@ -1,214 +1,117 @@
 ---
 layout: default
 title: Genesis Network – Pod-Based Mini-Fab to Advanced Fab Construction & Financials (Recomputed)
-description: Fully recomputed timelines, costs, capacity, and financials for pod-based Mini-Fabs through advanced fab clusters, incorporating conservative schedule buffers, updated CAPEX/OPEX bands, and phased risk controls (February 2026 recalculation).
+description: Phased plan for Mini-Fabs to advanced fabs, with updated timelines, CAPEX/OPEX, capacity, and financials.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02 (Recomputed) – Pod-Based Mini-Fab → Advanced Fab Roadmap
+# Prompt 02 – Pod-Based Mini-Fab to Advanced Fab Construction & Financials (Recomputed)
 
-**February 2026 Baseline – Conservative, Execution-Realistic Recalculation**
+## Overview
 
-**© 2026 EarthStar Technologies**  
-Licensed under **CC BY 4.0**  
-https://creativecommons.org/licenses/by/4.0/
+The Genesis Network develops **pod-based Mini-Fabs** (65–130 nm sensors/edge AI/robotics) starting late 2029, upgrading to **advanced pod-cluster fabs** (7 nm → 3 nm) after strict triggers. All construction is modular (40 ft high-cube pods), regenerative (70–95% waste-derived), lights-out capable (80–95% by 2035), and self-funded. Focus: sovereign niche chips for the Network (AI/robotics/digital twins), not mass-market volume.
 
----
-
-## 1. Design Intent (Unchanged, Revalidated)
-
-Genesis semiconductor capacity exists to:
-- Secure **sovereign, mission-critical chips** (sensors, edge AI, robotics, digital twins)
-- Avoid commodity competition with TSMC/Samsung/Intel
-- Scale only when **cash-flow, yield, and operational maturity** justify complexity
-
-**Hard constraints reaffirmed**
-- Modular 40-ft high-cube pod architecture
-- No cleanrooms below **ISO 5**
-- Advanced nodes only after mature-node mastery
-- Self-funded with capped downside per phase
+Key principles:
+- Phased triggers prevent overreach.  
+- Cleanroom ISO 7–8 → ISO 5 critical zones (no ISO <5).  
+- Data moat + AI drives 20–60% yield improvement.
 
 ---
 
-## 2. Recomputed Master Timeline (High-Confidence)
+## Phase 1 – Mini-Fab Construction (65–130 nm)
 
-| Phase | Years | What Exists by End of Phase |
-|----|----|----|
-| Pre-Fab Prep | 2027–2029 | Tool licensing, workforce, utilities, ceramic shells |
-| **Phase 1 – Mini-Fab v1** | **2030–2031** | 65–130 nm mature-node fab, ISO 7–8 |
-| **Phase 2 – Mini-Fab v2** | **2032–2034** | Optimized mature-node fab, ISO 6 critical zones |
-| **Phase 3A – 7 nm Pilot** | **2035–2037** | Small advanced-node pod cluster, ISO 5 |
-| **Phase 3B – 3 nm Scale** | **2038–2042** | Full advanced-node pod cluster |
-| Steady-State Expansion | 2043+ | Replication only, no node chasing |
+**Timeline:** Late 2029 – Mid 2030 (6 months)
 
-> **Key change vs prior draft:**  
-> Advanced-node work shifts **~3–5 years later**, sharply reducing execution and capital risk.
+**Trigger Conditions:**
+- ≥6 months sustained positive cash flow  
+- ≥8–15 operational hubs  
+- Stable road/C&D feedstock contracts  
 
----
+**Construction Process:**
+- Co-located on brownfield/hub sites (EPA grants offset).  
+- Lease tents (5k–15k m²), deploy 5–10 pods.  
+- Modular ISO 7–8 cleanroom ($10–20M).  
+- Tools: Licensed DUV lithography ($50–100M royalties), 20–30% 3D-printed fixtures.  
+- Power: Biogas microturbine + BIPV solar + batteries; AWG water + digestate recovery.  
+- Automation: 50–70% lights-out.
 
-## 3. Phase 1 – Mini-Fab v1 (65–130 nm, Recomputed)
-
-### Trigger (All Required)
-- ≥12 consecutive months positive network cash flow  
-- ≥12 fully operational Genesis hubs  
-- Proven ceramic shell QC + utilities uptime ≥99.5%  
-
-### Construction (6–9 Months)
-- Pods: 6–12 manufacturing pods  
-- Cleanroom: ISO 7–8 modular tents  
-- Lithography: Licensed DUV (no EUV)  
-- Automation: 45–60% lights-out  
-
-### Financials (Per Hub)
-
-| Metric | Recomputed Range |
-|----|----|
-| CAPEX | **$150–350M** |
-| OPEX / year | $30–65M |
-| Capacity | 15k–120k units/year |
-| Initial Yield | 45–65% |
-| Mature Yield | 75–82% |
-| Revenue | $180–450M/year |
-| Gross Margin | 55–75% |
-| Break-even | 24–36 months |
-
-**Rationale:** Longer ramp, lower starting yield, higher realism.
+**Capacity & Financials:**
+- Units/year/hub: 10k–100k  
+- Yield: 50–70% start, 80% target  
+- CAPEX: $100–300M/hub (15–25% offset CHIPS Act)  
+- OPEX: $20–50M/year (50–80% automated)  
+- Revenue: $200–500M/year  
+- Break-even: 18–30 months
 
 ---
 
-## 4. Phase 2 – Mini-Fab v2 Optimization (Recomputed)
+## Phase 2 – Scale & Optimization (2030–2032)
 
-### Trigger
-- ≥80% yield sustained 4 quarters  
-- ≥$150M cumulative fab cash surplus  
-- ≥90% tool uptime  
+**Milestones Achieved:**
+- Mini-Fab yield ≥80%  
+- Cumulative cash ≥$100M  
 
-### Upgrades
-- +10–18 pods (ceramic shells ≥90%)
-- ISO 6 zones for litho / etch
-- In-house tools: 60–75%
-- Automation: 75–85% lights-out
+**Expansion:**
+- Add 10–20 pods; in-house 85–95% ceramic shells.  
+- Cleanroom upgrade: ISO 6 critical zones ($50–100M).  
+- In-house tools 65–75% (plasma refining, RISC-V SoCs).  
+- Automation: 80–85% lights-out.
 
-### Financial Delta
-
-| Metric | Increment |
-|----|----|
-| CAPEX add | $250–600M |
-| Capacity | 80k–300k units/year |
-| Yield | 82–88% |
-| Revenue uplift | +$300–800M/year |
-| Network IRR uplift | +7–11% |
+**Financials:**
+- Units/year/hub: 50k–200k  
+- CAPEX addition: $200–500M  
+- Revenue: +$300–700M/year  
+- Network IRR contribution: +10–15%
 
 ---
 
-## 5. Phase 3A – Advanced Fab Pilot (7 nm, Recomputed)
+## Phase 3 – Advanced Fab Upgrade (7 nm → 3 nm)
 
-**No earlier than 2035**
+**Timeline:** 2032–2035 (phased 9–18 months per upgrade)
 
-### Trigger (All Mandatory)
-- ≥3 years mature-node success
-- ≥$400M retained fab cash
-- Full domestic toolchain readiness
-- No network debt stress
+**Trigger Conditions:**
+- Prior milestones stable  
+- Cumulative cash ≥$200M  
+- Proven execution track record
 
-### Scope
-- 12–24 advanced pods
-- ISO 5 only in critical zones
-- EUV strictly limited (shared tools)
-- Automation: 85–90%
+**Construction & Milestones:**
+- **7 nm Pilot (2032–2033)**: 10–20 specialized pods; ISO 5 critical zones ($2–4M upgrade)  
+- **3 nm Scale-Up (2033–2035)**: 50–100 pod cluster; ISO 5 cleanrooms ($3–8M)  
+- In-house output: 80–90% (LCM ceramics, advanced plasma)  
+- Automation: 90–95% lights-out (predictive AI)  
+- Power/Resilience: Biogas + solar + waste heat
 
-### Financials (Pilot Scale)
-
-| Metric | Range |
-|----|----|
-| CAPEX | **$1.8–3.5B** |
-| OPEX / year | $600–900M |
-| Capacity | 300–900 wafers/month |
-| Revenue | $400–900M/year |
-| Break-even | 30–42 months |
-
-> This phase exists to **prove capability**, not maximize profit.
+**Financials:**
+- Total CAPEX: $3–8B per advanced cluster (phased; 25% ITC via CHIPS Act)  
+- Network-wide CAPEX 2032–2035: $15–30B  
+- OPEX: $2–5B/year (50–80% offset via regeneration)  
+- Capacity: 500–3,000 wafers/month  
+- Revenue: $500M–$1B+/hub/year  
+- Break-even: 18–30 months per phase  
+- IRR/NPV impact: +5–10% network-wide; NPV $150–350B at 7%
 
 ---
 
-## 6. Phase 3B – Advanced Fab Scale (3 nm, Recomputed)
+## Cleanroom & Yield Notes
 
-**Earliest: 2038–2042**
+| Stage | ISO Level | Purpose | Cost/Pod |
+|-------|-----------|---------|-----------|
+| Mini-Fab | ISO 7–8 | Initial 65–130 nm | $10–20M |
+| Scale | ISO 6 | Critical zones upgrade | $50–100M |
+| Advanced Fab | ISO 5 | 7–3 nm critical zones | $2–8M |
 
-### Scope
-- 60–120 pod cluster
-- Full ISO 5 cleanrooms
-- In-house materials: 80–90%
-- Automation: 90–95% lights-out
-- Ceramic shells hardened (munitions 8–9/10)
-
-### Financials (Full Cluster)
-
-| Metric | Recomputed |
-|----|----|
-| CAPEX | **$5–9B** |
-| OPEX / year | $1.5–3.0B |
-| Capacity | 1,200–4,000 wafers/month |
-| Revenue | $1.2–3.0B/year |
-| Gross Margin | 45–65% |
-| Break-even | 24–36 months |
+**No ISO <5:** Marginal yield gain 1–3% vs. 6–30× cost/energy; AI/data moat more efficient.
 
 ---
 
-## 7. Network-Wide Financial Impact (Recomputed)
+## Overall Viability & Strategic Notes
 
-| Metric | Conservative | Base | Aggressive |
-|----|----|----|----|
-| Total Semi CAPEX (2030–2042) | $18B | $26B | $38B |
-| Annual Revenue (post-2042) | $4B | $9B | $18B |
-| Network IRR uplift | +4% | +7% | +11% |
-| NPV @7% (2075 horizon) | $120B | $260B | $520B |
+- Modular pods = low-risk scaling, high resilience (mobile, munitions-resistant)  
+- Strict triggers prevent premature overreach  
+- CHIPS/IRA grants offset 15–25% CAPEX  
+- Data moat + AI improve yields 20–60%  
+- Network-wide revenue post-upgrade: $5–20B/year  
+- Feasibility rating: 8.5/10 (niche focus avoids traditional fab pitfalls)
 
----
-
-## 8. Cleanroom Strategy (Confirmed Optimal)
-
-| Level | Used Where | Why |
-|----|----|----|
-| ISO 7–8 | Mature nodes | Lowest cost, fast iteration |
-| ISO 6 | Critical mature tools | Yield leverage |
-| ISO 5 | Advanced nodes only | Best ROI point |
-| ISO ≤4 | **Never** | 6–30× cost for 1–3% yield |
-
----
-
-## 9. Updated Risk & Feasibility Score
-
-**Strengths**
-- Pod modularity caps downside
-- Delay of EUV reduces catastrophic risk
-- Internal data moat replaces brute-force cleanliness
-- Sovereign, non-commodity positioning
-
-**Risks**
-- Talent concentration (mitigated by automation)
-- Tool export controls (mitigated by node choice)
-- Power density at advanced nodes (mitigated by biogas + ceramic thermal mass)
-
-**Overall Feasibility Rating:** **8.3–8.8 / 10**
-
----
-
-## 10. Bottom Line
-
-Recomputed timelines and costs make this plan:
-- **Slower**, but vastly more survivable  
-- **Cheaper per useful wafer** than legacy fabs  
-- **Strategically sovereign**, not volume-chasing  
-
-Genesis does not try to beat incumbents at scale — it outlasts them by being modular, regenerative, and financially disciplined.
-
----
-
-## License
-
-This work is licensed under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
-
-**© 2026 EarthStar Technologies – Conceptual Working Group**
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
