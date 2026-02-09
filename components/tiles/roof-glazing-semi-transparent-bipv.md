@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-The **Roof Glazing Semi-Transparent BIPV Tile** provides power generation, daylighting, and water harvest for Genesis hubs and buildings, integrating seamlessly with the all-electric primary energy system (sodium-ion batteries, inductive charging) and biogas methane backup. It supports **[Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md)** microgrids, enhances **[Vertical Ag Expansion Kit](..//kits/vertical-ag-expansion-kit.md)** efficiency, and complies with smart city standards (**[ISO/TC 268](../../docs/standards/iso-tc-268.md)**) and sustainable codes (**[ISO 14001](../../docs/standards/iso-14001.md)**). All buildings using this tile incorporate **[Smart Airlock Kit](../kits/smart-airlock-kit.md)** for security (weapons/explosives scans + alerts).
+The **[Roof Glazing Tile](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)** provides power generation, daylighting, and water harvest for Genesis hubs and buildings, integrating seamlessly with the all-electric primary energy system (sodium-ion batteries, inductive charging) and biogas methane backup. It supports **[Sustainable Energy LLC](../../innovation-hub/sustainable-energy-llc.md)** microgrids, enhances **[Vertical Ag Expansion Kit](..//kits/vertical-ag-expansion-kit.md)** efficiency, and complies with smart city standards (**[ISO/TC 268](../../docs/standards/iso-tc-268.md)**) and sustainable codes (**[ISO 14001](../../docs/standards/iso-14001.md)**). All buildings using this tile incorporate **[Smart Airlock Kit](../kits/smart-airlock-kit.md)** for security (weapons/explosives scans + alerts).
 
 ## Key Functions & Features
 
