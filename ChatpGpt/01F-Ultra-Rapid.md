@@ -1,105 +1,210 @@
 ---
 layout: default
-title: Prompt – Ultra-Rapid Hub Bootstrap & Staging Strategy for Genesis Network
-description: Consolidated ultra-rapid hub creation strategy including mature/staging hubs, commercial greenhouses, pods, processing, and affiliate expansion.
+title: Genesis Network – Mother Hub Qualification Specification
+description: Non-negotiable criteria, metrics, and governance requirements a Genesis hub must satisfy before being authorized to seed new hubs or affiliate mini-hubs.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 01F – Ultra-Rapid Hub Bootstrap & Staging Strategy (Recomputed)
+# Mother Hub Qualification Specification  
+**Genesis Network – February 2026 Hardened Baseline**
 
-**© 2026 EarthStar Technologies Conceptual Working Group**  
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
----
-
-## Objective
-
-Deploy **maximum-speed Genesis Network hubs and affiliate mini-hubs** with:
-
-- **Energy & food independence** in **days/weeks**  
-- **Cash-positive** within **1–3 months**  
-- **Self-replication** in **6–12 months**  
-- **Network doubling** every **18–24 months** post-2030  
-
-Leverage **mature/staging hubs**, commercial greenhouses, pre-mature pods, feedstock, dwarfs, livestock, microbial inoculants, beehives, stacking, and new automated processing pods.
+**© 2025–2026 EarthStar Technologies**  
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ---
 
-## Pre-Supply Package per Hub / Mini-Hub
+## Purpose
 
-| Component | Details | Notes |
-|-----------|---------|-------|
-| **Pods – Core** | Tile Production, Aquaponics, Biogas, Housing, Staples, Orchard, Livestock, Beehives, Recycling/Circular, Microbial Inoculant, Restoration/DAC, Smart Infrastructure, Education/Telepresence, Robotics & Automation | Pre-mature, plug-and-play, producing Day 1–7 |
-| **Pods – Automated Processing** | Bakery, Brewery, Butcher, Confectionary, Dairy | Pre-loaded with initial starters; produces processed goods immediately |
-| **Feedstock & Starters** | 50–200 tons C&D/organic waste, digestate, dwarfs (root-pruned/inoculated), staples trays, fish fingerlings, BSFL colonies, bee colonies, livestock breeding pairs + feed | Enables Day 1 productivity |
-| **Interconnect & Stacking Kits** | Smart ceramic pipes, vertical/horizontal stacking frames, airlocks/security modules | Supports pod density + pollinator & utility integration |
+Define the **strict, auditable, non-negotiable requirements** a Genesis hub must meet before it is authorized to act as a **Mother Hub** capable of:
 
----
+- Seeding new core hubs (500–2,500 ha)
+- Seeding affiliate mini-hubs (5–60 ha)
+- Supplying live biology, feedstock, pods, and trained operators
+- Transferring reputation, governance trust, and operational legitimacy
 
-## Timeline – Ultra-Rapid Bootstrap (Recomputed)
-
-| Phase | Duration | Activities | Cash Flow / Production |
-|-------|---------|-----------|------------------------|
-| **D1–D7** | 1 week | Site acquisition, pre-mature pods staged, greenhouse prep, infrastructure plug-in | N/A |
-| **W1** | Week 1 | Pods/greenhouses delivered & plugged; pre-inoculated biogas active; tile factory ramp | Production begins; initial water, energy, food flows |
-| **W2–W4** | Weeks 2–4 | First harvests (greens/honey/staples/eggs/milk); orchard dwarfs stabilize; beehives active; processing pods produce initial batches | Revenue $5–20M; food & energy independence |
-| **M2–M3** | Months 2–3 | Self-replication starts; land remediation 50–70% complete | Revenue $20–80M; full self-sufficiency |
-| **M4–M6** | Months 4–6 | Full closure achieved; stacking increases pod density; cumulative production & cash $100–300M | Hub becomes staging node |
-| **M7–M12** | Months 7–12 | Quarterly supply of 10–50 pods/kits to new hubs & affiliates; network exponential ramp | Hub contributes to network growth |
-| **Year 2+** | 12+ months | Full maturity; affiliates scaling pods/farms; network doubles every 18–24 months | Global network expansion; 10,000+ nodes by 2033 |
+**No hub may seed another hub unless it passes *every* requirement below.**  
+No provisional, partial, or political approvals are permitted.
 
 ---
 
-## Affiliate Mini-Hub Strategy
+## Core Doctrine
 
-- **Bootstrap**: 5–10 pods + small greenhouse node, pre-supplied like full hub  
-- **Finance**: Subsidized loans/kits; internal revenue via crops, livestock, processed goods  
-- **Scaling**: Produce additional pods locally when able; purchase or exchange starter pods for diversified expansion  
-- **Integration**: Connect to nearest staging hub or mature mother hub; replicate pre-supply methodology
-
----
-
-## Cost & Financial Estimates (Per Hub / Mini-Hub)
-
-| Item | Cost Estimate (USD) | Notes |
-|------|------------------|-------|
-| Pre-mature Pods & Feedstock | $12–25M | Includes all core + automated processing pods |
-| Site Prep / Infrastructure | $1–3M | Airlocks, interconnects, stacking frames |
-| Initial Operational Costs | $0.5–1M | Logistics, automation, staff training |
-| Projected Revenue M1–M3 | $5–20M | First production (greens, staples, honey, milk, processed goods) |
-| Projected Revenue M2–M6 | $20–300M | Full closure, stacking, automated processing, food/energy outputs |
-| IRR | 45–60% | Aggressive pre-supply & fast bootstrap reduce payback |
-| Network-Wide Upside | $10B+ by 2033 | 10,000+ nodes, includes affiliates & global expansion |
+- **Seeding is a privilege, not a milestone**
+- **Velocity without resilience is forbidden**
+- **Biology, cashflow, and governance must be independently survivable**
+- **Abort authority overrides growth incentives**
 
 ---
 
-## Site-Specific Adaptations
+## Qualification Categories (All Mandatory)
 
-| Site Type | Adaptation Notes |
-|-----------|----------------|
-| **Closed Landfill** | Remediation pods parallel; productive pods on remediated zones; microbial & biochar boosts |
-| **Distressed Orchard** | Immediate dwarf transplant into pods; frees land for staples/agroforestry; integrate pollination pods |
-| **Commercial Greenhouse (Distressed/Partnered)** | Acts as Level 0.5 staging hub; supplies pre-mature pods & biologicals while new hub builds |
-| **Affiliate Farms / Mini-Hubs** | Subsidized kits/loans; same pre-supply methodology; become local staging nodes within 1–2 years |
+A hub must pass **100% of gates** in all six categories:
 
----
+1. Operational Maturity  
+2. Financial Resilience  
+3. Biology & Closure Performance  
+4. Supply Chain & Manufacturing Readiness  
+5. Governance, Reputation & Compliance  
+6. Seeding Capacity & Risk Containment  
 
-## Viability & Strategic Impact
-
-- **Bootstrap acceleration**: 70–90% faster than standard timelines  
-- **Revenue uplift**: +40–60% via early harvests, stacking, processed goods  
-- **Energy & food independence**: Weeks 1–4  
-- **Self-replication**: Months 2–6  
-- **Network doubling**: Every 18–24 months post-2030  
-- **Global nodes by 2033**: 10,000+; network-wide scale by 2030  
-- **IRR**: 45–60%  
-- **Strategic outcome**: Creates a resilient, self-sustaining, exponential hub network capable of continuous growth, affiliate integration, and rapid cash-positive operations
+Failure in **any single gate** → **Immediate disqualification** or **loss of Mother Hub status**.
 
 ---
 
-This implementation **fully integrates all prior enhancements**: mature & staging hubs, commercial greenhouse nodes, pre-supply pods, feedstock, beehives, microbial inoculants, dwarf orchards, automated processing pods, stacking/interconnects, site adaptations, and affiliate scaling.
+## 1. Operational Maturity Gates
+
+| Requirement | Threshold | Verification |
+|------------|----------|--------------|
+| Continuous operation | ≥ 9 consecutive months | Ops logs, sensor history |
+| Pod uptime | ≥ 96% average uptime | Independent audit |
+| Emergency response drills | ≥ 2 full simulations completed | Drill reports |
+| Staff redundancy | ≥ 2 trained operators per pod type | Training records |
+| Relocation readiness | 100% pods relocatable within 30 days | Dry-run documentation |
+
+**Kill-switch:** Any unplanned full-system outage >24h in last 90 days.
 
 ---
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-© 2026 EarthStar Technologies – Conceptual Working Group
+## 2. Financial Resilience Gates
+
+| Requirement | Threshold |
+|------------|----------|
+| Cash-positive duration | ≥ 6 consecutive months |
+| Revenue diversity | ≥ 5 independent streams |
+| Largest revenue stream | ≤ 35% of total |
+| Operating reserve | ≥ 3 months full opex |
+| Debt service coverage | ≥ 2.0x |
+| Conservative model validation | Actuals ≥ conservative baseline |
+
+**Disallowed:**  
+- Subsidy dependence  
+- Bridge financing to meet reserves  
+- Deferred payroll or vendor arrears  
+
+**Kill-switch:** Any month with negative operating cashflow after qualification.
+
+---
+
+## 3. Biology & Closure Performance Gates
+
+| Metric | Threshold |
+|------|-----------|
+| Overall resource closure | ≥ 95% sustained 90 days |
+| Water closure | ≥ 90% (AWG + rain + reuse) |
+| Energy closure | ≥ 100% net-positive |
+| Biology survival rate | ≥ 97% quarterly |
+| Disease incidents | Zero uncontrolled outbreaks |
+| Frozen master banks | 100% species coverage |
+
+**Mandatory Proof:**
+- Live sensor feeds (water, DO, ammonia, methane, energy)
+- Third-party animal welfare & biosecurity audit
+- Independent biologist sign-off
+
+**Kill-switch:**  
+- Any mass mortality event (>5% species loss)  
+- Any undocumented pathogen outbreak  
+
+---
+
+## 4. Supply Chain & Manufacturing Readiness Gates
+
+| Requirement | Threshold |
+|------------|----------|
+| Dual sourcing | 100% pod-critical components |
+| Critical parts buffer | ≥ 6 months |
+| Tile & pipe yield | ≥ 85% QA pass rate |
+| Ceramic feedstock stockpile | ≥ 90 days |
+| Biology transport success | ≥ 85% survival historical |
+| Logistics redundancy | ≥ 2 carriers + routes |
+
+**Disallowed:**  
+- Single-vendor GNSS, battery, SoC, or actuator dependency  
+- Just-in-time biology sourcing  
+
+**Kill-switch:** Loss of dual sourcing for any critical component.
+
+---
+
+## 5. Governance, Reputation & Compliance Gates
+
+| Requirement | Threshold |
+|------------|----------|
+| Cooperative charter | Filed, binding, public |
+| Independent board seats | ≥ 2 non-management |
+| Audit cadence | Quarterly, published summaries |
+| Public sensor dashboard | Live, no manual suppression |
+| Neighbor agreements | ≥ 80% compliance maintained |
+| Incident response SLA | <12h public disclosure |
+
+**Mandatory Teams Active:**
+- Legal counsel (ag + zoning)
+- PR / crisis response
+- Biosecurity officer
+
+**Kill-switch:**  
+- Any attempt to conceal incidents  
+- Regulatory violation without self-reporting  
+
+---
+
+## 6. Seeding Capacity & Risk Containment Gates
+
+| Requirement | Threshold |
+|------------|----------|
+| Excess output available | 10–20% sustained |
+| Frozen biology reserve | ≥ 2 full hub equivalents |
+| Live biology buffer | ≥ 30 days |
+| Transport hardening | Dual-route + climate telemetry |
+| Seeding cadence limit | ≤ 1 core hub / 90 days |
+| Regional concurrency cap | ≤ 2 launches / climate zone |
+
+**Mandatory Rule:**  
+A Mother Hub **may not seed** if doing so would reduce its own closure, reserves, or staffing below minimum thresholds.
+
+---
+
+## Authority & Enforcement
+
+- **Mother Hub Ops Council** (external to site) holds:
+  - Qualification approval authority  
+  - Suspension authority  
+  - Immediate abort authority  
+
+- Site leadership **cannot override**:
+  - Biology viability aborts  
+  - Financial reserve breaches  
+  - Governance kill-switches  
+
+---
+
+## Loss of Mother Hub Status
+
+Status is **automatically revoked** upon:
+
+- Any kill-switch trigger
+- Two or more gate warnings in 90 days
+- Failure to publish audits or dashboards on schedule
+
+Requalification requires:
+- Full corrective action report (CAR)
+- 90 days clean operation post-fix
+- Independent re-audit
+
+---
+
+## Strategic Rationale
+
+This specification ensures that:
+- Failure cannot cascade network-wide
+- Growth pressure never overrides survivability
+- Reputation remains an asset, not a liability
+- Biology and trust are treated as scarce, high-value resources
+
+Mother Hubs are **infrastructure of last resort**, not growth trophies.
+
+---
+
+**CC-BY-4.0**  
+Share and adapt freely with attribution to  
+“Genesis Network – Mother Hub Qualification Specification (EarthStar Technologies)”
