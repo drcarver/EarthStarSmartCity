@@ -1,112 +1,113 @@
 ---
 layout: default
-title: Genesis Network – Prompt 01G – Security & Smart Airlocks
-description: Specification for the security layer and mandatory smart airlocks in all Genesis buildings, pods, and complexes — providing threat detection, access control, and compliance without over-complexity (February 2026 baseline).
+title: Genesis Network – Mother Hub Security & Smart Airlock Compliance Spec
+description: Mandatory smart airlock, security tile, and coordination pod requirements for all Genesis Mother Hubs, aligned with February 2026 hardened baseline.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 01G – Security & Smart Airlocks  
+# Mother Hub Security & Smart Airlock Compliance Specification  
+**Genesis Network – February 2026 Hardened Baseline**  
 
-**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
-https://creativecommons.org/licenses/by/4.0/
+**© 2025–2026 EarthStar Technologies**  
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+---
 
 ## Objective
 
-Ensure **every Genesis building, pod, hub, and community complex** has integrated smart airlocks and basic perimeter security that:
+Ensure that **every Mother Hub and daughter hub** meets a strict, auditable **security minimum standard** before seeding, including:
 
-- Detects weapons, explosives, and major threats  
-- Alerts security team / local responders  
-- Maintains privacy and avoids surveillance overreach  
-- Generates external contract revenue  
-- Is manufactured from existing tile factories (low added complexity)  
+- Smart airlock deployment at every entrance  
+- Perimeter/internal security tiles coverage  
+- Optional coordination pod integration for clusters of ≥5 airlocks  
+- Full operational verification under fail-safe and emergency conditions  
 
-## Core Principles
+**Non-compliance** → automatic disqualification from seeding or affiliate authorization.
 
-- **Mandatory in All Structures** — No building or pod is deployed without at least one smart airlock  
-- **Tile-Based Simplicity** — Use existing tile manufacturing; add only minimal new sensor/electronics  
-- **Privacy-First** — No continuous facial recognition or behavioral tracking; threat detection only  
-- **Revenue Model** — Internal use + external sales/contracts (municipal, commercial, critical infrastructure)  
-- **Fail-Safe Design** — Graceful degradation; manual override always possible  
+---
 
-## 1. Smart Airlock Specification (Mandatory)
+## Compliance Gates (All Mandatory)
 
-**Every entrance** (residential, TerraWell, factories, community buildings, pods) must include at least one smart airlock module.
+### 1. Smart Airlock Gate
 
-### Physical Design
-- Size: 1.2 m × 1.2 m × 2.4 m (standard door frame compatible)  
-- Material: Toughened ceramic shell + reinforced glass door  
-- Features:  
-  - Double-door interlock (mantrap style)  
-  - mmWave body scanner (concealed objects/weapons)  
-  - Hyperspectral camera (anomaly detection)  
-  - IMS/Raman trace detector (explosives/narcotics residue)  
-  - Air sampling + far-UVC disinfection cycle (pandemic resilience)  
+| Requirement | Threshold | Verification |
+|------------|----------|--------------|
+| Entrances covered | 100% of pod/building entrances | Audit logs + drone survey |
+| Threat detection | Firearms, knives, explosives, narcotics | Test drills quarterly |
+| Operational response | Lockdown + silent alert <5 sec | Simulation drill reports |
+| Manual override | Emergency key/badge functional | On-site inspection |
+| Maintenance | Sensor calibration every 6 months | Maintenance logs |
 
-### Detection Capabilities
-| Threat Type           | Detection Method                  | False Positive Rate | Alert Level |
-|-----------------------|-----------------------------------|---------------------|-------------|
-| Firearms / Knives     | mmWave radar + shape recognition  | Low                 | High        |
-| Explosives            | Trace chemical (IMS/Raman)        | Very Low            | Critical    |
-| Narcotics             | Trace chemical (IMS/Raman)        | Low                 | Medium      |
-| Anomalous behavior    | Gait/motion anomaly (optional AI) | Medium              | Low-Medium  |
+**Kill-switch:** Any entrance without a functioning airlock → Mother Hub cannot seed.
 
-### Operation
-- Normal entry: Scan → green light → inner door opens (2–4 seconds)  
-- Threat detected: Red light + lockdown + silent alert to Security LLC / local responders  
-- Manual override: Emergency physical key or admin badge  
+---
 
-## 2. Basic Security Tile (Perimeter & Internal)
+### 2. Security Tile Gate
 
-**Purpose**: Low-cost, tile-integrated detection for outer perimeters and internal zones.
+| Requirement | Threshold | Verification |
+|------------|----------|--------------|
+| Perimeter coverage | 1 tile per 10–20 m | Drone/visual audit |
+| Internal coverage | 1 tile per 50–100 m² | Floorplan cross-check |
+| Sensor function | mmWave, IR multispectral, acoustic | Monthly automated test report |
+| Network integration | Connected to hub control system | Live test telemetry |
 
-### Features
-- mmWave radar + IR multispectral sensor  
-- Acoustic anomaly detection  
-- Embedded compute for local processing  
-- Blind-mate interconnect to airlock/security pod  
+**Kill-switch:** Any >5% tile failure or network isolation.
 
-**Deployment**  
-- Exterior walls/perimeter fencing: 1 tile every 10–20 m  
-- Internal hallways/public spaces: 1 tile every 50–100 m²  
+---
 
-## 3. Security Coordination Pod (Optional but Recommended)
+### 3. Coordination Pod Gate (Clustered Installations)
 
-**Purpose**: Central hub for 5–50 airlock/tile cluster.
+| Requirement | Threshold | Verification |
+|------------|----------|--------------|
+| Cluster coverage | ≥5 airlocks | Layout verification |
+| AI triage operational | 24/7 auto-alert | System simulation |
+| Drone dispatch readiness | <10 sec from alert | Test exercise |
+| RTK tile integration | Correct position mapping ±3 cm | Integration test |
+| Manual override | Human operator access | Drill inspection |
 
-### Features
-- AI alert triage  
-- Drone dispatch (basic quadcopter)  
-- Integration with RTK tiles for precise incident location  
-- Manual monitoring station  
+**Mandatory if hub >5 airlocks**; optional otherwise.
 
-**When used**: Large hubs, TerraWell centers, community complexes.
+---
 
-## 4. Manufacturing & Cost (Mature Network)
+### 4. Manufacturing & Supply Chain Gate
 
-**Smart Airlock Module**  
-- Produced in tile factories (ceramic shell + sensor embed)  
-- Cost: $80k–$200k per unit  
-- Affiliate selling price: $300k–$700k (includes installation/training)  
+| Requirement | Threshold |
+|------------|----------|
+| Airlock production | Mature tile factory, embedded sensors | Production report |
+| Redundant sourcing | ≥2 suppliers per sensor type | Supplier verification |
+| Spare inventory | ≥5% of deployed units | Inventory audit |
+| Installation training | 100% staff certified | Training records |
 
-**Security Tile**  
-- Same production line as other tiles  
-- Cost: $120–$250 per tile  
-- Selling price: $400–$900  
+**Kill-switch:** Single-supplier dependency on critical sensor component.
 
-**Revenue Model**  
-- Internal use: 0 (mandatory)  
-- External sales/contracts: Municipal buildings, schools, warehouses, critical infrastructure  
-- Est. annual revenue: $50–$200M per mature hub (external contracts)  
+---
 
-## 5. Viability & Strategic Notes
+### 5. Operational Viability Gate
 
-- **Minimal Complexity** — Uses existing tile manufacturing; adds only 2–3 new sensor types  
-- **Political Defensibility** — Framed as safety/compliance infrastructure (not surveillance)  
-- **Revenue Flywheel** — External contracts fund internal deployment  
-- **Resilience Boost** — Airlocks + basic perimeter protect against pandemics, active threats, theft  
-- **Scalability** — Mandatory but low-cost → every hub/affiliate gets protection without delaying bootstrap  
+| Requirement | Threshold |
+|------------|----------|
+| Power resilience | ≥72h blackout survival per unit | Test record |
+| False positive rate | <5% per quarter | Incident logs |
+| Maintenance SLA | ≤24h response | Maintenance dashboard |
+| Emergency scenario tested | Fire, intrusion, power loss | Drill records |
 
-This is the simplest, most deployable security layer that still delivers real value — protecting people and assets while generating external revenue.
+**Kill-switch:** Any airlock fails emergency drill.
+
+---
+
+## Financial & Strategic Notes
+
+- **Cost (Mature Network):**  
+  - Airlock: $80k–$200k/unit  
+  - Security tile: $120–$250/unit  
+- **Affiliate sale potential:** $50–$200M/year per mature hub  
+- **Strategic rationale:**  
+  - Mandatory baseline protection for staff, assets, biology  
+  - Enables revenue from municipal/commercial contracts  
+  - Scales with hub size; minimal complexity for maximum coverage  
+- **Privacy-first:** No continuous surveillance; threat detection only  
+
+---
 
 **CC-BY-4.0**  
-Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
+Share & adapt freely with attribution: “Genesis Network – Mother Hub Security & Smart Airlock Compliance Spec – EarthStar Technologies”
