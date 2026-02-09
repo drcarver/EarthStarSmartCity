@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-The **Exterior Cladding** tile serves as the primary weatherproof envelope for Genesis hubs, cities, towers, and structures. It delivers:
+The **[Exterior Cladding Tile](https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)** tile serves as the primary weatherproof envelope for Genesis hubs, cities, towers, and structures. It delivers:
 
 - Durable protection against wind, rain, UV, temperature extremes, and impact
 - Supplementary power generation via integrated **[BIPV](components/tiles/roof-glazing-semi-transparent-bipv.md)** layers
