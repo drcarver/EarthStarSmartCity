@@ -1,80 +1,76 @@
 ---
 layout: default
-title: Genesis Network – Prompt 02I for Tricorder-Style Handheld Scanner
-description: Comprehensive prompt defining the full specification, enhancements, and capabilities of the tricorder-style handheld diagnostic scanner in the Genesis Network, including all proposed sensors, environmental monitoring, weapon/drug detection, integration with the Communicator Badge, and use cases for first responders and individuals (February 2026 baseline).
+title: Genesis Network – Consumer Tricorder (Enhanced)
+description: Complete consumer tricorder integrating health monitoring, environmental sensing, universal translation, drone support, VR/HUD display, and patch integration, including financial projections (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02I – Tricorder-Style Handheld Scanner (Full Specification)
+# Genesis Network – Consumer Tricorder (Enhanced)
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
-## Objective
+---
 
-Define the complete specification for a **tricorder-style handheld diagnostic scanner** in the Genesis Network. This device is a portable, multi-function tool that combines vital signs monitoring, environmental scanning, threat detection, and basic imaging — inspired by Star Trek but grounded in 2026–2040 feasible technology.
+## Overview
 
-The tricorder is designed for:
-- First responders (police, fire, EMS) as a primary field diagnostic and safety tool
-- Individuals for personal health and environmental awareness
-- Integration with the **[Communicator Badge](components/badges/communicator-badge.md)** for data relay, alerts, and **[digital twins](docs/digital-twins.md)** sync
+The **consumer tricorder** combines health, safety, environmental awareness, real-time translation, and immersive situational intelligence:
 
-It replaces or augments body cams, radios, and basic medical kits while providing always-on monitoring via inductive vehicle charging.
+- Health monitoring: vitals, ECG, SpO₂, BP, temperature
+- Environmental sensing: air quality, radiation, noise, temperature
+- Universal translator: real-time translation with user-defined default language
+- Drone swarm integration: thermal, IR, chemical, and visual feeds
+- VR/HUD display: immersive 3D situational overlays
+- Patch integration: continuous vitals + alert notifications
 
-## Core Design Principles
+---
 
-- Form factor: Handheld (phone-sized or slightly larger), rugged ceramic shell, IP67-equivalent
-- Power: Sodium-ion battery + piezo harvesting + inductive charging (vehicle docks)
-- Processing: Local-first RISC-V compute via **[OS & Software LLC](innovation-hub/os-software-llc.md)**; AI-driven interpretation
-- Connectivity: Encrypted BLE/mmWave to badge and tile mesh
-- Modularity: Snap-in probe modules (ultrasound, NIR, etc.) for upgrades
+## Sensor & Feature Suite
 
-## Full Sensor & Capability Suite
+| Sensor / Feature              | Capabilities | Feasibility | Timeline | Cost (USD) | Use Case |
+|-------------------------------|-------------|------------|---------|------------|---------|
+| PPG + SpO₂                    | HR, HRV, oxygen saturation | Very High | 2027–2029 | $5–15 | Personal health monitoring |
+| ECG Single-Lead               | Arrhythmia detection | High | 2027–2029 | $5–15 | Early cardiac alerts |
+| Temperature (Skin/Core)       | Fever, heat stress | Very High | 2027–2029 | $1–4 | Illness/environment monitoring |
+| IMU (6-axis)                  | Motion, posture, falls | Very High | 2027–2029 | $2–5 | Activity & fall alerts |
+| Cuffless BP (PTT)             | Blood pressure | Medium | 2028–2032 | $5–12 | Hypertension/shock monitoring |
+| Ambient Temp/Humidity         | Comfort, heat/cold index | Very High | 2027–2029 | $1–4 | Environmental alerts |
+| VOC / Air Quality             | Pollutants, smoke | High | 2027–2030 | $3–10 | Safety & travel |
+| Particulate Matter (PM2.5)   | Dust, allergens | High | 2027–2030 | $5–15 | Allergy & respiratory alerts |
+| Noise Level                   | dB(A) exposure | Very High | 2027–2029 | $2–5 | Hearing protection |
+| mmWave Radar                  | Obstacle & movement detection | High | 2028–2030 | $20–60 | Personal safety |
+| Hyperspectral / Trace         | Chemical/drug detection | Medium-High | 2029–2033 | $30–80 | Contamination alerts |
+| Low-Dose Radiation            | Gamma/beta detection | Medium | 2030–2035 | $15–40 | Environmental hazard |
+| Ultrasound Probe (Modular)    | Tissue & blood flow | High | 2028–2030 | $50–150 | Personal imaging |
+| Thermal / IR Camera           | Heat mapping | Very High | 2027–2029 | $10–30 | Infection, environment |
+| NIR Spectroscopy              | Tissue oxygenation | High | 2028–2030 | $10–30 | Health monitoring |
+| Universal Translator          | Real-time multi-language | Very High | 2027–2030 | $15–40 | Travel & communication |
+| Drone Swarm Feed              | Thermal/IR/visual overlays | Medium-High | 2029–2032 | $100–300 | Situational awareness |
+| VR/HUD Display                | Immersive 3D visualization | High | 2028–2031 | $50–100 | Hazard & map overlays |
+| Patch Integration             | Continuous vitals & alerts | Very High | 2027–2029 | $10–25 | Wearable health monitoring |
 
-| Sensor / Method              | Measured Parameters / Capabilities            | Technology / Method                     | Maturity (2026) | Feasibility | Timeline (Mature) | Added Cost (Device) | Primary Use Cases |
-|------------------------------|-----------------------------------------------|-----------------------------------------|-----------------|-------------------|-------------------|----------------------|-------------------|
-| **PPG + SpO₂**               | HR, HRV, oxygen saturation                    | Dual-wavelength LED + photodiode        | Very High       | Very High         | 2027–2029         | $5–$15               | Hypoxia, cardiac stress |
-| **ECG Single-Lead**          | Heart rhythm, AFib, HRV                       | Dry electrodes                          | High            | High              | 2027–2029         | $5–$15               | Arrhythmia detection |
-| **Temperature (Skin/Core)**  | Fever, heat stress, inflammation              | Thermopile                              | Very High       | Very High         | 2027–2029         | $1–$4                | Infection, environmental exposure |
-| **IMU (6-axis)**             | Motion, posture, fall, activity               | MEMS accelerometer + gyro               | Very High       | Very High         | 2027–2029         | $2–$5                | Fall risk, positioning |
-| **Cuffless BP (PTT)**        | Systolic/diastolic estimation                 | Pulse transit time from PPG + ECG       | Medium          | High              | 2028–2032         | $5–$12               | Hypertension, shock |
-| **Ambient Temp / Humidity**  | Environmental comfort, heat index             | Combined MEMS                           | Very High       | Very High         | 2027–2029         | $1–$4                | Heat/cold stress alerts |
-| **VOC / Air Quality**        | Pollutants, chemicals, smoke                  | Metal-oxide or photoionization          | High            | High              | 2027–2030         | $3–$10               | Toxic exposure, wildfire smoke |
-| **Particulate Matter (PM2.5)** | Dust, allergens, smoke                        | Optical laser scattering                | High            | High              | 2027–2030         | $5–$15               | Respiratory hazard alerts |
-| **Noise Level**              | dB(A), chronic exposure                       | MEMS microphone                         | Very High       | Very High         | 2027–2029         | $2–$5                | Hearing protection alerts |
-| **mmWave Radar**             | Concealed weapons, body movement              | mmWave radar module                     | High            | High              | 2028–2030         | $20–$60              | Threat detection (first responders) |
-| **Hyperspectral / Trace**    | Drug/explosive traces, chemical ID            | Hyperspectral imaging + trace sensors   | Medium-High     | Medium            | 2029–2033         | $30–$80              | Drug/weapon detection |
-| **Low-Dose Radiation (Geiger)** | Gamma/beta background & incidents             | Miniaturized Geiger-Müller              | Medium          | Medium            | 2030–2035         | $15–$40              | CBRN threat detection |
-| **Ultrasound Probe (Modular)** | Soft tissue, blood flow, trauma               | Phased-array transducer                 | Very High       | High              | 2028–2030         | $50–$150 (module)    | Field trauma assessment |
-| **Thermal / IR Camera**      | Inflammation, circulation, hotspots           | IR sensor array                         | Very High       | Very High         | 2027–2029         | $10–$30              | Infection, wound detection |
-| **NIR Spectroscopy**         | Tissue oxygenation, hemoglobin                | Near-infrared light + detectors         | High            | High              | 2028–2030         | $10–$30              | Hypoxia, tumor margins |
+---
 
-## Always-On Operation & Vehicle Integration
+## Operation & Connectivity
 
-- **Inductive Charging**: Embedded coils in patrol vehicles, ambulances, fire trucks, and personal cars → badge/tricorder never powers down.
-- **Continuous Monitoring**: 24/7 environmental + vitals tracking; recording activates on trigger (weapon detection, voice command, motion anomaly).
-- **Personal Mode**: Off-duty users can use as health/safety device (environmental alerts, fall detection, vitals).
+- Always-on monitoring via battery + piezo + optional inductive charging  
+- Default language translation with on-demand translations for all others  
+- HUD/VR integration displays environmental hazards, translation, drone feeds, and health alerts  
+- Drone swarm mesh: live feeds integrated for AR situational awareness  
+- Patch + badge integration for continuous data aggregation  
 
-## How This Increases First Responder Safety
+---
 
-- **360-Degree Awareness** — mmWave + hyperspectral detect threats from behind/sides.
-- **Immediate Threat Alerts** — Weapon/drug detection → silent haptic/dispatch.
-- **Health Monitoring** — Vitals + stress detection → officer distress alerts.
-- **Environmental Protection** — Air quality, radiation, noise warnings → reduced exposure.
-- **Evidence & Accountability** — Continuous recording → de-escalation and legal protection.
+## Financial Summary (Consumer Model)
 
-## Recomputed Financial Impact (First Responder Focus)
+| Item                          | Value (USD) |
+|-------------------------------|------------|
+| R&D CAPEX                     | $40–$120M |
+| Consumer unit cost            | $400–$1,200 (modular) |
+| Annual global revenue potential | $500–$1,500M |
+| Market differentiator          | Combines health, safety, translation, and AR/VR situational intelligence in a single modular device |
 
-- **R&D CAPEX**: $40–$120M (2027–2035)
-- **Per-Unit Cost**:
-  - Enhanced Badge/Tricorder: $200–$600
-  - Inductive Vehicle Charger: $500–$2k per vehicle
-- **Revenue Uplift**:
-  - Agency contracts: +$300–$900M/year
-  - Personal safety sales: +$100–$300M/year
-  - Safety/insurance credits: +$100–$300M/year
-- **Total Annual Uplift**: **+$500–$1,500M/year**
-- **Viability Uplift**: +15–25% (strong public safety partnerships)
+---
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
