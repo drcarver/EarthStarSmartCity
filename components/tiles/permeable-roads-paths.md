@@ -14,7 +14,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Objective
 
-The **Permeable Road / Path Tile** provides durable, drainage-efficient surfaces for roads, paths, and circulation zones in Genesis hubs and cities. It harvests traffic energy via embedded piezo elements, captures stormwater for recharge, and integrates inductive charging for all-electric vehicles (e.g., **[robotaxis](innovation-hub/autonomous-mobility-llc.md)** from Tesla). This tile supports smart city mobility and sustainable infrastructure, aligning with **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** standards for drainage/resilience and **[ISO 14001](docs/standards/iso-14001-environmental.md)** for permeable, recyclable design.
+The **[Permeable Road Tile](https://images.unsplash.com/photo-1563299796-17596ed6b017?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80** provides durable, drainage-efficient surfaces for roads, paths, and circulation zones in Genesis hubs and cities. It harvests traffic energy via embedded piezo elements, captures stormwater for recharge, and integrates inductive charging for all-electric vehicles (e.g., **[robotaxis](innovation-hub/autonomous-mobility-llc.md)** from Tesla). This tile supports smart city mobility and sustainable infrastructure, aligning with **[ISO/TC 268](docs/standards/iso-tc-268-smart-cities.md)** standards for drainage/resilience and **[ISO 14001](docs/standards/iso-14001-environmental.md)** for permeable, recyclable design.
 
 ## Key Functions & Features
 
