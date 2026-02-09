@@ -13,7 +13,7 @@ https://creativecommons.org/licenses/by/4.0/
 ## Production & Deployment Prompt
 
 **Objective**  
-Manufacture and deploy the **RTK GNSS Anchor Tile** as a modular, snap-together accessory tile that delivers 1–3 cm horizontal/vertical positioning accuracy when used as a reference station or rover anchor. The tile integrates seamlessly into any location (roofs, walls, floors, roads, pods, perimeters) via **[standard blind-mate interconnects](../standard-blind-mate-interconnects.md)**, providing precise GNSS reference points for the Network's **[digital twins](docs/digital-twins.md)**, **[precision ag starter kit](components/kits/precision-ag-starter-kit.md)**, autonomous robotics, asset tracking, construction, and off-world surveying.
+Manufacture and deploy the **![RTK GNSS Anchor Tile](https://images.unsplash.com/photo-1581092160607-6e1e5e6d2b2b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)** as a modular, snap-together accessory tile that delivers 1–3 cm horizontal/vertical positioning accuracy when used as a reference station or rover anchor. The tile integrates seamlessly into any location (roofs, walls, floors, roads, pods, perimeters) via **[standard blind-mate interconnects](../standard-blind-mate-interconnects.md)**, providing precise GNSS reference points for the Network's **[digital twins](docs/digital-twins.md)**, **[precision ag starter kit](components/kits/precision-ag-starter-kit.md)**, autonomous robotics, asset tracking, construction, and off-world surveying.
 
 **Target Production Timeline**  
 - **Prototype**: 2027–2028 (Mini-Fab era)  
