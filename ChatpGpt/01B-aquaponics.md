@@ -1,170 +1,196 @@
 ---
 layout: default
-title: Genesis Network Prompt – Enhanced Aquaponics Pods (Recomputed Timelines & Costs)
-description: Updated timelines, CAPEX/OPEX, and cost-of-total-deployment (COTD) for enhanced multi-trophic aquaponics pods within the Genesis Network.
+title: Genesis Network – Enhanced Aquaponics Pods (Executive Summary & Financials)
+description: Consolidated, self-contained overview of the Genesis Network enhanced aquaponics pod system, including technical design, phased deployment, recomputed costs, revenues, and timelines.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 01B – Genesis Network: Enhanced Aquaponics Pods  
-**(Recomputed Timelines, Costs, and Deployment Curves)**
+# Genesis Network: Enhanced Aquaponics Pods  
+## Executive Summary & Project Plan
+
+The **Genesis Network Enhanced Aquaponics Pods** are a modular, container-based, multi-trophic food production system designed to deliver **high-yield protein, greens, and specialty crops** while achieving **95–99% resource closure**. The pods integrate fish, plants, crustaceans, mollusks, insects, microbes, energy, water recovery, and automation into a single, repeatable unit that can be rapidly deployed, relocated, and scaled.
+
+The system prioritizes:
+- **Freshwater dominance** with limited coastal saltwater pilots  
+- **Lights-out automation** and dense sensor instrumentation  
+- **Waste-derived inputs** and biogas-powered energy  
+- **Continuous staggered harvests** for stable cash flow  
+- **Pod-level profitability** that self-finances network expansion  
 
 ---
 
-## 1. Purpose of Recompute
+## 1. System Overview
 
-This revision recalculates:
-- Deployment timelines by phase (2026–2050)
-- Per-pod and per-cluster CAPEX/OPEX
-- Cost of Total Deployment (COTD) at hub and network scale
-- Production ramp curves and revenue stabilization timelines
+**Base Unit**
+- 40 ft high-cube ISO container  
+- Internal production equivalent: ~300 m² via vertical racking  
+- Designed for independent operation or clustered deployment (5–10 pods)
 
-All numbers assume **lights-out automation**, **waste-derived inputs**, and **data-moat optimization** consistent with Genesis core architecture.
-
----
-
-## 2. Updated Deployment Timeline
-
-### Phase 0 – R&D + Pilot (2026–2027)
-- Pods deployed: 20–50
-- Focus: density limits, species compatibility, microbial inoculants
-- Saltwater pilots limited to ≤10% of pods
-- Automation: 70–80% (human oversight required)
-
-**Outputs**
-- Yield variance reduced ±25% → ±10%
-- Species survival >95%
-- Baseline economic model validated
+**Core Outputs**
+- Fish and aquatic protein  
+- Crustaceans and mollusks  
+- Insect protein and feed  
+- Leafy greens, herbs, and selected staples  
+- Data (growth curves, feed conversion, microbial performance)
 
 ---
 
-### Phase 1 – Bootstrap Commercialization (2028–2030)
-- Pods deployed: 250–1,000
-- Cluster size: 5–10 pods
-- Freshwater dominant (≈90%)
-- Automation: 85–90%
+## 2. Design Principles
 
-**Economics**
-- Break-even per pod: 18–26 months
-- Revenue stability achieved by month 12–15
+- **Multi-Trophic Integration**: Waste from one layer becomes input for the next  
+- **High Closure Loops**: Water, nutrients, carbon, and heat recirculated  
+- **Redundancy**: 3–5× sensor overlap and parallel test tanks  
+- **Mobility**: Pods can be relocated, replicated, or clustered  
+- **Market Flexibility**: Output mix adjusts to local demand and pricing  
 
 ---
 
-### Phase 2 – Regional Scaling (2031–2035)
-- Pods deployed: 5,000–20,000
-- Saltwater pilots expand to 15–20% (coastal hubs)
-- Ceramic shells begin replacing steel
-- Automation: 92–95%
+## 3. Pod Technical Specifications
 
-**Economics**
-- CAPEX reduction: −25–40%
-- Per-pod margins stabilize at 55–70%
-
----
-
-### Phase 3 – National Maturity (2036–2045)
-- Pods deployed: 50,000–150,000
-- Full ceramic shells standard
-- AI-driven stocking, harvesting, pricing
-- Automation: 95–98%
-
-**Economics**
-- Payback: 8–14 months
-- Near-zero labor input
-- Strong coupling to pharma, feed, and food systems
+| Category | Specification |
+|-------|---------------|
+| Power | 5–20 kW (agrivoltaics/BIPV + biogas microturbine) |
+| Storage | 10–50 kWh sodium-ion batteries |
+| Water | 100–400 L/day makeup (AWG + rainwater) |
+| Recirculation | 95–99% |
+| Automation | Robotic feeding, harvesting, cleaning |
+| Compute | Edge RISC-V controllers + AI optimization |
+| Monitoring | pH, ammonia, nitrate, DO, temp, VOCs, multispectral |
+| Biosecurity | Dual airlocks with sensor screening |
 
 ---
 
-### Phase 4 – Global Expansion (2046+)
-- Pods deployed: 250,000+
-- Amphibious & coastal flotilla variants
-- Fully autonomous logistics and replication
-- Automation: 98–99%
+## 4. Multi-Trophic Layers
+
+### 4.1 Fish Layer (Primary Protein)
+- **Freshwater (80–90%)**: Tilapia, Catfish, Trout (cold zones)
+- **Saltwater/Brackish (10–20%)**: Barramundi, Red Drum (coastal hubs)
+- Staggered stocking enables continuous harvest
+
+### 4.2 Crustaceans
+- Freshwater prawns or red claw crayfish  
+- Consume detritus and biofilm  
+- High-value secondary protein
+
+### 4.3 Mollusks
+- Freshwater mussels or clams  
+- Natural filtration and nutrient stripping  
+- Optional edible output
+
+### 4.4 Insects
+- Black Soldier Fly Larvae (primary)
+- Mealworms or crickets (secondary)
+- Convert sludge and trimmings into protein and oil
+
+### 4.5 Plant Layer
+- Greens, herbs, microgreens (8–12 cycles/year)
+- Limited staples (flooded trays where viable)
+- CO₂ enrichment from biogas exhaust
 
 ---
 
-## 3. Recomputed CAPEX per Pod (USD)
+## 5. Pod Variants
 
-| Component | Phase 1 | Phase 3 |
-|--------|--------|--------|
-| Container / Ceramic Shell | $80K–120K | $60K–90K |
-| Racking & Tanks | $70K–110K | $55K–85K |
-| Sensors & Edge Compute | $40K–70K | $25K–40K |
-| Robotics & Automation | $60K–100K | $40K–60K |
-| Power (BIPV + Battery) | $45K–90K | $30K–60K |
-| Water Systems | $25K–50K | $20K–35K |
-| **Total CAPEX / Pod** | **$320K–540K** | **$230K–370K** |
+| Variant | Focus |
+|------|------|
+| Standard Pod | Tilapia + prawns + BSFL + greens |
+| Premium Protein Pod | Catfish/Trout + crayfish + herbs |
+| Saltwater Pilot Pod | Barramundi + saline plants |
+| Waste Conversion Pod | Insects only (feed production) |
+| Clustered Pod Set | 5–10 pods fully integrated |
 
 ---
 
-## 4. Annual OPEX per Pod (Steady State)
+## 6. Phased Deployment Plan (Recomputed)
 
-| Category | Cost / Year |
-|-------|------------|
-| Feed (net of BSFL offset) | $18K–35K |
-| Energy (net of biogas/BIPV) | $4K–10K |
-| Maintenance & Parts | $6K–12K |
-| Monitoring & Data | $3K–6K |
-| Labor (remote oversight) | $5K–10K |
-| **Total OPEX** | **$36K–73K** |
+### Phase 1 – Pilot & Validation (Year 1)
+- 10–25 freshwater pods
+- Hydroponics-first, fish added after stabilization
+- Manual oversight with partial automation
 
----
+**Goals**
+- Validate yields and feed conversion  
+- Establish local buyers  
+- Achieve first profitable harvests  
 
-## 5. Revenue per Pod (Annual, Mature)
+### Phase 2 – Early Scale (Years 2–3)
+- 50–150 pods
+- Full aquaponics + insects
+- Biogas integration and lights-out ops
 
-| Stream | Conservative | Optimized |
-|------|--------------|-----------|
-| Fish Protein | $220K | $500K |
-| Crustaceans / Mollusks | $60K | $200K |
-| Insects (Feed + Food) | $100K | $300K |
-| Plants / Greens | $40K | $120K |
-| **Total / Pod** | **$420K** | **$1.12M** |
+**Goals**
+- Cash-flow positive operations  
+- Staff reduction via automation  
+- Begin saltwater pilots (coastal hubs)
 
-Saltwater premium pods:
-- **$400K–$1.5M/pod/year** (lower density, higher margins)
+### Phase 3 – Network Scale (Years 4–6)
+- 300–1,000+ pods across hubs
+- Clustered pod groups
+- Data-driven optimization moat
 
----
-
-## 6. Cost of Total Deployment (COTD)
-
-### Per Cluster (10 Pods)
-- CAPEX: $3.2–5.4M (Phase 1) → $2.3–3.7M (Phase 3)
-- Revenue: $4.2–11.2M/year
-- Payback: 9–20 months
+**Goals**
+- Regional food security  
+- Stable institutional contracts  
+- Self-financed replication
 
 ---
 
-### Per Hub (1,000 Pods)
-- CAPEX: $320–540M → $230–370M
-- Revenue: $420M–$1.12B/year
-- EBITDA margin: 55–75%
+## 7. Recomputed Costs (Per Pod)
+
+| Cost Category | USD |
+|--------------|-----|
+| Container & shell | $18,000–25,000 |
+| Tanks & plumbing | $25,000–40,000 |
+| Sensors & controls | $20,000–35,000 |
+| Automation & robotics | $30,000–50,000 |
+| Energy systems | $15,000–30,000 |
+| Total CAPEX / pod | **$110,000–180,000** |
 
 ---
 
-### Network-Wide (100,000 Pods, Mature)
-- Total CAPEX: $23–37B
-- Total Revenue: $42–110B/year
-- Protein equivalent: Feeds ~15–25M people/year
-- One of the highest protein-output-per-hectare systems globally
+## 8. Recomputed Annual Revenue (Per Pod)
+
+| Revenue Stream | USD / year |
+|---------------|------------|
+| Fish protein | $180,000–400,000 |
+| Crustaceans & mollusks | $40,000–120,000 |
+| Insect protein/feed | $100,000–300,000 |
+| Plant output | $40,000–80,000 |
+| **Total Revenue** | **$360,000–900,000** |
+
+**Gross Margin**: 55–70%  
+**Payback Period**: 6–18 months (typical)  
 
 ---
 
-## 7. Strategic Effects
+## 9. Network Economics (100 Pods Example)
 
-- Replaces ocean overfishing pressure
-- Stabilizes protein supply under climate stress
-- Produces feedstock for poultry, aquaculture, and pharma
-- Acts as biological waste sink for cities & farms
-- Deepens Genesis data moat via species/genotype optimization
+| Metric | Value |
+|------|-------|
+| Total CAPEX | $11–18M |
+| Annual Revenue | $36–90M |
+| EBITDA | $20–55M |
+| Expansion Funding | Fully internal after Year 2 |
+
+---
+
+## 10. Strategic Benefits
+
+- Rapid deployment with predictable economics  
+- High resilience to climate, water, and supply shocks  
+- Produces food, feed, data, and energy synergies  
+- Serves as foundation for broader Genesis Network industries  
 
 ---
 
-## 8. License & Attribution
+## 11. Summary
 
-This work is licensed under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**  
-https://creativecommons.org/licenses/by/4.0/
-
-**© 2026 EarthStar Technologies – Genesis-EarthStar Regenerative System**  
-Attribution appreciated. Commercial use permitted.
+The Enhanced Aquaponics Pods are a **financially self-sustaining, modular cornerstone** of the Genesis Network. By combining multi-trophic biology, automation, and closed-loop engineering, each pod functions as a **profitable micro-ecosystem** capable of scaling from local food production to a globally replicated regenerative infrastructure.
 
 ---
+
+**CC-BY-4.0 License Notice**  
+This work is licensed under the Creative Commons Attribution 4.0 International License.  
+https://creativecommons.org/licenses/by/4.0/  
+
+© 2025–2026 EarthStar Technologies – Attribution required, all other rights reserved under applicable law.
