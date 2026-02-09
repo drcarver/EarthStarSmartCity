@@ -1,85 +1,95 @@
 ---
 layout: default
-title: Genesis Network – Tricorder-Style Handheld Scanner
-description: Complete specification for the tricorder-style handheld diagnostic scanner in the Genesis Network, including non-invasive and minimally invasive scanning capabilities, sensor suite, integration with the Communicator Badge, timeline, costs, and screened conditions (February 2026 baseline).
+title: Genesis Network – Tricorder-Style Handheld Scanner Specification
+description: Full original specification for the tricorder-style handheld scanner in the Genesis Network, including environmental scanning, weapons/explosives detection, health diagnostics, integration with the Communicator Badge and med bay bed, future iterations, and screened conditions (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network: **Tricorder-Style Handheld Scanner**
+# Genesis Network: **Tricorder-Style Handheld Scanner** Specification
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
 
-**Suggested File Path**: components/scanners/tricorder-handheld.md
+**Suggested File Path**: components/tricorder/tricorder-handheld-scanner.md
 
 ## Objective
 
-The **tricorder-style handheld scanner** is a portable, multi-function diagnostic device for use by residents, field workers, **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)** staff, and emergency responders. It provides rapid, non-invasive screening and basic imaging, feeding data to the **[Communicator Badge](components/badges/communicator-badge.md)** for local processing, alerts, and **[digital twins](docs/digital-twins.md)** integration.
+The **tricorder-style handheld scanner** is a portable, multi-function diagnostic and environmental analysis device for use by **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)** staff, hub security, field workers, and residents. It provides rapid, non-invasive scanning for health conditions, environmental hazards, and concealed threats (weapons/explosives). The device integrates wirelessly with the **[Communicator Badge](components/badges/communicator-badge.md)** for data display, alerts, and **[digital twins](docs/digital-twins.md)** sync.
 
-Inspired by Star Trek's medical tricorder, it prioritizes portability, low power, and privacy-first operation while maximizing feasible non-invasive and minimally invasive capabilities.
+Inspired by Star Trek's tricorder, it combines medical, environmental, and security scanning in a rugged, handheld form factor using waste-derived ceramics and **[TerraFab Manufacturing LLC](innovation-hub/terrafab-manufacturing-llc.md)** processes.
 
 ## Physical & Power Specifications
 
-- **Form Factor**: Handheld wand/probe (150–200 mm length, 100–200 g) with foldable display or badge sync
-- **Shell**: Waste-derived toughened ceramic + flexible grips
-- **Power**: Rechargeable sodium-ion battery (8–24 hour active use); inductive charging via **[Permeable Road / Path Tile](components/tiles/permeable-road-path-tile.md)** or badge
-- **Environmental**: IP67, -20°C to +60°C, MIL-STD-810G drop/vibration
-- **Connectivity**: BLE/mmWave to badge; opt-in tile mesh upload
+- Form Factor: Handheld wand/probe (150–200 mm length × 40–60 mm diameter, 200–400 g)
+- Shell: Toughened waste-derived ceramic with ergonomic grip
+- Display: Integrated OLED touchscreen or wireless to badge
+- Environmental: IP67, -20°C to +60°C, MIL-STD-810G
+- Power: Rechargeable sodium-ion battery (8–24 hour active use) + inductive charging via **[Permeable Road Tile](components/tiles/permeable-road-path-tile.md)** stations
+- Connectivity: mmWave/BLE to badge; tile mesh for hub-wide data
 
-## Scanning Capabilities & Sensor Suite
+## Full Sensor Suite
 
-All scans are **non-invasive** (no radiation beyond minimal) or **minimally invasive** (patch-based). Handheld focus prioritizes portability.
+| Sensor Type                  | Measured Parameters                           | Technology / Method                     | Accuracy / Range | Power Consumption | Primary Use Cases |
+|------------------------------|-----------------------------------------------|-----------------------------------------|------------------|-------------------|-------------------|
+| **Hyperspectral Camera**     | Tissue composition, wound assessment, material ID | 400–1000 nm hyperspectral imaging       | 5–10 nm resolution | 5–15 mW          | Wound healing, infection, concealed materials/weapons |
+| **mmWave Radar**             | Concealed objects, motion, respiration        | 60–80 GHz active radar                  | 1–5 cm resolution, 0–10 m range | 10–30 mW         | Weapons/explosives detection, vital signs (non-contact) |
+| **NIR Spectroscopy**         | Tissue oxygenation, hemoglobin, water content | 650–950 nm LED + spectrometer           | Moderate         | 5–10 mW          | Tumor hypoxia, dehydration, brain oxygenation |
+| **Thermal / IR Camera**      | Surface temperature, inflammation             | 8–14 μm uncooled IR                     | ±0.5–1°C         | 2–5 mW           | Fever, infection hotspots, vascular issues |
+| **Ultrasound Probe (Detachable)** | Soft tissue, organs, blood flow, heart echo   | Phased-array transducer (1–10 MHz)      | 0.1–0.5 mm       | 20–50 mW         | Trauma, cardiac, abdominal, musculoskeletal |
+| **VOC / Gas Sensor Array**   | Air quality (CO₂, VOCs, NOₓ, particulates)    | Metal-oxide + electrochemical           | ppm-level        | 1–5 mW           | Pollution, chemical exposure, wildfire smoke |
+| **Radiation Detector**       | Gamma / beta / low-dose X-ray                 | Mini Geiger-Müller or scintillator      | µSv/h            | 5–10 mW          | Fallout monitoring, occupational exposure |
+| **Trace Explosive / Chemical** | Explosives, narcotics, chemical agents        | IMS (ion mobility spectrometry) or optical proxy | ppb-level        | 10–20 mW         | Security screening, threat detection |
+| **Microphone**               | Ambient noise, respiratory sounds             | MEMS mic                                | N/A              | <1 mW            | Noise exposure, respiratory patterns |
 
-| Priority | Scan Type / Capability       | What It Detects / Images                      | Technology / Method                     | Maturity (2026) | Feasibility on Handheld Tricorder | Timeline (Mature) | Per-Unit Cost Estimate | Primary Use Cases |
-|----------|------------------------------|-----------------------------------------------|-----------------------------------------|-----------------|---------------------------|-------------------|-------------------------|-------------------|
-| 1        | **Portable Ultrasound**      | Soft tissue, organs, blood flow, heart (echo), joints, trauma | Phased-array piezoelectric probe        | Very High       | High                      | 2027–2029         | $5k–$15k                | Trauma, cardiac, abdominal, musculoskeletal |
-| 2        | **NIR / Diffuse Optical Tomography** | Tissue oxygenation, hemoglobin, water, fat, tumor hypoxia | Near-infrared light (650–950 nm) + detectors | High            | High                      | 2028–2030         | $5k–$20k                | Wound healing, tumor detection, brain oxygenation |
-| 3        | **Thermal / Infrared Imaging** | Surface temperature, inflammation, circulation | IR camera (8–14 μm)                     | Very High       | Very High                 | 2027–2029         | $2k–$10k                | Infection, inflammation, vascular issues |
-| 4        | **Microwave / mmWave Imaging** | Shallow tissue dielectric mapping, hydration, breast/lung surface | Microwave tomography / radar            | Medium          | Medium                    | 2030–2035         | $10k–$40k               | Breast screening, skin lesions, hydration |
-| 5        | **Optical Coherence Tomography (OCT)** | High-resolution skin, retina, mucosa cross-sections | Near-infrared interferometry            | High            | High (skin/retina probe)  | 2028–2032         | $10k–$40k               | Skin cancer, diabetic retinopathy |
-| 6        | **Photoacoustic Imaging**    | Vascular structures, oxygenation, tumors      | Laser + ultrasound detection            | Medium          | Low-Medium                | 2032–2038         | $20k–$80k               | Vascular mapping, melanoma, tumor margins |
-| 7        | **Electrical Impedance Tomography (EIT)** | Lung ventilation, tissue conductivity (limited handheld) | Electrode array (wrist/chest contacts)  | Medium-High     | Medium                    | 2029–2033         | $10k–$30k               | Lung function, pulmonary edema |
-| 8        | **Minimally Invasive Patch Sync** | Glucose, ketones, lactate, cortisol, electrolytes (via companion patch) | Microneedle immunoassay / enzymatic     | Medium-High     | High (wireless sync)      | 2027–2035         | $89–$400 per patch      | Metabolic, stress, hydration monitoring |
+## Capabilities & Screened Conditions
 
-**Notes**: Low-field MRI, CT, and PET are **not feasible** for handheld due to size/power/shielding — reserved for **[Med Bay Diagnostic Bed](docs/sensors/medbay-diagnostic-bed.md)**.
+### Health Diagnostics (Non-Invasive)
+- Vital signs (HR, RR, SpO₂ via mmWave/radar)
+- Wound/infection assessment (hyperspectral + thermal)
+- Soft-tissue imaging (ultrasound probe)
+- Basic metabolic (NIR oxygenation)
+
+### Environmental Scanning
+- Air quality (VOC, particulates, CO₂)
+- Radiation levels
+- Temperature/humidity extremes
+- Chemical hazards
+
+### Weapons & Security Scanning
+- Concealed weapons/explosives (mmWave + trace detection)
+- Material identification (hyperspectral for metals/plastics/explosives)
+
+### Diseases / Problems Screened
+- Infection/inflammation (thermal + hyperspectral)
+- Respiratory issues (radar breathing + air quality)
+- Trauma/internal bleeding (ultrasound)
+- Cardiovascular (radar HR + NIR oxygenation proxy)
+- Environmental exposure risks (radiation, chemicals)
 
 ## Integration & Data Flow
 
-- **To Badge**: Real-time encrypted BLE/mmWave transmission; badge processes locally via **[OS & Software LLC](innovation-hub/os-software-llc.md)** AI.
-- **Alerts**: Abnormal findings (e.g., ultrasound mass, high lactate) trigger haptic/voice alerts on badge; high-risk → **[TerraWell FreeCare LLC](innovation-hub/terrawell-freecare-llc.md)** referral.
-- **Digital Twins**: Opt-in upload for longitudinal trends and personalized diagnostics.
-- **Power**: Tricorder self-powered (sodium-ion battery + inductive); badge syncs/recharges.
-
-## Diseases & Problems That Can Be Screened / Early-Detected
-
-| Condition / Problem                  | Primary Scan / Sensors                        | Detection Capability | Sensitivity / Specificity Estimate | Clinical Action Pathway | Revenue / Impact Driver |
-|--------------------------------------|-----------------------------------------------|----------------------|-------------------------------------|--------------------------|--------------------------|
-| **Trauma / Internal Bleeding**       | Ultrasound, thermal                           | High                 | Good                                | TerraWell trauma triage  | +$50–$150M/year |
-| **Soft Tissue Injuries / Joint Issues** | Ultrasound, OCT                               | High                 | Good                                | TerraWell ortho          | +$40–$120M/year |
-| **Wound / Skin Conditions**          | Thermal, NIR, OCT                             | High                 | Good                                | TerraWell dermatology    | +$30–$100M/year |
-| **Tumor / Cancer Screening (Surface)** | NIR, microwave, photoacoustic                 | Medium-High          | Moderate                            | TerraWell oncology       | +$50–$150M/year |
-| **Cardiac / Vascular Issues**        | Ultrasound (echo), NIR oxygenation            | Medium-High          | Moderate                            | TerraWell cardiology     | +$40–$120M/year |
-| **Lung / Respiratory Conditions**    | EIT ventilation, ultrasound                   | Medium               | Moderate                            | TerraWell pulmonology    | +$30–$90M/year |
-| **Infection / Inflammation**         | Thermal, NIR, photoacoustic                   | Medium-High          | Moderate                            | TerraWell triage         | +$30–$100M/year |
-| **Metabolic Stress (with Patch)**    | CGM + lactate/cortisol                        | High                 | Good                                | TerraWell metabolic      | +$50–$150M/year |
+- **Badge Sync**: Real-time encrypted mmWave/BLE to **[Communicator Badge](components/badges/communicator-badge.md)** for display/alerts
+- **Med Bay Sync**: Upload scans to bed **[digital twins](docs/digital-twins.md)** for full-body context
+- **Alerts**: Immediate haptic/voice on badge for threats (weapons, high radiation) or health risks (fever, irregular breathing)
+- **Power**: Inductive charging stations in hubs/TerraWell
 
 ## Future Iterations Roadmap (2030–2040)
 
-- **2030–2032** — Add NIR + thermal + basic ultrasound probe
-- **2033–2035** — Photoacoustic + OCT + microwave imaging
-- **2036–2040** — Multi-modal AI fusion + emerging terahertz for deeper shallow tissue
+- **2030–2032**: Add low-dose microwave imaging + basic photoacoustic
+- **2033–2035**: Integrate multi-analyte sweat patch interface + AI-enhanced reconstruction
+- **2036–2040**: Advanced terahertz + organ-specific low-field MRI probe attachment
 
 ## Recomputed Financial Impact (Network-Wide, Mature Phase)
 
-- **R&D CAPEX**: $20–$60M total (2027–2035)
-- **Per-Tricorder Cost**: $150–$500 (depending on modules)
+- **R&D CAPEX**: $30–$80M total (2027–2040)
+- **Per-Unit Cost**: $200–$500 (mature production)
 - **Revenue Uplift**:
-  - Premium tricorder sales + TerraWell diagnostics: +$100–$300M/year
-  - Occupational safety / field medicine: +$50–$150M/year
-  - Insurance partnerships: +$40–$120M/year
-- **Total Annual Uplift**: **+$190–$570M/year**
-- **IRR Impact**: +4–9% (network overall 35–50% → 39–59%)
-- **Viability Uplift**: +10–15% (portable advanced diagnostics transforms field medicine and TerraWell efficiency)
+  - Tricorder sales + TerraWell diagnostics: +$150–$450M/year
+  - Security/environmental contracts: +$80–$250M/year
+  - Occupational safety credits: +$50–$150M/year
+- **Total Annual Uplift**: **+$280–$850M/year**
+- **IRR Impact**: +6–12% (network overall 35–50% → 41–62%)
+- **Viability Uplift**: +12–18% (portable multi-function scanning transforms field diagnostics and security)
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
