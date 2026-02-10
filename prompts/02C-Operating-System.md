@@ -1,94 +1,161 @@
 ---
 layout: default
-title: Genesis Network Prompt – Operating System & Software Stack Specification
-description: Comprehensive prompt defining the operating system and software stack for Genesis Network compute tiles, including modular microkernel, AI-generated components, federated learning, and long-term self-improving vision.
+title: Genesis Network Prompt 02C – Operating System, Node Classes & Lifecycle Management
+description: Unified specification of the Genesis Network OS, software stack, Node Classes, and update/lifecycle management, including mobile and fixed nodes, devices, tiles, and federated self-improvement.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02C – Genesis Network Operating System & Software Stack Specification
+# Prompt 02C – Genesis Network OS, Node Classes & Lifecycle Management  
 
-## Objective
+**© 2025–2026 EarthStar Technologies** – Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-Define the complete, production-ready **operating system** and **software stack** for the **pure server compute tiles** and broader Genesis Network compute fabric. The OS must be:
-- Modular and upgradable (supports hot-swappable compute/storage modules)
-- Sovereign and privacy-first (local digital twins control data export)
-- Optimized for distributed edge workloads (inference, federated learning, digital twins, predictive maintenance)
-- Designed for eventual full AI self-improvement (no legacy ties post-2035)
-- Compliant with smart city and security standards (capability-based, formally verifiable)
-- This our version of Tesla 1 in terms of funcionality
+---
 
-The stack must support:
-- Self-powered operation (BIPV + piezo + AWG water cooling)
-- Snap-together networking (PoE-primary + waveguide/inductive coupling)
-- Hierarchical federation (tile → pod → hub → region → global → interplanetary)
-- Continuous evolution via federated learning and AI code generation
+## 1. Objective
 
-## 1. Operating System Core
+Provide a **modular, secure, sovereign, and self-improving software platform** for all Genesis Network Nodes (Tiles, Mobile Devices, Communicator Badges, Tricorders, Drones, Vehicles, Hubs, Pods).  
 
-### Base Architecture (2027–2035)
-- **Type**: Modular microkernel with capability-based security
-- **Starting Point**: seL4-inspired reference (formally verified base) + AI-generated drivers and non-critical modules
-- **Key Properties**:
-  - Minimal trusted computing base (<10,000 LOC initial)
-  - Strong isolation (every process, driver, service in separate capability domain)
-  - No POSIX heritage (custom syscalls optimized for tile hardware)
-  - Hot-patching / live update support for non-critical components
-  - Shadow execution sandbox for testing AI-generated code
+Goals:
 
-### Long-Term Vision (2035–2050+)
-- **Pure AI-Generated Kernel** — No human-written legacy code
-- **Self-Improvement Loop**:
-  1. Continuous telemetry collection (scheduling latency, cache misses, power, faults)
-  2. Local AI agents propose kernel/module improvements
-  3. Formal proof generation (AI-assisted Coq/Isabelle/TLA+) + fuzzing
-  4. Shadow execution on redundant tiles
-  5. Federated validation across network
-  6. Safe deployment (hot-patch or module swap)
-  7. Rollback on anomaly detection
-- **Diversity Mechanism** — Maintain multiple kernel lineages to prevent monoculture traps
+- Unified Node Classes: software, updates, and policies operate identically per Node Class  
+- Mobile nodes treated equivalently to fixed infrastructure (Device = Mobile Tile doctrine)  
+- Support distributed edge workloads, federated learning, AI code generation, and digital twins  
+- Privacy-first, capability-based, formally verifiable security  
+- Self-powered, snap-together networking, zero-grid dependency  
+- Lifecycle management with atomic, class-scoped updates
 
-## 2. Software Stack Layers
+---
 
-| Layer                      | Primary Components                                  | Key Technologies / Protocols | Purpose & Genesis Fit |
-|----------------------------|-----------------------------------------------------|------------------------------|-----------------------|
-| **Hardware Abstraction**   | Drivers (PoE NIC, AWG pump, piezo controller, mmWave, thermal sensors) | AI-generated (post-2030)     | Tailored to tile peripherals |
-| **Microkernel**            | Scheduler, IPC, capability system, memory manager   | seL4 base → full AI (2035+)  | Minimal TCB, formal verifiability |
-| **Runtime & Orchestration**| k3s / Nomad lightweight, local digital twin runtime | Rust / Zig (memory safety)   | Edge workload scheduling & twin execution |
-| **Networking**             | PoE fabric driver, waveguide/mmWave stack, DTN (space) | Thread/Matter fallback       | Snap-together self-configuration |
-| **Federated Learning**     | Flower / FedML + secure aggregation (SecAgg)        | PyTorch / TensorFlow Lite    | Privacy-preserving global model improvement |
-| **AI Code Generation**     | Small on-device LLMs (Phi-2, TinyLlama quantized) + federated fine-tuning | Custom agentic pipeline      | Driver / module / kernel self-evolution |
-| **Security & Verification**| Capability enforcement, differential privacy, formal proofs | seL4-style + AI proof gen    | Sovereign, verifiable, attack-resistant |
-| **Storage & State**        | NVMe/MRAM driver, erasure-coded distributed store   | IPFS / Ceramic-inspired      | Persistent twin memory & federated datasets |
+## 2. Node Classes
 
-## 3. Hierarchical Federation Model
+| Node Class | Example Devices | Primary Role | Update Policy |
+|------------|----------------|--------------|---------------|
+| Fixed Tile | RTK GNSS tile, WiFi tile, Smart Display tile | Infrastructure, positioning, connectivity, display | Opportunistic, scheduled |
+| Mobile Tile | Communicator Badge, Tricorder, Mobile Sensor Node | Personal interface, data collection, situational awareness | Opportunistic, docked/idle |
+| Pod / Hub | Mini-Fab cluster, Edge compute pod | Aggregation, federated learning, compute | Scheduled, redundant verification |
+| Vehicle / Drone | Responder drone, autonomous cart | Delivery, sensing, edge compute | Opportunistic, class-locked emergency SUCs |
 
-- **Tile-Level** — Local inference & mini-batch training
-- **Pod/Building-Level** — Tight clustering (PoE, <5 ms latency)
-- **Hub-Level** — Local twin aggregation & policy enforcement
-- **Regional/Global** — Federated model updates (anonymized, opt-in)
-- **Interplanetary** — Delay-tolerant networking (DTN Bundle Protocol) + CRDTs
+> **Rule:** All Nodes inherit software stack, update mechanisms, and policy scoping from Node Class.
 
-## 4. Standards & Compliance
+---
 
-- **Security**: Capability-based (seL4), post-quantum crypto, differential privacy
-- **Smart City**: ISO/TC 268, IEEE 2030, ITU-T Y.4900, Matter/Thread
-- **Sustainability**: Cradle-to-Cradle, ISO 14001
-- **Auditability**: Blockchain-verified update logs + formal proof chains
+## 3. Operating System Core
 
-## 5. Projected Evolution Timeline
+### Base Architecture
 
-- **2027–2030** — seL4 base + AI-generated drivers/user-space
-- **2031–2035** — AI redesigns scheduler, IPC, memory manager; shadow testing
-- **2036–2040** — Live patching + federated self-improvement (safest modules first)
-- **2041–2050** — Full AI-generated kernel; human oversight optional
-- **2051+** — Autonomous self-evolution; interplanetary federation
+- Modular microkernel (seL4-inspired → full AI-optimized by 2035)  
+- Capability-based security, formal verification  
+- Minimal Trusted Computing Base (<10k LOC initially)  
+- Hot-patching, live-update for non-critical modules  
+- Shadow execution sandbox for AI-generated code
 
-## 6. Economics & Viability Impact
+### Stack Layers
 
-- **Development Cost**: $100–500M (2030–2040) for AI verification pipeline
-- **Revenue Uplift**: +$20–$100B/year (2040s) from sovereign AI services & compute leasing
-- **Viability Boost**: +25–40% (eliminates legacy vulnerabilities, enables continuous optimization)
+| Layer | Key Components | Purpose |
+|-------|----------------|---------|
+| Hardware Abstraction | Drivers: PoE NIC, AWG, piezo, mmWave, thermal sensors | Node-specific peripheral control |
+| Microkernel | Scheduler, IPC, memory, capability system | Minimal TCB, formal verifiability |
+| Runtime & Orchestration | Local digital twin runtime, k3s/Nomad lightweight | Edge workloads, federation |
+| Networking | PoE fabric driver, waveguide/mmWave, DTN | Snap-together auto-discovery, inter-node comms |
+| Federated Learning | Flower/FedML + SecAgg | Privacy-preserving global model improvement |
+| AI Code Generation | On-device LLMs (Phi-2/TinyLlama) | Self-improving drivers, modules, agents |
+| Security & Verification | Capability enforcement, formal proofs, differential privacy | Sovereign, attack-resistant |
+| Storage & State | NVMe/MRAM driver, erasure-coded store | Persistent twin memory & datasets |
 
-This specification defines the Genesis OS/software stack as a modular, sovereign, continuously-evolving intelligence layer — starting from secure microkernel foundations and progressing toward full AI self-improvement with no legacy ties.
+### Hierarchical Federation
 
-&copy; 2025 Earth-Star Industries. Licensed under CC-BY-4.0.
+- Tile → Pod → Hub → Region → Global → Interplanetary  
+- Supports edge inference, model aggregation, and cross-network self-optimization
+
+---
+
+## 4. Device = Mobile Tile Doctrine
+
+- All mobile devices **adhere to the Node Class of the function they provide**  
+- Mobile badges, tricorders, and drones receive the same software stack, update mechanisms, and policies as tiles of equivalent role  
+- Firmware and agent updates **atomic, opportunistic, and class-scoped**  
+- Facilitates unified development, security, and lifecycle management
+
+---
+
+## 5. Annex B – Update & Lifecycle Management
+
+### Core Principle
+
+> **All Genesis Nodes update via signed, atomic, class-scoped capsules executed opportunistically under local policy control.**
+
+### Updateable Layers
+
+| Layer | Update Frequency |
+|-------|----------------|
+| Kernel | Rare, formally verified, federated validation |
+| Node Runtime | Periodic, backward-compatible |
+| Agents | Frequent, delta updates |
+| Policy Bundles | Immediate, live-update capable |
+
+### Signed Update Capsules (SUCs)
+
+- Metadata: target Node Class, layer, version, delta, power cost, storage requirement, rollback supported, hub & manufacturer signature  
+- Execution conditions: Node Class match, signature validation, power/storage thresholds, policy compliance  
+
+### Discovery & Eligibility
+
+- Hubs/Pods advertise SUCs  
+- Nodes evaluate eligibility locally  
+- Mobile nodes defer updates until docked, charging, or near trusted tiles  
+
+### Installation & Rollback
+
+- A/B atomic slots  
+- Install in inactive slot, health check, swap active slot  
+- Immediate rollback on failure  
+
+### Opportunistic & Partial Updates
+
+- Chunked/delta updates  
+- Merkle-tree verification  
+- Enables low-power, low-bandwidth nodes to update safely
+
+### Security & Emergency Updates
+
+- SUCs signed by manufacturer + hub authority  
+- Node Class scoping prevents privilege escalation  
+- Compromised nodes quarantined  
+- Emergency SUCs: small, class-limited, temporary lifespan  
+
+### Scheduling
+
+| Node Type | Update Trigger |
+|-----------|----------------|
+| Fixed Tiles / Hubs | Low-load windows, maintenance |
+| Mobile Nodes | Docked, charging, trusted tile proximity, idle + power threshold |
+| Emergency SUCs | Immediate if signed, ephemeral, safe |
+
+---
+
+## 6. Projected Evolution Timeline
+
+- 2027–2030: seL4 base + AI-generated drivers  
+- 2031–2035: AI redesign scheduler/IPC/memory; shadow testing  
+- 2036–2040: Federated live patching  
+- 2041–2050+: Fully AI-generated kernel, self-improving agents  
+- 2051+: Autonomous evolution; interplanetary federation
+
+---
+
+## 7. Economics & Viability Impact
+
+- Development Cost: $100–500M (AI verification + lifecycle infrastructure)  
+- Revenue Uplift: +$20–$100B/year (AI services, compute leasing)  
+- Viability Boost: +25–40% (eliminates legacy vulnerability, enables continuous optimization)
+
+---
+
+**Canonical Lock-in Line for Prompt 02C:**  
+
+> **All Genesis Nodes SHALL update via signed, atomic, class-scoped capsules executed opportunistically under local policy control.**
+
+---
+
+**CC-BY-4.0**  
+Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
