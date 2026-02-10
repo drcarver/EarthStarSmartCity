@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Prompt 02C – Modular OS, Prism Host, Digital Twin & AI Codegen
+title: Genesis Network – Prompt 02B – Modular OS, Prism Host, Digital Twin & AI Codegen
 description: Full update for Genesis OS integrating Prism module host, AI-assisted code generation for sensors, HIL, tiles/kits, SUC manifests, digital twin simulation, and runtime orchestration. Includes request to recompute all financials and timelines.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02C – Modular OS, Prism Host, Digital Twin & AI Codegen
+# Prompt 02B – Modular OS, Prism Host, Digital Twin & AI Codegen
 
 **© 2026 EarthStar Technologies – Licensed under CC BY 4.0**  
 https://creativecommons.org/licenses/by/4.0/
