@@ -22,7 +22,8 @@ This v3 model includes **all Phase 1–2 features** plus **v3 enhancements**:
 - Full AR/VR overlays & gesture control  
 - Clip-on modular expansion for advanced sensors or drone interfaces  
 - Federated learning and predictive AI for health, environment, and safety  
-- Enhanced connectivity (BLE/mmWave mesh, public WiFi, optional cellular fallback)  
+- Enhanced connectivity (BLE/mmWave mesh, public WiFi, optional cellular fallback)
+- Cellular + Starlink DTC including GPS
 
 ---
 
