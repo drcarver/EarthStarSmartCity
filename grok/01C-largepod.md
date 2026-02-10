@@ -1,133 +1,81 @@
 ---
 layout: default
-title: Genesis Network Pod-Centric Architecture with Large & Specialty Livestock Pods
+title: Genesis Network – Pod-Centric Architecture with Large & Specialty Livestock Pods (2026 Baseline)
+description: Consolidated overview of the full pod architecture, emphasizing large animal (cattle, horses, bison) and specialty livestock (goats, sheep, alpaca) pods with staggered delivery, integration details, and recomputed timelines/costs/financials.
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network: Pod-Centric Architecture with Large & Specialty Livestock Pods
+# Genesis Network: Pod-Centric Regenerative Architecture  
+**Full Overview with Livestock Focus – February 2026 Baseline**
 
-## Executive Summary
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2026 EarthStar Technologies conceptual working group  
+(Attribution appreciated; share and adapt freely.)
 
-The **Genesis Network** employs a pod-centric regenerative architecture using modified 40 ft high-cube ISO containers for all functions, emphasizing mobility, self-replication, and 95–99% closure. This expansion details large animal pods (cattle, horses, bison) and specialty livestock pods (goats, sheep, alpaca, llamas, emu/ostrich), with AI-managed staggered delivery for continuous milk, meat, fiber, and offspring output, ensuring welfare and revenue stability.
+## 1. Architecture Overview & Strategic Role
 
-Integrated with prior enhancements (multi-functional tiles, enhanced aquaponics, new LLCs/kits, pharma integrations), livestock pods add diversified proteins/fibers, boosting sequestration via grazing and revenue +10–20% (e.g., $200–$600K/pod/year from milk/meat/fiber). Recomputed timelines accelerate by 5–15% due to staggered stability: Bootstrap (2026–2028) includes early livestock; Scale (2028–2030) full variants; Exponential (2030–2035) network-wide. Costs: +$2–$5M/pilot for livestock tech; revenue uplift $3–$10B/year network-wide by 2035. IRR 45–55%; viability 8.5–9/10.
+**Pod-Centric Design**: All Genesis functions start in modified 40 ft high-cube ISO containers (12.192m L × 2.438m W × 2.896m H) for bootstrap speed, low regulation, mobility, and resilience. Transition to fixed structures (e.g., barns) only post-validation (scale > pod capacity or welfare needs). Large/specialty livestock pods add diversified outputs (milk/meat/fiber), staggered for continuity, enhancing revenue stability (+10–20%) and sequestration via grazing.
 
-Aligns with regenerative goals, UN SDGs, and circular economy.
+**Recomputed Viability**: 8.5–9.2/10; timelines shortened 1–3 months via staggered cycles; costs up 15–25% for robotics but offset by 20–35% yield/revenue gains.
 
-## Project Overview
+## 2. Universal Pod Features (Recap & Updates)
 
-Genesis transforms distressed sites into hubs via pods: starting mobile, proving viable, transitioning to fixed. Livestock pods enhance with staggered cycles, robotic care, and integration (manure to biogas, grazing under agrivoltaics). Freshwater aquaponics dominant; saltwater pilots coastal.
+- **Evolution**: Steel → 95–100% waste-derived ceramic shell by 2032 (munitions 8–9/10 resistant)
+- **Energy/Water**: BIPV + biogas (5–20 kW); sodium-ion batteries; AWG + recovery (95–99% closure)
+- **Automation/Biosecurity**: Lights-out robotics; hyper-dense sensors (3–5×); dual airlocks with mmWave scanning
+- **Mobility**: Autonomous movers; amphibious for coastal/livestock transport
+- **Staggered Cycles**: AI-managed for all biological pods → continuous output/resource balance
+- **Per-Pod Cost (2026 est.)**: $80k–$300k (livestock variants higher due to robotics; +15–25% from 2022 baselines)
+- **Setup Timeline**: 1–2 months (pre-seeded); full production 2–5 months
 
-## Deployment Strategy
+## 3. Livestock Pod Variants (Large & Specialty Focus)
 
-- **Pod-First**: Deploy 5–15 pods; livestock early for revenue.
-- **Affiliate**: Subsidized livestock pods; region-specific (bison plains, alpaca highlands).
-- **Waste**: Manure slurry piped; C&D/ELFM for shells.
-- **Scaling**: Pods replicate; fixed for large herds post-2035.
+| Variant                  | Capacity & Species                     | Key Design Features                          | Staggered Delivery (Phases/Year) | Outputs & Integration                  | Annual Revenue Est. (per pod) |
+|--------------------------|----------------------------------------|----------------------------------------------|----------------------------------|----------------------------------------|-------------------------------|
+| **Large Animal**         | 10–30 (cattle/horses/bison)            | Robotic milking/feeding; outdoor paddocks    | 4–6 (calving/foaling)            | Milk/meat/manure (to biogas); grazing under agrivoltaics | $250k–$750k                   |
+| **Specialty Livestock**  | 20–60 (goats/sheep/alpaca/llamas/emu)  | Multi-level pens; auto-shearing/egg collection | 6–8 (lambing/kidding/hatching)   | Milk/fiber/meat/eggs; waste to inoculants | $200k–$600k                   |
 
-## Key Performance Characteristics
+**Welfare/Biosecurity**: Biophilic (natural light/enrichment); VOC/vitals monitoring; quarantine zones.  
+**Region Fit**: Bison/plains; alpaca/highlands; emu/warm.  
+**Transition**: Pods for herds <100; fixed barns post-2032 scale.
 
-- **Energy/Water**: As prior; manure boosts biogas.
-- **Carbon**: Enhanced via grazing/biochar.
-- **Financial**: Livestock +10–20% revenue; IRR 45–55%.
+## 4. Full Pod Integration & Ecosystem
 
-## Food Production
+- **Connections**: Smart ceramic pipes for power/water/waste/data; livestock manure → biogas/staples feed.
+- **Synergies**: Grazing links to agroforestry; fiber/hides → bio-materials LLC.
+- **Phased Intro**: Livestock early (2027–2028) for revenue; full integration by 2030.
 
-Staggered: Milk/meat/fiber continuous; integrates with aquaponics proteins.
+## 5. Recomputed Timelines (Network-Wide)
 
-## Scaling and Financial Model
+| Phase                     | Timeline            | Milestones & Adjustments                     |
+|---------------------------|---------------------|----------------------------------------------|
+| **Prep**                  | Q4 2026 – Q1 2027   | Prototypes; breeding cycle tests (shortened 1 mo via AI) |
+| **Bootstrap**             | 2027 – mid-2029     | 5–25 pods/hub; staggered output Month 3–5; self-funding Month 7–14 |
+| **Scale**                 | late 2029 – 2032    | 40–150 pods/hub; region-specific variants; replication 5–11 mo |
+| **Maturity**              | 2032 – 2035         | Lights-out 80–95%; fixed transitions; 150–500 pods/hub |
+| **Expansion**             | 2035+               | Global; continuous AI optimization |
 
-- **Phased**: Livestock accelerates protein diversity.
-- **Flywheel**: Staggered stability aids replication.
+**Acceleration**: 1–4 months faster via staggered stability; replication +10–20%.
 
-Recomputed: Costs +5–10% for robotics; Revenue +10–20% premiums.
+## 6. Recomputed Costs & Financials
 
-## Infrastructure and Community
+| Metric                    | Per Pod (2026 est.) | Network-Wide (Mature 2035, 400–700 hubs) |
+|---------------------------|---------------------|------------------------------------------|
+| **CAPEX**                 | $80k–$300k         | +$20–$60B (phased; 15–25% adj. for robotics) |
+| **Annual OPEX**           | $50k–$150k         | $10–$30B/year (feed/labor dominant)      |
+| **Annual Revenue**        | $200k–$750k        | $40–$120B (15–35% from livestock pods)   |
+| **ROI Timeline**          | 8–18 months        | IRR 35–55% (uplift from diversification) |
+| **Break-Even**            | Month 5–12         | Network self-funding by 2029             |
 
-Pods connect via pipes; livestock welfare-focused.
+**Basis**: Adjusted from prior (inflation + enhancements); yields/revenue +20–35% via staggering/multi-species.
 
-## Resident/Affiliate Benefits
+## 7. Viability & Impact Summary
 
-Free products; training in livestock.
-
-## Core Principles
-
-Pod-first; staggered cycles; welfare/biosecurity.
-
-## Key Products and Outputs
-
-### 1. Toughened Ceramic Tiles
-
-As prior; used for livestock pens.
-
-### 2. Hybrid Greenhouse / Aquaponics Pods
-
-Integrated with livestock feed.
-
-### 3. Self-Replicating Kits
-
-Include livestock variants.
-
-### 4. Smart Roads and Pipes
-
-Support livestock slurry.
-
-## Sensors and Digital Twins
-
-Monitor health/cycles.
-
-## Initial Bootstrapping Facility
-
-Pods + tents; livestock after biogas.
-
-## Education & Training System
-
-Livestock modules.
-
-## Smart Roads and Infrastructure
-
-Grazing links.
-
-## Land Acquisition Strategy
-
-Distressed + regional for specialties.
-
-## Detailed Phased Implementation Plan (Recomputed)
-
-Assumptions: Staggered +10–20% revenue stability; acceleration 5–15%.
-
-### Phase 1: Bootstrap (2026–2028)
-
-- 2026: Core pods + livestock pilots. CAPEX $3–8M. Revenue $15–35M. Net +$5–20M.
-- 2027–2028: Specialty variants. Revenue $250–600M. CAPEX $120–250M. Net +$120–350M.
-
-### Phase 2: Scale & Closure (2028–2030)
-
-- 2028: Full livestock integration. Revenue $1.2–2.5B. CAPEX $500–900M. Net +$600–1.2B.
-- 2029–2030: 100–200 hubs. Revenue $12–25B/year. CAPEX $2.5–5B. Net +$6–12B.
-
-### Phase 3: Exponential (2030–2035)
-
-- 2030–2032: Network-wide. Revenue $35–70B/year. CAPEX $6–12B. Net +$20–40B.
-- 2033–2035: 300–500 hubs. Revenue $60–160B/year. CAPEX $12–25B. Net +$35–90B.
-
-Financial Summary:
-
-| Phase | Years | CAPEX ($B) | Revenue ($B/year) | Net Cumulative ($B) |
-|-------|-------|------------|-------------------|---------------------|
-| 1     | 2026–28 | 0.12–0.25| 0.015–0.6       | +0.12–0.35        |
-| 2     | 2028–30 | 0.5–0.9  | 1.2–25          | +0.6–1.2          |
-| 3     | 2030–35 | 18–37    | 35–160          | +35–90            |
-
-IRR 45–55%; self-funding 2026.
-
-## Housing, Schools, and Hospitals
-
-Pod-based; livestock education.
-
-## Viability Enhancements and Summary
-
-Staggered livestock boosts stability/diversity; recomputed for uplift.
+- **Revenue Stability**: Staggered → no seasonal dips; +10–20% from fiber/eggs.
+- **Regenerative Gains**: Grazing sequestration; welfare focus.
+- **Overall**: 8.5–9.2/10; pods enable mobile/resilient livestock.
 
 ---
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+© 2026 EarthStar Technologies conceptual working group (attribution appreciated).
