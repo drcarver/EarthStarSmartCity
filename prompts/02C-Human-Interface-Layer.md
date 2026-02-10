@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Prompt 02B – Modular Sensor & HIL System with Prism, SUC, and Digital Twin
+title: Genesis Network – Prompt 02C – Modular Sensor & HIL System with Prism, SUC, and Digital Twin
 description: Fully updated Genesis 02B prompt integrating modular HIL, Prism module host, AI-assisted codegen for sensors and tiles, SUC manifests, partial classes, digital twin simulation, and recalculated financials/timelines.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02B – Modular Sensor & HIL System with Prism, SUC, and Digital Twin  
+# Prompt 02C – Modular Sensor & HIL System with Prism, SUC, and Digital Twin  
 
 **February 2026 Baseline – Fully Modular, AI-Assisted**  
 
