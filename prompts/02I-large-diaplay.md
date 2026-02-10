@@ -5,7 +5,7 @@ description: Comprehensive prompt defining large-scale smart display walls built
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02D – Genesis Network: Large-Scale Smart Display Walls  
+# Prompt 02I – Genesis Network: Large-Scale Smart Display Walls  
 **Interactive, WiFi-Enabled, Compute/Storage-Integrated, Self-Powered**
 
 ## Objective
