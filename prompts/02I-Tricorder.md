@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Enhanced Consumer Tricorder v2
+title: Genesis Network – 02I Consumer Tricorder
 description: Complete enhanced consumer tricorder integrating advanced health, environmental, translation, AR/VR, drone support, predictive AI, modular expansion, and privacy-first operation, including financials and rollout roadmap (February 2026 baseline, v2 enhancements).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Genesis Network – Enhanced Consumer Tricorder v2
+# Prompt 02I - Consumer Tricorder
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
