@@ -1,156 +1,124 @@
 ---
 layout: default
-title: Genesis Network – Prompt 02B – Dense Sensor Net & Basic Human Interface Layer (HIL)
-description: Specification for the minimal viable Human Interface Layer using RTK GNSS tiles, public WiFi tiles, and basic Communicator Badge for positioning, connectivity, and early adoption (replaces original HIL, badge, RTK, WiFi, and related prompts) (February 2026 baseline).
+title: Genesis Network – Prompt 02B – Modular Sensor & HIL System with Prism, SUC, and Digital Twin
+description: Fully updated Genesis 02B prompt integrating modular HIL, Prism module host, AI-assisted codegen for sensors and tiles, SUC manifests, partial classes, digital twin simulation, and recalculated financials/timelines.
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02B – Dense Sensor Net & Basic Human Interface Layer (HIL)  
-**February 2026 Baseline – Pruned & Execution-Focused**
+# Prompt 02B – Modular Sensor & HIL System with Prism, SUC, and Digital Twin  
 
-**© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
-https://creativecommons.org/licenses/by/4.0/
+**February 2026 Baseline – Fully Modular, AI-Assisted**  
 
-## 1. Objective & Scope
+**© 2025–2026 EarthStar Technologies** – Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-Provide the **minimum viable interface** between people and the Genesis Network infrastructure through three tightly integrated components:
+---
 
-- **RTK GNSS Tiles** — centimeter-accurate spatial truth grid  
-- **Public WiFi Tiles** — free, trusted rural/urban connectivity  
-- **Basic Communicator Badge** — personal voice + biosensing + positioning node  
+## 1. Objective
 
-This **Basic HIL v1** focuses on:
+Redesign the **Genesis Human Interface Layer (HIL)** and sensor stack as fully **modular, Prism-hosted, SUC-ready services**, tightly integrated with **digital twin simulations** to accelerate hub deployment, optimize resource usage, and enable AI-assisted code generation.
 
-- Early adoption flywheel (rural internet + positioning perks for affiliates)  
-- Compliance & precision data (brownfield/landfill remediation tracking, ag optimization)  
-- Privacy-first positioning and communication  
-- Self-funding via connectivity fees, data services, and affiliate uptake  
+**Key Goals:**
 
-**Deferred to v2 (2032+)**: smart display walls, full payments, clothing clones, advanced document wallet.
+- Modular sensor and tile modules using **partial classes** for separation of generated vs. manual code.  
+- **Prism module host** to manage registration, dependencies, and SUC lifecycle.  
+- **AI-assisted code generation** for all sensor types (RTK, environmental, ag, bio, security).  
+- Integration with **digital twin simulations** for predictive resource, energy, and water modeling.  
+- Auto-generated **test scaffolds** for each module.  
+- SUC manifest creation for atomic, class-scoped, delta-updates.  
+- Parallelizable development for accelerated hub expansion.  
+- Request to **recompute all financials and timelines** with new efficiencies and automation.
 
-This prompt **replaces** the following original prompts (or major parts thereof):
+---
 
-- Prompt 02I (full Human Interface Layer)  
-- Prompt 02E (Communicator Badge full spec)  
-- Parts of Prompt 02B (RTK GNSS / networking tiles)  
-- Parts of Prompt 02G (dense sensor net elements)  
-- Scattered RTK/WiFi references in city planning, resilience, off-world, etc.
+## 2. Core Architecture
 
-## 2. Component Specifications
+### 2.1 Prism Host & SUC Lifecycle
 
-### 2.1 RTK GNSS Tiles (Spatial Truth Backbone)
+- Single host service per hub, running on **Genesis OS with .NET MAUI**.  
+- Registers all modular sensor/HIL/tile modules.  
+- Supports atomic **SUC updates** with A/B rollback and delta patching.  
+- Monitors module health and triggers automated test stubs.  
+- Integrates with **TileMesh networking** for inter-tile telemetry and federation.
 
-**Purpose**: Deliver sovereign, always-on, cm-level positioning across hubs, farms, brownfields, and community complexes.
+### 2.2 Sensor & Tile Modules
 
-**Physical Specs**  
-- Size: 600 × 600 mm (standard tile form factor)  
-- Thickness: 20–35 mm  
-- Material: Toughened ceramic composite with embedded antenna  
-- Power: BIPV edge + piezo (self-powered)  
+- **RTK Tiles**: cm-level positioning; mesh anchor; fully AI codegen-ready.  
+- **Environmental Sensors**: temperature, humidity, rainfall, solar; partial manual adjustment.  
+- **Ag / Aquaponics / Silvopasture Sensors**: yield, water, nutrient monitoring; test stubs + partial mocks.  
+- **Bio / Livestock Sensors**: heart rate, activity, milk yield; AI-assisted codegen with partial manual integration.  
+- **Security / Smart Airlock Sensors**: motion, radar, mmWave; requires secure CI/CD integration.  
 
-**Performance**  
-- Accuracy: 1–3 cm (in-network), 5–20 cm (PPP-RTK global fallback)  
-- Multi-constellation: GPS, Galileo, GLONASS, BeiDou (L1/L5)  
-- Correction broadcast: Tile mesh primary, public WiFi secondary, cellular tertiary  
+> **All sensors**: auto-test scaffolds + SUC manifests + digital twin integration.
 
-**Functions**  
-- Anchor for badge positioning  
-- Precision agriculture (machinery guidance, yield mapping)  
-- Remediation compliance (landfill/brownfield monitoring)  
-- Emergency responder location  
-- Construction layout & robotics  
+### 2.3 HIL Devices
 
-**Cost & Revenue**  
-- Production cost: $38–85/m²  
-- Selling price: $250–450/m² (affiliate/infrastructure)  
-- Revenue model: Embedded in all hubs; external sales to precision ag/construction
+- **Communicator Badge v2**: voice, RTK, biosensing; Prism module-enabled.  
+- **Public WiFi Tiles**: connectivity and telemetry mesh; Prism module-enabled.  
+- **Smart Airlocks & Monitoring Tiles**: modular SUC-hosted drivers; test scaffolds auto-generated.  
 
-### 2.2 Public WiFi Tiles (Universal Connectivity Layer)
+---
 
-**Purpose**: Provide free, trusted rural/urban internet while serving as adoption vector.
+## 3. AI-Assisted Code Generation Pipeline
 
-**Physical Specs**  
-- Size: 300 × 300 mm snap-in tile  
-- WiFi: 6/6E (100–500 Mbps aggregate per cluster)  
-- Power: BIPV + piezo (zero-grid)  
-- Backhaul: Fiber where available; tile mesh relay otherwise  
+1. **Parse sensor C headers / .NET assemblies**.  
+2. Generate **partial classes**: clean separation of generated code vs. manual implementation.  
+3. Produce **auto-test stubs** for CI/CD integration.  
+4. Create **SUC manifests** for atomic, class-scoped updates.  
+5. Register modules in **Prism Host** for deployment to hubs.  
+6. Feed **digital twin simulations** for energy, water, and resilience modeling.
 
-**Access Model**  
-- Free in TerraWell centers, hubs, affiliate farms  
-- Priority QoS for badge holders  
-- Captive portal for non-members (time/session limits)  
+---
 
-**Security**  
-- WPA3-Enterprise  
-- Isolated guest network  
-- No MAC/ad-tech tracking  
+## 4. Digital Twin Integration
 
-**Cost & Revenue**  
-- Production cost: $40–90/unit  
-- Selling price: $150–350/unit  
-- Revenue model: Connectivity fees (affiliates), data services, premium roaming
+- Each hub, tile, and sensor type simulated virtually before deployment.  
+- Simulates **climate, energy, water, yield, and resilience scenarios**.  
+- Feeds back into **module deployment, SUC scheduling, and resource optimization**.  
+- Supports **rapid hub scale-up** by predicting bottlenecks and optimizing module selection.
 
-### 2.3 Basic Communicator Badge v1 (Personal Node)
+---
 
-**Purpose**: Simple, privacy-first personal interface for positioning, voice, and basic biosensing.
+## 5. Deployment Flow
 
-**Physical Specs**  
-- Size: 40–55 mm diameter × 10–14 mm thick; 22–38 g  
-- Shell: Matte ceramic (waste-derived)  
-- Power: Piezo + micro-BIPV + 80–150 mAh solid-state battery (7–14 days standby)  
+1. **Deploy Genesis OS** (modular microkernel with capability-based security) on hub.  
+2. Activate **TileMesh networking**.  
+3. Install **Prism Host** on hub.  
+4. Generate and register **AI-assisted modules** for all sensors and HIL devices.  
+5. Run **auto-test scaffolds** and validate via digital twin simulation.  
+6. Package modules with **SUC manifests** for atomic updates.  
+7. Deploy to hubs; monitor via TileMesh + Prism Host dashboards.
 
-**Core Capabilities**  
-- Voice activation (“Genesis” / “Terra” wake word)  
-- On-device small LLM (quantized, basic queries)  
-- Biosensing: HR/HRV (PPG), motion/fall (IMU)  
-- RTK GNSS positioning (tile mesh primary)  
-- Bone-conduction audio + haptic feedback  
-- Basic digital identity presentation (pseudonymous capability tokens)  
+---
 
-**Networking**  
-1. Tile mesh (mmWave/inductive, ultra-low power)  
-2. Public WiFi tiles  
-3. Cellular fallback  
+## 6. Financials & Timeline – Recompute Requested
 
-**Privacy**  
-- No continuous tracking  
-- Raw biosensor/location data local-only  
-- Presence shared as ephemeral tokens only  
+| Component | CAPEX / Hub ($M) | OPEX / Hub ($M/yr) | Timeline | Notes |
+|-----------|----------------|------------------|----------|------|
+| Prism Host / SUC Infrastructure | 0.8–1.5 | 0.15–0.3 | 1–2 months | Reusable across hubs |
+| Sensor Modules (AI codegen-ready) | 2–4 | 0.5–1 | 2–3 months | Partial classes + test scaffolds reduce dev time |
+| HIL Devices (Badges, WiFi, Smart Tiles) | 1–3 | 0.25–0.5 | 2–3 months | Supports early adoption |
+| Digital Twin Simulation Layer | 0.5–1 | 0.1–0.2 | 1–2 months | Supports resiliency, energy, water, yield modeling |
+| Integration / Deployment | – | – | 1–2 months | PRISM registration + SUC deployment |
 
-**Cost & Revenue**  
-- Production cost: $28–68/unit  
-- Retail price: $89–149 (Core v1)  
-- Revenue model: Affiliate/resident adoption, premium upgrades (future wallet/payments)
+**Network-Level Projection (per 10–20 hubs):**  
+- Total CAPEX: $50–80M  
+- Annual OPEX: $10–15M  
+- Payback: 6–12 months per hub via early data services, connectivity, and tile/kit deployment.  
+- Timeline: 3–6 months for initial operational hubs with AI-assisted codegen and SUC-enabled modules.
 
-## 3. Integrated Basic HIL Flow
+> **Action:** Recompute all financials and timelines based on digital twin outputs and AI-assisted module efficiencies before scaling.
 
-1. RTK tiles broadcast corrections → badge locks to cm-level position  
-2. Badge connects via tile mesh or WiFi tile → low-power, sovereign link  
-3. User speaks wake word → badge responds locally (basic queries)  
-4. Presence detected anonymously by nearby smart airlocks/walls (if present)  
-5. Data (position, vitals) stays on-device unless user consents to share  
+---
 
-## 4. Deployment & Revenue Strategy
+## 7. Strategic Notes
 
-**Rollout Sequence**  
-1. RTK GNSS tiles embedded in all hubs/roads (spatial grid)  
-2. Public WiFi tiles snapped into high-traffic areas (connectivity)  
-3. Basic badges distributed to affiliates/residents (human adoption)  
+- AI-assisted codegen enables **parallel development of sensors & modules**, reducing hub bootstrap time.  
+- Partial classes provide **safe separation** between generated code and manual enhancements.  
+- SUC manifests and Prism host support **atomic updates and hub-wide orchestration**.  
+- Digital twin simulation allows **resource, power, water, and resilience testing** prior to physical deployment.  
+- Supports **rapid expansion** with minimal human dependency once hub and module templates are mature.
 
-**Early Revenue**  
-- Affiliate perk: Free badges + WiFi → faster onboarding  
-- Data services: Remediation compliance, precision ag mapping ($50–200M/year early)  
-- Connectivity fees: Premium roaming for non-residents ($20–100M/year)  
-
-**Network-Wide Potential (2035)**  
-- 400–1,000 hubs + 8,000–25,000 affiliates  
-- Annual HIL revenue: $100–400M (early) → $1–4B (mature)  
-
-## 5. Viability & Strategic Notes
-
-This **Basic HIL v1** is deliberately minimal: it delivers the **highest early value** (positioning + connectivity + trust) with the **lowest complexity**. It creates immediate affiliate/resident perks (rural internet, precise ag tools), generates compliance/data revenue, and sets the foundation for future HIL v2 (walls, payments, advanced identity). By pruning advanced features, we reduce execution risk and accelerate adoption — critical for self-funding momentum.
-
-Ready for Phase 1–2 deployment.
+---
 
 **CC-BY-4.0**  
 Share & adapt freely with attribution to “Genesis Network concept – EarthStar Technologies” + source link.
