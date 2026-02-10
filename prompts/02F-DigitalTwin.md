@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Genesis Network – Prompt 02E – , Prism Modules & Full HIL Integration
-description: Consolidated Prompt 02E integrating tiles, kits, HIL, sensor modules, AI-assisted codegen, Prism host, SUC lifecycle, and OS architecture; includes request to recompute all financials and timelines (February 2026 baseline).
+title: Genesis Network – Prompt 02F – Digital Twin, Prism Modules & Full HIL Integration
+description: Consolidated Prompt 02F integrating tiles, kits, HIL, sensor modules, AI-assisted codegen, Prism host, SUC lifecycle, and OS architecture; includes request to recompute all financials and timelines (February 2026 baseline).
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 ---
 
-# Prompt 02E – Genesis Network Digital Twin & Modular Prism System
+# Prompt 02F – Genesis Network Digital Twin & Modular Prism System
 
 **© 2025–2026 EarthStar Technologies** – Licensed under CC BY 4.0  
 https://creativecommons.org/licenses/by/4.0/
